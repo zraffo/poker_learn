@@ -1,3 +1,8 @@
+import pandas as pd
+import glob
+import os
+
+
 def raw_data(path=''):
     """
     Open the raw data.
@@ -22,3 +27,6 @@ def prepare_holdem():
     Prepare the hold'em dataset.
     :return: Dictionary of tables.
     """
+    f_sep = os.path.sep
+    pdir = os.path.join('data', 'poker', 'nolimit', '*')
+    hands_f = glob.glob(pdir + f_sep + 'hdb')
