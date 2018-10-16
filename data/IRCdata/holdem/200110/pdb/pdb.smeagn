@@ -1,0 +1,985 @@
+smeagn    1001968212  8  4 f   -     -     -         1392    0    0 
+smeagn    1001968267  8  3 fQ  -     -     -         1392    0    0 
+smeagn    1002035933  3  3 f   -     -     -         1392    0    0 
+smeagn    1002035939  3  2 Bf  -     -     -         1392   10    0 
+smeagn    1002035945  3  1 Bf  -     -     -         1382    5    0 
+smeagn    1002035951  3  3 f   -     -     -         1377    0    0 
+smeagn    1002035956  3  2 B   -     -     -         1377   10   15 
+smeagn    1002035960  2  1 Bc  k     k     kc        1382   30   60 Qc 9s
+smeagn    1002035981  2  2 Bk  k     f     -         1412   10    0 
+smeagn    1002035999  2  1 Bcc kf    -     -         1402   20    0 
+smeagn    1002036010  2  2 Bf  -     -     -         1382   10    0 
+smeagn    1002036015  2  1 Bf  -     -     -         1372    5    0 
+smeagn    1002036019  2  2 B   -     -     -         1367   10   15 
+smeagn    1002036023  2  1 Bf  -     -     -         1372    5    0 
+smeagn    1002036025  2  2 B   -     -     -         1367   10   15 
+smeagn    1002036028  2  1 Bc  b     -     -         1372   20   30 
+smeagn    1002036037  2  2 B   -     -     -         1382   10   15 
+smeagn    1002036041  2  1 Bf  -     -     -         1387    5    0 
+smeagn    1002036043  2  2 B   -     -     -         1382   10   15 
+smeagn    1002036047  2  1 Bc  b     -     -         1387   20   30 
+smeagn    1002036055  2  2 Bc  c     b     -         1397   50   80 
+smeagn    1002036070  2  1 Bc  k     k     b         1427   30   40 
+smeagn    1002036085  2  2 B   -     -     -         1437   10   15 
+smeagn    1002036089  2  1 Bcc kc    kc    kc        1442   70    0 2h Kh
+smeagn    1002036108  2  2 Bk  k     k     f         1372   10    0 
+smeagn    1002036133  2  1 Bc  k     k     kf        1362   10    0 
+smeagn    1002036150  2  2 B   -     -     -         1352   10   15 
+smeagn    1002036153  2  1 Bc  kf    -     -         1357   10    0 
+smeagn    1002036163  2  2 Bk  k     k     b         1347   30   40 
+smeagn    1002036181  2  1 Br  -     -     -         1357   20   30 
+smeagn    1002036186  2  2 Bk  c     b     -         1367   40   60 
+smeagn    1002036204  2  1 Bf  -     -     -         1387    5    0 
+smeagn    1002036206  2  2 B   -     -     -         1382   10   15 
+smeagn    1002036210  2  1 Bf  -     -     -         1387    5    0 
+smeagn    1002036212  2  2 Bk  k     b     -         1382   30   40 
+smeagn    1002036229  2  1 Bf  -     -     -         1392    5    0 
+smeagn    1002036232  2  2 B   -     -     -         1387   10   15 
+smeagn    1002036235  2  1 Bc  bc    kc    kf        1392   50    0 
+smeagn    1002036259  2  2 Bk  b     -     -         1342   20   30 
+smeagn    1002036272  2  1 Bf  -     -     -         1352    5    0 
+smeagn    1002036274  2  2 Bf  -     -     -         1347   10    0 
+smeagn    1002036278  2  1 Bf  -     -     -         1337    5    0 
+smeagn    1002036280  2  2 B   -     -     -         1332   10   15 
+smeagn    1002036285  2  1 Bf  -     -     -         1337    5    0 
+smeagn    1002036287  2  2 B   -     -     -         1332   10   15 
+smeagn    1002036291  2  1 Bc  bc    k     kc        1337   50    0 Kd Ts
+smeagn    1002036309  2  2 B   -     -     -         1287   10   15 
+smeagn    1002036318  3  1 Bf  -     -     -         1292    5    0 
+smeagn    1002036326  3  3 c   k     b     -         1287   30   45 
+smeagn    1002036369  3  2 Bk  -     -     -         1302   10   20 
+smeagn    1002036394  2  1 BQ  -     -     -         1312    5    0 
+smeagn    1002052519  3  3 c   b     -     -         1307   20   35 
+smeagn    1002052526  3  2 Bk  kc    kf    -         1322   20    0 
+smeagn    1002052539  3  1 Bf  -     -     -         1302    5    0 
+smeagn    1002052543  3  3 f   -     -     -         1297    0    0 
+smeagn    1002052559  3  2 Bk  kc    kc    kf        1297   40    0 
+smeagn    1002052579  3  1 Bc  k     k     k         1257   10    0 6d 7h
+smeagn    1002052593  3  3 c   c     b     b         1247   60  105 
+smeagn    1002052612  3  2 Bk  c     f     -         1292   20    0 
+smeagn    1002052622  3  1 Bc  k     k     k         1272   10    0 7s Th
+smeagn    1002052639  3  3 f   -     -     -         1262    0    0 
+smeagn    1002052652  3  2 Bk  c     k     f         1262   20    0 
+smeagn    1002052666  3  1 Bf  -     -     -         1242    5    0 
+smeagn    1002052678  3  3 f   -     -     -         1237    0    0 
+smeagn    1002052693  3  2 B   -     -     -         1237   10   15 
+smeagn    1002052700  4  1 Bc  k     kf    -         1242   10    0 
+smeagn    1002052721  4  4 f   -     -     -         1232    0    0 
+smeagn    1002052724  3  2 f   -     -     -         1232    0    0 
+smeagn    1002052734  3  2 Bf  -     -     -         1232   10    0 
+smeagn    1002052739  3  1 Bf  -     -     -         1222    5    0 
+smeagn    1002052754  3  3 cc  c     b     -         1217   50   90 
+smeagn    1002052768  3  2 Bc  kc    kc    kr        1257   90  200 5h Ah
+smeagn    1002052793  3  1 Bc  kf    -     -         1367   10    0 
+smeagn    1002052811  3  3 c   k     c     k         1357   30    0 Th As
+smeagn    1002052879  2  2 Bk  k     k     b         1327   30    0 5d 2d
+smeagn    1002052893  2  1 Bc  k     k     b         1297   30   40 
+smeagn    1002052907  2  2 Bf  -     -     -         1307   10    0 
+smeagn    1002052911  2  1 Bc  k     b     b         1297   50  100 Th 9s
+smeagn    1002052928  2  2 Bk  b     k     k         1347   20    0 Th 7s
+smeagn    1002052945  2  1 Bc  k     b     -         1327   30   40 
+smeagn    1002052954  2  2 Bc  c     f     -         1337   30    0 
+smeagn    1002052963  2  1 Bc  b     -     -         1307   20   30 
+smeagn    1002052969  2  2 Bk  k     k     b         1317   30   40 
+smeagn    1002052980  2  1 Bc  kf    -     -         1327   10    0 
+smeagn    1002052988  2  2 Bk  k     k     k         1317   10    0 7s 4d
+smeagn    1002053000  3  1 Bc  kc    k     k         1307   20    0 8c 5s
+smeagn    1002053025  3  3 f   -     -     -         1287    0    0 
+smeagn    1002053031  3  2 Bc  c     c     b         1287   70  140 Kc 3c
+smeagn    1002053046  3  1 Bc  kc    kf    -         1357   20    0 
+smeagn    1002053065  3  3 cc  f     -     -         1337   20    0 
+smeagn    1002053076  3  2 Bc  kc    k     b         1317   50   85 
+smeagn    1002053092  3  1 Bf  -     -     -         1352    5    0 
+smeagn    1002053106  4  3 f   -     -     -         1347    0    0 
+smeagn    1002053110  4  2 Bk  k     c     f         1347   30    0 
+smeagn    1002053126  4  1 Bc  b     b     -         1317   40   60 
+smeagn    1002053137  4  4 c   b     c     k         1337   40   43 Qh 6h
+smeagn    1002053168  4  3 f   -     -     -         1340    0    0 
+smeagn    1002053199  4  2 Bc  c     f     -         1340   30    0 
+smeagn    1002053212  4  1 Bf  -     -     -         1310    5    0 
+smeagn    1002053224  4  4 c   b     -     -         1305   20   40 
+smeagn    1002053237  4  3 f   -     -     -         1325    0    0 
+smeagn    1002053254  4  2 Bc  c     r     f         1325   70    0 
+smeagn    1002053273  4  1 Bf  -     -     -         1255    5    0 
+smeagn    1002053307  4  4 c   c     rr    b         1250  130    0 Ks Kh
+smeagn    1002053335  4  3 f   -     -     -         1120    0    0 
+smeagn    1002053354  4  2 Bk  b     -     -         1120   20   30 
+smeagn    1002053370  4  1 Bf  -     -     -         1130    5    0 
+smeagn    1002053374  4  4 f   -     -     -         1125    0    0 
+smeagn    1002053396  4  3 f   -     -     -         1125    0    0 
+smeagn    1002053420  4  2 Br  c     r     b         1125   90    0 Qd Kc
+smeagn    1002053451  4  1 Br  bc    bc    b         1035  110  270 Ad 7d
+smeagn    1002053482  4  4 f   -     -     -         1195    0    0 
+smeagn    1002053501  4  3 f   -     -     Q         1195    0    0 
+smeagn    1002057180  7  6 f   -     -     -         1195    0    0 
+smeagn    1002057224  7  5 c   c     bc    kc        1195   80    0 Kh As
+smeagn    1002057294  8  4 f   -     -     -         1115    0    0 
+smeagn    1002057344  8  3 fQ  -     -     -         1115    0    0 
+smeagn    1002158278  2  2 Bc  c     c     c         1115   70    0 Js 4s
+smeagn    1002158295  2  1 Bc  bc    b     -         1045   50   80 
+smeagn    1002158311  2  2 Bf  -     -     -         1075   10    0 
+smeagn    1002158317  2  1 Brr b     -     -         1065   50   90 
+smeagn    1002158327  2  2 BQ  -     -     -         1105   10    0 
+smeagn    1002208884  8  7 c   c     b     b         1095   70  135 
+smeagn    1002208919  7  5 c   k     f     -         1160   10    0 
+smeagn    1002208951  7  4 f   -     -     -         1150    0    0 
+smeagn    1002208970  6  3 f   -     -     -         1150    0    0 
+smeagn    1002209020  6  2 Bk  kc    kc    kr        1150   80    0 Th 5h
+smeagn    1002209072  6  1 Bf  -     -     -         1070    5    0 
+smeagn    1002209113  6  6 c   b     bf    -         1065   40    0 
+smeagn    1002209171  5  5 f   -     -     -         1025    0    0 
+smeagn    1002209188  4  4 c   k     f     -         1025   10    0 
+smeagn    1002209212  3  2 Br  b     b     b         1015   80  190 Kd Qc
+smeagn    1002209229  3  1 Bf  -     -     -         1125    5    0 
+smeagn    1002209236  3  3 c   r     c     c         1120   70    0 8h Qc
+smeagn    1002209269  3  2 Br  c     f     -         1050   30    0 
+smeagn    1002209295  3  1 Bc  kc    kc    krc       1020  100    0 Qd 3d
+smeagn    1002209315  3  3 f   -     -     -          920    0    0 
+smeagn    1002209339  3  2 Bk  f     -     -          920   10    0 
+smeagn    1002209353  3  1 Bc  kf    -     -          910   20    0 
+smeagn    1002209362  3  3 r   b     -     -          890   30   70 
+smeagn    1002209373  3  2 Bk  f     -     -          930   10    0 
+smeagn    1002209383  3  1 Bf  -     -     -          920    5    0 
+smeagn    1002209387  3  3 f   -     -     -          915    0    0 
+smeagn    1002209405  3  2 Bk  b     -     -          915   20   30 
+smeagn    1002209419  3  1 Bf  -     -     -          925    5    0 
+smeagn    1002209429  3  3 c   c     b     b          920   60    0 3c Kd
+smeagn    1002209446  3  2 B   -     -     -          860   10   15 
+smeagn    1002209452  3  1 Bf  -     -     -          865    5    0 
+smeagn    1002209456  3  3 c   b     -     -          860   20   35 
+smeagn    1002209468  3  2 Br  bc    c     c          875   90    0 Qs 5s
+smeagn    1002209487  3  1 Bf  -     -     -          785    5    0 
+smeagn    1002209495  3  3 cc  c     f     -          780   30    0 
+smeagn    1002209515  3  2 Bk  k     b     -          750   30   40 
+smeagn    1002209530  3  1 Bcc kc    kr    b          760  100  300 9d 7d
+smeagn    1002209564  3  3 crc c     r     b          960  110  225 Ad 8d
+smeagn    1002209590  3  2 B   -     -     -         1075   10   15 
+smeagn    1002209596  3  1 Br  -     -     -         1080   20   30 
+smeagn    1002209599  3  3 f   -     -     -         1090    0    0 
+smeagn    1002209611  3  2 B   -     -     -         1090   10   15 
+smeagn    1002209614  3  1 Bf  -     -     -         1095    5    0 
+smeagn    1002209623  3  3 f   -     -     -         1090    0    0 
+smeagn    1002209627  3  2 Bk  k     kf    -         1090   10    0 
+smeagn    1002209638  3  1 Bc  kc    kc    k         1080   50    0 Tc Qd
+smeagn    1002209656  3  3 f   -     -     -         1030    0    0 
+smeagn    1002209660  3  2 B   -     -     -         1030   10   15 
+smeagn    1002209664  3  1 Bc  b     b     b         1035   60  120 2h Ts
+smeagn    1002209676  3  3 f   -     -     -         1095    0    0 
+smeagn    1002209701  3  2 B   -     -     -         1095   10   15 
+smeagn    1002209703  3  1 Bf  -     -     -         1100    5    0 
+smeagn    1002209716  3  3 r   k     k     c         1095   40    0 Kd Th
+smeagn    1002209728  3  2 Bc  kc    kc    kf        1055   50    0 
+smeagn    1002209751  3  1 Br  b     bf    -         1005   60    0 
+smeagn    1002209766  3  3 f   -     -     -          945    0    0 
+smeagn    1002209769  3  2 Bf  -     -     -          945   10    0 
+smeagn    1002209783  3  1 Bf  -     -     -          935    5    0 
+smeagn    1002209790  3  3 r   k     b     b          930   60  140 Ts 4s
+smeagn    1002209807  3  2 Bf  -     -     -         1010   10    0 
+smeagn    1002209825  3  1 Bf  -     -     -         1000    5    0 
+smeagn    1002209830  3  3 f   -     -     Q          995    0    0 
+smeagn    1002241465  6  1 Bc  k     bc    kc         995   80    0 Th Ac
+smeagn    1002241523  7  1 Bc  b     b     b          915   60    0 Jd Ts
+smeagn    1002241585  6  6 f   Q     -     -          855    0    0 
+smeagn    1002297353  3  2 Bk  b     -     -          745   20   35 
+smeagn    1002297364  2  1 Bc  kc    kc    kc         760   60    0 2h Tc
+smeagn    1002297383  2  2 Bk  k     b     -          700   30   40 
+smeagn    1002297401  2  1 Bc  k     k     b          710   30   40 
+smeagn    1002297411  2  2 Bc  c     c     r          720   90  180 2h 2c
+smeagn    1002297427  2  1 Bc  kc    kc    krc        810  100    0 Ad Jh
+smeagn    1002297450  2  2 Bk  c     f     -          710   20    0 
+smeagn    1002297463  2  1 Bf  -     -     -          690    5    0 
+smeagn    1002297467  2  2 Bk  b     -     -          685   20   30 
+smeagn    1002297476  2  1 Bc  k     k     b          695   30   40 
+smeagn    1002297490  2  2 Bk  r     k     f          705   30    0 
+smeagn    1002297510  2  1 Bc  kc    kc    k          675   40    0 Th 6s
+smeagn    1002297530  2  2 Bk  k     b     -          635   30   40 
+smeagn    1002297544  2  1 Br  -     -     -          645   20   30 
+smeagn    1002297549  2  2 Bc  c     c     c          655   70    0 7d 9c
+smeagn    1002297561  2  1 Bc  k     k     k          585   10   20 5c 4c
+smeagn    1002297577  2  2 B   -     -     -          595   10   15 
+smeagn    1002297582  2  1 Bc  kc    kf    -          600   20    0 
+smeagn    1002297595  2  2 B   -     -     -          580   10   15 
+smeagn    1002297597  2  1 Bc  b     b     b          585   60  100 
+smeagn    1002297610  2  2 Bk  k     f     -          625   10    0 
+smeagn    1002297618  2  1 Br  -     -     -          615   20   30 
+smeagn    1002297623  2  2 Bk  k     k     b          625   30   40 
+smeagn    1002297637  2  1 Bc  k     k     b          635   30   40 
+smeagn    1002297647  2  2 Bc  c     c     b          645   70  140 9d Jh
+smeagn    1002297664  2  1 Bc  k     kc    kf         715   30    0 
+smeagn    1002297680  2  2 Br  b     c     r          685   90  180 Js As
+smeagn    1002297699  2  1 Bc  b     -     -          775   20   30 
+smeagn    1002297707  2  2 Bf  -     -     -          785   10    0 
+smeagn    1002297712  2  1 Br  k     b     b          775   60  120 As 6d
+smeagn    1002297732  2  2 Bk  k     k     b          835   30   40 
+smeagn    1002297757  2  1 Bc  b     k     b          845   40   60 
+smeagn    1002297769  2  2 Bk  f     -     -          865   10    0 
+smeagn    1002297776  2  1 Bc  k     b     bf         855   50    0 
+smeagn    1002297789  2  2 Bk  r     rf    -          805   70    0 
+smeagn    1002297809  2  1 Bc  kc    kf    -          735   20    0 
+smeagn    1002297826  2  2 B   -     -     -          715   10   15 
+smeagn    1002297829  2  1 Bcc kc    kc    k          720   50    0 4c Qc
+smeagn    1002297847  2  2 Bk  k     c     k          670   30   30 Qd 2c
+smeagn    1002297865  2  1 Bc  b     -     -          670   20   30 
+smeagn    1002297877  2  2 Bk  k     k     b          680   30   40 
+smeagn    1002297890  2  1 Bc  k     k     b          690   30   40 
+smeagn    1002297905  2  2 Bk  f     -     -          700   10    0 
+smeagn    1002297914  2  1 Bcc kc    k     b          690   50  100 7s 5s
+smeagn    1002297930  2  2 Bc  b     -     -          740   30   50 
+smeagn    1002297945  2  1 Bcc kc    kc    kc         760   70    0 Kh Ks
+smeagn    1002297963  2  2 B   -     -     -          690   10   15 
+smeagn    1002297968  2  1 Bcc b     b     b          695   70    0 Tc 6s
+smeagn    1002297981  2  2 B   -     -     -          625   10   15 
+smeagn    1002297986  2  1 Bcc b     k     k          630   30    0 3d 7s
+smeagn    1002298001  2  2 B   -     -     -          600   10   15 
+smeagn    1002298005  2  1 Bc  b     -     -          605   20   30 
+smeagn    1002298014  2  2 B   -     -     -          615   10   15 
+smeagn    1002298017  2  1 Bc  br    br    b          620  120  120 Kc 5c
+smeagn    1002298036  2  2 Bk  b     k     c          620   40    0 5s 8d
+smeagn    1002298056  2  1 Bc  kf    -     -          580   10    0 
+smeagn    1002298065  2  2 B   -     -     -          570   10   15 
+smeagn    1002298068  2  1 Bf  -     -     -          575    5    0 
+smeagn    1002298070  2  2 B   -     -     -          570   10   15 
+smeagn    1002298073  2  1 Bc  b     b     b          575   60    0 5c 4s
+smeagn    1002298087  2  2 Bk  k     k     b          515   30   40 
+smeagn    1002298104  2  1 Bc  kc    k     b          525   40   60 
+smeagn    1002298122  2  2 Bk  c     c     r          545   80    0 Ts 7h
+smeagn    1002298138  2  1 Bc  kc    kf    -          465   20    0 
+smeagn    1002298154  2  2 Bk  k     k     b          445   30   40 
+smeagn    1002298170  2  1 Bf  -     -     -          455    5    0 
+smeagn    1002298172  2  2 Brc c     r     b          450  110  220 As 9s
+smeagn    1002298189  2  1 Bcc kc    kc    b          560   70    0 Kd 6s
+smeagn    1002298210  2  2 Bc  f     -     -          490   20    0 
+smeagn    1002298223  2  1 Bc  b     -     -          470   20   30 
+smeagn    1002298228  2  2 Br  k     b     -          480   40   60 
+smeagn    1002298241  2  1 Br  -     -     -          500   20   30 
+smeagn    1002298243  2  2 Bk  b     b     -          510   40   60 
+smeagn    1002298254  2  1 Bc  kc    kf    -          530   20    0 
+smeagn    1002298266  2  2 Bc  c     c     c          510   70    0 9s Jd
+smeagn    1002298278  2  1 Bc  kc    kc    kf         440   40    0 
+smeagn    1002298298  2  2 Br  k     b     k          400   40   80 Ah 8h
+smeagn    1002298313  2  1 Bc  b     -     -          440   20   30 
+smeagn    1002298322  2  2 Bc  c     b     b          450   70  120 
+smeagn    1002298339  2  1 Bc  k     b     k          500   30   60 3d Jc
+smeagn    1002298353  2  2 Bk  c     r     c          530   80    0 9c Th
+smeagn    1002298368  2  1 Br  -     -     -          450   20   30 
+smeagn    1002298374  2  2 Bk  c     c     k          460   40    0 5s 5c
+smeagn    1002298386  2  1 Bc  kc    kf    -          420   20    0 
+smeagn    1002298400  2  2 Bk  k     b     b          400   50  100 3h Jh
+smeagn    1002298416  2  1 Bc  b     -     -          450   20   30 
+smeagn    1002298424  2  2 Bc  f     -     -          460   20    0 
+smeagn    1002298431  2  1 Br  b     k     k          440   30    0 4h Kc
+smeagn    1002298443  2  2 B   -     -     -          410   10   15 
+smeagn    1002298449  2  1 Bc  k     kf    -          415   10    0 
+smeagn    1002298459  2  2 Bk  c     c     k          405   40   80 Js 4s
+smeagn    1002298472  2  1 Bc  k     k     kf         445   10    0 
+smeagn    1002298492  2  2 Bf  -     -     -          435   10    0 
+smeagn    1002298496  2  1 Bc  b     b     b          425   60    0 Ad Qh
+smeagn    1002298506  2  2 Bk  k     k     b          365   30   40 
+smeagn    1002298524  2  1 Bc  b     -     -          375   20   30 
+smeagn    1002298529  2  2 Bf  -     -     -          385   10    0 
+smeagn    1002298533  2  1 Bc  b     -     -          375   20   30 
+smeagn    1002298540  2  2 B   -     -     -          385   10   15 
+smeagn    1002298542  2  1 BQ  -     -     -          390    5    0 
+smeagn    1002386063  4  3 f   -     -     -          477    0    0 
+smeagn    1002386076  4  2 Bc  kc    kf    -          477   30    0 
+smeagn    1002386108  3  1 Bf  -     -     -          447    5    0 
+smeagn    1002386129  3  3 f   -     -     -          442    0    0 
+smeagn    1002386152  3  2 Bk  f     -     -          442   10    0 
+smeagn    1002386163  3  1 Bcc kc    kc    krr        432  130    0 7s Qh
+smeagn    1002386202  3  3 cc  c     c     r          302   90    0 Kd 8c
+smeagn    1002386227  3  2 Bk  k     c     f          212   30    0 
+smeagn    1002386257  3  1 Bc  kf    -     -          182   10    0 
+smeagn    1002386286  3  3 cc  c     k     r          172   70  210 7h Ah
+smeagn    1002386345  3  2 Bk  b     b     bf         312   60    0 
+smeagn    1002386387  3  1 Bc  k     b     -          252   30   40 
+smeagn    1002386403  3  3 c   b     bc    c          262   80  165 9d 7d
+smeagn    1002386438  3  2 Bk  c     c     r          347   80    0 5d 6h
+smeagn    1002386466  3  1 Bc  b     kf    -          267   20    0 
+smeagn    1002386494  3  3 c   b     -     -          247   20   35 
+smeagn    1002386505  3  2 Bk  k     k     k          262   10   20 Qs 2s
+smeagn    1002386526  3  1 Bc  k     b     -          272   30   40 
+smeagn    1002386549  3  3 c   c     c     c          282   60    0 5c Ks
+smeagn    1002386573  3  2 Bk  c     k     k          222   20   40 Ts 7c
+smeagn    1002386600  3  1 Brc kf    -     -          242   30    0 
+smeagn    1002386621  3  3 c   c     c     c          212   60    0 7s Ac
+smeagn    1002386648  3  2 Bk  k     k     b          152   30   50 
+smeagn    1002386679  3  1 Bc  b     b     -          172   40   70 
+smeagn    1002386704  3  3 r   -     -     -          202   20   35 
+smeagn    1002386714  3  2 Bk  k     c     r          217   70  140 7c Qd
+smeagn    1002386742  3  1 Bc  b     b     -          287   40   70 
+smeagn    1002386768  3  3 r   c     f     -          317   30    0 
+smeagn    1002386796  3  2 Br  c     c     r          287   90  180 4h 4d
+smeagn    1002386823  3  1 Bc  bc    kf    -          377   30    0 
+smeagn    1002386846  3  3 f   -     -     -          347    0    0 
+smeagn    1002386860  3  2 Bk  k     b     c          347   50  100 3h Qs
+smeagn    1002386885  3  1 Br  b     kc    kc         397   80    0 4d 4s
+smeagn    1002386918  3  3 f   -     -     -          317    0    0 
+smeagn    1002386933  3  2 Br  b     b     f          317   50    0 
+smeagn    1002386961  3  1 Bc  kf    -     -          267   10    0 
+smeagn    1002386999  4  3 f   Q     -     -          257    0    0 
+smeagn    1002690554  4  2 Bc  kf    -     -          512   20    0 
+smeagn    1002690564  4  1 Br  -     -     -          492   20   30 
+smeagn    1002690569  4  4 f   -     -     -          502    0    0 
+smeagn    1002690572  4  3 cc  b     -     -          502   30   80 
+smeagn    1002690584  4  2 Bf  -     -     -          552   10    0 
+smeagn    1002690599  4  1 Bc  k     b     b          542   50   80 
+smeagn    1002690610  4  4 f   -     -     -          572    0    0 
+smeagn    1002690614  4  3 f   -     -     -          572    0    0 
+smeagn    1002690636  4  2 Bf  -     -     -          572   10    0 
+smeagn    1002690641  4  1 Bc  k     k     b          562   30   40 
+smeagn    1002690650  4  4 f   -     -     -          572    0    0 
+smeagn    1002690664  4  3 c   k     k     f          572   10    0 
+smeagn    1002690683  4  2 Bf  -     -     -          562   10    0 
+smeagn    1002690702  4  1 Bc  b     -     -          552   20   40 
+smeagn    1002690713  4  4 c   k     c     k          572   30    0 Td Jd
+smeagn    1002690732  4  3 f   -     -     -          542    0    0 
+smeagn    1002690751  4  2 Bf  -     -     -          542   10    0 
+smeagn    1002690763  4  1 Bc  b     -     -          532   20   30 
+smeagn    1002690770  4  4 cc  c     f     -          542   30    0 
+smeagn    1002690782  4  3 r   c     f     -          512   30    0 
+smeagn    1002690793  4  2 Bk  kc    kf    -          482   20    0 
+smeagn    1002690815  4  1 Bc  k     b     -          462   30   40 
+smeagn    1002690825  5  5 c   c     r     -          472   60  130 
+smeagn    1002690852  4  3 crc kc    b     b          542   90    0 Ad Kd
+smeagn    1002690880  4  3 f   -     -     -          452    0    0 
+smeagn    1002690892  4  2 Bc  kc    kf    -          452   30    0 
+smeagn    1002690903  4  1 Bf  -     -     -          422    5    0 
+smeagn    1002690926  4  4 f   -     -     -          417    0    0 
+smeagn    1002690940  4  3 f   -     -     -          417    0    0 
+smeagn    1002690956  4  2 Bk  b     b     b          417   60  110 
+smeagn    1002690971  4  1 Bc  kf    -     -          467   10    0 
+smeagn    1002690980  4  4 r   k     c     c          457   60  130 4h As
+smeagn    1002690995  4  3 f   -     -     -          527    0    0 
+smeagn    1002691010  4  2 B   -     -     -          527   10   15 
+smeagn    1002691015  4  1 Br  bc    kf    -          532   50    0 
+smeagn    1002691026  4  4 r   c     c     c          482   70    0 Jc Ah
+smeagn    1002691040  4  3 f   -     -     -          412    0    0 
+smeagn    1002691047  4  2 Bf  -     -     -          412   10    0 
+smeagn    1002691064  4  1 Bc  kf    -     -          402   10    0 
+smeagn    1002691079  4  4 f   -     -     -          392    0    0 
+smeagn    1002691089  4  3 f   -     -     -          392    0    0 
+smeagn    1002691096  4  2 Bk  k     f     -          392   10    0 
+smeagn    1002691112  5  1 Bc  b     -     -          382   20   30 
+smeagn    1002691130  5  5 c   k     b     -          392   30   45 
+smeagn    1002691145  5  4 c   b     r     r          407  100    0 Jc 2d
+smeagn    1002691172  5  3 f   -     -     -          307    0    0 
+smeagn    1002691192  5  2 Bf  -     -     -          307   10    0 
+smeagn    1002691216  5  1 Bc  b     -     -          297   20   30 
+smeagn    1002691226  5  5 f   -     -     -          307    0    0 
+smeagn    1002691253  5  4 f   -     -     -          307    0    0 
+smeagn    1002691276  5  3 f   -     -     -          307    0    0 
+smeagn    1002691307  5  2 Bk  b     kf    -          307   20    0 
+smeagn    1002691327  5  1 Bc  kf    -     -          287   20    0 
+smeagn    1002691342  5  5 c   b     k     rr         267  100    0 Ts 9c
+smeagn    1002691367  5  4 r   b     b     b          167   70  180 
+smeagn    1002691392  5  3 f   -     -     -          277    0    0 
+smeagn    1002691419  5  2 Bf  -     -     -          277   10    0 
+smeagn    1002691426  5  1 Bf  -     -     -          267    5    0 
+smeagn    1002691431  5  5 f   -     -     -          262    0    0 
+smeagn    1002691450  5  4 f   -     -     -          262    0    0 
+smeagn    1002691468  5  3 c   b     b     b          262   60  160 
+smeagn    1002691491  5  2 Bc  c     c     c          362   70  170 8c Tc
+smeagn    1002691508  5  1 Bc  k     k     k          462   10    0 4h 8s
+smeagn    1002691530  5  5 f   -     -     -          452    0    0 
+smeagn    1002691560  6  5 f   Q     -     -          452    0    0 
+smeagn    1002858146  5  4 c   k     k     b          432   30   50 
+smeagn    1002858175  4  3 r   -     -     -          452   20   35 
+smeagn    1002858181  5  2 B   -     -     -          467   10   15 
+smeagn    1002858187  5  1 Br  k     k     k          472   20    0 4s Qd
+smeagn    1002858200  5  5 r   b     -     -          452   30   55 
+smeagn    1002858210  5  4 f   -     -     -          477    0    0 
+smeagn    1002858214  5  3 rc  bc    k     k          477   50    0 8c 5d
+smeagn    1002858226  5  2 B   -     -     -          427   10   15 
+smeagn    1002858232  5  1 Bc  k     k     b          432   30   40 
+smeagn    1002858244  4  4 c   b     -     -          442   20   35 
+smeagn    1002858251  3  2 B   -     -     -          457   10   15 
+smeagn    1002858254  3  1 Bc  k     k     b          462   30   40 
+smeagn    1002858264  3  3 r   -     -     -          472   20   35 
+smeagn    1002858269  3  2 B   -     -     -          487   10   15 
+smeagn    1002858273  3  1 Br  -     -     -          492   20   30 
+smeagn    1002858285  4  4 r   b     b     -          502   50   95 
+smeagn    1002858314  3  3 c   b     -     -          547   20   35 
+smeagn    1002858324  4  2 Bk  k     k     k          562   10    0 Js 8h
+smeagn    1002858349  5  1 Bf  -     -     -          552    5    0 
+smeagn    1002858394  6  6 c   b     b     r          547   80    0 Kh 9s
+smeagn    1002858421  5  4 f   Q     -     -          467    0    0 
+smeagn    1002918530  7  4 c   f     -     -          532   10    0 
+smeagn    1002918561  7  3 c   k     k     b          522   30   65 
+smeagn    1002918615  8  2 Bc  kc    kc    kr         557   90  215 
+smeagn    1002918664  8  1 Bf  -     -     -          682    5    0 
+smeagn    1002918752  9  3 Q   -     -     -          677    0    0 
+smeagn    1003256683  5  5 f   -     -     -          677    0    0 
+smeagn    1003256727  5  4 c   b     -     -          677   20   40 
+smeagn    1003256752  5  3 c   b     b     b          697   60  105 
+smeagn    1003256781  5  2 Bk  k     b     -          742   30   55 
+smeagn    1003256812  5  1 Bc  b     b     b          767   60    0 3h 4c
+smeagn    1003256834  5  5 f   Q     -     -          707    0    0 
+smeagn    1003390797  7  4 cc  k     f     -          707   20    0 
+smeagn    1003390831  7  3 f   -     -     -          687    0    0 
+smeagn    1003390898  8  2 Bk  k     k     k          687   10    0 Th 6d
+smeagn    1003390959  8  1 Bc  kf    -     -          677   10    0 
+smeagn    1003391050  8  8 f   -     -     -          667    0    0 
+smeagn    1003391091  8  6 Q   -     -     -          667    0    0 
+smeagn    1003448795  5  4 c   k     b     c          667   50    0 Ad Jh
+smeagn    1003448836  6  3 cc  kc    kf    -          617   30    0 
+smeagn    1003448894  6  2 Bk  b     b     b          587   60    0 6c Ad
+smeagn    1003448959  6  1 Bc  kc    kf    -          527   20    0 
+smeagn    1003448994  6  6 f   -     -     -          507    0    0 
+smeagn    1003449005  6  5 f   -     -     -          507    0    0 
+smeagn    1003449029  6  4 f   -     -     -          507    0    0 
+smeagn    1003449080  6  3 c   k     kf    -          507   10    0 
+smeagn    1003449155  6  2 Bf  -     -     -          497   10    0 
+smeagn    1003449205  6  1 Bc  b     -     -          487   20   30 
+smeagn    1003449226  6  6 c   c     b     b          497   60    0 7c Kh
+smeagn    1003449284  6  5 c   b     -     -          437   20   35 
+smeagn    1003449306  6  4 f   -     -     -          452    0    0 
+smeagn    1003449356  6  3 c   b     b     b          452   60    0 Th Ac
+smeagn    1003449388  5  2 Br  b     bc    k          392   70    0 Ks 8s
+smeagn    1003449455  6  1 Bcf -     -     -          322   10    0 
+smeagn    1003449500  6  6 f   -     -     -          312    0    0 
+smeagn    1003449551  6  5 f   -     -     -          312    0    0 
+smeagn    1003449620  6  4 f   -     -     -          312    0    0 
+smeagn    1003449665  7  3 cc  b     bc    k          312   70    0 9d 9c
+smeagn    1003449718  7  2 Bk  k     k     k          242   10    0 Js Ks
+smeagn    1003449756  6  1 Bc  kQ    -     -          232   10    0 
+smeagn    1003464634  5  2 Bf  -     -     -          222   10    0 
+smeagn    1003464681  6  1 Bc  kc    kf    -          212   20    0 
+smeagn    1003464777  6  6 c   c     c     c          192   60    0 8c 3c
+smeagn    1003464841  5  4 f   -     -     -          132    0    0 
+smeagn    1003464899  4  3 f   -     -     -          132    0    0 
+smeagn    1003464938  4  2 Bk  k     c     c          132   50  110 3h Ad
+smeagn    1003464965  4  1 Bc  k     kf    -          192   10    0 
+smeagn    1003465004  4  4 f   -     -     -          182    0    0 
+smeagn    1003465033  4  3 cc  f     -     -          182   20    0 
+smeagn    1003465084  4  2 Bc  kf    -     -          162   20    0 
+smeagn    1003465111  4  1 Bcc kc    kr    b          142   90  230 As 7h
+smeagn    1003465143  4  4 f   -     -     -          282    0    0 
+smeagn    1003465175  4  3 cc  k     c     f          282   40    0 
+smeagn    1003465224  4  2 Bk  f     -     -          242   10    0 
+smeagn    1003465275  5  1 Br  b     b     b          232   70  180 
+smeagn    1003465355  5  5 f   Q     -     -          342    0    0 
+smeagn    1003596657  4  2 Bf  -     -     -          382   10    0 
+smeagn    1003596667  4  1 Bc  kf    -     -          372   10    0 
+smeagn    1003596690  4  4 f   -     -     -          362    0    0 
+smeagn    1003596703  4  3 cc  c     c     r          362   90  240 Ah 3d
+smeagn    1003596722  4  2 Bk  b     -     -          512   20   40 
+smeagn    1003596735  4  1 Bc  kf    -     -          532   20    0 
+smeagn    1003596748  4  4 c   k     k     k          512   10    0 3d Qc
+smeagn    1003596772  4  3 cc  k     kf    -          502   20    0 
+smeagn    1003596805  4  2 Bc  k     k     bc         482   60    0 2h Ac
+smeagn    1003596844  4  1 Bf  -     -     -          422    5    0 
+smeagn    1003596883  4  4 cc  rc    r     b          417  110    0 2h 2c
+smeagn    1003596924  4  3 cc  c     r     b          307   90  190 
+smeagn    1003596957  4  2 Bf  -     -     -          407   10    0 
+smeagn    1003597003  4  1 Bc  k     b     b          397   50  100 
+smeagn    1003597052  4  4 cc  b     c     b          447   70  200 
+smeagn    1003597099  4  3 c   k     b     b          577   50   85 
+smeagn    1003597119  4  2 Bk  k     k     kf         612   10    0 
+smeagn    1003597154  4  1 Bf  -     -     -          602    5    0 
+smeagn    1003597177  4  4 r   c     c     c          597   70    0 Kd Ah
+smeagn    1003597202  4  3 f   -     -     -          527    0    0 
+smeagn    1003597220  4  2 Bk  kf    -     -          527   10    0 
+smeagn    1003597243  4  1 Br  b     bf    -          517   50    0 
+smeagn    1003597277  4  4 c   b     b     b          467   60  130 
+smeagn    1003597311  4  3 c   b     b     f          537   40    0 
+smeagn    1003597340  3  2 Bk  b     b     -          497   40   65 
+smeagn    1003597353  3  1 Bc  b     -     -          522   20   30 
+smeagn    1003597361  3  3 cc  c     f     -          532   30    0 
+smeagn    1003597375  3  2 B   -     -     -          502   10   15 
+smeagn    1003597381  3  1 Bcf -     -     -          507   10    0 
+smeagn    1003597403  3  3 rc  c     r     -          497   80  150 
+smeagn    1003597420  3  2 Bf  -     -     -          567   10    0 
+smeagn    1003597428  3  1 Bf  -     -     -          557    5    0 
+smeagn    1003597433  3  3 cf  Q     -     -          552   10    0 
+smeagn    1003795427  7  7 c   c     c     f          542   40    0 
+smeagn    1003795470  7  6 f   -     -     -          502    0    0 
+smeagn    1003795543  7  3 Q   -     -     -          502    0    0 
+smeagn    1003809087  5  3 f   -     -     -          502    0    0 
+smeagn    1003809124  5  2 Bf  -     -     -          502   10    0 
+smeagn    1003809157  5  1 Bcc kc    kf    -          492   40    0 
+smeagn    1003809211  5  5 f   -     -     -          452    0    0 
+smeagn    1003809250  5  4 f   -     -     -          452    0    0 
+smeagn    1003809292  5  3 f   -     -     -          452    0    0 
+smeagn    1003809327  5  2 Bk  k     f     -          452   10    0 
+smeagn    1003809348  5  1 Bc  k     kf    -          442   10    0 
+smeagn    1003809373  5  5 f   -     -     -          432    0    0 
+smeagn    1003809391  5  4 c   k     f     -          432   10    0 
+smeagn    1003809416  5  3 f   -     -     -          422    0    0 
+smeagn    1003809446  5  2 Bk  k     f     -          422   10    0 
+smeagn    1003809468  5  1 Bf  -     -     -          412    5    0 
+smeagn    1003809499  5  5 f   -     -     -          407    0    0 
+smeagn    1003809520  5  4 f   -     -     -          407    0    0 
+smeagn    1003809545  5  3 f   -     -     -          407    0    0 
+smeagn    1003809560  5  2 Bf  -     -     -          407   10    0 
+smeagn    1003809567  4  1 Bf  -     -     -          397    5    0 
+smeagn    1003809573  4  4 f   -     -     -          392    0    0 
+smeagn    1003809589  4  3 f   -     -     -          392    0    0 
+smeagn    1003809618  4  2 Bf  -     -     -          392   10    0 
+smeagn    1003809668  4  1 Bf  -     -     -          382    5    0 
+smeagn    1003809682  4  4 crc c     c     c          377   90  185 9c 9s
+smeagn    1003809701  4  3 f   -     -     -          472    0    0 
+smeagn    1003809719  4  2 Bf  -     -     -          472   10    0 
+smeagn    1003809727  4  1 Bf  -     -     -          462    5    0 
+smeagn    1003809754  4  4 f   -     -     -          457    0    0 
+smeagn    1003809773  4  3 f   -     -     -          457    0    0 
+smeagn    1003809800  4  2 Bk  k     c     f          457   30    0 
+smeagn    1003809856  4  1 Bf  -     -     -          427    5    0 
+smeagn    1003809892  5  5 cc  c     f     -          422   30    0 
+smeagn    1003809947  5  4 f   -     -     -          392    0    0 
+smeagn    1003810012  5  3 c   b     -     -          392   20   35 
+smeagn    1003810038  5  2 Bk  k     k     k          407   10    0 5h 4c
+smeagn    1003810079  5  1 Bf  -     -     -          397    5    0 
+smeagn    1003810105  5  5 c   r     b     b          392   70  145 Kc Qs
+smeagn    1003810151  5  4 f   -     -     -          467    0    0 
+smeagn    1003810178  5  3 c   kc    kc    br         467  100  215 Jc 9c
+smeagn    1003810216  6  2 Bf  -     -     -          582   10    0 
+smeagn    1003810259  6  1 Bcc bc    kc    kc         572  100    0 4c Qc
+smeagn    1003810343  6  6 f   -     -     -          472    0    0 
+smeagn    1003810356  6  5 cc  f     -     -          472   20    0 
+smeagn    1003810419  6  4 cc  cc    krc   brc        452  180    0 Ts 9h
+smeagn    1003810495  6  3 f   -     -     -          272    0    0 
+smeagn    1003810516  6  2 Bc  b     bc    kc         272   90    0 Kh 4s
+smeagn    1003810579  6  1 BfQ -     -     -          182    5    0 
+smeagn    1003814409  9  3 cc  f     -     -          177   20    0 
+smeagn    1003814481 10  2 Bk  kc    kc    b          157   60  215 Ks 5s
+smeagn    1003814567  9  1 Bf  -     -     -          312    5    0 
+smeagn    1003814668  8  8 c   b     c     f          307   40    0 
+smeagn    1003814734  8  7 c   f     -     -          267   10    0 
+smeagn    1003814849  7  5 c   c     c     c          257   70  190 6c 6d
+smeagn    1003814890  7  4 c   r     b     b          377   70  180 
+smeagn    1003814943  7  3 cc  kf    -     -          487   20    0 
+smeagn    1003814976  7  2 Bc  kc    kf    -          467   30    0 
+smeagn    1003815067  7  1 Bc  bc    kf    -          437   30    0 
+smeagn    1003815171  7  7 c   f     -     -          407   20    0 
+smeagn    1003815290  8  7 c   b     b     b          387   60  130 
+smeagn    1003815351  8  6 c   c     f     -          457   20    0 
+smeagn    1003815427  8  5 c   k     b     -          437   30   75 
+smeagn    1003815490  8  4 f   -     -     -          482    0    0 
+smeagn    1003815518  9  4 f   -     -     -          482    0    0 
+smeagn    1003815601  9  3 f   -     -     -          482    0    0 
+smeagn    1003815689  8  2 Bc  kf    Q     -          482   20    0 
+smeagn    1003867196  5  5 f   -     -     -          462    0    0 
+smeagn    1003867221  5  4 c   c     c     c          462   60    0 9d Kd
+smeagn    1003867237  5  3 c   c     b     br         402  100  315 Qh 9s
+smeagn    1003867285  5  2 Bk  kf    -     -          617   10    0 
+smeagn    1003867307  5  1 Bf  -     -     -          607    5    0 
+smeagn    1003867341  8  8 f   -     -     -          602    0    0 
+smeagn    1003867388  7  7 f   -     -     -          602    0    0 
+smeagn    1003867454  9  7 c   c     r     r          602  100  230 5s Ad
+smeagn    1003867491  9  6 c   k     k     kf         732   10    0 
+smeagn    1003867564  9  5 f   -     -     -          722    0    0 
+smeagn    1003867595  9  4 rc  kf    -     -          722   30    0 
+smeagn    1003867617  9  3 rc  bc    kc    k          692   70  185 Jc Jh
+smeagn    1003867676  8  2 Bk  kc    kc    kc         807   60  150 6c 6s
+smeagn    1003867719  7  1 Bc  kc    kc    kc         897   70    0 4s As
+smeagn    1003867808  7  7 c   f     -     -          827   10    0 
+smeagn    1003867862  7  7 f   -     -     -          817    0    0 
+smeagn    1003867900  7  6 f   -     -     -          817    0    0 
+smeagn    1003867932  7  5 fQ  -     -     -          817    0    0 
+smeagn    1003879653  3  3 c   b     -     -          817   20   35 
+smeagn    1003879682  3  2 B   -     -     -          832   10   15 
+smeagn    1003879686  3  1 Bf  -     -     -          837    5    0 
+smeagn    1003879701  3  3 c   b     b     b          832   60  130 6s 6c
+smeagn    1003879724  3  2 Bk  kf    -     -          902   10    0 
+smeagn    1003879735  3  1 Br  -     -     -          892   20   30 
+smeagn    1003879739  3  3 r   b     -     -          902   30   55 
+smeagn    1003879757  3  2 B   -     -     -          927   10   15 
+smeagn    1003879761  3  1 Bf  -     -     -          932    5    0 
+smeagn    1003879764  3  3 f   -     -     -          927    0    0 
+smeagn    1003879783  4  2 Bk  k     k     kf         927   10    0 
+smeagn    1003879812  4  1 Bc  kc    k     k          917   20   80 Ad 4h
+smeagn    1003879867  4  4 f   -     -     -          977    0    0 
+smeagn    1003879900  4  3 c   b     b     k          977   40    0 2s Qs
+smeagn    1003879934  5  2 Bk  cf    -     -          937   20    0 
+smeagn    1003880027  5  1 Bc  k     k     k          917   10   15 Kd 4d
+smeagn    1003880070  5  5 f   -     -     -          922    0    0 
+smeagn    1003880096  5  4 f   -     -     -          922    0    0 
+smeagn    1003880131  5  3 f   -     -     -          922    0    0 
+smeagn    1003880175  5  2 Bk  k     b     b          922   50  100 
+smeagn    1003880210  5  1 Bcc k     b     -          972   40  100 
+smeagn    1003880295  5  5 f   -     -     -         1032    0    0 
+smeagn    1003880312  5  4 f   -     -     -         1032    0    0 
+smeagn    1003880381  7  5 f   -     -     -         1032    0    0 
+smeagn    1003880425  7  4 f   -     -     -         1032    0    0 
+smeagn    1003880518  7  3 f   -     -     -         1032    0    0 
+smeagn    1003880571  7  2 Bk  kf    -     -         1032   10    0 
+smeagn    1003880586  7  1 Bc  kf    -     -         1022   10    0 
+smeagn    1003880686  7  7 f   -     -     -         1012    0    0 
+smeagn    1003880735  7  6 f   -     -     -         1012    0    0 
+smeagn    1003880767  7  5 f   -     -     -         1012    0    0 
+smeagn    1003880790  7  4 f   -     -     -         1012    0    0 
+smeagn    1003880836  8  4 c   cc    c     c         1012   70    0 Ac Jh
+smeagn    1003880892  8  3 c   k     f     -          942   10    0 
+smeagn    1003880936  9  2 Bk  b     b     -          932   40   65 
+smeagn    1003880971  9  1 Bf  -     -     -          957    5    0 
+smeagn    1003881036 10 10 f   -     -     -          952    0    0 
+smeagn    1003881098 10  9 f   -     -     -          952    0    0 
+smeagn    1003881163  9  8 f   -     -     -          952    0    0 
+smeagn    1003881223 10  7 f   -     -     -          952    0    0 
+smeagn    1003881290 10  6 f   -     -     -          952    0    0 
+smeagn    1003881356 10  6 f   -     -     -          952    0    0 
+smeagn    1003881395 10  4 f   -     -     -          952    0    0 
+smeagn    1003881481  9  3 f   -     -     -          952    0    0 
+smeagn    1003881515 10  2 BfQ -     -     -          952   10    0 
+smeagn    1003901218  7  2 Bk  kc    k     b          942   40  105 Th 3d
+smeagn    1003901252  6  1 Bf  -     -     -         1007    5    0 
+smeagn    1003901298  6  6 f   -     -     -         1002    0    0 
+smeagn    1003901321  6  5 r   kf    -     -         1002   20    0 
+smeagn    1003901352  6  4 f   -     -     -          982    0    0 
+smeagn    1003901385  6  3 f   -     -     -          982    0    0 
+smeagn    1003901424  6  2 Bf  -     -     -          982   10    0 
+smeagn    1003901444  6  1 Bc  kf    -     -          972   10    0 
+smeagn    1003901478  6  6 c   r     r     b          962  100  235 Tc Qc
+smeagn    1003901507  6  5 c   k     f     -         1097   10    0 
+smeagn    1003901535  7  5 f   -     -     -         1087    0    0 
+smeagn    1003901563  7  4 cc  kf    -     -         1087   20    0 
+smeagn    1003901591  7  3 f   -     -     -         1067    0    0 
+smeagn    1003901624  7  2 Bf  -     -     -         1067   10    0 
+smeagn    1003901670  8  1 Bf  -     -     -         1057    5    0 
+smeagn    1003901708  8  8 c   k     rc    c         1052   90    0 8s Th
+smeagn    1003901744  8  7 c   f     -     -          962   10    0 
+smeagn    1003901800  8  6 c   k     k     kf         952   10    0 
+smeagn    1003901843  8  5 cc  kcf   -     -          942   30    0 
+smeagn    1003901927  7  3 ccc kc    kf    -          912   50    0 
+smeagn    1003901965  7  2 Bk  b     bf    -          862   40    0 
+smeagn    1003901991  8  1 BfQ -     -     -          822    5    0 
+smeagn    1003989387  7  6 f   -     -     -          817    0    0 
+smeagn    1003989452  7  5 f   -     -     -          817    0    0 
+smeagn    1003989479  7  4 f   -     -     -          817    0    0 
+smeagn    1003989530  7  3 f   -     -     -          817    0    0 
+smeagn    1003989590  7  2 Bk  kc    kc    kc         817   60    0 Qc Ac
+smeagn    1003989669  6  1 Bc  kc    kr    kr         757  100  310 8h 4h
+smeagn    1003989722  6  6 c   f     -     -          967   10    0 
+smeagn    1003989758  6  5 f   -     -     -          957    0    0 
+smeagn    1003989790  6  4 f   -     -     -          957    0    0 
+smeagn    1003989820  6  3 f   -     -     -          957    0    0 
+smeagn    1003989855  6  2 Bf  -     -     -          957   10    0 
+smeagn    1003989906  6  1 Bc  kf    -     -          947   10    0 
+smeagn    1003989951  6  6 f   -     -     -          937    0    0 
+smeagn    1003989996  6  5 cf  -     -     -          937   10    0 
+smeagn    1003990027  6  4 f   -     -     -          927    0    0 
+smeagn    1003990074  7  3 f   -     -     -          927    0    0 
+smeagn    1003990119  7  2 Bk  kf    -     -          927   10    0 
+smeagn    1003990178  7  1 Bc  kf    -     -          917   10    0 
+smeagn    1003990218  7  7 c   f     -     -          907   10    0 
+smeagn    1003990260  7  6 f   -     -     -          897    0    0 
+smeagn    1003990299  7  5 fQ  -     -     -          897    0    0 
+smeagn    1004037073  3  3 f   -     -     -          897    0    0 
+smeagn    1004037098  3  2 Bk  b     k     k          897   20    0 8s Jh
+smeagn    1004037130  3  1 Bc  k     k     k          877   10    0 5d 9d
+smeagn    1004037150  3  3 rc  k     k     k          867   30    0 Ac Js
+smeagn    1004037176  3  2 Bk  k     k     k          837   10    0 Jc Qh
+smeagn    1004037204  3  1 Bc  b     bf    -          827   40    0 
+smeagn    1004037227  3  3 f   -     -     -          787    0    0 
+smeagn    1004037253  3  2 Bk  b     b     b          787   60  105 
+smeagn    1004037271  3  1 Bc  k     kf    -          832   10    0 
+smeagn    1004037285  3  3 r   b     b     -          822   50   90 
+smeagn    1004037302  3  2 Bk  kc    k     b          862   40   65 
+smeagn    1004037322  3  1 Br  b     b     b          887   70  140 Th Jh
+smeagn    1004037343  3  3 c   b     -     -          957   20   40 
+smeagn    1004037368  3  2 Bk  b     b     b          977   60  105 
+smeagn    1004037377  3  1 Bc  kf    -     -         1022   10    0 
+smeagn    1004037391  3  3 f   -     -     -         1012    0    0 
+smeagn    1004037419  3  2 Bk  f     -     -         1012   10    0 
+smeagn    1004037443  3  1 Bc  k     kc    k         1002   30    0 Js 7s
+smeagn    1004037464  3  3 f   -     -     -          972    0    0 
+smeagn    1004037476  3  2 Bk  b     -     -          972   20   35 
+smeagn    1004037487  3  1 Bc  b     k     b          987   40   60 
+smeagn    1004037519  3  3 r   b     -     -         1007   30   60 
+smeagn    1004037553  3  2 Bk  kc    krr   b         1037  120  125 Kh 3d
+smeagn    1004037579  3  1 Bf  -     -     -         1042    5    0 
+smeagn    1004037591  3  3 f   -     -     -         1037    0    0 
+smeagn    1004037609  3  2 Bf  -     -     -         1037   10    0 
+smeagn    1004037620  3  1 Bc  k     kf    -         1027   10    0 
+smeagn    1004037643  3  3 f   -     -     -         1017    0    0 
+smeagn    1004037666  3  2 Bk  k     k     k         1017   10    0 3d 4s
+smeagn    1004037683  3  1 Bc  kf    -     -         1007   10    0 
+smeagn    1004037713  3  3 f   -     -     -          997    0    0 
+smeagn    1004037734  3  2 Bf  -     -     -          997   10    0 
+smeagn    1004037756  4  1 Bc  kc    kf    -          987   20    0 
+smeagn    1004037772  4  4 f   -     -     -          967    0    0 
+smeagn    1004037784  4  3 f   -     -     -          967    0    0 
+smeagn    1004037802  4  2 Bk  b     b     b          967   60  105 
+smeagn    1004037821  4  1 Bf  -     -     -         1012    5    0 
+smeagn    1004037838  4  4 f   -     -     -         1007    0    0 
+smeagn    1004037904  4  3 fQ  -     -     -         1007    0    0 
+smeagn    1004042169  5  3 f   -     -     -         1007    0    0 
+smeagn    1004042216  6  2 Bf  -     -     -         1007   10    0 
+smeagn    1004042262  5  1 Bf  -     -     -          997    5    0 
+smeagn    1004042290  5  5 rc  rc    c     f          992   80    0 
+smeagn    1004042354  5  4 rr  rr    rr    rr         912  225  440 Ad Ah
+smeagn    1004042398  4  3 c   k     f     -         1127   10    0 
+smeagn    1004042435  6  2 Bc  k     kr    b         1117   80  205 2h Ac
+smeagn    1004042499  6  1 Bc  k     kf    -         1242   10    0 
+smeagn    1004042532  6  6 r   b     c     b         1232   70  165 Qs Qd
+smeagn    1004042569  6  5 f   -     -     -         1327    0    0 
+smeagn    1004042620  6  4 f   -     -     -         1327    0    0 
+smeagn    1004042655  6  3 f   -     -     -         1327    0    0 
+smeagn    1004042691  6  2 Bk  k     kf    -         1327   10    0 
+smeagn    1004042713  6  1 Bc  kc    bc    kc        1317   80  130 Td 5c
+smeagn    1004042770  6  6 c   f     -     -         1367   10    0 
+smeagn    1004042801  6  5 f   -     -     -         1357    0    0 
+smeagn    1004042820  6  4 f   -     -     -         1357    0    0 
+smeagn    1004042894  6  3 f   -     -     -         1357    0    0 
+smeagn    1004042923  6  2 Bk  k     k     b         1357   30    0 8h 7s
+smeagn    1004042966  6  1 Bf  -     -     -         1327    5    0 
+smeagn    1004043013  6  6 f   -     -     -         1322    0    0 
+smeagn    1004043080  6  5 f   -     -     -         1322    0    0 
+smeagn    1004043149  6  4 f   -     -     -         1322    0    0 
+smeagn    1004043190  5  2 Bk  k     k     b         1322   30   75 4h 6s
+smeagn    1004043237  6  1 Bf  -     -     -         1367    5    0 
+smeagn    1004043299  6  4 Q   -     -     -         1362    0    0 
+smeagn    1004044097  8  7 f   -     -     -         1362    0    0 
+smeagn    1004044139  8  6 f   -     -     -         1362    0    0 
+smeagn    1004044169  8  5 f   -     -     -         1362    0    0 
+smeagn    1004044181  8  4 f   -     -     -         1362    0    0 
+smeagn    1004044255  8  3 cc  bc    kc    kc        1362   80   88 As 2s
+smeagn    1004044305  8  2 Bc  kc    kf    -         1370   30    0 
+smeagn    1004044359  7  1 Bc  k     k     kf        1340   10    0 
+smeagn    1004044385  7  7 f   -     -     -         1330    0    0 
+smeagn    1004044421  7  6 c   k     b     c         1330   50    0 8d Qd
+smeagn    1004044484  7  5 f   -     -     -         1280    0    0 
+smeagn    1004044547  6  3 f   -     -     -         1280    0    0 
+smeagn    1004044572  6  2 Bc  bc    k     kc        1280   60    0 Kc 8s
+smeagn    1004044609  6  1 Bc  kc    kf    -         1220   30    0 
+smeagn    1004044634  6  6 fQ  -     -     -         1190    0    0 
+smeagn    1004053940  7  7 c   k     k     k         1190   20    0 9d Ad
+smeagn    1004053976  7  6 cc  f     -     -         1170   20    0 
+smeagn    1004054001  7  5 c   k     f     -         1150   10    0 
+smeagn    1004054031  8  4 f   -     -     -         1140    0    0 
+smeagn    1004054067  8  3 c   kf    -     -         1140   10    0 
+smeagn    1004054192  8  2 Bc  k     kf    -         1130   20    0 
+smeagn    1004054244  7  1 Bc  k     b     -         1110   30   50 
+smeagn    1004054326  6  6 r   c     r     -         1130   70  120 
+smeagn    1004054351  6  6 r   bc    f     -         1180   40    0 
+smeagn    1004054427  6  5 f   -     -     -         1140    0    0 
+smeagn    1004054479  6  4 c   kf    -     -         1140   10    0 
+smeagn    1004054522  7  3 cc  kf    -     -         1130   20    0 
+smeagn    1004054594  8  2 Bf  -     -     -         1110   10    0 
+smeagn    1004054642  8  1 Bc  kf    -     -         1100   10    0 
+smeagn    1004054682  8  8 c   k     f     -         1090   10    0 
+smeagn    1004054739  7  6 c   b     c     f         1080   40    0 
+smeagn    1004054773  7  5 f   -     -     -         1040    0    0 
+smeagn    1004054863  8  4 f   -     -     -         1040    0    0 
+smeagn    1004054915  7  2 Brc c     c     c         1040   90    0 Th As
+smeagn    1004054954  7  1 Bc  kf    Q     -          950   10    0 
+smeagn    1004114556  5  4 f   -     -     -          940    0    0 
+smeagn    1004114561  5  3 f   -     -     -          940    0    0 
+smeagn    1004114578  5  2 Bc  f     -     -          940   20    0 
+smeagn    1004114620  7  1 Bc  kf    -     -          920   10    0 
+smeagn    1004114666  6  6 c   k     k     f          910   10    0 
+smeagn    1004114717  6  5 r   b     -     -          900   30   55 
+smeagn    1004114728  6  4 r   b     b     b          925   70    0 Qd Ad
+smeagn    1004114767  6  3 f   -     -     -          855    0    0 
+smeagn    1004114793  7  2 Bc  c     f     -          855   40    0 
+smeagn    1004114828  8  1 Bf  -     -     -          815    5    0 
+smeagn    1004114848  8  8 c   c     c     c          810   70  200 Qh Js
+smeagn    1004114907  9  8 c   c     f     -          940   30    0 
+smeagn    1004114940  9  7 f   -     -     -          910    0    0 
+smeagn    1004115026  9  6 f   -     -     -          910    0    0 
+smeagn    1004115062 10  6 f   -     -     -          910    0    0 
+smeagn    1004115114 10  5 f   -     -     -          910    0    0 
+smeagn    1004115158 10  4 fQ  -     -     -          910    0    0 
+smeagn    1004202327  4  4 c   c     r     b          910   80  155 
+smeagn    1004202365  4  3 c   b     -     -          985   20   35 
+smeagn    1004202382  4  2 Bk  c     cc    kf        1000   60    0 
+smeagn    1004202442  4  1 Bc  k     k     b          940   30   60 
+smeagn    1004202469  4  4 f   -     -     -          970    0    0 
+smeagn    1004202484  4  3 cc  kc    kc    kr         970   90  205 Qs Qc
+smeagn    1004202516  4  2 Bk  c     c     c         1085   60    0 Js Kh
+smeagn    1004202545  4  1 Bc  kf    -     -         1025   10    0 
+smeagn    1004202579  4  4 cc  c     r     f         1015   80    0 
+smeagn    1004202605  4  3 f   -     -     -          935    0    0 
+smeagn    1004202623  4  2 Bk  b     k     k          935   20    0 Kh Th
+smeagn    1004202646  4  1 Bc  b     b     bc         915   80  160 6s Ac
+smeagn    1004202665  3  3 cc  c     c     c          995   70    0 4c 9c
+smeagn    1004202684  3  2 Bk  k     b     -          925   30   40 
+smeagn    1004202696  3  1 Bc  b     -     -          935   20   40 
+smeagn    1004202706  3  3 c   k     f     -          955   10    0 
+smeagn    1004202721  3  2 Bc  kf    -     -          945   20    0 
+smeagn    1004202737  3  1 Bcc kc    kf    -          925   30    0 
+smeagn    1004202749  3  3 cf  -     -     -          895   10    0 
+smeagn    1004202755  3  2 B   -     -     -          885   10   15 
+smeagn    1004202757  3  1 Bf  -     -     -          890    5    0 
+smeagn    1004202761  3  3 c   c     c     rc         885  100    0 Qs 3s
+smeagn    1004202782  3  2 B   -     -     -          785   10   15 
+smeagn    1004202790  3  1 Bc  k     k     kf         790   10    0 
+smeagn    1004202811  3  3 r   r     b     b          780   80    0 Qc Kd
+smeagn    1004202825  3  2 Bk  b     b     b          700   60  120 8h 2c
+smeagn    1004202840  3  1 Bc  k     k     k          760   10   20 9h Kh
+smeagn    1004202858  4  4 f   -     -     -          770    0    0 
+smeagn    1004202885  4  3 cc  c     c     r          770   90  250 Ks 3s
+smeagn    1004202919  4  2 Bf  -     -     -          930   10    0 
+smeagn    1004202951  4  1 Bf  -     -     -          920    5    0 
+smeagn    1004202970  4  4 f   -     -     -          915    0    0 
+smeagn    1004202988  4  3 f   -     -     -          915    0    0 
+smeagn    1004203004  4  2 Bc  c     c     c          915   70    0 9c Td
+smeagn    1004203022  4  1 Bf  -     -     -          845    5    0 
+smeagn    1004203047  3  3 f   -     -     -          840    0    0 
+smeagn    1004203064  4  3 f   -     -     -          840    0    0 
+smeagn    1004203093  4  2 B   -     -     -          840   10   15 
+smeagn    1004203114  5  1 Bf  -     -     -          845    5    0 
+smeagn    1004203145  5  5 f   -     -     -          840    0    0 
+smeagn    1004203181  5  4 c   c     f     -          840   30    0 
+smeagn    1004203213  5  3 f   -     -     -          810    0    0 
+smeagn    1004203247  6  2 Bk  kf    -     -          810   10    0 
+smeagn    1004203277  6  1 Bc  kf    Q     -          800   10    0 
+smeagn    1004223774  4  2 Bf  -     -     -          790   10    0 
+smeagn    1004223805  3  1 Bc  kc    k     b          780   40   80 
+smeagn    1004223836  3  3 f   -     -     -          820    0    0 
+smeagn    1004223840  3  2 B   -     -     -          820   10   15 
+smeagn    1004223856  3  1 Bcf -     -     -          825   10    0 
+smeagn    1004223863  3  3 f   -     -     -          815    0    0 
+smeagn    1004223885  3  2 Bk  k     kf    -          815   10    0 
+smeagn    1004223899  3  1 Bcc kc    kc    kc         805   70    0 Ad 7c
+smeagn    1004223919  3  3 f   -     -     -          735    0    0 
+smeagn    1004223925  3  2 B   -     -     -          735   10   15 
+smeagn    1004223929  2  1 Bc  kf    -     -          740   10    0 
+smeagn    1004223939  2  2 B   -     -     -          730   10   15 
+smeagn    1004223943  2  1 Bf  -     -     -          735    5    0 
+smeagn    1004223945  2  2 B   -     -     -          730   10   15 
+smeagn    1004223947  2  1 Bc  b     b     b          735   60  120 Td Tc
+smeagn    1004223957  2  2 Bk  c     c     b          795   60  120 9h Ad
+smeagn    1004223973  2  1 Bc  k     k     b          855   30   40 
+smeagn    1004223985  2  2 Bc  c     b     b          865   70    0 Kd Jc
+smeagn    1004224004  2  1 Bc  b     b     b          795   60    0 5d 7d
+smeagn    1004224018  2  2 Bk  k     f     -          735   10    0 
+smeagn    1004224031  2  1 Br  b     bf    -          725   50    0 
+smeagn    1004224043  2  2 B   -     -     -          675   10   15 
+smeagn    1004224047  2  1 Bc  k     k     k          680   10    0 2c Qh
+smeagn    1004224056  2  2 B   -     -     -          670   10   15 
+smeagn    1004224061  2  1 Bf  -     -     -          675    5    0 
+smeagn    1004224063  2  2 Bc  k     k     c          670   40    0 6d Ac
+smeagn    1004224076  2  1 Br  -     -     -          630   20   30 
+smeagn    1004224081  2  2 Bc  c     c     b          640   70  140 Th 9d
+smeagn    1004224096  2  1 Bc  k     kf    -          710   10    0 
+smeagn    1004224113  2  2 Bc  k     k     b          700   40   60 
+smeagn    1004224150  2  1 Br  -     -     -          720   20   30 
+smeagn    1004224152  2  2 Bf  -     -     -          730   10    0 
+smeagn    1004224157  2  1 Bc  b     b     b          720   60    0 8d 6s
+smeagn    1004224170  2  2 B   -     -     -          660   10   15 
+smeagn    1004224175  2  1 Bc  b     b     b          665   60    0 Js 5h
+smeagn    1004224186  2  2 B   -     -     -          605   10   15 
+smeagn    1004224194  2  1 Bf  -     -     -          610    5    0 
+smeagn    1004224196  2  2 Bk  k     k     k          605   10    0 3d Kh
+smeagn    1004224207  2  1 Bc  b     -     -          595   20   30 
+smeagn    1004224215  2  2 Br  b     k     k          605   30    0 4h 4d
+smeagn    1004224227  2  1 Bc  kf    -     -          575   10    0 
+smeagn    1004224238  2  2 Bk  c     c     c          565   60    0 Qs 7h
+smeagn    1004224254  2  1 Bc  k     b     -          505   30   40 
+smeagn    1004224265  2  2 B   -     -     -          515   10   15 
+smeagn    1004224268  2  1 Bc  k     k     b          520   30   40 
+smeagn    1004224279  2  2 Bk  k     r     b          530   70  120 
+smeagn    1004224300  2  1 Bf  -     -     -          580    5    0 
+smeagn    1004224302  2  2 B   -     -     -          575   10   15 
+smeagn    1004224305  2  1 Bc  k     kc    kc         580   50    0 8h Ac
+smeagn    1004224324  2  2 B   -     -     -          530   10   15 
+smeagn    1004224329  2  1 Bf  -     -     -          535    5    0 
+smeagn    1004224331  2  2 B   -     -     -          530   10   15 
+smeagn    1004224333  2  1 Bc  k     b     b          535   50   80 
+smeagn    1004224347  2  2 B   -     -     -          565   10   15 
+smeagn    1004224349  2  1 Bc  k     krr   kc         570  110    0 Js 8c
+smeagn    1004224372  2  2 Bk  c     c     r          460   80    0 2c Qc
+smeagn    1004224390  2  1 Bc  b     b     b          380   60  120 As 6h
+smeagn    1004224402  3  2 Bc  kc    kc    kf         440   50    0 
+smeagn    1004224425  3  1 Bc  k     kc    b          390   50   80 
+smeagn    1004224453  3  3 f   -     -     -          420    0    0 
+smeagn    1004224461  3  2 Bc  c     f     -          420   30    0 
+smeagn    1004224471  3  1 Bf  -     -     -          390    5    0 
+smeagn    1004224485  3  3 f   -     -     -          385    0    0 
+smeagn    1004224493  3  2 Bc  k     k     b          385   40   65 
+smeagn    1004224508  3  1 Bc  k     b     -          410   30   40 
+smeagn    1004224519  3  3 f   -     -     -          420    0    0 
+smeagn    1004224533  3  2 Bf  -     -     -          420   10    0 
+smeagn    1004224546  3  1 Bf  -     -     -          410    5    0 
+smeagn    1004224560  3  3 f   -     -     -          405    0    0 
+smeagn    1004224575  3  2 Bk  b     -     -          405   20   40 
+smeagn    1004224590  3  1 Bc  b     -     -          425   20   30 
+smeagn    1004224599  3  3 c   k     b     bc         435   70    0 4h Kc
+smeagn    1004224617  3  2 Bk  k     k     b          365   30   60 7d 6s
+smeagn    1004224633  3  1 Br  b     b     b          395   70  140 
+smeagn    1004224650  3  3 f   -     -     -          465    0    0 
+smeagn    1004224653  3  2 Br  bc    kc    kf         465   70    0 
+smeagn    1004224676  3  1 Bc  b     b     b          395   60  120 
+smeagn    1004224695  3  3 f   -     -     -          455    0    0 
+smeagn    1004224709  3  2 Bk  kf    -     -          455   10    0 
+smeagn    1004224743  3  1 Bcc b     b     -          445   50  100 
+smeagn    1004224759  3  3 f   -     -     -          495    0    0 
+smeagn    1004224772  3  2 Br  b     b     bf         495   70    0 
+smeagn    1004224800  3  1 Bcc kf    -     -          425   20    0 
+smeagn    1004224835  3  3 f   -     -     -          405    0    0 
+smeagn    1004224845  3  2 Bf  -     -     -          405   10    0 
+smeagn    1004224863  3  1 Bcc k     b     b          395   60  140 9h Ts
+smeagn    1004224889  3  3 c   c     c     r          475   80  170 Jd 4d
+smeagn    1004224918  3  2 Bf  -     -     -          565   10    0 
+smeagn    1004224938  3  1 Br  kf    -     -          555   20    0 
+smeagn    1004224955  3  3 c   b     b     b          535   60   65 9h Jh
+smeagn    1004224969  3  2 B   -     -     -          540   10   15 
+smeagn    1004224979  3  1 Bc  kf    -     -          545   10    0 
+smeagn    1004225000  3  3 r   -     -     -          535   20   35 
+smeagn    1004225003  3  2 Bc  k     b     -          550   40   80 
+smeagn    1004225015  3  1 Bc  kf    -     -          590   10    0 
+smeagn    1004225030  3  3 cc  k     k     f          580   20    0 
+smeagn    1004225045  3  2 Bc  k     b     b          560   60  120 
+smeagn    1004225073  4  1 Bc  b     -     -          620   20   40 
+smeagn    1004225089  4  4 r   -     -     -          640   20   35 
+smeagn    1004225095  4  3 f   -     -     -          655    0    0 
+smeagn    1004225099  4  2 Bc  kc    k     bc         655   70    0 5c 4c
+smeagn    1004225120  4  1 Bc  k     kf    -          585   10    0 
+smeagn    1004225144  3  3 c   c     f     -          575   20    0 
+smeagn    1004225160  3  2 B   -     -     -          555   10   15 
+smeagn    1004225163  3  1 Bc  kf    -     -          560   10    0 
+smeagn    1004225177  3  3 c   k     b     b          550   50  105 Qd Qs
+smeagn    1004225193  3  2 B   -     -     -          605   10   15 
+smeagn    1004225199  3  1 Brc kc    kf    -          610   40    0 
+smeagn    1004225217  3  3 f   -     -     -          570    0    0 
+smeagn    1004225231  3  2 Bk  b     b     -          570   40   60 
+smeagn    1004225248  3  1 Bc  b     -     -          590   20   30 
+smeagn    1004225257  3  3 f   -     -     -          600    0    0 
+smeagn    1004225262  3  2 Bk  k     b     k          600   30    0 4h Ks
+smeagn    1004225276  3  1 Bc  kc    kc    kf         570   40    0 
+smeagn    1004225296  3  3 c   b     -     -          530   20   40 
+smeagn    1004225316  3  2 Bk  k     c     f          550   30    0 
+smeagn    1004225330  3  1 Bc  kf    -     -          520   10    0 
+smeagn    1004225339  3  3 f   -     -     -          510    0    0 
+smeagn    1004225344  3  2 B   -     -     -          510   10   15 
+smeagn    1004225347  3  1 Bf  -     -     -          515    5    0 
+smeagn    1004225363  3  3 r   -     -     -          510   20   35 
+smeagn    1004225367  3  2 Bk  kf    -     -          525   10    0 
+smeagn    1004225388  3  1 Br  b     -     -          515   30   70 
+smeagn    1004225405  3  3 f   -     -     -          555    0    0 
+smeagn    1004225409  3  2 Bk  r     b     -          555   50   80 
+smeagn    1004225438  3  1 Br  b     bc    k          585   70    0 9h 6h
+smeagn    1004225468  2  2 B   -     -     -          515   10   15 
+smeagn    1004225480  2  1 Brr bc    kc    kc         520  100  200 8c Ad
+smeagn    1004225503  2  2 Bc  rc    c     r          620  110  220 Js 6s
+smeagn    1004225523  2  1 Bcc kc    -     -          730   22   44 6d 8d
+smeagn    1004394626  8  5 rc  bc    kf    -          637   50    0 
+smeagn    1004394708  9  4 cc  kc    kf    -          587   30    0 
+smeagn    1004394779  9  3 cc  cc    f     -          557   40    0 
+smeagn    1004394861  9  2 Bf  -     -     -          517   10    0 
+smeagn    1004394897 10  1 Br  kf    -     -          507   40    0 
+smeagn    1004394971 10 10 c   f     -     -          467   10    0 
+smeagn    1004395022 10  9 c   c     rr    b          457  120  410 
+smeagn    1004395093 10  8 rr  rr    b     -          747  100  275 
+smeagn    1004395140 10  7 f   -     -     -          922    0    0 
+smeagn    1004395199 10  6 fQ  -     -     -          922    0    0 
+smeagn    1004406478  9  9 r   f     -     -          922   40    0 
+smeagn    1004406570 10  9 c   r     c     bc         882  100    0 Ts Js
+smeagn    1004406672 10  8 f   -     -     -          782    0    0 
+smeagn    1004406739 10  7 rc  c     c     r          782  100  250 Kd 6d
+smeagn    1004406787 10  6 f   -     -     -          932    0    0 
+smeagn    1004406843 10  5 cc  k     k     bc         932   60    0 3s Ah
+smeagn    1004406924 10  4 cf  -     -     -          872   10    0 
+smeagn    1004407020 10  3 cc  cf    -     -          862   30    0 
+smeagn    1004407135 10  2 Bk  k     k     kf         832   10    0 
+smeagn    1004407294 10  1 BQ  -     -     -          822    5    0 
+smeagn    1004412065  9  5 f   -     -     -          817    0    0 
+smeagn    1004412106  8  3 cc  k     k     kf         817   20    0 
+smeagn    1004412154  8  2 Bk  k     k     b          797   30   40 
+smeagn    1004412185  8  1 Bc  kf    -     -          807   10    0 
+smeagn    1004412221  9  9 f   -     -     -          797    0    0 
+smeagn    1004412263  9  8 c   kc    k     f          797   20    0 
+smeagn    1004412314  9  7 c   c     cr    r          777  140  227 Th Jh
+smeagn    1004412392  9  6 f   -     -     -          864    0    0 
+smeagn    1004412465  9  3 Q   -     -     -          864    0    0 
