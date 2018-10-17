@@ -1,7 +1,10 @@
 import pandas as pd
 import glob
 import os
+from io import StringIO
+from collections import defaultdict
 
+__f_sep__ = os.path.sep
 
 def raw_data(path=''):
     """
@@ -27,6 +30,86 @@ def prepare_holdem():
     Prepare the hold'em dataset.
     :return: Dictionary of tables.
     """
-    f_sep = os.path.sep
-    pdir = os.path.join('data', 'poker', 'nolimit', '*')
-    hands_f = glob.glob(pdir + f_sep + 'hdb')
+    hf = os.path.join('data', 'IRCdata', 'nolimit', '*', 'hdb')
+    pf = os.path.join('data', 'IRCdata', 'nolimit', '*', 'pdb', 'pdb.*')
+    rf = os.path.join('data', 'IRCdata', 'nolimit', '*', 'hroster')
+
+    hands_f = glob.glob(hf)
+    players_f = glob.glob(pf)
+    roster_f = glob.glob(rf)
+
+    roster_data = __roster_dict__(roster_f)
+    hands_df = __hands_df__(hands_f)
+    player_data = __player_df__(players_f)
+
+    dataset = {'hands': hands_df, 'players': player_data, 'roster': roster_data}
+    return dataset
+
+
+def __player_df__(player_dir):
+    """
+    Create a dictionary of players and dataframes of their hand history.
+
+    :param player_dir: Directory (glob format)
+    :return: dictionary
+    """
+
+    def __single_player__(player_dir):
+        with open(player_dir, 'r') as f:
+            lines = [x.split() for x in f.read().splitlines()]
+            player_name = lines[0][0]
+            player_data = [p[0:13] + [None] * (13 - len(p)) for p in lines]
+            player_data = {p[1]: p[2:] for p in player_data}
+
+        pbt = pd.DataFrame.from_dict(player_data, orient='index')
+        pbt.columns = ['players dealt', 'player position', 'bet preflop', 'bet flop',
+                       'bet turn', 'bet river', 'bank start', 'action', 'amount won', 'card_1', 'card 2']
+        return player_name, pbt
+
+    pbt = pd.DataFrame(columns=['players dealt', 'player position', 'bet preflop', 'bet flop', 'bet turn',
+                                'bet river', 'bank start', 'action', 'amount won', 'card_1', 'card 2'])
+    all_players = defaultdict(lambda: pbt)
+    for f in player_dir:
+        p_data = __single_player__(f)
+        all_players[p_data[0]] = all_players[p_data[0]].append(p_data[1])
+
+    return all_players
+
+
+def __roster_dict__(roster_dir):
+    """
+    Create a dictionary of games and list of the players in them, with the number of players as the first element of
+    each list.
+    :param roster_dir: directory of roster files (glob)
+    :return: dictionary
+    """
+    all_roster = []
+    for roster in roster_dir:
+        with open(roster, 'r') as f:
+            all_roster.extend([x.split() for x in f.read().splitlines()])
+
+    roster_data = {p[0]: p[1:] for p in all_roster}
+    return roster_data
+
+
+def __hands_df__(hands_dir):
+    """
+    Return a dataframe of all the hands.
+
+    :param hands_dir: directory of the hands (glob)
+    :return: dataframe
+    """
+    all_hands = []
+    for hand in hands_dir:
+        with open(hand, 'r') as f:
+            all_hands.extend(f.readlines())
+
+    hands_s = StringIO("".join(all_hands).replace('/', ' '))
+    hands_df = pd.read_table(hands_s,
+                             delimiter=r"\s+",
+                             engine='python',
+                             names=['timestamp', 'game_num', 'hand_num', 'num_players_dealt',
+                                    'num_players_flop', 'flop_pot', 'num_players_turn', 'turn_pot',
+                                    'num_players_river', 'river_pot', 'num_players_showdown', 'showdown_pot',
+                                    'card_1', 'card_2', 'card_3', 'card_4', 'card_5'])
+    return hands_df
