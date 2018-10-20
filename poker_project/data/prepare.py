@@ -60,16 +60,16 @@ def __player_df__(player_dir):
         with open(player_dir, 'r') as f:
             lines = [x.split() for x in f.read().splitlines()]
             player_name = lines[0][0]
-            player_data = [p[0:13] + [None] * (13 - len(p)) for p in lines]
+            player_data = [p[0:13] + [None for lg in range(0, (13 - len(p)))] for p in lines]
             player_data = {p[1]: p[2:] for p in player_data}
 
         pbt = pd.DataFrame.from_dict(player_data, orient='index')
-        pbt.columns = ['players dealt', 'player position', 'bet preflop', 'bet flop',
-                       'bet turn', 'bet river', 'bank start', 'action', 'amount won', 'card_1', 'card 2']
+        pbt.columns = ['players_dealt', 'player_position', 'bet_preflop', 'bet_flop',
+                       'bet_turn', 'bet_river', 'bank_start', 'action', 'amount_won', 'card_1', 'card_2']
         return player_name, pbt
 
-    pbt = pd.DataFrame(columns=['players dealt', 'player position', 'bet preflop', 'bet flop', 'bet turn',
-                                'bet river', 'bank start', 'action', 'amount won', 'card_1', 'card 2'])
+    pbt = pd.DataFrame(columns=['players_dealt', 'player_position', 'bet_preflop', 'bet_flop', 'bet_turn',
+                                'bet_river', 'bank_start', 'action', 'amount_won', 'card_1', 'card_2'])
     all_players = defaultdict(lambda: pbt)
     for f in player_dir:
         p_data = __single_player__(f)
