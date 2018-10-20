@@ -2,1191 +2,293 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8767a0d7-8efb-4922-8553-bc1b643f78ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199506/hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199506/hroster" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199506/pdb/pdb.A8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199506/pdb/pdb.Grizz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199506/pdb/pdb.ShoelessJ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199506/pdb/pdb.Timmy^" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199506/pdb/pdb.WC^" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199506/pdb/pdb.greg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199506/pdb/pdb.jzk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199506/pdb/pdb.sagerbot^" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199506/pdb/pdb.tvp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/hroster" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.A8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.BeesiTzu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.MrX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.Mr_Hyde" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.WC^" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.^sagerbot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.apack" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.augie6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.burt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.greg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.jamboy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.jzk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.sagerbot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.sk-2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.tvp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/hroster" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.Grizz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.Loboc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.MrX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.Timmy^" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.[sager]^^" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.alx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.filth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.gfw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.jamboy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.jc_c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.jcc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.jrx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.jzk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.k-man" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.rayzor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.ren1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.sensai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.sk-2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.slap03" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.slapNL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199508/pdb/pdb.tvp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/hroster" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.ATM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.MrX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.Piranha" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.RaiseIt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.Snofablf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.alx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.darsex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.deadman" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.flopsy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.geg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.gfw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.nut" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.raodkill" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.ren1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.slap03" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.slapNL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199509/pdb/pdb.torus" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/hroster" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.ATM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.Jefferson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.Piranha" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.Shazbot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.Spike" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.WC^" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.[sager]^" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.alx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.deadman" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.flopsy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.gfw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.kman" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.ksh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.meeee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.num" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.ren1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.roadkill" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.slap06" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199510/pdb/pdb.zorbucks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199511/hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199511/hroster" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199511/pdb/pdb.A8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199511/pdb/pdb.DM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199511/pdb/pdb.Don" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199511/pdb/pdb.Grizz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199511/pdb/pdb.POed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199511/pdb/pdb.Spike" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199511/pdb/pdb.bp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199511/pdb/pdb.gfw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199511/pdb/pdb.ihep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199511/pdb/pdb.meeee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199511/pdb/pdb.sager[2]" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199512/hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199512/hroster" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199512/pdb/pdb.gfw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199512/pdb/pdb.wheelboy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199601/hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199601/hroster" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199601/pdb/pdb.ATM^" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199601/pdb/pdb.RootAccou" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199601/pdb/pdb.SStudHi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199601/pdb/pdb.WC^bot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199601/pdb/pdb.dagger" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199601/pdb/pdb.dagger2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199601/pdb/pdb.geg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199601/pdb/pdb.gfw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199601/pdb/pdb.perfecdoh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199601/pdb/pdb.sager[7]" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199601/pdb/pdb.xx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/hroster" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb.DM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb.FullBot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb.GMG[0]" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb.Gabe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb.Gator" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb.StClaus" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb.Woodstock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb._DEATH_" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb.ahriman" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb.cap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb.gfw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb.gsr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb.harryc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb.jvegas2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb.mark" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199612/pdb/pdb.sager{1}" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199701/hdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199701/hroster" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199701/pdb/pdb.Janie" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/IRCdata/nolimit/199701/pdb/pdb.ahriman" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_prep.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poker_project/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poker_project/evaluations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poker_project/data/holdem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poker_project/holdem/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199504.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199505.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199506.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199507.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199508.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199509.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199510.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199511.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199512.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199601.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199602.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199603.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199604.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199605.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199606.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199607.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199608.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199609.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199610.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199611.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199612.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199701.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199702.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199703.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199704.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199705.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199707.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199708.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199802.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199803.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199804.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199805.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199806.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199807.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199808.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199809.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199810.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199811.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199812.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199901.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199902.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199903.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199904.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199905.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199906.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199907.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199908.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199909.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199910.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199911.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.199912.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200001.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200002.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200003.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200004.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200005.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200006.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200007.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200008.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200009.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200010.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200011.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200012.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200102.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200103.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200104.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200105.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200106.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200107.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200108.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200109.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem.200110.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/hdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/hroster" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.A52wkhi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.AAmazon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.AGVDAN" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Abie10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.AceHand" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.AceHigh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Aces" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Advisor_T" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Aero" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Alenoth" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Alpine" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Arc3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ArmyNoVA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ArturS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.AtWork" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Austex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.AutoRaise" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.AxeCell" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.BTTony" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Babe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Babybear" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.BallFour" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Barrister" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Batistuta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Batmagoo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Beasty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Bgcigar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.BigChump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Bill" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Billznik" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Blackdog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.BlckBrd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.BobMarley" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Brian17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Bristly" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Broadway" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.BruceZ" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Burkie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.C-One" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.CDBrown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.CFigor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.CalleMann" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Carlie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Case" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Charlie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ChemE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ChipFly" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ChipsAhoy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Chopper" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.CityPam" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Clarance" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Clement" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Clod3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Coach5324" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ColdSteel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Craigmaha" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.CrazyMutt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DARA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DCAT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DRStamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DZCad90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Dandolo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DannyGans" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Darla" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DaveR" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DavidK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DeepDiver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DerSpicht" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DesX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DevilPike" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Dickster" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Dicky" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DigiPuss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Dino" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Diver777" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DoStuff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Doctor77" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Dolphin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DomX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DomXx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DopeyTwat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.DrOakland" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Dr_Doom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Drack2K" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Drivel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Driver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Dynz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.EdK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Elnya" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.EmtaE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Enigma137" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.FU" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.FUhzball" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Falcon144" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Ferday" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Ferdinand" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.FishEnema" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Fish_aroo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Flash_man" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.FlyingRon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Forbes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Fox_UK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.FreeLance" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Freshie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.FrisB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Frunlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.FstJohnny" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Funky" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Futurehog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.GMAN" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Gabe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Geeker2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.GigaHertz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Gordpaul" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Grizz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Grizzler" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Groo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Groo2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.GroundCtl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Guibox" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Gunmetal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.HOTROD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.HP2000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.HPark1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.HUH" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.HammerHd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Hamster" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Hanson" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Harley" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Harppo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Hipshot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Ho-rang-i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Hook" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Hook-" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Houtex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.HuckWeed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Hurricane" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.IRaise" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Idiot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.IndyJones" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Infantry" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Ispep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.JADC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.JB_G2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.JKhearts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.JMA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.JMike" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Jake17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Jammer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Jan000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.JayB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Jdock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Jedi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.JoeBlow" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.JoeKid" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.JoeyX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.JohnR" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.JohnsGirl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Josaja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.KLP" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.KVIETYS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.KenDymond" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.KenW" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.KennyK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Kevin1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Kevin_Un" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Ki-Adi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.KidRock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.KingHayz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.King_5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.King_Fish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Kingfish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Koss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Kroner" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Kstu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.KukkOO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.LDB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.LUV2CHAT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.LastTiger" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.LeeCrook" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.LeeCrook1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Loboc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Lockjaw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Lonsdale" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Loser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Luckeeee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.LyteSpeed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.MDY" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.MadSwede" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Malco4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Malisashi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Maniac" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Marbo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.MarineDr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.MarkInCA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.MarkInCA_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.McElvis" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.McSatan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Metatron" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Mikester" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Mikey" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.MilkShake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.MistyAZ" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.MistyAZ4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Mizchif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Moron" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Morticia" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Mothra" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Mr_Burns" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Muck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Mutzo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.NOT_A_BOT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.NOballs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.NOlegs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.NUT-Z" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Nago" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Natasha" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Nemesis" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Nishi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Nrm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.O" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Old3pair" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.OmahaDoug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.OpTi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Osama" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.P0P" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.PCMantra" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Pamster" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Panther" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Papoose" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Pappy-" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ParFore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Patoot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.PeeWee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Pelessimo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Pengwin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Pepper" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Pesky" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.PiousSoup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.PipeDream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.PocoLoco" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.PokerPaul" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.PoloGolf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.PrestoET" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Prion" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Product19" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.QueenB2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Qui-Gong" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Quick" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Quixote" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.RIDDIK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.RIG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.RRRRRRR" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Rabbitt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.RaiRAiRAI" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.RaiseNut" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Ratboy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Raven" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Ravin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Rawcy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Raykay" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Remo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Rhino" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Rhonda" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Ricardo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.RiverRatt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Ronin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Rumford" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.SANLUCAR" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.SJB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.SR" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Sandman" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Sandman97" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.SandmanDS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Scarce" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Scum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Sham" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.SheDevil" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Sirius" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Skamse" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Ski" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.SkiBum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Slime" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Smiley" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Smoky" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Snapped" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.SnowTiger" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.SoCal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Space_Ace" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Spade" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Spade1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Sparksyyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.SpecialK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.StanD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Steve610" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.SteveJ" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Stew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Stobe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Studlee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.SubEthan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Superbird" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Surge" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TCX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TFugitive" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TXC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Taler" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TallGrrrl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Tandu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Techno" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Tempest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Tenzin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Teq17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Testicles" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TexasJeff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ThaWiz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TheBigLad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TheBomb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TheBomb6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TheGreek" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TheJedi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TheKiz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Theobob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Thresh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Thud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Tiger" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TigersEye" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TopPlayer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TopRock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Trance" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Tull" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Turbeaux" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TwoTone" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.TxMustang" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Tyler" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.USA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.UrbanDra" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.VanTage" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Voyeur" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.W0lph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.WOP" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.WhiteLion" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Willem" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Wilson" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.WinTkPkr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Wizard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Wizball" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Wuzac" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Wyatt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Yamucharo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.YoPauly" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Zanshin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.Zebra2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ZenCaser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.[Diablo]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb._345Park" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.__" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.___" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.__x" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.a_ape78" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.agray" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.akjdhs73" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.aleve" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.aman" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.aragorn_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.arche" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.arho" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.art" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.asif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.awk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.beaker" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.beavdogg4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.beavdogg5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.bestbette" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.bigE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.bigboy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.bigfathos" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.bigkicker" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.billyboat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.billyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.billygoat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.bing" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.blachjakk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.bogen2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.boiler33" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.bookie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.brc2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.brianm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.burrito27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.c9511" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.c_colby" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.camembert" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.capgras" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.carenbon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.chainsaw6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.christoph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.cinoni" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.citra" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.classicJB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.cneely8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.conroy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.cousin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.cz1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dAcAr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dagger" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.daphkev" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.daraco" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.davegood" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.daxiangjt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.daytrader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ddd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.deiniol" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dejavu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dently" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dgr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dick_long" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dickshort" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dimwit" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dinox" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dipshits" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.docidiot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dogfish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.doggies" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.doggydo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dogsta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dogwood" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dogzilla" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dookey" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dreadlock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.dwhl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.eazymoney" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.eggwipe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.eldorado" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.elkan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.emersome" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ethanf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ferazel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ferazel09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.filly" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.fish_er" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.floptitty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.flubnurd2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.forfour4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.forfunman" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.fridge" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.fubar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.gamblrbri" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.gardena" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.garyD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.gcc666" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.gear_head" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.gerdog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.gooner" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.gothnite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.grativo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ha" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.hachy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.handbear" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.hawk1947" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.herntdawg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.hkm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.hmmm-" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.hollywood" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.holybull" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.homer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.hoople" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.hotamle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.hsk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.hypatia" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ideogram" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.is314onu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.itchyball" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.itkas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.jack" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.jarthur" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.jayda11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.jaydal11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.jimmydee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.jk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.jomomma" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.judee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.jun" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.just_al" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.kabu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.kaizan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.katmando" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.keeae" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.kempo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.kenw2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.kez" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.kfish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.kisireun" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.kisireunX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.kith" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.kk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.labs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.lewa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.lexstraus" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.lightning" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.lilwheel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.limpdicks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.little" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.lloyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.lokt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.louie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ls0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.lsbg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.madmatt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.maggie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.mamabear" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.mamoh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.mangobubu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.marki" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.mask" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.max899" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.mdoliwa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.meatballs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.medlohman" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.mercy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.mew3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.microkid" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.midike" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.misctwo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.moose" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.moose2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.moose5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.mrbigg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.mtnman" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.myofb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.neffets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.neodude98" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.newcastle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.nico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.noodle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.nosferatu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.null" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ody" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.offsuit" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.okinakin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.oldbear" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.omri" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.orion1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.oval" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.pat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.pc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.peon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.pepe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.perlBoy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.petit999" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.piggy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.pokeme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.poorboy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.popstar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.prm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.pw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.pw1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.pw2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.q[mrw]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.quantabe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.quenk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.r^z" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.r_kive" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.rankine" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ratFINK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.raybob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.razorfish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.razzmataz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.rcbeamer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.redbug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.remo1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.rf1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.rich_com" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.rivrgod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.rj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.rjk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.rjruler" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.rmcinc727" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.rob2e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.rock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.rocket88" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ronnieg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.rulle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.russb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.rwieb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.rz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.sadie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.sam" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.sam_6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.sarahb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.scan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.schooner" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.scotsman" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.sefa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.seldomwin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.serbrock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.shade" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.shadow18" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.shelly" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.shrader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.silk567" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.skeleton" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.skitch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.skov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.skyhigh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.slingshot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.smBlonde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.smact" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.smeagn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.snuffer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.soho" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.soho1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.sparhawk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.stacey" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.stock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.stungun7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.sushi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.t_pascal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.tango" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.tardis" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.te" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.tesaja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.the_habit" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.tiger-eye" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.timball" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.timlo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.tired" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.tobar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.tommi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.toms" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.tony00701" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.topquark" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.trampas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.tratata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.trend" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.truchas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.tvp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.tw41" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.twisted" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.tyrele" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.unjibaby" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.vampire" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.vonmises" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.weirsy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.westimle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.whiz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.wstsider" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.ydz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem/200110/pdb/pdb.zqa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/hdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/hroster" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Ally" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Augie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.BANK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.BIG-TEX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Beatle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Benj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Benway" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.BlackBart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.BobDull" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.BobbyD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Bomber" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.CFsatan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.CFtvpd00d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Caffeine" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Calvert" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.ChrisLinn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.DM" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.DRS_rME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.DRSivU2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.DaGrinch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Death2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Dog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.DohDoh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.DrJ" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Dr_Devo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Dunk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.EdK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Elvis" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.FeltShark" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Filaman" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Frog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Fsh2Shark" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.FullBot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.GAR" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.GORF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Gabe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.GambleBot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.GoinFr3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.GregR" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.GreyArea2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Grizz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Halo9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Harry^T" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.JMike" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.JRuss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.JohnG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Kevin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.KevinK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.LG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Liminal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.LiveOne" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Loboc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.MacBeth" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.MacGyver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.MikeMan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Minx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.MisterX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Mr^Happy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.New2This" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Oldbear" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Olmoni" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.One_Time" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.PapaSloth" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Patti" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Phlegm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.PokrDude" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Quick" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.RKC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Rambler" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.RandyV" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Ray" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Remora" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.RiverMan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Rob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Rocket" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.SJG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.SLORK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Scrub" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.SevenDuce" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Shmoo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Snerd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Sonar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Soo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.StMroller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Talent" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Tiki" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Train" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.TresEquis" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.TripSixes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Tristan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.TxHldEm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Wolfdog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Woodstock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.Yogi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.ZX6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.^Angel^" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb._7-2_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.absurd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.adbchaz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.aida" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.alfalfa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.an_idiot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.apack" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.baggie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.beeperman" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.blt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.blueelf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.bustagin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.buster" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.bw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.cap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.carreras" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.chainsaw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.charles" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.coal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.columbia" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.commute" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.conrad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.cousin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.crazieer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.d2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.devildog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.dinkle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.djr__" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.dtm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.elf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.etlum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.everbust" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.fish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.fishyfuzz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.gcy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.geg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.gfw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.ghoti" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.gond" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.goose" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.greenelf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.gsr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.halibut" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.halibut_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.harryc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.hhunt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.hturner" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.jerkku" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.jet" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.jet[1]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.jet[2]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.jet[3]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.johns" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.jvegas2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.kayaks1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.kbear" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.kcr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.kempo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.kevk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.king" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.kman" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.krr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.l00zer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.lagaff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.lengrano" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.lynch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.macrotest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.maddog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.maniacal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.mark" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.master" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.miyake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.mother" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.neoncap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.newYogi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.num" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.numskull" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.perfecdoh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.po147" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.po148" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.pogo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.pops" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.propdude" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.redelf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.rkt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.sabine" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.sagerbot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.satan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.sc3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.sente" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.sieve" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.sling" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.smf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.sneezix" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.theking" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.tvp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.vjay" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.wcbot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.whiz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.wildcard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.wildraise" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.yellowelf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.zero" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2/199610/pdb/pdb.zub" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/hdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/hroster" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.A8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.ACC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.ATM" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.ATM^" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Aesop" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Amerikan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.BradR" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Burge" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.DM" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.DanSal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Devoid" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Dr_Devo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.EdK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Filaman" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Fsh2Shark" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.FuzzyFish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Gringo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Jupiler" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Kevin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Lev" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.MrX3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Piranha" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.PooBah" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Quetzal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Rockfish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.RootAccou" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Schween" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Sharpei" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Thumper" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.Timmy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.WC^bot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.[rkt]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.aida" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.bagTHIS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.bmk2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.bwana" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.clarko" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.crazieer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.dagger" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.darsex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.dbarnett" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.deadman" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.doc_doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.drr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.evercall" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.fatal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.fich" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.fmBandit" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.foldbot0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.gcy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.geg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.gfw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.goldman" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.gordo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.gsr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.hawaiiboy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.iceness" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.jl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.jl1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.jl2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.jpm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.jrx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.kal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.kman" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.leo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.meeee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.mrPink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.munch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.munch[0]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.num" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.nuxi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.oldtimer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.or" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.painful" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.perfecdoh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.po147" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.pogo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.propdude" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.ren[1]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.sager[0]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.sager[1]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.sager[2]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.sager[4]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.sager[6]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.schmengie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.sippy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.slandrum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.suds" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.tgp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.tvp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.wheelboy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.will[]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.y" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.zzzzzz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot/199512/pdb/pdb.||" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit 11/199506/hdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit 11/199506/hroster" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit 11/199506/pdb/pdb.A8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit 11/199506/pdb/pdb.Grizz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit 11/199506/pdb/pdb.ShoelessJ" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit 11/199506/pdb/pdb.Timmy^" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit 11/199506/pdb/pdb.WC^" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit 11/199506/pdb/pdb.greg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit 11/199506/pdb/pdb.jzk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit 11/199506/pdb/pdb.sagerbot^" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit 11/199506/pdb/pdb.tvp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/MD5SUM.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/badbeat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/botsonly.199810.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/botsonly.199903.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/botsonly.199904.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/botsonly.199905.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/botsonly.199906.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/botsonly.199907.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/botsonly.199908.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/botsonly.199909.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/botsonly.199910.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199802.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199803.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199804.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199805.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199806.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199807.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199808.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199809.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199810.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199811.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199812.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199901.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199902.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199903.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199904.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199905.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199906.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199907.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199908.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199909.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199910.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199911.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.199912.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.200001.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.200002.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.200003.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.200004.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.200005.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.200006.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.200007.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.200008.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.200009.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.200010.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.200011.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/h1-nobots.200012.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem1.199808.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem1.199809.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem1.199810.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem1.199811.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem1.199812.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem1.199901.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem1.199902.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem1.199903.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem1.199904.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem1.199905.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem1.199906.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem1.199907.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem1.199908.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem1.199909.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem1.199910.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199504.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199505.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199506.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199507.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199508.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199509.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199510.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199511.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199512.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199601.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199602.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199603.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199604.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199605.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199606.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199607.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199608.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199609.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199610.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199611.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199612.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199701.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199702.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199703.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199704.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199705.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199707.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199708.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199802.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199803.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199804.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199805.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199806.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199807.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199808.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199809.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199810.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199811.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199812.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199901.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199902.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199903.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199904.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199905.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199906.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199907.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199908.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199909.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199910.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199911.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.199912.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200001.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200002.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200003.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200004.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200005.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200006.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200007.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200008.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200009.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200010.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200011.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200012.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200102.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200103.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200104.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200105.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200106.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200107.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200108.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200109.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem2.200110.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199505.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199506.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199507.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199508.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199509.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199510.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199511.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199512.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199601.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199602.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199603.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199604.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199605.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199606.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199607.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199608.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199610.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199611.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199612.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199701.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199702.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199703.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199704.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199705.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199707.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199708.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199802.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199803.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199804.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199805.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199806.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199807.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199808.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199809.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199810.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199811.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199812.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199901.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199902.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199903.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199904.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199905.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199906.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199907.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199908.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199909.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199910.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199911.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.199912.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200002.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200003.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200004.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200005.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200006.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200007.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200008.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200009.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200010.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200011.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200012.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200102.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200103.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200104.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200105.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200106.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200107.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200108.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200109.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdem3.200110.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdemii.199609.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdemii.199610.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdemii.199611.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdemii.199612.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdemii.199701.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdemii.199702.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdemii.199703.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199512.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199601.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199602.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199603.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199604.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199605.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199606.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199607.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199608.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199609.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199610.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199612.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199701.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199702.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199703.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199704.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199705.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199707.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199708.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199802.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199803.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199804.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199805.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199806.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199807.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199808.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199809.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199810.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199811.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199812.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199901.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199902.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199903.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199904.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199905.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199906.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199907.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199908.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199909.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199910.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199911.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.199912.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200001.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200002.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200003.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200004.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200005.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200006.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200007.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200008.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200009.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200010.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200011.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200012.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200102.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200103.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200104.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200105.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200106.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200107.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200108.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200109.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/holdempot.200110.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit.199506.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit.199507.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit.199508.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit.199509.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit.199510.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit.199511.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit.199512.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit.199601.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit.199612.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/IRCdata/nolimit.199701.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_prep.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_prep.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/poker_project/data/prepare.py" beforeDir="false" afterPath="$PROJECT_DIR$/poker_project/data/prepare.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker_project/data_prep.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1195,7 +297,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/poker_project$poker_project.coverage" NAME="poker_project Coverage Results" MODIFIED="1539808338182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/poker_project$poker_project.coverage" NAME="poker_project Coverage Results" MODIFIED="1540057390694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -1215,10 +317,12 @@
     <session id="1640072319">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -1228,7 +332,7 @@
           <entry key="hdb" value="11" />
           <entry key="hroster" value="5" />
           <entry key="ipynb" value="2" />
-          <entry key="py" value="12" />
+          <entry key="py" value="13" />
           <entry key="rst" value="2" />
           <entry key="txt" value="2" />
         </counts>
@@ -1237,23 +341,24 @@
         <counts>
           <entry key="IPNB" value="2" />
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="12" />
+          <entry key="Python" value="13" />
           <entry key="ReST" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="501" />
+          <entry key="Python Console" value="875" />
           <entry key="api_skeleton" value="65" />
-          <entry key="py" value="5103" />
+          <entry key="dummy" value="6" />
+          <entry key="py" value="6085" />
           <entry key="rst" value="43" />
-          <entry key="txt" value="33" />
+          <entry key="txt" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="98" />
-          <entry key="Python" value="5604" />
+          <entry key="PLAIN_TEXT" value="121" />
+          <entry key="Python" value="6960" />
           <entry key="ReST" value="43" />
         </counts>
       </usages-collector>
@@ -1269,25 +374,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/poker_project/data/prepare.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+            <state relative-caret-position="53">
+              <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
-                <marker date="1539814896000" expanded="true" signature="269:274" ph="..." />
-                <marker date="1539814896000" expanded="true" signature="324:329" ph="..." />
-                <marker date="1539814896000" expanded="true" signature="547:631" ph="..." />
-                <marker date="1539814896000" expanded="true" signature="2633:2847" ph="..." />
-                <marker date="1539814896000" expanded="true" signature="3034:3035" ph="..." />
+                <marker date="1539871462000" expanded="true" signature="171:172" ph="..." />
+                <marker date="1539871462000" expanded="true" signature="313:318" ph="..." />
+                <marker date="1539871462000" expanded="true" signature="368:373" ph="..." />
+                <marker date="1539871462000" expanded="true" signature="591:675" ph="..." />
+                <marker date="1539871462000" expanded="true" signature="2722:2936" ph="..." />
+                <marker date="1539871462000" expanded="true" signature="3123:3124" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/poker_project/data/holdem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+              <folding>
+                <marker date="1540057928000" expanded="true" signature="15:16" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_prep.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="2" />
+              <selected id="5" />
             </state>
           </provider>
         </entry>
@@ -1297,15 +415,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199506/hdb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -1360,8 +469,10 @@
         <option value="$PROJECT_DIR$/poker_project/evaluations/__init__.py" />
         <option value="$PROJECT_DIR$/poker_project/data_prep.ipynb" />
         <option value="$PROJECT_DIR$/requirements_dev.txt" />
-        <option value="$PROJECT_DIR$/data_prep.ipynb" />
+        <option value="$PROJECT_DIR$/poker_project/holdem/dataset.py" />
         <option value="$PROJECT_DIR$/poker_project/data/prepare.py" />
+        <option value="$PROJECT_DIR$/data_prep.ipynb" />
+        <option value="$PROJECT_DIR$/poker_project/data/holdem.py" />
       </list>
     </option>
   </component>
@@ -1381,7 +492,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1415,12 +525,13 @@
               <item name="poker_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="poker_project" type="462c0819:PsiDirectoryNode" />
               <item name="poker_project" type="462c0819:PsiDirectoryNode" />
-              <item name="evaluations" type="462c0819:PsiDirectoryNode" />
+              <item name="holdem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1433,6 +544,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/poker_project/data" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -1486,19 +598,26 @@
       <option name="project" value="LOCAL" />
       <updated>1539733169370</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added preparation">
+      <created>1539814975333</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539814975333</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21101573" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21959943" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.15662651" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28915662" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1508,7 +627,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32891566" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.18554217" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.18554217" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1524,7 +643,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="removed a lot of data" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed a lot of data" />
+    <MESSAGE value="added preparation" />
+    <option name="LAST_COMMIT_MESSAGE" value="added preparation" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.rst">
@@ -1561,6 +681,75 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/poker_project/data_prep.ipynb" />
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/holdem/200110/hdb" />
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199701/hdb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199512/hdb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199510/hdb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199509/hdb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36230" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/holdem2/199610/hdb" />
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/holdempot/199512/hdb" />
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199506/hroster">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2315" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199507/hroster">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199508/hroster">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31505" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199509/hroster">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36710" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199506/pdb/pdb.A8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.A8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-823" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199511/pdb/pdb.A8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7378" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199512/hroster">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199506/hdb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/api_skeleton">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/requirements_dev.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1589,98 +778,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/holdem/200110/hdb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-333215" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199701/hdb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199512/hdb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199510/hdb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199509/hdb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36230" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/holdem2/199610/hdb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5065" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/holdempot/199512/hdb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114035" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199506/hroster">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2315" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199507/hroster">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199508/hroster">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31505" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199509/hroster">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36710" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199506/hdb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199506/pdb/pdb.A8">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199507/pdb/pdb.A8">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-823" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199511/pdb/pdb.A8">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7378" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/IRCdata/nolimit/199512/hroster">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/api_skeleton">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/poker_project/data/prepare.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+        <state relative-caret-position="53">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <marker date="1539814896000" expanded="true" signature="269:274" ph="..." />
-            <marker date="1539814896000" expanded="true" signature="324:329" ph="..." />
-            <marker date="1539814896000" expanded="true" signature="547:631" ph="..." />
-            <marker date="1539814896000" expanded="true" signature="2633:2847" ph="..." />
-            <marker date="1539814896000" expanded="true" signature="3034:3035" ph="..." />
+            <marker date="1539871462000" expanded="true" signature="171:172" ph="..." />
+            <marker date="1539871462000" expanded="true" signature="313:318" ph="..." />
+            <marker date="1539871462000" expanded="true" signature="368:373" ph="..." />
+            <marker date="1539871462000" expanded="true" signature="591:675" ph="..." />
+            <marker date="1539871462000" expanded="true" signature="2722:2936" ph="..." />
+            <marker date="1539871462000" expanded="true" signature="3123:3124" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1688,7 +797,17 @@
     <entry file="file://$PROJECT_DIR$/data_prep.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="9" />
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poker_project/data/holdem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <marker date="1540057928000" expanded="true" signature="15:16" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

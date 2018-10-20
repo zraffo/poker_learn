@@ -3,8 +3,10 @@ import glob
 import os
 from io import StringIO
 from collections import defaultdict
+import poker_project.data.holdem as holdem
 
 __f_sep__ = os.path.sep
+
 
 def raw_data(path=''):
     """
@@ -42,8 +44,8 @@ def prepare_holdem():
     hands_df = __hands_df__(hands_f)
     player_data = __player_df__(players_f)
 
-    dataset = {'hands': hands_df, 'players': player_data, 'roster': roster_data}
-    return dataset
+    # dataset = {'hands': hands_df, 'players': player_data, 'roster': roster_data}
+    return holdem.DataSet(roster_data, hands_df, player_data)
 
 
 def __player_df__(player_dir):
