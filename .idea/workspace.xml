@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8767a0d7-8efb-4922-8553-bc1b643f78ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/poker_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/poker_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_prep.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_prep.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/poker_project/data/holdem.py" beforeDir="false" afterPath="$PROJECT_DIR$/poker_project/data/holdem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/poker_project/data/prepare.py" beforeDir="false" afterPath="$PROJECT_DIR$/poker_project/data/prepare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker_project/data/visualize.py" beforeDir="false" afterPath="$PROJECT_DIR$/poker_project/data/visualize.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/poker_project$poker_project.coverage" NAME="poker_project Coverage Results" MODIFIED="1540057390694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/poker_project$poker_project.coverage" NAME="poker_project Coverage Results" MODIFIED="1541612515133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -34,48 +37,53 @@
     <session id="1640072319">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="A8" value="6" />
+          <entry key="[]" value="1" />
           <entry key="api_skeleton" value="2" />
-          <entry key="hdb" value="11" />
+          <entry key="hdb" value="12" />
           <entry key="hroster" value="5" />
-          <entry key="ipynb" value="2" />
-          <entry key="py" value="13" />
+          <entry key="ipynb" value="4" />
+          <entry key="py" value="15" />
           <entry key="rst" value="2" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="2" />
-          <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="13" />
+          <entry key="IPNB" value="4" />
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="Python" value="15" />
           <entry key="ReST" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="875" />
+          <entry key="Python Console" value="1643" />
           <entry key="api_skeleton" value="65" />
           <entry key="dummy" value="6" />
-          <entry key="py" value="7733" />
+          <entry key="py" value="19266" />
           <entry key="rst" value="43" />
-          <entry key="txt" value="51" />
+          <entry key="txt" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="122" />
-          <entry key="Python" value="8608" />
+          <entry key="PLAIN_TEXT" value="125" />
+          <entry key="Python" value="20909" />
           <entry key="ReST" value="43" />
         </counts>
       </usages-collector>
@@ -88,19 +96,19 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/poker_project/data/prepare.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3">
-              <caret line="71" column="77" selection-start-line="71" selection-start-column="77" selection-end-line="71" selection-end-column="77" />
+            <state relative-caret-position="399">
+              <caret line="99" column="14" lean-forward="true" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
-                <marker date="1540060819000" expanded="true" signature="171:172" ph="..." />
-                <marker date="1540060819000" expanded="true" signature="313:318" ph="..." />
-                <marker date="1540060819000" expanded="true" signature="368:373" ph="..." />
-                <marker date="1540060819000" expanded="true" signature="591:675" ph="..." />
-                <marker date="1540060819000" expanded="true" signature="2740:2954" ph="..." />
-                <marker date="1540060819000" expanded="true" signature="3141:3142" ph="..." />
+                <marker date="1541615546932" expanded="true" signature="190:191" ph="..." />
+                <marker date="1541615546932" expanded="true" signature="332:337" ph="..." />
+                <marker date="1541615546932" expanded="true" signature="387:392" ph="..." />
+                <marker date="1541615546932" expanded="true" signature="610:694" ph="..." />
+                <marker date="1541615546932" expanded="true" signature="4034:4248" ph="..." />
+                <marker date="1541615546932" expanded="true" signature="4435:4436" ph="..." />
               </folding>
             </state>
           </provider>
@@ -109,42 +117,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/poker_project/data/holdem.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+            <state relative-caret-position="715">
+              <caret line="95" column="39" lean-forward="true" selection-start-line="95" selection-start-column="39" selection-end-line="95" selection-end-column="39" />
               <folding>
-                <marker date="1540060166000" expanded="true" signature="52:53" ph="..." />
+                <element signature="e#0#35#0" expanded="true" />
+                <marker date="1541615378329" expanded="true" signature="349:350" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_prep.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements_dev.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poker_project/data/analyze.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-              <folding>
-                <marker date="1539730902000" expanded="true" signature="146:151" ph="..." />
-                <marker date="1539730902000" expanded="true" signature="790:795" ph="..." />
-              </folding>
+              <selected id="5" />
             </state>
           </provider>
         </entry>
@@ -152,10 +139,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/poker_project/data/visualize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state>
+              <caret column="38" selection-start-column="38" selection-end-column="38" />
               <folding>
-                <marker date="1539731987000" expanded="true" signature="39:44" ph="..." />
+                <marker date="1540388418000" expanded="true" signature="152:157" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements_dev.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/poker_project/data/analyze.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="542">
+              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+              <folding>
+                <marker date="1539730902000" expanded="true" signature="146:151" ph="..." />
+                <marker date="1539730902000" expanded="true" signature="790:795" ph="..." />
               </folding>
             </state>
           </provider>
@@ -186,15 +195,15 @@
         <option value="$PROJECT_DIR$/docs/api_skeleton" />
         <option value="$PROJECT_DIR$/poker_project/evaluations/metrics.py" />
         <option value="$PROJECT_DIR$/poker_project/data/analyze.py" />
-        <option value="$PROJECT_DIR$/poker_project/data/visualize.py" />
         <option value="$PROJECT_DIR$/poker_project/data/__init__.py" />
         <option value="$PROJECT_DIR$/poker_project/evaluations/__init__.py" />
         <option value="$PROJECT_DIR$/poker_project/data_prep.ipynb" />
         <option value="$PROJECT_DIR$/requirements_dev.txt" />
         <option value="$PROJECT_DIR$/poker_project/holdem/dataset.py" />
+        <option value="$PROJECT_DIR$/poker_project/data/visualize.py" />
         <option value="$PROJECT_DIR$/poker_project/data/holdem.py" />
-        <option value="$PROJECT_DIR$/poker_project/data/prepare.py" />
         <option value="$PROJECT_DIR$/data_prep.ipynb" />
+        <option value="$PROJECT_DIR$/poker_project/data/prepare.py" />
       </list>
     </option>
   </component>
@@ -208,12 +217,15 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,6 +243,47 @@
               <item name="poker_project" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="IRCdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poker_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poker_project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="IRCdata" type="462c0819:PsiDirectoryNode" />
+              <item name="limit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poker_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poker_project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="IRCdata" type="462c0819:PsiDirectoryNode" />
+              <item name="limit" type="462c0819:PsiDirectoryNode" />
+              <item name="holdem 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poker_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poker_project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="IRCdata" type="462c0819:PsiDirectoryNode" />
+              <item name="limit" type="462c0819:PsiDirectoryNode" />
+              <item name="holdem 2" type="462c0819:PsiDirectoryNode" />
+              <item name="199505" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poker_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poker_project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="IRCdata" type="462c0819:PsiDirectoryNode" />
+              <item name="limit" type="462c0819:PsiDirectoryNode" />
+              <item name="holdem 2" type="462c0819:PsiDirectoryNode" />
+              <item name="199505" type="462c0819:PsiDirectoryNode" />
+              <item name="pdb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poker_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poker_project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="IRCdata" type="462c0819:PsiDirectoryNode" />
+              <item name="nolimit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="poker_project" type="b2602c69:ProjectViewProjectNode" />
@@ -253,18 +306,21 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/zack/Documents/School:Homework/EECE2300/poker_project/poker_project/poker_project/data/holdem.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/IRCdata/limit" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/poker_project/data" />
       <recent name="$PROJECT_DIR$" />
@@ -301,6 +357,28 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="poker_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -334,34 +412,51 @@
       <option name="project" value="LOCAL" />
       <updated>1540057991939</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added preparation">
+      <created>1540061064687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540061064687</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21959943" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17310444" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24964234" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28915662" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22481573" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32923833" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32891566" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.18554217" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.23095824" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4987715" weight="0.31616595" />
       <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
+      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="5" sideWeight="0.5012285" side_tool="true" weight="0.37195995" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,9 +488,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/poker_project/data2/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/poker_project/data/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/poker_project/evaluations/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -476,19 +568,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/api_skeleton">
+    <entry file="file://$PROJECT_DIR$/poker_project/data/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/limit/holdem/199504/hdb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements_dev.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/poker_project/data/analyze.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="542">
           <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
           <folding>
             <marker date="1539730902000" expanded="true" signature="146:151" ph="..." />
@@ -499,36 +594,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/poker_project/data/visualize.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
           <folding>
-            <marker date="1539731987000" expanded="true" signature="39:44" ph="..." />
+            <marker date="1540388418000" expanded="true" signature="152:157" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/api_skeleton">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/IRCdata/limit/holdem 2/199505/pdb/pdb.[]">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="67" lean-forward="true" selection-start-column="67" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/poker_project/data/holdem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        <state relative-caret-position="715">
+          <caret line="95" column="39" lean-forward="true" selection-start-line="95" selection-start-column="39" selection-end-line="95" selection-end-column="39" />
           <folding>
-            <marker date="1540060166000" expanded="true" signature="52:53" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/poker_project/data/prepare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="71" column="77" selection-start-line="71" selection-start-column="77" selection-end-line="71" selection-end-column="77" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <marker date="1540060819000" expanded="true" signature="171:172" ph="..." />
-            <marker date="1540060819000" expanded="true" signature="313:318" ph="..." />
-            <marker date="1540060819000" expanded="true" signature="368:373" ph="..." />
-            <marker date="1540060819000" expanded="true" signature="591:675" ph="..." />
-            <marker date="1540060819000" expanded="true" signature="2740:2954" ph="..." />
-            <marker date="1540060819000" expanded="true" signature="3141:3142" ph="..." />
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1541615378329" expanded="true" signature="349:350" ph="..." />
           </folding>
         </state>
       </provider>
@@ -536,7 +626,23 @@
     <entry file="file://$PROJECT_DIR$/data_prep.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="14" />
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poker_project/data/prepare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="99" column="14" lean-forward="true" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1541615546932" expanded="true" signature="190:191" ph="..." />
+            <marker date="1541615546932" expanded="true" signature="332:337" ph="..." />
+            <marker date="1541615546932" expanded="true" signature="387:392" ph="..." />
+            <marker date="1541615546932" expanded="true" signature="610:694" ph="..." />
+            <marker date="1541615546932" expanded="true" signature="4034:4248" ph="..." />
+            <marker date="1541615546932" expanded="true" signature="4435:4436" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
