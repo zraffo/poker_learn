@@ -1,0 +1,603 @@
+Magdirag  930816648 16 15 f   -     -     -         5000    0    0 
+Magdirag  930816761 16 14 f   -     -     -         5000    0    0 
+Magdirag  930816841 16 13 f   -     -     -         5000    0    0 
+Magdirag  930816923 16 12 c   kf    -     -         5000  100    0 
+Magdirag  930817106 15 11 f   -     -     -         4900    0    0 
+Magdirag  930817154 15 10 f   -     -     -         4900    0    0 
+Magdirag  930817249 15  9 c   brA   -     -         4900 4900    0 Qc 6c
+Magdirag  930900753 13 11 c   k     c     f         5000  200    0 
+Magdirag  930900900 13 10 c   k     k     f         4800   50    0 
+Magdirag  930900959 13  9 f   -     -     -         4750    0    0 
+Magdirag  930901006 13  8 cc  kf    -     -         4750  275    0 
+Magdirag  930901050 13  7 cf  -     -     -         4475   50    0 
+Magdirag  930901145 13  6 f   -     -     -         4425    0    0 
+Magdirag  930901196 12  5 cc  kr    bA    -         4425 4425 8200 As Ah
+Magdirag  930901287 11  4 f   -     -     -         8200    0    0 
+Magdirag  930901397  9  3 f   -     -     -         8200    0    0 
+Magdirag  930901523  9  2 Bk  k     k     b         8200  700 1100 
+Magdirag  930901577  9  1 Br  -     -     -         8600 5200 10400 7d 7c
+Magdirag  930901611  8  8 f   -     -     -        13800    0    0 
+Magdirag  930901661  8  8 f   -     -     -        13800    0    0 
+Magdirag  930901702  8  7 cf  -     -     -        13800  200    0 
+Magdirag  930901755  8  6 cc  b     k     c        13600 5900 5300 As Qc
+Magdirag  930901867  7  5 f   -     -     -        13000    0    0 
+Magdirag  930901885  7  4 f   -     -     -        13000    0    0 
+Magdirag  930901935  7  3 c   k     b     bA       13000 13000 15600 
+Magdirag  930901988  7  2 Bk  b     -     -        15600 1400 3400 
+Magdirag  930902078  7  1 Bc  kf    -     -        17600  400    0 
+Magdirag  930902100  7  7 f   -     -     -        17200    0    0 
+Magdirag  930902133  6  5 f   -     -     -        17200    0    0 
+Magdirag  930902154  6  5 c   k     k     k        17200  400    0 5h Ah
+Magdirag  930902194  6  4 c   k     f     -        16800  400    0 
+Magdirag  930902249  5  2 f   -     -     -        16400    0    0 
+Magdirag  930902260  5  2 Bk  k     b     -        16400 2800 4000 
+Magdirag  930902288  5  1 Bc  k     k     k        17600 2800 6400 Ac Ks
+Magdirag  930902314  5  5 f   -     -     -        21200    0    0 
+Magdirag  930902353  5  4 c   b     -     -        21200 1800 3000 
+Magdirag  930902371  5  3 f   -     -     -        22400    0    0 
+Magdirag  930902394  5  2 B   -     -     -        22400  800 1200 
+Magdirag  930902403  5  1 Bf  -     -     -        22800  400    0 
+Magdirag  930902425  5  5 f   -     -     -        22400    0    0 
+Magdirag  930902435  5  4 f   -     -     -        22400    0    0 
+Magdirag  930902464  5  3 cc  kf    -     -        22400 1799    0 
+Magdirag  930902495  5  2 Bf  -     -     -        20601  800    0 
+Magdirag  930902506  5  1 Bc  kf    -     -        19801  800    0 
+Magdirag  930902523  5  5 f   -     -     -        19001    0    0 
+Magdirag  930902549  5  4 f   -     -     -        19001    0    0 
+Magdirag  930902562  5  3 f   -     -     -        19001    0    0 
+Magdirag  930902601  5  2 Bf  -     -     -        19001  800    0 
+Magdirag  930902629  4  1 Bc  kf    -     -        18201 1600    0 
+Magdirag  930902654  4  4 c   bA    -     -        16601 16601 19001 
+Magdirag  930902686  4  3 c   k     k     k        19001 1600 4000 4d As
+Magdirag  930902717  4  2 Bk  k     k     b        21401 3600 8000 6c 5h
+Magdirag  930902752  4  1 Bc  k     k     k        25801 1600 3200 Js 8c
+Magdirag  930902779  4  4 f   -     -     -        27401    0    0 
+Magdirag  930902806  4  3 f   -     -     -        27401    0    0 
+Magdirag  930902815  4  2 Bk  kf    -     -        27401 1600    0 
+Magdirag  930902839  4  1 Bc  k     k     k        25801 1600    0 Tc 3s
+Magdirag  930902861  4  4 ccc -     -     -        24201 21400    0 Ks 9s
+Magdirag  930902888  3  2 c   k     k     k         2801 1600 3200 Kc 6c
+Magdirag  930902928  3  2 BcA -     -     -         4401 4401    0 6s 6c
+Magdirag  930927573 18  5 f   -     -     -         1000    0    0 
+Magdirag  930927693 18  4 f   -     -     -         1000    0    0 
+Magdirag  930927804 18  3 f   -     -     -         1000    0    0 
+Magdirag  930927965 18  2 Bk  k     k     k         1000   20    0 2d 7d
+Magdirag  930928045 18  1 Bf  -     -     -          980   10    0 
+Magdirag  930928129 18 18 c   f     -     -          970  330    0 
+Magdirag  930928281 18 17 f   -     -     -          640    0    0 
+Magdirag  930928370 18 16 c   f     -     -          640   40    0 
+Magdirag  930928473 18 16 rc  k     bA    -          600  600    0 As Qh
+Magdirag  930946944 16  9 f   -     -     -         6000    0    0 
+Magdirag  930946986 15  7 f   -     -     -         6000    0    0 
+Magdirag  930947061 14  6 f   -     -     -         6000    0    0 
+Magdirag  930947136 14  5 f   -     -     -         6000    0    0 
+Magdirag  930947210 14  4 f   -     -     -         6000    0    0 
+Magdirag  930947269 14  3 f   -     -     -         6000    0    0 
+Magdirag  930947372 14  2 Bk  kc    k     krA       6000 6000 12908 Qc Ah
+Magdirag  930947474 12  1 Bf  -     -     -        12908   30    0 
+Magdirag  930947569 12 12 f   -     -     -        12878    0    0 
+Magdirag  930947705 12 11 c   kf    -     -        12878   60    0 
+Magdirag  930947775 12 10 c   c     r     -        12818 6800 13055 Jc Ad
+Magdirag  930947840 11  8 c   kf    -     -        19073  500    0 
+Magdirag  930947904 10  7 f   -     -     -        18573    0    0 
+Magdirag  930947985  9  6 cc  r     -     -        18573 5820 12282 Ah 2c
+Magdirag  930948072  8  4 f   -     -     -        25035    0    0 
+Magdirag  930948102  8  3 f   -     -     -        25035    0    0 
+Magdirag  930948147  8  2 Bc  k     k     f        25035  690    0 
+Magdirag  930948220  7  1 Bc  kf    -     -        24345  240    0 
+Magdirag  930948249  7  7 c   c     k     k        24105  720    0 3d As
+Magdirag  930948308  7  6 c   b     -     -        23385  540  900 
+Magdirag  930948339  7  5 c   k     k     k        23745  240    0 5h Ac
+Magdirag  930948412  7  4 f   -     -     -        23505    0    0 
+Magdirag  930948439  7  3 c   b     b     -        23505 3240 5840 
+Magdirag  930948505  7  2 Bk  kf    -     -        26105  240    0 
+Magdirag  930948538  7  1 Bc  k     k     k        25865  480    0 2c 3d
+Magdirag  930948583  7  7 f   -     -     -        25385    0    0 
+Magdirag  930948598  7  6 c   k     k     k        25385  480 1440 Qc 5h
+Magdirag  930948623  7  5 c   cf    -     -        26345 1800    0 
+Magdirag  930948683  7  4 f   -     -     -        24545    0    0 
+Magdirag  930948703  7  3 f   -     -     -        24545    0    0 
+Magdirag  930948720  7  2 Bk  kf    -     -        24545  480    0 
+Magdirag  930948780  7  1 Br  k     k     b        24065 2480 4440 
+Magdirag  930948830  7  7 f   -     -     -        26025    0    0 
+Magdirag  930948897  6  6 r   k     f     -        26025 1480    0 
+Magdirag  930948931  6  5 f   -     -     -        24545    0    0 
+Magdirag  930948942  6  4 f   -     -     -        24545    0    0 
+Magdirag  930948959  6  3 c   k     b     b        24545 3960 6400 
+Magdirag  930949011  6  2 Bk  k     k     k        26985  960 1920 Jc 8c
+Magdirag  930949049  6  1 Br  kr    -     -        27945 25880 31760 
+Magdirag  930949116  6  6 f   -     -     -        33825    0    0 
+Magdirag  930949164  6  5 f   -     -     -        33825    0    0 
+Magdirag  930949176  5  4 f   -     -     -        33825    0    0 
+Magdirag  930949205  5  3 c   b     k     b        33825 3960 6400 
+Magdirag  930949257  5  2 B   -     -     -        36265  960 1440 
+Magdirag  930949286  5  1 Bc  k     k     b        36745 1960 3880 
+Magdirag  930949325  5  5 f   -     -     -        38665    0    0 
+Magdirag  930949332  5  4 f   -     -     -        38665    0    0 
+Magdirag  930949361  4  2 c   k     k     k        38665 1920    0 5c Ah
+Magdirag  930949630  4  2 Bf  -     -     -        36745 1920    0 
+Magdirag  930949648  4  1 Bc  k     kf    -        34825 1920    0 
+Magdirag  930949692  4  4 f   -     -     -        32905    0    0 
+Magdirag  930949706  3  2 B   -     -     -        32905 3840 5760 
+Magdirag  930949714  3  1 Brc -     -     -        34825 7860 15720 Ac 5c
+Magdirag  930949743  2  2 r   f     -     -        42685 7840    0 
+Magdirag  930949762  2  2 Br  -     -     -        34845 19520 31040 
+Magdirag  930949791  2  1 Bc  kc    kf    -        46365 11520    0 
+Magdirag  930949815  2  2 B   -     -     -        34845 3840 5760 
+Magdirag  930949817  2  1 Bcc b     -     -        36765 21520 33040 
+Magdirag  930949837  2  2 B   -     -     -        48285 3840 5760 
+Magdirag  930949838  2  1 Bc  kf    -     -        50205 3840    0 
+Magdirag  930949852  2  2 B   -     -     -        46365 3840 5760 
+Magdirag  930949853  2  1 Bf  -     -     -        48285 1920    0 
+Magdirag  930949857  2  2 B   -     -     -        46365 3840 5760 
+Magdirag  930949861  2  1 Bf  -     -     -        48285 1920    0 
+Magdirag  930949866  2  2 B   -     -     -        46365 3840 5760 
+Magdirag  930949869  2  1 Br  bc    -     -        48285 47715    0 Ad Ks
+Magdirag  930949894  2  2 BA  -     -     -          570  570 1140 Jh Ks
+Magdirag  930949895  2  1 BA  -     -     -         1140 1140    0 5s 2h
+Magdirag  931005273  5  3 f   -     -     -         1000    0    0 
+Magdirag  931005313  5  2 Br  k     f     -         1000   20    0 
+Magdirag  931005343  5  1 Bf  -     -     -          980    5    0 
+Magdirag  931005370  5  5 r   c     b     bA         975  975 1965 Td Th
+Magdirag  931005413  5  4 c   k     f     -         1965   10    0 
+Magdirag  931005433  5  3 cc  k     k     b         1955   95  135 
+Magdirag  931005489  5  2 Br  kc    k     b         1995  985 1500 Kc Kh
+Magdirag  931005540  4  1 Bf  -     -     -         2510    5    0 
+Magdirag  931005545  4  4 c   b     -     -         2505  110  125 
+Magdirag  931005558  4  3 f   -     -     -         2520    0    0 
+Magdirag  931005577  4  2 B   -     -     -         2520   20   30 
+Magdirag  931005587  4  1 Br  -     -     -         2530  120  140 
+Magdirag  931005706  4  4 c   b     -     -         2550  120  150 
+Magdirag  931005719  4  3 cf  -     -     -         2580   20    0 
+Magdirag  931005855  4  2 B   -     -     -         2560   20   30 
+Magdirag  931005860  4  1 Bc  b     -     -         2570   40   60 
+Magdirag  931005872  4  4 c   b     -     -         2590   60   90 
+Magdirag  931005940  4  3 f   -     -     -         2620    0    0 
+Magdirag  931005947  4  2 B   -     -     -         2620   40   60 
+Magdirag  931005954  4  1 Br  k     k     k         2640   80    0 8c Th
+Magdirag  931005979  4  4 f   -     -     -         2560    0    0 
+Magdirag  931005986  4  3 c   b     -     -         2560   90  150 
+Magdirag  931005993  4  2 Bc  b     -     -         2620  240  400 
+Magdirag  931006013  4  1 Bc  k     k     k         2780   40    0 5d 4d
+Magdirag  931006038  4  4 c   k     k     b         2740  140  220 
+Magdirag  931006068  4  3 f   -     -     -         2820    0    0 
+Magdirag  931006073  4  2 B   -     -     -         2820   40   60 
+Magdirag  931006077  4  1 Br  -     -     -         2840  140  180 
+Magdirag  931006085  4  4 c   k     b     -         2880  140  220 
+Magdirag  931006107  4  3 cf  -     -     -         2960   40    0 
+Magdirag  931006114  4  2 B   -     -     -         2920   40   60 
+Magdirag  931006121  4  1 Bc  kf    -     -         2940   40    0 
+Magdirag  931006134  4  4 r   f     -     -         2900   90    0 
+Magdirag  931006151  4  3 f   -     -     -         2810    0    0 
+Magdirag  931006159  4  2 Bk  kf    -     -         2810   40    0 
+Magdirag  931006176  4  1 Bc  kf    -     -         2770   40    0 
+Magdirag  931006194  4  4 f   -     -     -         2730    0    0 
+Magdirag  931006200  4  3 f   -     -     -         2730    0    0 
+Magdirag  931006205  4  2 B   -     -     -         2730   40   60 
+Magdirag  931006213  4  1 Bc  k     k     f         2750   40    0 
+Magdirag  931006233  4  4 r   c     c     c         2710 1120    0 9h 5h
+Magdirag  931006270  4  3 f   -     -     -         1590    0    0 
+Magdirag  931006281  4  2 Bf  -     -     -         1590   80    0 
+Magdirag  931006296  4  1 Bc  k     k     b         1510  280  560 2h Js
+Magdirag  931006315  4  4 c   k     k     b         1790  240  400 
+Magdirag  931006355  4  3 c   b     -     -         1950  280  400 
+Magdirag  931006364  4  2 Br  -     -     -         2070  280  400 
+Magdirag  931006374  4  1 Bc  k     k     b         2190  280  360 
+Magdirag  931006400  4  4 cc  f     -     -         2270  320    0 
+Magdirag  931006416  4  3 c   b     -     -         1950  280  400 
+Magdirag  931006427  4  2 Bf  -     -     -         2070   80    0 
+Magdirag  931006433  4  1 Brc k     b     -         1990 1840 2680 
+Magdirag  931006458  4  4 c   b     -     -         2830  280  400 
+Magdirag  931006467  4  3 cf  -     -     -         2950   80    0 
+Magdirag  931006488  4  2 B   -     -     -         2870   80  120 
+Magdirag  931006577  4  1 Bc  k     k     kf        2910  160    0 
+Magdirag  931006620  4  4 f   -     -     -         2750    0    0 
+Magdirag  931006632  4  3 f   -     -     -         2750    0    0 
+Magdirag  931006644  4  2 B   -     -     -         2750  160  240 
+Magdirag  931006652  4  1 Bf  -     -     -         2830   80    0 
+Magdirag  931006661  4  4 f   -     -     -         2750    0    0 
+Magdirag  931006673  4  3 c   b     -     -         2750  360  600 Th Qc
+Magdirag  931006701  3  2 Bk  k     f     -         2990  160    0 
+Magdirag  931006850  3  1 Bf  -     -     -         2830   80    0 
+Magdirag  931006857  3  3 f   -     -     -         2750    0    0 
+Magdirag  931006861  3  2 Bf  -     -     -         2750  160    0 
+Magdirag  931006895  3  1 Bf  -     -     -         2590  160    0 
+Magdirag  931006903  3  3 f   -     -     -         2430    0    0 
+Magdirag  931006907  3  2 Bf  -     -     -         2430  320    0 
+Magdirag  931006925  3  1 Bf  -     -     -         2110  160    0 
+Magdirag  931006945  3  3 f   -     -     -         1950    0    0 
+Magdirag  931006948  3  2 Bf  -     -     -         1950  320    0 
+Magdirag  931006953  3  1 Bf  -     -     -         1630  160    0 
+Magdirag  931006961  3  3 f   -     -     -         1470    0    0 
+Magdirag  931006963  3  2 Bf  -     -     -         1470  320    0 
+Magdirag  931006976  3  1 Bf  -     -     -         1150  160    0 
+Magdirag  931006986  3  3 f   -     -     -          990    0    0 
+Magdirag  931007000  3  2 Bf  -     -     -          990  320    0 
+Magdirag  931007007  3  1 Bf  -     -     -          670  160    0 
+Magdirag  931007071  3  3 f   -     -     -          510    0    0 
+Magdirag  931007079  3  2 Bf  -     -     -          510  320    0 
+Magdirag  931007089  3  1 Bf  -     -     -          190  160    0 
+Magdirag  931007098  3  3 f   -     -     -           30    0    0 
+Magdirag  931007108  3  2 BA  -     -     -           30   30   90 Td 5h
+Magdirag  931007131  3  1 BA  -     -     -           90   90    0 Tc Ts
+Magdirag  931795383 14  3 f   -     -     -        10000    0    0 
+Magdirag  931795595 14  2 Bk  kf    -     -        10000  100    0 
+Magdirag  931795725 14  1 Bf  -     -     -         9900   50    0 
+Magdirag  931795821 14 14 f   -     -     -         9850    0    0 
+Magdirag  931795988 14 13 f   -     -     -         9850    0    0 
+Magdirag  931796151 13 11 f   -     -     -         9850    0    0 
+Magdirag  931796212 13 10 f   -     -     -         9850    0    0 
+Magdirag  931796262 12  8 f   -     -     -         9850    0    0 
+Magdirag  931796345 12  7 f   -     -     -         9850    0    0 
+Magdirag  931796385 12  6 c   b     -     -         9850 2450 3100 Ks Ts
+Magdirag  931796436 12  5 crA -     -     -        10500 10500 1100 4h 4s
+Magdirag  931796494 12  4 f   -     -     -         1100    0    0 
+Magdirag  931796633 10  2 BcA -     -     -         1100 1100    0 Qh Kh
+Magdirag  932055928 20 11 f   -     -     -        10000    0    0 
+Magdirag  932056028 20 10 f   -     -     -        10000    0    0 
+Magdirag  932056118 20  9 cc  k     k     f        10000  750    0 
+Magdirag  932056255 20  8 f   -     -     -         9250    0    0 
+Magdirag  932056299 20  7 f   -     -     -         9250    0    0 
+Magdirag  932056359 20  6 c   kf    -     -         9250  200    0 
+Magdirag  932056441 20  5 cf  -     -     -         9050  200    0 
+Magdirag  932056513 20  4 f   -     -     -         8850    0    0 
+Magdirag  932056619 19  2 Bk  kf    -     -         8850  200    0 
+Magdirag  932056724 19  1 Bf  -     -     -         8650  200    0 
+Magdirag  932056801 18 18 f   -     -     -         8450    0    0 
+Magdirag  932056931 18 17 cf  -     -     -         8450  400    0 
+Magdirag  932057039 16 14 f   -     -     -         8050    0    0 
+Magdirag  932057156 14 12 f   -     -     -         8050    0    0 
+Magdirag  932057221 14 11 rA  -     -     -         8050 8050 18900 Ad Kc
+Magdirag  932057288 14 10 f   -     -     -        18900    0    0 
+Magdirag  932057366 12  8 rA  -     -     -        18900 18900 39500 7d 6d
+Magdirag  932057436 10  6 cc  c     c     -        39500 27800    0 Ad Js
+Magdirag  932057511 10  5 f   Q     -     -        11700    0    0 
+Magdirag  932368718 15  5 f   -     -     -         3000    0    0 
+Magdirag  932368736 15  4 f   -     -     -         3000    0    0 
+Magdirag  932368801 15  3 f   -     -     -         3000    0    0 
+Magdirag  932368857 15  2 Bf  -     -     -         3000   20    0 
+Magdirag  932369011 15  1 Bf  -     -     -         2980   10    0 
+Magdirag  932369084 14 14 f   -     -     -         2970    0    0 
+Magdirag  932369137 14 13 f   -     -     -         2970    0    0 
+Magdirag  932369209 14 12 r   b     b     -         2970  740 1180 
+Magdirag  932369253 14 11 f   -     -     -         3410    0    0 
+Magdirag  932369301 13  9 f   -     -     -         3410    0    0 
+Magdirag  932369348 13  8 f   -     -     -         3410    0    0 
+Magdirag  932369408 13  7 f   -     -     -         3410    0    0 
+Magdirag  932369470 13  6 f   -     -     -         3410    0    0 
+Magdirag  932369548 13  5 f   -     -     -         3410    0    0 
+Magdirag  932369599 13  4 f   -     -     -         3410    0    0 
+Magdirag  932369633 12  3 f   -     -     -         3410    0    0 
+Magdirag  932369703 12  2 Bk  k     b     b         3410  480 1600 8c Qd
+Magdirag  932369801 12  1 Bc  k     kc    k         4530  480 1200 As Td
+Magdirag  932369876 12 12 f   -     -     -         5250    0    0 
+Magdirag  932369905 12 11 f   -     -     -         5250    0    0 
+Magdirag  932369950 11 10 r   k     bA    -         5250 5250 6290 
+Magdirag  932370023 11  9 f   -     -     -         6290    0    0 
+Magdirag  932370047 11  8 f   -     -     -         6290    0    0 
+Magdirag  932370079 11  7 f   -     -     -         6290    0    0 
+Magdirag  932370121 11  6 c   bA    -     -         6290 6290 7330 
+Magdirag  932370169 11  5 f   -     -     -         7330    0    0 
+Magdirag  932370200 10  4 c   k     f     -         7330  160    0 
+Magdirag  932370276 10  3 f   -     -     -         7170    0    0 
+Magdirag  932370307  9  2 Bk  kf    -     -         7170  320    0 
+Magdirag  932370350  9  1 Br  bA    -     -         6850 6850 14340 Ad Ac
+Magdirag  932370404  9  9 f   -     -     -        14340    0    0 
+Magdirag  932370441  8  7 c   k     k     k        14340  320    0 2s Kc
+Magdirag  932370503  8  6 f   -     -     -        14020    0    0 
+Magdirag  932370520  8  5 f   -     -     -        14020    0    0 
+Magdirag  932370535  7  3 f   -     -     -        14020    0    0 
+Magdirag  932370557  7  2 Bk  k     kc    k        14020  720 1600 9d Ah
+Magdirag  932370586  7  1 Br  -     -     -        14900  720 1040 
+Magdirag  932370598  7  7 f   -     -     -        15220    0    0 
+Magdirag  932370606  7  6 f   -     -     -        15220    0    0 
+Magdirag  932370627  7  5 c   b     k     b        15220 5340 7320 
+Magdirag  932370665  7  4 c   kc    k     k        17200 1760    0 8s Ks
+Magdirag  932370696  7  3 f   -     -     -        15440    0    0 
+Magdirag  932370713  7  2 Bk  k     k     b        15440 9740 11020 
+Magdirag  932370753  7  1 Bf  -     -     -        16720  320    0 
+Magdirag  932370766  7  7 c   c     -     -        16400 4048    0 Jd Jc
+Magdirag  932370789  7  6 c   f     -     -        12352  640    0 
+Magdirag  932370814  7  5 c   r     -     -        11712 3840 7876 Tc Ts
+Magdirag  932370840  6  3 f   -     -     -        15748    0    0 
+Magdirag  932370850  6  3 f   -     -     -        15748    0    0 
+Magdirag  932370884  6  2 Bf  -     -     -        15748  640    0 
+Magdirag  932370899  6  1 Bf  -     -     -        15108  320    0 
+Magdirag  932370907  6  6 c   f     -     -        14788 2240    0 
+Magdirag  932370926  6  5 c   b     -     -        12548 9640 10600 
+Magdirag  932370950  6  4 cc  k     k     k        13508 2860    0 Kh Qh
+Magdirag  932370983  6  3 c   b     -     -        10648 2780 4700 
+Magdirag  932371009  6  2 Bk  k     k     kf       12568 1280    0 
+Magdirag  932371035  6  1 Bf  -     -     -        11288  640    0 
+Magdirag  932371047  5  5 c   k     f     -        10648 1280    0 
+Magdirag  932371076  5  5 f   -     -     -         9368    0    0 
+Magdirag  932371082  5  4 f   -     -     -         9368    0    0 
+Magdirag  932371087  5  3 f   -     -     -         9368    0    0 
+Magdirag  932371101  5  2 Bk  b     -     -         9368 5280 7200 
+Magdirag  932371121  5  1 Br  -     -     -        11288 5280 6560 
+Magdirag  932371136  5  5 f   -     -     -        12568    0    0 
+Magdirag  932371156  5  4 c   -     -     -        12568 1280 2400 4c Kd
+Magdirag  932371166  4  2 f   -     -     -        13688    0    0 
+Magdirag  932371184  3  1 B   -     -     -        13688 1280 1280 
+Magdirag  932371195  3  1 Bc  kf    -     -        13688 1280    0 
+Magdirag  932371212  3  3 r   -     -     -        12408 5280 7200 
+Magdirag  932371223  3  2 B   -     -     -        14328 1280 1920 
+Magdirag  932371229  3  1 Bf  -     -     -        14968  640    0 
+Magdirag  932371235  3  3 f   -     -     -        14328    0    0 
+Magdirag  932371257  3  2 Bf  -     -     -        14328 1280    0 
+Magdirag  932371270  3  1 Bf  -     -     -        13048  640    0 
+Magdirag  932371287  3  3 c   k     k     b        12408 5280 7840 
+Magdirag  932371314  3  2 B   -     -     -        14968 1280 1920 
+Magdirag  932371322  3  1 Bf  -     -     -        15608 1280    0 
+Magdirag  932371342  3  3 f   -     -     -        14328    0    0 
+Magdirag  932371348  3  2 Bf  -     -     -        14328 2560    0 
+Magdirag  932371354  3  1 BrcA -     -     -        11768 11768    0 4s Kh
+Magdirag  932894442  9  8 f   -     -     -         5000    0    0 
+Magdirag  932894563  9  7 f   -     -     -         5000    0    0 
+Magdirag  932894657  9  6 f   -     -     -         5000    0    0 
+Magdirag  932894712  9  5 c   kf    -     -         5000   50    0 
+Magdirag  932894797  9  4 f   -     -     -         4950    0    0 
+Magdirag  932894913  8  3 f   -     -     -         4950    0    0 
+Magdirag  932894963  8  2 Bc  bA    -     -         4950 4950 2200 7h 7c
+Magdirag  932894993  8  1 Bf  -     -     -         2200   50    0 
+Magdirag  932895065  7  7 crA -     -     -         2150 2150    0 3c 3s
+Magdirag  932896324  8  5 f   -     -     -         1000    0    0 
+Magdirag  932896351  8  4 f   -     -     -         1000    0    0 
+Magdirag  932896370  8  3 f   -     -     -         1000    0    0 
+Magdirag  932896389  8  2 Bk  k     bA    -         1000 1000 1025 
+Magdirag  932896414  8  1 Bc  k     k     b         1025  210  220 
+Magdirag  932896432  8  8 f   -     -     -         1035    0    0 
+Magdirag  932896485  8  7 f   -     -     -         1035    0    0 
+Magdirag  932896521  8  6 f   -     -     -         1035    0    0 
+Magdirag  932896561  8  5 f   -     -     -         1035    0    0 
+Magdirag  932896607  8  4 f   -     -     -         1035    0    0 
+Magdirag  932896642  8  3 f   -     -     -         1035    0    0 
+Magdirag  932896706  7  2 Bk  k     kc    k         1035  100  240 5h 9s
+Magdirag  932896755  7  1 Bf  -     -     -         1175   10    0 
+Magdirag  932896800  7  7 c   k     k     k         1165   20    0 2s Ac
+Magdirag  932896842  7  6 f   -     -     -         1145    0    0 
+Magdirag  932896858  7  5 c   b     b     b         1145  320  680 2h 8h
+Magdirag  932896898  7  4 f   -     -     -         1505    0    0 
+Magdirag  932896923  7  3 f   -     -     -         1505    0    0 
+Magdirag  932896938  7  2 Bk  f     -     -         1505   20    0 
+Magdirag  932896963  7  1 Bf  -     -     -         1485   20    0 
+Magdirag  932896978  7  7 f   -     -     -         1465    0    0 
+Magdirag  932896987  7  6 f   -     -     -         1465    0    0 
+Magdirag  932897016  7  5 f   -     -     -         1465    0    0 
+Magdirag  932897051  7  4 c   k     b     brA       1465 1465 2858 Kh 4c
+Magdirag  932897113  6  3 f   -     -     -         2858    0    0 
+Magdirag  932897135  6  2 Bk  k     k     kf        2858   40    0 
+Magdirag  932897171  6  1 Bc  kf    -     -         2818   40    0 
+Magdirag  932897230  6  6 c   c     f     -         2778  187    0 
+Magdirag  932897297  6  5 f   -     -     -         2591    0    0 
+Magdirag  932897342  6  4 f   -     -     -         2591    0    0 
+Magdirag  932897376  6  3 c   k     k     c         2591  400    0 Ac 7h
+Magdirag  932897421  6  2 Bk  r     -     -         2191  760  272 2d 3d
+Magdirag  932897452  5  1 Bf  -     -     -         1703   40    0 
+Magdirag  932897465  5  5 f   -     -     -         1663    0    0 
+Magdirag  932897492  5  4 f   -     -     -         1663    0    0 
+Magdirag  932897577  5  3 f   -     -     -         1663    0    0 
+Magdirag  932897636  5  2 Bk  k     kf    -         1663  160    0 
+Magdirag  932897680  5  1 Bf  -     -     -         1503   80    0 
+Magdirag  932897731  5  5 r   bA    -     -         1423 1423 2903 
+Magdirag  932897781  5  4 f   -     -     -         2903    0    0 
+Magdirag  932897808  5  3 f   -     -     -         2903    0    0 
+Magdirag  932897837  5  2 Bk  k     k     kf        2903  160    0 
+Magdirag  932897897  5  1 Bf  -     -     -         2743   80    0 
+Magdirag  932897950  5  5 c   k     f     -         2663  320    0 
+Magdirag  932897988  5  4 c   k     b     -         2343  960 1652 9d 8d
+Magdirag  932898035  4  2 f   -     -     -         3035    0    0 
+Magdirag  932898066  4  2 Bf  -     -     -         3035  320    0 
+Magdirag  932898086  4  1 Bc  -     -     -         2715  163  326 5h Th
+Magdirag  932898099  3  3 f   -     -     -         2878    0    0 
+Magdirag  932898113  3  3 f   -     -     -         2878    0    0 
+Magdirag  932898120  3  2 Brc -     -     -         2878 2056 4272 Ts Ad
+Magdirag  932898137  2  1 Bc  kf    -     -         5094  320    0 
+Magdirag  932898155  2  2 Bk  k     k     k         4774  320  640 6c 8h
+Magdirag  932898180  2  1 Bc  k     kf    -         5094  320    0 
+Magdirag  932898198  2  2 Bk  k     f     -         4774  320    0 
+Magdirag  932898218  2  1 Bf  -     -     -         4454  160    0 
+Magdirag  932898227  2  2 B   -     -     -         4294  320  480 
+Magdirag  932898230  2  1 Bf  -     -     -         4454  160    0 
+Magdirag  932898232  2  2 B   -     -     -         4294  320  480 
+Magdirag  932898235  2  1 Bf  -     -     -         4454  160    0 
+Magdirag  932898239  2  2 B   -     -     -         4294  320  480 
+Magdirag  932898241  2  1 Bc  bA    -     -         4454 4454 4774 
+Magdirag  932898252  2  2 Bf  -     -     -         4774  640    0 
+Magdirag  932898260  2  1 Bc  k     k     k         4134  640  640 Td Jh
+Magdirag  932898281  2  2 B   -     -     -         4134  640  960 
+Magdirag  932898285  2  1 Bc  kf    -     -         4454  640    0 
+Magdirag  932898303  2  2 Bk  f     -     -         3814  640    0 
+Magdirag  932898321  2  1 Bf  -     -     -         3174  320    0 
+Magdirag  932898325  2  2 B   -     -     -         2854  640  960 
+Magdirag  932898327  2  1 Bf  -     -     -         3174  320    0 
+Magdirag  932898330  2  2 B   -     -     -         2854  640  960 
+Magdirag  932898332  2  1 Bf  -     -     -         3174  320    0 
+Magdirag  932898335  2  2 Bk  bA    -     -         2854 2854 3494 
+Magdirag  932898346  2  1 Br  k     kf    -         3494 1280    0 
+Magdirag  932898376  2  2 Bk  k     k     bA        2214 2214 2854 
+Magdirag  932898403  2  1 Bf  -     -     -         2854  320    0 
+Magdirag  932898407  2  2 BrA -     -     -         2534 2534 3174 
+Magdirag  932898419  2  1 Bf  -     -     -         3174  320    0 
+Magdirag  932898423  2  2 B   -     -     -         2854  640  960 
+Magdirag  932898425  2  1 Bf  -     -     -         3174  320    0 
+Magdirag  932898428  2  2 B   -     -     -         2854  640  960 
+Magdirag  932898430  2  1 Bf  -     -     -         3174  320    0 
+Magdirag  932898433  2  2 B   -     -     -         2854  640  960 
+Magdirag  932898435  2  1 Bc  bA    -     -         3174 3174 3814 
+Magdirag  932898446  2  2 B   -     -     -         3814  640  960 
+Magdirag  932898449  2  1 Bf  -     -     -         4134  320    0 
+Magdirag  932898451  2  2 B   -     -     -         3814  640  960 
+Magdirag  932898454  2  1 Br  kf    -     -         4134 1280    0 
+Magdirag  932898470  2  2 B   -     -     -         2854  640  960 
+Magdirag  932898472  2  1 Br  -     -     -         3174 1640 2280 
+Magdirag  932898480  2  2 Bf  -     -     -         3814  640    0 
+Magdirag  932898486  2  1 Br  -     -     -         3174 1640 2280 
+Magdirag  932898490  2  2 B   -     -     -         3814  640  960 
+Magdirag  932898492  2  1 Bf  -     -     -         4134  320    0 
+Magdirag  932898496  2  2 Bk  k     f     -         3814  640    0 
+Magdirag  932898510  2  1 Bc  bcA   -     -         3174 3174 6348 Qs 9s
+Magdirag  932898528  2  2 Bk  k     f     -         6348  640    0 
+Magdirag  932898551  2  1 Br  -     -     -         5708 1280 1920 
+Magdirag  932898562  2  2 B   -     -     -         6348 1280 1920 
+Magdirag  932898564  2  1 Bc  -     -     -         6988 1012 2024 9c Ts
+Magdirag  932899165  5  3 f   -     -     -         1000    0    0 
+Magdirag  932899241  5  2 Bk  k     k     k         1000   10    0 8d Ad
+Magdirag  932899259  5  1 Bf  -     -     -          990    5    0 
+Magdirag  932899267  5  5 f   -     -     -          985    0    0 
+Magdirag  932899297  5  4 f   -     -     -          985    0    0 
+Magdirag  932899318  5  3 f   -     -     -          985    0    0 
+Magdirag  932899337  5  2 Bk  kf    -     -          985   10    0 
+Magdirag  932899404  5  1 Bf  -     -     -          975    5    0 
+Magdirag  932899420  5  5 f   -     -     -          970    0    0 
+Magdirag  932899468  5  4 f   -     -     -          970    0    0 
+Magdirag  932899496  5  3 f   -     -     -          970    0    0 
+Magdirag  932899554  5  2 Bk  k     f     -          970   20    0 
+Magdirag  932899608  5  1 Bf  -     -     -          950   10    0 
+Magdirag  932899635  5  5 f   -     -     -          940    0    0 
+Magdirag  932899662  5  4 f   -     -     -          940    0    0 
+Magdirag  932899684  5  3 f   -     -     -          940    0    0 
+Magdirag  932899703  5  2 Bk  k     k     k          940   20   70 Ts 6c
+Magdirag  932899754  5  1 Bf  -     -     -          990   10    0 
+Magdirag  932899803  5  5 f   -     -     -          980    0    0 
+Magdirag  932899849  5  4 f   -     -     -          980    0    0 
+Magdirag  932899904  5  3 f   -     -     -          980    0    0 
+Magdirag  932899922  5  2 Bk  kf    -     -          980   40    0 
+Magdirag  932899968  5  1 Bf  -     -     -          940   20    0 
+Magdirag  932900004  5  5 f   -     -     -          920    0    0 
+Magdirag  932900027  5  4 f   -     -     -          920    0    0 
+Magdirag  932900070  5  3 f   -     -     -          920    0    0 
+Magdirag  932900101  5  2 Bk  k     f     -          920   40    0 
+Magdirag  932900132  5  1 Bf  -     -     -          880   40    0 
+Magdirag  932900144  5  5 f   -     -     -          840    0    0 
+Magdirag  932900150  5  4 f   -     -     -          840    0    0 
+Magdirag  932900188  4  2 Bk  k     k     k          840   80  160 Tc 3d
+Magdirag  932900226  4  1 Bf  -     -     -          920   40    0 
+Magdirag  932900240  3  3 f   -     -     -          880    0    0 
+Magdirag  932900264  3  2 Bf  -     -     -          880   80    0 
+Magdirag  932900273  3  1 Bf  -     -     -          800   40    0 
+Magdirag  932900284  3  3 f   -     -     -          760    0    0 
+Magdirag  932900310  3  2 Bf  -     -     -          760   80    0 
+Magdirag  932900322  3  1 Bf  -     -     -          680   40    0 
+Magdirag  932900358  3  3 f   -     -     -          640    0    0 
+Magdirag  932900370  3  2 B   -     -     -          640   80  120 
+Magdirag  932900378  3  1 Bf  -     -     -          680   40    0 
+Magdirag  932900405  3  3 f   -     -     -          640    0    0 
+Magdirag  932900413  3  2 Bf  -     -     -          640   80    0 
+Magdirag  932900420  3  1 Bf  -     -     -          560   40    0 
+Magdirag  932900447  3  3 f   -     -     -          520    0    0 
+Magdirag  932900477  3  2 Bf  -     -     -          520  160    0 
+Magdirag  932900484  3  1 Bf  -     -     -          360   80    0 
+Magdirag  932900492  3  3 f   -     -     -          280    0    0 
+Magdirag  932900497  3  2 Bf  -     -     -          280  160    0 
+Magdirag  932900510  3  1 Bf  -     -     -          120   80    0 
+Magdirag  932900513  3  3 f   -     -     -           40    0    0 
+Magdirag  932900540  3  2 BA  -     -     -           40   40    0 Kh Th
+Magdirag  932906144  7  7 f   -     -     -        10000    0    0 
+Magdirag  932906191  7  6 f   -     -     -        10000    0    0 
+Magdirag  932906283  7  5 f   -     -     -        10000    0    0 
+Magdirag  932906314  7  4 f   -     -     -        10000    0    0 
+Magdirag  932906324  7  3 f   -     -     -        10000    0    0 
+Magdirag  932906342  7  2 Br  k     k     k        10000  300    0 Ac Jd
+Magdirag  932906385  7  1 Bf  -     -     -         9700   50    0 
+Magdirag  932906411  7  7 f   -     -     -         9650    0    0 
+Magdirag  932906448  7  6 f   -     -     -         9650    0    0 
+Magdirag  932906481  7  5 f   -     -     -         9650    0    0 
+Magdirag  932906497  7  4 f   -     -     -         9650    0    0 
+Magdirag  932906515  7  3 f   -     -     -         9650    0    0 
+Magdirag  932906543  7  2 Bk  kf    -     -         9650  200    0 
+Magdirag  932906561  7  1 Bf  -     -     -         9450  100    0 
+Magdirag  932906588  7  7 c   b     -     -         9350  700 1100 
+Magdirag  932906613  7  6 f   -     -     -         9750    0    0 
+Magdirag  932906639  7  5 f   -     -     -         9750    0    0 
+Magdirag  932906650  7  4 f   -     -     -         9750    0    0 
+Magdirag  932906672  7  3 f   -     -     -         9750    0    0 
+Magdirag  932906681  7  2 Bf  -     -     -         9750  200    0 
+Magdirag  932906688  7  1 Bc  brA   -     -         9550 9550 12050 
+Magdirag  932906717  7  7 cf  -     -     -        12050  200    0 
+Magdirag  932906745  7  6 f   -     -     -        11850    0    0 
+Magdirag  932906775  6  4 f   -     -     -        11850    0    0 
+Magdirag  932906803  6  4 f   -     -     -        11850    0    0 
+Magdirag  932906810  6  3 f   -     -     -        11850    0    0 
+Magdirag  932906813  6  2 Br  c     c     -        11850 10450 22500 Jd Kd
+Magdirag  932906849  5  1 Bf  -     -     -        23900  200    0 
+Magdirag  932906864  5  5 r   b     -     -        23700 2400 4200 
+Magdirag  932906878  5  4 r   f     -     -        25500 1400    0 
+Magdirag  932906891  5  3 c   b     -     -        24100 1400 2000 
+Magdirag  932906899  5  2 Bk  kr    -     -        24700 3400 5000 
+Magdirag  932906916  5  1 Bf  -     -     -        26300  200    0 
+Magdirag  932906929  5  5 f   -     -     -        26100    0    0 
+Magdirag  932906937  5  4 f   -     -     -        26100    0    0 
+Magdirag  932906943  5  3 c   b     -     -        26100  900 2100 
+Magdirag  932906960  5  2 Bk  kf    -     -        27300  400    0 
+Magdirag  932906975  5  1 Bc  k     kr    -        26900 14700 16700 
+Magdirag  932906999  5  5 c   b     -     -        28900  900 1700 
+Magdirag  932907017  5  4 f   -     -     -        29700    0    0 
+Magdirag  932907023  5  3 f   -     -     -        29700    0    0 
+Magdirag  932907037  5  2 Bf  -     -     -        29700  400    0 
+Magdirag  932907046  5  1 Br  kf    -     -        29300  900    0 
+Magdirag  932907060  5  5 c   k     k     b        28400 1400    0 7d Ah
+Magdirag  932907090  5  4 c   b     -     -        27000 1400 2000 
+Magdirag  932907113  5  3 c   kf    -     -        27600  400    0 
+Magdirag  932907133  5  2 Bf  -     -     -        27200  400    0 
+Magdirag  932907157  5  1 Bc  k     b     -        26800 5800 6600 
+Magdirag  932907181  5  5 f   -     -     -        27600    0    0 
+Magdirag  932907192  4  3 f   -     -     -        27600    0    0 
+Magdirag  932907208  4  3 f   -     -     -        27600    0    0 
+Magdirag  932907220  4  2 Bf  -     -     -        27600  800    0 
+Magdirag  932907225  4  1 Bf  -     -     -        26800  400    0 
+Magdirag  932907229  4  4 f   -     -     -        26400    0    0 
+Magdirag  932907238  4  3 f   -     -     -        26400    0    0 
+Magdirag  932907243  4  2 Bf  -     -     -        26400  800    0 
+Magdirag  932907248  4  1 Brc bA    -     -        25600 25600 31000 
+Magdirag  932907265  4  4 c   k     k     k        31000  800    0 Kd 3d
+Magdirag  932907287  4  3 f   -     -     -        30200    0    0 
+Magdirag  932907300  4  2 B   -     -     -        30200  800 1200 
+Magdirag  932907302  4  1 Bf  -     -     -        30600  400    0 
+Magdirag  932907307  4  4 f   -     -     -        30200    0    0 
+Magdirag  932907321  4  3 f   -     -     -        30200    0    0 
+Magdirag  932907327  4  2 Bf  -     -     -        30200  800    0 
+Magdirag  932907340  3  1 Br  kf    -     -        29400 1800    0 
+Magdirag  932907355  3  3 c   f     -     -        27600  800    0 
+Magdirag  932907369  3  2 Bf  -     -     -        26800  800    0 
+Magdirag  932907374  3  1 Bf  -     -     -        26000  400    0 
+Magdirag  932907378  3  3 f   -     -     -        25600    0    0 
+Magdirag  932907386  3  2 B   -     -     -        25600  800 1200 
+Magdirag  932907388  3  1 Bf  -     -     -        26000  400    0 
+Magdirag  932907405  3  3 c   f     -     -        25600  800    0 
+Magdirag  932907422  2  1 Br  k     krA   -        24800 24800    0 Ac 3c
+Magdirag  932907670  8  8 c   r     b     rA       10000 10000    0 Ks Js
+Magdirag  932923390  8  8 c   f     -     -         5000  180    0 
+Magdirag  932923411  8  7 f   -     -     -         4820    0    0 
+Magdirag  932923475  8  6 f   -     -     -         4820    0    0 
+Magdirag  932923502  8  5 f   -     -     -         4820    0    0 
+Magdirag  932923533  8  4 f   -     -     -         4820    0    0 
+Magdirag  932923587  8  3 f   -     -     -         4820    0    0 
+Magdirag  932923618  8  2 Bc  kf    -     -         4820  290    0 
+Magdirag  932923652  8  1 Bc  kc    bA    -         4530 4530 5030 
+Magdirag  932923701  8  8 f   -     -     -         5030    0    0 
+Magdirag  932923752  8  7 f   -     -     -         5030    0    0 
+Magdirag  932923792  8  6 f   -     -     -         5030    0    0 
+Magdirag  932923815  8  5 f   -     -     -         5030    0    0 
+Magdirag  932923858  8  4 f   -     -     -         5030    0    0 
+Magdirag  932923880  8  3 f   -     -     -         5030    0    0 
+Magdirag  932923942  7  2 Bk  k     k     k         5030   80  200 5h Jc
+Magdirag  932923994  7  1 Bf  -     -     -         5150   40    0 
+Magdirag  932924034  7  7 f   -     -     -         5110    0    0 
+Magdirag  932924074  7  6 r   rA    -     -         5110 5110    0 Ts Th
+Magdirag  932928140 12  3 f   -     -     -         3500    0    0 
+Magdirag  932928211 12  2 Bf  -     -     -         3500   30    0 
+Magdirag  932928307 12  1 Bc  k     kf    -         3470   30    0 
+Magdirag  932928409 12 12 f   -     -     -         3440    0    0 
+Magdirag  932928448 12 11 f   -     -     -         3440    0    0 
+Magdirag  932928495 12 10 r   b     b     brA       3440 3440    0 Qh Kh
+Magdirag  933275495 17  7 f   -     -     -         1000    0    0 
+Magdirag  933275574 17  6 f   -     -     -         1000    0    0 
+Magdirag  933275702 17  5 f   -     -     -         1000    0    0 
+Magdirag  933275756 17  4 f   -     -     -         1000    0    0 
+Magdirag  933275837 15  3 c   br    -     -         1000  795    0 7c 7h
+Magdirag  933275897 15  2 Bk  k     f     -          205   20    0 
+Magdirag  933275984 15  1 Bf  -     -     -          185   10    0 
+Magdirag  933276052 15 15 rA  -     -     -          175  175  380 Kd Js
+Magdirag  933276101 15 14 f   -     -     -          380    0    0 
+Magdirag  933276214 14 12 rA  -     -     -          380  380    0 Kc Ks

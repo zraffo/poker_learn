@@ -1,0 +1,479 @@
+vonmises  998192864 14  5 c   kc    kf    -        10000  150    0 
+vonmises  998192920 14  4 f   -     -     -         9850    0    0 
+vonmises  998192948 14  3 f   -     -     -         9850    0    0 
+vonmises  998192982 14  2 Bk  kc    k     b         9850  750 1050 
+vonmises  998193026 14  1 Bf  -     -     -        10150   25    0 
+vonmises  998193070 13 13 f   -     -     -        10125    0    0 
+vonmises  998193180 13 12 c   b     b     -        10125 1150 1650 
+vonmises  998193244 13 11 f   -     -     -        10625    0    0 
+vonmises  998193319 13 10 f   -     -     -        10625    0    0 
+vonmises  998193379 13  9 c   c     k     c        10625  800    0 Ad 9c
+vonmises  998193455 12  7 f   -     -     -         9825    0    0 
+vonmises  998193532 12  7 c   f     -     -         9825  100    0 
+vonmises  998193568 12  6 f   -     -     -         9725    0    0 
+vonmises  998193618 12  5 c   f     -     -         9725  100    0 
+vonmises  998193659 12  4 f   -     -     -         9625    0    0 
+vonmises  998193674 12  3 f   -     -     -         9625    0    0 
+vonmises  998193699 12  2 Bk  k     kf    -         9625  100    0 
+vonmises  998193743 12  1 Bc  kf    -     -         9525  200    0 
+vonmises  998193798 12 12 c   f     -     -         9325  700    0 
+vonmises  998193853 12 11 c   b     c     c         8625 4050 8400 Kc Td
+vonmises  998193901 12 10 f   -     -     -        12975    0    0 
+vonmises  998193979 12  9 f   -     -     -        12975    0    0 
+vonmises  998194031 12  8 f   -     -     -        12975    0    0 
+vonmises  998194075 12  7 f   -     -     -        12975    0    0 
+vonmises  998194126 12  6 f   -     -     -        12975    0    0 
+vonmises  998194222 12  5 cr  c     -     -        12975 6425    0 Qs Qd
+vonmises  998194258 12  4 c   b     -     -         6550 2200 3600 
+vonmises  998194293 12  3 c   b     -     -         7950 1400 2000 
+vonmises  998194322 12  2 Bk  kf    -     -         8550  400    0 
+vonmises  998194379 11  1 Bf  -     -     -         8150  200    0 
+vonmises  998194401 11 11 f   -     -     -         7950    0    0 
+vonmises  998194467 11 10 c   f     -     -         7950  850    0 
+vonmises  998194526 10  8 f   -     -     -         7100    0    0 
+vonmises  998194590 10  7 f   -     -     -         7100    0    0 
+vonmises  998194636 10  6 f   -     -     -         7100    0    0 
+vonmises  998194733 10  5 c   k     k     k         7100  800 3200 Jc 5c
+vonmises  998194799 10  4 f   -     -     -         9500    0    0 
+vonmises  998194848 10  3 cf  -     -     -         9500  800    0 
+vonmises  998194908 10  2 Bf  -     -     -         8700  800    0 
+vonmises  998194933  9  1 Bc  kf    -     -         7900  800    0 
+vonmises  998194991  9  9 c   f     -     -         7100  800    0 
+vonmises  998195051  9  8 f   -     -     -         6300    0    0 
+vonmises  998195090  9  7 c   f     -     -         6300 1600    0 
+vonmises  998195132  9  6 c   f     -     -         4700 1600    0 
+vonmises  998195171  9  5 f   -     -     -         3100    0    0 
+vonmises  998195205  9  4 f   -     -     -         3100    0    0 
+vonmises  998195240  9  3 f   -     -     -         3100    0    0 
+vonmises  998195270  9  2 BrA -     -     -         3100 3100    0 Ah Qc
+vonmises  998327774  6  6 f   -     -     -         8000    0    0 
+vonmises  998327813  6  5 c   k     k     k         8000  100    0 2d 2c
+vonmises  998327861  6  4 c   f     -     -         7900  100    0 
+vonmises  998327911  6  3 c   k     kf    -         7800  100    0 
+vonmises  998327969  6  2 Bf  -     -     -         7700  100    0 
+vonmises  998327976  6  1 Bc  kc    b     kf        7600 1700    0 
+vonmises  998328062  6  6 c   c     k     b         5900 2100 3000 
+vonmises  998328118  6  5 f   -     -     -         6800    0    0 
+vonmises  998328160  6  4 f   -     -     -         6800    0    0 
+vonmises  998328180  6  3 f   -     -     -         6800    0    0 
+vonmises  998328205  6  2 Bk  k     k     kf        6800  200    0 
+vonmises  998328269  6  1 Bf  -     -     -         6600  100    0 
+vonmises  998328322  6  6 f   -     -     -         6500    0    0 
+vonmises  998328356  6  5 f   -     -     -         6500    0    0 
+vonmises  998328384  6  4 f   -     -     -         6500    0    0 
+vonmises  998328430  6  3 f   -     -     -         6500    0    0 
+vonmises  998328454  6  2 Bk  k     k     kf        6500  400    0 
+vonmises  998328493  5  1 Bf  -     -     -         6100  200    0 
+vonmises  998328526  5  5 c   b     -     -         5900 2000 3200 
+vonmises  998328548  5  4 f   -     -     -         7100    0    0 
+vonmises  998328557  5  3 f   -     -     -         7100    0    0 
+vonmises  998328606  5  2 Bk  kc    kf    -         7100 1100    0 
+vonmises  998328651  5  1 Bf  -     -     -         6000  200    0 
+vonmises  998328664  5  5 f   -     -     -         5800    0    0 
+vonmises  998328670  5  4 f   -     -     -         5800    0    0 
+vonmises  998328724  5  3 c   b     kcA   -         5800 5800    0 2d Jd
+vonmises  998347391 16  9 f   -     -     -        10000    0    0 
+vonmises  998347476 15  8 f   -     -     -        10000    0    0 
+vonmises  998347566 15  7 c   f     -     -        10000  100    0 
+vonmises  998347660 14  5 cc  b     k     bA        9900 9900   25 Jh Js
+vonmises  998347740 14  4 cA  -     -     -           25   25    0 4d 4s
+vonmises  998356132 12  4 c   f     -     -        10000  100    0 
+vonmises  998356192 11  2 B   -     -     -         9900  100  150 
+vonmises  998356215 11  1 Bf  -     -     -         9950   50    0 
+vonmises  998356302 10 10 f   -     -     -         9900    0    0 
+vonmises  998356359 10  9 f   -     -     -         9900    0    0 
+vonmises  998356459  9  8 f   -     -     -         9900    0    0 
+vonmises  998356618  9  7 f   -     -     -         9900    0    0 
+vonmises  998356741  9  6 c   k     b     b         9900 3400 4800 
+vonmises  998356869  9  5 f   -     -     -        11300    0    0 
+vonmises  998356927  9  4 f   -     -     -        11300    0    0 
+vonmises  998357015  9  3 f   -     -     -        11300    0    0 
+vonmises  998357076  8  2 Bk  kf    -     -        11300  400    0 
+vonmises  998357196  8  1 Bf  -     -     -        10900  200    0 
+vonmises  998357260  8  8 c   k     k     f        10700  400    0 
+vonmises  998357368  8  7 f   -     -     -        10300    0    0 
+vonmises  998357450  8  6 c   k     b     b        10300 9200 17734 Th Ah
+vonmises  998357533  7  5 f   -     -     -        18834    0    0 
+vonmises  998357615  7  4 c   k     k     kf       18834  800    0 
+vonmises  998357721  7  3 f   -     -     -        18034    0    0 
+vonmises  998357806  7  2 Bk  k     k     k        18034  800    0 6s Qh
+vonmises  998357901  7  1 Bf  -     -     -        17234  400    0 
+vonmises  998358030  7  7 c   f     -     -        16834 1600    0 
+vonmises  998358116  7  6 f   -     -     -        15234    0    0 
+vonmises  998358192  7  5 f   -     -     -        15234    0    0 
+vonmises  998358270  7  4 c   k     k     k        15234 1600 2800 Jc 9s
+vonmises  998358314  7  3 f   -     -     -        16434    0    0 
+vonmises  998358354  7  2 B   -     -     -        16434 1600 2400 
+vonmises  998358383  7  1 Bf  -     -     -        17234  800    0 
+vonmises  998358454  7  7 f   -     -     -        16434    0    0 
+vonmises  998358495  7  6 c   kf    -     -        16434 3200    0 
+vonmises  998358549  6  4 c   k     k     k        13234 3200 9100 5d Ah
+vonmises  998358603  5  3 f   -     -     -        19134    0    0 
+vonmises  998358645  5  3 c   k     k     k        19134 3200 8000 Kh Ts
+vonmises  998358669  5  2 Bc  kf    -     -        23934 5300    0 
+vonmises  998358721  4  1 Bc  k     b     -        18634 12800 19200 
+vonmises  998358764  4  4 f   -     -     -        25034    0    0 
+vonmises  998358795  4  3 f   -     -     -        25034    0    0 
+vonmises  998358849  4  2 Bk  k     k     f        25034 3200    0 
+vonmises  998358881  4  1 Bf  -     -     -        21834 3200    0 
+vonmises  998358927  4  4 f   -     -     -        18634    0    0 
+vonmises  998358966  4  3 c   k     k     b        18634 16000 28800 
+vonmises  998359025  4  2 Bk  kc    -     -        31434 11420 26040 7s 7c
+vonmises  998359054  3  1 Bf  -     -     -        46054 3200    0 
+vonmises  998359073  3  3 f   -     -     -        42854    0    0 
+vonmises  998359081  3  2 B   -     -     -        42854 6400 9600 
+vonmises  998359091  3  1 Bf  -     -     -        46054 3200    0 
+vonmises  998359100  3  3 c   f     -     -        42854 6400    0 
+vonmises  998359118  3  2 B   -     -     -        36454 6400 9600 
+vonmises  998359124  3  1 Bf  -     -     -        39654 3200    0 
+vonmises  998359127  3  3 f   -     -     -        36454    0    0 
+vonmises  998359145  2  1 Bk  k     k     b        36454 19200 25600 
+vonmises  998359176  2  1 Bc  bcA   -     -        42854 42854    0 Ah 8s
+vonmises  999110144 13  9 f   -     -     -        10000    0    0 
+vonmises  999110196 10  7 cf  -     -     -        10000   50    0 
+vonmises  999110289 10  6 f   -     -     -         9950    0    0 
+vonmises  999110349 10  5 f   -     -     -         9950    0    0 
+vonmises  999110450 10  4 f   -     -     -         9950    0    0 
+vonmises  999110489 10  3 cc  k     k     k         9950  475    0 As 2s
+vonmises  999110528  9  2 Bk  f     -     -         9475  100    0 
+vonmises  999110599  9  1 Bf  -     -     -         9375   50    0 
+vonmises  999110650  9  9 f   -     -     -         9325    0    0 
+vonmises  999110682  9  8 f   -     -     -         9325    0    0 
+vonmises  999110726  9  7 f   -     -     -         9325    0    0 
+vonmises  999110740  9  6 f   -     -     -         9325    0    0 
+vonmises  999110804  9  5 f   -     -     -         9325    0    0 
+vonmises  999110858  9  4 f   -     -     -         9325    0    0 
+vonmises  999110902  9  3 f   -     -     -         9325    0    0 
+vonmises  999110949  9  2 Bk  k     kf    -         9325  200    0 
+vonmises  999111011  9  1 Bf  -     -     -         9125  100    0 
+vonmises  999111051  9  9 f   -     -     -         9025    0    0 
+vonmises  999111102  9  8 f   -     -     -         9025    0    0 
+vonmises  999111136  9  7 f   -     -     -         9025    0    0 
+vonmises  999111147  9  6 c   f     -     -         9025  400    0 
+vonmises  999111179  9  5 f   -     -     -         8625    0    0 
+vonmises  999111206  9  4 f   -     -     -         8625    0    0 
+vonmises  999111233  9  3 f   -     -     -         8625    0    0 
+vonmises  999111283  9  2 Bk  kf    -     -         8625  400    0 
+vonmises  999111339  9  1 Bc  kf    -     -         8225  400    0 
+vonmises  999111378  9  9 c   f     -     -         7825 1100    0 
+vonmises  999111439  9  8 c   k     k     f         6725  800    0 
+vonmises  999111470  9  7 c   cA    -     -         5925 5925    0 4c 5c
+vonmises  999198423 10  6 cc  kf    -     -        10000  775    0 
+vonmises  999198592 10  5 c   k     k     k         9225   50    0 Qd 2d
+vonmises  999198642 10  4 f   -     -     -         9175    0    0 
+vonmises  999198792 10  3 f   -     -     -         9175    0    0 
+vonmises  999198850 10  2 Bk  k     kf    -         9175  100    0 
+vonmises  999198931 10  1 Bc  bc    kf    -         9075 1300    0 
+vonmises  999199007 10 10 f   -     -     -         7775    0    0 
+vonmises  999199122 10  9 f   -     -     -         7775    0    0 
+vonmises  999199134 10  8 c   kc    kf    -         7775 1200    0 
+vonmises  999199271 10  7 f   -     -     -         6575    0    0 
+vonmises  999199334  8  4 f   -     -     -         6575    0    0 
+vonmises  999199393  8  3 f   -     -     -         6575    0    0 
+vonmises  999199437  7  2 Bf  -     -     -         6575  400    0 
+vonmises  999199482  6  1 Bf  -     -     -         6175  200    0 
+vonmises  999199523  6  6 f   -     -     -         5975    0    0 
+vonmises  999199535  6  5 f   -     -     -         5975    0    0 
+vonmises  999199569  6  4 c   k     k     k         5975  400 1000 Ac 7d
+vonmises  999199595  6  3 c   k     k     f         6575  400    0 
+vonmises  999199623  6  2 Br  k     b     -         6175 3600 4800 
+vonmises  999199664  6  1 Bc  kf    -     -         7375  800    0 
+vonmises  999199699  6  6 f   -     -     -         6575    0    0 
+vonmises  999199723  6  5 c   k     k     k         6575 1400    0 Qd As
+vonmises  999199750  6  4 f   -     -     -         5175    0    0 
+vonmises  999199765  6  3 f   -     -     -         5175    0    0 
+vonmises  999199778  6  2 Bf  -     -     -         5175  800    0 
+vonmises  999199819  6  1 Bf  -     -     -         4375  400    0 
+vonmises  999199844  6  6 c   f     -     -         3975  800    0 
+vonmises  999199884  6  5 rA  -     -     -         3175 3175 3775 Js 8s
+vonmises  999199897  6  4 f   -     -     -         3775    0    0 
+vonmises  999199926  5  2 B   -     -     -         3775  800 1200 
+vonmises  999199935  5  1 Bc  kf    -     -         4175  800    0 
+vonmises  999199967  5  5 c   f     -     -         3375  800    0 
+vonmises  999199990  5  4 c   bA    -     -         2575 2575 4575 
+vonmises  999200017  5  3 f   -     -     -         4575    0    0 
+vonmises  999200036  5  2 BrA -     -     -         4575 4575    0 Qd Kc
+vonmises  999201154  5  5 f   -     -     -        10000    0    0 
+vonmises  999201204  5  4 cc  kf    -     -        10000  225    0 
+vonmises  999201228  5  3 c   b     k     f         9775  175    0 
+vonmises  999201252  5  2 Bf  -     -     -         9600   50    0 
+vonmises  999201290  5  1 Bc  kf    -     -         9550   50    0 
+vonmises  999201327  5  5 c   k     b     -         9500  250  400 
+vonmises  999201366  5  4 f   -     -     -         9650    0    0 
+vonmises  999201374  5  3 f   -     -     -         9650    0    0 
+vonmises  999201379  5  2 Bk  kf    -     -         9650   50    0 
+vonmises  999201411  5  1 Brc kc    -     -         9600 8284 16668 Kc Kd
+vonmises  999201442  4  4 c   f     -     -        17984  350    0 
+vonmises  999201461  4  3 f   -     -     -        17634    0    0 
+vonmises  999201476  4  2 Bk  f     -     -        17634  100    0 
+vonmises  999201496  4  1 Bf  -     -     -        17534   50    0 
+vonmises  999201529  4  4 c   k     k     f        17484  100    0 
+vonmises  999201557  4  3 f   -     -     -        17384    0    0 
+vonmises  999201602  4  2 Bf  -     -     -        17384  100    0 
+vonmises  999201632  4  1 Bc  kc    kf    -        17284 1150    0 
+vonmises  999201666  4  4 cc  f     -     -        16134  700    0 
+vonmises  999201687  4  3 c   c     c     k        15434 3200    0 Jh Qh
+vonmises  999201748  4  2 Bk  f     -     -        12234  200    0 
+vonmises  999201784  4  1 Bf  -     -     -        12034  100    0 
+vonmises  999201817  4  4 f   -     -     -        11934    0    0 
+vonmises  999201820  4  3 f   -     -     -        11934    0    0 
+vonmises  999201826  4  2 Bf  -     -     -        11934  200    0 
+vonmises  999201844  4  1 Bf  -     -     -        11734  100    0 
+vonmises  999201861  4  4 f   -     -     -        11634    0    0 
+vonmises  999201868  4  3 f   -     -     -        11634    0    0 
+vonmises  999201897  4  2 Bc  k     k     b        11634 2200 3000 
+vonmises  999201956  4  1 Bf  -     -     -        12434  200    0 
+vonmises  999201965  4  4 f   -     -     -        12234    0    0 
+vonmises  999201987  4  3 f   -     -     -        12234    0    0 
+vonmises  999202070  4  2 Bc  k     k     k        12234 1066 2332 8d 8c
+vonmises  999202120  4  1 Bc  kc    k     k        13500 1050 2100 Qd 4s
+vonmises  999202167  4  4 r   c     -     -        14550 4173 8946 Qh Kh
+vonmises  999202193  3  2 B   -     -     -        19323  400  600 
+vonmises  999202213  3  1 Bf  -     -     -        19523  400    0 
+vonmises  999202234  3  3 cf  -     -     -        19123  800    0 
+vonmises  999202246  3  2 Bf  -     -     -        18323  800    0 
+vonmises  999202259  3  1 Bc  kc    kf    -        17523 2300    0 
+vonmises  999202305  3  3 f   -     -     -        15223    0    0 
+vonmises  999202317  3  2 Bf  -     -     -        15223  800    0 
+vonmises  999202344  3  1 Bc  k     k     k        14423  800 1600 As Tc
+vonmises  999202382  3  3 f   -     -     -        15223    0    0 
+vonmises  999202399  3  2 B   -     -     -        15223  800 1200 
+vonmises  999202416  3  1 Bf  -     -     -        15623  400    0 
+vonmises  999202423  3  3 f   -     -     -        15223    0    0 
+vonmises  999202432  3  2 Bf  -     -     -        15223  800    0 
+vonmises  999202437  3  1 Bcr -     -     -        14423 6600 8800 
+vonmises  999202483  3  3 f   -     -     -        16623    0    0 
+vonmises  999202502  2  2 B   -     -     -        16623 1600 2400 
+vonmises  999202515  2  1 Bf  -     -     -        17423  800    0 
+vonmises  999202521  2  2 Bf  -     -     -        16623 1600    0 
+vonmises  999202525  2  1 Bf  -     -     -        15023  800    0 
+vonmises  999202526  2  2 Bc  bA    -     -        14223 14223 19023 
+vonmises  999202545  2  1 Bcc kf    -     -        19023 4800    0 
+vonmises  999202570  2  2 Bf  -     -     -        14223 1600    0 
+vonmises  999202573  2  1 Bcc k     kf    -        12623 4800    0 
+vonmises  999202615  2  2 Bf  -     -     -         7823 1600    0 
+vonmises  999202621  2  1 Bf  -     -     -         6223  800    0 
+vonmises  999202623  2  2 Bf  -     -     -         5423 1600    0 
+vonmises  999202628  2  1 Bc  bA    -     -         3823 3823    0 7c As
+vonmises  999202863  8  1 Bc  k     kf    -        12000  100    0 
+vonmises  999202917  8  8 f   -     -     -        11900    0    0 
+vonmises  999202985  8  7 f   -     -     -        11900    0    0 
+vonmises  999203001  8  6 f   -     -     -        11900    0    0 
+vonmises  999203051  8  5 c   k     k     f        11900  100    0 
+vonmises  999203090  8  4 f   -     -     -        11800    0    0 
+vonmises  999203128  8  3 f   -     -     -        11800    0    0 
+vonmises  999203151  8  2 Bk  k     k     k        11800  100    0 Jh Ks
+vonmises  999203214  8  1 Bf  -     -     -        11700  100    0 
+vonmises  999203225  8  8 c   c     c     k        11600 2966    0 Th As
+vonmises  999203290  8  7 f   -     -     -         8634    0    0 
+vonmises  999203303  8  6 cf  -     -     -         8634  200    0 
+vonmises  999203349  7  5 c   b     b     rA        8434 8434    0 Ks Js
+vonmises  999204989 10  8 f   -     -     -        12000    0    0 
+vonmises  999205044 10  7 f   -     -     -        12000    0    0 
+vonmises  999205071 10  6 f   -     -     -        12000    0    0 
+vonmises  999205104 10  5 f   -     -     -        12000    0    0 
+vonmises  999205149 10  4 f   -     -     -        12000    0    0 
+vonmises  999205205 10  3 f   -     -     -        12000    0    0 
+vonmises  999205258 10  2 Bk  k     kf    -        12000  100    0 
+vonmises  999205300 10  1 Bc  kf    -     -        11900  550    0 
+vonmises  999205346  9  9 f   -     -     -        11350    0    0 
+vonmises  999205384  9  8 c   c     c     k        11350 1600 4000 Qs Kh
+vonmises  999205423  9  7 f   -     -     -        13750    0    0 
+vonmises  999205442  9  6 cf  -     -     -        13750  200    0 
+vonmises  999205491  9  5 f   -     -     -        13550    0    0 
+vonmises  999205508  9  4 f   -     -     -        13550    0    0 
+vonmises  999205570  9  3 cc  kf    -     -        13550  900    0 
+vonmises  999205614  9  2 Bf  -     -     -        12650  200    0 
+vonmises  999205664  9  1 Bf  -     -     -        12450  100    0 
+vonmises  999205741  8  8 c   c     f     -        12350 2400    0 
+vonmises  999205767  8  7 c   k     f     -         9950  200    0 
+vonmises  999205810  8  6 cf  -     -     -         9750  200    0 
+vonmises  999205842  8  5 f   -     -     -         9550    0    0 
+vonmises  999205866  7  3 f   -     -     -         9550    0    0 
+vonmises  999205920  7  3 cf  -     -     -         9550  400    0 
+vonmises  999205942  7  2 Bf  -     -     -         9150  400    0 
+vonmises  999205967  7  1 Bcc kf    -     -         8750 1200    0 
+vonmises  999205990  7  7 f   -     -     -         7550    0    0 
+vonmises  999206013  7  6 cc  kc    cA    -         7550 7550    0 8s Qs
+vonmises  999206987 12  9 c   b     b     b        10000 2000 2700 
+vonmises  999207076 12  8 f   -     -     -        10700    0    0 
+vonmises  999207109 12  7 f   -     -     -        10700    0    0 
+vonmises  999207139 12  6 f   -     -     -        10700    0    0 
+vonmises  999207183 12  5 c   r     b     bA       10700 10700 21275 8c Tc
+vonmises  999207252 11  4 f   -     -     -        21275    0    0 
+vonmises  999207299 11  3 c   k     kf    -        21275   50    0 
+vonmises  999207389 11  2 Bk  k     f     -        21225  100    0 
+vonmises  999207425 11  1 Bc  bc    kf    -        21125 2100    0 
+vonmises  999207507 11 11 f   -     -     -        19025    0    0 
+vonmises  999207584 11 10 f   -     -     -        19025    0    0 
+vonmises  999207619 11  9 f   -     -     -        19025    0    0 
+vonmises  999207665 11  8 f   -     -     -        19025    0    0 
+vonmises  999207698 11  7 c   k     f     -        19025  100    0 
+vonmises  999207775 11  6 f   -     -     -        18925    0    0 
+vonmises  999207818 10  5 c   kf    -     -        18925  200    0 
+vonmises  999207859 10  4 cc  f     -     -        18725 1400    0 
+vonmises  999207932 10  3 f   -     -     -        17325    0    0 
+vonmises  999208004 10  2 Bk  kf    -     -        17325  200    0 
+vonmises  999208143 10  1 Bf  -     -     -        17125  200    0 
+vonmises  999208163 10 10 f   -     -     -        16925    0    0 
+vonmises  999208215 10  9 c   c     k     k        16925 1800    0 9s 9d
+vonmises  999208283 10  8 f   -     -     -        15125    0    0 
+vonmises  999208330 10  7 f   -     -     -        15125    0    0 
+vonmises  999208354 10  6 cc  k     k     b        15125 6875 9300 Qd Ad
+vonmises  999208429 10  5 f   -     -     -        17550    0    0 
+vonmises  999208486 10  4 c   kf    -     -        17550  400    0 
+vonmises  999208548 10  3 f   -     -     -        17150    0    0 
+vonmises  999208585 10  2 Bk  kf    -     -        17150  800    0 
+vonmises  999208618 10  1 Bc  kc    kc    -        16350 8500    0 Js Jc
+vonmises  999208659 10 10 f   -     -     -         7850    0    0 
+vonmises  999208700 10  9 f   -     -     -         7850    0    0 
+vonmises  999208739 10  8 f   -     -     -         7850    0    0 
+vonmises  999208784 10  7 c   k     f     -         7850  800    0 
+vonmises  999208847 10  6 f   -     -     -         7050    0    0 
+vonmises  999208887 10  5 f   -     -     -         7050    0    0 
+vonmises  999208911 10  4 f   -     -     -         7050    0    0 
+vonmises  999208941 10  3 f   -     -     -         7050    0    0 
+vonmises  999208967 10  2 B   -     -     -         7050 1600 2400 
+vonmises  999208988 10  1 Bc  b     -     -         7850 6400 9600 
+vonmises  999209019 10 10 c   b     -     -        11050 5600 8000 
+vonmises  999209043 10  9 f   -     -     -        13450    0    0 
+vonmises  999209059  9  8 f   -     -     -        13450    0    0 
+vonmises  999209076  9  7 f   -     -     -        13450    0    0 
+vonmises  999209097  8  5 f   -     -     -        13450    0    0 
+vonmises  999209129  8  4 f   -     -     -        13450    0    0 
+vonmises  999209138  8  3 cf  -     -     -        13450 1600    0 
+vonmises  999209166  8  2 Bf  -     -     -        11850 1600    0 
+vonmises  999209186  8  1 Bf  -     -     -        10250  800    0 
+vonmises  999209206  8  8 f   -     -     -         9450    0    0 
+vonmises  999209232  8  7 c   -     -     -         9450 1600 2975 Ac 8d
+vonmises  999209244  7  5 f   -     -     -        10825    0    0 
+vonmises  999209261  7  5 f   -     -     -        10825    0    0 
+vonmises  999209282  6  3 f   -     -     -        10825    0    0 
+vonmises  999209302  6  2 BcA -     -     -        10825 10825    0 7d 5d
+vonmises  999209926  8  6 f   -     -     -        10000    0    0 
+vonmises  999209956  8  5 f   -     -     -        10000    0    0 
+vonmises  999210046  8  4 f   -     -     -        10000    0    0 
+vonmises  999210090  8  3 cc  kf    -     -        10000  225    0 
+vonmises  999210136  8  2 Bk  b     k     b         9775  750 1050 
+vonmises  999210187  8  1 Bc  kc    k     k        10075  950 2175 Ks 9s
+vonmises  999210240  8  8 f   -     -     -        11300    0    0 
+vonmises  999210300  8  7 f   -     -     -        11300    0    0 
+vonmises  999210359  8  6 c   c     k     c        11300 1225    0 Qs 4s
+vonmises  999210416  8  5 f   -     -     -        10075    0    0 
+vonmises  999210481  8  4 c   k     k     kf       10075  100    0 
+vonmises  999210536  8  3 c   kf    -     -         9975  100    0 
+vonmises  999210611  7  2 Bk  k     kf    -         9875  100    0 
+vonmises  999210641  7  1 Bc  k     kf    -         9775  450    0 
+vonmises  999210680  7  7 f   -     -     -         9325    0    0 
+vonmises  999210688  7  6 f   -     -     -         9325    0    0 
+vonmises  999210770  7  5 f   -     -     -         9325    0    0 
+vonmises  999210807  7  4 f   -     -     -         9325    0    0 
+vonmises  999210841  7  3 cf  -     -     -         9325  200    0 
+vonmises  999210896  6  1 Bk  k     kf    -         9125  200    0 
+vonmises  999210949  6  1 Bf  -     -     -         8925  100    0 
+vonmises  999210979  6  6 c   b     k     f         8825 1200    0 
+vonmises  999211034  6  5 f   -     -     -         7625    0    0 
+vonmises  999211054  6  4 c   f     -     -         7625  400    0 
+vonmises  999211086  6  3 f   -     -     -         7225    0    0 
+vonmises  999211092  6  2 Bk  kf    -     -         7225  400    0 
+vonmises  999211133  6  1 Bc  b     -     -         6825 2000 3200 
+vonmises  999211167  6  6 c   k     f     -         8025  400    0 
+vonmises  999211199  6  5 c   c     f     -         7625 1200    0 
+vonmises  999211235  6  4 cc  k     kf    -         6425 3600    0 
+vonmises  999211283  6  3 f   -     -     -         2825    0    0 
+vonmises  999211326  5  2 Bk  kf    -     -         2825  400    0 
+vonmises  999211361  5  1 Bc  kf    -     -         2425  400    0 
+vonmises  999211389  5  5 f   -     -     -         2025    0    0 
+vonmises  999211409  5  4 f   -     -     -         2025    0    0 
+vonmises  999211439  5  3 c   k     bA    -         2025 2025 5650 Js Ad
+vonmises  999211488  5  2 Bf  -     -     -         5650  800    0 
+vonmises  999211506  5  1 Bc  k     k     kf        4850  800    0 
+vonmises  999211548  5  5 f   -     -     -         4050    0    0 
+vonmises  999211569  5  4 c   k     f     -         4050  800    0 
+vonmises  999211620  5  3 f   -     -     -         3250    0    0 
+vonmises  999211669  5  2 Bk  k     k     k         3250  800 2000 4c 2d
+vonmises  999211694  5  1 Bc  kcA   -     -         4450 4450 9700 As Kc
+vonmises  999211715  5  5 f   -     -     -         9700    0    0 
+vonmises  999211730  5  4 f   -     -     -         9700    0    0 
+vonmises  999211750  5  3 f   -     -     -         9700    0    0 
+vonmises  999211782  5  2 B   -     -     -         9700  800 1200 
+vonmises  999211789  5  1 Bf  -     -     -        10100  400    0 
+vonmises  999211811  5  5 f   -     -     -         9700    0    0 
+vonmises  999211827  5  4 f   -     -     -         9700    0    0 
+vonmises  999211847  5  3 f   -     -     -         9700    0    0 
+vonmises  999211883  5  2 Bk  kc    kcA   -         9700 9700 21800 8c 9d
+vonmises  999211927  5  1 Bc  kf    -     -        21800 1600    0 
+vonmises  999211966  5  5 cf  -     -     -        20200 1600    0 
+vonmises  999211985  5  4 f   -     -     -        18600    0    0 
+vonmises  999212009  5  3 f   -     -     -        18600    0    0 
+vonmises  999212015  5  2 Bf  -     -     -        18600 1600    0 
+vonmises  999212031  4  1 Bf  -     -     -        17000  800    0 
+vonmises  999212042  4  4 f   -     -     -        16200    0    0 
+vonmises  999212059  4  3 c   f     -     -        16200 1600    0 
+vonmises  999212080  3  2 B   -     -     -        14600 1600 2400 
+vonmises  999212085  3  1 Bf  -     -     -        15400  800    0 
+vonmises  999212101  3  3 f   -     -     -        14600    0    0 
+vonmises  999212115  3  2 Bk  kf    -     -        14600 1600    0 
+vonmises  999212128  3  1 Bf  -     -     -        13000  800    0 
+vonmises  999212133  3  3 c   k     k     k        12200 1600    0 Kd Ac
+vonmises  999212147  3  2 B   -     -     -        10600 1600 2400 
+vonmises  999212152  3  1 Bf  -     -     -        11400  800    0 
+vonmises  999212157  3  3 f   -     -     -        10600    0    0 
+vonmises  999212159  3  2 B   -     -     -        10600 1600 2400 
+vonmises  999212161  3  1 Bf  -     -     -        11400  800    0 
+vonmises  999212167  3  3 f   -     -     -        10600    0    0 
+vonmises  999212178  3  2 Bc  kf    -     -        10600 7200    0 
+vonmises  999212206  3  1 Bc  bA    -     -         3400 3400 10000 5s 5h
+vonmises  999212221  3  3 f   -     -     -        10000    0    0 
+vonmises  999212230  3  2 Bf  -     -     -        10000 3200    0 
+vonmises  999212236  3  1 Bf  -     -     -         6800 1600    0 
+vonmises  999212259  3  3 c   bA    -     -         5200 5200 11600 
+vonmises  999212276  3  2 B   -     -     -        11600 3200 4800 
+vonmises  999212279  3  1 Bc  k     kcA   -        13200 13200    0 Tc Kc
+vonmises  999301223  8  6 c   k     f     -        10000   50    0 
+vonmises  999301277  8  5 cf  -     -     -         9950   50    0 
+vonmises  999301294  8  4 cf  -     -     -         9900   50    0 
+vonmises  999301338  8  3 cc  kf    -     -         9850  225    0 
+vonmises  999301364  8  2 Bk  kf    -     -         9625   50    0 
+vonmises  999301395  7  1 Bcf -     -     -         9575  175    0 
+vonmises  999301444  6  6 cf  -     -     -         9400   50    0 
+vonmises  999301494  6  5 f   -     -     -         9350    0    0 
+vonmises  999301516  6  4 r   f     -     -         9350  225    0 
+vonmises  999301568  6  3 c   f     -     -         9125  100    0 
+vonmises  999301619  6  2 Bk  f     -     -         9025  100    0 
+vonmises  999301650  6  1 Bf  -     -     -         8925   50    0 
+vonmises  999301669  6  6 f   -     -     -         8875    0    0 
+vonmises  999301725  6  5 f   -     -     -         8875    0    0 
+vonmises  999301758  6  4 c   k     k     k         8875  100    0 Kh 9h
+vonmises  999301821  6  3 f   -     -     -         8775    0    0 
+vonmises  999301853  6  2 Bf  -     -     -         8775  100    0 
+vonmises  999301891  5  1 Bc  kf    -     -         8675  100    0 
+vonmises  999301956  5  5 f   -     -     -         8575    0    0 
+vonmises  999301992  5  4 c   k     k     k         8575  200    0 Jc Td
+vonmises  999302020  5  3 c   k     c     k         8375  700 1500 2d As
+vonmises  999302043  5  2 Bc  k     kc    k         9175 1500 3100 Ac 8s
+vonmises  999302097  5  1 Bc  k     kf    -        10775  200    0 
+vonmises  999302127  5  5 c   c     k     f        10575  900    0 
+vonmises  999302166  5  4 c   k     c     k         9675 1100    0 Ah 7h
+vonmises  999302224  5  3 f   -     -     -         8575    0    0 
+vonmises  999302261  5  2 Bk  b     -     -         8575  800 1200 
+vonmises  999302303  5  1 Bc  kc    k     kf        8975 2000    0 
+vonmises  999302366  5  5 f   -     -     -         6975    0    0 
+vonmises  999302398  5  4 c   f     -     -         6975  400    0 
+vonmises  999302416  5  3 c   k     b     -         6575 1800 2800 
+vonmises  999302452  5  2 Br  b     bA    -         7575 7575 11175 
+vonmises  999302480  5  1 Bcc kf    -     -        11175 1066    0 
+vonmises  999302509  5  5 f   -     -     -        10109    0    0 
+vonmises  999302521  5  4 f   -     -     -        10109    0    0 
+vonmises  999302542  5  3 f   -     -     -        10109    0    0 
+vonmises  999302556  5  2 Bk  k     k     k        10109  400  800 Ah 4d
+vonmises  999302595  5  1 Bf  -     -     -        10509  200    0 
+vonmises  999302655  5  5 c   f     -     -        10309  800    0 
+vonmises  999302699  5  4 cc  c     cA    -         9509 9509    0 Ad 3h
+vonmises  999306237 10  2 Bk  k     k     k        10000  100    0 2h Ks
+vonmises  999306288 10  1 Bf  -     -     -         9900   50    0 
+vonmises  999306368  9  9 f   -     -     -         9850    0    0 
+vonmises  999306413  8  7 c   k     f     -         9850  100    0 
+vonmises  999306446  8  6 c   k     bcA   -         9750 9750    0 7s As
+vonmises  999316404  9  7 r   kf    -     -        10000  175    0 
+vonmises  999316442  9  6 c   b     bc    bA        9825 9825    0 Td Jh

@@ -1,0 +1,2320 @@
+dtDrifter 923725821 15  7 cf  -     -     -         2500   50    0 
+dtDrifter 923725899 15  6 f   -     -     -         2450    0    0 
+dtDrifter 923726053 15  5 c   k     f     -         2450   50    0 
+dtDrifter 923726127 15  4 f   -     -     -         2400    0    0 
+dtDrifter 923726152 15  3 f   -     -     -         2400    0    0 
+dtDrifter 923726230 15  2 Bc  kc    k     kf        2400  625    0 
+dtDrifter 923726335 15  1 Br  b     b     -         1775 1750 3500 
+dtDrifter 923726533 15 15 f   -     -     -         3525    0    0 
+dtDrifter 923726615 13 12 c   f     -     -         3525  200    0 
+dtDrifter 923726685 13 11 f   -     -     -         3325    0    0 
+dtDrifter 923726756 13 10 f   -     -     -         3325    0    0 
+dtDrifter 923726796 13  9 c   b     -     -         3325 1200 1800 
+dtDrifter 923726842 13  8 cc  -     -     -         3925 1125    0 Kd 2d
+dtDrifter 923726881 13  7 f   -     -     -         2800    0    0 
+dtDrifter 923726932 13  6 f   -     -     -         2800    0    0 
+dtDrifter 923726973 11  4 f   -     -     -         2800    0    0 
+dtDrifter 923727016 10  3 f   -     -     -         2800    0    0 
+dtDrifter 923727074  9  1 Bk  kf    -     -         2800  400    0 
+dtDrifter 923727114  9  1 Bc  kf    -     -         2400  400    0 
+dtDrifter 923727148  9  9 f   -     -     -         2000    0    0 
+dtDrifter 923727172  9  8 f   -     -     -         2000    0    0 
+dtDrifter 923727217  9  7 f   -     -     -         2000    0    0 
+dtDrifter 923727236  9  6 f   -     -     -         2000    0    0 
+dtDrifter 923727311  9  5 f   -     -     -         2000    0    0 
+dtDrifter 923727341  9  4 f   -     -     -         2000    0    0 
+dtDrifter 923727376  9  3 f   -     -     -         2000    0    0 
+dtDrifter 923727428  9  2 B   -     -     -         2000  800 1450 Qc Ac
+dtDrifter 923727446  8  1 Bc  kf    -     -         2650  800    0 
+dtDrifter 923727503  6  6 rA  -     -     -         1850 1850 3050 
+dtDrifter 923727525  6  5 r   c     cA    -         3050 3050    0 Ac 3c
+dtDrifter 923728135 13  5 f   -     -     -         3000    0    0 
+dtDrifter 923728230 13  4 f   -     -     -         3000    0    0 
+dtDrifter 923728285 13  3 f   -     -     -         3000    0    0 
+dtDrifter 923728389 13  2 Bc  k     kf    -         3000  120    0 
+dtDrifter 923728476 13  1 Bf  -     -     -         2880   10    0 
+dtDrifter 923728547 13 13 c   f     -     -         2870   20    0 
+dtDrifter 923728595 13 12 f   -     -     -         2850    0    0 
+dtDrifter 923728653 12 10 f   -     -     -         2850    0    0 
+dtDrifter 923728675 12 10 f   -     -     -         2850    0    0 
+dtDrifter 923728776 12  9 f   -     -     -         2850    0    0 
+dtDrifter 923728832 12  8 f   -     -     -         2850    0    0 
+dtDrifter 923728880 12  7 f   -     -     -         2850    0    0 
+dtDrifter 923728966 11  6 cf  -     -     -         2850  140    0 
+dtDrifter 923729003 11  5 f   -     -     -         2710    0    0 
+dtDrifter 923729057 11  4 cc  kc    k     kf        2710  640    0 
+dtDrifter 923729141 11  3 cc  -     -     -         2070 1600    0 2h Th
+dtDrifter 923729164 11  2 Bk  kc    kcA   -          470  470  980 Qd 3s
+dtDrifter 923729213 11  1 Bc  bA    -     -          980  980    0 Ac 7s
+dtDrifter 923730888 16  6 f   -     -     -         5000    0    0 
+dtDrifter 923731013 15  4 f   -     -     -         5000    0    0 
+dtDrifter 923731089 15  3 cc  kc    kc    -         5000 4995    0 Tc Kc
+dtDrifter 923731203 15  2 BA  -     -     -            5    5   25 7h 4h
+dtDrifter 923731293 15  1 BcA -     -     -           25   25    0 6c 3s
+dtDrifter 923784137 20 13 f   -     -     -         5000    0    0 
+dtDrifter 923784234 20 12 f   -     -     -         5000    0    0 
+dtDrifter 923784298 20 11 f   -     -     -         5000    0    0 
+dtDrifter 923784448 20 10 f   -     -     -         5000    0    0 
+dtDrifter 923784543 19  8 c   f     -     -         5000  100    0 
+dtDrifter 923784724 18  7 f   -     -     -         4900    0    0 
+dtDrifter 923784847 17  5 cc  kf    -     -         4900  600    0 
+dtDrifter 923784953 16  3 f   -     -     -         4300    0    0 
+dtDrifter 923785021 15  2 Bf  -     -     -         4300  200    0 
+dtDrifter 923785112 14  1 Bf  -     -     -         4100  100    0 
+dtDrifter 923785238 14 14 c   f     -     -         4000  200    0 
+dtDrifter 923785286 14 13 f   -     -     -         3800    0    0 
+dtDrifter 923785412 14 12 c   b     cA    -         3800 3800    0 5h 2h
+dtDrifter 923792798 23  1 Bc  b     b     bA        5000 5000    0 Jd 2h
+dtDrifter 923802767 21 15 cc  kf    -     -         5000  300    0 
+dtDrifter 923802854 21 14 f   -     -     -         4700    0    0 
+dtDrifter 923803022 20 13 f   -     -     -         4700    0    0 
+dtDrifter 923803175 20 12 f   -     -     -         4700    0    0 
+dtDrifter 923803273 20 11 f   -     -     -         4700    0    0 
+dtDrifter 923803342 20 10 f   -     -     -         4700    0    0 
+dtDrifter 923803497 19  8 f   -     -     -         4700    0    0 
+dtDrifter 923803589 19  7 f   -     -     -         4700    0    0 
+dtDrifter 923803707 18  6 f   -     -     -         4700    0    0 
+dtDrifter 923803753 18  5 f   -     -     -         4700    0    0 
+dtDrifter 923803864 18  4 f   -     -     -         4700    0    0 
+dtDrifter 923803971 16  2 Bf  -     -     -         4700  160    0 
+dtDrifter 923804007 16  1 Bc  kf    -     -         4540  320    0 
+dtDrifter 923804070 15 15 f   -     -     -         4220    0    0 
+dtDrifter 923804125 15 14 f   -     -     -         4220    0    0 
+dtDrifter 923804200 15 13 f   -     -     -         4220    0    0 
+dtDrifter 923804262 15 12 f   -     -     -         4220    0    0 
+dtDrifter 923804363 15 11 f   -     -     -         4220    0    0 
+dtDrifter 923804387 15 10 c   c     b     -         4220 1320 3580 
+dtDrifter 923804467 15  9 f   -     -     -         6480    0    0 
+dtDrifter 923804581 15  8 c   b     b     -         6480 1920 4880 9c Qc
+dtDrifter 923804699 14  6 cc  kf    -     -         9440 2880    0 
+dtDrifter 923804779 13  4 c   kf    -     -         6560  640    0 
+dtDrifter 923804826 13  4 f   -     -     -         5920    0    0 
+dtDrifter 923804875 13  3 f   -     -     -         5920    0    0 
+dtDrifter 923804927 12  1 Bf  -     -     -         5920 1280    0 
+dtDrifter 923804945 11  1 Bf  -     -     -         4640  640    0 
+dtDrifter 923805027 11 11 f   -     -     -         4000    0    0 
+dtDrifter 923805109 11 10 c   bA    -     -         4000 4000 8480 
+dtDrifter 923805163 11  9 f   -     -     -         8480    0    0 
+dtDrifter 923805202 11  8 f   -     -     -         8480    0    0 
+dtDrifter 923805237 10  6 f   -     -     -         8480    0    0 
+dtDrifter 923805277 10  6 f   -     -     -         8480    0    0 
+dtDrifter 923805298  8  4 f   -     -     -         8480    0    0 
+dtDrifter 923805319  8  3 c   b     -     -         8480 6360    0 Js Ts
+dtDrifter 923805373  8  2 BA  -     -     -         2120 2120 4240 9d Ac
+dtDrifter 923805397  8  1 Bf  -     -     -         4240 1280    0 
+dtDrifter 923805427  8  8 ccA -     -     -         2960 2960    0 Qh 9h
+dtDrifter 923806135 22 14 f   -     -     -         5000    0    0 
+dtDrifter 923806203 21 13 cf  -     -     -         5000   50    0 
+dtDrifter 923806253 19 11 f   -     -     -         4950    0    0 
+dtDrifter 923806335 19 11 c   k     b     k         4950  150  475 Ks Qc
+dtDrifter 923806412 19 10 f   -     -     -         5275    0    0 
+dtDrifter 923806461 19  9 c   kf    -     -         5275   50    0 
+dtDrifter 923806574 19  8 f   -     -     -         5225    0    0 
+dtDrifter 923806646 19  7 f   -     -     -         5225    0    0 
+dtDrifter 923806706 19  6 f   -     -     -         5225    0    0 
+dtDrifter 923806812 19  5 c   kf    -     -         5225  100    0 
+dtDrifter 923806888 19  4 f   -     -     -         5125    0    0 
+dtDrifter 923806957 19  3 f   -     -     -         5125    0    0 
+dtDrifter 923807037 17  2 Bf  -     -     -         5125  200    0 
+dtDrifter 923807142 16  1 Br  k     kc    bA        4925 4925 14950 Kd Ac
+dtDrifter 923807270 15 15 f   -     -     -        14950    0    0 
+dtDrifter 923807321 15 14 f   -     -     -        14950    0    0 
+dtDrifter 923807380 13 11 f   -     -     -        14950    0    0 
+dtDrifter 923807462 13 10 cc  f     -     -        14950 1800    0 
+dtDrifter 923807503 13  9 c   k     b     bA       13150 13150 14250 
+dtDrifter 923807567 13  8 c   k     k     k        14250  400 1000 7c 3c
+dtDrifter 923807599 13  7 cf  -     -     -        14850  400    0 
+dtDrifter 923807629 13  6 f   -     -     -        14450    0    0 
+dtDrifter 923807678 13  5 cc  k     k     k        14450 2350    0 Ah Ac
+dtDrifter 923807736 12  4 c   k     k     k        12100  800    0 3s Ks
+dtDrifter 923807795 12  3 f   -     -     -        11300    0    0 
+dtDrifter 923807836 10  2 Bk  k     k     k        11300  800    0 Ts Kc
+dtDrifter 923807886 10  1 Bf  -     -     -        10500  400    0 
+dtDrifter 923807911 10 10 f   -     -     -        10100    0    0 
+dtDrifter 923807958 10  9 f   -     -     -        10100    0    0 
+dtDrifter 923808006 10  8 c   b     bccA  -        10100 10100    0 8h Ad
+dtDrifter 923811687 16 14 f   -     -     -         3000    0    0 
+dtDrifter 923811731 15 12 f   -     -     -         3000    0    0 
+dtDrifter 923811836 14 10 f   -     -     -         3000    0    0 
+dtDrifter 923811922 14  9 f   -     -     -         3000    0    0 
+dtDrifter 923811988 13  7 f   -     -     -         3000    0    0 
+dtDrifter 923812040 12  6 f   -     -     -         3000    0    0 
+dtDrifter 923812166 11  5 f   -     -     -         3000    0    0 
+dtDrifter 923812206 10  4 f   -     -     -         3000    0    0 
+dtDrifter 923812245 10  3 f   -     -     -         3000    0    0 
+dtDrifter 923812279 10  2 Bf  -     -     -         3000  100    0 
+dtDrifter 923812297 10  1 Bc  kf    -     -         2900  100    0 
+dtDrifter 923812348 10 10 f   -     -     -         2800    0    0 
+dtDrifter 923812383 10  9 f   -     -     -         2800    0    0 
+dtDrifter 923812426 10  8 c   r     cc    k         2800 2300    0 Ad 7h
+dtDrifter 923812510 10  7 f   -     -     -          500    0    0 
+dtDrifter 923812558 10  6 f   -     -     -          500    0    0 
+dtDrifter 923812612 10  5 f   -     -     -          500    0    0 
+dtDrifter 923812643 10  4 f   -     -     -          500    0    0 
+dtDrifter 923812682  8  3 f   -     -     -          500    0    0 
+dtDrifter 923812727  8  2 Bk  kf    -     -          500  200    0 
+dtDrifter 923812774  8  1 Bc  kf    -     -          300  200    0 
+dtDrifter 923812841  8  8 f   -     -     -          100    0    0 
+dtDrifter 923812875  8  7 f   -     -     -          100    0    0 
+dtDrifter 923812902  8  6 f   -     -     -          100    0    0 
+dtDrifter 923812945  8  5 f   -     -     -          100    0    0 
+dtDrifter 923812979  8  4 f   -     -     -          100    0    0 
+dtDrifter 923813015  8  3 f   -     -     -          100    0    0 
+dtDrifter 923813076  8  2 BA  -     -     -          100  100    0 Td 8s
+dtDrifter 923814032 15 10 f   -     -     -         3000    0    0 
+dtDrifter 923814132 14  9 f   -     -     -         3000    0    0 
+dtDrifter 923814188 14  8 f   -     -     -         3000    0    0 
+dtDrifter 923814228 14  7 f   -     -     -         3000    0    0 
+dtDrifter 923814355 14  6 f   -     -     -         3000    0    0 
+dtDrifter 923814400 14  5 c   kf    -     -         3000  100    0 
+dtDrifter 923814469 14  4 f   -     -     -         2900    0    0 
+dtDrifter 923814518 14  3 f   -     -     -         2900    0    0 
+dtDrifter 923814554 14  2 Bk  kf    -     -         2900  100    0 
+dtDrifter 923814595 14  1 Bf  -     -     -         2800   50    0 
+dtDrifter 923814642 14 14 f   -     -     -         2750    0    0 
+dtDrifter 923814732 14 13 f   -     -     -         2750    0    0 
+dtDrifter 923814772 14 12 f   -     -     -         2750    0    0 
+dtDrifter 923814834 12 10 f   -     -     -         2750    0    0 
+dtDrifter 923814930 11  8 c   bf    -     -         2750  700    0 
+dtDrifter 923815003 11  7 f   -     -     -         2050    0    0 
+dtDrifter 923815039 11  6 f   -     -     -         2050    0    0 
+dtDrifter 923815078 11  5 f   -     -     -         2050    0    0 
+dtDrifter 923815123 10  4 f   -     -     -         2050    0    0 
+dtDrifter 923815193 10  3 f   -     -     -         2050    0    0 
+dtDrifter 923815244 10  2 Bf  -     -     -         2050  400    0 
+dtDrifter 923815297 10  1 Bf  -     -     -         1650  200    0 
+dtDrifter 923815352 10 10 c   f     -     -         1450  800    0 
+dtDrifter 923815393 10  9 f   -     -     -          650    0    0 
+dtDrifter 923815448 10  8 cA  -     -     -          650  650    0 Ks Tc
+dtDrifter 923866012 14  3 f   -     -     -         3000    0    0 
+dtDrifter 923866058 14  2 Bk  k     k     k         3000  100  125 6c Ac
+dtDrifter 923866097 14  1 Bf  -     -     -         3025   50    0 
+dtDrifter 923866198 13 13 f   -     -     -         2975    0    0 
+dtDrifter 923866228 13 12 f   -     -     -         2975    0    0 
+dtDrifter 923866276 12 11 f   -     -     -         2975    0    0 
+dtDrifter 923866324 11  9 c   f     -     -         2975  350    0 
+dtDrifter 923866360 11  8 f   -     -     -         2625    0    0 
+dtDrifter 923866418 11  7 f   -     -     -         2625    0    0 
+dtDrifter 923866480 11  6 f   -     -     -         2625    0    0 
+dtDrifter 923866518 11  5 c   c     cA    -         2625 2625    0 8h Kh
+dtDrifter 923868131 17 15 f   -     -     -         5000    0    0 
+dtDrifter 923868217 16 13 c   k     f     -         5000   30    0 
+dtDrifter 923868265 16 12 f   -     -     -         4970    0    0 
+dtDrifter 923868362 15 10 c   b     c     c         4970 4895 9970 Qc Kh
+dtDrifter 923868450 14  9 f   -     -     -        10045    0    0 
+dtDrifter 923868514 14  8 f   -     -     -        10045    0    0 
+dtDrifter 923868563 14  7 cc  kf    -     -        10045  210    0 
+dtDrifter 923868676 13  6 f   -     -     -         9835    0    0 
+dtDrifter 923868740 12  5 f   -     -     -         9835    0    0 
+dtDrifter 923868783 12  4 f   -     -     -         9835    0    0 
+dtDrifter 923868877 12  3 cc  b     b     -         9835 4600 6420 
+dtDrifter 923868935 12  2 Bf  -     -     -        11655  120    0 
+dtDrifter 923868958 12  1 Bc  k     k     kf       11535  540    0 
+dtDrifter 923869030 12 12 c   c     k     k        10995 1540    0 5d Kd
+dtDrifter 923869095 12 11 f   -     -     -         9455    0    0 
+dtDrifter 923869147 12 10 f   -     -     -         9455    0    0 
+dtDrifter 923869193 12  9 f   -     -     -         9455    0    0 
+dtDrifter 923869250 12  8 f   -     -     -         9455    0    0 
+dtDrifter 923869298 12  7 cc  k     f     -         9455 1040    0 
+dtDrifter 923869377 12  6 f   -     -     -         8415    0    0 
+dtDrifter 923869440 11  5 cc  c     k     k         8415 4685    0 Qd Td
+dtDrifter 923869517 10  4 f   -     -     -         3730    0    0 
+dtDrifter 923869547 10  3 f   -     -     -         3730    0    0 
+dtDrifter 923869566 10  2 Bc  kc    k     k         3730 2040 5040 Qc As
+dtDrifter 923869640 10  1 Bf  -     -     -         6730  240    0 
+dtDrifter 923869657 10 10 f   -     -     -         6490    0    0 
+dtDrifter 923869692 10  9 f   -     -     -         6490    0    0 
+dtDrifter 923869743 10  8 c   f     -     -         6490  480    0 
+dtDrifter 923869772 10  7 c   c     b     c         6010 3555 8070 Ac Ks
+dtDrifter 923869830  9  5 f   -     -     -        10525    0    0 
+dtDrifter 923869854  9  5 r   -     -     -        10525  960 1680 
+dtDrifter 923869875  9  4 f   -     -     -        11245    0    0 
+dtDrifter 923869904  9  3 f   -     -     -        11245    0    0 
+dtDrifter 923869945  9  2 Bf  -     -     -        11245  480    0 
+dtDrifter 923869981  9  1 Bc  k     kf    -        10765  480    0 
+dtDrifter 923870039  9  9 f   -     -     -        10285    0    0 
+dtDrifter 923870087  9  8 f   -     -     -        10285    0    0 
+dtDrifter 923870124  9  7 f   -     -     -        10285    0    0 
+dtDrifter 923870138  9  6 f   -     -     -        10285    0    0 
+dtDrifter 923870177  8  5 f   -     -     -        10285    0    0 
+dtDrifter 923870219  8  4 f   -     -     -        10285    0    0 
+dtDrifter 923870247  7  2 c   k     kf    -        10285  960    0 
+dtDrifter 923870298  7  2 Bk  c     b     -         9325 4800 7680 
+dtDrifter 923870357  7  1 Bc  kf    -     -        12205  960    0 
+dtDrifter 923870390  7  7 f   -     -     -        11245    0    0 
+dtDrifter 923870453  6  6 f   -     -     -        11245    0    0 
+dtDrifter 923870469  6  5 f   -     -     -        11245    0    0 
+dtDrifter 923870490  5  4 f   -     -     -        11245    0    0 
+dtDrifter 923870501  5  3 cc  k     k     k        11245 2570 9630 Jd Jh
+dtDrifter 923870542  4  2 Bk  k     k     f        18305 1920    0 
+dtDrifter 923870584  4  1 Br  b     -     -        16385 7960 11920 
+dtDrifter 923870626  4  4 f   -     -     -        20345    0    0 
+dtDrifter 923870659  4  3 f   -     -     -        20345    0    0 
+dtDrifter 923870705  4  2 Bk  bc    kcA   -        20345 20345 41650 Ts Qc
+dtDrifter 923870744  4  1 Bf  -     -     -        41650 1920    0 
+dtDrifter 923870788  4  4 f   -     -     -        39730    0    0 
+dtDrifter 923870829  4  3 f   -     -     -        39730    0    0 
+dtDrifter 923870847  4  2 Bc  c     -     -        39730 18800 37600 Td Qd
+dtDrifter 923870869  3  1 Bf  -     -     -        58530 1920    0 
+dtDrifter 923870897  3  3 c   b     -     -        56610 9840 15600 
+dtDrifter 923870925  3  2 Bk  f     -     -        62370 3840    0 
+dtDrifter 923870948  3  1 Bcc -     -     -        58530 5130 10260 Js 9c
+dtDrifter 923870960  2  2 f   -     -     -        63660    0    0 
+dtDrifter 923870971  2  2 Bk  f     -     -        63660 3840    0 
+dtDrifter 923870999  2  1 Bf  -     -     -        59820 1920    0 
+dtDrifter 923871004  2  2 Bk  b     -     -        57900 18840 22680 
+dtDrifter 923871028  2  1 Bc  b     -     -        61740 8840 12680 
+dtDrifter 923871048  2  2 B   -     -     -        65580 3840 5760 
+dtDrifter 923871050  2  1 Bc  b     -     -        67500 8840 12680 
+dtDrifter 923871068  2  2 Bk  k     k     k        71340 3840 7680 5c Ks
+dtDrifter 923871095  2  1 Br  -     -     -        75180 7920 11760 
+dtDrifter 923871112  2  2 B   -     -     -        79020 7680 1700 6s 2d
+dtDrifter 923871124  2  1 Bc  k     k     k        73040 7680 15360 Jh As
+dtDrifter 923871148  2  2 B   -     -     -        80720 7680 11960 3d Td
+dtDrifter 923871368 21  3 f   -     -     -         3500    0    0 
+dtDrifter 923871419 20  2 Bc  k     kcA   -         3500 3500 11175 As 3s
+dtDrifter 923871536 18  1 Bf  -     -     -        11175   25    0 
+dtDrifter 923871620 16 16 f   -     -     -        11150    0    0 
+dtDrifter 923871682 16 15 f   -     -     -        11150    0    0 
+dtDrifter 923871747 16 14 f   -     -     -        11150    0    0 
+dtDrifter 923871791 15 12 c   k     k     f        11150  100    0 
+dtDrifter 923871879 14 10 f   -     -     -        11050    0    0 
+dtDrifter 923871904 13 10 f   -     -     -        11050    0    0 
+dtDrifter 923871934 13  9 f   -     -     -        11050    0    0 
+dtDrifter 923871990 12  8 f   -     -     -        11050    0    0 
+dtDrifter 923872030 12  7 f   -     -     -        11050    0    0 
+dtDrifter 923872082 12  6 f   -     -     -        11050    0    0 
+dtDrifter 923872106 12  5 f   -     -     -        11050    0    0 
+dtDrifter 923872161 12  4 f   -     -     -        11050    0    0 
+dtDrifter 923872216 11  3 f   -     -     -        11050    0    0 
+dtDrifter 923872254 11  2 Bf  -     -     -        11050  200    0 
+dtDrifter 923872305 11  1 Bf  -     -     -        10850  100    0 
+dtDrifter 923872339 11 11 f   -     -     -        10750    0    0 
+dtDrifter 923872385 11 10 c   c     f     -        10750  900    0 
+dtDrifter 923872425 11  9 f   -     -     -         9850    0    0 
+dtDrifter 923872437 11  8 f   -     -     -         9850    0    0 
+dtDrifter 923872484 11  7 f   -     -     -         9850    0    0 
+dtDrifter 923872532 10  5 c   f     -     -         9850  200    0 
+dtDrifter 923872580 10  5 f   -     -     -         9650    0    0 
+dtDrifter 923872614 10  4 f   -     -     -         9650    0    0 
+dtDrifter 923872640 10  3 f   -     -     -         9650    0    0 
+dtDrifter 923872660 10  2 Bf  -     -     -         9650  400    0 
+dtDrifter 923872676 10  1 Bc  -     -     -         9250  575 1550 4s Ts
+dtDrifter 923872701  9  9 f   -     -     -        10225    0    0 
+dtDrifter 923872738  8  7 f   -     -     -        10225    0    0 
+dtDrifter 923872764  7  5 f   -     -     -        10225    0    0 
+dtDrifter 923872781  7  4 f   -     -     -        10225    0    0 
+dtDrifter 923872807  7  3 f   -     -     -        10225    0    0 
+dtDrifter 923872825  7  2 Bk  c     bc    k        10225 3150    0 6s Ks
+dtDrifter 923872881  7  1 Bf  -     -     -         7075  200    0 
+dtDrifter 923872915  7  7 c   c     c     cA        6875 6875    0 Ac Jh
+dtDrifter 923874236 13  1 Bc  kf    -     -         2500   20    0 
+dtDrifter 923874351 13 13 f   -     -     -         2480    0    0 
+dtDrifter 923874426 13 12 r   c     c     -         2480 2460 5450 Kc Ah
+dtDrifter 923874480 12 10 c   f     -     -         5470   20    0 
+dtDrifter 923874561 12  9 f   -     -     -         5450    0    0 
+dtDrifter 923874620 12  8 c   kf    -     -         5450   40    0 
+dtDrifter 923874686 12  7 f   -     -     -         5410    0    0 
+dtDrifter 923874753 11  6 c   c     k     k         5410  130    0 Qh Ks
+dtDrifter 923874810 11  5 f   -     -     -         5280    0    0 
+dtDrifter 923874877 11  4 f   -     -     -         5280    0    0 
+dtDrifter 923874949 11  3 f   -     -     -         5280    0    0 
+dtDrifter 923874999 11  2 Bf  -     -     -         5280   80    0 
+dtDrifter 923875096 11  1 Bc  kf    -     -         5200   80    0 
+dtDrifter 923875145 10 10 f   -     -     -         5120    0    0 
+dtDrifter 923875180 10  9 f   -     -     -         5120    0    0 
+dtDrifter 923875244  9  7 c   c     -     -         5120 2250 6180 Kc Kd
+dtDrifter 923875275  8  5 f   -     -     -         9050    0    0 
+dtDrifter 923875326  8  4 f   -     -     -         9050    0    0 
+dtDrifter 923875362  7  3 f   -     -     -         9050    0    0 
+dtDrifter 923875404  7  2 Bf  -     -     -         9050  160    0 
+dtDrifter 923875445  7  1 Br  bc    k     k         8890 3030 6800 Ac Ah
+dtDrifter 923875526  7  7 c   k     r     b        12660 4000 8640 Ts Ac
+dtDrifter 923875606  7  6 f   -     -     -        17300    0    0 
+dtDrifter 923875632  6  4 f   -     -     -        17300    0    0 
+dtDrifter 923875662  6  3 f   -     -     -        17300    0    0 
+dtDrifter 923875683  6  2 Bk  kf    -     -        17300  320    0 
+dtDrifter 923875708  6  1 Bf  -     -     -        16980  160    0 
+dtDrifter 923875726  6  6 f   -     -     -        16820    0    0 
+dtDrifter 923875759  6  5 c   kf    -     -        16820  320    0 
+dtDrifter 923875796  6  4 f   -     -     -        16500    0    0 
+dtDrifter 923875810  6  3 f   -     -     -        16500    0    0 
+dtDrifter 923875835  6  2 Bk  k     k     k        16500  640    0 3c 6d
+dtDrifter 923875864  5  1 Bf  -     -     -        15860  320    0 
+dtDrifter 923875900  5  5 f   -     -     -        15540    0    0 
+dtDrifter 923875920  5  4 f   -     -     -        15540    0    0 
+dtDrifter 923875962  5  3 f   -     -     -        15540    0    0 
+dtDrifter 923875971  5  2 Br  -     -     -        15540 2640 3280 
+dtDrifter 923875992  5  1 Bc  kf    -     -        16180  640    0 
+dtDrifter 923876029  5  5 f   -     -     -        15540    0    0 
+dtDrifter 923876063  4  3 f   -     -     -        15540    0    0 
+dtDrifter 923876086  4  3 f   -     -     -        15540    0    0 
+dtDrifter 923876109  3  2 Bf  -     -     -        15540  640    0 
+dtDrifter 923876125  3  1 Bc  k     k     b        14900 1280 1920 
+dtDrifter 923876155  3  3 c   b     -     -        15540 2560 4480 
+dtDrifter 923876174  3  2 Bk  k     k     k        17460 1280 1280 9d Ts
+dtDrifter 923876198  3  1 Bc  kf    -     -        17460 1280    0 
+dtDrifter 923876219  3  3 f   -     -     -        16180    0    0 
+dtDrifter 923876225  3  2 Bc  f     -     -        16180 3840    0 
+dtDrifter 923876247  3  1 Bf  -     -     -        12340  640    0 
+dtDrifter 923876264  3  3 c   f     -     -        11700 1280    0 
+dtDrifter 923876284  3  2 Bf  -     -     -        10420 1280    0 
+dtDrifter 923876293  3  1 Bf  -     -     -         9140  640    0 
+dtDrifter 923876314  3  3 f   -     -     -         8500    0    0 
+dtDrifter 923876325  3  2 Bk  c     c     bA        8500 8500 13620 
+dtDrifter 923876362  3  1 Bc  kf    -     -        13620 1280    0 
+dtDrifter 923876390  3  3 cc  cA    -     -        12340 12340 25320 Th Tc
+dtDrifter 923876412  3  2 Bf  -     -     -        25320 1280    0 
+dtDrifter 923876426  2  1 Br  -     -     -        24040 3160 4440 
+dtDrifter 923876444  2  2 B   -     -     -        25320 1280 1920 
+dtDrifter 923876447  2  1 Br  -     -     -        25960 3340 4620 
+dtDrifter 923876457  2  2 B   -     -     -        27240 2560 3840 
+dtDrifter 923876459  2  1 Bf  -     -     -        28520 1280    0 
+dtDrifter 923876463  2  2 Bk  c     -     -        27240 5260    0 Kc Tc
+dtDrifter 923876476  2  1 Bf  -     -     -        21980 1280    0 
+dtDrifter 923876488  2  2 B   -     -     -        20700 2560 3840 
+dtDrifter 923876492  2  1 Bc  kc    kc    -        21980 10520    0 2s As
+dtDrifter 923876508  2  2 Bk  b     -     -        11460 5120 7680 
+dtDrifter 923876528  2  1 Br  -     -     -        14020 6280 8840 
+dtDrifter 923876536  2  2 Bf  -     -     -        16580 2560    0 
+dtDrifter 923876546  2  1 Br  b     -     -        14020 13280 20560 
+dtDrifter 923876568  2  2 Bf  -     -     -        21300 2560    0 
+dtDrifter 923876577  2  1 Bf  -     -     -        18740 1280    0 
+dtDrifter 923876584  2  2 Bf  -     -     -        17460 2560    0 
+dtDrifter 923876593  2  1 Bc  kc    bA    -        14900 14900 29800 5s Ah
+dtDrifter 923876616  2  2 Bc  -     -     -        29800 2700    0 3s 2s
+dtDrifter 923876625  2  1 Bf  -     -     -        27100 1280    0 
+dtDrifter 923876631  2  2 Bc  -     -     -        25820 6680 13360 Kd 8h
+dtDrifter 923876839 23  8 f   -     -     -         5000    0    0 
+dtDrifter 923876911 23  7 f   -     -     -         5000    0    0 
+dtDrifter 923877053 23  6 f   -     -     -         5000    0    0 
+dtDrifter 923877158 21  4 f   -     -     -         5000    0    0 
+dtDrifter 923877345 20  3 f   -     -     -         5000    0    0 
+dtDrifter 923877408 19  2 Bk  kf    -     -         5000  100    0 
+dtDrifter 923877499 19  1 Bf  -     -     -         4900   50    0 
+dtDrifter 923877591 19 19 f   -     -     -         4850    0    0 
+dtDrifter 923877685 18 17 f   -     -     -         4850    0    0 
+dtDrifter 923877743 18 16 r   k     k     k         4850 2000 2250 Ks As
+dtDrifter 923877804 18 15 f   -     -     -         5100    0    0 
+dtDrifter 923877934 18 14 f   -     -     -         5100    0    0 
+dtDrifter 923878042 18 13 f   -     -     -         5100    0    0 
+dtDrifter 923878102 18 12 c   kf    -     -         5100  400    0 
+dtDrifter 923878184 18 11 f   -     -     -         4700    0    0 
+dtDrifter 923878267 17 10 f   -     -     -         4700    0    0 
+dtDrifter 923878391 17  9 f   -     -     -         4700    0    0 
+dtDrifter 923878477 17  8 f   -     -     -         4700    0    0 
+dtDrifter 923878522 17  7 f   -     -     -         4700    0    0 
+dtDrifter 923878655 17  6 f   -     -     -         4700    0    0 
+dtDrifter 923878724 17  5 f   -     -     -         4700    0    0 
+dtDrifter 923878781 15  4 f   -     -     -         4700    0    0 
+dtDrifter 923878848 15  3 f   -     -     -         4700    0    0 
+dtDrifter 923878892 13  1 Bf  -     -     -         4700 1600    0 
+dtDrifter 923878947 13  1 Bf  -     -     -         3100  800    0 
+dtDrifter 923879001 13 13 f   -     -     -         2300    0    0 
+dtDrifter 923879062 13 12 f   -     -     -         2300    0    0 
+dtDrifter 923879162 12 10 f   -     -     -         2300    0    0 
+dtDrifter 923879213 12  9 f   -     -     -         2300    0    0 
+dtDrifter 923879401 11  8 f   -     -     -         2300    0    0 
+dtDrifter 923879431 10  6 f   -     -     -         2300    0    0 
+dtDrifter 923879478  9  4 f   -     -     -         2300    0    0 
+dtDrifter 923879506  9  3 f   -     -     -         2300    0    0 
+dtDrifter 923879546  9  2 BA  -     -     -         2300 2300    0 4c 8h
+dtDrifter 923880365 23  2 Bf  -     -     -         5000   50    0 
+dtDrifter 923880402 21  1 Bcf -     -     -         4950   50    0 
+dtDrifter 923880513 21 21 f   -     -     -         4900    0    0 
+dtDrifter 923880594 20 20 f   -     -     -         4900    0    0 
+dtDrifter 923880657 20 19 f   -     -     -         4900    0    0 
+dtDrifter 923880731 20 18 f   -     -     -         4900    0    0 
+dtDrifter 923880789 20 17 c   b     c     k         4900 1100    0 7d Td
+dtDrifter 923880870 20 16 r   -     -     -         3800 2800 3450 
+dtDrifter 923880921 20 15 f   -     -     -         4450    0    0 
+dtDrifter 923881000 20 14 f   -     -     -         4450    0    0 
+dtDrifter 923881075 20 13 f   -     -     -         4450    0    0 
+dtDrifter 923881191 20 12 f   -     -     -         4450    0    0 
+dtDrifter 923881262 20 11 f   -     -     -         4450    0    0 
+dtDrifter 923881333 19 10 cc  k     k     kc        4450 4250 12700 Qh Ac
+dtDrifter 923881442 18  9 f   -     -     -        12900    0    0 
+dtDrifter 923881504 17  8 f   -     -     -        12900    0    0 
+dtDrifter 923881560 16  6 f   -     -     -        12900    0    0 
+dtDrifter 923881665 16  5 f   -     -     -        12900    0    0 
+dtDrifter 923881725 15  4 f   -     -     -        12900    0    0 
+dtDrifter 923881764 15  3 f   -     -     -        12900    0    0 
+dtDrifter 923881823 15  2 Bf  -     -     -        12900  800    0 
+dtDrifter 923881882 14  1 Bf  -     -     -        12100  400    0 
+dtDrifter 923881940 14 14 f   -     -     -        11700    0    0 
+dtDrifter 923882046 14 13 f   -     -     -        11700    0    0 
+dtDrifter 923882154 12 10 f   -     -     -        11700    0    0 
+dtDrifter 923882223 10  7 f   -     -     -        11700    0    0 
+dtDrifter 923882251 10  6 f   -     -     -        11700    0    0 
+dtDrifter 923882289 10  5 c   b     k     k        11700 4100 4292 Kh 9h
+dtDrifter 923882354  9  3 f   -     -     -        11892    0    0 
+dtDrifter 923882394  8  2 Bk  kf    -     -        11892 1600    0 
+dtDrifter 923882430  8  1 Bf  -     -     -        10292  800    0 
+dtDrifter 923882469  8  8 c   b     -     -         9492 3200 6400 
+dtDrifter 923882520  8  7 f   -     -     -        12692    0    0 
+dtDrifter 923882533  8  6 f   -     -     -        12692    0    0 
+dtDrifter 923882559  7  4 c   bA    -     -        12692 12692 28276 Kd Ah
+dtDrifter 923882618  6  3 f   -     -     -        28276    0    0 
+dtDrifter 923882640  4  1 Bf  -     -     -        28276 3200    0 
+dtDrifter 923882658  4  1 Bcc k     b     -        25076 24600 34200 
+dtDrifter 923882709  4  4 f   -     -     -        34676    0    0 
+dtDrifter 923882719  4  3 f   -     -     -        34676    0    0 
+dtDrifter 923882729  4  2 Bf  -     -     -        34676 3200    0 
+dtDrifter 923882740  3  1 Br  -     -     -        31476 9600 12800 
+dtDrifter 923882756  3  3 f   -     -     -        34676    0    0 
+dtDrifter 923882766  3  2 Bc  kf    -     -        34676 11200    0 
+dtDrifter 923882780  3  1 Bf  -     -     -        23476 1600    0 
+dtDrifter 923882787  3  3 f   -     -     -        21876    0    0 
+dtDrifter 923882802  3  2 Bk  c     bA    -        21876 21876 43752 3c Ah
+dtDrifter 923882826  3  1 Bc  kf    -     -        43752 3200    0 
+dtDrifter 923882849  3  3 f   -     -     -        40552    0    0 
+dtDrifter 923882854  3  2 B   -     -     -        40552 6400 9600 
+dtDrifter 923882858  3  1 Br  -     -     -        43752 28200 34600 
+dtDrifter 923882873  3  3 f   -     -     -        50152    0    0 
+dtDrifter 923882882  3  2 Bf  -     -     -        50152 6400    0 
+dtDrifter 923882888  3  1 Bf  -     -     -        43752 3200    0 
+dtDrifter 923882899  3  3 cc  cA    -     -        40552 40552 87504 7c Ac
+dtDrifter 923882925  3  2 Bf  -     -     -        87504 6400    0 
+dtDrifter 923882938  3  1 Bc  kc    -     -        81104 24782 58678 3s Ts
+dtDrifter 923883162 22  7 cc  kf    -     -         3000  275    0 
+dtDrifter 923883274 20  6 f   -     -     -         2725    0    0 
+dtDrifter 923883357 20  5 f   -     -     -         2725    0    0 
+dtDrifter 923883511 20  4 f   -     -     -         2725    0    0 
+dtDrifter 923883533 20  3 rA  -     -     -         2725 2725 11000 Ad As
+dtDrifter 923883597 20  2 Bk  b     kc    -        11000 2600 2750 Kh 5d
+dtDrifter 923883687 19  1 Bf  -     -     -        11150   50    0 
+dtDrifter 923883800 16 16 f   -     -     -        11100    0    0 
+dtDrifter 923883884 16 15 f   -     -     -        11100    0    0 
+dtDrifter 923883921 15 13 c   c     k     k        11100  700   50 Ah Tc
+dtDrifter 923883995 15 12 f   -     -     -        10450    0    0 
+dtDrifter 923884036 13 11 f   -     -     -        10450    0    0 
+dtDrifter 923884100 13 10 c   f     -     -        10450  200    0 
+dtDrifter 923884162 12  8 f   -     -     -        10250    0    0 
+dtDrifter 923884249 11  7 f   -     -     -        10250    0    0 
+dtDrifter 923884293 11  7 f   -     -     -        10250    0    0 
+dtDrifter 923884337 11  6 c   kf    -     -        10250  400    0 
+dtDrifter 923884390 10  5 cc  c     cA    -         9850 9850 21900 As Qc
+dtDrifter 923884434 10  4 c   k     kf    -        21900  400    0 
+dtDrifter 923884493 10  3 f   -     -     -        21500    0    0 
+dtDrifter 923884608 10  2 Bf  -     -     -        21500  800    0 
+dtDrifter 923884624 10  1 Bc  k     k     k        20700  800    0 Qd 6h
+dtDrifter 923884669 10 10 f   -     -     -        19900    0    0 
+dtDrifter 923884709  9  8 f   -     -     -        19900    0    0 
+dtDrifter 923884728  9  8 f   -     -     -        19900    0    0 
+dtDrifter 923884782  9  7 f   -     -     -        19900    0    0 
+dtDrifter 923884815  8  5 f   -     -     -        19900    0    0 
+dtDrifter 923884847  8  5 f   -     -     -        19900    0    0 
+dtDrifter 923884885  8  4 c   kc    -     -        19900 3550    0 9c 9h
+dtDrifter 923884923  7  2 f   -     -     -        16350    0    0 
+dtDrifter 923884961  7  2 Bc  kc    -     -        16350 9400 19600 Qd Kd
+dtDrifter 923885002  6  1 Bf  -     -     -        26550  800    0 
+dtDrifter 923885044  6  6 f   -     -     -        25750    0    0 
+dtDrifter 923885067  6  5 f   -     -     -        25750    0    0 
+dtDrifter 923885111  6  4 f   -     -     -        25750    0    0 
+dtDrifter 923885138  5  2 f   -     -     -        25750    0    0 
+dtDrifter 923885153  5  2 B   -     -     -        25750 1600 2400 
+dtDrifter 923885168  5  1 Bc  k     k     kf       26550 1600    0 
+dtDrifter 923885232  5  5 f   -     -     -        24950    0    0 
+dtDrifter 923885246  4  4 f   -     -     -        24950    0    0 
+dtDrifter 923885283  4  3 f   -     -     -        24950    0    0 
+dtDrifter 923885303  4  2 Bk  f     -     -        24950 3200    0 
+dtDrifter 923885320  4  1 Bc  k     k     k        21750 3200 9600 9h Ks
+dtDrifter 923885351  4  4 f   -     -     -        28150    0    0 
+dtDrifter 923885381  4  3 c   b     c     -        28150 16558    0 Qh Kd
+dtDrifter 923885419  4  2 B   -     -     -        11592 3200 4800 
+dtDrifter 923885428  4  1 Bc  k     k     kc       13192 6716    0 Th Kh
+dtDrifter 923885476  4  4 c   cA    -     -         6476 6476    0 9s Ac
+dtDrifter 923885780 23  7 cf  -     -     -         5000   40    0 
+dtDrifter 923885954 23  6 f   -     -     -         4960    0    0 
+dtDrifter 923886090 23  5 f   -     -     -         4960    0    0 
+dtDrifter 923886244 22  4 cc  kf    -     -         4960  160    0 
+dtDrifter 923886443 22  3 f   -     -     -         4800    0    0 
+dtDrifter 923886679 21  2 Bf  -     -     -         4800  160    0 
+dtDrifter 923886713 20  1 Bf  -     -     -         4640   80    0 
+dtDrifter 923886802 20 20 f   -     -     -         4560    0    0 
+dtDrifter 923886848 20 19 f   -     -     -         4560    0    0 
+dtDrifter 923886925 20 18 f   -     -     -         4560    0    0 
+dtDrifter 923887062 18 15 f   -     -     -         4560    0    0 
+dtDrifter 923887366 18 14 f   -     -     -         4560    0    0 
+dtDrifter 923887559 18 13 f   -     -     -         4560    0    0 
+dtDrifter 923887665 18 12 f   -     -     -         4560    0    0 
+dtDrifter 923887743 17 10 f   -     -     -         4560    0    0 
+dtDrifter 923887831 13  8 f   -     -     -         4560    0    0 
+dtDrifter 923887987 13  8 f   -     -     -         4560    0    0 
+dtDrifter 923888054 13  7 f   -     -     -         4560    0    0 
+dtDrifter 923888125 13  6 ccA -     -     -         4560 4560    0 Th Qh
+dtDrifter 923889144 23 22 f   -     -     -         5000    0    0 
+dtDrifter 923889274 20 19 f   -     -     -         5000    0    0 
+dtDrifter 923889421 20 18 c   c     f     -         5000  500    0 
+dtDrifter 923889551 19 17 f   -     -     -         4500    0    0 
+dtDrifter 923889663 17 14 f   -     -     -         4500    0    0 
+dtDrifter 923889719 17 13 f   -     -     -         4500    0    0 
+dtDrifter 923889858 17 12 r   f     -     -         4500  500    0 
+dtDrifter 923889975 16 10 f   -     -     -         4000    0    0 
+dtDrifter 923890082 15  8 f   -     -     -         4000    0    0 
+dtDrifter 923890120 14  7 f   -     -     -         4000    0    0 
+dtDrifter 923890261 14  6 f   -     -     -         4000    0    0 
+dtDrifter 923890353 14  5 f   -     -     -         4000    0    0 
+dtDrifter 923890414 14  4 f   -     -     -         4000    0    0 
+dtDrifter 923890475 14  3 f   -     -     -         4000    0    0 
+dtDrifter 923890518 14  2 Bc  bA    -     -         4000 4000 7600 
+dtDrifter 923890613 14  1 Bf  -     -     -         7600  200    0 
+dtDrifter 923890670 14 14 r   bA    -     -         7400 7400    0 Ad Kd
+dtDrifter 923920550  9  9 f   -     -     -         5000    0    0 
+dtDrifter 923920612  9  8 r   f     -     -         5000  500    0 
+dtDrifter 923920681  9  7 c   c     c     f         4500 1050    0 
+dtDrifter 923920734  9  6 f   -     -     -         3450    0    0 
+dtDrifter 923920842  9  5 c   k     kf    -         3450   50    0 
+dtDrifter 923920915  9  4 f   -     -     -         3400    0    0 
+dtDrifter 923921002  9  3 c   kr    bA    -         3400 3400 8350 8d 8s
+dtDrifter 923921085  9  2 Br  b     -     -         8350 1600 2300 
+dtDrifter 923921134  9  1 Bc  k     kr    b         9050 1500 3200 7h 8d
+dtDrifter 923921205  9  9 c   f     -     -        10750  100    0 
+dtDrifter 923921294  9  8 f   -     -     -        10650    0    0 
+dtDrifter 923921375  8  6 f   -     -     -        10650    0    0 
+dtDrifter 923921452  8  5 c   k     k     bc       10650 1600    0 Tc 9c
+dtDrifter 923921547  8  4 f   -     -     -         9050    0    0 
+dtDrifter 923921596  8  3 f   -     -     -         9050    0    0 
+dtDrifter 923921677  8  2 B   -     -     -         9050  400  250 4s Ah
+dtDrifter 923921693  8  1 Bc  k     k     kf        8900  400    0 
+dtDrifter 923921765  8  8 f   -     -     -         8500    0    0 
+dtDrifter 923921800  8  7 f   -     -     -         8500    0    0 
+dtDrifter 923921863  8  6 f   -     -     -         8500    0    0 
+dtDrifter 923921916  7  4 f   -     -     -         8500    0    0 
+dtDrifter 923921986  7  3 cc  f     -     -         8500 3200    0 
+dtDrifter 923922031  7  2 Bf  -     -     -         5300  800    0 
+dtDrifter 923922049  7  1 Bf  -     -     -         4500  400    0 
+dtDrifter 923922087  6  6 f   -     -     -         4100    0    0 
+dtDrifter 923922110  6  5 f   -     -     -         4100    0    0 
+dtDrifter 923922124  6  4 f   -     -     -         4100    0    0 
+dtDrifter 923922159  6  3 f   -     -     -         4100    0    0 
+dtDrifter 923922191  6  2 Bc  k     kcA   -         4100 4100 12700 Kd As
+dtDrifter 923922256  6  1 Bf  -     -     -        12700  800    0 
+dtDrifter 923922280  6  6 f   -     -     -        11900    0    0 
+dtDrifter 923922312  6  5 f   -     -     -        11900    0    0 
+dtDrifter 923922342  6  4 f   -     -     -        11900    0    0 
+dtDrifter 923922367  4  2 cc  b     k     bA       11900 11900 23800 Qs Js
+dtDrifter 923922415  4  2 Bk  f     -     -        23800 1600    0 
+dtDrifter 923922435  4  1 Bf  -     -     -        22200  800    0 
+dtDrifter 923922448  3  3 c   k     k     k        21400 1600 3200 Qc Ts
+dtDrifter 923922475  3  3 f   -     -     -        23000    0    0 
+dtDrifter 923922483  3  2 Bk  b     b     k        23000 14800 29600 7c 8h
+dtDrifter 923922530  3  1 Bf  -     -     -        37800  800    0 
+dtDrifter 923922546  2  2 r   b     k     k        37000 4800 9600 Ac Jd
+dtDrifter 923922586  2  2 B   -     -     -        41800 3200 4800 
+dtDrifter 923922593  2  1 B   -     -     -        43400 1600    0 5d 3h
+dtDrifter 923922594  2  2 B   -     -     -        41800 3200 4800 
+dtDrifter 923922602  2  1 B   -     -     -        43400 1600    0 Ac 6s
+dtDrifter 923922603  2  2 B   -     -     -        41800 3200 6400 9h Ks
+dtDrifter 923922826 14  9 f   -     -     -         3500    0    0 
+dtDrifter 923922909 14  8 f   -     -     -         3500    0    0 
+dtDrifter 923923023 14  7 cc  f     -     -         3500  375    0 
+dtDrifter 923923094 14  6 f   -     -     -         3125    0    0 
+dtDrifter 923923282 14  5 f   -     -     -         3125    0    0 
+dtDrifter 923923433 14  4 f   -     -     -         3125    0    0 
+dtDrifter 923923553 13  3 f   -     -     -         3125    0    0 
+dtDrifter 923923638 12  1 Bf  -     -     -         3125  200    0 
+dtDrifter 923923734 12  1 Bc  k     kf    -         2925  200    0 
+dtDrifter 923923799 11 11 f   -     -     -         2725    0    0 
+dtDrifter 923923901 10  9 f   -     -     -         2725    0    0 
+dtDrifter 923923973  9  8 c   f     -     -         2725  400    0 
+dtDrifter 923924014  9  7 f   -     -     -         2325    0    0 
+dtDrifter 923924080  7  5 c   bA    -     -         2325 2325 6650 Qs Jc
+dtDrifter 923924203  7  4 f   -     -     -         6650    0    0 
+dtDrifter 923924254  6  3 f   -     -     -         6650    0    0 
+dtDrifter 923924305  6  2 Bk  b     -     -         6650 1800 3400 
+dtDrifter 923924341  6  1 Bc  bc    -     -         8250 5150 6850 Kh 4c
+dtDrifter 923924384  6  6 c   f     -     -         9950  800    0 
+dtDrifter 923924460  5  4 f   -     -     -         9150    0    0 
+dtDrifter 923924506  5  3 f   -     -     -         9150    0    0 
+dtDrifter 923924538  5  2 Bk  kf    -     -         9150  800    0 
+dtDrifter 923924564  5  1 Bf  -     -     -         8350  400    0 
+dtDrifter 923924600  5  5 f   -     -     -         7950    0    0 
+dtDrifter 923924647  5  4 f   -     -     -         7950    0    0 
+dtDrifter 923924682  4  2 c   b     -     -         7950 3600 5200 
+dtDrifter 923924705  4  2 Bf  -     -     -         9550 1600    0 
+dtDrifter 923924714  4  1 Bf  -     -     -         7950  800    0 
+dtDrifter 923924721  4  4 f   -     -     -         7150    0    0 
+dtDrifter 923924733  4  3 f   -     -     -         7150    0    0 
+dtDrifter 923924758  4  2 BrcA -     -     -         7150 7150 15900 Kc Ah
+dtDrifter 923924784  4  1 Bc  kf    -     -        15900 1600    0 
+dtDrifter 923924814  4  4 f   -     -     -        14300    0    0 
+dtDrifter 923924821  4  3 f   -     -     -        14300    0    0 
+dtDrifter 923924828  4  2 Bf  -     -     -        14300 1600    0 
+dtDrifter 923924835  4  1 Bf  -     -     -        12700  800    0 
+dtDrifter 923924842  4  4 f   -     -     -        11900    0    0 
+dtDrifter 923924846  4  3 f   -     -     -        11900    0    0 
+dtDrifter 923924872  3  1 B   -     -     -        11900 1600 1600 
+dtDrifter 923924896  3  1 Bc  k     k     kf       11900 1600    0 
+dtDrifter 923924929  3  3 c   f     -     -        10300 1600    0 
+dtDrifter 923924953  3  2 Bc  -     -     -         8700 3450    0 5s Kc
+dtDrifter 923924963  3  1 Bf  -     -     -         5250 1600    0 
+dtDrifter 923924975  3  3 rA  -     -     -         3650 3650 8450 
+dtDrifter 923924994  3  2 B   -     -     -         8450 3200 4800 
+dtDrifter 923925001  3  1 Bc  kcA   -     -        10050 10050 22200 Qs Kh
+dtDrifter 923925026  2  2 B   -     -     -        22200 3200 4800 
+dtDrifter 923925035  2  1 Bf  -     -     -        23800 1600    0 
+dtDrifter 923925042  2  2 Bk  k     k     b        22200 9600    0 8s Ah
+dtDrifter 923925072  2  1 BccA -     -     -        12600 12600    0 3c 3h
+dtDrifter 923972764 23 17 c   f     -     -         3000   30    0 
+dtDrifter 923972959 22 15 f   -     -     -         2970    0    0 
+dtDrifter 923973073 22 14 f   -     -     -         2970    0    0 
+dtDrifter 923973267 22 13 f   -     -     -         2970    0    0 
+dtDrifter 923973347 21 11 f   -     -     -         2970    0    0 
+dtDrifter 923973525 21 10 f   -     -     -         2970    0    0 
+dtDrifter 923973631 20  8 f   -     -     -         2970    0    0 
+dtDrifter 923973714 19  7 f   -     -     -         2970    0    0 
+dtDrifter 923973804 19  6 f   -     -     -         2970    0    0 
+dtDrifter 923973874 19  5 rcA -     -     -         2970 2970    0 Qc Qd
+dtDrifter 923975881 23 20 f   -     -     -         3000    0    0 
+dtDrifter 923975954 23 19 f   -     -     -         3000    0    0 
+dtDrifter 923976055 22 17 f   -     -     -         3000    0    0 
+dtDrifter 923976161 21 15 f   -     -     -         3000    0    0 
+dtDrifter 923976258 21 14 f   -     -     -         3000    0    0 
+dtDrifter 923976302 21 13 f   -     -     -         3000    0    0 
+dtDrifter 923976389 21 12 f   -     -     -         3000    0    0 
+dtDrifter 923976490 19  9 f   -     -     -         3000    0    0 
+dtDrifter 923976592 18  8 c   f     -     -         3000  120    0 
+dtDrifter 923976669 18  7 f   -     -     -         2880    0    0 
+dtDrifter 923976722 18  6 f   -     -     -         2880    0    0 
+dtDrifter 923976816 18  5 f   -     -     -         2880    0    0 
+dtDrifter 923976951 18  4 f   -     -     -         2880    0    0 
+dtDrifter 923977003 18  3 f   -     -     -         2880    0    0 
+dtDrifter 923977052 18  2 Bf  -     -     -         2880  240    0 
+dtDrifter 923977118 17  1 Bf  -     -     -         2640  120    0 
+dtDrifter 923977162 17 17 f   -     -     -         2520    0    0 
+dtDrifter 923977256 17 16 cA  -     -     -         2520 2520    0 9h Ah
+dtDrifter 923984957 13 10 f   -     -     -         5000    0    0 
+dtDrifter 923984997 13  9 f   -     -     -         5000    0    0 
+dtDrifter 923985059 13  8 f   -     -     -         5000    0    0 
+dtDrifter 923985110 13  7 c   c     k     b         5000 1566 5198 Kc Jc
+dtDrifter 923985200 13  6 f   -     -     -         8632    0    0 
+dtDrifter 923985249 11  4 f   -     -     -         8632    0    0 
+dtDrifter 923985305 11  3 r   bcA   -     -         8632 8632 17414 Qc Qd
+dtDrifter 923985360 11  2 Bk  bc    kc    -        17414 5918 6018 7d Qd
+dtDrifter 923985425 11  1 Bc  kc    -     -        17514 4850    0 Qd Qc
+dtDrifter 923985487  9  9 f   -     -     -        12664    0    0 
+dtDrifter 923985526  8  8 c   f     -     -        12664 3100    0 
+dtDrifter 923985568  8  7 f   -     -     -         9564    0    0 
+dtDrifter 923985616  8  6 f   -     -     -         9564    0    0 
+dtDrifter 923985637  8  5 f   -     -     -         9564    0    0 
+dtDrifter 923985669  8  4 cc  c     c     -         9564 7913    0 Qd Jc
+dtDrifter 923985707  8  3 f   -     -     -         1651    0    0 
+dtDrifter 923985741  8  2 Bc  kcA   -     -         1651 1651    0 6h 3h
+dtDrifter 923986285  9  9 f   -     -     -         5000    0    0 
+dtDrifter 923986353  9  8 f   -     -     -         5000    0    0 
+dtDrifter 923986399  9  7 f   -     -     -         5000    0    0 
+dtDrifter 923986449  8  5 f   -     -     -         5000    0    0 
+dtDrifter 923986472  8  4 f   -     -     -         5000    0    0 
+dtDrifter 923986558  7  3 f   -     -     -         5000    0    0 
+dtDrifter 923986601  6  2 Bc  kc    kc    krA       5000 5000 9625 Th Td
+dtDrifter 923986649  5  1 Bf  -     -     -         9625   50    0 
+dtDrifter 923986720  5  5 f   -     -     -         9575    0    0 
+dtDrifter 923986738  5  4 f   -     -     -         9575    0    0 
+dtDrifter 923986762  5  3 f   -     -     -         9575    0    0 
+dtDrifter 923986804  5  2 Br  b     -     -         9575 1100 1700 
+dtDrifter 923986835  5  1 Bcc kr    -     -        10175 3300 4200 
+dtDrifter 923986879  5  5 f   -     -     -        11075    0    0 
+dtDrifter 923986899  5  4 f   -     -     -        11075    0    0 
+dtDrifter 923986937  5  3 c   f     -     -        11075  100    0 
+dtDrifter 923986973  5  2 Bf  -     -     -        10975  100    0 
+dtDrifter 923987000  4  1 Bc  k     k     kf       10875  200    0 
+dtDrifter 923987043  4  4 f   -     -     -        10675    0    0 
+dtDrifter 923987059  4  3 f   -     -     -        10675    0    0 
+dtDrifter 923987082  4  2 B   -     -     -        10675  200  300 
+dtDrifter 923987087  4  1 Bc  kc    kf    -        10775 1000    0 
+dtDrifter 923987129  4  4 f   -     -     -         9775    0    0 
+dtDrifter 923987156  4  3 f   -     -     -         9775    0    0 
+dtDrifter 923987200  4  2 B   -     -     -         9775  200  300 
+dtDrifter 923987206  4  1 Bc  k     k     bc        9875 3375    0 4c 4h
+dtDrifter 923987247  4  4 f   -     -     -         6500    0    0 
+dtDrifter 923987268  4  3 f   -     -     -         6500    0    0 
+dtDrifter 923987296  4  2 Bk  kf    -     -         6500  200    0 
+dtDrifter 923987313  4  1 Bf  -     -     -         6300  100    0 
+dtDrifter 923987349  4  4 cf  -     -     -         6200  200    0 
+dtDrifter 923987378  4  3 f   -     -     -         6000    0    0 
+dtDrifter 923987415  4  2 Bk  b     -     -         6000  800 1400 
+dtDrifter 923987442  4  1 Bc  k     k     kc        6600 3400    0 5s Qh
+dtDrifter 923987489  4  4 f   -     -     -         3200    0    0 
+dtDrifter 923987515  4  3 f   -     -     -         3200    0    0 
+dtDrifter 923987539  4  2 Bk  k     k     k         3200  400 1000 Ac 4d
+dtDrifter 923987562  4  1 Bc  kf    -     -         3800  400    0 
+dtDrifter 923987599  4  4 f   -     -     -         3400    0    0 
+dtDrifter 923987648  4  3 f   -     -     -         3400    0    0 
+dtDrifter 923987687  4  2 Bk  kf    -     -         3400  400    0 
+dtDrifter 923987731  4  1 Bc  k     k     kf        3000  800    0 
+dtDrifter 923987775  4  4 f   -     -     -         2200    0    0 
+dtDrifter 923987802  4  3 c   bA    -     -         2200 2200 3400 
+dtDrifter 923987824  4  2 Bk  k     k     kcA       3400 3400 8000 6s 4d
+dtDrifter 923987874  4  1 Bf  -     -     -         8000  400    0 
+dtDrifter 923987903  4  4 f   -     -     -         7600    0    0 
+dtDrifter 923987914  4  3 f   -     -     -         7600    0    0 
+dtDrifter 923987928  4  2 Bf  -     -     -         7600  800    0 
+dtDrifter 923987942  4  1 Bf  -     -     -         6800  400    0 
+dtDrifter 923987968  4  4 f   -     -     -         6400    0    0 
+dtDrifter 923987990  4  3 f   -     -     -         6400    0    0 
+dtDrifter 923988012  4  2 Bc  c     cA    -         6400 6400    0 Kd 3d
+dtDrifter 923988285 11  1 Bf  -     -     -         4000   20    0 
+dtDrifter 923988350 10 10 f   -     -     -         3980    0    0 
+dtDrifter 923988419 10  9 f   -     -     -         3980    0    0 
+dtDrifter 923988488 10  8 c   f     -     -         3980  400    0 
+dtDrifter 923988555 10  7 f   -     -     -         3580    0    0 
+dtDrifter 923988621  9  6 cc  k     kccA  -         3580 3580    0 8h As
+dtDrifter 924061493 20  7 f   -     -     -         5000    0    0 
+dtDrifter 924061575 20  6 f   -     -     -         5000    0    0 
+dtDrifter 924061720 20  5 f   -     -     -         5000    0    0 
+dtDrifter 924061787 20  4 f   -     -     -         5000    0    0 
+dtDrifter 924061860 19  3 f   -     -     -         5000    0    0 
+dtDrifter 924061955 18  2 Bf  -     -     -         5000  200    0 
+dtDrifter 924062005 17  1 Bc  kf    -     -         4800  200    0 
+dtDrifter 924062264 17 17 f   -     -     -         4600    0    0 
+dtDrifter 924062326 17 16 f   -     -     -         4600    0    0 
+dtDrifter 924062417 17 15 cc  kc    k     k         4600 1600    0 7s 8s
+dtDrifter 924062513 17 14 f   -     -     -         3000    0    0 
+dtDrifter 924062594 17 13 f   -     -     -         3000    0    0 
+dtDrifter 924062721 16 11 f   -     -     -         3000    0    0 
+dtDrifter 924062828 16 10 f   -     -     -         3000    0    0 
+dtDrifter 924062864 16  9 f   -     -     -         3000    0    0 
+dtDrifter 924062995 16  8 f   -     -     -         3000    0    0 
+dtDrifter 924063129 15  6 f   -     -     -         3000    0    0 
+dtDrifter 924063193 15  6 cc  k     bA    -         3000 3000 7000 Jh Jc
+dtDrifter 924063311 15  5 f   -     -     -         7000    0    0 
+dtDrifter 924063358 15  4 f   -     -     -         7000    0    0 
+dtDrifter 924063456 13  3 f   -     -     -         7000    0    0 
+dtDrifter 924063492 13  2 Bf  -     -     -         7000  400    0 
+dtDrifter 924063563 13  1 Br  b     kf    -         6600 2200    0 
+dtDrifter 924063642 13 13 f   -     -     -         4400    0    0 
+dtDrifter 924063725 13 12 f   -     -     -         4400    0    0 
+dtDrifter 924063764 13 11 f   -     -     -         4400    0    0 
+dtDrifter 924063811 12  9 r   -     -     -         4400 2000 3200 
+dtDrifter 924063865 12  8 f   -     -     -         5600    0    0 
+dtDrifter 924063904 12  7 f   -     -     -         5600    0    0 
+dtDrifter 924063995 12  6 f   -     -     -         5600    0    0 
+dtDrifter 924064045 12  5 f   -     -     -         5600    0    0 
+dtDrifter 924064069 11  4 f   -     -     -         5600    0    0 
+dtDrifter 924064107 11  3 f   -     -     -         5600    0    0 
+dtDrifter 924064152 11  2 Bf  -     -     -         5600  800    0 
+dtDrifter 924064198 11  1 Bf  -     -     -         4800  400    0 
+dtDrifter 924064270 11 11 c   c     k     f         4400 2800    0 
+dtDrifter 924064338 10  9 f   -     -     -         1600    0    0 
+dtDrifter 924064361 10  8 cA  -     -     -         1600 1600    0 Ad 5d
+dtDrifter 924065395 20  1 Bf  -     -     -         5000   25    0 
+dtDrifter 924065481 20 20 c   k     f     -         4975  225    0 
+dtDrifter 924065533 20 19 c   b     b     b         4750 1200 2950 
+dtDrifter 924065649 20 18 f   -     -     -         6500    0    0 
+dtDrifter 924065767 20 17 f   -     -     -         6500    0    0 
+dtDrifter 924065879 20 16 cf  -     -     -         6500  100    0 
+dtDrifter 924065981 20 15 f   -     -     -         6400    0    0 
+dtDrifter 924066050 20 14 f   -     -     -         6400    0    0 
+dtDrifter 924066194 20 13 c   kf    -     -         6400  100    0 
+dtDrifter 924066338 20 12 f   -     -     -         6300    0    0 
+dtDrifter 924066433 18 10 cc  k     b     -         6300 4200 5800 
+dtDrifter 924066545 18 10 f   -     -     -         7900    0    0 
+dtDrifter 924066662 18  9 c   k     b     k         7900  400    0 Qs Ks
+dtDrifter 924066785 18  8 f   -     -     -         7500    0    0 
+dtDrifter 924066909 18  7 cf  -     -     -         7500  400    0 
+dtDrifter 924066963 17  6 cc  kc    -     -         7100 5588    0 As Qc
+dtDrifter 924067046 17  5 f   -     -     -         1512    0    0 
+dtDrifter 924067099 17  4 rA  -     -     -         1512 1512 3999 Ac Jc
+dtDrifter 924067155 16  3 cf  -     -     -         3999  400    0 
+dtDrifter 924067223 15  2 Bf  -     -     -         3599  800    0 
+dtDrifter 924067265 15  1 Bc  krA   -     -         2799 2799    0 7d 7c
+dtDrifter 924068711 17 17 f   -     -     -         5000    0    0 
+dtDrifter 924068836 16 15 c   b     b     -         5000 2300 4500 
+dtDrifter 924068964 16 15 c   cc    k     f         7200 4700    0 
+dtDrifter 924069123 16 14 c   f     -     -         2500  600    0 
+dtDrifter 924069233 13 11 f   -     -     -         1900    0    0 
+dtDrifter 924069377 12 10 f   -     -     -         1900    0    0 
+dtDrifter 924069435 12  9 c   b     b     -         1900 1100 1600 
+dtDrifter 924069502 12  8 f   -     -     -         2400    0    0 
+dtDrifter 924069568 11  7 f   -     -     -         2400    0    0 
+dtDrifter 924069637 11  6 f   -     -     -         2400    0    0 
+dtDrifter 924069697 10  5 f   -     -     -         2400    0    0 
+dtDrifter 924069759 10  4 cf  -     -     -         2400  200    0 
+dtDrifter 924069823 10  3 f   -     -     -         2200    0    0 
+dtDrifter 924069891 10  2 Bc  cA    -     -         2200 2200    0 Kc Jd
+dtDrifter 924151599 17  1 Bf  -     -     -         5000   20    0 
+dtDrifter 924151704 17 17 c   c     k     f         4980 1120    0 
+dtDrifter 924151775 17 16 f   -     -     -         3860    0    0 
+dtDrifter 924151833 15 13 f   -     -     -         3860    0    0 
+dtDrifter 924151919 15 12 f   -     -     -         3860    0    0 
+dtDrifter 924151993 14 10 f   -     -     -         3860    0    0 
+dtDrifter 924152043 14  9 c   f     -     -         3860  280    0 
+dtDrifter 924152096 13  7 f   -     -     -         3580    0    0 
+dtDrifter 924152139 13  6 f   -     -     -         3580    0    0 
+dtDrifter 924152226 12  5 c   f     -     -         3580   80    0 
+dtDrifter 924152290 12  4 f   -     -     -         3500    0    0 
+dtDrifter 924152328 12  3 f   -     -     -         3500    0    0 
+dtDrifter 924152375 12  2 Bk  bf    -     -         3500  360    0 
+dtDrifter 924152439 12  1 Bc  kc    kcA   -         3140 3140 4790 8s As
+dtDrifter 924152494 11 11 f   -     -     -         4790    0    0 
+dtDrifter 924152544 11 10 r   c     k     f         4790 2340    0 
+dtDrifter 924152605 10  8 f   -     -     -         2450    0    0 
+dtDrifter 924152701  9  7 f   -     -     -         2450    0    0 
+dtDrifter 924152743  9  6 f   -     -     -         2450    0    0 
+dtDrifter 924152769  9  5 f   -     -     -         2450    0    0 
+dtDrifter 924152800  9  4 f   -     -     -         2450    0    0 
+dtDrifter 924152828  9  3 f   -     -     -         2450    0    0 
+dtDrifter 924152850  9  2 Bk  k     kf    -         2450  320    0 
+dtDrifter 924152889  9  1 Bf  -     -     -         2130  160    0 
+dtDrifter 924152913  9  9 c   c     cA    -         1970 1970 2210 Ac 4c
+dtDrifter 924152938  9  8 c   k     f     -         2210  320    0 
+dtDrifter 924153033  9  7 f   -     -     -         1890    0    0 
+dtDrifter 924153067  9  6 f   -     -     -         1890    0    0 
+dtDrifter 924153104  9  5 f   -     -     -         1890    0    0 
+dtDrifter 924153135  9  4 f   -     -     -         1890    0    0 
+dtDrifter 924153159  9  3 f   -     -     -         1890    0    0 
+dtDrifter 924153190  8  2 Bk  bcA   -     -         1890 1890    0 4c 4s
+dtDrifter 924154674 12  6 f   -     -     -         5000    0    0 
+dtDrifter 924154734 12  5 f   -     -     -         5000    0    0 
+dtDrifter 924154801 12  4 f   -     -     -         5000    0    0 
+dtDrifter 924154881 11  3 cc  kf    -     -         5000  550    0 
+dtDrifter 924154939 11  2 Bc  kf    -     -         4450  325    0 
+dtDrifter 924155008 11  1 Bf  -     -     -         4125   50    0 
+dtDrifter 924155071 11 11 f   -     -     -         4075    0    0 
+dtDrifter 924155144 11 10 f   -     -     -         4075    0    0 
+dtDrifter 924155224 11  9 f   -     -     -         4075    0    0 
+dtDrifter 924155354 11  8 f   -     -     -         4075    0    0 
+dtDrifter 924155403 11  7 f   -     -     -         4075    0    0 
+dtDrifter 924155437 11  6 c   bc    kcA   -         4075 4075 9150 Qd Ac
+dtDrifter 924155511 11  5 f   -     -     -         9150    0    0 
+dtDrifter 924155553 11  4 f   -     -     -         9150    0    0 
+dtDrifter 924155591 11  3 f   -     -     -         9150    0    0 
+dtDrifter 924155650 10  2 Bk  kf    -     -         9150  200    0 
+dtDrifter 924155698 10  1 Bf  -     -     -         8950  200    0 
+dtDrifter 924155743 10 10 f   -     -     -         8750    0    0 
+dtDrifter 924155798 10  9 f   -     -     -         8750    0    0 
+dtDrifter 924155878 10  8 f   -     -     -         8750    0    0 
+dtDrifter 924155927 10  7 f   -     -     -         8750    0    0 
+dtDrifter 924155983  9  6 cf  -     -     -         8750  400    0 
+dtDrifter 924156078  9  5 f   -     -     -         8350    0    0 
+dtDrifter 924156113  9  4 f   -     -     -         8350    0    0 
+dtDrifter 924156151  9  3 f   -     -     -         8350    0    0 
+dtDrifter 924156171  9  2 Bk  kf    -     -         8350  800    0 
+dtDrifter 924156213  9  1 Bc  k     b     -         7550 2400 4800 
+dtDrifter 924156272  9  9 f   -     -     -         9950    0    0 
+dtDrifter 924156322  9  8 f   -     -     -         9950    0    0 
+dtDrifter 924156346  9  7 f   -     -     -         9950    0    0 
+dtDrifter 924156396  9  6 f   -     -     -         9950    0    0 
+dtDrifter 924156431  9  5 f   -     -     -         9950    0    0 
+dtDrifter 924156512  8  4 f   -     -     -         9950    0    0 
+dtDrifter 924156542  7  2 Bk  kc    k     b         9950 8200 12600 8s Ks
+dtDrifter 924156609  6  1 Bc  k     k     kf       14350 1600    0 
+dtDrifter 924156650  6  6 f   -     -     -        12750    0    0 
+dtDrifter 924156776  6  5 f   -     -     -        12750    0    0 
+dtDrifter 924156789  5  3 f   -     -     -        12750    0    0 
+dtDrifter 924156803  5  2 Bk  c     -     -        12750 8314 16628 Qs Ts
+dtDrifter 924156821  4  1 Bf  -     -     -        21064 1600    0 
+dtDrifter 924156840  4  4 f   -     -     -        19464    0    0 
+dtDrifter 924156850  4  3 f   -     -     -        19464    0    0 
+dtDrifter 924156856  4  2 Bk  k     k     k        19464 3200 6400 3s Tc
+dtDrifter 924156887  4  1 Bc  k     kf    -        22664 3200    0 
+dtDrifter 924156921  3  3 f   -     -     -        19464    0    0 
+dtDrifter 924156936  3  3 f   -     -     -        19464    0    0 
+dtDrifter 924156947  3  2 Br  b     -     -        19464 16400 22800 
+dtDrifter 924156988  3  1 Bf  -     -     -        25864 1600    0 
+dtDrifter 924156998  3  3 f   -     -     -        24264    0    0 
+dtDrifter 924157004  3  2 B   -     -     -        24264 3200 4800 
+dtDrifter 924157013  3  1 Bc  k     b     -        25864 13600 26400 Ad Qs
+dtDrifter 924157063  2  2 f   -     -     -        38664    0    0 
+dtDrifter 924157071  2  2 Bf  -     -     -        38664 3200    0 
+dtDrifter 924157080  2  1 Br  k     k     k        35464 8000 16000 Qc 7c
+dtDrifter 924157106  2  2 B   -     -     -        43464 3200 4800 
+dtDrifter 924157112  2  1 Bc  k     b     -        45064 12800 19200 
+dtDrifter 924157132  2  2 Bc  -     -     -        51464 8536 17072 Jc As
+dtDrifter 924157345  7  2 Bk  k     k     b         3000  100  175 
+dtDrifter 924157416  7  1 Bc  kf    -     -         3075   50    0 
+dtDrifter 924157455  7  7 c   c     f     -         3025  350    0 
+dtDrifter 924157518  7  6 f   -     -     -         2675    0    0 
+dtDrifter 924157553  6  5 f   -     -     -         2675    0    0 
+dtDrifter 924157596  6  4 r   brA   -     -         2675 2675    0 Kc Ah
+dtDrifter 924242362 15  5 f   -     -     -         5000    0    0 
+dtDrifter 924242450 15  4 f   -     -     -         5000    0    0 
+dtDrifter 924242535 15  3 f   -     -     -         5000    0    0 
+dtDrifter 924242599 15  2 Bc  kf    -     -         5000  175    0 
+dtDrifter 924242650 15  1 Bc  k     k     kf        4825   50    0 
+dtDrifter 924242712 15 15 f   -     -     -         4775    0    0 
+dtDrifter 924242755 12 11 c   f     -     -         4775  100    0 
+dtDrifter 924242812 12 10 f   -     -     -         4675    0    0 
+dtDrifter 924242865 11  8 f   -     -     -         4675    0    0 
+dtDrifter 924242920 11  7 f   -     -     -         4675    0    0 
+dtDrifter 924242933 11  6 f   -     -     -         4675    0    0 
+dtDrifter 924243013 11  5 cc  b     b     -         4675 4000 5150 
+dtDrifter 924243087 11  4 f   -     -     -         5825    0    0 
+dtDrifter 924243112 11  3 f   -     -     -         5825    0    0 
+dtDrifter 924243127 11  2 Bc  kf    -     -         5825  700    0 
+dtDrifter 924243184 11  1 Bf  -     -     -         5125  100    0 
+dtDrifter 924243236 11 11 f   -     -     -         5025    0    0 
+dtDrifter 924243262 11 10 f   -     -     -         5025    0    0 
+dtDrifter 924243301 11  9 f   -     -     -         5025    0    0 
+dtDrifter 924243336 11  8 f   -     -     -         5025    0    0 
+dtDrifter 924243349 11  7 f   -     -     -         5025    0    0 
+dtDrifter 924243361 11  6 f   -     -     -         5025    0    0 
+dtDrifter 924243426 11  5 f   -     -     -         5025    0    0 
+dtDrifter 924243476 11  4 f   -     -     -         5025    0    0 
+dtDrifter 924243582 10  3 f   -     -     -         5025    0    0 
+dtDrifter 924243615 10  2 Bf  -     -     -         5025  400    0 
+dtDrifter 924243642 10  1 Bc  kc    kcA   -         4625 4625 9650 As Js
+dtDrifter 924243678 10 10 f   -     -     -         9650    0    0 
+dtDrifter 924243700 10  9 f   -     -     -         9650    0    0 
+dtDrifter 924243749  9  7 f   -     -     -         9650    0    0 
+dtDrifter 924243797  9  6 c   k     b     -         9650 1600 3600 
+dtDrifter 924243842  9  5 f   -     -     -        11650    0    0 
+dtDrifter 924243873  9  4 f   -     -     -        11650    0    0 
+dtDrifter 924243899  7  2 f   -     -     -        11650    0    0 
+dtDrifter 924243931  7  2 Bf  -     -     -        11650  800    0 
+dtDrifter 924243941  7  1 Bf  -     -     -        10850  400    0 
+dtDrifter 924243958  7  7 f   -     -     -        10450    0    0 
+dtDrifter 924243969  7  6 f   -     -     -        10450    0    0 
+dtDrifter 924243987  7  5 f   -     -     -        10450    0    0 
+dtDrifter 924244019  6  3 f   -     -     -        10450    0    0 
+dtDrifter 924244047  5  2 Bc  c     k     bA       10450 10450 20900 6c 7c
+dtDrifter 924244098  5  1 Bc  b     -     -        20900 1600 2400 
+dtDrifter 924244119  5  5 f   -     -     -        21700    0    0 
+dtDrifter 924244135  5  4 f   -     -     -        21700    0    0 
+dtDrifter 924244157  5  3 f   -     -     -        21700    0    0 
+dtDrifter 924244183  5  2 Bf  -     -     -        21700 1600    0 
+dtDrifter 924244205  5  1 Bc  -     -     -        20100 1600    0 Qh 7s
+dtDrifter 924244217  5  5 f   -     -     -        18500    0    0 
+dtDrifter 924244234  5  4 c   b     -     -        18500 3200 7200 
+dtDrifter 924244261  5  3 cc  k     f     -        22500 6400    0 
+dtDrifter 924244301  5  2 Bf  -     -     -        16100 1600    0 
+dtDrifter 924244322  5  1 Br  -     -     -        14500 4000 5600 
+dtDrifter 924244341  5  5 r   -     -     -        16100 3200 5600 7s Ks
+dtDrifter 924244374  4  4 c   bf    -     -        18500 4000    0 
+dtDrifter 924244407  4  3 c   c     c     -        14500 9300 20200 Ks Js
+dtDrifter 924244432  3  1 Bk  kf    -     -        25400 1600    0 
+dtDrifter 924244461  3  1 Bc  kr    -     -        23800 16600 24600 
+dtDrifter 924244526  3  3 f   -     -     -        31800    0    0 
+dtDrifter 924244532  3  2 Bk  b     -     -        31800 6400 9600 
+dtDrifter 924244551  3  1 Brc -     -     -        35000 17400    0 Jc Qc
+dtDrifter 924244572  3  3 f   -     -     -        17600    0    0 
+dtDrifter 924244591  3  2 Bc  bA    -     -        17600 17600 35200 4d Ah
+dtDrifter 924244612  3  1 Bf  -     -     -        35200 1600    0 
+dtDrifter 924244630  3  3 cc  -     -     -        33600 6600    0 Qd Jd
+dtDrifter 924244642  3  2 Br  -     -     -        27000 16200 1400 As Kd
+dtDrifter 924244676  3  1 Bf  -     -     -        12200 1600    0 
+dtDrifter 924244704  3  3 f   -     -     -        10600    0    0 
+dtDrifter 924244710  3  2 Bk  kf    -     -        10600 3200    0 
+dtDrifter 924244728  3  1 Bc  bA    -     -         7400 7400 10600 
+dtDrifter 924244763  3  3 f   -     -     -        10600    0    0 
+dtDrifter 924244778  3  2 Bf  -     -     -        10600 3200    0 
+dtDrifter 924244789  3  1 BrA -     -     -         7400 7400    0 Qd Jd
+dtDrifter 924245287  6  6 f   -     -     -         1000    0    0 
+dtDrifter 924245307  5  4 c   r     b     -         1000  370  450 
+dtDrifter 924245371  5  3 c   k     f     -         1080   10    0 
+dtDrifter 924245400  5  2 Bc  kf    -     -         1070   35    0 
+dtDrifter 924245418  5  1 Bcc kc    k     k         1035  210  640 9s Ah
+dtDrifter 924245469  5  5 f   -     -     -         1465    0    0 
+dtDrifter 924245491  5  4 f   -     -     -         1465    0    0 
+dtDrifter 924245531  5  3 c   k     k     f         1465   10    0 
+dtDrifter 924245554  5  2 Bk  kf    -     -         1455   10    0 
+dtDrifter 924245572  5  1 Bf  -     -     -         1445    5    0 
+dtDrifter 924245584  5  5 f   -     -     -         1440    0    0 
+dtDrifter 924245602  5  4 cf  -     -     -         1440   10    0 
+dtDrifter 924245628  3  2 Bc  f     -     -         1430   80    0 
+dtDrifter 924245683  2  1 Br  -     -     -         1350   70   90 
+dtDrifter 924245693  2  2 Br  c     b     -         1370  700 1000 
+dtDrifter 924245722  2  1 Bc  k     k     k         1670   20   40 As 2d
+dtDrifter 924245741  2  2 Br  b     bf    -         1690  820    0 
+dtDrifter 924245776  2  1 Bf  -     -     -          870   10    0 
+dtDrifter 924245782  2  2 Bf  -     -     -          860   20    0 
+dtDrifter 924245792  2  1 Bc  k     bc    kf         840  180    0 
+dtDrifter 924245824  2  2 Bc  k     k     cA         660  660    0 8c 9s
+dtDrifter 924246144  6  3 f   -     -     -         5000    0    0 
+dtDrifter 924246236  5  2 Bk  k     c     k         5000  200    0 5s Jc
+dtDrifter 924246283  5  1 Bf  -     -     -         4800   25    0 
+dtDrifter 924246323  5  5 f   -     -     -         4775    0    0 
+dtDrifter 924246366  5  4 f   -     -     -         4775    0    0 
+dtDrifter 924246383  5  3 c   b     -     -         4775  100  250 
+dtDrifter 924246415  5  2 Bk  k     b     -         4925  125  250 
+dtDrifter 924246444  5  1 Bc  k     k     k         5050   50    0 2s 8s
+dtDrifter 924246484  5  5 f   -     -     -         5000    0    0 
+dtDrifter 924246531  5  4 f   -     -     -         5000    0    0 
+dtDrifter 924246549  5  3 r   b     k     k         5000  400    0 Ac Kc
+dtDrifter 924246586  5  2 Bk  kf    -     -         4600  100    0 
+dtDrifter 924246639  5  1 Bc  kf    -     -         4500  100    0 
+dtDrifter 924246666  5  5 f   -     -     -         4400    0    0 
+dtDrifter 924246696  5  4 f   -     -     -         4400    0    0 
+dtDrifter 924246721  5  3 c   b     b     b         4400  500 1150 5h Ad
+dtDrifter 924246763  5  2 Bk  b     -     -         5050  200  300 
+dtDrifter 924246783  5  1 Bf  -     -     -         5150   50    0 
+dtDrifter 924246796  5  5 f   -     -     -         5100    0    0 
+dtDrifter 924246833  5  4 c   b     b     b         5100 1400    0 Kc 3c
+dtDrifter 924246877  5  3 c   b     -     -         3700 1200 2000 
+dtDrifter 924246914  5  2 Bc  k     k     b         4500 3700 7500 
+dtDrifter 924246969  5  1 Bf  -     -     -         8300  100    0 
+dtDrifter 924247006  5  5 c   f     -     -         8200  200    0 
+dtDrifter 924247043  5  4 f   -     -     -         8000    0    0 
+dtDrifter 924247063  5  3 f   -     -     -         8000    0    0 
+dtDrifter 924247074  5  2 Bk  kf    -     -         8000  200    0 
+dtDrifter 924247112  5  1 Bc  k     k     k         7800  400  800 2h 2d
+dtDrifter 924247134  5  5 f   -     -     -         8200    0    0 
+dtDrifter 924247161  5  4 cc  -     -     -         8200  875    0 6c Kc
+dtDrifter 924247181  5  3 f   -     -     -         7325    0    0 
+dtDrifter 924247195  5  2 Bf  -     -     -         7325  400    0 
+dtDrifter 924247222  4  1 Bc  k     k     k         6925  400    0 4h 4d
+dtDrifter 924247260  4  4 f   -     -     -         6525    0    0 
+dtDrifter 924247285  4  3 f   -     -     -         6525    0    0 
+dtDrifter 924247304  4  2 Bk  k     k     k         6525  400    0 5c 7s
+dtDrifter 924247330  4  1 Bf  -     -     -         6125  200    0 
+dtDrifter 924247356  4  4 f   -     -     -         5925    0    0 
+dtDrifter 924247381  3  2 B   -     -     -         5925  400  600 
+dtDrifter 924247389  3  1 Bc  bA    -     -         6125 6125 7925 
+dtDrifter 924247416  3  3 f   -     -     -         7925    0    0 
+dtDrifter 924247439  3  2 Bk  k     k     kf        7925  800    0 
+dtDrifter 924247474  3  1 Bf  -     -     -         7125  400    0 
+dtDrifter 924247480  3  3 c   b     -     -         6725 2000 3600 
+dtDrifter 924247500  3  2 Br  -     -     -         8325 2400 3600 
+dtDrifter 924247511  3  1 Br  -     -     -         9525 2000 2800 
+dtDrifter 924247520  3  3 f   -     -     -        10325    0    0 
+dtDrifter 924247540  3  2 B   -     -     -        10325  800 1200 
+dtDrifter 924247550  3  1 Bf  -     -     -        10725  400    0 
+dtDrifter 924247555  3  3 f   -     -     -        10325    0    0 
+dtDrifter 924247559  3  2 Bc  f     -     -        10325 2400    0 
+dtDrifter 924247567  3  1 Bf  -     -     -         7925  400    0 
+dtDrifter 924247576  3  3 r   bcA   -     -         7525 7525 15450 Jc Jh
+dtDrifter 924247602  3  2 Bf  -     -     -        15450  800    0 
+dtDrifter 924247616  3  1 Bc  k     k     k        14650 2300 6900 9s 9d
+dtDrifter 924247840  2  2 B   -     -     -        19250 1600 2400 
+dtDrifter 924247846  2  1 Bf  -     -     -        20050  800    0 
+dtDrifter 924247874  2  2 Bf  -     -     -        19250 1600    0 
+dtDrifter 924247893  2  1 Bf  -     -     -        17650  800    0 
+dtDrifter 924247908  2  2 B   -     -     -        16850 1600 2400 
+dtDrifter 924247911  2  1 Bc  k     k     k        17650 1600 3200 5s Qs
+dtDrifter 924247928  2  2 B   -     -     -        19250 1600 2400 
+dtDrifter 924247932  2  1 Bf  -     -     -        20050  800    0 
+dtDrifter 924247935  2  2 Bf  -     -     -        19250 1600    0 
+dtDrifter 924247941  2  1 Br  b     -     -        17650 8000 12000 
+dtDrifter 924247953  2  2 Bk  k     k     k        21650 1600    0 2d 3d
+dtDrifter 924247970  2  1 Bf  -     -     -        20050  800    0 
+dtDrifter 924247976  2  2 Br  b     k     f        19250 8000    0 
+dtDrifter 924248016  2  1 Bf  -     -     -        11250  800    0 
+dtDrifter 924248026  2  2 B   -     -     -        10450 1600 2400 
+dtDrifter 924248029  2  1 Bf  -     -     -        11250  800    0 
+dtDrifter 924248034  2  2 B   -     -     -        10450 1600 2400 
+dtDrifter 924248036  2  1 Bc  k     b     bcA      11250 11250    0 Ts Qd
+dtDrifter 924547865  8  8 c   f     -     -         5000  175    0 
+dtDrifter 924547901  8  7 c   c     cA    -         4825 4825    0 As Ts
+dtDrifter 924565941 23 11 f   -     -     -         3500    0    0 
+dtDrifter 924566026 21  9 f   -     -     -         3500    0    0 
+dtDrifter 924566187 21  8 f   -     -     -         3500    0    0 
+dtDrifter 924566266 21  7 f   -     -     -         3500    0    0 
+dtDrifter 924566356 16  5 r   k     k     c         3500  930 3120 Kd Ad
+dtDrifter 924566475 16  4 cc  b     bf    -         5690 1520    0 
+dtDrifter 924566580 16  3 f   -     -     -         4170    0    0 
+dtDrifter 924566708 16  2 Bf  -     -     -         4170  120    0 
+dtDrifter 924566771 16  1 Bf  -     -     -         4050   60    0 
+dtDrifter 924566807 16 16 c   r     c     c         3990 3580  880 Th Td
+dtDrifter 924566959 15 14 f   -     -     -         1290    0    0 
+dtDrifter 924567014 14 12 f   -     -     -         1290    0    0 
+dtDrifter 924567081 14 12 f   -     -     -         1290    0    0 
+dtDrifter 924567145 14 11 c   f     -     -         1290  240    0 
+dtDrifter 924567205 14 10 ccA -     -     -         1050 1050    0 Ah Qc
+dtDrifter 924568932 23 22 c   k     c     f         3000  450    0 
+dtDrifter 924569076 23 21 f   -     -     -         2550    0    0 
+dtDrifter 924569230 21 18 f   -     -     -         2550    0    0 
+dtDrifter 924569326 21 17 f   -     -     -         2550    0    0 
+dtDrifter 924569386 21 16 r   r     k     f         2550 1000    0 
+dtDrifter 924569527 21 15 f   -     -     -         1550    0    0 
+dtDrifter 924569602 21 14 f   -     -     -         1550    0    0 
+dtDrifter 924569709 19 12 f   -     -     -         1550    0    0 
+dtDrifter 924569787 19 11 f   -     -     -         1550    0    0 
+dtDrifter 924569841 19 10 f   -     -     -         1550    0    0 
+dtDrifter 924569918 18  8 f   -     -     -         1550    0    0 
+dtDrifter 924570021 18  8 f   -     -     -         1550    0    0 
+dtDrifter 924570060 18  7 f   -     -     -         1550    0    0 
+dtDrifter 924570138 18  6 f   -     -     -         1550    0    0 
+dtDrifter 924570200 18  5 f   -     -     -         1550    0    0 
+dtDrifter 924570245 17  3 f   -     -     -         1550    0    0 
+dtDrifter 924570395 16  3 f   -     -     -         1550    0    0 
+dtDrifter 924570449 15  2 Bf  -     -     -         1550  400    0 
+dtDrifter 924570511 15  1 Bf  -     -     -         1150  400    0 
+dtDrifter 924570533 15 15 f   -     -     -          750    0    0 
+dtDrifter 924570605 14 13 cA  -     -     -          750  750    0 6d 9d
+dtDrifter 924571843 18 16 f   -     -     -         3000    0    0 
+dtDrifter 924571923 18 15 f   -     -     -         3000    0    0 
+dtDrifter 924572013 17 14 f   -     -     -         3000    0    0 
+dtDrifter 924572045 17 13 f   -     -     -         3000    0    0 
+dtDrifter 924572124 17 12 c   c     c     -         3000 2790 6780 9d Jd
+dtDrifter 924572216 16 10 f   -     -     -         6990    0    0 
+dtDrifter 924572306 16 10 f   -     -     -         6990    0    0 
+dtDrifter 924572365 16  9 c   k     k     f         6990   60    0 
+dtDrifter 924572442 16  8 f   -     -     -         6930    0    0 
+dtDrifter 924572520 16  7 c   cf    -     -         6930  570    0 
+dtDrifter 924572589 15  5 c   f     -     -         6360   60    0 
+dtDrifter 924572686 14  4 f   -     -     -         6300    0    0 
+dtDrifter 924572769 14  3 f   -     -     -         6300    0    0 
+dtDrifter 924572817 14  2 Bk  b     bc    -         6300 2080    0 4h Js
+dtDrifter 924572907 14  1 Bf  -     -     -         4220   60    0 
+dtDrifter 924572957 14 14 f   -     -     -         4160    0    0 
+dtDrifter 924573022 14 13 f   -     -     -         4160    0    0 
+dtDrifter 924573110 13 11 c   -     -     -         4160 2280    0 Th Kh
+dtDrifter 924573156 12  9 f   -     -     -         1880    0    0 
+dtDrifter 924573224 12  8 f   -     -     -         1880    0    0 
+dtDrifter 924573275 12  7 c   k     b     -         1880  740 1700 
+dtDrifter 924573345 12  6 f   -     -     -         2840    0    0 
+dtDrifter 924573403 12  5 cc  k     b     bA        2840 2840 9900 As Qs
+dtDrifter 924573513 12  4 f   -     -     -         9900    0    0 
+dtDrifter 924573553 12  3 c   kc    -     -         9900  975    0 Ad 2h
+dtDrifter 924573601 12  2 Bk  kf    -     -         8925  240    0 
+dtDrifter 924573660 12  1 Bc  k     kc    -         8685 2580 7320 Th Td
+dtDrifter 924573764 11 11 c   b     -     -        13425  980 2180 
+dtDrifter 924573816 11 10 c   k     k     f        14625  480    0 
+dtDrifter 924573909 11  9 f   -     -     -        14145    0    0 
+dtDrifter 924573943 10  7 f   -     -     -        14145    0    0 
+dtDrifter 924573983 10  6 f   -     -     -        14145    0    0 
+dtDrifter 924574013 10  5 c   c     f     -        14145  980    0 
+dtDrifter 924574055 10  4 f   -     -     -        13165    0    0 
+dtDrifter 924574074 10  3 f   -     -     -        13165    0    0 
+dtDrifter 924574117 10  2 Bf  -     -     -        13165  960    0 
+dtDrifter 924574146 10  1 Bc  k     k     k        12205  960 1920 8c Kh
+dtDrifter 924574182 10 10 f   -     -     -        13165    0    0 
+dtDrifter 924574205 10  9 f   -     -     -        13165    0    0 
+dtDrifter 924574256  9  7 f   -     -     -        13165    0    0 
+dtDrifter 924574277  9  6 f   -     -     -        13165    0    0 
+dtDrifter 924574310  9  5 f   -     -     -        13165    0    0 
+dtDrifter 924574333  9  4 f   -     -     -        13165    0    0 
+dtDrifter 924574373  8  2 B   -     -     -        13165  960 1440 
+dtDrifter 924574389  8  1 Bf  -     -     -        13645  480    0 
+dtDrifter 924574404  8  8 f   -     -     -        13165    0    0 
+dtDrifter 924574422  8  7 f   -     -     -        13165    0    0 
+dtDrifter 924574465  7  5 f   -     -     -        13165    0    0 
+dtDrifter 924574504  7  5 f   -     -     -        13165    0    0 
+dtDrifter 924574509  7  4 c   c     k     k        13165 5920 7360 Ad Kh
+dtDrifter 924574546  7  3 f   -     -     -        14605    0    0 
+dtDrifter 924574583  6  2 B   -     -     -        14605 1920 4500 2c Qd
+dtDrifter 924574601  5  1 Bf  -     -     -        17185  960    0 
+dtDrifter 924574620  5  5 f   -     -     -        16225    0    0 
+dtDrifter 924574649  5  4 f   -     -     -        16225    0    0 
+dtDrifter 924574667  5  3 f   -     -     -        16225    0    0 
+dtDrifter 924574680  5  2 Bf  -     -     -        16225 1920    0 
+dtDrifter 924574690  5  1 Bf  -     -     -        14305  960    0 
+dtDrifter 924574702  5  5 f   -     -     -        13345    0    0 
+dtDrifter 924574744  4  3 cc  k     k     b        13345 7480 19440 Ah 6h
+dtDrifter 924574780  3  2 Bk  k     k     f        25305 1920    0 
+dtDrifter 924574824  2  1 Br  b     -     -        23385 8960 13920 
+dtDrifter 924574858  2  2 B   -     -     -        28345 3840 5760 
+dtDrifter 924574861  2  1 Bf  -     -     -        30265 1920    0 
+dtDrifter 924574867  2  2 Bc  k     b     -        28345 11840 19680 
+dtDrifter 924574900  2  1 Bf  -     -     -        36185 1920    0 
+dtDrifter 924574909  2  2 Bf  -     -     -        34265 3840    0 
+dtDrifter 924574916  2  1 Br  -     -     -        30425 9920 13760 
+dtDrifter 924574927  2  2 Bk  k     f     -        34265 3840    0 
+dtDrifter 924574949  2  1 Br  b     -     -        30425 13920 21840 
+dtDrifter 924574966  2  2 Bf  -     -     -        38345 3840    0 
+dtDrifter 924574977  2  1 Bf  -     -     -        34505 1920    0 
+dtDrifter 924574980  2  2 B   -     -     -        32585 3840 5760 
+dtDrifter 924574987  2  1 Bf  -     -     -        34505 1920    0 
+dtDrifter 924574993  2  2 B   -     -     -        32585 3840 5760 
+dtDrifter 924574995  2  1 Br  -     -     -        34505 7920 11760 
+dtDrifter 924575002  2  2 B   -     -     -        38345 3840 5760 
+dtDrifter 924575005  2  1 Bf  -     -     -        40265 1920    0 
+dtDrifter 924575009  2  2 Bf  -     -     -        38345 3840    0 
+dtDrifter 924575017  2  1 Br  b     -     -        34505 13920 21840 
+dtDrifter 924575031  2  2 B   -     -     -        42425 3840 5760 
+dtDrifter 924575034  2  1 Bc  k     k     k        44345 3840 7680 7c Qd
+dtDrifter 924575053  2  2 B   -     -     -        48185 3840 5760 
+dtDrifter 924575060  2  1 Bcc -     -     -        50105 3895    0 2c Ah
+dtDrifter 924575071  2  2 Bc  -     -     -        46210 7790    0 Kh Qd
+dtDrifter 924575085  2  1 Bf  -     -     -        38420 1920    0 
+dtDrifter 924575091  2  2 Bk  c     r     -        36500 17840 35340 2d 5d
+dtDrifter 924575270 21 14 f   -     -     -         3000    0    0 
+dtDrifter 924575349 21 13 f   -     -     -         3000    0    0 
+dtDrifter 924575485 21 12 f   -     -     -         3000    0    0 
+dtDrifter 924575585 20 10 f   -     -     -         3000    0    0 
+dtDrifter 924575679 19  9 f   -     -     -         3000    0    0 
+dtDrifter 924575824 19  8 f   -     -     -         3000    0    0 
+dtDrifter 924575913 19  7 f   -     -     -         3000    0    0 
+dtDrifter 924576048 19  6 f   -     -     -         3000    0    0 
+dtDrifter 924576188 19  5 f   -     -     -         3000    0    0 
+dtDrifter 924576266 18  4 f   -     -     -         3000    0    0 
+dtDrifter 924576367 18  3 f   -     -     -         3000    0    0 
+dtDrifter 924576468 18  2 Bf  -     -     -         3000  400    0 
+dtDrifter 924576509 17  1 Bc  kcA   -     -         2600 2600    0 Ah Kd
+dtDrifter 924586617 17 17 c   c     b     c         5000 2650    0 Qc Ah
+dtDrifter 924586700 17 16 f   -     -     -         2350    0    0 
+dtDrifter 924586763 17 15 f   -     -     -         2350    0    0 
+dtDrifter 924586847 16 14 c   b     f     -         2350  250    0 
+dtDrifter 924586930 16 13 f   -     -     -         2100    0    0 
+dtDrifter 924587001 16 12 c   k     f     -         2100  100    0 
+dtDrifter 924587076 16 11 f   -     -     -         2000    0    0 
+dtDrifter 924587131 16 10 c   f     -     -         2000  350    0 
+dtDrifter 924587166 16  9 c   kf    -     -         1650  100    0 
+dtDrifter 924587243 14  8 c   kc    k     bA        1550 1550 3650 Td As
+dtDrifter 924587390 14  7 f   -     -     -         3650    0    0 
+dtDrifter 924587435 14  6 c   kf    -     -         3650  200    0 
+dtDrifter 924587502 14  5 c   kf    -     -         3450  200    0 
+dtDrifter 924587597 13  4 f   -     -     -         3250    0    0 
+dtDrifter 924587683 13  3 f   -     -     -         3250    0    0 
+dtDrifter 924587756 13  2 Bk  kf    -     -         3250  400    0 
+dtDrifter 924587818 13  1 Bf  -     -     -         2850  200    0 
+dtDrifter 924587876 12 12 f   -     -     -         2650    0    0 
+dtDrifter 924587956 10 10 f   -     -     -         2650    0    0 
+dtDrifter 924588004 10  9 f   -     -     -         2650    0    0 
+dtDrifter 924588035  9  8 f   -     -     -         2650    0    0 
+dtDrifter 924588073  9  7 f   -     -     -         2650    0    0 
+dtDrifter 924588110  9  6 c   k     bA    -         2650 2650 7300 3c 3d
+dtDrifter 924588168  9  5 f   -     -     -         7300    0    0 
+dtDrifter 924588215  9  4 c   b     b     bA        7300 7300    0 Ac Ah
+dtDrifter 924589707 11  7 f   -     -     -         5000    0    0 
+dtDrifter 924589803 11  6 f   -     -     -         5000    0    0 
+dtDrifter 924589855 11  5 f   -     -     -         5000    0    0 
+dtDrifter 924589949 11  4 f   -     -     -         5000    0    0 
+dtDrifter 924589998 11  3 f   -     -     -         5000    0    0 
+dtDrifter 924590041 11  2 Bc  k     f     -         5000  300    0 
+dtDrifter 924590104 10  1 Bc  kf    -     -         4700  350    0 
+dtDrifter 924590135 10 10 f   -     -     -         4350    0    0 
+dtDrifter 924590204 10  9 c   k     f     -         4350  100    0 
+dtDrifter 924590249 10  8 f   -     -     -         4250    0    0 
+dtDrifter 924590303  9  6 f   -     -     -         4250    0    0 
+dtDrifter 924590335  9  5 c   k     kc    k         4250  450    0 Tc Jc
+dtDrifter 924590377  9  4 f   -     -     -         3800    0    0 
+dtDrifter 924590415  9  3 f   -     -     -         3800    0    0 
+dtDrifter 924590475  9  2 Bc  bA    -     -         3800 3800    0 Th Qs
+dtDrifter 924628330 15  9 c   k     k     brcA      5000 5000 10200 3c Ah
+dtDrifter 924628419 14  8 c   b     bcc   -        10200 5000 7513 Js Ks
+dtDrifter 924628493 13  7 f   -     -     -        12713    0    0 
+dtDrifter 924628548 13  6 f   -     -     -        12713    0    0 
+dtDrifter 924628605 13  5 c   c     k     k        12713 4675 11250 Jh Js
+dtDrifter 924628705 13  4 cf  -     -     -        19288  100    0 
+dtDrifter 924628815 13  3 f   -     -     -        19188    0    0 
+dtDrifter 924628891 13  2 Bf  -     -     -        19188  100    0 
+dtDrifter 924629014 12  1 Bc  b     k     kf       19088  200    0 
+dtDrifter 924629099 12 12 f   -     -     -        18888    0    0 
+dtDrifter 924629143 11 10 c   c     f     -        18888  800    0 
+dtDrifter 924629184 11  9 f   -     -     -        18088    0    0 
+dtDrifter 924629223 11  8 f   -     -     -        18088    0    0 
+dtDrifter 924629284 11  7 f   -     -     -        18088    0    0 
+dtDrifter 924629318 10  6 f   -     -     -        18088    0    0 
+dtDrifter 924629366 10  5 f   -     -     -        18088    0    0 
+dtDrifter 924629397 10  4 f   -     -     -        18088    0    0 
+dtDrifter 924629441 10  3 f   -     -     -        18088    0    0 
+dtDrifter 924629472  9  2 Bk  k     kf    -        18088  400    0 
+dtDrifter 924629524  9  1 Bc  k     k     kf       17688  400    0 
+dtDrifter 924629597  9  9 f   -     -     -        17288    0    0 
+dtDrifter 924629632  8  7 f   -     -     -        17288    0    0 
+dtDrifter 924629657  8  6 f   -     -     -        17288    0    0 
+dtDrifter 924629687  7  4 f   -     -     -        17288    0    0 
+dtDrifter 924629707  7  4 f   -     -     -        17288    0    0 
+dtDrifter 924629737  7  3 f   -     -     -        17288    0    0 
+dtDrifter 924629779  7  2 Bk  b     b     -        17288 5100 13925 9s 9d
+dtDrifter 924629836  6  1 Bc  kf    -     -        26113  800    0 
+dtDrifter 924629869  6  6 c   r     c     -        25313 11000 24000 Qs Ah
+dtDrifter 924629918  5  4 r   b     -     -        38313 5200   26 Ac Ah
+dtDrifter 924629946  5  3 f   -     -     -        33139    0    0 
+dtDrifter 924629972  5  2 Bk  kf    -     -        33139  800    0 
+dtDrifter 924629995  5  1 Bc  b     -     -        32339 1600 2400 
+dtDrifter 924630018  5  5 f   -     -     -        33139    0    0 
+dtDrifter 924630038  5  4 f   -     -     -        33139    0    0 
+dtDrifter 924630070  5  3 cc  bc    -     -        33139 28250    0 Qd Jd
+dtDrifter 924630103  5  2 B   -     -     -         4889  800 1200 
+dtDrifter 924630116  5  1 Bf  -     -     -         5289  800    0 
+dtDrifter 924630145  4  4 f   -     -     -         4489    0    0 
+dtDrifter 924630158  4  3 c   -     -     -         4489 1600 2063 Qd Kd
+dtDrifter 924630165  2  1 B   -     -     -         4952 1600 1600 
+dtDrifter 924630170  2  1 Bf  -     -     -         4952  800    0 
+dtDrifter 924630175  2  2 Bk  b     k     k         4152 3200    0 7h 4s
+dtDrifter 924630200  2  1 BcA -     -     -          952  952 1904 Jc 8c
+dtDrifter 924630204  2  2 B   -     -     -         1904 1600 2400 
+dtDrifter 924630209  2  1 Bc  bA    -     -         2704 2704 5408 Tc Ah
+dtDrifter 924630229  2  2 B   -     -     -         5408 1600 2400 
+dtDrifter 924630235  2  1 Bf  -     -     -         6208  800    0 
+dtDrifter 924630245  2  2 Bc  cA    -     -         5408 5408 10816 9d Ah
+dtDrifter 924630255  2  1 Bf  -     -     -        10816  800    0 
+dtDrifter 924630262  2  2 B   -     -     -        10016 1600 2400 
+dtDrifter 924630265  2  1 Bc  b     -     -        10816 3200 4800 
+dtDrifter 924630278  2  2 Bc  k     k     k        12416 4800 9600 Ad 4h
+dtDrifter 924630293  2  1 Bc  k     k     k        17216 1600 3200 As Jh
+dtDrifter 924630312  2  2 B   -     -     -        18816 1600 2400 
+dtDrifter 924630317  2  1 Bf  -     -     -        19616  800    0 
+dtDrifter 924630320  2  2 Bf  -     -     -        18816 1600    0 
+dtDrifter 924630327  2  1 Br  k     kf    -        17216 4000    0 
+dtDrifter 924630346  2  2 B   -     -     -        13216 1600 2400 
+dtDrifter 924630348  2  1 Bf  -     -     -        14016  800    0 
+dtDrifter 924630354  2  2 B   -     -     -        13216 1600 2400 
+dtDrifter 924630357  2  1 Bf  -     -     -        14016  800    0 
+dtDrifter 924630360  2  2 Bf  -     -     -        13216 1600    0 
+dtDrifter 924630367  2  1 Br  -     -     -        11616 5000 6600 
+dtDrifter 924630374  2  2 Br  b     -     -        13216 8800 14000 
+dtDrifter 924630387  2  1 Br  -     -     -        18416 4000 5600 
+dtDrifter 924630394  2  2 B   -     -     -        20016 1600 2400 
+dtDrifter 924630395  2  1 Br  -     -     -        20816 5000 6600 
+dtDrifter 924630401  2  2 Bc  f     -     -        22416 4800    0 
+dtDrifter 924630413  2  1 Bf  -     -     -        17616  800    0 
+dtDrifter 924630417  2  2 B   -     -     -        16816 1600 2400 
+dtDrifter 924630419  2  1 Bc  b     b     b        17616 11200    0 7s 9s
+dtDrifter 924630438  2  2 Bf  -     -     -         6416 1600    0 
+dtDrifter 924630449  2  1 Bf  -     -     -         4816 1600    0 
+dtDrifter 924630451  2  2 Bk  k     k     cA        3216 3216 6432 Jd 6h
+dtDrifter 924630488  2  1 Bf  -     -     -         6432 1600    0 
+dtDrifter 924630494  2  2 B   -     -     -         4832 3200 4800 
+dtDrifter 924630496  2  1 Bf  -     -     -         6432 1600    0 
+dtDrifter 924630503  2  2 Bk  cA    -     -         4832 4832 9664 Jh 8c
+dtDrifter 924630512  2  1 Bf  -     -     -         9664 1600    0 
+dtDrifter 924630521  2  2 Bk  k     bA    -         8064 8064 16128 3s Tc
+dtDrifter 924630538  2  1 Bf  -     -     -        16128 1600    0 
+dtDrifter 924630543  2  2 B   -     -     -        14528 3200 4800 
+dtDrifter 924630545  2  1 Bf  -     -     -        16128 1600    0 
+dtDrifter 924630548  2  2 B   -     -     -        14528 3200 4800 
+dtDrifter 924630551  2  1 Bf  -     -     -        16128 1600    0 
+dtDrifter 924630556  2  2 B   -     -     -        14528 3200 4800 
+dtDrifter 924630558  2  1 Bf  -     -     -        16128 1600    0 
+dtDrifter 924630561  2  2 B   -     -     -        14528 3200 4800 
+dtDrifter 924630563  2  1 Bf  -     -     -        16128 1600    0 
+dtDrifter 924630565  2  2 B   -     -     -        14528 3200 4800 
+dtDrifter 924630567  2  1 Br  -     -     -        16128 11600 14800 
+dtDrifter 924630577  2  2 B   -     -     -        19328 3200 4800 
+dtDrifter 924630580  2  1 Bf  -     -     -        20928 1600    0 
+dtDrifter 924630581  2  2 B   -     -     -        19328 3200 4800 
+dtDrifter 924630583  2  1 Bf  -     -     -        20928 1600    0 
+dtDrifter 924630590  2  2 Br  k     b     bA       19328 19328    0 5d 5s
+dtDrifter 924630789 16  7 f   -     -     -         5000    0    0 
+dtDrifter 924630860 15  6 cf  -     -     -         5000   50    0 
+dtDrifter 924630933 15  5 crcA -     -     -         4950 4950    0 Qc Qd
+dtDrifter 924648055 23  8 c   c     f     -         5000  425    0 
+dtDrifter 924648171 23  7 f   -     -     -         4575    0    0 
+dtDrifter 924648275 23  6 f   -     -     -         4575    0    0 
+dtDrifter 924648470 23  5 c   f     -     -         4575   50    0 
+dtDrifter 924648580 23  4 f   -     -     -         4525    0    0 
+dtDrifter 924648681 23  3 c   b     b     k         4525 4100 10000 Td Tc
+dtDrifter 924648786 23  2 Bf  -     -     -        10425  100    0 
+dtDrifter 924648872 22  1 Bcf -     -     -        10325  750    0 
+dtDrifter 924648960 21 21 f   -     -     -         9575    0    0 
+dtDrifter 924649075 21 20 f   -     -     -         9575    0    0 
+dtDrifter 924649134 21 19 f   -     -     -         9575    0    0 
+dtDrifter 924649191 20 17 r   b     b     -         9575 2200 6700 
+dtDrifter 924649321 20 16 c   f     -     -        14075  200    0 
+dtDrifter 924649411 20 15 f   -     -     -        13875    0    0 
+dtDrifter 924649475 20 14 f   -     -     -        13875    0    0 
+dtDrifter 924649526 20 13 c   c     k     k        13875 3200 1500 4h 4c
+dtDrifter 924649617 20 12 f   -     -     -        12175    0    0 
+dtDrifter 924649693 20 11 f   -     -     -        12175    0    0 
+dtDrifter 924649754 18  8 f   -     -     -        12175    0    0 
+dtDrifter 924649799 18  8 c   k     k     k        12175  400    0 Jd Kd
+dtDrifter 924649869 18  7 f   -     -     -        11775    0    0 
+dtDrifter 924649904 17  6 f   -     -     -        11775    0    0 
+dtDrifter 924649935 16  5 f   -     -     -        11775    0    0 
+dtDrifter 924650003 14  4 f   -     -     -        11775    0    0 
+dtDrifter 924650051 13  3 f   -     -     -        11775    0    0 
+dtDrifter 924650105 13  2 Bk  kf    -     -        11775  800    0 
+dtDrifter 924650184 12  1 Bf  -     -     -        10975  400    0 
+dtDrifter 924650232 12 12 f   -     -     -        10575    0    0 
+dtDrifter 924650254 12 11 c   k     k     k        10575  800    0 4h 4d
+dtDrifter 924650317 12 10 f   -     -     -         9775    0    0 
+dtDrifter 924650372 10  8 f   -     -     -         9775    0    0 
+dtDrifter 924650426 10  7 f   -     -     -         9775    0    0 
+dtDrifter 924650441 10  6 f   -     -     -         9775    0    0 
+dtDrifter 924650457 10  5 f   -     -     -         9775    0    0 
+dtDrifter 924650505  9  3 f   -     -     -         9775    0    0 
+dtDrifter 924650556  9  3 c   kf    -     -         9775 1600    0 
+dtDrifter 924650618  9  2 Bc  -     -     -         8175 5075 10950 Ac Qc
+dtDrifter 924650637  8  1 Bf  -     -     -        14050  800    0 
+dtDrifter 924650659  7  7 f   -     -     -        13250    0    0 
+dtDrifter 924650682  7  7 c   b     -     -        13250 5100 12200 Kh Kd
+dtDrifter 924650722  6  5 f   -     -     -        20350    0    0 
+dtDrifter 924650742  6  4 f   -     -     -        20350    0    0 
+dtDrifter 924650758  6  3 f   -     -     -        20350    0    0 
+dtDrifter 924650777  5  2 Bk  k     k     k        20350 1600 4000 3s 9c
+dtDrifter 924650803  5  1 Bf  -     -     -        22750  800    0 
+dtDrifter 924650837  5  5 f   -     -     -        21950    0    0 
+dtDrifter 924650842  5  4 f   -     -     -        21950    0    0 
+dtDrifter 924650855  5  3 f   -     -     -        21950    0    0 
+dtDrifter 924650865  4  1 Bf  -     -     -        21950 3200    0 
+dtDrifter 924650889  4  1 Bf  -     -     -        18750 1600    0 
+dtDrifter 924650911  4  4 f   -     -     -        17150    0    0 
+dtDrifter 924650920  4  3 f   -     -     -        17150    0    0 
+dtDrifter 924650929  4  2 Bk  k     b     -        17150 7200 12000 
+dtDrifter 924650962  4  1 Bcf -     -     -        21950 3200    0 
+dtDrifter 924650979  4  4 f   -     -     -        18750    0    0 
+dtDrifter 924650996  4  3 f   -     -     -        18750    0    0 
+dtDrifter 924651030  4  2 Br  -     -     -        18750 9600 16000 
+dtDrifter 924651077  4  1 Bcc k     bA    -        25150 25150 50300 7c 6c
+dtDrifter 924651107  4  4 f   -     -     -        50300    0    0 
+dtDrifter 924651117  4  3 f   -     -     -        50300    0    0 
+dtDrifter 924651149  4  2 B   -     -     -        50300 3200 4800 
+dtDrifter 924651156  4  1 Bcc kf    -     -        51900 9600    0 
+dtDrifter 924651175  4  4 f   -     -     -        42300    0    0 
+dtDrifter 924651195  4  3 f   -     -     -        42300    0    0 
+dtDrifter 924651218  4  2 B   -     -     -        42300 3200  100 9d 7h
+dtDrifter 924651229  4  1 Bf  -     -     -        39200 1600    0 
+dtDrifter 924651245  4  4 f   -     -     -        37600    0    0 
+dtDrifter 924651258  3  2 Bk  k     k     k        37600 3200    0 6s 9h
+dtDrifter 924651288  3  1 Bf  -     -     -        34400 3200    0 
+dtDrifter 924651295  3  3 f   -     -     -        31200    0    0 
+dtDrifter 924651299  3  2 Bk  k     k     k        31200 6400    0 6c Jh
+dtDrifter 924651326  3  1 Bc  k     kf    -        24800 6400    0 
+dtDrifter 924651351  3  3 c   b     cA    -        18400 18400 40000 7s 7d
+dtDrifter 924651388  3  2 Bf  -     -     -        40000 6400    0 
+dtDrifter 924651400  3  1 Bf  -     -     -        33600 3200    0 
+dtDrifter 924651405  3  3 f   -     -     -        30400    0    0 
+dtDrifter 924651410  3  2 Bk  k     k     k        30400 6400 12800 9h Jc
+dtDrifter 924651433  3  1 Bf  -     -     -        36800 3200    0 
+dtDrifter 924651444  3  3 f   -     -     -        33600    0    0 
+dtDrifter 924651450  3  2 Br  -     -     -        33600 12800 19200 
+dtDrifter 924651461  3  1 Bf  -     -     -        40000 3200    0 
+dtDrifter 924651479  3  3 f   -     -     -        36800    0    0 
+dtDrifter 924651490  2  1 Bf  -     -     -        36800 6400    0 
+dtDrifter 924651499  2  1 Br  -     -     -        30400 12800 19200 
+dtDrifter 924651513  2  2 Bc  cA    -     -        36800 36800 73600 2h Kc
+dtDrifter 924651531  2  1 Bc  kc    b     -        73600 33200 52400 
+dtDrifter 924651561  2  2 B   -     -     -        92800 6400 9600 
+dtDrifter 924651564  2  1 Bf  -     -     -        96000 3200    0 
+dtDrifter 924651567  2  2 B   -     -     -        92800 6400 9600 
+dtDrifter 924651570  2  1 Br  -     -     -        96000 12800 22900 Kc Ah
+dtDrifter 924651708 22 15 f   -     -     -         5000    0    0 
+dtDrifter 924651802 22 14 cf  -     -     -         5000   50    0 
+dtDrifter 924651864 20 12 f   -     -     -         4950    0    0 
+dtDrifter 924651952 20 11 c   b     -     -         4950 1050 1400 
+dtDrifter 924652035 20 10 cc  c     -     -         5300 4775 11475 7d Ah
+dtDrifter 924652145 19  8 f   -     -     -        12000    0    0 
+dtDrifter 924652247 19  7 c   f     -     -        12000  100    0 
+dtDrifter 924652368 18  6 f   -     -     -        11900    0    0 
+dtDrifter 924652483 18  5 f   -     -     -        11900    0    0 
+dtDrifter 924652560 18  4 f   -     -     -        11900    0    0 
+dtDrifter 924652635 18  3 f   -     -     -        11900    0    0 
+dtDrifter 924652713 17  2 Bc  kf    -     -        11900  700    0 
+dtDrifter 924652793 16  1 Bf  -     -     -        11200  100    0 
+dtDrifter 924652832 15 15 c   f     -     -        11100  400    0 
+dtDrifter 924652926 14 13 f   -     -     -        10700    0    0 
+dtDrifter 924652989 14 12 f   -     -     -        10700    0    0 
+dtDrifter 924653012 13 10 f   -     -     -        10700    0    0 
+dtDrifter 924653060 13  9 f   -     -     -        10700    0    0 
+dtDrifter 924653126 11  6 f   -     -     -        10700    0    0 
+dtDrifter 924653211 11  5 f   -     -     -        10700    0    0 
+dtDrifter 924653252 10  4 f   -     -     -        10700    0    0 
+dtDrifter 924653274  9  3 f   -     -     -        10700    0    0 
+dtDrifter 924653304  9  2 Bf  -     -     -        10700  800    0 
+dtDrifter 924653319  9  1 Bc  k     k     k         9900  800 2400 4h 3h
+dtDrifter 924653348  9  9 c   f     -     -        11500  800    0 
+dtDrifter 924653404  9  8 f   -     -     -        10700    0    0 
+dtDrifter 924653425  9  7 f   -     -     -        10700    0    0 
+dtDrifter 924653459  9  6 f   -     -     -        10700    0    0 
+dtDrifter 924653491  9  5 c   k     c     c        10700 2400 8800 7s Ah
+dtDrifter 924653565  9  4 f   -     -     -        17100    0    0 
+dtDrifter 924653590  9  3 f   -     -     -        17100    0    0 
+dtDrifter 924653611  9  2 Bk  bc    kcA   -        17100 17100    0 4h 5h
+dtDrifter 924661552 22  3 f   -     -     -         5000    0    0 
+dtDrifter 924661703 21  2 Br  bc    kc    -         5000 4950 10425 Qd Qs
+dtDrifter 924661785 20  1 Bf  -     -     -        10475   25    0 
+dtDrifter 924661869 19 19 f   -     -     -        10450    0    0 
+dtDrifter 924662000 19 18 c   b     r     -        10450 10249 12899 
+dtDrifter 924662129 19 17 c   f     -     -        13100  100    0 
+dtDrifter 924662246 16 14 f   -     -     -        13000    0    0 
+dtDrifter 924662386 15 13 c   b     k     k        13000  400 1100 As Tc
+dtDrifter 924662514 15 12 f   -     -     -        13700    0    0 
+dtDrifter 924662659 14 10 f   -     -     -        13700    0    0 
+dtDrifter 924662695 14  9 f   -     -     -        13700    0    0 
+dtDrifter 924662775 14  8 c   c     rA    -        13700 13700 23450 Qh Qc
+dtDrifter 924662887 12  5 f   -     -     -        23450    0    0 
+dtDrifter 924662946 10  3 c   k     k     k        23450  400    0 3c 3s
+dtDrifter 924662995 10  3 f   -     -     -        23050    0    0 
+dtDrifter 924663063 10  2 Bk  k     k     k        23050  400  500 9d Qs
+dtDrifter 924663111 10  1 Bf  -     -     -        23150  400    0 
+dtDrifter 924663155 10 10 f   -     -     -        22750    0    0 
+dtDrifter 924663200 10  9 f   -     -     -        22750    0    0 
+dtDrifter 924663234 10  8 f   -     -     -        22750    0    0 
+dtDrifter 924663255 10  7 f   -     -     -        22750    0    0 
+dtDrifter 924663279 10  6 c   f     -     -        22750  800    0 
+dtDrifter 924663324  9  4 f   -     -     -        21950    0    0 
+dtDrifter 924663381  9  4 f   -     -     -        21950    0    0 
+dtDrifter 924663406  9  3 f   -     -     -        21950    0    0 
+dtDrifter 924663486  9  2 Bf  -     -     -        21950 1600    0 
+dtDrifter 924663515  9  1 Bf  -     -     -        20350  800    0 
+dtDrifter 924663566  9  9 r   c     c     -        19550 16950 34700 Ah Kh
+dtDrifter 924663610  8  7 f   -     -     -        37300    0    0 
+dtDrifter 924663628  8  7 c   b     b     -        37300 6400 12000 
+dtDrifter 924663673  8  6 cf  -     -     -        42900 2150    0 
+dtDrifter 924663705  7  4 f   -     -     -        40750    0    0 
+dtDrifter 924663739  7  3 f   -     -     -        40750    0    0 
+dtDrifter 924663803  6  2 Br  kc    -     -        40750 10150 21100 Jh Jd
+dtDrifter 924663861  5  1 Bf  -     -     -        51700 1600    0 
+dtDrifter 924663887  5  5 f   -     -     -        50100    0    0 
+dtDrifter 924663898  5  4 f   -     -     -        50100    0    0 
+dtDrifter 924663913  4  2 r   -     -     -        50100 6400 9600 
+dtDrifter 924663927  4  2 B   -     -     -        53300 3200 4800 
+dtDrifter 924663943  4  1 Bf  -     -     -        54900 1600    0 
+dtDrifter 924663950  4  4 f   -     -     -        53300    0    0 
+dtDrifter 924663958  4  3 f   -     -     -        53300    0    0 
+dtDrifter 924663964  4  2 B   -     -     -        53300 3200 4800 
+dtDrifter 924663967  4  1 Bf  -     -     -        54900 1600    0 
+dtDrifter 924663975  3  3 r   c     c     -        53300 45850 91700 Kc Ad
+dtDrifter 924664001  2  2 f   -     -     -        99150    0    0 
+dtDrifter 924664014  2  2 Bc  c     -     -        99150 10850 21700 6d Kd
+dtDrifter 924664354 19  7 f   -     -     -         5000    0    0 
+dtDrifter 924664422 18  6 f   -     -     -         5000    0    0 
+dtDrifter 924664534 17  5 f   -     -     -         5000    0    0 
+dtDrifter 924664570 17  4 cc  k     f     -         5000  550    0 
+dtDrifter 924664666 17  3 f   -     -     -         4450    0    0 
+dtDrifter 924664719 17  2 Bcf -     -     -         4450  450    0 
+dtDrifter 924664803 17  1 Bc  kc    kcA   -         4000 4000    0 6d Ad
+dtDrifter 924673216 13  6 f   -     -     -         1000    0    0 
+dtDrifter 924673270 13  5 c   k     k     k         1000    6    0 Kh Qd
+dtDrifter 924673323 13  4 f   -     -     -          994    0    0 
+dtDrifter 924673384 13  3 r   b     b     -          994  112  198 
+dtDrifter 924673439 13  2 Bc  f     -     -         1080   30    0 
+dtDrifter 924673493 13  1 Br  kr    -     -         1050  763 1314 
+dtDrifter 924673565 13 13 f   -     -     -         1601    0    0 
+dtDrifter 924673595 13 12 f   -     -     -         1601    0    0 
+dtDrifter 924673637 13 11 f   -     -     -         1601    0    0 
+dtDrifter 924673674 12  9 f   -     -     -         1601    0    0 
+dtDrifter 924673757 12  8 c   k     k     k         1601   12    0 5c Kc
+dtDrifter 924673870 12  7 f   -     -     -         1589    0    0 
+dtDrifter 924673929 12  6 f   -     -     -         1589    0    0 
+dtDrifter 924673952 12  5 cf  -     -     -         1589   24    0 
+dtDrifter 924674029 10  4 f   -     -     -         1565    0    0 
+dtDrifter 924674111 10  3 c   kf    -     -         1565   24    0 
+dtDrifter 924674161 10  2 Bk  kf    -     -         1541   24    0 
+dtDrifter 924674203 10  1 Bc  kf    -     -         1517   24    0 
+dtDrifter 924674285 10 10 f   -     -     -         1493    0    0 
+dtDrifter 924674316 10  9 r   b     -     -         1493  700 1172 
+dtDrifter 924674377 10  8 f   -     -     -         1965    0    0 
+dtDrifter 924674400 10  7 f   -     -     -         1965    0    0 
+dtDrifter 924674448 10  6 f   -     -     -         1965    0    0 
+dtDrifter 924674483 10  5 r   b     -     -         1965  204  324 
+dtDrifter 924674519 10  4 f   -     -     -         2085    0    0 
+dtDrifter 924674549 10  3 f   -     -     -         2085    0    0 
+dtDrifter 924674604 10  2 Bf  -     -     -         2085   48    0 
+dtDrifter 924674635 10  1 Bc  kf    -     -         2037  336    0 
+dtDrifter 924674671 10 10 f   -     -     -         1701    0    0 
+dtDrifter 924674705  9  8 f   -     -     -         1701    0    0 
+dtDrifter 924674735  9  7 f   -     -     -         1701    0    0 
+dtDrifter 924674796  9  6 f   -     -     -         1701    0    0 
+dtDrifter 924674835  9  5 f   -     -     -         1701    0    0 
+dtDrifter 924674851  9  4 f   -     -     -         1701    0    0 
+dtDrifter 924674869  9  3 f   -     -     -         1701    0    0 
+dtDrifter 924674882  9  2 B   -     -     -         1701   96  144 
+dtDrifter 924674892  9  1 Bf  -     -     -         1749   48    0 
+dtDrifter 924674912  9  9 f   -     -     -         1701    0    0 
+dtDrifter 924674928  9  8 f   -     -     -         1701    0    0 
+dtDrifter 924674948  9  7 f   -     -     -         1701    0    0 
+dtDrifter 924674991  9  6 f   -     -     -         1701    0    0 
+dtDrifter 924675020  9  5 f   -     -     -         1701    0    0 
+dtDrifter 924675039  9  4 f   -     -     -         1701    0    0 
+dtDrifter 924675067  8  2 Bf  -     -     -         1701  192    0 
+dtDrifter 924675084  8  1 Bc  kf    -     -         1509  192    0 
+dtDrifter 924675117  8  8 f   -     -     -         1317    0    0 
+dtDrifter 924675134  8  7 c   f     -     -         1317  192    0 
+dtDrifter 924675159  8  6 f   -     -     -         1125    0    0 
+dtDrifter 924675186  8  5 c   k     k     k         1125  672  814 As Qc
+dtDrifter 924675244  8  4 f   -     -     -         1267    0    0 
+dtDrifter 924675263  8  3 f   -     -     -         1267    0    0 
+dtDrifter 924675276  8  2 B   -     -     -         1267  192  318 Js Jh
+dtDrifter 924675285  7  1 Bf  -     -     -         1393   96    0 
+dtDrifter 924675305  7  7 c   k     k     k         1297  192    0 As 3c
+dtDrifter 924675330  7  6 f   -     -     -         1105    0    0 
+dtDrifter 924675352  7  5 f   -     -     -         1105    0    0 
+dtDrifter 924675369  7  4 f   -     -     -         1105    0    0 
+dtDrifter 924675382  7  3 c   cA    -     -         1105 1105  236 7d Ac
+dtDrifter 924675419  7  2 BA  -     -     -          236  236  664 4c Jd
+dtDrifter 924675432  7  1 Bf  -     -     -          664  192    0 
+dtDrifter 924675463  7  7 f   -     -     -          472    0    0 
+dtDrifter 924675479  6  5 f   -     -     -          472    0    0 
+dtDrifter 924675493  6  5 f   -     -     -          472    0    0 
+dtDrifter 924675527  6  4 f   -     -     -          472    0    0 
+dtDrifter 924675542  6  3 f   -     -     -          472    0    0 
+dtDrifter 924675560  6  2 B   -     -     -          472  384  576 
+dtDrifter 924675574  6  1 Bf  -     -     -          664  192    0 
+dtDrifter 924675593  6  6 f   -     -     -          472    0    0 
+dtDrifter 924675606  6  5 f   -     -     -          472    0    0 
+dtDrifter 924675624  6  4 f   -     -     -          472    0    0 
+dtDrifter 924675635  6  3 f   -     -     -          472    0    0 
+dtDrifter 924675664  6  2 BcA -     -     -          472  472    0 8c 6d
+dtDrifter 924676412 18  7 f   -     -     -         1200    0    0 
+dtDrifter 924676500 17  6 f   -     -     -         1200    0    0 
+dtDrifter 924676687 16  5 cf  -     -     -         1200    6    0 
+dtDrifter 924676754 15  4 c   kc    kc    kf        1194  806    0 
+dtDrifter 924676916 15  3 f   -     -     -          388    0    0 
+dtDrifter 924677020 15  2 Bf  -     -     -          388   12    0 
+dtDrifter 924677090 15  1 Bc  k     k     kr         376   84   90 Qh 7h
+dtDrifter 924677166 15 15 f   -     -     -          382    0    0 
+dtDrifter 924677226 14 14 f   -     -     -          382    0    0 
+dtDrifter 924677419 12 12 f   -     -     -          382    0    0 
+dtDrifter 924677477 12 11 f   -     -     -          382    0    0 
+dtDrifter 924677546 12 10 cc  k     bA    -          382  382 1172 4d Kd
+dtDrifter 924677641 12  9 c   b     b     kf        1172  204    0 
+dtDrifter 924677761 12  8 c   f     -     -          968   24    0 
+dtDrifter 924677874 12  7 f   -     -     -          944    0    0 
+dtDrifter 924677957 11  6 c   c     k     cA         944  944    0 Ah 5s
+dtDrifter 924851861 13  6 f   -     -     -         5000    0    0 
+dtDrifter 924851894 13  5 f   -     -     -         5000    0    0 
+dtDrifter 924851984 13  4 f   -     -     -         5000    0    0 
+dtDrifter 924852031 12  3 f   -     -     -         5000    0    0 
+dtDrifter 924852079 12  2 Bk  kf    -     -         5000   50    0 
+dtDrifter 924852150 12  1 Bc  kc    k     k         4950  250  300 4d Kd
+dtDrifter 924852210 12 12 f   -     -     -         5000    0    0 
+dtDrifter 924852247 12 11 f   -     -     -         5000    0    0 
+dtDrifter 924852291 12 10 f   -     -     -         5000    0    0 
+dtDrifter 924852328 12  9 c   k     f     -         5000  100    0 
+dtDrifter 924852421 12  8 f   -     -     -         4900    0    0 
+dtDrifter 924852475 12  7 f   -     -     -         4900    0    0 
+dtDrifter 924852527 12  6 f   -     -     -         4900    0    0 
+dtDrifter 924852594  9  2 Bf  -     -     -         4900  200    0 
+dtDrifter 924852620  9  1 Bf  -     -     -         4700  100    0 
+dtDrifter 924852680  9  9 f   -     -     -         4600    0    0 
+dtDrifter 924852726  9  8 f   -     -     -         4600    0    0 
+dtDrifter 924852749  9  7 f   -     -     -         4600    0    0 
+dtDrifter 924852777  9  6 f   -     -     -         4600    0    0 
+dtDrifter 924852802  9  5 f   -     -     -         4600    0    0 
+dtDrifter 924852853  9  4 f   -     -     -         4600    0    0 
+dtDrifter 924852872  9  3 f   -     -     -         4600    0    0 
+dtDrifter 924852931  9  2 Br  b     -     -         4600 2000 3400 
+dtDrifter 924852975  9  1 Bc  b     -     -         6000  800 1200 
+dtDrifter 924852999  9  9 f   -     -     -         6400    0    0 
+dtDrifter 924853026  9  8 f   -     -     -         6400    0    0 
+dtDrifter 924853055  9  7 f   -     -     -         6400    0    0 
+dtDrifter 924853091  9  6 f   -     -     -         6400    0    0 
+dtDrifter 924853139  8  4 cf  -     -     -         6400  400    0 
+dtDrifter 924853192  8  3 f   -     -     -         6000    0    0 
+dtDrifter 924853234  7  1 Br  kf    -     -         6000  800    0 
+dtDrifter 924853268  7  1 Bf  -     -     -         5200  400    0 
+dtDrifter 924853289  7  7 c   k     f     -         4800  800    0 
+dtDrifter 924853328  7  6 f   -     -     -         4000    0    0 
+dtDrifter 924853360  7  5 f   -     -     -         4000    0    0 
+dtDrifter 924853375  6  3 f   -     -     -         4000    0    0 
+dtDrifter 924853397  6  2 Bf  -     -     -         4000  800    0 
+dtDrifter 924853415  6  1 Bf  -     -     -         3200  400    0 
+dtDrifter 924853425  6  6 f   -     -     -         2800    0    0 
+dtDrifter 924853451  6  5 f   -     -     -         2800    0    0 
+dtDrifter 924853473  6  4 f   -     -     -         2800    0    0 
+dtDrifter 924853516  6  3 f   -     -     -         2800    0    0 
+dtDrifter 924853555  6  2 Bc  k     k     k         2800  975    0 3h 8d
+dtDrifter 924853582  6  1 BrA -     -     -         1825 1825 4450 Kh Kd
+dtDrifter 924853606  6  6 f   -     -     -         4450    0    0 
+dtDrifter 924853634  6  5 f   -     -     -         4450    0    0 
+dtDrifter 924853651  5  4 c   cA    -     -         4450 4450 9700 Kd Jd
+dtDrifter 924853672  5  3 f   -     -     -         9700    0    0 
+dtDrifter 924853700  4  2 Bk  k     k     k         9700 1600    0 5s 6d
+dtDrifter 924853720  4  1 Bc  kf    -     -         8100 1600    0 
+dtDrifter 924853745  4  4 f   -     -     -         6500    0    0 
+dtDrifter 924853759  4  3 f   -     -     -         6500    0    0 
+dtDrifter 924853763  4  2 Bk  kf    -     -         6500 1600    0 
+dtDrifter 924853804  4  1 Bf  -     -     -         4900  800    0 
+dtDrifter 924853813  4  4 f   -     -     -         4100    0    0 
+dtDrifter 924853818  4  3 c   bA    -     -         4100 4100 6500 
+dtDrifter 924853835  4  2 Bc  b     -     -         6500 5200 8800 
+dtDrifter 924853864  4  1 Bc  b     -     -        10100 3200 4800 
+dtDrifter 924853880  4  4 c   b     b     -        11700 6800  225 Ac 9s
+dtDrifter 924853911  4  3 f   -     -     -         5125    0    0 
+dtDrifter 924853938  4  2 Bf  -     -     -         5125 3200    0 
+dtDrifter 924853949  4  1 BcA -     -     -         1925 1925 3850 9c Tc
+dtDrifter 924853957  4  4 f   -     -     -         3850    0    0 
+dtDrifter 924853976  4  3 f   -     -     -         3850    0    0 
+dtDrifter 924854017  4  2 BcA -     -     -         3850 3850    0 Jh Th
+dtDrifter 924854619 10  6 f   -     -     -         5000    0    0 
+dtDrifter 924854646 10  5 f   -     -     -         5000    0    0 
+dtDrifter 924854658 10  4 f   -     -     -         5000    0    0 
+dtDrifter 924854693  9  3 f   -     -     -         5000    0    0 
+dtDrifter 924854760  9  2 Bf  -     -     -         5000  100    0 
+dtDrifter 924854810  9  1 Bf  -     -     -         4900   50    0 
+dtDrifter 924854846  9  9 f   -     -     -         4850    0    0 
+dtDrifter 924854906  9  8 c   k     b     b         4850 1300 2150 
+dtDrifter 924854994  9  7 cc  k     k     k         5700 1300 4400 9d 9s
+dtDrifter 924855046  9  6 c   k     k     f         8800  200    0 
+dtDrifter 924855100  8  5 f   -     -     -         8600    0    0 
+dtDrifter 924855117  8  4 f   -     -     -         8600    0    0 
+dtDrifter 924855142  8  3 f   -     -     -         8600    0    0 
+dtDrifter 924855185  8  2 Bc  k     k     k         8600  700 1500 Ac 8c
+dtDrifter 924855213  8  1 Bf  -     -     -         9400  100    0 
+dtDrifter 924855264  8  8 f   -     -     -         9300    0    0 
+dtDrifter 924855312  8  7 c   c     k     b         9300 6625 10075 8h 7h
+dtDrifter 924855370  7  5 f   -     -     -        12750    0    0 
+dtDrifter 924855398  7  5 c   k     k     r        12750 2500 3588 6c Kc
+dtDrifter 924855465  7  4 f   -     -     -        13838    0    0 
+dtDrifter 924855605  7  3 f   -     -     -        13838    0    0 
+dtDrifter 924855624  7  2 B   -     -     -        13838  400  600 
+dtDrifter 924855647  7  1 Bc  kf    -     -        14038  400    0 
+dtDrifter 924855675  7  7 c   k     b     b        13638 1200 2600 
+dtDrifter 924855726  7  6 c   c     k     c        15038 3350 7300 6h Th
+dtDrifter 924855754  6  4 c   k     k     f        18988  800    0 
+dtDrifter 924855797  6  3 f   -     -     -        18188    0    0 
+dtDrifter 924855819  6  2 B   -     -     -        18188  800 1200 
+dtDrifter 924855828  6  1 Bf  -     -     -        18588  400    0 
+dtDrifter 924855845  6  6 f   -     -     -        18188    0    0 
+dtDrifter 924855861  6  5 f   -     -     -        18188    0    0 
+dtDrifter 924855875  6  4 f   -     -     -        18188    0    0 
+dtDrifter 924855890  6  3 r   b     -     -        18188 2400 4400 
+dtDrifter 924855922  6  2 B   -     -     -        20188  800 1200 
+dtDrifter 924855931  6  1 Bf  -     -     -        20588  400    0 
+dtDrifter 924855936  6  6 f   -     -     -        20188    0    0 
+dtDrifter 924855958  6  5 f   -     -     -        20188    0    0 
+dtDrifter 924855983  6  4 f   -     -     -        20188    0    0 
+dtDrifter 924855995  6  3 f   -     -     -        20188    0    0 
+dtDrifter 924856012  6  2 Bk  kc    kc    -        20188 5474 15748 9s Ks
+dtDrifter 924856056  5  1 Bf  -     -     -        30462  400    0 
+dtDrifter 924856131  5  5 f   -     -     -        30062    0    0 
+dtDrifter 924856138  5  4 f   -     -     -        30062    0    0 
+dtDrifter 924856151  4  2 f   -     -     -        30062    0    0 
+dtDrifter 924856171  3  2 B   -     -     -        30062 1600 2400 
+dtDrifter 924856183  3  1 Bf  -     -     -        30862  800    0 
+dtDrifter 924856190  3  3 f   -     -     -        30062    0    0 
+dtDrifter 924856194  3  2 Bf  -     -     -        30062 1600    0 
+dtDrifter 924856200  3  1 Bf  -     -     -        28462  800    0 
+dtDrifter 924856208  3  3 f   -     -     -        27662    0    0 
+dtDrifter 924856209  2  2 Bf  -     -     -        27662 1600    0 
+dtDrifter 924856214  2  1 Bf  -     -     -        26062  800    0 
+dtDrifter 924856215  2  2 Bf  -     -     -        25262 1600    0 
+dtDrifter 924856216  2  1 Bf  -     -     -        23662  800    0 
+dtDrifter 924856217  2  2 Bf  -     -     -        22862 1600    0 
+dtDrifter 924856218  2  1 Bf  -     -     -        21262  800    0 
+dtDrifter 924856219  2  2 Bf  -     -     -        20462 1600    0 
+dtDrifter 924856220  2  1 Bf  -     -     -        18862  800    0 
+dtDrifter 924856221  2  2 Bf  -     -     -        18062 1600    0 
+dtDrifter 924856222  2  1 Bf  -     -     -        16462  800    0 
+dtDrifter 924856223  2  2 Bf  -     -     -        15662 1600    0 
+dtDrifter 924856224  2  1 Bf  -     -     -        14062  800    0 
+dtDrifter 924856225  2  2 Bf  -     -     -        13262 1600    0 
+dtDrifter 924856227  2  1 Bf  -     -     -        11662  800    0 
+dtDrifter 924856228  2  2 Bf  -     -     -        10862 1600    0 
+dtDrifter 924856229  2  1 Bf  -     -     -         9262  800    0 
+dtDrifter 924856230  2  2 Bf  -     -     -         8462 1600    0 
+dtDrifter 924856231  2  1 Bf  -     -     -         6862  800    0 
+dtDrifter 924856232  2  2 Bf  -     -     -         6062 1600    0 
+dtDrifter 924856233  2  1 Bf  -     -     -         4462  800    0 
+dtDrifter 924856234  2  2 Bf  -     -     -         3662 1600    0 
+dtDrifter 924856235  2  1 Bf  -     -     -         2062  800    0 
+dtDrifter 924856236  2  2 BA  -     -     -         1262 1262 1262 7h Tc
+dtDrifter 924856238  2  1 Bf  -     -     -         1262  800    0 
+dtDrifter 924856239  2  2 BA  -     -     -          462  462  924 4c Qc
+dtDrifter 924856240  2  1 Bf  -     -     -          924  800    0 
+dtDrifter 924856241  2  2 BA  -     -     -          124  124  248 6h 4c
+dtDrifter 924856242  2  1 BA  -     -     -          248  248  496 Qh Ts
+dtDrifter 924856243  2  2 BA  -     -     -          496  496    0 4h 7h
+dtDrifter 924856325  9  9 f   -     -     -         5000    0    0 
+dtDrifter 924856391  9  8 f   -     -     -         5000    0    0 
+dtDrifter 924856502  9  7 c   k     f     -         5000  100    0 
+dtDrifter 924856556  9  6 c   c     f     -         4900  450    0 
+dtDrifter 924856613  9  5 f   -     -     -         4450    0    0 
+dtDrifter 924856663  9  4 f   -     -     -         4450    0    0 
+dtDrifter 924856694  9  3 cc  kf    -     -         4450  900    0 
+dtDrifter 924856716  9  2 Bk  kc    bA    -         3550 3550 11250 As 4d
+dtDrifter 924856787  8  1 Bf  -     -     -        11250  100    0 
+dtDrifter 924856815  8  8 f   -     -     -        11150    0    0 
+dtDrifter 924856861  8  7 f   -     -     -        11150    0    0 
+dtDrifter 924856899  8  6 c   c     f     -        11150  900    0 
+dtDrifter 924856948  8  5 f   -     -     -        10250    0    0 
+dtDrifter 924856970  8  4 f   -     -     -        10250    0    0 
+dtDrifter 924857018  8  3 f   -     -     -        10250    0    0 
+dtDrifter 924857079  7  2 Bk  k     f     -        10250  400    0 
+dtDrifter 924857128  7  1 Bc  kf    -     -         9850  400    0 
+dtDrifter 924857176  7  7 c   f     -     -         9450  400    0 
+dtDrifter 924857201  7  6 f   -     -     -         9050    0    0 
+dtDrifter 924857237  7  5 f   -     -     -         9050    0    0 
+dtDrifter 924857279  7  4 f   -     -     -         9050    0    0 
+dtDrifter 924857309  5  3 c   k     b     -         9050  800 1400 
+dtDrifter 924857340  5  2 Bc  c     c     -         9650 7300 14600 3s 5s
+dtDrifter 924857365  4  1 Bc  k     k     k        16950  400  800 4s 8c
+dtDrifter 924857399  4  4 r   b     b     -        17350 2400 4600 
+dtDrifter 924857450  4  3 f   -     -     -        19550    0    0 
+dtDrifter 924857465  4  2 B   -     -     -        19550  800 1200 
+dtDrifter 924857469  4  1 Bf  -     -     -        19950  400    0 
+dtDrifter 924857476  4  4 f   -     -     -        19550    0    0 
+dtDrifter 924857491  4  3 f   -     -     -        19550    0    0 
+dtDrifter 924857505  3  2 Bk  k     k     k        19550  800 1600 5h 2c
+dtDrifter 924857542  3  1 Bf  -     -     -        20350  400    0 
+dtDrifter 924857553  3  3 f   -     -     -        19950    0    0 
+dtDrifter 924857557  3  2 Br  b     b     -        19950 14400 19200 
+dtDrifter 924857611  3  1 Bf  -     -     -        24750  400    0 
+dtDrifter 924857616  3  3 f   -     -     -        24350    0    0 
+dtDrifter 924857625  3  2 Bk  k     k     f        24350  800    0 
+dtDrifter 924857651  3  1 Bf  -     -     -        23550  400    0 
+dtDrifter 924857671  3  3 f   -     -     -        23150    0    0 
+dtDrifter 924857684  3  2 Bk  k     f     -        23150  800    0 
+dtDrifter 924857710  3  1 Bf  -     -     -        22350  400    0 
+dtDrifter 924857724  2  2 r   -     -     -        21950 1600 2400 
+dtDrifter 924857740  2  2 Br  c     rA    -        22750 22750 45000 Ah 8h
+dtDrifter 924858025 11  5 f   -     -     -         3000    0    0 
+dtDrifter 924858108 11  4 f   -     -     -         3000    0    0 
+dtDrifter 924858166 11  3 f   -     -     -         3000    0    0 
+dtDrifter 924858240 10  2 Bk  kc    k     kf        3000  225    0 
+dtDrifter 924858304 10  1 Bf  -     -     -         2775   50    0 
+dtDrifter 924858337 10 10 f   -     -     -         2725    0    0 
+dtDrifter 924858378 10  9 f   -     -     -         2725    0    0 
+dtDrifter 924858455 10  8 f   -     -     -         2725    0    0 
+dtDrifter 924858503 10  7 f   -     -     -         2725    0    0 
+dtDrifter 924858545 10  6 c   b     bA    -         2725 2725    0 Qh Th
+dtDrifter 924890802 11  6 f   -     -     -         5000    0    0 
+dtDrifter 924890841 11  5 c   c     c     f         5000  550    0 
+dtDrifter 924890886 11  4 f   -     -     -         4450    0    0 
+dtDrifter 924890929 11  3 f   -     -     -         4450    0    0 
+dtDrifter 924890976 11  2 Bc  kc    k     b         4450 3875 5950 
+dtDrifter 924891050 11  1 Bf  -     -     -         6525   25    0 
+dtDrifter 924891082 11 11 f   -     -     -         6500    0    0 
+dtDrifter 924891119 10  9 f   -     -     -         6500    0    0 
+dtDrifter 924891165 10  8 f   -     -     -         6500    0    0 
+dtDrifter 924891185  9  6 c   k     kf    -         6500  100    0 
+dtDrifter 924891252  9  5 f   -     -     -         6400    0    0 
+dtDrifter 924891267  9  4 f   -     -     -         6400    0    0 
+dtDrifter 924891285  9  3 f   -     -     -         6400    0    0 
+dtDrifter 924891313  9  2 Bk  k     kf    -         6400  100    0 
+dtDrifter 924891362  9  1 Bf  -     -     -         6300   50    0 
+dtDrifter 924891407  9  9 c   k     k     f         6250  100    0 
+dtDrifter 924891453  9  8 f   -     -     -         6150    0    0 
+dtDrifter 924891475  9  7 c   k     f     -         6150  100    0 
+dtDrifter 924891515  9  6 f   -     -     -         6050    0    0 
+dtDrifter 924891530  9  5 f   -     -     -         6050    0    0 
+dtDrifter 924891567  9  4 f   -     -     -         6050    0    0 
+dtDrifter 924891587  9  3 f   -     -     -         6050    0    0 
+dtDrifter 924891628  9  2 Bf  -     -     -         6050  200    0 
+dtDrifter 924891652  9  1 Bf  -     -     -         5850  100    0 
+dtDrifter 924891681  9  9 f   -     -     -         5750    0    0 
+dtDrifter 924891697  9  8 c   c     c     -         5750 5575 6525 4h Ah
+dtDrifter 924891735  9  7 c   f     -     -         6700  200    0 
+dtDrifter 924891786  9  6 f   -     -     -         6500    0    0 
+dtDrifter 924891831  9  5 f   -     -     -         6500    0    0 
+dtDrifter 924891849  9  4 f   -     -     -         6500    0    0 
+dtDrifter 924891901  9  3 c   b     -     -         6500  800 1400 
+dtDrifter 924891928  9  2 Bf  -     -     -         7100  400    0 
+dtDrifter 924891960  8  1 Bf  -     -     -         6700  200    0 
+dtDrifter 924891974  8  8 f   -     -     -         6500    0    0 
+dtDrifter 924891989  8  7 f   -     -     -         6500    0    0 
+dtDrifter 924892005  8  6 f   -     -     -         6500    0    0 
+dtDrifter 924892031  8  5 f   -     -     -         6500    0    0 
+dtDrifter 924892051  8  4 f   -     -     -         6500    0    0 
+dtDrifter 924892064  8  3 f   -     -     -         6500    0    0 
+dtDrifter 924892096  7  2 Bk  kf    -     -         6500  400    0 
+dtDrifter 924892143  7  1 Br  k     kc    kf        6100 3600    0 
+dtDrifter 924892196  7  7 f   -     -     -         2500    0    0 
+dtDrifter 924892207  7  6 f   -     -     -         2500    0    0 
+dtDrifter 924892260  7  5 f   -     -     -         2500    0    0 
+dtDrifter 924892286  7  4 c   k     bA    -         2500 2500 7000 Qh Ks
+dtDrifter 924892317  7  3 f   -     -     -         7000    0    0 
+dtDrifter 924892327  7  2 Bf  -     -     -         7000  800    0 
+dtDrifter 924892342  7  1 Bf  -     -     -         6200  400    0 
+dtDrifter 924892392  7  7 c   f     -     -         5800  800    0 
+dtDrifter 924892443  7  6 cc  kc    -     -         5000 4100    0 Ac Td
+dtDrifter 924892482  7  5 f   -     -     -          900    0    0 
+dtDrifter 924892516  7  4 c   k     bA    -          900  900    0 6s Ks
+dtDrifter 924893480 14  2 Bf  -     -     -         5000  100    0 
+dtDrifter 924893557 14  1 Bf  -     -     -         4900   50    0 
+dtDrifter 924893589 14 14 f   -     -     -         4850    0    0 
+dtDrifter 924893662 14 13 f   -     -     -         4850    0    0 
+dtDrifter 924893703 14 12 f   -     -     -         4850    0    0 
+dtDrifter 924893771 14 11 f   -     -     -         4850    0    0 
+dtDrifter 924893815 13  9 f   -     -     -         4850    0    0 
+dtDrifter 924893853 12  8 f   -     -     -         4850    0    0 
+dtDrifter 924893918 12  7 f   -     -     -         4850    0    0 
+dtDrifter 924893947 12  6 f   -     -     -         4850    0    0 
+dtDrifter 924894005 12  5 f   -     -     -         4850    0    0 
+dtDrifter 924894054 11  4 c   k     k     k         4850  200    0 4s As
+dtDrifter 924894085 11  3 c   k     k     kf        4650  200    0 
+dtDrifter 924894192 11  2 Bf  -     -     -         4450  200    0 
+dtDrifter 924894212 11  1 Bf  -     -     -         4250  100    0 
+dtDrifter 924894260 11 11 f   -     -     -         4150    0    0 
+dtDrifter 924894321 11 10 f   -     -     -         4150    0    0 
+dtDrifter 924894352 11  9 f   -     -     -         4150    0    0 
+dtDrifter 924894397 11  8 c   cc    -     -         4150 3300 1700 8d Ad
+dtDrifter 924894493 10  6 f   -     -     -         2550    0    0 
+dtDrifter 924894521 10  5 f   -     -     -         2550    0    0 
+dtDrifter 924894558 10  4 f   -     -     -         2550    0    0 
+dtDrifter 924894596 10  3 f   -     -     -         2550    0    0 
+dtDrifter 924894637  9  2 Bf  -     -     -         2550  400    0 
+dtDrifter 924894668  8  1 Bf  -     -     -         2150  200    0 
+dtDrifter 924894709  7  7 f   -     -     -         1950    0    0 
+dtDrifter 924894724  7  6 rA  -     -     -         1950 1950 3150 
+dtDrifter 924894738  6  5 f   -     -     -         3150    0    0 
+dtDrifter 924894780  4  3 f   -     -     -         3150    0    0 
+dtDrifter 924894796  4  3 c   b     bA    -         3150 3150 5150 
+dtDrifter 924894841  4  2 B   -     -     -         5150  800 1200 
+dtDrifter 924894846  4  1 Bf  -     -     -         5550  400    0 
+dtDrifter 924894866  3  3 r   -     -     -         5150 1600 2800 
+dtDrifter 924894885  3  2 Bf  -     -     -         6350  800    0 
+dtDrifter 924894895  3  1 Bf  -     -     -         5550  400    0 
+dtDrifter 924894903  3  3 f   -     -     -         5150    0    0 
+dtDrifter 924894924  3  2 Bc  kcA   -     -         5150 5150 10700 4c Kc
+dtDrifter 924894949  3  1 Bf  -     -     -        10700  400    0 
+dtDrifter 924894964  2  2 f   -     -     -        10300    0    0 
+dtDrifter 924894974  2  2 B   -     -     -        10300  800 1200 
+dtDrifter 924894977  2  1 Br  bf    -     -        10700 3600    0 
+dtDrifter 924895000  2  2 Bf  -     -     -         7100  800    0 
+dtDrifter 924895008  2  1 Bf  -     -     -         6300  400    0 
+dtDrifter 924895011  2  2 Bc  cA    -     -         5900 5900    0 4d 7d
+dtDrifter 924895286 16  2 Bf  -     -     -         4000   50    0 
+dtDrifter 924895351 15  1 Bc  kf    -     -         3950   50    0 
+dtDrifter 924895409 14 14 f   -     -     -         3900    0    0 
+dtDrifter 924895464 14 13 c   k     b     b         3900 1738    0 8c Ac
+dtDrifter 924895589 14 12 f   -     -     -         2162    0    0 
+dtDrifter 924895621 13 10 c   kf    -     -         2162  100    0 
+dtDrifter 924895729 13  9 f   -     -     -         2062    0    0 
+dtDrifter 924895822 13  8 f   -     -     -         2062    0    0 
+dtDrifter 924895902 11  7 f   -     -     -         2062    0    0 
+dtDrifter 924895954 10  5 r   bA    -     -         2062 2062    0 Qh Ah
+dtDrifter 924981341 17 14 f   -     -     -         6000    0    0 
+dtDrifter 924981444 16 12 f   -     -     -         6000    0    0 
+dtDrifter 924981527 15 10 f   -     -     -         6000    0    0 
+dtDrifter 924981672 15  9 f   -     -     -         6000    0    0 
+dtDrifter 924981825 15  8 c   b     k     k         6000  300    0 Th Kh
+dtDrifter 924982007 15  7 f   -     -     -         5700    0    0 
+dtDrifter 924982081 15  6 cf  -     -     -         5700  100    0 
+dtDrifter 924982128 15  5 cc  kf    -     -         5600  550    0 
+dtDrifter 924982222 15  4 f   -     -     -         5050    0    0 
+dtDrifter 924982284 15  3 c   kc    k     k         5050  700 2000 Ks Kh
+dtDrifter 924982445 15  2 Bk  kf    -     -         6350  200    0 
+dtDrifter 924982502 15  1 Bf  -     -     -         6150  100    0 
+dtDrifter 924982556 15 15 f   -     -     -         6050    0    0 
+dtDrifter 924982635 15 14 f   -     -     -         6050    0    0 
+dtDrifter 924982718 15 13 f   -     -     -         6050    0    0 
+dtDrifter 924982764 15 12 f   -     -     -         6050    0    0 
+dtDrifter 924982908 15 11 f   -     -     -         6050    0    0 
+dtDrifter 924982978 15 10 f   -     -     -         6050    0    0 
+dtDrifter 924983056 15  9 f   -     -     -         6050    0    0 
+dtDrifter 924983108 14  7 f   -     -     -         6050    0    0 
+dtDrifter 924983165 13  7 f   -     -     -         6050    0    0 
+dtDrifter 924983232 13  6 f   -     -     -         6050    0    0 
+dtDrifter 924983299 11  5 cc  kcA   -     -         6050 6050    0 Qs Ad
+dtDrifter 925022694 12 11 f   -     -     -         5000    0    0 
+dtDrifter 925022744 10  8 c   k     k     f         5000   50    0 
+dtDrifter 925022835 10  7 f   -     -     -         4950    0    0 
+dtDrifter 925022887 10  6 f   -     -     -         4950    0    0 
+dtDrifter 925022969 10  5 f   -     -     -         4950    0    0 
+dtDrifter 925023054 10  4 f   -     -     -         4950    0    0 
+dtDrifter 925023082 10  3 c   kf    -     -         4950  100    0 
+dtDrifter 925023156 10  2 Bf  -     -     -         4850  100    0 
+dtDrifter 925023222 10  1 Bf  -     -     -         4750   50    0 
+dtDrifter 925023238 10 10 f   -     -     -         4700    0    0 
+dtDrifter 925023282 10  9 f   -     -     -         4700    0    0 
+dtDrifter 925023310 10  8 f   -     -     -         4700    0    0 
+dtDrifter 925023367 10  7 f   -     -     -         4700    0    0 
+dtDrifter 925023419 10  6 f   -     -     -         4700    0    0 
+dtDrifter 925023470 10  5 c   b     -     -         4700  400 1000 
+dtDrifter 925023527 10  4 r   bc    bcA   -         5300 5300 11500 Kd As
+dtDrifter 925023580 10  3 c   k     f     -        11500  200    0 
+dtDrifter 925023654 10  2 Bk  f     -     -        11300  200    0 
+dtDrifter 925023703 10  1 Bf  -     -     -        11100  100    0 
+dtDrifter 925023736 10 10 c   f     -     -        11000  400    0 
+dtDrifter 925023835 10  9 f   -     -     -        10600    0    0 
+dtDrifter 925023861  9  8 f   -     -     -        10600    0    0 
+dtDrifter 925023998  9  7 f   -     -     -        10600    0    0 
+dtDrifter 925024061  9  6 f   -     -     -        10600    0    0 
+dtDrifter 925024101  9  5 f   -     -     -        10600    0    0 
+dtDrifter 925024155  9  4 f   -     -     -        10600    0    0 
+dtDrifter 925024189  9  3 f   -     -     -        10600    0    0 
+dtDrifter 925024277  9  2 Bk  kc    kf    -        10600 2400    0 
+dtDrifter 925024331  9  1 Bc  kf    -     -         8200  800    0 
+dtDrifter 925024383  9  9 c   f     -     -         7400  800    0 
+dtDrifter 925024440  9  8 f   -     -     -         6600    0    0 
+dtDrifter 925024499  9  7 f   -     -     -         6600    0    0 
+dtDrifter 925024555  7  5 f   -     -     -         6600    0    0 
+dtDrifter 925024605  7  4 r   b     -     -         6600 3200 5600 
+dtDrifter 925024627  7  3 f   -     -     -         9000    0    0 
+dtDrifter 925024707  7  2 Bf  -     -     -         9000 1600    0 
+dtDrifter 925024733  7  1 Bf  -     -     -         7400  800    0 
+dtDrifter 925024759  7  7 f   -     -     -         6600    0    0 
+dtDrifter 925024777  7  6 f   -     -     -         6600    0    0 
+dtDrifter 925024835  7  5 f   -     -     -         6600    0    0 
+dtDrifter 925024884  7  4 f   -     -     -         6600    0    0 
+dtDrifter 925024908  7  3 f   -     -     -         6600    0    0 
+dtDrifter 925024924  7  2 Bc  -     -     -         6600 4675    0 Js Jh
+dtDrifter 925024934  7  1 Bc  bA    -     -         1925 1925    0 6h 6d
+dtDrifter 925025608 10  6 f   -     -     -         5000    0    0 
+dtDrifter 925025630 10  5 f   -     -     -         5000    0    0 
+dtDrifter 925025743 10  4 f   -     -     -         5000    0    0 
+dtDrifter 925025784 10  3 c   f     -     -         5000   50    0 
+dtDrifter 925025831 10  2 Bf  -     -     -         4950   50    0 
+dtDrifter 925025874 10  1 Bc  kf    -     -         4900  375    0 
+dtDrifter 925025966 10 10 c   b     b     b         4525 3600 6000 
+dtDrifter 925026032 10  9 f   -     -     -         6925    0    0 
+dtDrifter 925026071 10  8 f   -     -     -         6925    0    0 
+dtDrifter 925026100 10  7 f   -     -     -         6925    0    0 
+dtDrifter 925026165 10  6 c   k     b     b         6925 1500 2100 
+dtDrifter 925026223 10  5 f   -     -     -         7525    0    0 
+dtDrifter 925026260 10  4 f   -     -     -         7525    0    0 
+dtDrifter 925026309 10  3 f   -     -     -         7525    0    0 
+dtDrifter 925026335 10  2 Bk  c     b     b         7525 4200 7000 
+dtDrifter 925026415 10  1 Bc  k     k     k        10325  200    0 Ks 4d
+dtDrifter 925026467 10 10 f   -     -     -        10125    0    0 
+dtDrifter 925026536 10  9 c   k     k     k        10125  400  598 Js 3s
+dtDrifter 925026590 10  8 f   -     -     -        10323    0    0 
+dtDrifter 925026647 10  7 f   -     -     -        10323    0    0 
+dtDrifter 925026704  9  6 f   -     -     -        10323    0    0 
+dtDrifter 925026735  9  5 f   -     -     -        10323    0    0 
+dtDrifter 925026799  9  4 f   -     -     -        10323    0    0 
+dtDrifter 925026825  9  3 f   -     -     -        10323    0    0 
+dtDrifter 925026880  9  2 Bk  k     k     b        10323 4000 12800 Td 6s
+dtDrifter 925026943  9  1 Bf  -     -     -        19123  400    0 
+dtDrifter 925026995  9  9 f   -     -     -        18723    0    0 
+dtDrifter 925027037  8  7 f   -     -     -        18723    0    0 
+dtDrifter 925027063  8  6 f   -     -     -        18723    0    0 
+dtDrifter 925027120  8  5 f   -     -     -        18723    0    0 
+dtDrifter 925027176  7  4 c   k     k     k        18723 1600    0 As 7s
+dtDrifter 925027207  6  3 f   -     -     -        17123    0    0 
+dtDrifter 925027243  6  2 Bf  -     -     -        17123 1600    0 
+dtDrifter 925027254  6  1 Bf  -     -     -        15523  800    0 
+dtDrifter 925027280  6  6 f   -     -     -        14723    0    0 
+dtDrifter 925027312  5  4 f   -     -     -        14723    0    0 
+dtDrifter 925027330  5  3 c   b     b     -        14723 4800 10400 
+dtDrifter 925027374  5  2 Bf  -     -     -        20323 1600    0 
+dtDrifter 925027396  5  1 Bf  -     -     -        18723 1600    0 
+dtDrifter 925027424  5  5 f   -     -     -        17123    0    0 
+dtDrifter 925027436  4  4 rc  -     -     -        17123 12342    0 Th Ts
+dtDrifter 925027451  4  3 f   -     -     -         4781    0    0 
+dtDrifter 925027476  4  2 BcA -     -     -         4781 4781   78 6h 3s
+dtDrifter 925027489  4  1 BA  -     -     -           78   78  156 Jc 5s
+dtDrifter 925027497  4  4 cA  -     -     -          156  156  468 7h 7c
+dtDrifter 925027569  4  3 f   -     -     -          468    0    0 
+dtDrifter 925027599  4  2 BA  -     -     -          468  468    0 9c 7d
+dtDrifter 925195784  8  7 cf  -     -     -         2000   50    0 
+dtDrifter 925195873  7  6 f   -     -     -         1950    0    0 
+dtDrifter 925195926  7  5 f   -     -     -         1950    0    0 
+dtDrifter 925195975  7  4 f   -     -     -         1950    0    0 
+dtDrifter 925196010  7  3 f   -     -     -         1950    0    0 
+dtDrifter 925196087  7  2 Bk  f     -     -         1950  100    0 
+dtDrifter 925196114  7  1 Bc  b     b     b         1850 1000 2000 As Qh
+dtDrifter 925196142  7  7 f   -     -     -         2850    0    0 
+dtDrifter 925196173  7  6 r   c     c     -         2850 2450 2575 Kc Ad
+dtDrifter 925196229  7  5 f   -     -     -         2975    0    0 
+dtDrifter 925196269  7  4 f   -     -     -         2975    0    0 
+dtDrifter 925196307  7  3 f   -     -     -         2975    0    0 
+dtDrifter 925196355  6  2 Bk  k     k     b         2975  500 1200 5s 5h
+dtDrifter 925196475  6  1 Bc  kf    -     -         3675  200    0 
+dtDrifter 925196531  6  6 f   -     -     -         3475    0    0 
+dtDrifter 925196548  6  5 f   -     -     -         3475    0    0 
+dtDrifter 925196681  6  4 f   -     -     -         3475    0    0 
+dtDrifter 925196724  6  3 f   -     -     -         3475    0    0 
+dtDrifter 925196764  6  2 B   -     -     -         3475  200  300 
+dtDrifter 925196781  6  1 Bc  k     k     k         3575  400  600 Ac 3h
+dtDrifter 925196822  6  6 f   -     -     -         3775    0    0 
+dtDrifter 925196872  6  5 f   -     -     -         3775    0    0 
+dtDrifter 925196913  6  4 f   -     -     -         3775    0    0 
+dtDrifter 925196946  6  3 c   k     k     k         3775  400    0 5s Ts
+dtDrifter 925196977  6  2 Br  b     b     bA        3375 3375 5175 
+dtDrifter 925197049  6  1 Bf  -     -     -         5175  200    0 
+dtDrifter 925197109  6  6 f   -     -     -         4975    0    0 
+dtDrifter 925197177  6  5 f   -     -     -         4975    0    0 
+dtDrifter 925197205  6  4 f   -     -     -         4975    0    0 
+dtDrifter 925197231  6  3 f   -     -     -         4975    0    0 
+dtDrifter 925197248  5  1 B   -     -     -         4975  800 1400 Qs Qd
+dtDrifter 925197267  4  1 Bf  -     -     -         5575  400    0 
+dtDrifter 925197293  4  4 f   -     -     -         5175    0    0 
+dtDrifter 925197306  3  2 f   -     -     -         5175    0    0 
+dtDrifter 925197319  3  2 Bf  -     -     -         5175  800    0 
+dtDrifter 925197327  3  1 Bf  -     -     -         4375  400    0 
+dtDrifter 925197359  2  2 f   -     -     -         3975    0    0 
+dtDrifter 925197372  2  2 BrA -     -     -         3975 3975 7950 9d As
+dtDrifter 925197383  2  1 Bf  -     -     -         7950  400    0 
+dtDrifter 925197393  2  2 Br  f     -     -         7550 1600    0 
+dtDrifter 925197409  2  1 Bf  -     -     -         5950  400    0 
+dtDrifter 925197413  2  2 B   -     -     -         5550 1600 2400 
+dtDrifter 925197418  2  1 Bc  b     -     -         6350 4800 6400 
+dtDrifter 925197429  2  2 Bk  k     f     -         7950 1600    0 
+dtDrifter 925197447  2  1 Bf  -     -     -         6350  800    0 
+dtDrifter 925197449  2  2 Bk  k     f     -         5550 1600    0 
+dtDrifter 925197472  2  1 BrA -     -     -         3950 3950    0 Jd Qs
+dtDrifter 925197721 10  7 f   -     -     -         1000    0    0 
+dtDrifter 925197749 10  6 r   b     b     k         1000   60    0 Jc Jh
+dtDrifter 925197867 10  5 c   k     f     -          940   10    0 
+dtDrifter 925197943 10  4 f   -     -     -          930    0    0 
+dtDrifter 925198006 10  3 f   -     -     -          930    0    0 
+dtDrifter 925198079 10  2 Bf  -     -     -          930   20    0 
+dtDrifter 925198139 10  1 Bc  kf    -     -          910   20    0 
+dtDrifter 925198218 10 10 r   c     rA    -          890  890 2425 As Kh
+dtDrifter 925198288  9  9 f   -     -     -         2425    0    0 
+dtDrifter 925198345  9  8 f   -     -     -         2425    0    0 
+dtDrifter 925198373  8  6 f   -     -     -         2425    0    0 
+dtDrifter 925198415  8  5 f   -     -     -         2425    0    0 
+dtDrifter 925198447  7  3 f   -     -     -         2425    0    0 
+dtDrifter 925198493  7  3 f   -     -     -         2425    0    0 
+dtDrifter 925198533  6  2 Bk  f     -     -         2425   40    0 
+dtDrifter 925198569  6  1 Bc  kf    -     -         2385   40    0 
+dtDrifter 925198613  6  6 f   -     -     -         2345    0    0 
+dtDrifter 925198634  6  5 c   kc    kc    -         2345  495    0 9h Ks
+dtDrifter 925198667  6  4 c   c     k     f         1850  200    0 
+dtDrifter 925198713  6  3 f   -     -     -         1650    0    0 
+dtDrifter 925198750  6  2 Bk  k     k     k         1650   80    0 Qs 5s
+dtDrifter 925198793  6  1 Bf  -     -     -         1570   40    0 
+dtDrifter 925198820  6  6 f   -     -     -         1530    0    0 
+dtDrifter 925198865  6  5 f   -     -     -         1530    0    0 
+dtDrifter 925198889  6  4 f   -     -     -         1530    0    0 
+dtDrifter 925198935  6  3 c   b     r     -         1530  680 1200 
+dtDrifter 925198972  6  2 Bk  k     b     b         2050  280  500 
+dtDrifter 925199041  6  1 Bc  kf    -     -         2270   80    0 
+dtDrifter 925199080  6  6 f   -     -     -         2190    0    0 
+dtDrifter 925199115  6  5 f   -     -     -         2190    0    0 
+dtDrifter 925199139  6  4 f   -     -     -         2190    0    0 
+dtDrifter 925199159  6  3 f   -     -     -         2190    0    0 
+dtDrifter 925199179  6  2 Bc  kf    -     -         2190  490    0 
+dtDrifter 925199212  4  1 Bf  -     -     -         1700   80    0 
+dtDrifter 925199226  4  4 f   -     -     -         1620    0    0 
+dtDrifter 925199243  4  3 f   -     -     -         1620    0    0 
+dtDrifter 925199277  4  2 Bf  -     -     -         1620  160    0 
+dtDrifter 925199289  4  1 Bf  -     -     -         1460   80    0 
+dtDrifter 925199310  4  4 r   bcA   -     -         1380 1380    0 Ac Ks
+dtDrifter 925274291 23  5 f   -     -     -         4500    0    0 
+dtDrifter 925274397 23  4 f   -     -     -         4500    0    0 
+dtDrifter 925274531 22  3 c   bc    kf    -         4500  720    0 
+dtDrifter 925274647 21  2 Bf  -     -     -         3780   80    0 
+dtDrifter 925274747 21  1 Bf  -     -     -         3700   40    0 
+dtDrifter 925274861 20 20 f   -     -     -         3660    0    0 
+dtDrifter 925274963 20 19 c   f     -     -         3660  580    0 
+dtDrifter 925275038 20 18 cc  c     cA    -         3080 3080 8720 4c Ac
+dtDrifter 925275133 20 17 f   -     -     -         8720    0    0 
+dtDrifter 925275270 20 16 cf  -     -     -         8720  160    0 
+dtDrifter 925275412 19 15 f   -     -     -         8560    0    0 
+dtDrifter 925275546 19 14 f   -     -     -         8560    0    0 
+dtDrifter 925275661 19 13 f   -     -     -         8560    0    0 
+dtDrifter 925275757 19 12 f   -     -     -         8560    0    0 
+dtDrifter 925275811 19 11 f   -     -     -         8560    0    0 
+dtDrifter 925276001 18 10 f   -     -     -         8560    0    0 
+dtDrifter 925276054 18  9 f   -     -     -         8560    0    0 
+dtDrifter 925276140 17  8 f   -     -     -         8560    0    0 
+dtDrifter 925276231 17  7 f   -     -     -         8560    0    0 
+dtDrifter 925276279 16  5 f   -     -     -         8560    0    0 
+dtDrifter 925276346 16  5 cc  -     -     -         8560 2480    0 Ad Kc
+dtDrifter 925276390 15  4 f   -     -     -         6080    0    0 
+dtDrifter 925276447 14  3 f   -     -     -         6080    0    0 
+dtDrifter 925276492 13  2 Bk  kc    k     kf        6080 2880    0 
+dtDrifter 925276612 11  1 Bc  k     k     bA        3200 3200 11600 3d Ad
+dtDrifter 925276682 10 10 c   f     -     -        11600 2560    0 
+dtDrifter 925276770 10  9 f   -     -     -         9040    0    0 
+dtDrifter 925276822 10  8 f   -     -     -         9040    0    0 
+dtDrifter 925276889 10  7 f   -     -     -         9040    0    0 
+dtDrifter 925276915  8  5 f   -     -     -         9040    0    0 
+dtDrifter 925276939  7  3 f   -     -     -         9040    0    0 
+dtDrifter 925276962  7  3 f   -     -     -         9040    0    0 
+dtDrifter 925277013  6  2 B   -     -     -         9040 5120 5800 7c Jh
+dtDrifter 925277025  5  1 Bc  kf    -     -         9720 5120    0 
+dtDrifter 925277074  5  5 f   -     -     -         4600    0    0 
+dtDrifter 925277103  4  4 f   -     -     -         4600    0    0 
+dtDrifter 925277120  4  3 f   -     -     -         4600    0    0 
+dtDrifter 925277146  4  2 BA  -     -     -         4600 4600    0 7c Kc
+dtDrifter 925278155 23 16 f   -     -     -         1000    0    0 
+dtDrifter 925278273 22 15 r   b     bA    -         1000 1000    0 Ah Kd
+dtDrifter 925348930 23 18 f   -     -     -         3000    0    0 
+dtDrifter 925349063 22 16 f   -     -     -         3000    0    0 
+dtDrifter 925349180 22 15 c   k     k     f         3000   40    0 
+dtDrifter 925349430 22 14 f   -     -     -         2960    0    0 
+dtDrifter 925349525 22 13 c   kf    -     -         2960   80    0 
+dtDrifter 925349626 22 12 f   -     -     -         2880    0    0 
+dtDrifter 925349762 22 11 f   -     -     -         2880    0    0 
+dtDrifter 925349864 21 10 c   kf    -     -         2880  160    0 
+dtDrifter 925349979 20  9 f   -     -     -         2720    0    0 
+dtDrifter 925350046 20  8 f   -     -     -         2720    0    0 
+dtDrifter 925350183 19  7 c   k     k     k         2720  320    0 As 3h
+dtDrifter 925350282 19  6 f   -     -     -         2400    0    0 
+dtDrifter 925350346 19  5 c   k     b     -         2400 1920 3200 
+dtDrifter 925350431 19  4 f   -     -     -         3680    0    0 
+dtDrifter 925350517 19  3 c   f     -     -         3680  640    0 
+dtDrifter 925350606 18  1 Bk  kf    -     -         3040  640    0 
+dtDrifter 925350701 17  1 Bf  -     -     -         2400  320    0 
+dtDrifter 925350764 17 17 f   -     -     -         2080    0    0 
+dtDrifter 925350828 16 15 f   -     -     -         2080    0    0 
+dtDrifter 925350948 16 14 f   -     -     -         2080    0    0 
+dtDrifter 925351078 12 11 f   -     -     -         2080    0    0 
+dtDrifter 925351168 12 10 f   -     -     -         2080    0    0 
+dtDrifter 925351200 12  9 f   -     -     -         2080    0    0 
+dtDrifter 925351255 11  7 f   -     -     -         2080    0    0 
+dtDrifter 925351343 11  6 f   -     -     -         2080    0    0 
+dtDrifter 925351389  9  4 f   -     -     -         2080    0    0 
+dtDrifter 925351444  9  4 f   -     -     -         2080    0    0 
+dtDrifter 925351478  9  3 cA  -     -     -         2080 2080 3466 Qh Qc
+dtDrifter 925351506  9  2 BA  -     -     -         3466 3466 6932 3h 7h
+dtDrifter 925351538  9  1 Bf  -     -     -         6932 2560    0 
+dtDrifter 925351587  9  9 f   -     -     -         4372    0    0 
+dtDrifter 925351609  8  7 cA  -     -     -         4372 4372 8744 Jc Jh
+dtDrifter 925351627  8  7 f   -     -     -         8744    0    0 
+dtDrifter 925351657  7  6 f   -     -     -         8744    0    0 
+dtDrifter 925351715  7  5 f   -     -     -         8744    0    0 
+dtDrifter 925351730  6  3 f   -     -     -         8744    0    0 
+dtDrifter 925351758  6  2 Bk  k     cA    -         8744 8744    0 8c 5s
+dtDrifter 925358989 21 16 f   -     -     -         1000    0    0 
+dtDrifter 925359094 21 15 f   -     -     -         1000    0    0 
+dtDrifter 925359172 20 13 cc  kf    -     -         1000  235    0 
+dtDrifter 925359273 20 12 cf  -     -     -          765   10    0 
+dtDrifter 925359330 19 11 f   -     -     -          755    0    0 
+dtDrifter 925359436 19 10 c   f     -     -          755   20    0 
+dtDrifter 925359523 19  9 f   -     -     -          735    0    0 
+dtDrifter 925359615 17  7 f   -     -     -          735    0    0 
+dtDrifter 925359705 17  6 f   -     -     -          735    0    0 
+dtDrifter 925359788 17  5 f   -     -     -          735    0    0 
+dtDrifter 925359852 17  4 c   k     kf    -          735   40    0 
+dtDrifter 925359927 15  3 f   -     -     -          695    0    0 
+dtDrifter 925360055 15  2 Bk  k     k     b          695  440  720 
+dtDrifter 925360126 15  1 Bf  -     -     -          975   40    0 
+dtDrifter 925360169 14 14 f   -     -     -          935    0    0 
+dtDrifter 925360297 13 12 f   -     -     -          935    0    0 
+dtDrifter 925360369 13 12 f   -     -     -          935    0    0 
+dtDrifter 925360437 13 11 r   b     -     -          935  720 1630 Qd Qc
+dtDrifter 925360509 12 10 f   -     -     -         1845    0    0 
+dtDrifter 925360593 12  9 f   -     -     -         1845    0    0 
+dtDrifter 925360654 12  8 f   -     -     -         1845    0    0 
+dtDrifter 925360786 12  7 f   -     -     -         1845    0    0 
+dtDrifter 925360820 12  6 f   -     -     -         1845    0    0 
+dtDrifter 925360850 12  5 f   -     -     -         1845    0    0 
+dtDrifter 925360908 12  4 c   f     -     -         1845  320    0 
+dtDrifter 925360993 12  3 f   -     -     -         1525    0    0 
+dtDrifter 925361042 12  2 Bk  k     kf    -         1525  320    0 
+dtDrifter 925361129 12  1 Bc  k     kf    -         1205  640    0 
+dtDrifter 925361234 12 12 cA  -     -     -          565  565    0 Ah Kc
+dtDrifter 925362210 17  3 f   -     -     -         5000    0    0 
+dtDrifter 925362341 17  2 Bk  k     b     -         5000  225  350 
+dtDrifter 925362388 17  1 Bf  -     -     -         5125   25    0 
+dtDrifter 925362418 17 17 f   -     -     -         5100    0    0 
+dtDrifter 925362491 16 15 f   -     -     -         5100    0    0 
+dtDrifter 925362583 16 14 f   -     -     -         5100    0    0 
+dtDrifter 925362644 16 13 f   -     -     -         5100    0    0 
+dtDrifter 925362753 15 11 c   f     -     -         5100  100    0 
+dtDrifter 925362847 15 10 f   -     -     -         5000    0    0 
+dtDrifter 925362925 15  9 c   f     -     -         5000  100    0 
+dtDrifter 925363021 15  8 f   -     -     -         4900    0    0 
+dtDrifter 925363077 14  6 c   c     bcA   -         4900 4900 4250 Th Ts
+dtDrifter 925363167 14  5 f   -     -     -         4250    0    0 
+dtDrifter 925363231 13  4 f   -     -     -         4250    0    0 
+dtDrifter 925363305 13  3 f   -     -     -         4250    0    0 
+dtDrifter 925363365 13  2 Bk  kf    -     -         4250  200    0 
+dtDrifter 925363414 13  1 Bf  -     -     -         4050  200    0 
+dtDrifter 925363481 12 12 f   -     -     -         3850    0    0 
+dtDrifter 925363564 12 12 f   -     -     -         3850    0    0 
+dtDrifter 925363585 11 10 f   -     -     -         3850    0    0 
+dtDrifter 925363663 11  9 f   -     -     -         3850    0    0 
+dtDrifter 925363743 11  8 f   -     -     -         3850    0    0 
+dtDrifter 925363782 11  7 f   -     -     -         3850    0    0 
+dtDrifter 925363804 11  6 f   -     -     -         3850    0    0 
+dtDrifter 925363859 11  5 c   c     cA    -         3850 3850    0 As Qs
+dtDrifter 925365442 16  8 f   -     -     -         5000    0    0 
+dtDrifter 925365576 16  7 f   -     -     -         5000    0    0 
+dtDrifter 925365608 16  6 f   -     -     -         5000    0    0 
+dtDrifter 925365668 16  5 cc  k     cf    -         5000  300    0 
+dtDrifter 925365787 16  4 f   -     -     -         4700    0    0 
+dtDrifter 925365818 16  3 f   -     -     -         4700    0    0 
+dtDrifter 925365894 16  2 Bc  b     bA    -         4700 4700 10430 Qd Ac
+dtDrifter 925365978 15  1 Bf  -     -     -        10430   40    0 
+dtDrifter 925366003 15 14 f   -     -     -        10390    0    0 
+dtDrifter 925366072 15 14 f   -     -     -        10390    0    0 
+dtDrifter 925366115 15 13 f   -     -     -        10390    0    0 
+dtDrifter 925366216 14 11 f   -     -     -        10390    0    0 
+dtDrifter 925366290 14 10 f   -     -     -        10390    0    0 
+dtDrifter 925366378 14  9 f   -     -     -        10390    0    0 
+dtDrifter 925366424 14  8 f   -     -     -        10390    0    0 
+dtDrifter 925366506 14  7 cc  b     b     kc       10390 4260    0 7h Ah
+dtDrifter 925366592 14  6 f   -     -     -         6130    0    0 
+dtDrifter 925366646 14  5 f   -     -     -         6130    0    0 
+dtDrifter 925366706 12  4 f   -     -     -         6130    0    0 
+dtDrifter 925366743 12  3 f   -     -     -         6130    0    0 
+dtDrifter 925366800 12  2 Bk  kf    -     -         6130  320    0 
+dtDrifter 925366860 12  1 Bf  -     -     -         5810  320    0 
+dtDrifter 925366904 11 11 f   -     -     -         5490    0    0 
+dtDrifter 925366936 11 11 f   -     -     -         5490    0    0 
+dtDrifter 925366958 11 10 f   -     -     -         5490    0    0 
+dtDrifter 925366990 11  9 r   b     -     -         5490 4000 7020 Ks Ad
+dtDrifter 925367052 10  7 f   -     -     -         8510    0    0 
+dtDrifter 925367118 10  6 f   -     -     -         8510    0    0 
+dtDrifter 925367163 10  5 f   -     -     -         8510    0    0 
+dtDrifter 925367188  9  4 f   -     -     -         8510    0    0 
+dtDrifter 925367258  9  3 f   -     -     -         8510    0    0 
+dtDrifter 925367313  9  2 Bk  b     -     -         8510 5280  240 7d 8c
+dtDrifter 925367355  9  1 Bc  -     -     -         3470 1960 5200 Ac Ks
+dtDrifter 925367380  8  8 f   -     -     -         6710    0    0 
+dtDrifter 925367432  8  7 f   -     -     -         6710    0    0 
+dtDrifter 925367452  8  6 f   -     -     -         6710    0    0 
+dtDrifter 925367487  8  5 f   -     -     -         6710    0    0 
+dtDrifter 925367510  8  4 f   -     -     -         6710    0    0 
+dtDrifter 925367536  7  3 f   -     -     -         6710    0    0 
+dtDrifter 925367569  7  2 Br  bA    -     -         6710 6710    0 Qd Ah
+dtDrifter 925368361 16 12 f   -     -     -         2500    0    0 
+dtDrifter 925368445 16 11 f   -     -     -         2500    0    0 
+dtDrifter 925368488 16 10 f   -     -     -         2500    0    0 
+dtDrifter 925368542 16  9 f   -     -     -         2500    0    0 
+dtDrifter 925368625 15  7 f   -     -     -         2500    0    0 
+dtDrifter 925368704 15  7 c   k     k     f         2500  100    0 
+dtDrifter 925368788 15  6 f   -     -     -         2400    0    0 
+dtDrifter 925368871 15  5 cc  kcc   k     kcA       2400 2400    0 Tc Td

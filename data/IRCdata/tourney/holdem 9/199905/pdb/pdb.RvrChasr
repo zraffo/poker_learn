@@ -1,0 +1,241 @@
+RvrChasr  925687758 18 12 c   b     b     -         5000 2450 4000 
+RvrChasr  925687923 18 11 f   -     -     -         6550    0    0 
+RvrChasr  925688021 18 10 f   -     -     -         6550    0    0 
+RvrChasr  925688134 17  8 f   -     -     -         6550    0    0 
+RvrChasr  925688217 16  7 c   b     b     k         6550 3300 3600 Ah 6h
+RvrChasr  925688309 16  6 f   -     -     -         6850    0    0 
+RvrChasr  925688373 15  5 f   -     -     -         6850    0    0 
+RvrChasr  925688414 14  3 c   c     c     f         6850 2100    0 
+RvrChasr  925688494 14  3 f   -     -     -         4750    0    0 
+RvrChasr  925688557 13  2 Bk  b     kc    k         4750 2200    0 2c 3c
+RvrChasr  925688604 13  1 Bf  -     -     -         2550  100    0 
+RvrChasr  925688669 12 12 f   -     -     -         2450    0    0 
+RvrChasr  925688701 12 11 f   -     -     -         2450    0    0 
+RvrChasr  925688786 12 10 rcA -     -     -         2450 2450    0 6s 4s
+RvrChasr  925773573 23 13 c   f     -     -         5000   40    0 
+RvrChasr  925773729 23 12 f   -     -     -         4960    0    0 
+RvrChasr  925773832 23 11 f   -     -     -         4960    0    0 
+RvrChasr  925773964 18  8 f   -     -     -         4960    0    0 
+RvrChasr  925774060 17  8 c   k     f     -         4960   80    0 
+RvrChasr  925774175 17  7 c   b     bA    -         4880 4880 8620 3c 7c
+RvrChasr  925774226 16  5 f   -     -     -         8620    0    0 
+RvrChasr  925774312 15  4 f   -     -     -         8620    0    0 
+RvrChasr  925774393 15  3 c   kf    -     -         8620  160    0 
+RvrChasr  925774472 15  2 Bk  b     b     -         8460 4160 1480 5d 8s
+RvrChasr  925774545 15  1 BrcA -     -     -         5780 5780    0 Ac Qd
+RvrChasr  925869844 23 13 f   -     -     -         5000    0    0 
+RvrChasr  925870076 23 12 r   k     bA    -         5000 5000 9140 
+RvrChasr  925870127 23 11 f   -     -     -         9140    0    0 
+RvrChasr  925870202 23 10 f   -     -     -         9140    0    0 
+RvrChasr  925870328 23  9 f   -     -     -         9140    0    0 
+RvrChasr  925870497 23  8 f   -     -     -         9140    0    0 
+RvrChasr  925870621 22  6 cc  f     -     -         9140  520    0 
+RvrChasr  925870729 22  5 f   -     -     -         8620    0    0 
+RvrChasr  925870833 22  4 f   -     -     -         8620    0    0 
+RvrChasr  925870994 21  3 f   -     -     -         8620    0    0 
+RvrChasr  925871182 21  2 Bc  kf    -     -         8620 1120    0 
+RvrChasr  925871255 21  1 Brc bA    -     -         7500 7500 27660 Qc As
+RvrChasr  925871328 18 18 f   -     -     -        27660    0    0 
+RvrChasr  925871379 18 17 f   -     -     -        27660    0    0 
+RvrChasr  925871492 17 15 f   -     -     -        27660    0    0 
+RvrChasr  925871597 16 13 f   -     -     -        27660    0    0 
+RvrChasr  925871650 16 12 f   -     -     -        27660    0    0 
+RvrChasr  925871687 15 10 f   -     -     -        27660    0    0 
+RvrChasr  925871713 13  7 f   -     -     -        27660    0    0 
+RvrChasr  925871778 13  7 f   -     -     -        27660    0    0 
+RvrChasr  925871834 13  6 cc  kc    k     f        27660 4520    0 
+RvrChasr  925871885 13  5 r   b     -     -        23140 7040 9600 
+RvrChasr  925871916 13  4 f   -     -     -        25700    0    0 
+RvrChasr  925871981 13  3 f   -     -     -        25700    0    0 
+RvrChasr  925872019 13  2 Bf  -     -     -        25700 1280    0 
+RvrChasr  925872035 13  1 Bf  -     -     -        24420  640    0 
+RvrChasr  925872088 13 13 f   -     -     -        23780    0    0 
+RvrChasr  925872150 12 11 f   -     -     -        23780    0    0 
+RvrChasr  925872185 12 10 f   -     -     -        23780    0    0 
+RvrChasr  925872214 12  9 f   -     -     -        23780    0    0 
+RvrChasr  925872256 12  8 f   -     -     -        23780    0    0 
+RvrChasr  925872283 12  7 f   -     -     -        23780    0    0 
+RvrChasr  925872315 11  6 f   -     -     -        23780    0    0 
+RvrChasr  925872343 11  5 f   -     -     -        23780    0    0 
+RvrChasr  925872386 10  4 f   -     -     -        23780    0    0 
+RvrChasr  925872423 10  3 f   -     -     -        23780    0    0 
+RvrChasr  925872450  9  2 B   -     -     -        23780 2560 3840 
+RvrChasr  925872480  9  1 Bf  -     -     -        25060 1280    0 
+RvrChasr  925872497  9  9 c   b     -     -        23780 12000 18880 9c Tc
+RvrChasr  925872531  8  7 f   -     -     -        30660    0    0 
+RvrChasr  925872571  8  6 f   -     -     -        30660    0    0 
+RvrChasr  925872585  8  5 r   -     -     -        30660 5560 9400 
+RvrChasr  925872607  8  4 f   -     -     -        34500    0    0 
+RvrChasr  925872629  8  3 r   -     -     -        34500 8960 12800 
+RvrChasr  925872659  8  2 Bk  kf    -     -        38340 2560    0 
+RvrChasr  925872685  8  1 Bf  -     -     -        35780 1280    0 
+RvrChasr  925872694  8  8 c   k     k     f        34500 2560    0 
+RvrChasr  925872731  8  7 f   -     -     -        31940    0    0 
+RvrChasr  925872747  7  5 c   f     -     -        31940 5120    0 
+RvrChasr  925872773  7  5 f   -     -     -        26820    0    0 
+RvrChasr  925872789  7  4 r   -     -     -        26820 11120 18600 9h 9d
+RvrChasr  925872808  6  3 f   -     -     -        34300    0    0 
+RvrChasr  925872831  6  2 B   -     -     -        34300 5120 9190 Kc 9d
+RvrChasr  925872846  5  1 Bf  -     -     -        38370 2560    0 
+RvrChasr  925872874  5  5 c   b     -     -        35810 20480 3980 9h Qh
+RvrChasr  925872911  4  4 f   -     -     -        19310    0    0 
+RvrChasr  925872963  3  2 Bk  f     -     -        19310 5120    0 
+RvrChasr  925872978  3  1 Bf  -     -     -        14190 2560    0 
+RvrChasr  925872987  3  3 f   -     -     -        11630    0    0 
+RvrChasr  925873010  3  2 Bf  -     -     -        11630 5120    0 
+RvrChasr  925873045  3  1 BcA -     -     -         6510 6510    0 7c 5c
+RvrChasr  925953993 19 14 c   b     -     -         5000  350  600 
+RvrChasr  925954057 19 13 f   -     -     -         5250    0    0 
+RvrChasr  925954178 19 12 c   kf    -     -         5250   50    0 
+RvrChasr  925954321 19 11 c   f     -     -         5200  200    0 
+RvrChasr  925954374 19 10 f   -     -     -         5000    0    0 
+RvrChasr  925954471 18  8 c   k     k     k         5000  100    0 Th Qs
+RvrChasr  925954571 18  7 f   -     -     -         4900    0    0 
+RvrChasr  925954657 18  6 f   -     -     -         4900    0    0 
+RvrChasr  925954724 17  5 f   -     -     -         4900    0    0 
+RvrChasr  925954791 17  4 ccf -     -     -         4900 1500    0 
+RvrChasr  925954863 14  3 f   -     -     -         3400    0    0 
+RvrChasr  925954914 14  2 BrA -     -     -         3400 3400    0 Ks Qs
+RvrChasr  926041811 19  6 f   -     -     -         5000    0    0 
+RvrChasr  926041876 18  5 f   -     -     -         5000    0    0 
+RvrChasr  926041969 18  4 f   -     -     -         5000    0    0 
+RvrChasr  926042084 17  3 c   kc    k     k         5000  325    0 7s As
+RvrChasr  926042173 17  2 Bk  k     kf    -         4675  100    0 
+RvrChasr  926042260 17  1 Bc  k     k     k         4575  100  400 9h Ac
+RvrChasr  926042313 17 17 f   -     -     -         4875    0    0 
+RvrChasr  926042387 17 16 c   cA    -     -         4875 4875    0 8s Ts
+RvrChasr  926732977 22 13 f   -     -     -         5000    0    0 
+RvrChasr  926733072 21 11 c   f     -     -         5000  175    0 
+RvrChasr  926733141 21 10 c   k     r     bA        4825 4825 7700 
+RvrChasr  926733282 21  9 f   -     -     -         7700    0    0 
+RvrChasr  926733342 21  8 c   kf    -     -         7700  100    0 
+RvrChasr  926733500 21  7 cf  -     -     -         7600  100    0 
+RvrChasr  926733602 19  5 f   -     -     -         7500    0    0 
+RvrChasr  926733665 19  4 rrA -     -     -         7500 7500 15975 Ac As
+RvrChasr  926733739 17  3 f   -     -     -        15975    0    0 
+RvrChasr  926733796 17  2 Bf  -     -     -        15975  200    0 
+RvrChasr  926733909 17  1 Bf  -     -     -        15775  100    0 
+RvrChasr  926734048 15 15 f   -     -     -        15675    0    0 
+RvrChasr  926734138 14 13 f   -     -     -        15675    0    0 
+RvrChasr  926734184 14 12 r   b     -     -        15675 7400 10000 
+RvrChasr  926734215 14 11 ccc k     k     c        18275 6050    0 Ad Ts
+RvrChasr  926734322 12 10 f   -     -     -        12225    0    0 
+RvrChasr  926734374 12  9 f   -     -     -        12225    0    0 
+RvrChasr  926734429 12  8 r   rA    -     -        12225 12225 8775 Jc Ah
+RvrChasr  926734472 12  7 rc  bA    -     -         8775 8775 15125 Jd Kd
+RvrChasr  926734528 11  6 f   -     -     -        15125    0    0 
+RvrChasr  926734568 11  5 f   -     -     -        15125    0    0 
+RvrChasr  926734646 10  4 f   -     -     -        15125    0    0 
+RvrChasr  926734704  9  2 f   -     -     -        15125    0    0 
+RvrChasr  926734747  9  2 Bf  -     -     -        15125  800    0 
+RvrChasr  926734768  9  1 Bf  -     -     -        14325  400    0 
+RvrChasr  926734798  9  9 f   -     -     -        13925    0    0 
+RvrChasr  926734842  9  8 c   cf    -     -        13925 3575    0 
+RvrChasr  926734897  8  6 c   k     c     k        10350 5100    0 9s 7s
+RvrChasr  926734973  8  5 f   -     -     -         5250    0    0 
+RvrChasr  926735007  8  4 rA  -     -     -         5250 5250 12900 Ad 6d
+RvrChasr  926735031  8  3 f   -     -     -        12900    0    0 
+RvrChasr  926735089  7  1 B   -     -     -        12900 1600  425 Ad 6s
+RvrChasr  926735107  7  1 Bf  -     -     -        11725  800    0 
+RvrChasr  926735123  6  6 rA  -     -     -        10925 10925 14125 
+RvrChasr  926735144  6  6 f   -     -     -        14125    0    0 
+RvrChasr  926735166  6  5 f   -     -     -        14125    0    0 
+RvrChasr  926735211  6  4 c   c     rA    -        14125 14125 31450 4d 8d
+RvrChasr  926735274  6  3 f   -     -     -        31450    0    0 
+RvrChasr  926735293  5  2 Bf  -     -     -        31450 3200    0 
+RvrChasr  926735317  4  1 Bc  kc    -     -        28250 9175 21550 Jd Kd
+RvrChasr  926735347  3  3 f   -     -     -        40625    0    0 
+RvrChasr  926735355  3  2 B   -     -     -        40625 3200 4800 
+RvrChasr  926735359  3  1 Bf  -     -     -        42225 1600    0 
+RvrChasr  926735360  3  3 r   -     -     -        40625 11200 16000 
+RvrChasr  926735367  3  2 B   -     -     -        45425 3200 4800 
+RvrChasr  926735370  3  1 Bf  -     -     -        47025 1600    0 
+RvrChasr  926735373  3  3 r   -     -     -        45425 11200 16000 
+RvrChasr  926735376  3  2 BrrA -     -     -        50225 50225    0 5c 5d
+RvrChasr  926892017 23  7 f   -     -     -         5000    0    0 
+RvrChasr  926892076 22  6 f   -     -     -         5000    0    0 
+RvrChasr  926892180 22  5 rccA -     -     -         5000 5000    0 9d Jd
+RvrChasr  927335038 23  3 f   -     -     -         5000    0    0 
+RvrChasr  927335113 22  2 Bk  f     -     -         5000   50    0 
+RvrChasr  927335214 22  1 Bf  -     -     -         4950   25    0 
+RvrChasr  927335301 22 22 f   -     -     -         4925    0    0 
+RvrChasr  927335403 22 21 f   -     -     -         4925    0    0 
+RvrChasr  927335460 22 20 f   -     -     -         4925    0    0 
+RvrChasr  927335543 22 19 f   -     -     -         4925    0    0 
+RvrChasr  927335612 21 18 rA  -     -     -         4925 4925    0 Ah 2h
+RvrChasr  927354834 11  5 cc  b     kc    bA        5000 5000 10580 Ah Jd
+RvrChasr  927354936 10  4 f   -     -     -        10580    0    0 
+RvrChasr  927355042 10  3 f   -     -     -        10580    0    0 
+RvrChasr  927355067 10  2 Bf  -     -     -        10580   40    0 
+RvrChasr  927355101 10  1 Bf  -     -     -        10540   20    0 
+RvrChasr  927355147 10 10 f   -     -     -        10520    0    0 
+RvrChasr  927355180 10  9 f   -     -     -        10520    0    0 
+RvrChasr  927355220 10  8 f   -     -     -        10520    0    0 
+RvrChasr  927355243 10  7 f   -     -     -        10520    0    0 
+RvrChasr  927355284 10  6 f   -     -     -        10520    0    0 
+RvrChasr  927355337 10  5 f   -     -     -        10520    0    0 
+RvrChasr  927355412 10  4 f   -     -     -        10520    0    0 
+RvrChasr  927355460 10  3 r   b     b     -        10520 6200 8880 4h 4s
+RvrChasr  927355516  9  2 Bk  kf    -     -        13200  160    0 
+RvrChasr  927355554  9  1 Bf  -     -     -        13040   80    0 
+RvrChasr  927355585  9  9 rc  -     -     -        12960 2820 5720 Qc Qs
+RvrChasr  927355602  8  7 f   -     -     -        15860    0    0 
+RvrChasr  927355641  7  6 rc  -     -     -        15860 4520 9600 Th Tc
+RvrChasr  927355669  6  4 f   -     -     -        20940    0    0 
+RvrChasr  927355701  6  3 f   -     -     -        20940    0    0 
+RvrChasr  927355726  5  1 Bk  kf    -     -        20940  160    0 
+RvrChasr  927355753  5  1 Bf  -     -     -        20780   80    0 
+RvrChasr  927355766  5  5 c   k     k     k        20700  160    0 7s 9s
+RvrChasr  927355802  5  4 f   -     -     -        20540    0    0 
+RvrChasr  927355841  5  3 cc  kf    -     -        20540 3160    0 
+RvrChasr  927355863  5  2 Bk  kf    -     -        17380  320    0 
+RvrChasr  927355876  5  1 Bf  -     -     -        17060  160    0 
+RvrChasr  927355880  5  5 f   -     -     -        16900    0    0 
+RvrChasr  927355884  5  4 f   -     -     -        16900    0    0 
+RvrChasr  927355904  5  3 f   -     -     -        16900    0    0 
+RvrChasr  927355925  5  2 Br  b     -     -        16900 5920 8960 
+RvrChasr  927355957  5  1 Bf  -     -     -        19940  160    0 
+RvrChasr  927355967  5  5 f   -     -     -        19780    0    0 
+RvrChasr  927355980  5  4 f   -     -     -        19780    0    0 
+RvrChasr  927356004  5  3 f   -     -     -        19780    0    0 
+RvrChasr  927356024  5  2 Bk  f     -     -        19780  320    0 
+RvrChasr  927356046  5  1 Bcc k     kf    -        19460 1280    0 
+RvrChasr  927356071  5  5 cc  f     -     -        18180 4320    0 
+RvrChasr  927356088  5  4 r   rA    -     -        13860 13860 5060 7c Kc
+RvrChasr  927356111  4  2 Bf  -     -     -         5060  320    0 
+RvrChasr  927356121  4  1 Brc bA    -     -         4740 4740 9480 Jc Tc
+RvrChasr  927356138  4  4 f   -     -     -         9480    0    0 
+RvrChasr  927356148  4  3 r   rA    -     -         9480 9480 19280 Qd Qc
+RvrChasr  927356162  4  2 Bf  -     -     -        19280  320    0 
+RvrChasr  927356173  4  1 Bf  -     -     -        18960  160    0 
+RvrChasr  927356183  4  4 f   -     -     -        18800    0    0 
+RvrChasr  927356190  4  3 f   -     -     -        18800    0    0 
+RvrChasr  927356212  4  2 Bk  b     kc    bA       18800 18800 1560 Qc 9d
+RvrChasr  927356253  4  1 BcA -     -     -         1560 1560    0 Jd Qh
+RvrChasr  928093733 12  2 Bc  kf    -     -         1200   65    0 
+RvrChasr  928093802 12  1 Bcc bcA   -     -         1135 1135 2460 3h 3c
+RvrChasr  928093846 11 11 c   k     k     c         2460   50    0 Ad 4d
+RvrChasr  928093914 11 11 c   k     f     -         2410   10    0 
+RvrChasr  928093968 11 10 f   -     -     -         2400    0    0 
+RvrChasr  928094017 11  9 f   -     -     -         2400    0    0 
+RvrChasr  928094064 11  8 f   -     -     -         2400    0    0 
+RvrChasr  928094126 11  7 f   -     -     -         2400    0    0 
+RvrChasr  928094172 11  6 f   -     -     -         2400    0    0 
+RvrChasr  928094226 11  5 r   b     -     -         2400  230  320 
+RvrChasr  928094275 11  4 f   -     -     -         2490    0    0 
+RvrChasr  928094341 11  3 f   -     -     -         2490    0    0 
+RvrChasr  928094388 11  2 Bf  -     -     -         2490   20    0 
+RvrChasr  928094468 11  1 Bf  -     -     -         2470   10    0 
+RvrChasr  928094497 11 11 f   -     -     -         2460    0    0 
+RvrChasr  928094560 11 10 c   r     k     f         2460  760    0 
+RvrChasr  928094599 11  9 f   -     -     -         1700    0    0 
+RvrChasr  928094640 11  8 f   -     -     -         1700    0    0 
+RvrChasr  928094668 11  7 rA  -     -     -         1700 1700 1760 
+RvrChasr  928094690 11  6 f   -     -     -         1760    0    0 
+RvrChasr  928094717 11  5 f   -     -     -         1760    0    0 
+RvrChasr  928094754 11  4 rA  -     -     -         1760 1760  165 Th Js
+RvrChasr  928094778 10  2 f   -     -     -          165    0    0 
+RvrChasr  928094794 10  2 Bf  -     -     -          165   40    0 
+RvrChasr  928094830 10  1 Bf  -     -     -          125   20    0 
+RvrChasr  928094879 10 10 f   -     -     -          105    0    0 
+RvrChasr  928094914 10  9 cA  -     -     -          105  105    0 Ts 9s

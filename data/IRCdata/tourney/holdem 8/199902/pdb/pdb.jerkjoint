@@ -1,0 +1,604 @@
+jerkjoint 918365584 20 16 f   -     -     -         5000    0    0 
+jerkjoint 918365623 20 15 f   -     -     -         5000    0    0 
+jerkjoint 918365651 18 14 f   -     -     -         5000    0    0 
+jerkjoint 918365869 18 13 f   -     -     -         5000    0    0 
+jerkjoint 918365927 18 12 f   -     -     -         5000    0    0 
+jerkjoint 918365994 18 11 f   -     -     -         5000    0    0 
+jerkjoint 918366109 18 10 f   -     -     -         5000    0    0 
+jerkjoint 918366187 17  9 f   -     -     -         5000    0    0 
+jerkjoint 918366288 17  8 f   -     -     -         5000    0    0 
+jerkjoint 918366356 16  7 f   -     -     -         5000    0    0 
+jerkjoint 918366404 16  6 f   -     -     -         5000    0    0 
+jerkjoint 918366524 15  5 f   -     -     -         5000    0    0 
+jerkjoint 918366573 14  4 cf  -     -     -         5000  200    0 
+jerkjoint 918366611 12  3 f   -     -     -         4800    0    0 
+jerkjoint 918366673 12  2 Bk  f     -     -         4800  200    0 
+jerkjoint 918366723 11  1 Bf  -     -     -         4600  200    0 
+jerkjoint 918366756 11 11 f   -     -     -         4400    0    0 
+jerkjoint 918366786 11 10 f   -     -     -         4400    0    0 
+jerkjoint 918366850 11  9 f   -     -     -         4400    0    0 
+jerkjoint 918366905 11  8 f   -     -     -         4400    0    0 
+jerkjoint 918366942 10  7 f   -     -     -         4400    0    0 
+jerkjoint 918367007 10  6 f   -     -     -         4400    0    0 
+jerkjoint 918367037 10  5 f   -     -     -         4400    0    0 
+jerkjoint 918367112 10  4 f   -     -     -         4400    0    0 
+jerkjoint 918367134 10  3 f   -     -     -         4400    0    0 
+jerkjoint 918367187  8  2 BrA -     -     -         4400 4400    0 Ad Ks
+jerkjoint 918371741 17  6 f   -     -     -         2000    0    0 
+jerkjoint 918371858 17  5 f   -     -     -         2000    0    0 
+jerkjoint 918371929 17  4 f   -     -     -         2000    0    0 
+jerkjoint 918372033 17  3 f   -     -     -         2000    0    0 
+jerkjoint 918372098 15  2 Bk  kf    -     -         2000   40    0 
+jerkjoint 918372193 15  1 Bf  -     -     -         1960   20    0 
+jerkjoint 918372292 15 15 f   -     -     -         1940    0    0 
+jerkjoint 918372402 15 14 rA  -     -     -         1940 1940 4160 2d Qd
+jerkjoint 918372465 15 13 f   -     -     -         4160    0    0 
+jerkjoint 918372527 15 12 f   -     -     -         4160    0    0 
+jerkjoint 918372607 14 11 rA  -     -     -         4160 4160 6450 Ks Tc
+jerkjoint 918372683 13 10 rA  -     -     -         6450 6450 6810 
+jerkjoint 918372735 13  9 f   -     -     -         6810    0    0 
+jerkjoint 918372783 12  7 f   -     -     -         6810    0    0 
+jerkjoint 918372846 12  6 f   -     -     -         6810    0    0 
+jerkjoint 918372910 10  3 f   -     -     -         6810    0    0 
+jerkjoint 918372961 10  3 f   -     -     -         6810    0    0 
+jerkjoint 918373053 10  2 Bk  k     kf    -         6810  320    0 
+jerkjoint 918373113  9  1 Bc  kf    -     -         6490  320    0 
+jerkjoint 918373147  9  9 f   -     -     -         6170    0    0 
+jerkjoint 918373184  8  8 f   -     -     -         6170    0    0 
+jerkjoint 918373227  8  7 c   k     k     k         6170  320    0 3c 3h
+jerkjoint 918373309  8  6 f   -     -     -         5850    0    0 
+jerkjoint 918373358  8  5 f   -     -     -         5850    0    0 
+jerkjoint 918373387  8  4 f   -     -     -         5850    0    0 
+jerkjoint 918373417  8  3 f   -     -     -         5850    0    0 
+jerkjoint 918373484  8  2 Bk  k     k     k         5850  640 1600 9c 4h
+jerkjoint 918373514  8  1 Br  -     -     -         6810 1920 2560 
+jerkjoint 918373529  8  8 c   rA    -     -         7450 7450 13550 Th Tc
+jerkjoint 918373556  7  6 f   -     -     -        13550    0    0 
+jerkjoint 918373585  6  5 f   -     -     -        13550    0    0 
+jerkjoint 918373597  6  4 f   -     -     -        13550    0    0 
+jerkjoint 918373656  6  3 f   -     -     -        13550    0    0 
+jerkjoint 918373722  6  2 Bf  -     -     -        13550 1280    0 
+jerkjoint 918373733  6  1 Bf  -     -     -        12270  640    0 
+jerkjoint 918373741  5  5 f   -     -     -        11630    0    0 
+jerkjoint 918373750  5  5 f   -     -     -        11630    0    0 
+jerkjoint 918373760  5  4 f   -     -     -        11630    0    0 
+jerkjoint 918373783  4  3 f   -     -     -        11630    0    0 
+jerkjoint 918373797  4  2 Bk  bc    -     -        11630 4730    0 2d 9d
+jerkjoint 918373816  4  1 Bf  -     -     -         6900  640    0 
+jerkjoint 918373828  4  4 f   -     -     -         6260    0    0 
+jerkjoint 918373842  3  2 rA  -     -     -         6260 6260 7540 
+jerkjoint 918373851  3  2 Bk  bA    -     -         7540 7540 7540 Td Jc
+jerkjoint 918373881  3  1 BrA -     -     -         7540 7540 8820 
+jerkjoint 918373898  3  3 f   -     -     -         8820    0    0 
+jerkjoint 918373910  3  2 B   -     -     -         8820 1280 1920 
+jerkjoint 918373915  3  1 Bf  -     -     -         9460  640    0 
+jerkjoint 918373922  3  3 f   -     -     -         8820    0    0 
+jerkjoint 918373927  3  2 Bk  f     -     -         8820 1280    0 
+jerkjoint 918373954  3  1 Bf  -     -     -         7540  640    0 
+jerkjoint 918373959  3  3 rA  -     -     -         6900 6900 8820 
+jerkjoint 918373966  3  2 Bf  -     -     -         8820 1280    0 
+jerkjoint 918373975  3  1 Bf  -     -     -         7540  640    0 
+jerkjoint 918373991  3  3 f   -     -     -         6900    0    0 
+jerkjoint 918374002  2  2 Bk  k     k     k         6900 1280    0 2c 7s
+jerkjoint 918374035  2  1 Bf  -     -     -         5620 1280    0 
+jerkjoint 918374039  2  2 BcA -     -     -         4340 4340 8680 8h 7d
+jerkjoint 918374044  2  1 BrA -     -     -         8680 8680    0 Js Qs
+jerkjoint 918513533 18  7 f   -     -     -         5000    0    0 
+jerkjoint 918513789 20 16 f   -     -     -         5000    0    0 
+jerkjoint 918513874 20 15 f   -     -     -         5000    0    0 
+jerkjoint 918513906 19 13 f   -     -     -         5000    0    0 
+jerkjoint 918513973 19 12 f   -     -     -         5000    0    0 
+jerkjoint 918514066 19 11 f   -     -     -         5000    0    0 
+jerkjoint 918514143 19 10 cf  -     -     -         5000   40    0 
+jerkjoint 918514209 19  9 f   -     -     -         4960    0    0 
+jerkjoint 918514292 18  8 f   -     -     -         4960    0    0 
+jerkjoint 918514348 18  7 f   -     -     -         4960    0    0 
+jerkjoint 918514416 18  6 f   -     -     -         4960    0    0 
+jerkjoint 918514478 17  5 f   -     -     -         4960    0    0 
+jerkjoint 918514521 17  4 f   -     -     -         4960    0    0 
+jerkjoint 918514573 15  2 Bf  -     -     -         4960  160    0 
+jerkjoint 918514667 13  1 BrA -     -     -         4800 4800 10320 Kd Kh
+jerkjoint 918514716 13 13 f   -     -     -        10320    0    0 
+jerkjoint 918514776 13 12 f   -     -     -        10320    0    0 
+jerkjoint 918514848 13 11 f   -     -     -        10320    0    0 
+jerkjoint 918514897 13 10 f   -     -     -        10320    0    0 
+jerkjoint 918514964 13  9 f   -     -     -        10320    0    0 
+jerkjoint 918515026 13  8 f   -     -     -        10320    0    0 
+jerkjoint 918515071 13  7 f   -     -     -        10320    0    0 
+jerkjoint 918515131 13  6 f   -     -     -        10320    0    0 
+jerkjoint 918515194 13  5 f   -     -     -        10320    0    0 
+jerkjoint 918515241 13  4 f   -     -     -        10320    0    0 
+jerkjoint 918515300 12  3 f   -     -     -        10320    0    0 
+jerkjoint 918515342 11  1 Bf  -     -     -        10320  640    0 
+jerkjoint 918515394 11  1 Bf  -     -     -         9680  320    0 
+jerkjoint 918515498 11 11 f   -     -     -         9360    0    0 
+jerkjoint 918515544  9  8 f   -     -     -         9360    0    0 
+jerkjoint 918515590  9  8 f   -     -     -         9360    0    0 
+jerkjoint 918515629  9  7 f   -     -     -         9360    0    0 
+jerkjoint 918515649  9  6 f   -     -     -         9360    0    0 
+jerkjoint 918515679  9  5 f   -     -     -         9360    0    0 
+jerkjoint 918515740  8  4 f   -     -     -         9360    0    0 
+jerkjoint 918515773  8  3 f   -     -     -         9360    0    0 
+jerkjoint 918515805  8  2 Bf  -     -     -         9360 1280    0 
+jerkjoint 918515836  6  1 Bf  -     -     -         8080  640    0 
+jerkjoint 918515862  6  6 c   rA    -     -         7440 7440 16160 As Ad
+jerkjoint 918515888  6  5 f   -     -     -        16160    0    0 
+jerkjoint 918515911  6  4 f   -     -     -        16160    0    0 
+jerkjoint 918515915  5  3 f   -     -     -        16160    0    0 
+jerkjoint 918515934  4  2 Bk  kf    -     -        16160 1280    0 
+jerkjoint 918515950  4  1 Bf  -     -     -        14880  640    0 
+jerkjoint 918515955  4  4 f   -     -     -        14240    0    0 
+jerkjoint 918515959  4  3 f   -     -     -        14240    0    0 
+jerkjoint 918515973  4  2 B   -     -     -        14240 1280 1920 
+jerkjoint 918515982  4  1 Bc  b     bA    -        14880 14880 31040 7s 7c
+jerkjoint 918516000  4  4 f   -     -     -        31040    0    0 
+jerkjoint 918516013  4  3 f   -     -     -        31040    0    0 
+jerkjoint 918516030  4  2 Bf  -     -     -        31040 1280    0 
+jerkjoint 918516036  4  1 Bf  -     -     -        29760  640    0 
+jerkjoint 918516061  4  4 f   -     -     -        29120    0    0 
+jerkjoint 918516075  3  2 Bk  f     -     -        29120 1280    0 
+jerkjoint 918516089  3  1 Bf  -     -     -        27840  640    0 
+jerkjoint 918516092  3  3 f   -     -     -        27200    0    0 
+jerkjoint 918516096  3  2 Bf  -     -     -        27200 1280    0 
+jerkjoint 918516102  3  1 Bf  -     -     -        25920 1280    0 
+jerkjoint 918516113  3  3 rA  -     -     -        24640 24640    0 Ad Qc
+jerkjoint 918516663 11  3 f   -     -     -        10000    0    0 
+jerkjoint 918516723 11  2 Bf  -     -     -        10000   60    0 
+jerkjoint 918516787 11  1 Bf  -     -     -         9940   30    0 
+jerkjoint 918516875 11 11 f   -     -     -         9910    0    0 
+jerkjoint 918516943 11 10 f   -     -     -         9910    0    0 
+jerkjoint 918516997 11  9 c   f     -     -         9910   60    0 
+jerkjoint 918517130 11  8 f   -     -     -         9850    0    0 
+jerkjoint 918517232 10  6 f   -     -     -         9850    0    0 
+jerkjoint 918517293  9  4 f   -     -     -         9850    0    0 
+jerkjoint 918517375  9  3 f   -     -     -         9850    0    0 
+jerkjoint 918517485  9  2 Bk  k     k     krA       9850 9850 10330 
+jerkjoint 918517525  9  1 Bf  -     -     -        10330  120    0 
+jerkjoint 918517564  9  9 f   -     -     -        10210    0    0 
+jerkjoint 918517594  9  8 f   -     -     -        10210    0    0 
+jerkjoint 918517613  9  7 f   -     -     -        10210    0    0 
+jerkjoint 918517677  9  6 f   -     -     -        10210    0    0 
+jerkjoint 918517745  9  5 f   -     -     -        10210    0    0 
+jerkjoint 918517808  9  4 f   -     -     -        10210    0    0 
+jerkjoint 918517850  9  3 f   -     -     -        10210    0    0 
+jerkjoint 918517962  9  2 Bk  f     -     -        10210  480    0 
+jerkjoint 918517999  9  1 Bf  -     -     -         9730  240    0 
+jerkjoint 918518068  9  9 f   -     -     -         9490    0    0 
+jerkjoint 918518119  9  8 f   -     -     -         9490    0    0 
+jerkjoint 918518171  9  7 f   -     -     -         9490    0    0 
+jerkjoint 918518213  9  6 f   -     -     -         9490    0    0 
+jerkjoint 918518275  9  5 f   -     -     -         9490    0    0 
+jerkjoint 918518297  9  4 f   -     -     -         9490    0    0 
+jerkjoint 918518373  9  3 f   -     -     -         9490    0    0 
+jerkjoint 918518423  9  2 Bk  kf    -     -         9490  960    0 
+jerkjoint 918518463  9  1 Bf  -     -     -         8530  480    0 
+jerkjoint 918518539  9  9 f   -     -     -         8050    0    0 
+jerkjoint 918518599  9  8 f   -     -     -         8050    0    0 
+jerkjoint 918518648  9  7 f   -     -     -         8050    0    0 
+jerkjoint 918518674  9  6 f   -     -     -         8050    0    0 
+jerkjoint 918518699  8  4 f   -     -     -         8050    0    0 
+jerkjoint 918518751  8  3 f   -     -     -         8050    0    0 
+jerkjoint 918518777  8  2 Bk  k     c     bA        8050 8050 18020 Ad 9h
+jerkjoint 918518831  8  1 Bf  -     -     -        18020  960    0 
+jerkjoint 918518845  8  8 f   -     -     -        17060    0    0 
+jerkjoint 918518877  8  7 f   -     -     -        17060    0    0 
+jerkjoint 918518921  8  6 f   -     -     -        17060    0    0 
+jerkjoint 918518936  8  5 f   -     -     -        17060    0    0 
+jerkjoint 918518975  7  4 f   -     -     -        17060    0    0 
+jerkjoint 918519018  7  3 f   -     -     -        17060    0    0 
+jerkjoint 918519059  6  1 Bf  -     -     -        17060 1920    0 
+jerkjoint 918519089  6  1 Bf  -     -     -        15140  960    0 
+jerkjoint 918519098  6  6 f   -     -     -        14180    0    0 
+jerkjoint 918519115  6  5 r   -     -     -        14180 13440 19200 
+jerkjoint 918519133  6  4 f   -     -     -        19940    0    0 
+jerkjoint 918519157  5  3 f   -     -     -        19940    0    0 
+jerkjoint 918519176  5  2 Bk  b     -     -        19940 11520 15360 
+jerkjoint 918519201  5  1 Bf  -     -     -        23780 1920    0 
+jerkjoint 918519218  3  3 f   -     -     -        21860    0    0 
+jerkjoint 918519239  3  3 f   -     -     -        21860    0    0 
+jerkjoint 918519271  3  2 Bf  -     -     -        21860 3840    0 
+jerkjoint 918519286  3  1 Bf  -     -     -        18020 1920    0 
+jerkjoint 918519296  3  3 f   -     -     -        16100    0    0 
+jerkjoint 918519310  3  2 BcA -     -     -        16100 16100 32200 Ts Ad
+jerkjoint 918519317  3  1 Bf  -     -     -        32200 1920    0 
+jerkjoint 918519367  3  3 f   -     -     -        30280    0    0 
+jerkjoint 918519383  3  2 B   -     -     -        30280 3840 5760 
+jerkjoint 918519398  3  1 Bf  -     -     -        32200 1920    0 
+jerkjoint 918519403  3  3 f   -     -     -        30280    0    0 
+jerkjoint 918519406  3  2 B   -     -     -        30280 3840 5760 
+jerkjoint 918519414  3  1 Bf  -     -     -        32200 1920    0 
+jerkjoint 918519417  3  3 r   k     k     k        30280 13440 28800 4d Ac
+jerkjoint 918519436  3  2 Bf  -     -     -        45640 3840    0 
+jerkjoint 918519466  2  1 Bf  -     -     -        41800 1920    0 
+jerkjoint 918519472  2  2 B   -     -     -        39880 3840 5760 
+jerkjoint 918519479  2  1 Bf  -     -     -        41800 3840    0 
+jerkjoint 918519480  2  2 Bk  rA    -     -        37960 37960    0 6h 5s
+jerkjoint 918519783 16  1 Bf  -     -     -        10000   30    0 
+jerkjoint 918519929 16 16 f   -     -     -         9970    0    0 
+jerkjoint 918520006 16 15 f   -     -     -         9970    0    0 
+jerkjoint 918520099 15 13 f   -     -     -         9970    0    0 
+jerkjoint 918520143 14 11 f   -     -     -         9970    0    0 
+jerkjoint 918520194 14 10 f   -     -     -         9970    0    0 
+jerkjoint 918520259 14  9 cc  f     -     -         9970  195    0 
+jerkjoint 918520322 13  8 f   -     -     -         9775    0    0 
+jerkjoint 918520377 13  7 f   -     -     -         9775    0    0 
+jerkjoint 918520437 13  6 f   -     -     -         9775    0    0 
+jerkjoint 918520520 12  4 f   -     -     -         9775    0    0 
+jerkjoint 918520590 12  4 f   -     -     -         9775    0    0 
+jerkjoint 918520640 11  2 f   -     -     -         9775    0    0 
+jerkjoint 918520694 11  2 Bf  -     -     -         9775  240    0 
+jerkjoint 918520760 11  1 Bc  k     k     k         9535 1080    0 Kd Ah
+jerkjoint 918520799 11 11 f   -     -     -         8455    0    0 
+jerkjoint 918520879 11 10 f   -     -     -         8455    0    0 
+jerkjoint 918520897 11  9 f   -     -     -         8455    0    0 
+jerkjoint 918520932 11  8 f   -     -     -         8455    0    0 
+jerkjoint 918520977 11  7 f   -     -     -         8455    0    0 
+jerkjoint 918521021 11  6 f   -     -     -         8455    0    0 
+jerkjoint 918521053 11  5 f   -     -     -         8455    0    0 
+jerkjoint 918521111  9  3 f   -     -     -         8455    0    0 
+jerkjoint 918521176  9  3 cc  f     -     -         8455 2640    0 
+jerkjoint 918521211  9  2 Bf  -     -     -         5815  480    0 
+jerkjoint 918521296  8  1 Bc  f     -     -         5335  480    0 
+jerkjoint 918521340  8  8 rcA -     -     -         4855 4855    0 7s 7h
+jerkjoint 918522940 23  9 f   -     -     -         5000    0    0 
+jerkjoint 918523066 23  8 f   -     -     -         5000    0    0 
+jerkjoint 918523179 23  7 f   -     -     -         5000    0    0 
+jerkjoint 918523335 23  6 f   -     -     -         5000    0    0 
+jerkjoint 918523472 22  5 f   -     -     -         5000    0    0 
+jerkjoint 918523608 22  4 f   -     -     -         5000    0    0 
+jerkjoint 918523673 21  3 f   -     -     -         5000    0    0 
+jerkjoint 918523754 19  1 Bf  -     -     -         5000  160    0 
+jerkjoint 918523847 19  1 Bc  kf    -     -         4840  720    0 
+jerkjoint 918523911 18 18 f   -     -     -         4120    0    0 
+jerkjoint 918523979 18 17 f   -     -     -         4120    0    0 
+jerkjoint 918524081 17 15 f   -     -     -         4120    0    0 
+jerkjoint 918524153 17 14 f   -     -     -         4120    0    0 
+jerkjoint 918524217 16 13 f   -     -     -         4120    0    0 
+jerkjoint 918524257 16 12 f   -     -     -         4120    0    0 
+jerkjoint 918524320 16 11 f   -     -     -         4120    0    0 
+jerkjoint 918524376 16 10 f   -     -     -         4120    0    0 
+jerkjoint 918524461 16  9 f   -     -     -         4120    0    0 
+jerkjoint 918524481 15  8 f   -     -     -         4120    0    0 
+jerkjoint 918524544 14  7 f   -     -     -         4120    0    0 
+jerkjoint 918524611 14  6 f   -     -     -         4120    0    0 
+jerkjoint 918524674 14  5 f   -     -     -         4120    0    0 
+jerkjoint 918524744 14  4 f   -     -     -         4120    0    0 
+jerkjoint 918524784 12  3 f   -     -     -         4120    0    0 
+jerkjoint 918524859 12  2 Bf  -     -     -         4120  640    0 
+jerkjoint 918524914 12  1 Bc  k     bA    -         3480 3480 13000 9s 7s
+jerkjoint 918524977 12 12 f   -     -     -        13000    0    0 
+jerkjoint 918524998  9  9 f   -     -     -        13000    0    0 
+jerkjoint 918525031  9  8 f   -     -     -        13000    0    0 
+jerkjoint 918525077  9  7 r   bA    -     -        13000 13000 19880 Jh As
+jerkjoint 918525110  8  5 f   -     -     -        19880    0    0 
+jerkjoint 918525138  8  5 f   -     -     -        19880    0    0 
+jerkjoint 918525180  8  4 f   -     -     -        19880    0    0 
+jerkjoint 918525241  8  3 f   -     -     -        19880    0    0 
+jerkjoint 918525299  8  2 Bf  -     -     -        19880 2560    0 
+jerkjoint 918525343  8  1 Bf  -     -     -        17320 1280    0 
+jerkjoint 918525376  7  7 rA  -     -     -        16040 16040 34640 Qh Qd
+jerkjoint 918525410  7  7 r   -     -     -        34640 8960 5680 4d 7s
+jerkjoint 918525437  7  6 f   -     -     -        31360    0    0 
+jerkjoint 918525466  7  5 f   -     -     -        31360    0    0 
+jerkjoint 918525519  6  4 f   -     -     -        31360    0    0 
+jerkjoint 918525527  6  3 f   -     -     -        31360    0    0 
+jerkjoint 918525550  6  2 Bf  -     -     -        31360 2560    0 
+jerkjoint 918525586  6  1 Bc  -     -     -        28800 1960 3920 Kd Th
+jerkjoint 918525602  5  5 f   -     -     -        30760    0    0 
+jerkjoint 918525657  5  5 f   -     -     -        30760    0    0 
+jerkjoint 918525717  5  4 f   -     -     -        30760    0    0 
+jerkjoint 918525743  5  3 f   -     -     -        30760    0    0 
+jerkjoint 918525776  5  2 Bf  -     -     -        30760 5120    0 
+jerkjoint 918525810  4  1 Bc  k     b     -        25640 15360 15360 6s Th
+jerkjoint 918525845  4  4 f   -     -     -        25640    0    0 
+jerkjoint 918525858  4  3 r   -     -     -        25640 17920 25600 
+jerkjoint 918525879  4  2 Bf  -     -     -        33320 5120    0 
+jerkjoint 918525891  4  1 Br  -     -     -        28200 15360 5500 3d Qd
+jerkjoint 918525908  4  4 f   -     -     -        18340    0    0 
+jerkjoint 918525936  3  3 f   -     -     -        18340    0    0 
+jerkjoint 918525981  3  2 Bf  -     -     -        18340 5120    0 
+jerkjoint 918525997  3  1 BrA -     -     -        13220 13220    0 5s Ks
+jerkjoint 918526220 23  8 f   -     -     -         5000    0    0 
+jerkjoint 918526310 23  7 f   -     -     -         5000    0    0 
+jerkjoint 918526394 23  6 f   -     -     -         5000    0    0 
+jerkjoint 918526541 21  5 f   -     -     -         5000    0    0 
+jerkjoint 918526604 21  4 f   -     -     -         5000    0    0 
+jerkjoint 918526694 21  3 f   -     -     -         5000    0    0 
+jerkjoint 918526819 21  2 Bk  kf    -     -         5000   40    0 
+jerkjoint 918526962 21  1 Bf  -     -     -         4960   20    0 
+jerkjoint 918527044 20 20 f   -     -     -         4940    0    0 
+jerkjoint 918527146 20 19 f   -     -     -         4940    0    0 
+jerkjoint 918527265 20 18 f   -     -     -         4940    0    0 
+jerkjoint 918527434 19 16 f   -     -     -         4940    0    0 
+jerkjoint 918527520 19 15 f   -     -     -         4940    0    0 
+jerkjoint 918527620 18 13 f   -     -     -         4940    0    0 
+jerkjoint 918527747 18 12 f   -     -     -         4940    0    0 
+jerkjoint 918527825 17 10 f   -     -     -         4940    0    0 
+jerkjoint 918527893 12  7 cc  bA    -     -         4940 4940    0 Ks As
+jerkjoint 918932981 16  3 f   -     -     -         5000    0    0 
+jerkjoint 918933164 16  2 Bk  f     -     -         5000   50    0 
+jerkjoint 918933217 15  1 Bf  -     -     -         4950   25    0 
+jerkjoint 918933276 14 14 f   -     -     -         4925    0    0 
+jerkjoint 918933377 14 14 f   -     -     -         4925    0    0 
+jerkjoint 918933448 14 13 f   -     -     -         4925    0    0 
+jerkjoint 918933522 13 11 f   -     -     -         4925    0    0 
+jerkjoint 918933583 13 10 f   -     -     -         4925    0    0 
+jerkjoint 918933667 13  9 f   -     -     -         4925    0    0 
+jerkjoint 918933745 13  8 f   -     -     -         4925    0    0 
+jerkjoint 918933829 12  7 f   -     -     -         4925    0    0 
+jerkjoint 918933873 12  6 f   -     -     -         4925    0    0 
+jerkjoint 918933933 12  5 f   -     -     -         4925    0    0 
+jerkjoint 918934000 12  4 f   -     -     -         4925    0    0 
+jerkjoint 918934075 12  3 f   -     -     -         4925    0    0 
+jerkjoint 918934163 12  2 Bk  f     -     -         4925  400    0 
+jerkjoint 918934215  9  1 Bc  f     -     -         4525  400    0 
+jerkjoint 918934266  9  9 f   -     -     -         4125    0    0 
+jerkjoint 918934314  9  8 f   -     -     -         4125    0    0 
+jerkjoint 918934333  9  7 f   -     -     -         4125    0    0 
+jerkjoint 918934386  9  6 f   -     -     -         4125    0    0 
+jerkjoint 918934450  9  5 f   -     -     -         4125    0    0 
+jerkjoint 918934478  8  4 f   -     -     -         4125    0    0 
+jerkjoint 918934496  8  3 f   -     -     -         4125    0    0 
+jerkjoint 918934519  8  2 Bf  -     -     -         4125  800    0 
+jerkjoint 918934569  8  1 Bf  -     -     -         3325  400    0 
+jerkjoint 918934607  8  8 f   -     -     -         2925    0    0 
+jerkjoint 918934644  8  7 rA  -     -     -         2925 2925 4125 
+jerkjoint 918934658  8  6 f   -     -     -         4125    0    0 
+jerkjoint 918934669  8  5 f   -     -     -         4125    0    0 
+jerkjoint 918934686  8  4 rA  -     -     -         4125 4125 5325 
+jerkjoint 918934698  8  3 f   -     -     -         5325    0    0 
+jerkjoint 918934710  8  2 Bf  -     -     -         5325  800    0 
+jerkjoint 918934720  8  1 Bf  -     -     -         4525  400    0 
+jerkjoint 918934741  8  8 f   -     -     -         4125    0    0 
+jerkjoint 918934750  8  7 f   -     -     -         4125    0    0 
+jerkjoint 918934771  7  5 rA  -     -     -         4125 4125 10650 Ts Ks
+jerkjoint 918934794  7  4 f   -     -     -        10650    0    0 
+jerkjoint 918934816  6  3 f   -     -     -        10650    0    0 
+jerkjoint 918934840  6  2 B   -     -     -        10650 1600 2400 
+jerkjoint 918934846  6  1 Br  -     -     -        11450 4800 6400 
+jerkjoint 918934861  6  6 f   -     -     -        13050    0    0 
+jerkjoint 918934870  6  5 f   -     -     -        13050    0    0 
+jerkjoint 918934884  5  3 f   -     -     -        13050    0    0 
+jerkjoint 918934924  4  1 B   -     -     -        13050 1600 1600 
+jerkjoint 918934935  4  1 Bf  -     -     -        13050  800    0 
+jerkjoint 918934945  3  3 f   -     -     -        12250    0    0 
+jerkjoint 918934951  3  3 f   -     -     -        12250    0    0 
+jerkjoint 918934957  3  2 Bf  -     -     -        12250 1600    0 
+jerkjoint 918934963  3  1 BrA -     -     -        10650 10650 21300 4d 4h
+jerkjoint 918934973  3  3 rA  -     -     -        21300 21300 23700 
+jerkjoint 918934985  3  2 BrA -     -     -        23700 23700 25300 
+jerkjoint 918934996  3  1 BrA -     -     -        25300 25300 26900 
+jerkjoint 918935003  3  3 f   -     -     -        26900    0    0 
+jerkjoint 918935018  3  2 B   -     -     -        26900 1600 2400 
+jerkjoint 918935026  3  1 Bf  -     -     -        27700  800    0 
+jerkjoint 918935029  3  3 f   -     -     -        26900    0    0 
+jerkjoint 918935036  3  2 Bk  b     -     -        26900 4800 6400 
+jerkjoint 918935050  3  1 Bf  -     -     -        28500  800    0 
+jerkjoint 918935054  3  3 f   -     -     -        27700    0    0 
+jerkjoint 918935057  3  2 B   -     -     -        27700 1600 2400 
+jerkjoint 918935061  3  1 Bf  -     -     -        28500  800    0 
+jerkjoint 918935064  3  3 f   -     -     -        27700    0    0 
+jerkjoint 918935069  3  2 Bf  -     -     -        27700 1600    0 
+jerkjoint 918935074  3  1 Bf  -     -     -        26100  800    0 
+jerkjoint 918935075  3  3 f   -     -     -        25300    0    0 
+jerkjoint 918935083  3  2 Bf  -     -     -        25300 1600    0 
+jerkjoint 918935088  3  1 Bf  -     -     -        23700  800    0 
+jerkjoint 918935097  3  3 f   -     -     -        22900    0    0 
+jerkjoint 918935115  3  2 B   -     -     -        22900 3200 4800 
+jerkjoint 918935121  3  1 Bf  -     -     -        24500 1600    0 
+jerkjoint 918935136  3  3 r   -     -     -        22900 11200 16000 
+jerkjoint 918935143  3  2 BrA -     -     -        27700 27700 12350 Ad 6h
+jerkjoint 918935155  3  1 Bf  -     -     -        12350 1600    0 
+jerkjoint 918935163  3  3 f   -     -     -        10750    0    0 
+jerkjoint 918935196  3  2 Bf  -     -     -        10750 3200    0 
+jerkjoint 918935205  2  1 BrA -     -     -         7550 7550 10750 
+jerkjoint 918935215  2  2 B   -     -     -        10750 3200 4800 
+jerkjoint 918935218  2  1 BrA -     -     -        12350 12350 15550 
+jerkjoint 918935223  2  2 B   -     -     -        15550 3200 4800 
+jerkjoint 918935226  2  1 Bf  -     -     -        17150 1600    0 
+jerkjoint 918935228  2  2 B   -     -     -        15550 3200 4800 
+jerkjoint 918935231  2  1 BrA -     -     -        17150 17150 34300 7h Qs
+jerkjoint 918935235  2  2 B   -     -     -        34300 3200 4800 
+jerkjoint 918935245  2  1 Bf  -     -     -        35900 1600    0 
+jerkjoint 918935247  2  2 Bf  -     -     -        34300 3200    0 
+jerkjoint 918935251  2  1 BrA -     -     -        31100 31100 62200 Ah 7h
+jerkjoint 918935257  2  2 B   -     -     -        62200 3200 4800 
+jerkjoint 918935264  2  1 Brc -     -     -        63800 11225    0 Tc 5d
+jerkjoint 918935273  2  2 B   -     -     -        52575 3200 4800 
+jerkjoint 918935280  2  1 BrA -     -     -        54175 54175 57375 
+jerkjoint 918935285  2  2 Bf  -     -     -        57375 3200    0 
+jerkjoint 918935289  2  1 BrA -     -     -        54175 54175 57375 
+jerkjoint 918935293  2  2 Br  -     -     -        57375 28800 11150 Ks Kc
+jerkjoint 918935300  2  1 Bf  -     -     -        39725 1600    0 
+jerkjoint 918935306  2  2 Bk  f     -     -        38125 3200    0 
+jerkjoint 918935315  2  1 Bf  -     -     -        34925 1600    0 
+jerkjoint 918935316  2  2 Bk  f     -     -        33325 3200    0 
+jerkjoint 918935324  2  1 Bf  -     -     -        30125 1600    0 
+jerkjoint 918935325  2  2 Bf  -     -     -        28525 3200    0 
+jerkjoint 918935328  2  1 BrA -     -     -        25325 25325 28525 
+jerkjoint 918935335  2  2 Bf  -     -     -        28525 3200    0 
+jerkjoint 918935339  2  1 Bf  -     -     -        25325 1600    0 
+jerkjoint 918935340  2  2 Bk  f     -     -        23725 3200    0 
+jerkjoint 918935350  2  1 BrA -     -     -        20525 20525 23725 
+jerkjoint 918935361  2  2 Bk  k     k     k        23725 3200 6400 3s Ac
+jerkjoint 918935375  2  1 Bf  -     -     -        26925 1600    0 
+jerkjoint 918935379  2  2 Bf  -     -     -        25325 3200    0 
+jerkjoint 918935383  2  1 Bc  k     krA   -        22125 22125 31725 
+jerkjoint 918935398  2  2 Bk  k     k     b        31725 9600 12800 
+jerkjoint 918935416  2  1 Bf  -     -     -        34925 1600    0 
+jerkjoint 918935419  2  2 Bk  f     -     -        33325 6400    0 
+jerkjoint 918935427  2  1 Bf  -     -     -        26925 3200    0 
+jerkjoint 918935429  2  2 B   -     -     -        23725 6400 9600 
+jerkjoint 918935435  2  1 BrA -     -     -        26925 26925 53850 Qs 5h
+jerkjoint 918935440  2  2 B   -     -     -        53850 6400 9600 
+jerkjoint 918935447  2  1 BrA -     -     -        57050 57050 39075 Kc 5d
+jerkjoint 918935451  2  2 Bf  -     -     -        39075 6400    0 
+jerkjoint 918935459  2  1 Bf  -     -     -        32675 3200    0 
+jerkjoint 918935461  2  2 BrA -     -     -        29475 29475    0 2d Kd
+jerkjoint 918941167 19  5 f   -     -     -         3000    0    0 
+jerkjoint 918941296 19  4 f   -     -     -         3000    0    0 
+jerkjoint 918941398 18  3 f   -     -     -         3000    0    0 
+jerkjoint 918941498 16  2 Bf  -     -     -         3000   30    0 
+jerkjoint 918941580 14  1 Bf  -     -     -         2970   30    0 
+jerkjoint 918941626 14 14 f   -     -     -         2940    0    0 
+jerkjoint 918941685 14 13 f   -     -     -         2940    0    0 
+jerkjoint 918941724 14 12 f   -     -     -         2940    0    0 
+jerkjoint 918941768 14 11 f   -     -     -         2940    0    0 
+jerkjoint 918941850 14 10 f   -     -     -         2940    0    0 
+jerkjoint 918941913 14  9 f   -     -     -         2940    0    0 
+jerkjoint 918941970 14  8 f   -     -     -         2940    0    0 
+jerkjoint 918942037 14  7 f   -     -     -         2940    0    0 
+jerkjoint 918942123 14  6 f   -     -     -         2940    0    0 
+jerkjoint 918942197 14  5 f   -     -     -         2940    0    0 
+jerkjoint 918942243 14  4 f   -     -     -         2940    0    0 
+jerkjoint 918942303 14  3 f   -     -     -         2940    0    0 
+jerkjoint 918942434 13  1 Bk  kf    -     -         2940  240    0 
+jerkjoint 918942489 11  1 Bc  kf    -     -         2700  240    0 
+jerkjoint 918942541 11 11 f   -     -     -         2460    0    0 
+jerkjoint 918942563 11 10 f   -     -     -         2460    0    0 
+jerkjoint 918942602 11  9 f   -     -     -         2460    0    0 
+jerkjoint 918942650 10  7 c   k     rA    -         2460 2460 11500 Jc Js
+jerkjoint 918942748  7  4 f   -     -     -        11500    0    0 
+jerkjoint 918942796  7  3 f   -     -     -        11500    0    0 
+jerkjoint 918942849  7  2 Br  -     -     -        11500 5375 5855 
+jerkjoint 918942889  7  1 Bc  b     -     -        11980 7440 2545 Qd As
+jerkjoint 918942931  7  7 r   -     -     -         7085 1660 1700 5d As
+jerkjoint 918942953  7  6 f   -     -     -         7125    0    0 
+jerkjoint 918943003  6  4 f   -     -     -         7125    0    0 
+jerkjoint 918943019  6  3 f   -     -     -         7125    0    0 
+jerkjoint 918943047  6  2 Bc  b     f     -         7125 4320    0 
+jerkjoint 918943077  6  1 Bf  -     -     -         2805  240    0 
+jerkjoint 918943095  6  6 f   -     -     -         2565    0    0 
+jerkjoint 918943130  5  5 f   -     -     -         2565    0    0 
+jerkjoint 918943154  4  4 r   bA    -     -         2565 2565 5850 Ad 3c
+jerkjoint 918943174  4  3 f   -     -     -         5850    0    0 
+jerkjoint 918943187  4  2 BrA -     -     -         5850 5850 6810 
+jerkjoint 918943202  4  1 Bf  -     -     -         6810  480    0 
+jerkjoint 918943222  4  4 f   -     -     -         6330    0    0 
+jerkjoint 918943229  4  3 f   -     -     -         6330    0    0 
+jerkjoint 918943243  4  2 Bk  kf    -     -         6330  960    0 
+jerkjoint 918943261  4  1 Bf  -     -     -         5370  480    0 
+jerkjoint 918943270  4  4 f   -     -     -         4890    0    0 
+jerkjoint 918943277  4  3 f   -     -     -         4890    0    0 
+jerkjoint 918943327  4  2 BrA -     -     -         4890 4890 10260 Js Kc
+jerkjoint 918943352  4  1 Bf  -     -     -        10260  480    0 
+jerkjoint 918943364  4  4 f   -     -     -         9780    0    0 
+jerkjoint 918943377  4  3 f   -     -     -         9780    0    0 
+jerkjoint 918943399  4  2 Bf  -     -     -         9780  960    0 
+jerkjoint 918943429  4  1 Bf  -     -     -         8820  480    0 
+jerkjoint 918943443  4  4 r   -     -     -         8340 3360 4800 
+jerkjoint 918943448  4  3 f   -     -     -         9780    0    0 
+jerkjoint 918943476  3  1 Bf  -     -     -         9780  960    0 
+jerkjoint 918943502  3  1 Bf  -     -     -         8820  480    0 
+jerkjoint 918943515  3  3 f   -     -     -         8340    0    0 
+jerkjoint 918943518  3  2 Bk  kf    -     -         8340  960    0 
+jerkjoint 918943536  3  1 Bf  -     -     -         7380  960    0 
+jerkjoint 918943541  3  3 f   -     -     -         6420    0    0 
+jerkjoint 918943551  3  2 Bk  rA    -     -         6420 6420 12840 5h 7c
+jerkjoint 918943571  3  1 Bf  -     -     -        12840  960    0 
+jerkjoint 918943580  3  3 f   -     -     -        11880    0    0 
+jerkjoint 918943586  3  2 Bf  -     -     -        11880 1920    0 
+jerkjoint 918943594  3  1 BrA -     -     -         9960 9960 21840 5s Ah
+jerkjoint 918943608  3  3 r   -     -     -        21840 6720 9600 
+jerkjoint 918943617  3  2 Br  -     -     -        24720 9500 11420 
+jerkjoint 918943633  3  1 Bf  -     -     -        26640  960    0 
+jerkjoint 918943637  3  3 f   -     -     -        25680    0    0 
+jerkjoint 918943641  3  2 Bf  -     -     -        25680 1920    0 
+jerkjoint 918943666  3  1 Bf  -     -     -        23760  960    0 
+jerkjoint 918943677  3  3 f   -     -     -        22800    0    0 
+jerkjoint 918943682  3  2 Bf  -     -     -        22800 1920    0 
+jerkjoint 918943688  3  1 Bf  -     -     -        20880  960    0 
+jerkjoint 918943694  3  3 f   -     -     -        19920    0    0 
+jerkjoint 918943697  3  2 Bc  -     -     -        19920 8540    0 Ah 8c
+jerkjoint 918943706  3  1 BrA -     -     -        11380 11380 15220 
+jerkjoint 918943727  3  3 f   -     -     -        15220    0    0 
+jerkjoint 918943733  3  2 Bf  -     -     -        15220 1920    0 
+jerkjoint 918943745  3  1 Bf  -     -     -        13300  960    0 
+jerkjoint 918943762  3  3 rA  -     -     -        12340 12340 15220 
+jerkjoint 918943781  3  2 B   -     -     -        15220 1920 2880 
+jerkjoint 918943787  3  1 Bf  -     -     -        16180  960    0 
+jerkjoint 918943839  3  3 f   -     -     -        15220    0    0 
+jerkjoint 918943854  3  2 Bf  -     -     -        15220 1920    0 
+jerkjoint 918943879  2  1 Bf  -     -     -        13300  960    0 
+jerkjoint 918943885  2  2 Bf  -     -     -        12340 1920    0 
+jerkjoint 918943895  2  1 Bf  -     -     -        10420  960    0 
+jerkjoint 918943896  2  2 Bk  f     -     -         9460 1920    0 
+jerkjoint 918943920  2  1 Bf  -     -     -         7540 1920    0 
+jerkjoint 918943921  2  2 BcA -     -     -         5620 5620 11240 Ks Qc
+jerkjoint 918943931  2  1 BrA -     -     -        11240 11240 15080 
+jerkjoint 918943943  2  2 Bf  -     -     -        15080 3840    0 
+jerkjoint 918943952  2  1 Bf  -     -     -        11240 1920    0 
+jerkjoint 918943953  2  2 Bf  -     -     -         9320 3840    0 
+jerkjoint 918943971  2  1 BrA -     -     -         5480 5480 10960 3h Ks
+jerkjoint 918943983  2  2 Bk  f     -     -        10960 3840    0 
+jerkjoint 918944010  2  1 Bc  bA    -     -         7120 7120 10960 
+jerkjoint 918944022  2  2 BcA -     -     -        10960 10960 21920 9d Ad
+jerkjoint 918944033  2  1 BrA -     -     -        21920 21920 43840 Ad 3h
+jerkjoint 918944049  2  2 B   -     -     -        43840 3840 5760 
+jerkjoint 918944060  2  1 Br  -     -     -        45760 11520 15360 
+jerkjoint 918944066  2  2 Bc  -     -     -        49600 7400    0 3c Kh
+jerkjoint 918944078  2  1 BrA -     -     -        42200 42200 46040 
+jerkjoint 918944087  2  2 B   -     -     -        46040 3840 5760 
+jerkjoint 918944090  2  1 BrA -     -     -        47960 47960 38920 Kd 2d
+jerkjoint 918944095  2  2 Bc  -     -     -        38920 18080 36160 4c As
+jerkjoint 918944449 23 10 f   -     -     -        10000    0    0 
+jerkjoint 918944500 23  9 f   -     -     -        10000    0    0 
+jerkjoint 918944585 22  8 f   -     -     -        10000    0    0 
+jerkjoint 918944725 21  7 f   -     -     -        10000    0    0 
+jerkjoint 918944792 21  6 f   -     -     -        10000    0    0 
+jerkjoint 918944955 20  5 f   -     -     -        10000    0    0 
+jerkjoint 918945006 20  4 f   -     -     -        10000    0    0 
+jerkjoint 918945073 20  3 f   -     -     -        10000    0    0 
+jerkjoint 918945121 20  2 Bf  -     -     -        10000  400    0 
+jerkjoint 918945260 18  1 Bf  -     -     -         9600  200    0 
+jerkjoint 918945345 17 17 f   -     -     -         9400    0    0 
+jerkjoint 918945434 16 15 f   -     -     -         9400    0    0 
+jerkjoint 918945507 16 14 f   -     -     -         9400    0    0 
+jerkjoint 918945548 15 12 f   -     -     -         9400    0    0 
+jerkjoint 918945585 14 11 f   -     -     -         9400    0    0 
+jerkjoint 918945612 14 10 f   -     -     -         9400    0    0 
+jerkjoint 918945664 13  9 f   -     -     -         9400    0    0 
+jerkjoint 918945736 12  7 f   -     -     -         9400    0    0 
+jerkjoint 918945755 12  7 f   -     -     -         9400    0    0 
+jerkjoint 918945816 12  6 f   -     -     -         9400    0    0 
+jerkjoint 918945867 11  5 f   -     -     -         9400    0    0 
+jerkjoint 918945960 11  4 f   -     -     -         9400    0    0 
+jerkjoint 918946030 11  3 f   -     -     -         9400    0    0 
+jerkjoint 918946089 11  2 B   -     -     -         9400 3200 4800 
+jerkjoint 918946111 11  1 Bc  bA    -     -        11000 11000 31000 Ac Jc
+jerkjoint 918946155 10 10 rA  -     -     -        31000 31000 35800 
+jerkjoint 918946193 10  9 f   -     -     -        35800    0    0 
+jerkjoint 918946223  9  8 f   -     -     -        35800    0    0 
+jerkjoint 918946361  9  7 f   -     -     -        35800    0    0 
+jerkjoint 918946379  9  6 f   -     -     -        35800    0    0 
+jerkjoint 918946396  9  5 f   -     -     -        35800    0    0 
+jerkjoint 918946417  9  4 f   -     -     -        35800    0    0 
+jerkjoint 918946445  9  3 f   -     -     -        35800    0    0 
+jerkjoint 918946483  8  1 Bf  -     -     -        35800 6400    0 
+jerkjoint 918946509  8  1 Bc  kf    -     -        29400 6400    0 
+jerkjoint 918946551  8  8 f   -     -     -        23000    0    0 
+jerkjoint 918946562  8  7 f   -     -     -        23000    0    0 
+jerkjoint 918946602  7  5 f   -     -     -        23000    0    0 
+jerkjoint 918946632  7  5 f   -     -     -        23000    0    0 
+jerkjoint 918946652  7  4 f   -     -     -        23000    0    0 
+jerkjoint 918946672  7  3 f   -     -     -        23000    0    0 
+jerkjoint 918946695  6  2 B   -     -     -        23000 6400 9600 
+jerkjoint 918946718  6  1 Bf  -     -     -        26200 6400    0 
+jerkjoint 918946742  6  6 f   -     -     -        19800    0    0 
+jerkjoint 918946766  5  4 f   -     -     -        19800    0    0 
+jerkjoint 918946778  5  4 f   -     -     -        19800    0    0 
+jerkjoint 918946792  5  3 f   -     -     -        19800    0    0 
+jerkjoint 918946810  4  2 Bk  cA    -     -        19800 19800 52400 4c Ks
+jerkjoint 918946846  4  1 Bf  -     -     -        52400 6400    0 
+jerkjoint 918946856  4  4 f   -     -     -        46000    0    0 
+jerkjoint 918946894  4  3 f   -     -     -        46000    0    0 
+jerkjoint 918946918  4  2 B   -     -     -        46000 12800 19200 
+jerkjoint 918946934  4  1 Bf  -     -     -        52400 6400    0 
+jerkjoint 918946955  4  4 rA  -     -     -        46000 46000 96450 Ac Kh
+jerkjoint 918946976  3  3 rA  -     -     -        96450 96450 115650 
+jerkjoint 918946989  3  2 Bk  f     -     -       115650 12800    0 
+jerkjoint 918947005  3  1 Bf  -     -     -       102850 6400    0 
+jerkjoint 918947026  3  3 f   -     -     -        96450    0    0 
+jerkjoint 918947036  2  1 Bf  -     -     -        96450 25600    0 
+jerkjoint 918947047  2  1 Bf  -     -     -        70850 12800    0 
+jerkjoint 918947048  2  2 BcA -     -     -        58050 58050    0 8d 6h

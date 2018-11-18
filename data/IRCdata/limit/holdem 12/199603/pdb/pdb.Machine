@@ -1,0 +1,666 @@
+Machine   825728899  6  4 c   kf    -     -         1005   10    0 
+Machine   825728941  6  3 f   -     -     -          995    0    0 
+Machine   825728954  6  2 Bk  kc    kf    -          995   20    0 
+Machine   825729009  6  1 Bc  k     bc    kf         975   50    0 
+Machine   825729073  6  6 c   f     -     -          925   10    0 
+Machine   825729099  6  5 f   -     -     -          915    0    0 
+Machine   825729132  6  4 c   kc    kc    kf         915   40    0 
+Machine   825729192  7  3 cc  f     -     -          875   20    0 
+Machine   825729284  7  2 Bc  kc    kc    kf         855   70    0 
+Machine   825729333  7  1 Bf  -     -     -          785    5    0 
+Machine   825729387  7  7 f   -     -     -          780    0    0 
+Machine   825729448  6  6 c   k     k     c          780   30    0 9s 8c
+Machine   825729520  6  5 c   f     -     -          750   10    0 
+Machine   825729556  6  4 c   f     -     -          740   10    0 
+Machine   825729604  5  3 cc  kc    kf    -          730   30    0 
+Machine   825729665  4  2 Bf  -     -     -          700   10    0 
+Machine   825729681  3  1 Bf  -     -     -          690    5    0 
+Machine   825729691  3  3 cc  c     c     c          685   70  150 Tc Qh
+Machine   825729721  4  2 Bc  bc    kf    -          765   40    0 
+Machine   825729754  4  1 Bc  kf    -     -          725   10    0 
+Machine   825729783  6  4 cc  c     f     -          715   30    0 
+Machine   825729821  6  3 f   -     -     -          685    0    0 
+Machine   825729853  7  2 Bcc kcc   kf    -          685   80    0 
+Machine   825729956  7  1 Bc  kc    kf    -          605   20    0 
+Machine   825730017  8  7 f   -     -     -          585    0    0 
+Machine   825730080  7  5 c   kf    -     -          585   10    0 
+Machine   825730138  8  4 ccc kf    -     -          575   40    0 
+Machine   825730237  9  3 f   -     -     -          535    0    0 
+Machine   825730317  9  2 Bf  -     -     -          535   10    0 
+Machine   825730362  9  1 Bf  -     -     -          525    5    0 
+Machine   825730413 10 10 f   -     -     -          520    0    0 
+Machine   825730477 10  9 f   -     -     -          520    0    0 
+Machine   825730551 10  8 f   -     -     -          520    0    0 
+Machine   825730656 11  8 f   -     -     -          520    0    0 
+Machine   825730741 12  8 f   -     -     -          520    0    0 
+Machine   825730809 12  7 f   -     -     -          520    0    0 
+Machine   825730846 12  6 f   -     -     -          520    0    0 
+Machine   825730981 10  5 cc  kc    kf    -          520   30    0 
+Machine   825731082 11  3 cc  kf    -     -          490   40    0 
+Machine   825731258 12  2 Bf  -     -     -          450   10    0 
+Machine   825731337 12  1 Bc  kf    -     -          440   10    0 
+Machine   825731446 12 12 c   cc    f     -          430   40    0 
+Machine   825731624 12 11 f   -     -     -          390    0    0 
+Machine   825731704 12 11 f   -     -     -          390    0    0 
+Machine   825731797 12  9 f   -     -     -          390    0    0 
+Machine   825731926 11  8 f   -     -     -          390    0    0 
+Machine   825732014 11  6 f   -     -     -          390    0    0 
+Machine   825732116  9  4 f   -     -     -          390    0    0 
+Machine   825732240 10  4 f   -     -     -          390    0    0 
+Machine   825732360  9  2 Bk  k     f     -          390   10    0 
+Machine   825732454 10  1 Bf  -     -     -          380    5    0 
+Machine   825732585 10 10 c   f     -     -          375   10    0 
+Machine   825732687 11 10 f   -     -     -          365    0    0 
+Machine   825732792 11  9 f   -     -     -          365    0    0 
+Machine   825732889 12  9 f   -     -     -          365    0    0 
+Machine   825733007 11  7 f   -     -     -          365    0    0 
+Machine   825733167 11  6 f   -     -     -          365    0    0 
+Machine   825733464 12  5 ccc c     c     k          365   70    0 Ts Ad
+Machine   825733570 12  4 cc  c     f     -          295   30    0 
+Machine   825733711 12  3 c   kf    -     -          265   10    0 
+Machine   825733919 12  2 Bc  kf    -     -          255   30    0 
+Machine   825734110 12  1 Bf  -     -     -          225    5    0 
+Machine   825734325 12 12 c   f     -     -          220   30    0 
+Machine   825734429 12 11 f   -     -     -          190    0    0 
+Machine   825734611 12 10 f   -     -     -          190    0    0 
+Machine   825734772 12  9 f   -     -     -          190    0    0 
+Machine   825735043 12  9 f   -     -     -          190    0    0 
+Machine   825735145 11  7 ccc k     f     -          190   40    0 
+Machine   825735294 12  6 f   -     -     -          150    0    0 
+Machine   825735435 12  5 f   -     -     -          150    0    0 
+Machine   825735557 12  4 c   f     -     -          150   10    0 
+Machine   825735611 12  3 ccc k     kf    -          140   40    0 
+Machine   825735793 12  2 Bk  kc    kccA  Q          100  100    0 
+Machine   825747567  7  2 Bk  k     b     b         1000   50  105 
+Machine   825747670  9  1 Bf  -     -     -         1055    5    0 
+Machine   825747793 10 10 cc  f     -     -         1050   20    0 
+Machine   825747952 10  9 c   f     -     -         1030   20    0 
+Machine   825748060 10  8 f   -     -     -         1010    0    0 
+Machine   825748234 10  7 c   r     k     r         1010   70  340 7h Qh
+Machine   825748373 10  6 f   -     -     -         1280    0    0 
+Machine   825748590  9  4 f   -     -     -         1280    0    0 
+Machine   825748706 10  5 f   -     -     -         1280    0    0 
+Machine   825748775  9  4 cc  kc    kf    -         1280   40    0 
+Machine   825748884 10  3 cc  kf    -     -         1240   30    0 
+Machine   825749003 12  2 Bk  kc    kc    kf        1210   40    0 
+Machine   825749135 12  1 Bf  -     -     -         1170    5    0 
+Machine   825749227 11 11 ccc c     c     k         1165   80    0 Ah 5c
+Machine   825749404 10  9 f   -     -     -         1085    0    0 
+Machine   825749506 10  9 f   -     -     -         1085    0    0 
+Machine   825749597 10  8 f   -     -     -         1085    0    0 
+Machine   825749690 10  7 f   -     -     -         1085    0    0 
+Machine   825749791 11  6 c   cc    f     -         1085   40    0 
+Machine   825749944 10  4 c   c     c     k         1045   40    0 8s 8d
+Machine   825750012 10  3 Q   -     -     -         1005    0    0 
+Machine   825762175  7  2 Bf  -     -     -         1005   10    0 
+Machine   825762225  7  1 Bc  kcc   kc    kf         995   70    0 
+Machine   825762307  8  8 f   -     -     -          925    0    0 
+Machine   825762354  7  6 Q   -     -     -          925    0    0 
+Machine   825762508  7  2 Bf  -     -     -          925   10    0 
+Machine   825762527  7  1 Bf  -     -     -          915    5    0 
+Machine   825762566  7  7 f   -     -     -          910    0    0 
+Machine   825762601  7  6 f   -     -     -          910    0    0 
+Machine   825762663  7  5 f   -     -     -          910    0    0 
+Machine   825762709  7  4 f   -     -     -          910    0    0 
+Machine   825762738  7  3 f   -     -     -          910    0    0 
+Machine   825762776  7  2 Bf  -     -     -          910   10    0 
+Machine   825762817  7  1 Bcf -     -     -          900   10    0 
+Machine   825762846  7  7 cc  f     -     -          890   20    0 
+Machine   825762868  7  6 f   -     -     -          870    0    0 
+Machine   825762890  7  5 f   -     -     -          870    0    0 
+Machine   825762917  6  3 f   -     -     -          870    0    0 
+Machine   825762967  6  2 Bk  c     k     bc         870   60  140 Ts 3s
+Machine   825763020  6  1 Bf  -     -     -          950    5    0 
+Machine   825763058  5  5 cc  k     c     rrrr       945  200  460 7d 7h
+Machine   825763133  5  4 f   -     -     -         1205    0    0 
+Machine   825763164  5  3 f   -     -     -         1205    0    0 
+Machine   825763201  5  2 Bk  kc    kc    kf        1205   40    0 
+Machine   825763265  5  1 Bc  kf    -     -         1165   10    0 
+Machine   825763298  6  6 f   -     -     -         1155    0    0 
+Machine   825763339  6  5 c   k     c     f         1155   30    0 
+Machine   825763382  6  4 f   -     -     -         1125    0    0 
+Machine   825763401  6  3 cc  kc    kf    -         1125   30    0 
+Machine   825763508  6  2 Bf  -     -     -         1095   10    0 
+Machine   825763542  5  1 Bc  kf    -     -         1085   10    0 
+Machine   825763591  5  5 f   -     -     -         1075    0    0 
+Machine   825763628  5  4 f   -     -     -         1075    0    0 
+Machine   825763659  5  3 cc  kc    kc    k         1075   50    0 Qs 8s
+Machine   825763705  5  2 Bf  -     -     -         1025   10    0 
+Machine   825763723  5  1 Bcc kcc   kc    kf        1015  100    0 
+Machine   825763798  5  5 f   -     -     -          915    0    0 
+Machine   825763844  5  4 f   -     -     -          915    0    0 
+Machine   825763884  4  3 c   b     -     -          915   20   35 
+Machine   825763907  3  1 Bf  -     -     -          930   10    0 
+Machine   825763919  2  1 Bc  k     k     b          920   30   40 
+Machine   825763948  2  2 Bk  k     f     -          930   10    0 
+Machine   825763987  2  1 Bc  k     k     k          920   10    0 3s 2s
+Machine   825764052  2  2 BQ  -     -     -          910   10   15 
+Machine   825802575  9  5 f   -     -     -          915    0    0 
+Machine   825802647  9  4 c   c     f     -          915   30    0 
+Machine   825802787  8  3 f   -     -     -          885    0    0 
+Machine   825802850  7  2 Bk  kf    -     -          885   10    0 
+Machine   825802958  7  1 Bc  k     kf    -          875   20    0 
+Machine   825803014  5  5 f   -     -     -          855    0    0 
+Machine   825803100  3  3 c   k     b     -          855   30   50 
+Machine   825803152  3  2 Bf  -     -     -          875   10    0 
+Machine   825803193  3  1 BQ  -     -     -          865    5    0 
+Machine   825804436  8  3 f   -     -     -          860    0    0 
+Machine   825804481  8  2 Bc  kc    kc    k          860   50   68 As Ts
+Machine   825804558  8  1 Bf  -     -     -          878    5    0 
+Machine   825804636  8  7 c   k     c     r          873   70  270 5d Td
+Machine   825804710  8  6 f   -     -     -         1073    0    0 
+Machine   825804782 10  5 c   c     rc    f         1073  100    0 
+Machine   825804918 11  6 f   -     -     -          973    0    0 
+Machine   825805043  6  3 f   -     -     -          973    0    0 
+Machine   825805107  4  2 Bc  c     kf    -          973   30    0 
+Machine   825805150  4  1 Bf  -     -     -          943    5    0 
+Machine   825805195  4  4 fQ  -     -     -          938    0    0 
+Machine   825805260  4  4 c   f     -     -          938   10    0 
+Machine   825805301  4  3 f   -     -     -          928    0    0 
+Machine   825805323  5  2 Bc  kc    k     kc         928   60  185 Ks Kd
+Machine   825805463  6  1 Bf  -     -     -         1053    5    0 
+Machine   825805478  6  6 f   -     -     -         1048    0    0 
+Machine   825805549  6  5 cc  c     r     b         1048   90  290 Qh 2h
+Machine   825805622  7  4 f   -     -     -         1248    0    0 
+Machine   825805699  7  3 c   kc    kr    bc        1248  150    0 3h Qh
+Machine   825805817  7  3 f   -     -     -         1098    0    0 
+Machine   825805901  7  2 Bk  kc    kr    b         1098   80  185 Kh Th
+Machine   825805954  8  1 Bc  k     b     bf        1203   50    0 
+Machine   825806010  8  8 r   b     b     b         1153   70  150 
+Machine   825806078  9  8 cc  k     b     b         1233   60    0 Qc Jc
+Machine   825806175 10  8 c   k     r     b         1173   70  185 
+Machine   825806272 11  8 cc  cf    -     -         1288   30    0 
+Machine   825806417 10  6 f   -     -     -         1258    0    0 
+Machine   825806536 11  6 f   -     -     -         1258    0    0 
+Machine   825806679 11  5 f   -     -     -         1258    0    0 
+Machine   825806752 11  4 Q   -     -     -         1258    0    0 
+Machine   825806981 10  8 f   -     -     -         1258    0    0 
+Machine   825807096 11  9 f   -     -     -         1258    0    0 
+Machine   825807233 10  8 f   -     -     -         1258    0    0 
+Machine   825807336 10  7 f   -     -     -         1258    0    0 
+Machine   825807445 12  6 c   f     -     -         1258   20    0 
+Machine   825807509 12  6 f   -     -     -         1238    0    0 
+Machine   825807620 12  4 f   -     -     -         1238    0    0 
+Machine   825807720 10  2 f   -     -     -         1238    0    0 
+Machine   825807825  7  2 Bk  kf    -     -         1238   10    0 
+Machine   825807872  5  1 Bc  k     kf    -         1228   10    0 
+Machine   825807963  6  6 f   -     -     -         1218    0    0 
+Machine   825808018  6  5 c   kf    -     -         1218   10    0 
+Machine   825808081  5  4 Q   Q     -     -         1208    0    0 
+Machine   825808200  5  3 cc  kc    kf    -         1208   30    0 
+Machine   825808283  5  2 Bk  c     c     k         1178   40    0 Tc Ad
+Machine   825808344  5  1 Bf  -     -     -         1138    5    0 
+Machine   825808427  6  6 c   c     f     -         1133   30    0 
+Machine   825808485  6  5 f   -     -     -         1103    0    0 
+Machine   825808588  6  4 c   b     f     -         1103   20    0 
+Machine   825808658  6  3 f   -     -     -         1083    0    0 
+Machine   825808739  7  2 Bk  k     b     b         1083   50    0 7c 9s
+Machine   825808819  7  1 Bc  kf    -     -         1033   20    0 
+Machine   825808899  7  7 f   -     -     -         1013    0    0 
+Machine   825808960  7  6 c   k     k     b         1013   30   65 
+Machine   825809072  8  6 f   -     -     -         1048    0    0 
+Machine   825809143  8  5 f   -     -     -         1048    0    0 
+Machine   825809242  9  5 f   -     -     -         1048    0    0 
+Machine   825809323  9  4 c   kc    kc    kf        1048   40    0 
+Machine   825809424  9  3 c   b     -     -         1008   20   45 
+Machine   825809479  8  1 Bc  kf    -     -         1033   20    0 
+Machine   825809546  8  1 Bc  k     k     kf        1013   10    0 
+Machine   825809625  8  8 c   f     -     -         1003   20    0 
+Machine   825809704  9  8 f   -     -     -          983    0    0 
+Machine   825809846  9  7 f   -     -     -          983    0    0 
+Machine   825809962  9  6 f   -     -     -          983    0    0 
+Machine   825810034  9  5 f   -     -     -          983    0    0 
+Machine   825810098  9  3 c   c     f     -          983   20    0 
+Machine   825810198  8  2 Bk  k     k     k          963   10   40 7c Jh
+Machine   825810360  5  1 Bc  b     b     b          993   60  130 Kd Ad
+Machine   825810396  7  5 f   -     -     -         1063    0    0 
+Machine   825810479  8  5 cc  f     -     -         1063   20    0 
+Machine   825810589  7  3 c   b     b     f         1043   40    0 
+Machine   825810757  9  1 Bk  kf    -     -         1003   10    0 
+Machine   825810900 10  1 Bf  -     -     -          993    5    0 
+Machine   825811069 12 12 f   -     -     -          988    0    0 
+Machine   825811173 12 11 f   -     -     -          988    0    0 
+Machine   825811313 12 10 f   -     -     -          988    0    0 
+Machine   825811445 12  9 f   -     -     -          988    0    0 
+Machine   825811540 12  8 f   -     -     -          988    0    0 
+Machine   825811654 11  6 f   -     -     -          988    0    0 
+Machine   825811844  9  3 f   -     -     -          988    0    0 
+Machine   825811902 10  3 f   -     -     -          988    0    0 
+Machine   825811981 10  2 Bk  k     kf    -          988   10    0 
+Machine   825812071 10  1 Bf  -     -     -          978    5    0 
+Machine   825812231  7  7 f   -     -     -          973    0    0 
+Machine   825812316  7  6 c   k     f     -          973   10    0 
+Machine   825812390  5  3 f   -     -     -          963    0    0 
+Machine   825812456  8  3 f   -     -     -          963    0    0 
+Machine   825812500  8  2 Bk  kf    -     -          963   10    0 
+Machine   825812617  8  1 Bc  kc    kc    kf         953   50    0 
+Machine   825812676  8  8 c   c     c     f          903   50    0 
+Machine   825812774  7  7 f   -     -     -          853    0    0 
+Machine   825812854  7  5 c   f     -     -          853   20    0 
+Machine   825812913  7  5 f   -     -     -          833    0    0 
+Machine   825812984  9  4 c   kc    f     -          833   20    0 
+Machine   825813072  9  3 f   -     -     -          813    0    0 
+Machine   825813169  9  2 BQ  -     -     -          813   10    0 
+Machine   825814058  5  4 f   -     -     -          803    0    0 
+Machine   825814127  4  2 f   -     -     -          803    0    0 
+Machine   825814152  4  2 Bk  f     -     -          803   10    0 
+Machine   825814182  4  1 Bf  -     -     -          793    5    0 
+Machine   825814229  4  4 f   -     -     -          788    0    0 
+Machine   825814279  4  3 f   -     -     -          788    0    0 
+Machine   825814322  4  2 Bk  f     -     -          788   10    0 
+Machine   825814390  7  1 Bf  -     -     -          778    5    0 
+Machine   825814416  7  7 c   k     k     k          773   10   30 Qd 2d
+Machine   825814515  8  7 c   f     -     -          793   20    0 
+Machine   825814604  6  5 c   f     -     -          773   10    0 
+Machine   825814707  7  5 f   -     -     -          763    0    0 
+Machine   825814747  8  4 cc  c     kc    kr         763   90  245 
+Machine   825814874  8  2 Bf  -     -     -          918   10    0 
+Machine   825814947  9  1 Bc  k     kf    -          908   10    0 
+Machine   825815002  9  9 f   -     -     -          898    0    0 
+Machine   825815118  9  8 f   -     -     -          898    0    0 
+Machine   825815188 10  8 KQ  -     -     -          898    0    0 
+Machine   826062782  8  4 c   f     -     -          898   10    0 
+Machine   826062881  9  2 Bc  kf    -     -          888   20    0 
+Machine   826062983  9  1 Bf  -     -     -          868    5    0 
+Machine   826063083  9  9 f   -     -     -          863    0    0 
+Machine   826063170 11 10 f   -     -     -          863    0    0 
+Machine   826063232 11  9 f   -     -     -          863    0    0 
+Machine   826063378 11  7 f   -     -     -          863    0    0 
+Machine   826063454 11  6 f   -     -     -          863    0    0 
+Machine   826063524 11  5 f   -     -     -          863    0    0 
+Machine   826063606 10  3 Q   -     -     -          863    0    0 
+Machine   826063848 11 11 f   -     -     -          863    0    0 
+Machine   826063989 11 10 f   -     -     -          863    0    0 
+Machine   826064064 12 10 c   f     -     -          863   20    0 
+Machine   826064196 12  9 f   -     -     -          843    0    0 
+Machine   826064384 12  8 f   -     -     -          843    0    0 
+Machine   826064501 12  7 f   -     -     -          843    0    0 
+Machine   826064589 12  6 f   -     -     -          843    0    0 
+Machine   826064683 12  5 f   -     -     -          843    0    0 
+Machine   826064837 11  3 c   kf    -     -          843   10    0 
+Machine   826064927 12  4 f   -     -     -          833    0    0 
+Machine   826065018 10  1 Bk  k     kf    -          833   10    0 
+Machine   826065076 10  1 Bf  -     -     -          823    5    0 
+Machine   826065188 11 11 c   c     k     r          818   60  160 Td Kd
+Machine   826065335 11 10 fQ  -     -     -          918    0    0 
+Machine   826154375 10  3 f   -     -     -          918    0    0 
+Machine   826154506 10  2 Bk  k     k     rc         918   70   70 9d 4h
+Machine   826154581 10  1 Bf  -     -     -          918    5    0 
+Machine   826154662  9  9 f   -     -     -          913    0    0 
+Machine   826154723 11  8 f   -     -     -          913    0    0 
+Machine   826154825 11  6 f   -     -     -          913    0    0 
+Machine   826154912 12  6 f   -     -     -          913    0    0 
+Machine   826154997 12  5 f   -     -     -          913    0    0 
+Machine   826155117 12  4 f   -     -     -          913    0    0 
+Machine   826155246 12  3 cc  kf    -     -          913   20    0 
+Machine   826155327 12  2 BfQ -     -     -          893   10    0 
+Machine   826332932 10  8 f   -     -     -          883    0    0 
+Machine   826333103 10  7 f   -     -     -          883    0    0 
+Machine   826333246  9  5 f   -     -     -          883    0    0 
+Machine   826333313  9  4 f   -     -     -          883    0    0 
+Machine   826333418  9  3 c   bc    kc    kc         883   90    0 Ah Qh
+Machine   826333551  9  2 Bk  kf    -     -          793   10    0 
+Machine   826333718  8  1 Bf  -     -     -          783    5    0 
+Machine   826333829  8  8 f   -     -     -          778    0    0 
+Machine   826333919  8  7 f   -     -     -          778    0    0 
+Machine   826333962  8  6 f   -     -     -          778    0    0 
+Machine   826333986  7  5 f   -     -     -          778    0    0 
+Machine   826334054  6  4 c   bc    bc    kc         778   90    0 Jh Ah
+Machine   826334124  6  3 f   -     -     -          688    0    0 
+Machine   826334181  5  2 Bk  b     -     -          688   20   40 
+Machine   826334244  5  1 Bcc kf    -     -          708   20    0 
+Machine   826334308  5  5 f   -     -     -          688    0    0 
+Machine   826334396  5  4 f   -     -     -          688    0    0 
+Machine   826334467  5  3 cc  f     -     -          688   20    0 
+Machine   826334525  5  2 Bc  kf    -     -          668   20    0 
+Machine   826334585  5  1 Bc  kc    k     k          648   30  105 Ad Qs
+Machine   826334669  4  4 f   -     -     -          723    0    0 
+Machine   826334731  4  3 c   k     c     f          723   30    0 
+Machine   826334818  4  2 Bf  -     -     -          693   10    0 
+Machine   826334867  5  1 Bc  k     k     k          683   10   40 3s 3d
+Machine   826334975  6  6 c   cr    c     r          713  100  290 Ks 2s
+Machine   826335131  9  4 Q   -     -     -          903    0    0 
+Machine   826335871  9  8 f   -     -     -          903    0    0 
+Machine   826335954  9  7 c   c     c     f          903   50    0 
+Machine   826336053  9  6 c   k     k     k          853   20    0 2s 9c
+Machine   826336146 10  6 cc  f     -     -          833   20    0 
+Machine   826336196 10  5 c   kf    -     -          813   10    0 
+Machine   826336280 10  4 cc  c     cc    kf         803   70    0 
+Machine   826336390 11  4 r   k     b     b          733   70  205 Kh Jh
+Machine   826336492 11  3 f   -     -     -          868    0    0 
+Machine   826336621 11  2 Bk  kc    kc    kc         868   60   85 4c Ac
+Machine   826336737 11  1 Bc  kc    kc    kc         893  100  420 7c 8s
+Machine   826336873 11 11 f   -     -     -         1213    0    0 
+Machine   826337001  9  8 c   b     r     b         1213   80  200 5d Ad
+Machine   826337132  8  6 cc  cc    rr    b         1333  160  588 Jc 4c
+Machine   826337230  6  4 f   -     -     -         1761    0    0 
+Machine   826337389  7  4 f   -     -     -         1761    0    0 
+Machine   826337557  9  3 f   -     -     -         1761    0    0 
+Machine   826337811 10  2 Bk  k     b     -         1761   30   80 
+Machine   826337953 10  1 Bcc kf    -     -         1811   30    0 
+Machine   826338193 12 12 f   -     -     -         1781    0    0 
+Machine   826338397 11 10 cc  kc    kc    kf        1781   50    0 
+Machine   826338517 11  9 c   cc    c     f         1731   70    0 
+Machine   826338717  9  7 f   -     -     -         1661    0    0 
+Machine   826338835 11  7 c   c     c     f         1661   60    0 
+Machine   826338959 10  6 cc  k     b     bf        1601   60    0 
+Machine   826339050 11  5 c   r     k     b         1541   50  130 Th Qh
+Machine   826339280  8  4 c   f     -     -         1621   10    0 
+Machine   826339330  8  3 f   -     -     -         1611    0    0 
+Machine   826339401  9  2 Bc  kf    -     -         1611   20    0 
+Machine   826339531 10  1 Bc  b     b     b         1591   70  200 
+Machine   826339629 10 10 f   -     -     -         1721    0    0 
+Machine   826339812  9  8 cc  cc    f     -         1721   50    0 
+Machine   826339919  7  5 cc  kf    -     -         1671   20    0 
+Machine   826340045  5  3 f   -     -     -         1651    0    0 
+Machine   826340150  5  2 Bf  -     -     -         1651   10    0 
+Machine   826340213  5  1 Bf  -     -     -         1641    5    0 
+Machine   826340285  6  6 f   -     -     -         1636    0    0 
+Machine   826340375  6  5 c   f     -     -         1636   20    0 
+Machine   826340430  6  4 cc  k     f     -         1616   20    0 
+Machine   826340515  5  3 ccc kc    k     k         1596   50  105 Ac Qd
+Machine   826340632  7  2 Bk  b     k     k         1651   20   60 Ac Qs
+Machine   826340722  8  1 Bcc kcc   kc    kc        1691   90  400 Kh Qc
+Machine   826340922 10 10 f   -     -     -         2001    0    0 
+Machine   826341115 10  9 f   -     -     -         2001    0    0 
+Machine   826341364 10  8 f   -     -     -         2001    0    0 
+Machine   826341482 10  7 f   -     -     -         2001    0    0 
+Machine   826341564 12  8 c   cc    c     f         2001   50    0 
+Machine   826341739 12  7 cc  k     b     f         1951   60    0 
+Machine   826341972 12  6 r   bc    r     r         1891  130  520 Kd Ac
+Machine   826342152  9  4 c   bc    k     b         2281   50  200 8c 2c
+Machine   826342341 10  2 Bk  bc    kc    kf        2431   50    0 
+Machine   826342509 10  1 Bc  kc    kc    kf        2381   60    0 
+Machine   826342599  9  3 Q   -     -     -         2321    0    0 
+Machine   826344514  6  5 c   k     c     f         2321   30    0 
+Machine   826344581  6  4 f   -     -     -         2291    0    0 
+Machine   826344643  6  3 cc  kc    kf    -         2291   30    0 
+Machine   826344685  8  2 Bk  kc    kf    -         2261   20    0 
+Machine   826344810  7  1 Bf  -     -     -         2241    5    0 
+Machine   826344895  8  8 c   c     c     c         2236   60    0 Kd Td
+Machine   826344994  8  6 c   k     f     -         2176   10    0 
+Machine   826345065  9  6 f   -     -     -         2166    0    0 
+Machine   826345183 10  5 c   c     c     cc        2166  100    0 7h As
+Machine   826345285 10  4 f   -     -     -         2066    0    0 
+Machine   826345369 10  3 cc  k     b     b         2066   60    0 6h 5c
+Machine   826345490 11  2 Bk  kcc   k     k         2006   40    0 Tc Ts
+Machine   826345568 11  1 Bf  -     -     -         1966    5    0 
+Machine   826345640 11 11 f   -     -     -         1961    0    0 
+Machine   826345706 11 10 f   -     -     -         1961    0    0 
+Machine   826345770  8  6 f   -     -     -         1961    0    0 
+Machine   826345872  9  6 c   k     cf    -         1961   30    0 
+Machine   826345965  9  5 f   -     -     -         1931    0    0 
+Machine   826346032  9  4 c   k     k     cf        1931   30    0 
+Machine   826346160 10  5 f   -     -     -         1901    0    0 
+Machine   826346241 12  4 c   f     -     -         1901   20    0 
+Machine   826346299 12  3 c   c     k     b         1881   40  160 As Kd
+Machine   826346360 12  2 Bk  k     f     -         2001   10    0 
+Machine   826346411 12  1 Bc  kc    kf    -         1991   20    0 
+Machine   826346506 12 12 c   rr    brc   c         1971  150  615 8c 8s
+Machine   826346638 11 10 c   Q     -     -         2436   20    0 
+Machine   826346957 10  7 f   -     -     -         2416    0    0 
+Machine   826347090 11  7 f   -     -     -         2416    0    0 
+Machine   826347152 12  6 cc  c     f     -         2416   30    0 
+Machine   826347226 10  4 f   -     -     -         2386    0    0 
+Machine   826347312 10  4 c   c     kf    -         2386   20    0 
+Machine   826347367 10  3 c   k     b     -         2366   30   65 
+Machine   826347437 11  2 Bc  kQ    -     -         2401   20    0 
+Machine   826406660 12  8 c   cc    f     -         3471   50    0 
+Machine   826406767 12  7 f   -     -     -         3421    0    0 
+Machine   826406862 12  6 r   bc    b     b         3421   80    0 Kh Qc
+Machine   826406982 12  3 Q   -     -     -         3341    0    0 
+Machine   826409750 12 12 f   -     -     -         3341    0    0 
+Machine   826409843 12 11 f   -     -     -         3341    0    0 
+Machine   826409987 12 10 r   b     b     b         3341   70  265 Kh Ad
+Machine   826410203 12  9 f   -     -     -         3536    0    0 
+Machine   826410351 11  7 f   -     -     -         3536    0    0 
+Machine   826410532 12  7 f   -     -     -         3536    0    0 
+Machine   826410601 12  6 cc  kc    c     f         3536   50    0 
+Machine   826410759 12  5 f   -     -     -         3486    0    0 
+Machine   826410861 12  4 cc  kf    -     -         3486   20    0 
+Machine   826411036 12  3 cc  kcc   kf    -         3466   50    0 
+Machine   826411193 11  2 Bc  kc    kf    -         3416   30    0 
+Machine   826411285 12  1 Bf  -     -     -         3386    5    0 
+Machine   826411365 12 12 f   -     -     -         3381    0    0 
+Machine   826411532 12 11 f   -     -     -         3381    0    0 
+Machine   826411609 12 10 f   -     -     -         3381    0    0 
+Machine   826411702 12  9 f   -     -     -         3381    0    0 
+Machine   826411813 12  8 c   c     cc    kf        3381   60    0 
+Machine   826411917 12  7 c   f     -     -         3321   10    0 
+Machine   826412031 12  6 c   bc    c     k         3311   50    0 7d 5d
+Machine   826412111 12  3 Q   -     -     -         3261    0    0 
+Machine   826413855 10 10 f   -     -     -         3281    0    0 
+Machine   826413944 10  9 c   k     k     f         3281   20    0 
+Machine   826414097  9  7 f   -     -     -         3261    0    0 
+Machine   826414189  8  5 f   -     -     -         3261    0    0 
+Machine   826414245  8  4 r   -     -     -         3261   20   35 
+Machine   826414272  8  3 f   -     -     -         3276    0    0 
+Machine   826414412  9  2 Bk  kf    -     -         3276   10    0 
+Machine   826414529  9  1 BQ  -     -     -         3266    5    0 
+Machine   826414987 12  4 cc  bc    kf    -         3261   40    0 
+Machine   826415169 12  3 f   -     -     -         3221    0    0 
+Machine   826415225 12  2 Bf  -     -     -         3221   10    0 
+Machine   826415346 12  1 Bf  -     -     -         3211    5    0 
+Machine   826415630 12 12 c   QQ    -     -         3206   10    0 
+Machine   826432506 11 10 f   -     -     -         3196    0    0 
+Machine   826432617 11  9 cc  rc    bc    kc        3196  130    0 Jh Kd
+Machine   826432864 12  8 f   -     -     -         3066    0    0 
+Machine   826432980 12  7 cc  cc    f     -         3066   80    0 
+Machine   826433287 12  6 f   -     -     -         2986    0    0 
+Machine   826433418 12  6 ccc c     c     c         2986   90    0 3h Jc
+Machine   826433541 11  4 f   -     -     -         2896    0    0 
+Machine   826433640 12  3 c   kf    -     -         2896   10    0 
+Machine   826433728 12  2 Bk  kc    kc    kf        2886   60    0 
+Machine   826433897 12  1 Bcc kc    kf    -         2826   30    0 
+Machine   826434113 12 12 f   -     -     -         2796    0    0 
+Machine   826434243 12 11 cc  cc    c     f         2796   90    0 
+Machine   826434422 12 10 f   -     -     -         2706    0    0 
+Machine   826434558 12  9 c   k     k     f         2706   10    0 
+Machine   826434983 11  7 f   -     -     -         2696    0    0 
+Machine   826435106 10  4 f   -     -     -         2696    0    0 
+Machine   826435197 12  4 cc  kc    cc    c         2696   90    0 As Kc
+Machine   826435460 11  2 cc  kcc   kc    kf        2606   80    0 
+Machine   826435584 11  2 Bc  kf    -     -         2526   20    0 
+Machine   826435686 11  1 Bc  b     kc    kr        2506   80    0 8d 7c
+Machine   826435788 12  3 Q   -     -     -         2426    0    0 
+Machine   826580132  7  2 Bf  -     -     -         2426   10    0 
+Machine   826580180  8  1 Bc  k     kf    -         2416   10    0 
+Machine   826580301 10 10 f   -     -     -         2406    0    0 
+Machine   826580491 11 10 cc  c     f     -         2406   40    0 
+Machine   826580768 10  9 f   -     -     -         2366    0    0 
+Machine   826580816  7  6 f   -     -     -         2366    0    0 
+Machine   826580849  8  6 f   -     -     -         2366    0    0 
+Machine   826580933  9  5 f   -     -     -         2366    0    0 
+Machine   826581029  8  3 c   kc    k     kf        2366   20    0 
+Machine   826581214  8  2 Bc  kc    kc    kc        2346   70    0 Ac 4c
+Machine   826581291  9  1 Br  kc    kc    kc        2276   70    0 Kd Kc
+Machine   826581560  8  6 Q   -     -     -         2206    0    0 
+Machine   826581679  7  6 c   c     c     f         2206   50    0 
+Machine   826581772  7  4 c   c     c     f         2156   40    0 
+Machine   826581873  8  4 f   -     -     -         2116    0    0 
+Machine   826582023  9  3 f   -     -     -         2116    0    0 
+Machine   826582082  9  2 Bf  -     -     -         2116   10    0 
+Machine   826582167  9  1 Bc  b     b     bf        2106   60    0 
+Machine   826582264  9  9 c   k     f     -         2046   10    0 
+Machine   826582328  8  7 f   -     -     -         2036    0    0 
+Machine   826582415  8  6 f   -     -     -         2036    0    0 
+Machine   826582538  8  5 f   -     -     -         2036    0    0 
+Machine   826582592  8  5 QQ  -     -     -         2036    0    0 
+Machine   826762810  7  3 f   -     -     -         2036    0    0 
+Machine   826762919  8  2 Bk  kf    -     -         2036   10    0 
+Machine   826762977  8  1 Bc  kf    -     -         2026   10    0 
+Machine   826763047  7  7 c   f     -     -         2016   10    0 
+Machine   826763112  7  6 f   -     -     -         2006    0    0 
+Machine   826763182  7  5 f   -     -     -         2006    0    0 
+Machine   826763247  6  3 c   f     -     -         2006   10    0 
+Machine   826763300  6  2 Bk  k     b     b         1996   50  100 
+Machine   826763364  6  1 Bf  -     -     -         2046    5    0 
+Machine   826763392  6  6 c   c     b     -         2041   40  110 
+Machine   826763547  5  4 f   -     -     -         2111    0    0 
+Machine   826763595  5  3 c   cc    f     -         2111   40    0 
+Machine   826763667  5  2 Bk  kf    -     -         2071   10    0 
+Machine   826763800  6  1 Bf  -     -     -         2061    5    0 
+Machine   826763866  5  5 f   -     -     -         2056    0    0 
+Machine   826763959  5  4 f   -     -     -         2056    0    0 
+Machine   826764044  5  3 c   kc    kr    b         2056   80  240 Ts Qs
+Machine   826764141  5  2 Bk  k     b     k         2216   30    0 4d 7d
+Machine   826764244  5  1 Bcc kc    kc    k         2186   60  240 Ad 4d
+Machine   826764474  5  5 f   -     -     -         2366    0    0 
+Machine   826764599  5  4 f   -     -     -         2366    0    0 
+Machine   826764631  5  3 f   -     -     -         2366    0    0 
+Machine   826764662  6  3 cc  kQ    -     -         2366   20    0 
+Machine   826766013  5  5 c   k     f     -         2346   10    0 
+Machine   826766065  5  4 f   -     -     -         2336    0    0 
+Machine   826766119  4  3 f   -     -     -         2336    0    0 
+Machine   826766201  4  2 BQ  -     -     -         2336   10    0 
+Machine   826772843  6  6 f   -     -     -         2326    0    0 
+Machine   826772884  7  6 f   -     -     -         2326    0    0 
+Machine   826772966  7  5 f   -     -     -         2326    0    0 
+Machine   826773068  7  4 f   -     -     -         2326    0    0 
+Machine   826773142  9  3 f   -     -     -         2326    0    0 
+Machine   826773215  9  2 Bk  k     k     kf        2326   10    0 
+Machine   826773362 10  1 Bf  -     -     -         2316    5    0 
+Machine   826773462 12 12 r   r     r     b         2311  100  335 Kh Kd
+Machine   826773625 12 11 f   -     -     -         2546    0    0 
+Machine   826773760 12 10 f   -     -     -         2546    0    0 
+Machine   826773877 12  9 Q   -     -     -         2546    0    0 
+Machine   826775072  8  4 f   -     -     -         2696    0    0 
+Machine   826775127  9  3 rr  b     bc    kc        2696  110    0 Kd Kc
+Machine   826775188  9  2 Bf  -     -     -         2586   10    0 
+Machine   826775260  9  1 Bc  kf    -     -         2576   10    0 
+Machine   826775304 10 10 c   r     -     -         2566   40  115 
+Machine   826775358 11 10 f   -     -     -         2641    0    0 
+Machine   826775395 11  9 c   f     -     -         2641   10    0 
+Machine   826775448 12  9 f   -     -     -         2631    0    0 
+Machine   826775511 12  9 f   -     -     -         2631    0    0 
+Machine   826775572 10  7 f   -     -     -         2631    0    0 
+Machine   826775629 12  6 f   -     -     -         2631    0    0 
+Machine   826775703 12  5 f   -     -     -         2631    0    0 
+Machine   826775794 12  4 f   -     -     -         2631    0    0 
+Machine   826775851 11  3 f   -     -     -         2631    0    0 
+Machine   826775886 11  2 Bf  -     -     -         2631   10    0 
+Machine   826775989 11  1 Bf  -     -     -         2621    5    0 
+Machine   826776089 11 11 cc  c     c     c         2616   90  390 Kd Tc
+Machine   826776209 10  8 c   c     k     f         2916   30    0 
+Machine   826776328 10  9 c   c     c     f         2886   40    0 
+Machine   826776421  8  7 c   b     b     b         2846   60  110 Ac 9c
+Machine   826776510  7  5 c   b     b     b         2896   60    0 As 9h
+Machine   826776594  7  3 Q   -     -     -         2836    0    0 
+Machine   826837578 12  2 BQ  -     -     -         2496   10    0 
+Machine   826837813 12 11 r   b     -     -         2486   30   90 
+Machine   826837932 11  9 c   c     k     f         2546   30    0 
+Machine   826838084 12  8 cc  cc    kc    kf        2516   80    0 
+Machine   826838188 12  7 f   -     -     -         2436    0    0 
+Machine   826838319 12  7 cc  c     f     -         2436   40    0 
+Machine   826838418 10  4 c   f     -     -         2396   10    0 
+Machine   826838494 10  3 f   -     -     -         2386    0    0 
+Machine   826838543 10  2 Bk  b     b     k         2386   40  150 Jd 7h
+Machine   826838633 11  1 Bc  kf    -     -         2496   10    0 
+Machine   826838851 11 11 f   -     -     -         2486    0    0 
+Machine   826838922 11 10 f   -     -     -         2486    0    0 
+Machine   826838978 11  9 f   -     -     -         2486    0    0 
+Machine   826839153 11  9 f   -     -     -         2486    0    0 
+Machine   826839230  9  7 f   -     -     -         2486    0    0 
+Machine   826839393  9  6 f   -     -     -         2486    0    0 
+Machine   826839465  9  5 f   -     -     -         2486    0    0 
+Machine   826839554  9  4 cc  c     c     c         2486   70  220 Jd Jh
+Machine   826839674  8  3 f   -     -     -         2636    0    0 
+Machine   826839740  9  2 Bk  b     b     b         2636   60  160 9s 5s
+Machine   826839812  9  1 Bc  k     kf    -         2736   10    0 
+Machine   826840018  8  8 c   c     c     f         2726   40    0 
+Machine   826840070  9  7 f   -     -     -         2686    0    0 
+Machine   826840161 10  7 c   k     b     b         2686   50  125 
+Machine   826840424  9  7 f   -     -     -         2761    0    0 
+Machine   826840487 10  6 f   -     -     -         2761    0    0 
+Machine   826840631 11  5 f   -     Q     -         2761    0    0 
+Machine   826968617  5  3 f   -     -     -         2761    0    0 
+Machine   826968663  5  2 Bf  -     -     -         2761   10    0 
+Machine   826968705  5  1 Bc  b     b     b         2751   60    0 6d 4d
+Machine   826968772  5  5 c   k     k     f         2691   10    0 
+Machine   826968828  5  4 c   b     b     b         2681   60    0 6h 2h
+Machine   826968887  6  3 f   -     -     -         2621    0    0 
+Machine   826968961  7  2 BQ  -     -     -         2621   10    0 
+Machine   826969278  5  3 f   -     -     -         2611    0    0 
+Machine   826969311  5  3 c   k     k     k         2611   10    0 2d 2h
+Machine   826969356  4  2 Bk  kf    -     -         2601   10    0 
+Machine   826969420  4  1 Bf  -     -     -         2591    5    0 
+Machine   826969430  4  4 r   b     k     k         2586   30   35 Qh Jc
+Machine   826969472  4  3 c   k     b     k         2591   30  100 Ah Qd
+Machine   826969518  4  2 Bk  k     k     k         2661   10    0 9s Ks
+Machine   826969558  4  1 Bc  b     b     -         2651   40   60 
+Machine   826969592  4  4 r   k     c     rc        2671  100  270 Js Jd
+Machine   826969650  4  3 cr  c     c     kf        2841   60    0 
+Machine   826969761  4  2 Bc  k     b     b         2781   60    0 Ks Jd
+Machine   826969816  4  1 Bf  -     -     -         2721    5    0 
+Machine   826969888  4  4 f   -     -     -         2716    0    0 
+Machine   826969965  4  3 c   kf    -     -         2716   10    0 
+Machine   826970009  4  2 Bk  k     kf    -         2706   10    0 
+Machine   826970073  4  1 Bc  kf    -     -         2696   10    0 
+Machine   826970089  3  3 f   -     -     -         2686    0    0 
+Machine   826970111  3  3 Q   -     -     -         2686    0    0 
+Machine   827187854  6  3 f   -     -     -         2686    0    0 
+Machine   827187918  8  2 Bf  -     -     -         2686   10    0 
+Machine   827187954  8  1 Bc  kQ    -     -         2676   10    0 
+Machine   827188209  7  5 Q   -     -     -         2666    0    0 
+Machine   827188427  7  2 Bk  kf    -     -         2666   10    0 
+Machine   827188532  6  1 Bf  -     -     -         2656    5    0 
+Machine   827188599  7  7 f   -     -     -         2651    0    0 
+Machine   827188681  9  8 f   -     -     -         2651    0    0 
+Machine   827188737  9  7 f   -     -     -         2651    0    0 
+Machine   827188938  9  8 f   -     -     -         2651    0    0 
+Machine   827189027  8  6 f   -     -     -         2651    0    0 
+Machine   827189052  7  5 f   -     -     -         2651    0    0 
+Machine   827189074  7  4 Q   -     -     -         2651    0    0 
+Machine   827189562  8  5 f   -     -     -         2591    0    0 
+Machine   827189579  8  4 f   -     -     -         2591    0    0 
+Machine   827189686  8  3 cc  brc   c     r         2591  130  360 
+Machine   827189827  7  2 Br  bf    -     -         2821   50    0 
+Machine   827189937  9  1 Bf  -     -     -         2771    5    0 
+Machine   827190038  9  9 f   -     -     -         2766    0    0 
+Machine   827190155  8  7 c   Q     -     -         2766   10    0 
+Machine   827190372  8  4 f   -     -     -         2756    0    0 
+Machine   827190446  8  3 r   b     b     b         2756   70  175 Ah Jc
+Machine   827190513  9  2 Bk  b     b     k         2861   40   80 5c Jh
+Machine   827190585  7  1 Bc  kQ    -     -         2901   10    0 
+Machine   827191001  8  6 Q   -     -     -         2891    0    0 
+Machine   827191388  9  4 f   -     -     -         2891    0    0 
+Machine   827191468  9  3 f   -     -     -         2891    0    0 
+Machine   827191544  9  2 Bk  bc    k     b         2891   50  160 Td Jd
+Machine   827191630  8  1 Bf  -     -     -         3001    5    0 
+Machine   827191693  6  6 c   r     k     k         2996   40    0 Ah Jh
+Machine   827191739  6  5 Q   -     -     -         2956    0    0 
+Machine   827196552 11 10 c   f     -     -         2956   20    0 
+Machine   827196667 11  9 f   -     -     -         2936    0    0 
+Machine   827196764 11  9 c   r     f     -         2936   30    0 
+Machine   827196941 11  7 c   f     -     -         2906   10    0 
+Machine   827197091  9  5 f   -     -     -         2896    0    0 
+Machine   827197228  9  5 f   -     -     -         2896    0    0 
+Machine   827197379  8  3 cr  rc    f     -         2896   70    0 
+Machine   827197499  9  3 f   -     -     -         2826    0    0 
+Machine   827197557  9  2 Bk  kf    -     -         2826   10    0 
+Machine   827197631  9  1 Bc  bKQ   -     -         2816   20    0 
+Machine   827393414 11  4 fQ  -     -     -         2796    0    0 
+Machine   827435299 12  3 f   -     -     -         2796    0    0 
+Machine   827435479 11  2 Bf  -     -     -         2796   10    0 
+Machine   827435531 12  1 Bf  -     -     -         2786    5    0 
+Machine   827435602 11 11 c   cc    Q     -         2781   30    0 
+Machine   827623968  7  3 f   -     -     -         2541    0    0 
+Machine   827624091  6  2 Bk  k     b     b         2541   50  150 7h 7c
+Machine   827624164  6  1 Bf  -     -     -         2641    5    0 
+Machine   827624236  6  5 f   -     -     -         2636    0    0 
+Machine   827624279  6  5 f   -     -     -         2636    0    0 
+Machine   827624324  7  4 f   -     -     -         2636    0    0 
+Machine   827624415  7  3 f   -     -     -         2636    0    0 
+Machine   827624472  8  2 Bf  -     -     -         2636   10    0 
+Machine   827624622  9  1 Bf  -     -     -         2626    5    0 
+Machine   827624695  9  9 f   -     -     -         2621    0    0 
+Machine   827624757  8  7 r   b     -     -         2621   30  105 
+Machine   827624839 10  7 f   -     -     -         2696    0    0 
+Machine   827624941  9  5 c   br    b     f         2696   60    0 
+Machine   827625053  8  4 f   -     -     -         2636    0    0 
+Machine   827625116  9  4 f   -     -     -         2636    0    0 
+Machine   827625212  9  4 Q   -     -     -         2636    0    0 
+Machine   828149931 11  4 f   -     -     -         2026    0    0 
+Machine   828150013 12  3 f   -     -     -         2026    0    0 
+Machine   828150132  8  1 BQ  -     -     -         2026   10    0 
+Machine   828161034 12  9 Q   -     -     -         1836    0    0 

@@ -1,0 +1,134 @@
+maxspeed  830999621 10 10 f   -     -     -        10000    0    0 
+maxspeed  830999753 10  9 f   -     -     -        10000    0    0 
+maxspeed  830999803 10  8 c   f     -     -        10000   50    0 
+maxspeed  830999843 10  7 f   -     -     -         9950    0    0 
+maxspeed  830999906 10  6 f   -     -     -         9950    0    0 
+maxspeed  831000011 10  5 f   -     -     -         9950    0    0 
+maxspeed  831000131  8  4 f   -     -     -         9950    0    0 
+maxspeed  831000223  8  3 c   kf    -     -         9950  100    0 
+maxspeed  831000266  8  2 Bc  kc    kf    -         9850  700    0 
+maxspeed  831000325  8  1 Bc  kf    -     -         9150  200    0 
+maxspeed  831000388  7  7 f   -     -     -         8950    0    0 
+maxspeed  831000428  7  6 c   f     -     -         8950  200    0 
+maxspeed  831000504  7  5 f   -     -     -         8750    0    0 
+maxspeed  831000537  7  4 f   -     -     -         8750    0    0 
+maxspeed  831000581  7  3 c   r     b     bA        8750 8750 17900 Td Qc
+maxspeed  831000685  7  2 Bk  kf    -     -        17900  400    0 
+maxspeed  831000781  7  1 Bf  -     -     -        17500  200    0 
+maxspeed  831000858  7  7 f   -     -     -        17300    0    0 
+maxspeed  831000890  7  6 f   -     -     -        17300    0    0 
+maxspeed  831000925  7  5 c   f     -     -        17300 1900    0 
+maxspeed  831001007  6  4 r   f     -     -        15400 3800    0 
+maxspeed  831001072  5  3 f   -     -     -        11600    0    0 
+maxspeed  831001088  5  2 Bk  k     b     -        11600 3800 5400 
+maxspeed  831001142  5  1 Br  bcA   -     -        13200 13200    0 Jc Jh
+maxspeed  831013201  8  4 f   -     -     -        10000    0    0 
+maxspeed  831013292  7  3 f   -     -     -        10000    0    0 
+maxspeed  831013353  7  2 Bk  kf    -     -        10000   50    0 
+maxspeed  831013425  7  1 Bf  -     -     -         9950   25    0 
+maxspeed  831013486  7  7 f   -     -     -         9925    0    0 
+maxspeed  831013532  7  6 f   -     -     -         9925    0    0 
+maxspeed  831013606  7  5 f   -     -     -         9925    0    0 
+maxspeed  831013637  7  4 f   -     -     -         9925    0    0 
+maxspeed  831013668  7  3 f   -     -     -         9925    0    0 
+maxspeed  831013747  7  2 Bk  kf    -     -         9925  100    0 
+maxspeed  831013780  7  1 Bf  -     -     -         9825   50    0 
+maxspeed  831013819  6  6 c   k     b     -         9775  400  600 
+maxspeed  831013899  6  6 r   f     -     -         9975  700    0 
+maxspeed  831013928  6  5 f   -     -     -         9275    0    0 
+maxspeed  831014007  6  4 f   -     -     -         9275    0    0 
+maxspeed  831014066  6  3 c   f     -     -         9275  200    0 
+maxspeed  831014107  6  2 Bc  k     kc    kcA       9075 9075 10975 6d Ks
+maxspeed  831014177  6  1 Bf  -     -     -        10975  100    0 
+maxspeed  831014219  6  6 c   b     k     k        10875 2400 5400 5c Ac
+maxspeed  831014258  6  5 f   -     -     -        13875    0    0 
+maxspeed  831014284  6  4 f   -     -     -        13875    0    0 
+maxspeed  831014304  6  3 c   k     f     -        13875  400    0 
+maxspeed  831014334  6  2 Bf  -     -     -        13475  400    0 
+maxspeed  831014356  6  1 Bc  k     kf    -        13075 1800    0 
+maxspeed  831014390  6  6 c   f     -     -        11275 1400    0 
+maxspeed  831014417  6  5 c   k     f     -         9875  400    0 
+maxspeed  831014469  6  4 c   bcA   -     -         9475 9475    0 Jh Qh
+maxspeed  831093223 10  1 Bc  kf    -     -         1000   10    0 
+maxspeed  831093331 10 10 f   -     -     -          990    0    0 
+maxspeed  831093386 10  9 c   f     -     -          990   10    0 
+maxspeed  831093502 10  8 f   -     -     -          980    0    0 
+maxspeed  831093574 10  7 f   -     -     -          980    0    0 
+maxspeed  831093624 10  6 f   -     -     -          980    0    0 
+maxspeed  831093684 10  5 f   -     -     -          980    0    0 
+maxspeed  831093729 10  4 f   -     -     -          980    0    0 
+maxspeed  831093788  9  2 cf  -     -     -          980   20    0 
+maxspeed  831093874  9  2 Bc  kf    -     -          960   40    0 
+maxspeed  831093900  9  1 Bf  -     -     -          920   20    0 
+maxspeed  831093949  9  9 f   -     -     -          900    0    0 
+maxspeed  831094003  9  8 f   -     -     -          900    0    0 
+maxspeed  831094028  9  7 f   -     -     -          900    0    0 
+maxspeed  831094107  8  5 f   -     -     -          900    0    0 
+maxspeed  831094175  7  4 f   -     -     -          900    0    0 
+maxspeed  831094213  6  3 c   b     -     -          900  180  340 
+maxspeed  831094250  6  2 Bf  -     -     -         1060   80    0 
+maxspeed  831094279  6  1 Bf  -     -     -          980   40    0 
+maxspeed  831094305  6  6 f   -     -     -          940    0    0 
+maxspeed  831094364  6  5 c   b     -     -          940  180  540 
+maxspeed  831094414  6  4 c   b     b     -         1300 1180 1440 
+maxspeed  831094482  6  3 cc  b     bA    -         1560 1560    0 9d Jd
+maxspeed  831095432 23 23 f   -     -     -         1500    0    0 
+maxspeed  831095616 22 21 f   -     -     -         1500    0    0 
+maxspeed  831095701 21 19 f   -     -     -         1500    0    0 
+maxspeed  831095818 21 18 f   -     -     -         1500    0    0 
+maxspeed  831095923 21 17 f   -     -     -         1500    0    0 
+maxspeed  831096007 20 15 f   -     -     -         1500    0    0 
+maxspeed  831096206 20 14 f   -     -     -         1500    0    0 
+maxspeed  831096302 20 13 f   -     -     -         1500    0    0 
+maxspeed  831096459 18 11 f   -     -     -         1500    0    0 
+maxspeed  831096556 18 10 f   -     -     -         1500    0    0 
+maxspeed  831096649 18  9 f   -     -     -         1500    0    0 
+maxspeed  831096695 18  8 f   -     -     -         1500    0    0 
+maxspeed  831096795 18  7 fQ  -     -     -         1500    0    0 
+maxspeed  831264120  8  7 f   -     -     -         3000    0    0 
+maxspeed  831264301  7  5 f   -     -     -         3000    0    0 
+maxspeed  831264396  7  5 f   -     -     -         3000    0    0 
+maxspeed  831264451  7  4 f   -     -     -         3000    0    0 
+maxspeed  831264523  7  3 f   -     -     -         3000    0    0 
+maxspeed  831264587  7  2 Bf  -     -     -         3000   40    0 
+maxspeed  831264699  7  1 Bf  -     -     -         2960   20    0 
+maxspeed  831264711  7  7 f   -     -     -         2940    0    0 
+maxspeed  831264760  7  6 f   -     -     -         2940    0    0 
+maxspeed  831264828  7  5 f   -     -     -         2940    0    0 
+maxspeed  831264922  7  4 cc  b     -     -         2940 1960 3850 As Th
+maxspeed  831264998  6  3 f   -     -     -         4830    0    0 
+maxspeed  831265051  6  2 Bk  bc    krA   -         4830 4830    0 4d Ad
+maxspeed  831266603  8  2 Bk  kf    -     -         3000   20    0 
+maxspeed  831266643  8  1 Bf  -     -     -         2980   10    0 
+maxspeed  831266669  8  8 f   -     -     -         2970    0    0 
+maxspeed  831266714  8  7 f   -     -     -         2970    0    0 
+maxspeed  831266760  8  6 c   c     c     f         2970  695    0 
+maxspeed  831266823  8  5 c   b     b     b         2275  620  760 
+maxspeed  831266898  8  4 c   c     f     -         2415  200    0 
+maxspeed  831266939  8  3 f   -     -     -         2215    0    0 
+maxspeed  831266979  8  2 Bf  -     -     -         2215   40    0 
+maxspeed  831267068  8  1 Bc  k     b     b         2175  590  760 
+maxspeed  831267135  8  8 c   b     -     -         2345   90  190 
+maxspeed  831267166  8  7 f   -     -     -         2445    0    0 
+maxspeed  831267229  8  6 c   k     b     b         2445  660 1020 
+maxspeed  831267322  8  5 c   k     b     b         2805 1080 2320 Jc Qh
+maxspeed  831267408  8  4 f   -     -     -         4045    0    0 
+maxspeed  831267491  7  2 Bk  k     k     f         4045  160    0 
+maxspeed  831267590  7  1 Bf  -     -     -         3885   80    0 
+maxspeed  831267670  7  7 f   -     -     -         3805    0    0 
+maxspeed  831267712  7  6 f   -     -     -         3805    0    0 
+maxspeed  831267870  7  5 f   -     -     -         3805    0    0 
+maxspeed  831267952  7  4 f   -     -     -         3805    0    0 
+maxspeed  831268035  7  3 f   -     -     -         3805    0    0 
+maxspeed  831268083  7  2 Bk  k     b     b         3805 2280 3880 
+maxspeed  831268184  7  1 Bc  b     -     -         5405 1280  335 Td 7c
+maxspeed  831268242  7  7 f   -     -     -         4460    0    0 
+maxspeed  831268380  6  5 c   -     -     -         4460 1280  445 9c 8c
+maxspeed  831268409  6  4 f   -     -     -         3625    0    0 
+maxspeed  831268451  5  3 f   -     -     -         3625    0    0 
+maxspeed  831268472  5  2 Bk  b     cA    -         3625 3625 7250 Qh Kh
+maxspeed  831268540  5  1 Bf  -     -     -         7250 1280    0 
+maxspeed  831268563  5  5 c   b     -     -         5970 5120 11020 Ad 2s
+maxspeed  831268624  4  3 f   -     -     -        11870    0    0 
+maxspeed  831268638  4  3 cc  rA    -     -        11870 11870 2705 6c Ac
+maxspeed  831268715  4  2 BrA -     -     -         2705 2705    0 3c 3h

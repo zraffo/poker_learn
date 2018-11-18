@@ -1,0 +1,437 @@
+MetroPam  899341753 16  7 f   -     -     -         2500    0    0 
+MetroPam  899341772 16  6 f   -     -     -         2500    0    0 
+MetroPam  899341793 16  5 f   -     -     -         2500    0    0 
+MetroPam  899341831 16  4 f   -     -     -         2500    0    0 
+MetroPam  899341872 15  2 Bc  kf    -     -         2500   90    0 
+MetroPam  899341917 15  1 Bc  kf    -     -         2410   70    0 
+MetroPam  899341951 15 15 f   -     -     -         2340    0    0 
+MetroPam  899341990 15 14 c   f     -     -         2340   20    0 
+MetroPam  899342056 15 13 c   k     f     -         2320  220    0 
+MetroPam  899342149 15 12 c   k     k     b         2100  220  360 Kd Ts
+MetroPam  899342214 14 10 c   f     -     -         2240   40    0 
+MetroPam  899342351 14  9 cc  kf    -     -         2200  600    0 
+MetroPam  899342411 14  8 r   bcA   -     -         1600 1600    0 Ad 5s
+MetroPam  899470119  9  3 f   -     -     -         5000    0    0 
+MetroPam  899470182  9  2 Bk  kc    kc    kf        5000  680    0 
+MetroPam  899470243  9  1 Bc  k     k     k         4320   40  200 Ac 5h
+MetroPam  899470307  9  9 c   b     f     -         4480  240    0 
+MetroPam  899470417  8  7 c   f     -     -         4240   40    0 
+MetroPam  899470523  7  6 c   k     k     k         4200   80    0 Qc 7c
+MetroPam  899470590  7  5 f   -     -     -         4120    0    0 
+MetroPam  899470617  7  4 c   kf    -     -         4120   80    0 
+MetroPam  899470643  7  3 f   -     -     -         4040    0    0 
+MetroPam  899470704  7  2 Bk  f     -     -         4040   80    0 
+MetroPam  899470770  7  1 Bcf -     -     -         3960   80    0 
+MetroPam  899470832  6  6 c   k     k     k         3880  160    0 6d Qd
+MetroPam  899470888  6  6 f   -     -     -         3720    0    0 
+MetroPam  899470913  6  5 f   -     -     -         3720    0    0 
+MetroPam  899470921  6  4 c   k     k     k         3720  160  480 Qd Qc
+MetroPam  899470959  6  3 c   k     f     -         4040  160    0 
+MetroPam  899471004  6  2 Bc  b     -     -         3880 1440 1920 
+MetroPam  899471029  6  1 Bc  kc    kf    -         4360  480    0 
+MetroPam  899471066  6  6 f   -     -     -         3880    0    0 
+MetroPam  899471119  6  5 f   -     -     -         3880    0    0 
+MetroPam  899471140  6  4 f   -     -     -         3880    0    0 
+MetroPam  899471153  6  3 f   -     -     -         3880    0    0 
+MetroPam  899471169  6  2 Bk  kf    -     -         3880  320    0 
+MetroPam  899471196  6  1 Bf  -     -     -         3560  160    0 
+MetroPam  899471207  6  6 c   cA    -     -         3400 3400    0 Ah Qh
+MetroPam  899870189 15 11 f   -     -     -         2000    0    0 
+MetroPam  899870290 15 10 f   -     -     -         2000    0    0 
+MetroPam  899870361 14  8 c   c     f     -         2000   70    0 
+MetroPam  899870435 14  7 cc  kc    kf    -         1930  550    0 
+MetroPam  899870490 14  6 f   -     -     -         1380    0    0 
+MetroPam  899870544 13  4 c   kf    -     -         1380   20    0 
+MetroPam  899870648 13  3 cc  k     k     k         1360  130    0 9d 8d
+MetroPam  899870733 13  2 Bc  kf    -     -         1230  110    0 
+MetroPam  899870794 13  1 Bc  kf    -     -         1120   40    0 
+MetroPam  899870828 13 13 f   -     -     -         1080    0    0 
+MetroPam  899870861 13 12 c   b     kf    -         1080  320    0 
+MetroPam  899870936 13 11 c   kc    k     k          760  190  750 Kc 9h
+MetroPam  899871018 13 10 c   k     k     rA        1320 1320 2135 Kh 4s
+MetroPam  899871073 12  8 r   b     k     k         2135 1200    0 5c 5d
+MetroPam  899871156 12  7 f   -     -     -          935    0    0 
+MetroPam  899871217 12  6 c   kf    -     -          935   80    0 
+MetroPam  899871265 12  5 f   -     -     -          855    0    0 
+MetroPam  899871298 11  4 c   f     -     -          855   80    0 
+MetroPam  899871332 11  3 cf  -     -     -          775   80    0 
+MetroPam  899871396 11  2 Bc  kcA   -     -          695  695    0 Ah 4h
+MetroPam  900115871  8  4 c   c     c     f         3000  555    0 
+MetroPam  900115915  8  3 f   -     -     -         2445    0    0 
+MetroPam  900115926  8  2 Bk  k     kc    kc        2445  330    0 6h Ac
+MetroPam  900115965  8  1 Bf  -     -     -         2115   15    0 
+MetroPam  900115978  8  8 f   -     -     -         2100    0    0 
+MetroPam  900116020  8  7 f   -     -     -         2100    0    0 
+MetroPam  900116069  8  6 c   k     f     -         2100   30    0 
+MetroPam  900116097  8  5 f   -     -     -         2070    0    0 
+MetroPam  900116131  8  4 f   -     -     -         2070    0    0 
+MetroPam  900116174  7  3 c   f     -     -         2070   60    0 
+MetroPam  900116200  7  2 Bf  -     -     -         2010   60    0 
+MetroPam  900116223  7  1 Bc  kf    -     -         1950   60    0 
+MetroPam  900116241  7  7 c   cf    -     -         1890  870    0 
+MetroPam  900116280  6  5 r   b     -     -         1020  690  960 
+MetroPam  900116308  6  4 f   -     -     -         1290    0    0 
+MetroPam  900116328  6  3 f   -     -     -         1290    0    0 
+MetroPam  900116333  6  2 Bk  kf    -     -         1290   60    0 
+MetroPam  900116357  6  1 Bc  kc    kc    k         1230  780 1620 Ks 5d
+MetroPam  900116396  6  6 f   -     -     -         2070    0    0 
+MetroPam  900116419  6  5 f   -     -     -         2070    0    0 
+MetroPam  900116432  6  4 c   f     -     -         2070   60    0 
+MetroPam  900116467  6  3 f   -     -     -         2010    0    0 
+MetroPam  900116480  6  2 B   -     -     -         2010  120  180 
+MetroPam  900116484  6  1 Bf  -     -     -         2070   60    0 
+MetroPam  900116506  6  6 f   -     -     -         2010    0    0 
+MetroPam  900116536  6  5 c   kc    kf    -         2010  600    0 
+MetroPam  900116577  6  4 f   -     -     -         1410    0    0 
+MetroPam  900116593  6  3 f   -     -     -         1410    0    0 
+MetroPam  900116609  6  2 Bf  -     -     -         1410  120    0 
+MetroPam  900116627  6  1 Bf  -     -     -         1290   60    0 
+MetroPam  900116656  5  5 f   -     -     -         1230    0    0 
+MetroPam  900116690  5  4 c   k     f     -         1230  120    0 
+MetroPam  900116722  5  3 c   b     -     -         1110  420  600 
+MetroPam  900116739  5  2 B   -     -     -         1290  120  180 
+MetroPam  900116745  5  1 Br  bA    -     -         1350 1350 2820 2c 2s
+MetroPam  900116757  5  5 c   k     k     k         2820  120  360 Js Kc
+MetroPam  900116793  5  4 f   -     -     -         3060    0    0 
+MetroPam  900116815  5  3 f   -     -     -         3060    0    0 
+MetroPam  900116818  5  2 Bf  -     -     -         3060  240    0 
+MetroPam  900116826  5  1 Bf  -     -     -         2820  120    0 
+MetroPam  900116848  5  5 cc  f     -     -         2700  960    0 
+MetroPam  900116871  5  4 f   -     -     -         1740    0    0 
+MetroPam  900116888  4  3 f   -     -     -         1740    0    0 
+MetroPam  900116898  4  2 Bc  kcA   -     -         1740 1740    0 9c Kc
+MetroPam  900614482  6  5 f   -     -     -         5000    0    0 
+MetroPam  900614555  6  4 f   -     -     -         5000    0    0 
+MetroPam  900614585  6  3 f   -     -     -         5000    0    0 
+MetroPam  900614615  6  2 Bf  -     -     -         5000   20    0 
+MetroPam  900614630  6  1 Bf  -     -     -         4980   10    0 
+MetroPam  900614659  6  6 f   -     -     -         4970    0    0 
+MetroPam  900614681  6  5 f   -     -     -         4970    0    0 
+MetroPam  900614717  6  4 f   -     -     -         4970    0    0 
+MetroPam  900614796  6  3 f   -     -     -         4970    0    0 
+MetroPam  900614819  6  2 Bf  -     -     -         4970   20    0 
+MetroPam  900614857  6  1 Bf  -     -     -         4950   10    0 
+MetroPam  900614893  6  6 f   -     -     -         4940    0    0 
+MetroPam  900614904  6  5 f   -     -     -         4940    0    0 
+MetroPam  900614910  6  4 f   -     -     -         4940    0    0 
+MetroPam  900614923  6  3 f   -     -     -         4940    0    0 
+MetroPam  900614954  6  2 Bf  -     -     -         4940   40    0 
+MetroPam  900614964  6  1 Bf  -     -     -         4900   20    0 
+MetroPam  900614976  6  6 f   -     -     -         4880    0    0 
+MetroPam  900614999  6  5 f   -     -     -         4880    0    0 
+MetroPam  900615024  6  4 f   -     -     -         4880    0    0 
+MetroPam  900615045  6  3 f   -     -     -         4880    0    0 
+MetroPam  900615061  6  2 Bf  -     -     -         4880   40    0 
+MetroPam  900615080  6  1 Bf  -     -     -         4840   40    0 
+MetroPam  900615105  6  6 f   -     -     -         4800    0    0 
+MetroPam  900615124  6  5 f   -     -     -         4800    0    0 
+MetroPam  900615139  6  4 f   -     -     -         4800    0    0 
+MetroPam  900615163  6  3 f   -     -     -         4800    0    0 
+MetroPam  900615211  6  2 Bk  k     kf    -         4800   80    0 
+MetroPam  900615243  6  1 Bf  -     -     -         4720   40    0 
+MetroPam  900615271  6  6 f   -     -     -         4680    0    0 
+MetroPam  900615318  6  5 f   -     -     -         4680    0    0 
+MetroPam  900615343  6  4 f   -     -     -         4680    0    0 
+MetroPam  900615368  6  3 f   -     -     -         4680    0    0 
+MetroPam  900615375  6  2 Bf  -     -     -         4680  160    0 
+MetroPam  900615388  6  1 Bf  -     -     -         4520   80    0 
+MetroPam  900615414  6  6 f   -     -     -         4440    0    0 
+MetroPam  900615425  6  5 f   -     -     -         4440    0    0 
+MetroPam  900615458  6  4 f   -     -     -         4440    0    0 
+MetroPam  900615471  6  3 f   -     -     -         4440    0    0 
+MetroPam  900615483  6  2 Bf  -     -     -         4440  160    0 
+MetroPam  900615500  6  1 Bf  -     -     -         4280   80    0 
+MetroPam  900615528  6  6 f   -     -     -         4200    0    0 
+MetroPam  900615572  6  5 f   -     -     -         4200    0    0 
+MetroPam  900615603  6  4 f   -     -     -         4200    0    0 
+MetroPam  900615615  6  3 f   -     -     -         4200    0    0 
+MetroPam  900615642  6  2 Bk  kf    -     -         4200  320    0 
+MetroPam  900615677  6  1 Bf  -     -     -         3880  160    0 
+MetroPam  900615686  6  6 f   -     -     -         3720    0    0 
+MetroPam  900615711  5  4 f   -     -     -         3720    0    0 
+MetroPam  900615730  5  4 f   -     -     -         3720    0    0 
+MetroPam  900615768  5  3 f   -     -     -         3720    0    0 
+MetroPam  900615773  5  2 Bf  -     -     -         3720  320    0 
+MetroPam  900615785  5  1 Bf  -     -     -         3400  160    0 
+MetroPam  900615801  5  5 f   -     -     -         3240    0    0 
+MetroPam  900615838  5  4 f   -     -     -         3240    0    0 
+MetroPam  900615858  5  3 f   -     -     -         3240    0    0 
+MetroPam  900615886  5  2 Bf  -     -     -         3240  640    0 
+MetroPam  900615904  5  1 Bf  -     -     -         2600  320    0 
+MetroPam  900615917  5  5 f   -     -     -         2280    0    0 
+MetroPam  900615946  5  4 f   -     -     -         2280    0    0 
+MetroPam  900615964  5  3 f   -     -     -         2280    0    0 
+MetroPam  900615983  5  2 Bk  kf    -     -         2280  640    0 
+MetroPam  900616017  5  1 Bf  -     -     -         1640  320    0 
+MetroPam  900616038  5  5 f   -     -     -         1320    0    0 
+MetroPam  900616059  5  4 f   -     -     -         1320    0    0 
+MetroPam  900616076  5  3 f   -     -     -         1320    0    0 
+MetroPam  900616082  5  2 Bf  -     -     -         1320 1280    0 
+MetroPam  900616092  5  1 BA  -     -     -           40   40   80 7h Kd
+MetroPam  900616110  5  5 f   -     -     -           80    0    0 
+MetroPam  900616132  5  4 f   -     -     -           80    0    0 
+MetroPam  900616162  5  3 f   -     -     -           80    0    0 
+MetroPam  900616184  5  2 BA  -     -     -           80   80  160 Qd Kc
+MetroPam  900616196  5  1 BA  -     -     -          160  160    0 Kc 2s
+MetroPam  900691161  8  2 Bk  kf    -     -         5432   54    0 
+MetroPam  900691189  8  1 Bf  -     -     -         5378   27    0 
+MetroPam  900691227  8  8 c   b     -     -         5351  243  378 
+MetroPam  900691253  8  7 f   -     -     -         5486    0    0 
+MetroPam  900691298  8  6 f   -     -     -         5486    0    0 
+MetroPam  900691318  8  5 c   k     k     f         5486   54    0 
+MetroPam  900691362  8  4 c   k     k     k         5432   54    0 Qs 8h
+MetroPam  900691430  8  3 f   -     -     -         5378    0    0 
+MetroPam  900691450  8  2 Bk  kf    -     -         5378  108    0 
+MetroPam  900691507  8  1 Bc  kc    k     k         5270 1242 2592 Ks Td
+MetroPam  900691551  8  8 c   f     -     -         6620  108    0 
+MetroPam  900691608  8  7 f   -     -     -         6512    0    0 
+MetroPam  900691687  8  6 f   -     -     -         6512    0    0 
+MetroPam  900691716  8  5 cf  -     -     -         6512  108    0 
+MetroPam  900691743  7  4 c   k     k     r         6404 1140 1664 
+MetroPam  900691793  7  3 f   -     -     -         6928    0    0 
+MetroPam  900691864  7  2 Bk  kc    k     k         6928  594  756 Ad 3d
+MetroPam  900691894  7  1 Bc  b     -     -         7090  648  864 
+MetroPam  900691915  7  7 f   -     -     -         7306    0    0 
+MetroPam  900691928  7  6 f   -     -     -         7306    0    0 
+MetroPam  900691998  7  5 cf  -     -     -         7306  216    0 
+MetroPam  900692037  7  4 c   k     k     f         7090  216    0 
+MetroPam  900692070  7  3 rf  -     -     -         6874  756    0 
+MetroPam  900692114  7  2 Bf  -     -     -         6118  216    0 
+MetroPam  900692135  7  1 Bf  -     -     -         5902  216    0 
+MetroPam  900692155  7  7 f   -     -     -         5686    0    0 
+MetroPam  900692194  7  6 f   -     -     -         5686    0    0 
+MetroPam  900692206  7  5 f   -     -     -         5686    0    0 
+MetroPam  900692237  7  4 f   -     -     -         5686    0    0 
+MetroPam  900692280  7  3 f   -     -     -         5686    0    0 
+MetroPam  900692326  7  2 Bf  -     -     -         5686  432    0 
+MetroPam  900692353  7  1 Bf  -     -     -         5254  216    0 
+MetroPam  900692458  7  7 f   -     -     -         5038    0    0 
+MetroPam  900692487  7  6 f   -     -     -         5038    0    0 
+MetroPam  900692520  7  5 f   -     -     -         5038    0    0 
+MetroPam  900692570  7  4 f   -     -     -         5038    0    0 
+MetroPam  900692612  7  3 f   -     -     -         5038    0    0 
+MetroPam  900692690  7  2 Bf  -     -     -         5038  864    0 
+MetroPam  900692735  7  1 Bf  -     -     -         4174  432    0 
+MetroPam  900692770  7  7 f   -     -     -         3742    0    0 
+MetroPam  900692806  7  6 f   -     -     -         3742    0    0 
+MetroPam  900692823  7  5 f   -     -     -         3742    0    0 
+MetroPam  900692853  7  4 f   -     -     -         3742    0    0 
+MetroPam  900692889  7  3 f   -     -     -         3742    0    0 
+MetroPam  900692902  7  2 Bf  -     -     -         3742 1728    0 
+MetroPam  900692917  7  1 Bf  -     -     -         2014  864    0 
+MetroPam  900692936  7  7 f   -     -     -         1150    0    0 
+MetroPam  900692962  6  6 f   -     -     -         1150    0    0 
+MetroPam  900692982  5  4 f   -     -     -         1150    0    0 
+MetroPam  900692996  5  4 f   -     -     -         1150    0    0 
+MetroPam  900693013  4  2 BA  -     -     -         1150 1150 2300 Ah Ac
+MetroPam  900693034  4  1 Bf  -     -     -         2300 1728    0 
+MetroPam  900693049  4  4 f   -     -     -          572    0    0 
+MetroPam  900693089  3  2 f   -     -     -          572    0    0 
+MetroPam  900693126  3  2 BA  -     -     -          572  572 1144 9c 6h
+MetroPam  900693137  3  1 BA  -     -     -         1144 1144    0 4s 8c
+MetroPam  900891769  7  4 c   b     -     -         3000  105  150 
+MetroPam  900891784  7  3 r   k     bf    -         3045  540    0 
+MetroPam  900891833  7  2 Bk  b     k     kc        2505  330  675 Ts Jd
+MetroPam  900891893  7  1 Bc  b     kf    -         2850  150    0 
+MetroPam  900891948  7  7 f   -     -     -         2700    0    0 
+MetroPam  900892000  7  6 f   -     -     -         2700    0    0 
+MetroPam  900892056  7  5 cc  kf    -     -         2700  159    0 
+MetroPam  900892091  7  4 f   -     -     -         2541    0    0 
+MetroPam  900892125  7  3 c   c     c     k         2541 1410    0 9d 6d
+MetroPam  900892170  7  2 Bk  b     bA    -         1131 1131    0 3c Ah
+MetroPam  901300354 16  1 Bf  -     -     -         1000    5    0 
+MetroPam  901300491 16 16 f   -     -     -          995    0    0 
+MetroPam  901300544 15 14 c   f     -     -          995   10    0 
+MetroPam  901300662 15 13 f   -     -     -          985    0    0 
+MetroPam  901300711 15 12 f   -     -     -          985    0    0 
+MetroPam  901300730 15 11 f   -     -     -          985    0    0 
+MetroPam  901300796 15 10 cf  -     -     -          985   20    0 
+MetroPam  901300878 14  9 f   -     -     -          965    0    0 
+MetroPam  901300946 14  8 f   -     -     -          965    0    0 
+MetroPam  901301028 14  7 f   -     -     -          965    0    0 
+MetroPam  901301093 14  6 c   kf    -     -          965   40    0 
+MetroPam  901301177 14  5 cc  f     -     -          925  240    0 
+MetroPam  901301375 14  4 f   -     -     -          685    0    0 
+MetroPam  901301442 13  3 f   -     -     -          685    0    0 
+MetroPam  901301514 13  2 Bk  b     -     -          685  400  640 
+MetroPam  901301552 13  1 Bc  kf    -     -          925   80    0 
+MetroPam  901301610 13 13 f   -     -     -          845    0    0 
+MetroPam  901301655 13 12 f   -     -     -          845    0    0 
+MetroPam  901301731 13 11 f   -     -     -          845    0    0 
+MetroPam  901301782 13 10 f   -     -     -          845    0    0 
+MetroPam  901301867 12  8 f   -     -     -          845    0    0 
+MetroPam  901301908 12  7 f   -     -     -          845    0    0 
+MetroPam  901301983 11  6 f   -     -     -          845    0    0 
+MetroPam  901302304 11  5 f   -     -     -          845    0    0 
+MetroPam  901302360 11  4 f   -     -     -          845    0    0 
+MetroPam  901302381 10  2 Bk  k     k     kf         845  320    0 
+MetroPam  901302461 10  1 BrA -     -     -          525  525    0 6c Ks
+MetroPam  901721411 10  8 f   -     -     -         5000    0    0 
+MetroPam  901721755  9  6 c   k     f     -         5000   50    0 
+MetroPam  901721835  9  5 f   -     -     -         4950    0    0 
+MetroPam  901721858  9  4 f   -     -     -         4950    0    0 
+MetroPam  901721903  9  3 f   -     -     -         4950    0    0 
+MetroPam  901721932  9  2 Bk  k     b     b         4950  750 1575 7s Ks
+MetroPam  901722019  9  1 Bc  kc    k     k         5775  775 1650 Ac Th
+MetroPam  901722100  9  9 c   k     f     -         6650   50    0 
+MetroPam  901722145  9  8 c   c     k     k         6600  250  800 Kc Ac
+MetroPam  901722208  9  7 f   -     -     -         7150    0    0 
+MetroPam  901722231  9  6 f   -     -     -         7150    0    0 
+MetroPam  901722270  9  5 f   -     -     -         7150    0    0 
+MetroPam  901722310  9  4 f   -     -     -         7150    0    0 
+MetroPam  901722338  9  3 c   k     k     k         7150  100    0 Qc Jh
+MetroPam  901722384  9  2 B   -     -     -         7050  100  150 
+MetroPam  901722393  9  1 Bf  -     -     -         7100   50    0 
+MetroPam  901722429  9  9 c   c     f     -         7050  450    0 
+MetroPam  901722478  9  8 c   k     k     k         6600  100    0 Ac Jd
+MetroPam  901722534  9  7 r   k     k     b         6500 1850 2800 
+MetroPam  901722574  9  6 f   -     -     -         7450    0    0 
+MetroPam  901722595  9  5 c   bf    -     -         7450  400    0 
+MetroPam  901722641  9  4 cc  f     -     -         7050  450    0 
+MetroPam  901722688  9  3 c   f     -     -         6600  200    0 
+MetroPam  901722772  9  2 Bc  kc    kf    -         6400 1450    0 
+MetroPam  901722804  9  1 Br  -     -     -         4950  600  800 
+MetroPam  901722831  9  9 f   -     -     -         5150    0    0 
+MetroPam  901722844  9  8 f   -     -     -         5150    0    0 
+MetroPam  901722872  8  6 f   -     -     -         5150    0    0 
+MetroPam  901722896  8  5 cf  -     -     -         5150  200    0 
+MetroPam  901722933  8  4 c   kf    -     -         4950  200    0 
+MetroPam  901722967  8  3 f   -     -     -         4750    0    0 
+MetroPam  901723008  8  2 Bk  kf    -     -         4750  200    0 
+MetroPam  901723021  8  1 Bf  -     -     -         4550  100    0 
+MetroPam  901723036  8  8 f   -     -     -         4450    0    0 
+MetroPam  901723046  8  7 c   b     -     -         4450 1800 2800 
+MetroPam  901723078  8  6 f   -     -     -         5450    0    0 
+MetroPam  901723115  8  5 c   k     c     cA        5450 5450    0 As 8h
+MetroPam  901745164 13  6 f   -     -     -        10000    0    0 
+MetroPam  901745228 13  5 c   kf    -     -        10000  100    0 
+MetroPam  901745365 12  4 f   -     -     -         9900    0    0 
+MetroPam  901745445 12  3 f   -     -     -         9900    0    0 
+MetroPam  901745597 12  2 Bk  kf    -     -         9900  100    0 
+MetroPam  901745679 12  1 Bc  k     b     kc        9800 4300    0 Ac 9c
+MetroPam  901745806 12 12 f   -     -     -         5500    0    0 
+MetroPam  901745886 12 11 f   -     -     -         5500    0    0 
+MetroPam  901746015 12 10 f   -     -     -         5500    0    0 
+MetroPam  901746068 11  9 f   -     -     -         5500    0    0 
+MetroPam  901746128 11  8 f   -     -     -         5500    0    0 
+MetroPam  901746234 11  7 f   -     -     -         5500    0    0 
+MetroPam  901746266 11  6 f   -     -     -         5500    0    0 
+MetroPam  901746371 11  5 f   -     -     -         5500    0    0 
+MetroPam  901746404 10  3 cc  k     kf    -         5500 1100    0 
+MetroPam  901746482 10  2 Bk  kf    -     -         4400  200    0 
+MetroPam  901746593 10  1 Bf  -     -     -         4200  100    0 
+MetroPam  901746638 10 10 c   b     bA    -         4100 4100 9000 Ks Jc
+MetroPam  901746720 10  9 f   -     -     -         9000    0    0 
+MetroPam  901746782 10  8 f   -     -     -         9000    0    0 
+MetroPam  901746863 10  7 f   -     -     -         9000    0    0 
+MetroPam  901746951 10  6 f   -     -     -         9000    0    0 
+MetroPam  901747060 10  5 f   -     -     -         9000    0    0 
+MetroPam  901747119  9  3 c   k     f     -         9000  400    0 
+MetroPam  901747184  9  2 Bf  -     -     -         8600  400    0 
+MetroPam  901747235  9  1 Bc  kf    -     -         8200  400    0 
+MetroPam  901747291  9  9 f   -     -     -         7800    0    0 
+MetroPam  901747372  9  8 f   -     -     -         7800    0    0 
+MetroPam  901747434  9  7 f   -     -     -         7800    0    0 
+MetroPam  901747484  9  6 c   k     k     k         7800  400    0 4d Kc
+MetroPam  901747529  9  5 f   -     -     -         7400    0    0 
+MetroPam  901747589  9  4 f   -     -     -         7400    0    0 
+MetroPam  901747685  9  3 f   -     -     -         7400    0    0 
+MetroPam  901747767  9  2 Br  -     -     -         7400 4450 7300 Ah As
+MetroPam  901747839  8  1 Bf  -     -     -        10250  400    0 
+MetroPam  901747886  8  8 f   -     -     -         9850    0    0 
+MetroPam  901747931  8  7 f   -     -     -         9850    0    0 
+MetroPam  901747972  8  6 f   -     -     -         9850    0    0 
+MetroPam  901748038  8  5 f   -     -     -         9850    0    0 
+MetroPam  901748112  8  4 f   -     -     -         9850    0    0 
+MetroPam  901748170  8  3 f   -     -     -         9850    0    0 
+MetroPam  901748186  7  1 Bk  kf    -     -         9850 1600    0 
+MetroPam  901748281  6  1 Bf  -     -     -         8250  800    0 
+MetroPam  901748347  5  5 f   -     -     -         7450    0    0 
+MetroPam  901748359  5  4 f   -     -     -         7450    0    0 
+MetroPam  901748394  5  3 c   rA    -     -         7450 7450 17300 Kh Qh
+MetroPam  901748437  5  2 Bf  -     -     -        17300 1600    0 
+MetroPam  901748458  5  1 Bf  -     -     -        15700  800    0 
+MetroPam  901748515  5  5 f   -     -     -        14900    0    0 
+MetroPam  901748527  5  4 f   -     -     -        14900    0    0 
+MetroPam  901748541  5  3 f   -     -     -        14900    0    0 
+MetroPam  901748578  5  2 Bf  -     -     -        14900 3200    0 
+MetroPam  901748594  5  1 Bf  -     -     -        11700 1600    0 
+MetroPam  901748617  5  5 f   -     -     -        10100    0    0 
+MetroPam  901748624  5  4 f   -     -     -        10100    0    0 
+MetroPam  901748643  4  3 rA  -     -     -        10100 10100 21800 8c 8d
+MetroPam  901748669  4  2 Bk  k     b     -        21800 11200 16000 
+MetroPam  901748708  4  1 Bf  -     -     -        26600 1600    0 
+MetroPam  901748726  4  4 f   -     -     -        25000    0    0 
+MetroPam  901748734  4  3 f   -     -     -        25000    0    0 
+MetroPam  901748774  4  2 B   -     -     -        25000 6400 9600 
+MetroPam  901748787  4  1 Bc  b     -     -        28200 12800 19200 
+MetroPam  901748812  4  4 f   -     -     -        34600    0    0 
+MetroPam  901748838  4  3 f   -     -     -        34600    0    0 
+MetroPam  901748856  4  2 Bk  k     kf    -        34600 6400    0 
+MetroPam  901748880  3  1 Bf  -     -     -        28200 3200    0 
+MetroPam  901748894  3  3 f   -     -     -        25000    0    0 
+MetroPam  901748919  3  2 Bk  k     k     b        25000 12800 19200 
+MetroPam  901748959  3  1 Bf  -     -     -        31400 3200    0 
+MetroPam  901748981  3  3 f   -     -     -        28200    0    0 
+MetroPam  901749002  3  2 B   -     -     -        28200 12800 19200 
+MetroPam  901749016  3  1 Bf  -     -     -        34600 6400    0 
+MetroPam  901749025  3  3 f   -     -     -        28200    0    0 
+MetroPam  901749040  3  2 Bf  -     -     -        28200 12800    0 
+MetroPam  901749059  3  1 Bc  kcA   -     -        15400 15400    0 4h Kh
+MetroPam  901760253 19 11 f   -     -     -         6000    0    0 
+MetroPam  901760401 19 10 f   -     -     -         6000    0    0 
+MetroPam  901760543 19  9 f   -     -     -         6000    0    0 
+MetroPam  901760631 18  8 f   -     -     -         6000    0    0 
+MetroPam  901760691 17  6 f   -     -     -         6000    0    0 
+MetroPam  901760794 17  6 c   kf    -     -         6000   60    0 
+MetroPam  901760833 17  5 f   -     -     -         5940    0    0 
+MetroPam  901760906 17  4 cf  -     -     -         5940   60    0 
+MetroPam  901760979 17  3 f   -     -     -         5880    0    0 
+MetroPam  901761121 16  2 Bf  -     -     -         5880  120    0 
+MetroPam  901761139 16  1 Bf  -     -     -         5760   60    0 
+MetroPam  901761238 16 16 f   -     -     -         5700    0    0 
+MetroPam  901761270 16 15 c   f     -     -         5700  120    0 
+MetroPam  901761349 16 14 f   -     -     -         5580    0    0 
+MetroPam  901761431 15 12 f   -     -     -         5580    0    0 
+MetroPam  901761490 14 10 f   -     -     -         5580    0    0 
+MetroPam  901761509 14 10 c   c     b     -         5580 3240 5400 
+MetroPam  901761578 14  9 f   -     -     -         7740    0    0 
+MetroPam  901761610 14  8 f   -     -     -         7740    0    0 
+MetroPam  901761664 14  7 f   -     -     -         7740    0    0 
+MetroPam  901761711 14  6 c   c     k     b         7740 6173 14573 As 6h
+MetroPam  901761785 12  3 cc  kc    -     -        16140 2415    0 Ac 4h
+MetroPam  901761869 12  3 f   -     -     -        13725    0    0 
+MetroPam  901761918 12  2 Bc  k     k     k        13725 1440 1440 Kh Qh
+MetroPam  901761954 12  1 Bc  kf    -     -        13725 1680    0 
+MetroPam  901762003 12 12 f   -     -     -        12045    0    0 
+MetroPam  901762052 12 11 f   -     -     -        12045    0    0 
+MetroPam  901762182 12 10 c   f     -     -        12045  960    0 
+MetroPam  901762216 12  9 f   -     -     -        11085    0    0 
+MetroPam  901762234 12  8 c   k     k     b        11085 3360 4800 
+MetroPam  901762307 12  7 f   -     -     -        12525    0    0 
+MetroPam  901762361 11  5 f   -     -     -        12525    0    0 
+MetroPam  901762416 10  4 f   -     -     -        12525    0    0 
+MetroPam  901762448 10  3 f   -     -     -        12525    0    0 
+MetroPam  901762461 10  2 Bf  -     -     -        12525 1920    0 
+MetroPam  901762472 10  1 Bc  kc    k     k        10605 7680    0 6s 6d
+MetroPam  901762514  9  9 rA  -     -     -         2925 2925 5850 As Qc
+MetroPam  901762534  9  9 f   -     -     -         5850    0    0 
+MetroPam  901762571  9  8 f   -     -     -         5850    0    0 
+MetroPam  901762589  9  7 rA  -     -     -         5850 5850 8730 
+MetroPam  901762609  9  6 rA  -     -     -         8730 8730 21540 As 7c
+MetroPam  901762632  8  4 f   -     -     -        21540    0    0 
+MetroPam  901762679  8  4 f   -     -     -        21540    0    0 
+MetroPam  901762702  8  3 f   -     -     -        21540    0    0 
+MetroPam  901762719  8  2 Bk  b     -     -        21540 11520 15360 
+MetroPam  901762747  8  1 Bc  -     -     -        25380 4890    0 2h Kc
+MetroPam  901762776  8  8 f   -     -     -        20490    0    0 
+MetroPam  901762801  7  6 f   -     -     -        20490    0    0 
+MetroPam  901762849  6  4 f   -     -     -        20490    0    0 
+MetroPam  901762937  6  3 f   -     -     -        20490    0    0 
+MetroPam  901762994  6  2 Bk  k     k     f        20490 7680    0 
+MetroPam  901763067  6  1 Bf  -     -     -        12810 3840    0 
+MetroPam  901763092  6  6 f   -     -     -         8970    0    0 
+MetroPam  901763152  6  5 f   -     -     -         8970    0    0 
+MetroPam  901763184  4  2 rA  -     -     -         8970 8970 17940 9d Qh
+MetroPam  901763221  4  2 Bk  k     k     k        17940 7680    0 4s Qc
+MetroPam  901763260  4  1 BcA -     -     -        10260 10260    0 Qc 3c

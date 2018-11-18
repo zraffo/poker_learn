@@ -1,0 +1,654 @@
+pktfives  949507734 13  5 cc  ccA   -     -        10000 10000    0 Kc Qd
+pktfives  949517537 17  4 f   -     -     -         2000    0    0 
+pktfives  949517629 17  3 f   -     -     -         2000    0    0 
+pktfives  949517758 17  2 Bk  kf    -     -         2000   20    0 
+pktfives  949517839 17  1 Bf  -     -     -         1980   20    0 
+pktfives  949517903 17 17 r   rA    -     -         1960 1960    0 Kd Kh
+pktfives  949534065 17  3 f   -     -     -        10000    0    0 
+pktfives  949534136 17  2 Br  -     -     -        10000  175  250 
+pktfives  949534172 17  1 Bc  kc    k     k        10075  350    0 Qd Kh
+pktfives  949534292 17 17 cf  -     -     -         9725  275    0 
+pktfives  949534532 16 14 c   f     -     -        12650  100    0 
+pktfives  949534689 16 13 rA  -     -     -        12550 12550 26250 Ts Tc
+pktfives  949534775 16 12 f   -     -     -        26250    0    0 
+pktfives  949534850 15 10 c   kf    -     -        26250  200    0 
+pktfives  949534943 15  9 c   kf    -     -        26050  200    0 
+pktfives  949535015 15  8 c   kc    b     bc       25850 9675 20050 5s As
+pktfives  949535106 14  7 c   b     -     -        36225 1200  625 4s Ac
+pktfives  949535163 14  6 f   -     -     -        35650    0    0 
+pktfives  949535221 14  5 c   kf    -     -        35650  400    0 
+pktfives  949535268 14  4 f   -     -     -        35250    0    0 
+pktfives  949535330 14  3 cf  -     -     -        35250  400    0 
+pktfives  949535393 12  1 Bk  k     k     b        34850 1600 2400 
+pktfives  949535491 12  1 Br  b     -     -        35650 4000 6600 
+pktfives  949535538 12 12 f   -     -     -        38250    0    0 
+pktfives  949535582 12 11 r   b     rA    -        38250 38250 59875 Th Ts
+pktfives  949535637 10  9 c   f     -     -        59875 2800    0 
+pktfives  949535681 10  8 f   -     -     -        57075    0    0 
+pktfives  949535695 10  7 cc  k     kf    -        57075 2400    0 
+pktfives  949535735 10  6 f   -     -     -        54675    0    0 
+pktfives  949535747 10  5 f   -     -     -        54675    0    0 
+pktfives  949535781 10  4 rrA -     -     -        54675 54675 32975 As Ks
+pktfives  949535807 10  3 c   k     k     bA       32975 32975 34175 
+pktfives  949535874 10  2 Bk  k     k     k        34175 1600    0 3h As
+pktfives  949535974 10  1 Bf  -     -     -        32575  800    0 
+pktfives  949536010 10 10 f   -     -     -        31775    0    0 
+pktfives  949536067  9  8 c   k     f     -        31775 1600    0 
+pktfives  949536116  9  7 f   -     -     -        30175    0    0 
+pktfives  949536130  9  6 f   -     -     -        30175    0    0 
+pktfives  949536153  8  4 c   kf    -     -        30175 1600    0 
+pktfives  949536261  8  3 f   -     -     -        28575    0    0 
+pktfives  949536296  7  2 Bc  -     -     -        28575 6150 15967 3s 4h
+pktfives  949536315  5  1 Bc  kf    -     -        38392 11200    0 
+pktfives  949536355  5  5 f   -     -     -        27192    0    0 
+pktfives  949536383  5  4 f   -     -     -        27192    0    0 
+pktfives  949536393  5  3 cc  -     -     -        27192 6325    0 5s 5d
+pktfives  949536412  5  2 Bf  -     -     -        20867 3200    0 
+pktfives  949536439  5  1 BrA -     -     -        17667 17667 20867 
+pktfives  949536465  5  5 c   k     k     k        20867 3200 8000 Td Ts
+pktfives  949536486  5  4 f   -     -     -        25667    0    0 
+pktfives  949536511  5  3 f   -     -     -        25667    0    0 
+pktfives  949536535  5  2 BrcA -     -     -        25667 25667    0 Ah Ac
+pktfives  949590705 18 17 cA  -     -     -         5000 5000 20075 8c 8h
+pktfives  949590815 15 13 cc  f     -     -        20075  275    0 
+pktfives  949590946 15 12 f   -     -     -        19800    0    0 
+pktfives  949591028 15 11 f   -     -     -        19800    0    0 
+pktfives  949591132 15 10 f   -     -     -        19800    0    0 
+pktfives  949591254 15  9 cf  -     -     -        19800  100    0 
+pktfives  949591316 14  8 cf  -     -     -        19700  200    0 
+pktfives  949591370 14  7 cc  f     -     -        19500 1200    0 
+pktfives  949591478 14  6 f   -     -     -        18300    0    0 
+pktfives  949591598 14  5 f   -     -     -        18300    0    0 
+pktfives  949591692 14  4 f   -     -     -        18300    0    0 
+pktfives  949591792 14  3 c   b     -     -        18300 2400 4000 
+pktfives  949591859 14  2 Brr -     -     -        19900 8025 17925 Kd Kc
+pktfives  949591975 11  1 Bc  k     kf    -        29800  800    0 
+pktfives  949592040 11 11 c   b     -     -        29000 2200 4200 
+pktfives  949592088 11 10 c   k     k     k        31000  800    0 7d As
+pktfives  949592160 11  9 f   -     -     -        30200    0    0 
+pktfives  949592236 10  7 c   bc    -     -        30200 5100    0 5h Js
+pktfives  949592297 10  6 f   -     -     -        25100    0    0 
+pktfives  949592320  9  5 r   b     -     -        25100 14600 12200 Qh Jd
+pktfives  949592372  9  4 c   kf    -     -        22700 1600    0 
+pktfives  949592454  9  3 c   bc    -     -        21100 9000 22000 Ac As
+pktfives  949592527  8  2 Bf  -     -     -        34100 1600    0 
+pktfives  949592555  8  1 Bc  k     kf    -        32500 2000    0 
+pktfives  949592590  7  7 f   -     -     -        30500    0    0 
+pktfives  949592614  7  6 f   -     -     -        30500    0    0 
+pktfives  949592702  7  5 c   k     k     b        30500 8350 6950 3c As
+pktfives  949592739  7  4 f   -     -     -        29100    0    0 
+pktfives  949592767  7  3 f   -     -     -        29100    0    0 
+pktfives  949592790  7  2 BrA -     -     -        29100 29100 4325 Jc Ac
+pktfives  949592823  5  1 BrA -     -     -         4325 4325 7525 
+pktfives  949592840  5  5 f   -     -     -         7525    0    0 
+pktfives  949592852  5  4 f   -     -     -         7525    0    0 
+pktfives  949592875  5  3 f   -     -     -         7525    0    0 
+pktfives  949592900  5  2 BcA -     -     -         7525 7525 18250 8c 4d
+pktfives  949592919  5  1 Bf  -     -     -        18250 3200    0 
+pktfives  949592946  5  5 f   -     -     -        15050    0    0 
+pktfives  949592985  5  4 f   -     -     -        15050    0    0 
+pktfives  949593002  4  2 f   -     -     -        15050    0    0 
+pktfives  949593032  4  2 Bc  -     -     -        15050 7200 17600 6c 5c
+pktfives  949593114  3  1 BrA -     -     -        25450 25450 50900 Kd 5s
+pktfives  949593150  3  3 f   -     -     -        50900    0    0 
+pktfives  949593164  3  2 Bk  c     -     -        50900 15950    0 8s 5d
+pktfives  949593197  3  1 BrA -     -     -        34950 34950 3050 8s Ac
+pktfives  949593215  3  3 cA  -     -     -         3050 3050 9150 5h 7d
+pktfives  949593224  3  2 BA  -     -     -         9150 9150 18300 4d 6s
+pktfives  949593235  3  1 Bf  -     -     -        18300 6400    0 
+pktfives  949593260  2  2 cA  -     -     -        11900 11900    0 5h Kh
+pktfives  949593661 10  2 Bk  kf    -     -         4000   40    0 
+pktfives  949593683 10  1 Bf  -     -     -         3960   20    0 
+pktfives  949593724  9  9 f   -     -     -         3940    0    0 
+pktfives  949593793  9  8 f   -     -     -         3940    0    0 
+pktfives  949593826  9  7 f   -     -     -         3940    0    0 
+pktfives  949593868  9  6 f   -     -     -         3940    0    0 
+pktfives  949593956  9  5 c   c     b     -         3940  680  960 
+pktfives  949594001  9  4 c   cc    cA    -         4220 4220    0 Ah 8h
+pktfives  949940535 17  7 f   -     -     -         6000    0    0 
+pktfives  949940688 17  6 f   -     -     -         6000    0    0 
+pktfives  949940878 17  5 f   -     -     -         6000    0    0 
+pktfives  949940973 17  4 c   kf    -     -         6000   60    0 
+pktfives  949941139 17  3 cc  kc    kc    -         5940 5880 18075 7h 8d
+pktfives  949941231 15  2 Bk  f     -     -        18135   60    0 
+pktfives  949941315 15  1 Bc  kf    -     -        18075   60    0 
+pktfives  949941400 15 15 r   k     c     c        18015 5475 17530 Kh Kc
+pktfives  949941579 13 12 c   k     c     f        30070 3120    0 
+pktfives  949941756 13 12 f   -     -     -        26950    0    0 
+pktfives  949941855 13 11 c   f     -     -        26950  240    0 
+pktfives  949941882 13 10 cc  kr    -     -        26710 12120 18480 
+pktfives  949941936 13  9 f   -     -     -        33070    0    0 
+pktfives  949942003 13  8 f   -     -     -        33070    0    0 
+pktfives  949942041 13  7 c   k     k     k        33070  240    0 Ts 8s
+pktfives  949942139 13  6 cr  -     -     -        32830 4310 9340 Kc As
+pktfives  949942180 12  5 f   -     -     -        37860    0    0 
+pktfives  949942263 11  3 c   kf    -     -        37860  480    0 
+pktfives  949942329 11  2 Bk  k     k     b        37380 2880 4800 
+pktfives  949942405 11  1 Bc  k     k     kf       39300  480    0 
+pktfives  949942449 11 11 f   -     -     -        38820    0    0 
+pktfives  949942554 11 10 f   -     -     -        38820    0    0 
+pktfives  949942600 11  9 f   -     -     -        38820    0    0 
+pktfives  949942633 10  8 f   -     -     -        38820    0    0 
+pktfives  949942680 10  7 f   -     -     -        38820    0    0 
+pktfives  949942733 10  6 r   -     -     -        38820 2400 3840 
+pktfives  949942822 10  5 f   -     -     -        40260    0    0 
+pktfives  949942898 10  4 f   -     -     -        40260    0    0 
+pktfives  949942929 10  3 f   -     -     -        40260    0    0 
+pktfives  949942992 10  2 Bk  k     k     k        40260 1920    0 4d Jd
+pktfives  949943069  9  1 Bf  -     -     -        38340  960    0 
+pktfives  949943109  9  9 f   -     -     -        37380    0    0 
+pktfives  949943179  9  8 f   -     -     -        37380    0    0 
+pktfives  949943297  9  7 f   -     -     -        37380    0    0 
+pktfives  949943326  9  6 f   -     -     -        37380    0    0 
+pktfives  949943360  9  5 f   -     -     -        37380    0    0 
+pktfives  949943481  9  4 c   k     k     k        37380 3840    0 Ah 7c
+pktfives  949943532  9  3 r   c     -     -        33540 17410 44260 9s Ac
+pktfives  949943577  7  2 Bc  -     -     -        60390 5760 13440 Kh 7s
+pktfives  949943604  6  1 Bf  -     -     -        68070 1920    0 
+pktfives  949943625  5  5 f   -     -     -        66150    0    0 
+pktfives  949943635  5  5 f   -     -     -        66150    0    0 
+pktfives  949943646  5  4 f   -     -     -        66150    0    0 
+pktfives  949943677  4  2 f   -     -     -        66150    0    0 
+pktfives  949943684  4  2 B   -     -     -        66150 7680 11520 
+pktfives  949943695  4  1 Bc  -     -     -        69990 7440    0 5d 7d
+pktfives  949943711  4  4 f   -     -     -        62550    0    0 
+pktfives  949943721  4  3 c   b     b     -        62550 54480 80730 Td Ad
+pktfives  949943788  2  1 B   -     -     -        88800 7680 7680 
+pktfives  949943794  2  1 Br  -     -     -        88800 19200 6000 Jh Qh
+pktfives  949943802  2  2 Bf  -     -     -        75600 7680    0 
+pktfives  949943810  2  1 Br  -     -     -        67920 19200 26880 
+pktfives  949943820  2  2 Bf  -     -     -        75600 7680    0 
+pktfives  949943827  2  1 Bcr -     -     -        67920 53760 87840 Kd Ac
+pktfives  949944175 13  4 cc  k     b     b         5000 2025 3600 
+pktfives  949944243 13  3 f   -     -     -         6575    0    0 
+pktfives  949944345 13  2 Bk  kf    -     -         6575   50    0 
+pktfives  949944424 13  1 Bc  kf    -     -         6525   50    0 
+pktfives  949944504 11 11 c   b     k     f         6475  300    0 
+pktfives  949944665 10  9 f   -     -     -         6175    0    0 
+pktfives  949944754 10  8 c   k     f     -         6175  350    0 
+pktfives  949944816  9  6 cc  kf    -     -         5825  400    0 
+pktfives  949944855  9  6 r   b     b     k         5425 1000    0 Ah 3s
+pktfives  949944898  9  5 c   k     f     -         4425  100    0 
+pktfives  949945019  9  4 f   -     -     -         4325    0    0 
+pktfives  949945044  9  3 f   -     -     -         4325    0    0 
+pktfives  949945093  9  2 Bk  kf    -     -         4325  200    0 
+pktfives  949945125  9  1 Bf  -     -     -         4125  100    0 
+pktfives  949945133  9  9 f   -     -     -         4025    0    0 
+pktfives  949945166  9  8 c   bA    -     -         4025 4025    0 7h 4h
+pktfives  949949682 11  2 Bk  k     k     b         5000  250  425 
+pktfives  949949793 11  1 Bc  kf    -     -         5175   50    0 
+pktfives  949949911 11 11 c   k     k     f         5125   50    0 
+pktfives  949949950 11 10 c   f     -     -         5075   50    0 
+pktfives  949950036 10  8 c   c     f     -         5025  700    0 
+pktfives  949950143 10  7 c   f     -     -         4325  100    0 
+pktfives  949950222 10  6 c   b     bf    -         4225 2100    0 
+pktfives  949950312 10  5 c   f     -     -         2125  350    0 
+pktfives  949950359 10  4 r   bA    -     -         1775 1775 2775 
+pktfives  949950415 10  3 f   -     -     -         2775    0    0 
+pktfives  949950508 10  2 Bk  kf    -     -         2775  200    0 
+pktfives  949950597 10  1 Bc  k     kf    -         2575  200    0 
+pktfives  949950673 10 10 f   -     -     -         2375    0    0 
+pktfives  949950710 10  9 f   -     -     -         2375    0    0 
+pktfives  949950766 10  8 f   -     -     -         2375    0    0 
+pktfives  949950821 10  7 f   -     -     -         2375    0    0 
+pktfives  949950876  9  6 c   bA    -     -         2375 2375    0 Kd 7h
+pktfives  950029130 15  1 Bc  kc    kf    -         5000  240    0 
+pktfives  950029214 15 15 c   k     f     -         4760   40    0 
+pktfives  950029277 15 14 c   f     -     -         4720  300    0 
+pktfives  950029349 15 13 f   -     -     -         4420    0    0 
+pktfives  950029388 15 12 f   -     -     -         4420    0    0 
+pktfives  950029425 15 11 f   -     -     -         4420    0    0 
+pktfives  950029529 13  9 f   -     -     -         4420    0    0 
+pktfives  950029578 13  8 cc  b     -     -         4420 3720 5040 
+pktfives  950029651 13  7 cc  k     f     -         5740  480    0 
+pktfives  950029739 13  6 c   k     k     f         5260   80    0 
+pktfives  950029822 13  5 f   -     -     -         5180    0    0 
+pktfives  950029873 13  4 f   -     -     -         5180    0    0 
+pktfives  950029954 13  3 r   b     bA    -         5180 5180 11920 Th Td
+pktfives  950030034 12  2 Bc  kf    -     -        11920  560    0 
+pktfives  950030102 12  1 Bc  k     k     k        11360  160  640 Ts 6c
+pktfives  950030160 12 12 c   f     -     -        11840  160    0 
+pktfives  950030241 12 11 f   -     -     -        11680    0    0 
+pktfives  950030285 12 10 f   -     -     -        11680    0    0 
+pktfives  950030317 12  9 f   -     -     -        11680    0    0 
+pktfives  950030394 12  8 f   -     -     -        11680    0    0 
+pktfives  950030447 12  7 c   f     -     -        11680  320    0 
+pktfives  950030503 12  6 f   -     -     -        11360    0    0 
+pktfives  950030582 12  5 f   -     -     -        11360    0    0 
+pktfives  950030627 10  3 f   -     -     -        11360    0    0 
+pktfives  950030705  9  2 f   -     -     -        11360    0    0 
+pktfives  950030745  9  2 Bk  b     -     -        11360 1920 2560 
+pktfives  950030797  9  1 Bc  k     k     k        12000  640    0 4d 5d
+pktfives  950030854  9  9 f   -     -     -        11360    0    0 
+pktfives  950030867  9  8 f   -     -     -        11360    0    0 
+pktfives  950030912  8  7 f   -     -     -        11360    0    0 
+pktfives  950030956  8  6 f   -     -     -        11360    0    0 
+pktfives  950030978  8  5 cc  bA    -     -        11360 11360 1360 Jc Ah
+pktfives  950031015  8  4 rA  -     -     -         1360 1360 3360 Ah 7h
+pktfives  950031046  8  3 r   -     -     -         3360 3200 5120 
+pktfives  950031065  8  2 Bk  k     f     -         5280 1280    0 
+pktfives  950031090  8  1 Bf  -     -     -         4000  640    0 
+pktfives  950031138  8  8 f   -     -     -         3360    0    0 
+pktfives  950031169  8  7 c   bA    -     -         3360 3360 6560 
+pktfives  950031198  8  6 f   -     -     -         6560    0    0 
+pktfives  950031217  8  5 f   -     -     -         6560    0    0 
+pktfives  950031254  8  4 f   -     -     -         6560    0    0 
+pktfives  950031273  7  3 c   b     -     -         6560 5120 7680 
+pktfives  950031314  7  2 Bk  kf    -     -         9120 2560    0 
+pktfives  950031352  7  1 Bf  -     -     -         6560 1280    0 
+pktfives  950031367  7  7 c   cA    -     -         5280 5280    0 4c Ac
+pktfives  950123695 12  7 cc  b     b     bf        7000 2779    0 
+pktfives  950123846 12  6 f   -     -     -         4221    0    0 
+pktfives  950123981 12  5 c   kf    -     -         4221   50    0 
+pktfives  950124027 12  4 cf  -     -     -         4171  100    0 
+pktfives  950124095 12  3 f   -     -     -         4071    0    0 
+pktfives  950124137 12  2 Bc  kc    kf    -         4071 1450    0 
+pktfives  950124231 12  1 BrA -     -     -         2621 2621    0 5d 5h
+pktfives  950126217 18  5 f   -     -     -         5000    0    0 
+pktfives  950126330 18  4 f   -     -     -         5000    0    0 
+pktfives  950126408 18  3 c   kf    -     -         5000   50    0 
+pktfives  950126486 18  2 Bc  k     b     -         4950 3900 6950 
+pktfives  950126587 18  1 Br  bc    -     -         8000 3525    0 Ad Kd
+pktfives  950126658 18 18 c   f     -     -         4475  100    0 
+pktfives  950126745 18 17 f   -     -     -         4375    0    0 
+pktfives  950126869 17 15 f   -     -     -         4375    0    0 
+pktfives  950126942 17 14 c   f     -     -         4375  650    0 
+pktfives  950127023 17 13 f   -     -     -         3725    0    0 
+pktfives  950127063 14 10 f   -     -     -         3725    0    0 
+pktfives  950127130 13  8 crA -     -     -         3725 3725 8150 7c 7d
+pktfives  950127226 13  7 c   f     -     -         8150  200    0 
+pktfives  950127304 12  6 cf  -     -     -         7950  400    0 
+pktfives  950127359 12  5 f   -     -     -         7550    0    0 
+pktfives  950127422 12  4 cf  -     -     -         7550  400    0 
+pktfives  950127463 12  3 cf  -     -     -         7150  400    0 
+pktfives  950127554 12  2 Bk  kf    -     -         6750  400    0 
+pktfives  950127611 12  1 Bc  bf    -     -         6350 2000    0 
+pktfives  950127680 12 12 rA  -     -     -         4350 4350    0 Ad Qd
+pktfives  950129023 13 11 c   f     -     -         5000   40    0 
+pktfives  950129109 13 10 f   -     -     -         4960    0    0 
+pktfives  950129157 13  9 f   -     -     -         4960    0    0 
+pktfives  950129252 13  8 c   k     k     f         4960   40    0 
+pktfives  950129348 13  7 f   -     -     -         4920    0    0 
+pktfives  950129427 13  6 f   -     -     -         4920    0    0 
+pktfives  950129519 12  4 c   kf    -     -         4920   80    0 
+pktfives  950129632 12  3 r   c     f     -         4840  880    0 
+pktfives  950129738 12  2 Br  b     -     -         3960  800 1440 
+pktfives  950129830 12  1 Bc  kc    kf    -         4600  640    0 
+pktfives  950129893 12 12 f   -     -     -         3960    0    0 
+pktfives  950130006 12 11 f   -     -     -         3960    0    0 
+pktfives  950130069 11 10 c   r     bA    -         3960 3960 2560 Ts 9h
+pktfives  950130169 11  9 c   f     -     -         2560  320    0 
+pktfives  950130228 11  8 f   -     -     -         2240    0    0 
+pktfives  950130278 11  7 r   bA    -     -         2240 2240 5600 Jh Th
+pktfives  950130357 11  6 f   -     -     -         5600    0    0 
+pktfives  950130440 11  5 f   -     -     -         5600    0    0 
+pktfives  950130490 11  4 rf  -     -     -         5600  800    0 
+pktfives  950130553 11  3 f   -     -     -         4800    0    0 
+pktfives  950130614 11  2 Bk  k     k     kf        4800  640    0 
+pktfives  950130673 11  1 Bf  -     -     -         4160  320    0 
+pktfives  950130714 10 10 r   k     cA    -         3840 3840 8640 Ac 6c
+pktfives  950130759 10  9 c   f     -     -         8640  640    0 
+pktfives  950130853  9  7 f   -     -     -         8000    0    0 
+pktfives  950130901  8  6 c   rA    -     -         8000 8000 6630 6s 8s
+pktfives  950130956  8  5 f   -     -     -         6630    0    0 
+pktfives  950131002  8  4 f   -     -     -         6630    0    0 
+pktfives  950131025  8  3 f   -     -     -         6630    0    0 
+pktfives  950131089  7  2 BrA -     -     -         6630 6630 14540 As Qh
+pktfives  950131150  7  1 Bf  -     -     -        14540  640    0 
+pktfives  950131176  6  6 f   -     -     -        13900    0    0 
+pktfives  950131209  6  6 f   -     -     -        13900    0    0 
+pktfives  950131224  6  5 f   -     -     -        13900    0    0 
+pktfives  950131248  6  4 f   -     -     -        13900    0    0 
+pktfives  950131280  6  3 c   b     -     -        13900 5760 9600 
+pktfives  950131343  6  2 B   -     -     -        17740 2560 1560 2c 7h
+pktfives  950131363  6  1 Bf  -     -     -        16740 1280    0 
+pktfives  950131381  6  6 f   -     -     -        15460    0    0 
+pktfives  950131399  6  5 f   -     -     -        15460    0    0 
+pktfives  950131414  6  4 c   b     -     -        15460 10240 15360 
+pktfives  950131457  6  3 f   -     -     -        20580    0    0 
+pktfives  950131486  6  2 B   -     -     -        20580 2560 3840 
+pktfives  950131500  6  1 Bf  -     -     -        21860 1280    0 
+pktfives  950131529  6  6 r   -     -     -        20580 7020 14260 Ts As
+pktfives  950131565  5  4 f   -     -     -        27820    0    0 
+pktfives  950131587  4  2 f   -     -     -        27820    0    0 
+pktfives  950131603  3  2 BrA -     -     -        27820 27820 44460 Kc Qc
+pktfives  950131623  2  1 Bf  -     -     -        44460 2560    0 
+pktfives  950131631  2  2 Br  -     -     -        41900 35840 17680 Ah 6h
+pktfives  950131643  2  1 Br  -     -     -        23740 12800 17920 
+pktfives  950131648  2  2 B   -     -     -        28860 5120 7680 
+pktfives  950131651  2  1 Bc  k     k     b        31420 10240 15360 
+pktfives  950131673  2  2 B   -     -     -        36540 5120 7680 
+pktfives  950131676  2  1 Bf  -     -     -        39100 2560    0 
+pktfives  950131680  2  2 Bf  -     -     -        36540 5120    0 
+pktfives  950131697  2  1 Bf  -     -     -        31420 2560    0 
+pktfives  950131699  2  2 Bf  -     -     -        28860 5120    0 
+pktfives  950131709  2  1 BrA -     -     -        23740 23740 28860 
+pktfives  950131716  2  2 B   -     -     -        28860 5120 7680 
+pktfives  950131720  2  1 Br  -     -     -        31420 12800 17920 
+pktfives  950131727  2  2 B   -     -     -        36540 5120 7680 
+pktfives  950131732  2  1 Bf  -     -     -        39100 2560    0 
+pktfives  950131736  2  2 Bk  f     -     -        36540 5120    0 
+pktfives  950131767  2  1 BcrA -     -     -        31420 31420 2780 2d Tc
+pktfives  950131779  2  2 BA  -     -     -         2780 2780    0 Ac Th
+pktfives  950195626 17 16 f   -     -     -         5000    0    0 
+pktfives  950195731 17 15 c   c     k     b         5000 1875 2550 
+pktfives  950195838 17 14 f   -     -     -         5675    0    0 
+pktfives  950195943 17 13 c   f     -     -         5675   50    0 
+pktfives  950196054 17 12 f   -     -     -         5625    0    0 
+pktfives  950196109 16 10 f   -     -     -         5625    0    0 
+pktfives  950196237 16  9 cc  kf    -     -         5625  650    0 
+pktfives  950196326 16  8 f   -     -     -         4975    0    0 
+pktfives  950196379 16  7 f   -     -     -         4975    0    0 
+pktfives  950196453 16  6 crA -     -     -         4975 4975  125 7s 8c
+pktfives  950196533 15  5 cA  -     -     -          125  125    0 5h Tc
+pktfives  950332319 12  9 c   c     k     c         2000  550    0 Kd 3d
+pktfives  950332410 12  8 c   f     -     -         1450   50    0 
+pktfives  950332504 12  7 f   -     -     -         1400    0    0 
+pktfives  950332573 11  5 f   -     -     -         1400    0    0 
+pktfives  950332642 11  5 c   c     f     -         1400  300    0 
+pktfives  950332709 11  4 f   -     -     -         1100    0    0 
+pktfives  950332749 11  3 crA -     -     -         1100 1100    0 Js 7s
+pktfives  950578649  7  6 f   -     -     -         1000    0    0 
+pktfives  950578684  7  5 f   -     -     -         1000    0    0 
+pktfives  950578746  7  4 c   k     f     -         1000    2    0 
+pktfives  950578816  7  3 cc  k     f     -          998   11    0 
+pktfives  950578917  7  2 Bf  -     -     -          987    2    0 
+pktfives  950579035  7  1 Bf  -     -     -          985    2    0 
+pktfives  950579086  7  7 c   rc    c     -          983  364  744 Js Qc
+pktfives  950579207  6  5 c   k     f     -         1363    4    0 
+pktfives  950579302  6  4 f   -     -     -         1359    0    0 
+pktfives  950579396  6  3 f   -     -     -         1359    0    0 
+pktfives  950579446  5  2 Bk  f     -     -         1359    8    0 
+pktfives  950579510  5  1 Bc  kf    -     -         1351    8    0 
+pktfives  950579561  5  5 f   -     -     -         1343    0    0 
+pktfives  950579605  5  4 f   -     -     -         1343    0    0 
+pktfives  950579645  5  3 r   k     f     -         1343   20    0 
+pktfives  950579707  5  2 Bf  -     -     -         1323   16    0 
+pktfives  950579777  5  1 Bf  -     -     -         1307    8    0 
+pktfives  950579865  5  5 f   -     -     -         1299    0    0 
+pktfives  950579917  5  4 c   b     k     b         1299  116    0 6c 5d
+pktfives  950579961  5  3 f   -     -     -         1183    0    0 
+pktfives  950580024  5  2 Bk  k     f     -         1183   32    0 
+pktfives  950580082  5  1 Bf  -     -     -         1151   16    0 
+pktfives  950580148  5  5 cf  -     -     -         1135   32    0 
+pktfives  950580251  5  4 f   -     -     -         1103    0    0 
+pktfives  950580259  5  3 cc  kf    -     -         1103  144    0 
+pktfives  950580287  5  2 Bk  k     c     k          959   64  128 9s Ac
+pktfives  950580313  5  1 Bc  k     k     bc        1023  416    0 Qs 5d
+pktfives  950580368  5  5 rA  -     -     -          607  607    0 9s Tc
+pktfives  950582018 10  2 B   -     -     -         2000   50   75 
+pktfives  950582059 10  1 Bf  -     -     -         2025   25    0 
+pktfives  950582076 10 10 f   -     -     -         2000    0    0 
+pktfives  950582131 10  9 f   -     -     -         2000    0    0 
+pktfives  950582157 10  8 c   k     f     -         2000   50    0 
+pktfives  950582258 10  7 f   -     -     -         1950    0    0 
+pktfives  950582320 10  6 f   -     -     -         1950    0    0 
+pktfives  950582449  9  5 f   -     -     -         1950    0    0 
+pktfives  950582466  9  4 f   -     -     -         1950    0    0 
+pktfives  950582583  9  3 f   -     -     -         1950    0    0 
+pktfives  950582653  9  2 Bk  k     k     c         1950  300  600 Jc 2c
+pktfives  950582689  9  1 Bf  -     -     -         2250   50    0 
+pktfives  950582732  9  9 c   c     c     c         2200 1900 2000 9d As
+pktfives  950582773  9  8 f   -     -     -         2300    0    0 
+pktfives  950582808  9  7 cc  c     -     -         2300 1450    0 7s 8h
+pktfives  950582844  9  6 f   -     -     -          850    0    0 
+pktfives  950582936  8  5 f   -     -     -          850    0    0 
+pktfives  950583000  8  4 f   -     -     -          850    0    0 
+pktfives  950583066  7  3 f   -     -     -          850    0    0 
+pktfives  950583079  7  2 B   -     -     -          850  200  300 
+pktfives  950583108  7  1 Bf  -     -     -          950  100    0 
+pktfives  950583129  7  7 f   -     -     -          850    0    0 
+pktfives  950583188  7  6 f   -     -     -          850    0    0 
+pktfives  950583230  7  5 f   -     -     -          850    0    0 
+pktfives  950583263  6  3 f   -     -     -          850    0    0 
+pktfives  950583300  6  2 Bf  -     -     -          850  400    0 
+pktfives  950583353  6  1 Bf  -     -     -          450  200    0 
+pktfives  950583377  6  6 f   -     -     -          250    0    0 
+pktfives  950583398  6  5 f   -     -     -          250    0    0 
+pktfives  950583414  6  4 f   -     -     -          250    0    0 
+pktfives  950583436  5  2 f   -     -     -          250    0    0 
+pktfives  950583462  5  2 BA  -     -     -          250  250    0 2s 3d
+pktfives  951233009 16 14 f   -     -     -         5000    0    0 
+pktfives  951233112 16 13 f   -     -     -         5000    0    0 
+pktfives  951233200 15 11 f   -     -     -         5000    0    0 
+pktfives  951233265 15 10 f   -     -     -         5000    0    0 
+pktfives  951233344 15  9 r   f     -     -         5000 1000    0 
+pktfives  951233434 15  8 f   -     -     -         4000    0    0 
+pktfives  951233589 15  7 f   -     -     -         4000    0    0 
+pktfives  951233691 15  6 f   -     -     -         4000    0    0 
+pktfives  951233748 15  5 f   -     -     -         4000    0    0 
+pktfives  951233826 15  4 f   -     -     -         4000    0    0 
+pktfives  951233910 15  3 f   -     -     -         4000    0    0 
+pktfives  951233947 14  2 Bk  k     k     kf        4000  200    0 
+pktfives  951234086 14  1 Bf  -     -     -         3800  200    0 
+pktfives  951234177 13 13 rA  -     -     -         3600 3600 1400 Ah Ts
+pktfives  951234253 12 11 rA  -     -     -         1400 1400    0 Ah 9s
+pktfives  951364076 18  2 Bf  -     -     -         7500  200    0 
+pktfives  951364181 18  1 Bc  brA   -     -         7300 7300    0 8h Kh
+pktfives  951421543  9  8 f   -     -     -         2000    0    0 
+pktfives  951421707  9  8 f   -     -     -        10000    0    0 
+pktfives  951421861 11  9 cc  kc    f     -        10000 1013    0 
+pktfives  951421938 11  8 f   -     -     -         8987    0    0 
+pktfives  951421992 11  7 f   -     -     -         8987    0    0 
+pktfives  951422075 11  6 f   -     -     -         8987    0    0 
+pktfives  951422192 11  5 cf  -     -     -         8987  100    0 
+pktfives  951422228 10  4 c   f     -     -         8887  100    0 
+pktfives  951422260 10  3 f   -     -     -         8787    0    0 
+pktfives  951422301 10  2 Bk  k     kf    -         8787  100    0 
+pktfives  951422375  9  1 Bf  -     -     -         8687   50    0 
+pktfives  951422426  9  9 f   -     -     -         8637    0    0 
+pktfives  951422475  9  8 f   -     -     -         8637    0    0 
+pktfives  951422496  9  7 f   -     -     -         8637    0    0 
+pktfives  951422537  9  6 f   -     -     -         8637    0    0 
+pktfives  951422561  9  5 f   -     -     -         8637    0    0 
+pktfives  951422579  9  4 f   -     -     -         8637    0    0 
+pktfives  951422605  9  3 f   -     -     -         8637    0    0 
+pktfives  951422699  9  2 Bk  kf    -     -         8637  200    0 
+pktfives  951422730  9  1 Bf  -     -     -         8437  100    0 
+pktfives  951422774  9  9 f   -     -     -         8337    0    0 
+pktfives  951422804  9  8 f   -     -     -         8337    0    0 
+pktfives  951422837  9  7 f   -     -     -         8337    0    0 
+pktfives  951422869  9  6 f   -     -     -         8337    0    0 
+pktfives  951422901  9  5 f   -     -     -         8337    0    0 
+pktfives  951422942  9  4 f   -     -     -         8337    0    0 
+pktfives  951423004  9  3 f   -     -     -         8337    0    0 
+pktfives  951423050  9  2 Bf  -     -     -         8337  400    0 
+pktfives  951423080  9  1 Bf  -     -     -         7937  200    0 
+pktfives  951423132  9  9 f   -     -     -         7737    0    0 
+pktfives  951423197  9  8 f   -     -     -         7737    0    0 
+pktfives  951423236  9  7 f   -     -     -         7737    0    0 
+pktfives  951423279  9  6 f   -     -     -         7737    0    0 
+pktfives  951423285  9  5 f   -     -     -         7737    0    0 
+pktfives  951423330  9  4 f   -     -     -         7737    0    0 
+pktfives  951423381  8  2 f   -     -     -         7737    0    0 
+pktfives  951423439  8  2 Bk  kf    -     -         7737 1600    0 
+pktfives  951423472  8  1 Bf  -     -     -         6137  800    0 
+pktfives  951423515  8  8 f   -     -     -         5337    0    0 
+pktfives  951423554  8  7 f   -     -     -         5337    0    0 
+pktfives  951423596  8  6 f   -     -     -         5337    0    0 
+pktfives  951423612  8  5 f   -     -     -         5337    0    0 
+pktfives  951423626  6  3 f   -     -     -         5337    0    0 
+pktfives  951423656  6  3 f   -     -     -         5337    0    0 
+pktfives  951423676  6  2 Bk  k     k     f         5337 1600    0 
+pktfives  951423743  6  1 Bf  -     -     -         3737 1600    0 
+pktfives  951423757  6  6 f   -     -     -         2137    0    0 
+pktfives  951423768  6  5 f   -     -     -         2137    0    0 
+pktfives  951423788  6  4 f   -     -     -         2137    0    0 
+pktfives  951423792  6  3 f   -     -     -         2137    0    0 
+pktfives  951423809  6  2 BA  -     -     -         2137 2137    0 Qc Kd
+pktfives  951488638 12  3 cf  -     -     -         5000   50    0 
+pktfives  951488754 11  2 Bk  k     kf    -         4950   50    0 
+pktfives  951488868 11  1 Bc  k     kf    -         4900  325    0 
+pktfives  951488947 11 11 f   -     -     -         4575    0    0 
+pktfives  951488975 11 10 f   -     -     -         4575    0    0 
+pktfives  951489070 11  9 cf  -     -     -         4575  100    0 
+pktfives  951489139 10  7 c   cf    -     -         4475  700    0 
+pktfives  951489225 10  6 r   bA    -     -         3775 3775 4375 
+pktfives  951489263 10  5 f   -     -     -         4375    0    0 
+pktfives  951489297  9  4 f   -     -     -         4375    0    0 
+pktfives  951489335  9  3 c   rA    -     -         4375 4375    0 Jh As
+pktfives  951510861 13 12 cc  f     -     -         6000  280    0 
+pktfives  951510963 13 11 c   c     bf    -         5720 1840    0 
+pktfives  951511044 13 10 f   -     -     -         3880    0    0 
+pktfives  951511095 13  9 f   -     -     -         3880    0    0 
+pktfives  951511149 13  8 cc  kc    b     bA        3880 3880 6900 
+pktfives  951511213 13  7 c   f     -     -         6900   80    0 
+pktfives  951511296 13  6 f   -     -     -         6820    0    0 
+pktfives  951511386 13  5 f   -     -     -         6820    0    0 
+pktfives  951511529 12  4 f   -     -     -         6820    0    0 
+pktfives  951511603 12  3 c   k     kf    -         6820  160    0 
+pktfives  951511648 12  2 Br  b     -     -         6660 4160 8680 Qs Qc
+pktfives  951511715 11  1 Bf  -     -     -        11180   80    0 
+pktfives  951511757 11 11 r   c     -     -        11100 6380 15720 Ac As
+pktfives  951511808 10  9 f   -     -     -        20440    0    0 
+pktfives  951511840 10  8 f   -     -     -        20440    0    0 
+pktfives  951511892 10  7 cf  -     -     -        20440  320    0 
+pktfives  951511925  9  5 f   -     -     -        20120    0    0 
+pktfives  951511941  9  5 c   k     b     -        20120  880 1680 
+pktfives  951511990  9  4 f   -     -     -        20920    0    0 
+pktfives  951512012  9  3 cf  -     -     -        20920  320    0 
+pktfives  951512033  9  2 Bk  kf    -     -        20600  320    0 
+pktfives  951512056  8  1 Bf  -     -     -        20280  160    0 
+pktfives  951512090  8  8 r   k     f     -        20120  800    0 
+pktfives  951512119  8  7 f   -     -     -        19320    0    0 
+pktfives  951512124  8  6 f   -     -     -        19320    0    0 
+pktfives  951512141  8  5 f   -     -     -        19320    0    0 
+pktfives  951512155  8  4 f   -     -     -        19320    0    0 
+pktfives  951512225  8  3 f   -     -     -        19320    0    0 
+pktfives  951512251  8  2 Br  -     -     -        19320 1920 2560 
+pktfives  951512296  8  1 Bf  -     -     -        19960  320    0 
+pktfives  951512306  8  8 f   -     -     -        19640    0    0 
+pktfives  951512327  8  7 c   k     f     -        19640  640    0 
+pktfives  951512356  8  6 c   r     b     b        19000 9440 12800 
+pktfives  951512412  8  5 cc  k     bA    -        22360 22360 10000 5d 5h
+pktfives  951512465  7  4 f   -     -     -        10000    0    0 
+pktfives  951512514  7  3 f   -     -     -        10000    0    0 
+pktfives  951512558  7  2 BrA -     -     -        10000 10000    0 Ah Jd
+pktfives  951513197 21 12 c   c     f     -         5000  320    0 
+pktfives  951513244 21 11 f   -     -     -         4680    0    0 
+pktfives  951513308 21 10 f   -     -     -         4680    0    0 
+pktfives  951513394 20  9 cc  b     bcA   -         4680 4680 14760 Kc Js
+pktfives  951513499 19  8 rc  -     -     -        14760 5000    0 Kc Ks
+pktfives  951513606 18  7 f   -     -     -         9760    0    0 
+pktfives  951513698 18  6 f   -     -     -         9760    0    0 
+pktfives  951513756 18  5 rc  kf    -     -         9760 1434    0 
+pktfives  951513831 18  4 f   -     -     -         8326    0    0 
+pktfives  951513907 18  3 rr  kf    -     -         8326 2700    0 
+pktfives  951513975 18  2 Bk  f     -     -         5626  160    0 
+pktfives  951514071 17  1 Bf  -     -     -         5466   80    0 
+pktfives  951514126 16 16 f   -     -     -         5386    0    0 
+pktfives  951514214 16 15 c   b     c     f         5386 2160    0 
+pktfives  951514311 16 14 c   f     -     -         3226  160    0 
+pktfives  951514376 16 13 f   -     -     -         3066    0    0 
+pktfives  951514438 16 12 f   -     -     -         3066    0    0 
+pktfives  951514501 16 11 rA  -     -     -         3066 3066    0 2s Ad
+pktfives  951520143 11  3 cc  kr    bA    -        10000 10000 14513 
+pktfives  951520269 11  2 Bk  k     k     f        14513   50    0 
+pktfives  951520306 11  1 Bc  b     -     -        14463  525 1050 
+pktfives  951520382 11 11 cc  b     b     k        14988 1880 4512 Qd Ks
+pktfives  951520511 11 10 c   f     -     -        17620  350    0 
+pktfives  951520585 11  9 c   f     -     -        17270  350    0 
+pktfives  951520649 11  8 f   -     -     -        16920    0    0 
+pktfives  951520722 11  7 f   -     -     -        16920    0    0 
+pktfives  951520804 11  6 f   -     -     -        16920    0    0 
+pktfives  951520858 11  5 cf  -     -     -        16920  200    0 
+pktfives  951520915 10  4 c   f     -     -        16720 1200    0 
+pktfives  951520969 10  3 r   f     -     -        15520  500    0 
+pktfives  951521066  9  2 Bk  kf    -     -        15020  200    0 
+pktfives  951521201  9  1 Bc  krA   -     -        14820 14820 21820 
+pktfives  951521266  9  9 f   -     -     -        21820    0    0 
+pktfives  951521306  9  8 cf  -     -     -        21820 1800    0 
+pktfives  951521425  8  7 f   -     -     -        20020    0    0 
+pktfives  951521478  8  6 f   -     -     -        20020    0    0 
+pktfives  951521586  8  5 f   -     -     -        20020    0    0 
+pktfives  951521629  8  4 f   -     -     -        20020    0    0 
+pktfives  951521682  8  3 f   -     -     -        20020    0    0 
+pktfives  951521712  7  2 Bf  -     -     -        20020  800    0 
+pktfives  951521743  7  1 Bc  kcc   -     -        19220 8587    0 6c 2c
+pktfives  951521802  7  7 f   -     -     -        10633    0    0 
+pktfives  951521833  7  6 f   -     -     -        10633    0    0 
+pktfives  951521895  6  4 f   -     -     -        10633    0    0 
+pktfives  951521915  6  3 f   -     -     -        10633    0    0 
+pktfives  951521936  6  2 BrA -     -     -        10633 10633    0 Ks 9c
+pktfives  951777141 20  6 f   -     -     -         5000    0    0 
+pktfives  951777212 20  5 c   kf    -     -         5000   50    0 
+pktfives  951777411 20  4 f   -     -     -         4950    0    0 
+pktfives  951777517 20  3 f   -     -     -         4950    0    0 
+pktfives  951777574 20  2 Bk  kf    -     -         4950  100    0 
+pktfives  951777707 19  1 Bf  -     -     -         4850   50    0 
+pktfives  951777861 19 19 c   rA    -     -         4800 4800 9100 
+pktfives  951777983 19 18 f   -     -     -         9100    0    0 
+pktfives  951778040 18 16 f   -     -     -         9100    0    0 
+pktfives  951778201 16 13 cf  -     -     -         9100  200    0 
+pktfives  951778284 16 13 c   k     rA    -         8900 8900 11625 4h Kc
+pktfives  951778408 16 12 cc  kc    b     -        11625 6800 2100 Kc 3h
+pktfives  951778537 16 11 f   -     -     -         6925    0    0 
+pktfives  951778610 16 10 c   bA    -     -         6925 6925 17575 8d 7d
+pktfives  951778708 14  8 cf  -     -     -        17575  400    0 
+pktfives  951778787 14  7 f   -     -     -        17175    0    0 
+pktfives  951778825 14  6 cf  -     -     -        17175  800    0 
+pktfives  951778963 12  4 cc  -     -     -        16375 3050    0 8c Kc
+pktfives  951779009 12  4 cf  -     -     -        13325  800    0 
+pktfives  951779112 10  3 f   -     -     -        12525    0    0 
+pktfives  951779293 10  2 Bf  -     -     -        12525 1600    0 
+pktfives  951779361  8  1 Bc  k     k     b        10925 4000 1850 Jd 8c
+pktfives  951779430  8  8 f   -     -     -         8775    0    0 
+pktfives  951779442  8  7 c   kf    -     -         8775 1600    0 
+pktfives  951779538  7  6 f   -     -     -         7175    0    0 
+pktfives  951779580  7  5 f   -     -     -         7175    0    0 
+pktfives  951779633  7  4 f   -     -     -         7175    0    0 
+pktfives  951779680  7  3 f   -     -     -         7175    0    0 
+pktfives  951779702  7  2 Bc  -     -     -         7175 6650    0 Kh Jh
+pktfives  951779733  7  1 BA  -     -     -          525  525    0 6d 8s
+pktfives  951842851 15  6 f   -     -     -         6000    0    0 
+pktfives  951842999 15  5 f   -     -     -         6000    0    0 
+pktfives  951843056 15  4 c   kc    k     k         6000  300  780 As 5h
+pktfives  951843148 15  3 f   -     -     -         6480    0    0 
+pktfives  951843234 15  2 Bf  -     -     -         6480   80    0 
+pktfives  951843321 14  1 Bf  -     -     -         6400   40    0 
+pktfives  951843433 14 14 f   -     -     -         6360    0    0 
+pktfives  951843481 14 13 f   -     -     -         6360    0    0 
+pktfives  951843551 13 11 f   -     -     -         6360    0    0 
+pktfives  951843600 12  9 c   k     k     k         6360  720    0 As 8d
+pktfives  951843680 12  8 f   -     -     -         5640    0    0 
+pktfives  951843746 12  7 rc  -     -     -         5640  880 1840 3s As
+pktfives  951843777 11  5 c   c     k     bA        6600 6600 9320 
+pktfives  951843854 11  5 cc  kf    -     -         9320  640    0 
+pktfives  951843891 11  4 f   -     -     -         8680    0    0 
+pktfives  951843946 10  3 c   b     k     kf        8680  880    0 
+pktfives  951844011 10  2 Bf  -     -     -         7800  320    0 
+pktfives  951844069 10  1 Bc  krA   -     -         7480 7480  160 9d Ad
+pktfives  951844140 10 10 cA  -     -     -          160  160  640 8h As
+pktfives  951844180  9  9 f   -     -     -          640    0    0 
+pktfives  951844266  8  7 cA  -     -     -          640  640 2880 Kd 9s
+pktfives  951844321  8  6 f   -     -     -         2880    0    0 
+pktfives  951844405  8  5 rA  -     -     -         2880 2880 3360 9s Ah
+pktfives  951844436  8  4 f   -     -     -         3360    0    0 
+pktfives  951844507  8  3 f   -     -     -         3360    0    0 
+pktfives  951844534  8  2 BcA -     -     -         3360 3360    0 Qd 3d
+pktfives  951846246 17  4 c   b     -     -         5000  350  600 
+pktfives  951846335 17  3 r   k     kc    b         5250 2425 3450 
+pktfives  951846401 17  2 Bc  k     b     kf        6275  900    0 
+pktfives  951846506 17  1 Bf  -     -     -         5375   25    0 
+pktfives  951846569 17 17 f   -     -     -         5350    0    0 
+pktfives  951846628 17 16 f   -     -     -         5350    0    0 
+pktfives  951846692 17 15 c   b     b     -         5350 2300 3300 
+pktfives  951846762 17 14 cc  kf    -     -         6350  650    0 
+pktfives  951846811 17 13 f   -     -     -         5700    0    0 
+pktfives  951846865 17 12 f   -     -     -         5700    0    0 
+pktfives  951846937 16 11 f   -     -     -         5700    0    0 
+pktfives  951847016 16 10 f   -     -     -         5700    0    0 
+pktfives  951847065 16  9 f   -     -     -         5700    0    0 
+pktfives  951847088 16  8 f   -     -     -         5700    0    0 
+pktfives  951847134 16  7 f   -     -     -         5700    0    0 
+pktfives  951847225 15  5 f   -     -     -         5700    0    0 
+pktfives  951847272 15  4 f   -     -     -         5700    0    0 
+pktfives  951847324 15  3 f   -     -     -         5700    0    0 
+pktfives  951847358 15  2 Bk  kf    -     -         5700  200    0 
+pktfives  951847426 14  1 Bf  -     -     -         5500  200    0 
+pktfives  951847475 13 13 f   -     -     -         5300    0    0 
+pktfives  951847494 13 12 f   -     -     -         5300    0    0 
+pktfives  951847531 13 11 f   -     -     -         5300    0    0 
+pktfives  951847587 13 10 f   -     -     -         5300    0    0 
+pktfives  951847628 13  9 c   kf    -     -         5300  400    0 
+pktfives  951847708 13  8 c   Q     -     -         4900  400    0 

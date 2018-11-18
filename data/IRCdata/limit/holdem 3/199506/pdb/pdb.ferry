@@ -1,0 +1,438 @@
+ferry     803405241  2  2 B   -     -     -         1000   10   15 
+ferry     803405253  2  1 Bcc kc    f     -         1005   30    0 
+ferry     803405373  2  2 B   -     -     -          975   10   15 
+ferry     803405381  2  1 Bc  f     -     -          980   10    0 
+ferry     803405522  2  2 Bk  k     f     -          970   10    0 
+ferry     803405610  2  1 Bc  kc    f     -          960   20    0 
+ferry     803405748  2  2 B   -     -     -          940   10   15 
+ferry     803405756  2  1 Bc  k     k     k          945   10   20 Ad 6h
+ferry     803405811  2  2 Bc  c     c     c          955   70    0 Tc 9s
+ferry     803405901  2  1 Bc  k     b     -          885   30   40 
+ferry     803405979  2  2 Bc  c     k     k          895   30   60 Kh 2h
+ferry     803406041  2  1 Bc  f     -     -          925   10    0 
+ferry     803406068  2  2 B   -     -     -          915   10   15 
+ferry     803406075  2  1 Bcc br    -     -          920   50   90 
+ferry     803406141  2  2 B   -     -     -          960   10   15 
+ferry     803406146  2  1 Bc  f     -     -          965   10    0 
+ferry     803406168  2  2 Bk  c     c     f          955   40    0 
+ferry     803406214  2  1 Bc  b     -     -          915   20   30 
+ferry     803406254  2  2 Bk  b     b     -          925   40   60 
+ferry     803406346  2  1 Bc  f     -     -          945   10    0 
+ferry     803406364  2  2 Bc  f     -     -          935   20    0 
+ferry     803406388  2  1 Bc  k     kc    bc         915   70    0 Ac Tc
+ferry     803406442  2  2 Bc  c     f     -          845   30    0 
+ferry     803406489  2  1 Bc  br    -     -          815   40   70 
+ferry     803406529  2  2 B   -     -     -          845   10   15 
+ferry     803406536  2  1 Bc  b     -     -          850   20   30 
+ferry     803406553  2  2 Br  b     b     -          860   60  100 
+ferry     803406597  2  1 Bc  f     -     -          900   10    0 
+ferry     803406614  2  2 Bc  rr    c     k          890   80    0 3c 5s
+ferry     803406664  2  1 Bcc b     -     -          810   30   50 
+ferry     803406703  2  2 Bc  c     k     k          830   30   30 As 4h
+ferry     803406749  2  1 Bcc k     kc    kf         830   40    0 
+ferry     803406828  2  2 Bk  c     c     b          790   60    0 2s 2d
+ferry     803406878  2  1 Bc  b     -     -          730   20   30 
+ferry     803406912  2  2 Bc  f     -     -          740   20    0 
+ferry     803406938  2  1 Bc  b     -     -          720   20   30 
+ferry     803406962  2  2 B   -     -     -          730   10   15 
+ferry     803406967  2  1 Bc  f     -     -          735   10    0 
+ferry     803406985  2  2 B   -     -     -          725   10   15 
+ferry     803406993  2  1 Bc  b     -     -          730   20   30 
+ferry     803407013  2  2 Bc  c     b     -          740   50   80 
+ferry     803407063  2  1 Bc  b     -     -          770   20   30 
+ferry     803407088  2  2 B   -     -     -          780   10   15 
+ferry     803407095  2  1 Bc  f     -     -          785   10    0 
+ferry     803407112  2  2 B   -     -     -          775   10   15 
+ferry     803407124  2  1 Bcc b     -     -          780   30   50 
+ferry     803407168  2  2 B   -     -     -          800   10   15 
+ferry     803407176  2  1 Bcc b     -     -          805   30   50 
+ferry     803407206  2  2 Bk  f     -     -          825   10    0 
+ferry     803407248  2  1 Bc  k     f     -          815   10    0 
+ferry     803407308  2  2 Bk  b     -     -          805   20   30 
+ferry     803407343  2  1 Bc  b     -     -          815   20   30 
+ferry     803407374  2  2 Br  -     -     -          825   30   50 
+ferry     803407395  2  1 Bc  k     f     -          845   10    0 
+ferry     803407434  2  2 Bc  r     -     -          835   40   70 
+ferry     803407461  2  1 Bcc kc    kc    k          865   50  100 7d 3h
+ferry     803407527  2  2 B   -     -     -          915   10   15 
+ferry     803407536  2  1 Bcc kc    kc    kc         920   70    0 3h Td
+ferry     803407633  2  2 B   -     -     -          850   10   15 
+ferry     803407648  2  1 Bcc f     -     -          855   20    0 
+ferry     803407676  2  2 Bk  r     -     -          835   30   50 
+ferry     803407702  2  1 Bc  f     -     -          855   10    0 
+ferry     803407722  2  2 B   -     -     -          845   10   15 
+ferry     803407727  2  1 Bcc br    k     k          850   50  100 3h 7d
+ferry     803407781  2  2 B   -     -     -          900   10   15 
+ferry     803407791  2  1 Bcc f     -     -          905   20    0 
+ferry     803407835  2  2 Bk  f     -     -          885   10    0 
+ferry     803407860  2  1 Bcc f     -     -          875   20    0 
+ferry     803407928  3  2 Bf  -     -     -          855   10    0 
+ferry     803407947  3  1 Bc  f     -     -          845   10    0 
+ferry     803407978  3  3 c   r     k     c          835   50    0 3c Td
+ferry     803408133  3  2 Bc  f     -     -          785   20    0 
+ferry     803408194  3  1 Bf  -     -     -          765    5    0 
+ferry     803408212  3  3 c   r     b     -          760   50  100 
+ferry     803408264  3  2 Bc  f     -     -          810   20    0 
+ferry     803408352  3  1 BKQ -     -     -          790    5    0 
+ferry     803408439  2  2 Bc  f     -     -          785   20    0 
+ferry     803408461  2  1 Bcc b     -     -          765   30   50 
+ferry     803408496  2  2 B   -     -     -          785   10   15 
+ferry     803408502  2  1 Bcc bc    kc    kc         790   80    0 7c 8s
+ferry     803408580  2  2 Bc  r     -     -          710   40   70 
+ferry     803408606  2  1 Br  -     -     -          740   20   30 
+ferry     803408618  2  2 Bk  b     b     -          750   40   60 
+ferry     803408660  2  1 Bcr b     k     f          770   40    0 
+ferry     803408734  2  2 Bc  c     f     -          730   30    0 
+ferry     803408769  2  1 Bcc kf    -     -          700   20    0 
+ferry     803408806  2  2 Bk  b     -     -          680   20   30 
+ferry     803408831  2  1 Bc  kf    -     -          690   10    0 
+ferry     803408869  2  2 B   -     -     -          680   10   15 
+ferry     803408877  2  1 Bc  kc    b     -          685   40   60 
+ferry     803408986  2  2 B   -     -     -          705   10   15 
+ferry     803408993  2  1 Bcc b     -     -          710   30   50 
+ferry     803409031  2  2 Bc  c     c     c          730   70  140 Jh As
+ferry     803409070  2  1 Bc  k     f     -          800   10    0 
+ferry     803409110  2  2 B   -     -     -          790   10   15 
+ferry     803414280  2  2 BKQ -     -     -          795   10    0 
+ferry     803423024  3  3 c   -     -     -          785   10   30 
+ferry     803423342  3  3 KQ  -     -     -          805    0    0 
+ferry     803423468  4  3 cc  kf    -     -          805   20    0 
+ferry     803423500  4  2 Bk  f     -     -          785   10    0 
+ferry     803423554  4  1 Bc  f     -     -          775   10    0 
+ferry     803423599  4  4 cc  f     -     -          765   20    0 
+ferry     803423647  4  3 c   f     -     -          745   10    0 
+ferry     803423678  4  2 Bk  br    b     b          735   80  145 
+ferry     803423739  4  1 Bcc kc    k     kc         800   60    0 2s 4d
+ferry     803423826  4  4 c   k     r     b          740   70  145 Qc 5h
+ferry     803423886  5  4 f   -     -     -          815    0    0 
+ferry     803423950  5  3 c   f     -     -          815   10    0 
+ferry     803424006  5  2 Br  -     -     -          805   20   30 
+ferry     803424035  5  1 Bc  f     -     -          815   10    0 
+ferry     803424097  5  5 c   b     b     b          805   60  110 
+ferry     803424146  5  4 cc  k     f     -          855   20    0 
+ferry     803424242  5  3 c   f     -     -          835   10    0 
+ferry     803424271  4  2 B   -     -     -          825   10   15 
+ferry     803424279  5  1 Bc  b     b     b          830   60  130 
+ferry     803424330  5  5 c   f     -     -          900   20    0 
+ferry     803424363  5  4 cc  brc   c     b          880  110    0 9c 4s
+ferry     803424427  5  3 cf  -     -     -          770   10    0 
+ferry     803424449  5  2 Br  b     b     r          760   90    0 7h Ac
+ferry     803424510  5  1 Bc  f     -     -          670   10    0 
+ferry     803424549  4  4 c   k     k     c          660   30    0 6c 8c
+ferry     803424587  4  3 c   k     k     k          630   10   30 6c Qh
+ferry     803424642  5  2 Bk  f     -     -          650   10    0 
+ferry     803424672  5  1 Bc  f     -     -          640   20    0 
+ferry     803424725  5  5 c   c     f     -          620   20    0 
+ferry     803424763  5  4 c   k     b     br         600   90  180 
+ferry     803424822  5  3 c   f     -     -          690   10    0 
+ferry     803424880  6  2 Bk  k     k     b          680   30   75 5d Ac
+ferry     803424931  5  1 Bf  -     -     -          725    5    0 
+ferry     803424953  5  5 f   -     -     -          720    0    0 
+ferry     803424997  6  4 cc  c     b     f          720   50    0 
+ferry     803425057  4  2 Bk  b     -     -          670   20   40 
+ferry     803425082  4  1 Bc  f     -     -          690   10    0 
+ferry     803425112  3  3 c   k     k     b          680   30    0 Ah 8c
+ferry     803425142  2  2 B   -     -     -          650   10   15 
+ferry     803425150  2  1 Bc  b     k     k          655   20   40 7s Js
+ferry     803425201  2  2 Br  c     f     -          675   30    0 
+ferry     803425224  2  1 Br  b     kc    kc         645   70  140 8h 8s
+ferry     803425271  2  2 Bk  k     k     k          715   10   20 6c Kd
+ferry     803425322  2  1 Bc  b     k     -          725   20   40 
+ferry     803425616  2  2 c   c     c     c          745   60  120 9s 7c
+ferry     803425704  2  2 Bc  k     f     -          805   20    0 
+ferry     803425917  2  1 Bcc kf    -     -          785   20    0 
+ferry     803425949  2  2 Bk  k     k     b          765   30   40 
+ferry     803426113  2  1 Bcc k     f     -          775   20    0 
+ferry     803426203  2  2 B   -     -     -          755   10   15 
+ferry     803426260  2  1 Bcc kc    f     -          760   30    0 
+ferry     803426417  6  2 Bc  f     -     -          730   20    0 
+ferry     803426519  5  1 Brc br    kc    kc         710  110  350 5h 5c
+ferry     803426619  6  6 cc  rc    c     c          950  110    0 5s Ah
+ferry     803426716  6  5 cc  f     -     -          840   20    0 
+ferry     803426780  6  4 ccc f     -     -          820   40    0 
+ferry     803426856  6  3 cc  f     -     -          780   20    0 
+ferry     803426910  6  2 Bf  -     -     -          760   10    0 
+ferry     803426996  6  1 Bc  f     -     -          750   20    0 
+ferry     803427062  6  6 cc  rc    c     cc         730  180    0 Th Qh
+ferry     803427229  6  5 cc  f     -     -          550   20    0 
+ferry     803427308  7  5 rr  brc   brc   b          530  180  535 As Ah
+ferry     803427408  7  4 cc  kc    kc    kf         885   50    0 
+ferry     803427524  8  3 cc  kc    kc    kc         835   70  175 Qc Js
+ferry     803427602  8  2 Bc  kcc   kf    -          940   60    0 
+ferry     803427760  8  1 Bc  kf    -     -          880   20    0 
+ferry     803427882  9  9 f   -     -     -          860    0    0 
+ferry     803427961  9  8 rc  c     c     f          860   70    0 
+ferry     803428054  9  8 cc  cc    kc    f          790   60    0 
+ferry     803428141  9  7 cc  br    rc    rr         730  240  367 Ac Js
+ferry     803428234 10  7 cf  -     -     -          857   10    0 
+ferry     803428319  9  5 ccc r     b     -          847   80  225 
+ferry     803428395  8  4 c   b     b     k          992   40  170 Ah As
+ferry     803428527  9  2 c   b     k     kc        1122   40    0 Ah Qs
+ferry     803428622  8  1 Bf  -     -     -         1082   10    0 
+ferry     803428663  8  1 Bc  kc    kf    -         1072   40    0 
+ferry     803428767  9  9 KQ  -     -     -         1032    0    0 
+ferry     803507719  9  3 c   k     b     b         1032   50  125 Qd 7d
+ferry     803507793  8  2 Bk  k     k     k         1107   10    0 3c 8s
+ferry     803507873  8  1 Bf  -     -     -         1097    5    0 
+ferry     803507956  9  9 c   f     -     -         1092   10    0 
+ferry     803508026  9  8 c   c     k     b         1082   40   95 
+ferry     803508079  9  7 c   c     rc    r         1137  120  212 As 7c
+ferry     803508210  9  6 cc  kf    -     -         1229   20    0 
+ferry     803508277  9  5 cc  f     -     -         1209   20    0 
+ferry     803508384 11  4 cc  kc    brc   kc        1189  140  398 4c 3s
+ferry     803508610 12  3 cc  kf    -     -         1447   20    0 
+ferry     803508686 11  2 Bc  kf    -     -         1427   20    0 
+ferry     803508738 11  1 Bc  kc    k     b         1407   40  150 9h Ac
+ferry     803508798 11 11 c   r     b     brr       1517  150  365 8h 8c
+ferry     803508928 11 10 c   f     -     -         1732   10    0 
+ferry     803509068 11  9 c   k     k     k         1722   10   35 9h 5s
+ferry     803509117 10  7 cc  c     f     -         1747   50    0 
+ferry     803509226  7  5 c   bc    kc    kc        1697   70    0 5h Ah
+ferry     803509356  9  6 crc bc    kc    kf        1627   80    0 
+ferry     803509457 10  5 cc  cc    c     cc        1547  110    0 Tc 5c
+ferry     803509589 11  4 cc  f     -     -         1437   20    0 
+ferry     803509686 11  4 cf  -     -     -         1417   10    0 
+ferry     803509853 10  2 Bc  kc    kc    k         1407   60    0 9s Js
+ferry     803509951  9  1 Bc  kf    -     -         1347   20    0 
+ferry     803509988  9  9 cc  f     -     -         1327   20    0 
+ferry     803510063  9  9 c   k     f     -         1307   20    0 
+ferry     803510111  7  6 c   k     f     -         1287   20    0 
+ferry     803510171  7  5 f   -     -     -         1267    0    0 
+ferry     803510188  7  4 ccc kf    -     -         1267   40    0 
+ferry     803510236  7  3 cc  kc    kc    br        1227  110  235 Qc 8h
+ferry     803510316  8  3 cc  f     -     -         1352   20    0 
+ferry     803510380  9  2 Bc  k     f     -         1332   20    0 
+ferry     803510467  9  1 Bf  -     -     -         1312    5    0 
+ferry     803510563  9  9 c   k     f     -         1307   10    0 
+ferry     803510657  9  8 c   c     f     -         1297   20    0 
+ferry     803510724  9  7 rr  kc    c     f         1277   80    0 
+ferry     803510777  9  6 r   b     -     -         1197   30   65 
+ferry     803510821 10  5 cc  cc    kc    bc        1232  120    0 6d 5s
+ferry     803510914 11  4 cc  k     k     kf        1112   20    0 
+ferry     803511025  9  3 r   k     k     b         1092   40   95 Ac Ah
+ferry     803511093 10  2 Bc  kf    -     -         1147   20    0 
+ferry     803511164 10  1 Bcc b     b     b         1127   70  170 
+ferry     803511224 10 10 c   c     k     b         1227   40   80 
+ferry     803511294  8  8 c   c     c     f         1267   40    0 
+ferry     803511437  8  7 c   kc    b     b         1227   70    0 As 4d
+ferry     803511516  7  5 cc  k     f     -         1157   20    0 
+ferry     803511553  7  4 f   -     -     -         1137    0    0 
+ferry     803511585  8  4 c   k     k     b         1137   30    0 Th Qc
+ferry     803511661  8  3 cc  kf    -     -         1107   20    0 
+ferry     803511717  9  2 Bc  kf    -     -         1087   20    0 
+ferry     803511780  9  1 Bf  -     -     -         1067    5    0 
+ferry     803511830  9  9 c   c     brc   bc        1062  140    0 7d Td
+ferry     803511914 10  9 c   c     f     -          922   20    0 
+ferry     803512004 10  8 f   -     -     -          902    0    0 
+ferry     803512092 10  7 c   c     c     c          902   70    0 Qc 5c
+ferry     803512165 10  6 ccc cc    c     f          832   90    0 
+ferry     803512279  9  4 c   c     f     -          742   20    0 
+ferry     803512330  9  3 f   -     -     -          722    0    0 
+ferry     803512401  9  2 Bk  kf    -     -          722   10    0 
+ferry     803512498 10  1 Bc  kf    -     -          712   10    0 
+ferry     803512562 10 10 c   f     -     -          702   10    0 
+ferry     803512656  8  7 c   f     -     -          692   10    0 
+ferry     803512732  8  6 c   c     f     -          682   20    0 
+ferry     803512814  7  4 rr  cc    c     f          662   80    0 
+ferry     803512881  6  3 f   -     -     -          582    0    0 
+ferry     803512924  6  2 Bf  -     -     -          582   10    0 
+ferry     803512999  6  1 Bf  -     -     -          572    5    0 
+ferry     803513020  6  6 c   k     f     -          567   20    0 
+ferry     803513083  2  1 B   -     -     -          547   10   10 
+ferry     803513085  2  1 Bcc k     b     b          547   60    0 9h Kc
+ferry     803513141  2  2 B   -     -     -          487   10   15 
+ferry     803516414  2  2 B   -     -     -          492   10   20 
+ferry     803516763  2  2 BKQ -     -     -          502   10    0 
+ferry     803598083  9  8 c   cc    f     -          492   40    0 
+ferry     803598174 10  7 c   c     f     -          452   30    0 
+ferry     803598250 10  6 c   f     -     -          422   10    0 
+ferry     803598306 10  5 cc  ccc   cc    bf         412  120    0 
+ferry     803598471 11  4 c   c     k     b          292   40   85 
+ferry     803598558 11  3 cc  f     -     -          337   20    0 
+ferry     803598638 11  2 Bc  kc    kr    -          317   70  125 
+ferry     803598834  6  1 Bf  -     -     -          372    5    0 
+ferry     803598906  5  5 c   -     -     -          367   10   25 
+ferry     803598999  3  3 c   rc    c     c          382   90   95 5c Ad
+ferry     803599041  3  3 c   k     k     k          387   10    0 2h Jh
+ferry     803599097  5  2 Bc  k     c     f          377   40    0 
+ferry     803599181  5  1 Bc  kf    -     -          337   10    0 
+ferry     803599257  5  5 c   c     b     -          327   40   65 
+ferry     803599298  5  4 c   c     bc    b          352   80    0 Kc Ad
+ferry     803599357  6  3 c   kf    -     -          272   10    0 
+ferry     803599408  6  2 Bk  f     -     -          262   10    0 
+ferry     803599466  5  1 Bc  kc    kf    -          252   20    0 
+ferry     803599595  7  7 cc  c     f     -          232   30    0 
+ferry     803599690  7  6 rc  c     k     c          202   60  150 9h 9c
+ferry     803599783  8  6 c   f     -     -          292   10    0 
+ferry     803599874  8  5 f   -     -     -          282    0    0 
+ferry     803599939  9  5 f   -     -     -          282    0    0 
+ferry     803599962  8  4 f   -     -     -          282    0    0 
+ferry     803600088  8  3 cc  f     -     -          282   20    0 
+ferry     803600250  7  2 Bf  -     -     -          262   10    0 
+ferry     803600274  6  1 Bcc kc    kf    -          252   40    0 
+ferry     803600367  7  6 c   k     b     -          212   30   55 
+ferry     803600405  8  6 cc  f     -     -          237   20    0 
+ferry     803600503  8  5 cc  kf    -     -          217   20    0 
+ferry     803600563  8  4 c   c     f     -          197   20    0 
+ferry     803600720  8  4 f   -     -     -          177    0    0 
+ferry     803600773  9  3 cc  kc    kc    f          177   90    0 
+ferry     803600914  9  2 Bc  kf    -     -           87   20    0 
+ferry     803600963  9  1 Bc  kc    kc    kcA         67   67    0 7s 7d
+ferry     803657022  2  1 Bc  kc    kf    -         1000   30    0 
+ferry     803657068  3  1 Bf  -     -     -          970    5    0 
+ferry     803657095  3  3 c   c     r     b          965   80    0 Qh Ah
+ferry     803657135  3  2 B   -     -     -          885   10   15 
+ferry     803657141  3  1 Bc  k     f     -          890   10    0 
+ferry     803657162  3  3 c   c     c     c          880   60    0 Qc Th
+ferry     803657207  4  2 Bk  k     b     k          820   30    0 8s As
+ferry     803657275  4  1 Bc  bc    b     b          790   70  140 9d 2d
+ferry     803657313  4  4 c   k     k     k          860   10   30 Ah 3s
+ferry     803657397  4  3 c   k     b     k          880   30    0 3h 6h
+ferry     803657465  4  2 Bk  k     kf    -          850   10    0 
+ferry     803657505  4  1 Bf  -     -     -          840    5    0 
+ferry     803657523  4  4 f   -     -     -          835    0    0 
+ferry     803657575  4  3 c   c     k     r          835   60  125 Qs Th
+ferry     803657638  4  2 Bc  k     kf    -          900   20    0 
+ferry     803657685  4  1 Bc  kc    k     k          880   30    0 7s Kh
+ferry     803657735  4  4 c   k     c     f          850   30    0 
+ferry     803657818  4  3 c   k     k     k          820   10    0 Qh Td
+ferry     803657867  4  2 Bk  k     kc    k          810   30    0 As 8s
+ferry     803657927  5  1 Bcc kc    kf    -          780   30    0 
+ferry     803658036  5  5 rr  c     c     c          750   90  360 Kc Ks
+ferry     803658210  4  3 cc  c     f     -         1020   30    0 
+ferry     803658307  6  3 cc  k     b     b          990   60    0 2d Ac
+ferry     803658380  6  2 Bk  k     c     k          930   30    0 Ah 3c
+ferry     803658434  6  1 Bc  kc    br    b          900  100  260 
+ferry     803658535  6  6 c   b     b     f         1060   40    0 
+ferry     803658707  7  6 c   c     c     r         1020   80  260 Jc Qd
+ferry     803658805  7  5 cf  -     -     -         1200   10    0 
+ferry     803658867  7  4 cc  c     f     -         1190   40    0 
+ferry     803658961  7  3 f   -     -     -         1150    0    0 
+ferry     803659050  7  2 Bc  kc    kc    k         1150   70    0 8d 9d
+ferry     803659179  7  1 Bf  -     -     -         1080    5    0 
+ferry     803659275  6  6 c   f     -     -         1075   10    0 
+ferry     803659361  6  5 c   f     -     -         1065   20    0 
+ferry     803659446  6  4 c   kc    kf    -         1045   20    0 
+ferry     803659546  7  4 cc  f     -     -         1025   20    0 
+ferry     803659704  7  3 c   kf    -     -         1005   10    0 
+ferry     803659790  7  2 Bc  kc    kc    k          995   60    0 Jd Jh
+ferry     803659888  7  1 Bf  -     -     -          935    5    0 
+ferry     803659971  7  7 f   -     -     -          930    0    0 
+ferry     803660047  8  7 c   c     f     -          930   30    0 
+ferry     803660160  8  6 f   -     -     -          900    0    0 
+ferry     803660249  7  4 cc  kf    -     -          900   20    0 
+ferry     803660323  7  4 cc  bc    k     c          880   60    0 Jh Kc
+ferry     803660417  7  3 rrr b     b     -          820   90  175 
+ferry     803660458  7  2 Bf  -     -     -          905   10    0 
+ferry     803660514  7  1 Bc  k     kf    -          895   30    0 
+ferry     803660585  8  8 c   f     -     -          865   10    0 
+ferry     803660686  8  8 cc  rc    rrr   b          855  200  500 6d Qd
+ferry     803660807  8  7 f   -     -     -         1155    0    0 
+ferry     803660953  8  6 KQ  -     -     -         1155    0    0 
+ferry     803661176  8  4 f   -     -     -         1155    0    0 
+ferry     803661314  8  3 c   k     k     k         1155   10    0 9d 4d
+ferry     803661500  9  2 Bf  -     -     -         1145   10    0 
+ferry     803661665  8  1 BKQ -     -     -         1135    5    0 
+ferry     803661830  8  5 c   f     -     -         1130   10    0 
+ferry     803661912  7  4 c   k     c     k         1120   30   70 Ac 6h
+ferry     803661981 10  4 c   c     k     b         1160   40   80 
+ferry     803662047 10  3 cc  bc    kc    krrr      1200  180  455 7d 5d
+ferry     803662153 10  3 cc  kf    -     -         1475   20    0 
+ferry     803662267 11  2 Bcc kc    kf    Q         1455   50    0 
+ferry     803832463  3  3 c   b     -     -         1405   20   40 
+ferry     803832499  2  2 cc  b     b     bc        1425   90  180 Tc Kc
+ferry     803832556  2  2 B   -     -     -         1515   10   15 
+ferry     803832571  2  1 Bc  kc    kc    kf        1520   40    0 
+ferry     803832629  2  2 Bk  k     k     c         1480   30    0 9c Jh
+ferry     803832712  2  1 Bc  f     -     -         1450   10    0 
+ferry     803832742  2  2 Bk  k     k     b         1440   30   60 8h Ac
+ferry     803832797  2  1 Bc  k     k     k         1470   10   20 2s Qs
+ferry     803832823  2  2 B   -     -     -         1480   10   15 
+ferry     803832828  2  1 Bf  -     -     -         1485    5    0 
+ferry     803832835  2  2 B   -     -     -         1480   10   15 
+ferry     803832841  3  1 Bc  k     k     k         1485   10    0 4h Ah
+ferry     803832872  3  3 f   -     -     -         1475    0    0 
+ferry     803832879  3  2 B   -     -     -         1475   10   15 
+ferry     803832885  3  1 Bc  k     k     kf        1480   10    0 
+ferry     803832939  3  3 f   -     -     -         1470    0    0 
+ferry     803832950  3  2 Bk  k     b     -         1470   30   40 
+ferry     803832991  3  1 Bc  k     b     b         1480   50   90 
+ferry     803833023  3  3 f   -     -     -         1520    0    0 
+ferry     803833035  3  2 B   -     -     -         1520   10   15 
+ferry     803833040  3  1 Bc  k     k     b         1525   30   40 
+ferry     803833062  3  3 c   k     k     k         1535   10   25 7d Kd
+ferry     803833094  3  2 Bk  k     f     -         1550   10    0 
+ferry     803833130  3  1 Bc  k     kf    -         1540   10    0 
+ferry     803833166  3  3 f   -     -     -         1530    0    0 
+ferry     803833173  3  2 B   -     -     -         1530   10   15 
+ferry     803833177  3  1 Bc  kf    -     -         1535   10    0 
+ferry     803833212  3  3 c   k     k     b         1525   30   50 
+ferry     803833261  3  2 Br  b     b     b         1545   80  140 
+ferry     803833294  3  1 Bcc kf    -     -         1605   20    0 
+ferry     803833326  3  3 c   k     f     -         1585   10    0 
+ferry     803833351  3  2 Bf  -     -     -         1575   10    0 
+ferry     803833387  3  1 Bc  kc    kcc   br        1565  120    0 6c 7d
+ferry     803833459  4  4 f   -     -     -         1445    0    0 
+ferry     803833486  4  3 r   b     -     -         1445   30   60 
+ferry     803833503  4  2 Bk  k     k     b         1475   30   50 
+ferry     803833554  4  1 Bc  k     k     k         1495   10   20 7s 7c
+ferry     803833581  4  4 c   r     b     c         1505   70  155 Kh Jd
+ferry     803833624  4  3 rc  c     r     rrrrrrc   1590  340    0 Ac Qc
+ferry     803833713  4  2 Bc  k     f     -         1250   20    0 
+ferry     803833768  4  1 Bc  k     k     k         1230   10   30 2h As
+ferry     803833807  4  4 f   -     -     -         1250    0    0 
+ferry     803833913  4  3 f   -     -     -         1250    0    0 
+ferry     803833938  4  2 Bk  kf    -     -         1250   10    0 
+ferry     803833969  4  1 Bc  b     b     b         1240   60  130 Jc 5d
+ferry     803834017  4  4 f   -     -     -         1310    0    0 
+ferry     803834034  3  3 f   -     -     -         1310    0    0 
+ferry     803834045  3  2 Bk  k     k     b         1310   30   45 
+ferry     803834076  3  1 Bf  -     -     -         1325    5    0 
+ferry     803834106  3  3 c   c     f     -         1320   20    0 
+ferry     803834142  3  2 Bc  kf    -     -         1300   20    0 
+ferry     803834160  3  1 Bc  k     k     k         1280   10    0 7c 9s
+ferry     803834189  3  3 cf  -     -     -         1270   10    0 
+ferry     803834217  4  2 Br  k     b     b         1260   60  125 
+ferry     803834260  3  1 Bf  -     -     -         1325    5    0 
+ferry     803834279  3  3 f   -     -     -         1320    0    0 
+ferry     803834306  3  2 Bk  kf    -     -         1320   10    0 
+ferry     803834352  4  1 Bf  -     -     -         1310    5    0 
+ferry     803834401  5  5 c   f     -     -         1305   10    0 
+ferry     803834444  5  5 c   b     -     -         1295   20   40 
+ferry     803834479  5  4 f   -     -     -         1315    0    0 
+ferry     803834531  5  3 c   b     br    b         1315  100  230 9h 9d
+ferry     803834608  5  2 Bf  -     -     -         1445   10    0 
+ferry     803834697  4  1 Brc kc    k     kc        1435   70  230 Kc Kh
+ferry     803834787  6  5 cf  -     -     -         1595   10    0 
+ferry     803834857  6  3 c   b     b     b         1585   60  135 
+ferry     803834922  6  2 Bf  -     -     -         1660   10    0 
+ferry     803834964  6  1 Bc  kf    -     -         1650   20    0 
+ferry     803835039  6  6 f   -     -     -         1630    0    0 
+ferry     803835050  5  4 r   b     -     -         1630   30   50 
+ferry     803835083  6  4 f   -     -     -         1650    0    0 
+ferry     803835112  6  3 f   -     -     -         1650    0    0 
+ferry     803835186  6  2 Bk  k     k     b         1650   30    0 7d 4h
+ferry     803835228  8  1 Bc  kc    kf    -         1620   20    0 
+ferry     803835338  6  6 fQ  -     -     -         1600    0    0 
+ferry     803925991  5  4 c   b     b     -         1600   40   75 
+ferry     803926052  7  3 cf  -     -     -         1635   10    0 
+ferry     803926131  7  2 Bk  kf    -     -         1625   10    0 
+ferry     803926264  8  1 Bf  -     -     -         1615    5    0 
+ferry     803926373  9  9 c   b     b     -         1610   40   80 
+ferry     803926459  6  5 c   k     k     c         1650   30    0 7s 7c
+ferry     803926519  6  5 f   -     -     -         1620    0    0 
+ferry     803926624  8  5 c   c     c     c         1620   60    0 8d Qs
+ferry     803926679  9  4 f   -     -     -         1560    0    0 
+ferry     803926763  9  3 f   -     -     -         1560    0    0 
+ferry     803926839 11  2 Bf  -     -     -         1560   10    0 
+ferry     803926928 10  1 Bc  kf    -     -         1550   10    0 
+ferry     803926991 11 11 f   -     -     -         1540    0    0 
+ferry     803927109 11 10 c   kf    -     -         1540   10    0 
+ferry     803927268 11  9 c   f     -     -         1530   10    0 
+ferry     803927380 12  9 c   kf    -     -         1520   10    0 
+ferry     803927482 11  9 r   kc    kc    f         1510   50    0 
+ferry     803927615 11  7 c   kf    -     -         1460   10    0 
+ferry     803927722 12  6 c   f     -     -         1450   10    0 
+ferry     803927849 11  5 cf  -     -     -         1440   10    0 
+ferry     803927958 10  2 Bk  bc    b     b         1430   70  205 7c 9s
+ferry     803928107 11  1 BfQ -     -     -         1565    5    0 

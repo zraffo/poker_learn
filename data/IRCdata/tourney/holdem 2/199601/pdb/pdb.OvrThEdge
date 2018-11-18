@@ -1,0 +1,430 @@
+OvrThEdge 820808338 11  3 f   -     -     -          150    0    0 
+OvrThEdge 820808457 11  2 Bk  kf    -     -          150    2    0 
+OvrThEdge 820808567 11  1 Bf  -     -     -          148    1    0 
+OvrThEdge 820808609 10 10 c   f     -     -          147    2    0 
+OvrThEdge 820808699 10  9 cf  -     -     -          145    2    0 
+OvrThEdge 820808763 10  8 c   f     -     -          143    4    0 
+OvrThEdge 820808853  9  6 f   -     -     -          139    0    0 
+OvrThEdge 820808956  9  5 r   b     b     cA         139  139    0 Kh Kd
+OvrThEdge 820811078 16  8 f   -     -     -         2200    0    0 
+OvrThEdge 820811188 15  6 f   -     -     -         2200    0    0 
+OvrThEdge 820811286 15  5 f   -     -     -         2200    0    0 
+OvrThEdge 820811355 15  4 f   -     -     -         2200    0    0 
+OvrThEdge 820811426 15  3 f   -     -     -         2200    0    0 
+OvrThEdge 820811499 15  2 Bk  b     -     -         2200  140  200 
+OvrThEdge 820811546 15  1 Bf  -     -     -         2260   20    0 
+OvrThEdge 820811718 15 15 c   f     -     -         2240   40    0 
+OvrThEdge 820811884 14 13 f   -     -     -         2200    0    0 
+OvrThEdge 820811945 14 12 f   -     -     -         2200    0    0 
+OvrThEdge 820812034 13 10 r   -     -     -         2200  320  560 
+OvrThEdge 820812073 13 10 f   -     -     -         2440    0    0 
+OvrThEdge 820812116 13  9 f   -     -     -         2440    0    0 
+OvrThEdge 820812258 13  8 f   -     -     -         2440    0    0 
+OvrThEdge 820812383 12  7 f   -     -     -         2440    0    0 
+OvrThEdge 820812449 12  6 cc  k     bc    -         2440 1720 3680 Ad 8d
+OvrThEdge 820812535 11  5 c   k     b     -         4400  880 1440 
+OvrThEdge 820812615 11  4 f   -     -     -         4960    0    0 
+OvrThEdge 820812645 11  3 f   -     -     -         4960    0    0 
+OvrThEdge 820812736 11  2 Bk  kf    -     -         4960  160    0 
+OvrThEdge 820812787 11  1 Bc  kf    -     -         4800  320    0 
+OvrThEdge 820812860 11 11 c   c     f     -         4480 2240    0 
+OvrThEdge 820812981 10  9 f   -     -     -         2240    0    0 
+OvrThEdge 820813022 10  8 rA  -     -     -         2240 2240 3980 Qc Qs
+OvrThEdge 820813133  9  7 cc  -     -     -         3980 1160 3120 Kc Jd
+OvrThEdge 820813191  8  6 f   -     -     -         5940    0    0 
+OvrThEdge 820813240  6  4 f   -     -     -         5940    0    0 
+OvrThEdge 820813309  6  4 c   b     -     -         5940 2880 4480 
+OvrThEdge 820813345  6  3 f   -     -     -         7540    0    0 
+OvrThEdge 820813398  6  2 Bf  -     -     -         7540  640    0 
+OvrThEdge 820813423  6  1 Bcc k     kc    -         6900 2560    0 Qd 9d
+OvrThEdge 820813485  5  5 f   -     -     -         4340    0    0 
+OvrThEdge 820813537  4  4 f   -     -     -         4340    0    0 
+OvrThEdge 820813573  4  4 f   -     -     -         4340    0    0 
+OvrThEdge 820813601  4  3 r   cA    -     -         4340 4340 11620 Qh As
+OvrThEdge 820813647  3  2 B   -     -     -        11620 1280 1920 
+OvrThEdge 820813668  3  1 Bf  -     -     -        12260  640    0 
+OvrThEdge 820813681  3  3 f   -     -     -        11620    0    0 
+OvrThEdge 820813697  3  2 Bc  b     -     -        11620 8320 11520 
+OvrThEdge 820813724  3  1 Bf  -     -     -        14820  640    0 
+OvrThEdge 820813732  3  3 f   -     -     -        14180    0    0 
+OvrThEdge 820813741  3  2 Bf  -     -     -        14180 1280    0 
+OvrThEdge 820813755  3  1 Bf  -     -     -        12900  640    0 
+OvrThEdge 820813765  3  3 rc  -     -     -        12260 9815 20910 Jc Kd
+OvrThEdge 820813793  2  2 B   -     -     -        23355 1280 1920 
+OvrThEdge 820813814  2  1 Bf  -     -     -        23995  640    0 
+OvrThEdge 820813823  2  2 Bf  -     -     -        23355 1280    0 
+OvrThEdge 820813833  2  1 Br  -     -     -        22075 3280 4560 
+OvrThEdge 820813843  2  2 B   -     -     -        23355 1280 1920 
+OvrThEdge 820813845  2  1 Bc  k     k     k        23995 1280 2560 Ks 9c
+OvrThEdge 820813879  2  2 B   -     -     -        25275 1280 1920 
+OvrThEdge 820813885  2  1 Br  -     -     -        25915 3200 4480 
+OvrThEdge 820813896  2  2 B   -     -     -        27195 1280 1920 
+OvrThEdge 820813900  2  1 Bcf -     -     -        27835 1280    0 
+OvrThEdge 820813920  2  2 B   -     -     -        26555 1280 1920 
+OvrThEdge 820813924  2  1 Bf  -     -     -        27195  640    0 
+OvrThEdge 820813929  2  2 B   -     -     -        26555 1280 1920 
+OvrThEdge 820813933  2  1 Bf  -     -     -        27195  640    0 
+OvrThEdge 820813938  2  2 Bf  -     -     -        26555 1280    0 
+OvrThEdge 820813953  2  1 Bc  kf    -     -        25275 1280    0 
+OvrThEdge 820813978  2  2 Bf  -     -     -        23995 1280    0 
+OvrThEdge 820813992  2  1 Bf  -     -     -        22715  640    0 
+OvrThEdge 820813997  2  2 B   -     -     -        22075 1280 1920 
+OvrThEdge 820814000  2  1 Bc  b     -     -        22715 3840 5120 
+OvrThEdge 820814017  2  2 B   -     -     -        23995 2560 3840 
+OvrThEdge 820814019  2  1 Bf  -     -     -        25275 1280    0 
+OvrThEdge 820814024  2  2 Bf  -     -     -        23995 2560    0 
+OvrThEdge 820814041  2  1 Bf  -     -     -        21435 1280    0 
+OvrThEdge 820814050  2  2 B   -     -     -        20155 2560 3840 
+OvrThEdge 820814054  2  1 Bcf -     -     -        21435 2560    0 
+OvrThEdge 820814071  2  2 B   -     -     -        18875 2560 3840 
+OvrThEdge 820814076  2  1 Bc  b     -     -        20155 7680 10240 
+OvrThEdge 820814110  2  2 Bf  -     -     -        22715 2560    0 
+OvrThEdge 820814121  2  1 Bc  bc    -     -        20155 15045    0 Kc 4c
+OvrThEdge 820814145  2  2 B   -     -     -         5110 2560 3840 
+OvrThEdge 820814157  2  1 BrA -     -     -         6390 6390 8950 
+OvrThEdge 820814195  2  2 B   -     -     -         8950 2560 3840 
+OvrThEdge 820814199  2  1 Bf  -     -     -        10230 1280    0 
+OvrThEdge 820814204  2  2 B   -     -     -         8950 2560 3840 
+OvrThEdge 820814208  2  1 Br  k     bA    -        10230 10230 16240 
+OvrThEdge 820814251  2  2 B   -     -     -        16240 2560 3840 
+OvrThEdge 820814254  2  1 Br  -     -     -        17520 6400 8960 
+OvrThEdge 820814268  2  2 B   -     -     -        20080 2560 3840 
+OvrThEdge 820814271  2  1 Br  -     -     -        21360 6560 9120 
+OvrThEdge 820814284  2  2 Bf  -     -     -        23920 2560    0 
+OvrThEdge 820814293  2  1 Bf  -     -     -        21360 1280    0 
+OvrThEdge 820814298  2  2 B   -     -     -        20080 2560 3840 
+OvrThEdge 820814301  2  1 Bf  -     -     -        21360 1280    0 
+OvrThEdge 820814306  2  2 Bf  -     -     -        20080 2560    0 
+OvrThEdge 820814320  2  1 Bf  -     -     -        17520 1280    0 
+OvrThEdge 820814327  2  2 Bf  -     -     -        16240 2560    0 
+OvrThEdge 820814344  2  1 Bf  -     -     -        13680 1280    0 
+OvrThEdge 820814354  2  2 B   -     -     -        12400 2560 3840 
+OvrThEdge 820814366  2  1 Br  bA    -     -        13680 13680    0 7s Js
+OvrThEdge 821335364 21  1 Bf  -     -     -          300    1    0 
+OvrThEdge 821335470 21 21 r   k     c     f          299   22    0 
+OvrThEdge 821335610 21 20 r   k     k     f          277   15    0 
+OvrThEdge 821335757 21 19 c   f     -     -          262    4    0 
+OvrThEdge 821335839 21 18 f   -     -     -          258    0    0 
+OvrThEdge 821335922 21 17 f   -     -     -          258    0    0 
+OvrThEdge 821336077 21 16 c   f     -     -          258    4    0 
+OvrThEdge 821336137 21 15 f   -     -     -          254    0    0 
+OvrThEdge 821336180 21 14 f   -     -     -          254    0    0 
+OvrThEdge 821336355 21 13 cc  kf    -     -          254   16    0 
+OvrThEdge 821336495 21 12 f   -     -     -          238    0    0 
+OvrThEdge 821336526 21 11 f   -     -     -          238    0    0 
+OvrThEdge 821336635 21 10 f   -     -     -          238    0    0 
+OvrThEdge 821336708 21  9 f   -     -     -          238    0    0 
+OvrThEdge 821336813 20  7 cc  cA    -     -          238  238  895 4d 5d
+OvrThEdge 821336912 18  5 f   -     -     -          895    0    0 
+OvrThEdge 821337100 18  4 c   kf    -     -          895   32    0 
+OvrThEdge 821337192 18  3 f   -     -     -          863    0    0 
+OvrThEdge 821337247 18  2 Bk  f     -     -          863   32    0 
+OvrThEdge 821337288 17  1 Bf  -     -     -          831   32    0 
+OvrThEdge 821337370 17 17 f   -     -     -          799    0    0 
+OvrThEdge 821337407 17 16 f   -     -     -          799    0    0 
+OvrThEdge 821337454 16 14 f   -     -     -          799    0    0 
+OvrThEdge 821337491 16 13 f   -     -     -          799    0    0 
+OvrThEdge 821337512 16 12 f   -     -     -          799    0    0 
+OvrThEdge 821337571 15 11 f   -     -     -          799    0    0 
+OvrThEdge 821337611 15 10 cf  -     -     -          799   64    0 
+OvrThEdge 821337667 15  9 f   -     -     -          735    0    0 
+OvrThEdge 821337723 14  8 f   -     -     -          735    0    0 
+OvrThEdge 821337764 14  7 f   -     -     -          735    0    0 
+OvrThEdge 821337790 14  6 f   -     -     -          735    0    0 
+OvrThEdge 821337827 13  5 f   -     -     -          735    0    0 
+OvrThEdge 821337860 12  4 f   -     -     -          735    0    0 
+OvrThEdge 821337888 11  2 cc  -     -     -          735  436 1000 6h 5h
+OvrThEdge 821337922 10  2 Bk  k     k     b         1299  384  512 
+OvrThEdge 821337969 10  1 Bc  b     -     -         1427  928  440 6h 5h
+OvrThEdge 821338016  9  9 f   -     -     -          939    0    0 
+OvrThEdge 821338077  9  8 f   -     -     -          939    0    0 
+OvrThEdge 821338137  9  7 f   -     -     -          939    0    0 
+OvrThEdge 821338167  9  6 rcA -     -     -          939  939    0 9s Js
+OvrThEdge 821411149 12 12 f   -     -     -         1500    0    0 
+OvrThEdge 821411233 11 10 f   -     -     -         1500    0    0 
+OvrThEdge 821411320 11  9 c   k     r     b         1500  360  490 
+OvrThEdge 821411427 11  8 f   -     -     -         1630    0    0 
+OvrThEdge 821411490  9  5 f   -     -     -         1630    0    0 
+OvrThEdge 821411539  9  4 f   -     -     -         1630    0    0 
+OvrThEdge 821411590  9  3 f   -     -     -         1630    0    0 
+OvrThEdge 821411651  9  2 Bk  k     k     f         1630   20    0 
+OvrThEdge 821411706  9  1 Bc  kf    -     -         1610   20    0 
+OvrThEdge 821411732  9  9 r   c     k     c         1590  130    0 Jc Ah
+OvrThEdge 821411844  9  8 f   -     -     -         1460    0    0 
+OvrThEdge 821411891  9  7 r   kf    -     -         1460   70    0 
+OvrThEdge 821411942  9  6 f   -     -     -         1390    0    0 
+OvrThEdge 821411960  9  5 f   -     -     -         1390    0    0 
+OvrThEdge 821412004  9  4 f   -     -     -         1390    0    0 
+OvrThEdge 821412061  9  3 rA  -     -     -         1390 1390 2820 Ac Ad
+OvrThEdge 821412097  9  2 Bf  -     -     -         2820   40    0 
+OvrThEdge 821412120  9  1 Bc  b     -     -         2780  240  320 
+OvrThEdge 821412150  9  9 c   b     -     -         2860  540  740 
+OvrThEdge 821412199  9  8 f   -     -     -         3060    0    0 
+OvrThEdge 821412228  9  7 f   -     -     -         3060    0    0 
+OvrThEdge 821412270  9  6 f   -     -     -         3060    0    0 
+OvrThEdge 821412318  9  5 f   -     -     -         3060    0    0 
+OvrThEdge 821412336  9  4 f   -     -     -         3060    0    0 
+OvrThEdge 821412382  9  3 f   -     -     -         3060    0    0 
+OvrThEdge 821412413  9  2 Bf  -     -     -         3060   80    0 
+OvrThEdge 821412433  9  1 Bc  kf    -     -         2980   80    0 
+OvrThEdge 821412484  9  9 f   -     -     -         2900    0    0 
+OvrThEdge 821412535  9  8 r   rA    -     -         2900 2900 4905 Qs Kd
+OvrThEdge 821412596  8  6 f   -     -     -         4905    0    0 
+OvrThEdge 821412647  8  5 f   -     -     -         4905    0    0 
+OvrThEdge 821412697  8  4 f   -     -     -         4905    0    0 
+OvrThEdge 821412729  8  3 cf  -     -     -         4905  160    0 
+OvrThEdge 821412780  8  2 Bk  f     -     -         4745  160    0 
+OvrThEdge 821412809  8  1 Bc  b     kc    -         4585 1045    0 Qc 6c
+OvrThEdge 821412871  8  8 f   -     -     -         3540    0    0 
+OvrThEdge 821412942  8  7 f   -     -     -         3540    0    0 
+OvrThEdge 821412996  7  5 f   -     -     -         3540    0    0 
+OvrThEdge 821413026  7  4 f   -     -     -         3540    0    0 
+OvrThEdge 821413060  7  3 f   -     -     -         3540    0    0 
+OvrThEdge 821413078  7  2 Bk  k     k     k         3540  320    0 4c Td
+OvrThEdge 821413117  7  1 Bc  kf    -     -         3220  320    0 
+OvrThEdge 821413200  7  7 r   -     -     -         2900  820 1300 
+OvrThEdge 821413224  7  6 f   -     -     -         3380    0    0 
+OvrThEdge 821413240  7  5 f   -     -     -         3380    0    0 
+OvrThEdge 821413280  7  4 f   -     -     -         3380    0    0 
+OvrThEdge 821413329  7  3 f   -     -     -         3380    0    0 
+OvrThEdge 821413347  7  2 Bc  -     -     -         3380  735 1470 Ac Ad
+OvrThEdge 821413374  6  1 Bf  -     -     -         4115  160    0 
+OvrThEdge 821413456  6  6 f   -     -     -         3955    0    0 
+OvrThEdge 821413534  6  5 f   -     -     -         3955    0    0 
+OvrThEdge 821413679  6  4 f   -     -     -         3955    0    0 
+OvrThEdge 821413680  6  3 f   -     -     -         3955    0    0 
+OvrThEdge 821413682  6  2 Bf  -     -     -         3955  640    0 
+OvrThEdge 821413685  6  1 Bf  -     -     -         3315  320    0 
+OvrThEdge 821413710  5  5 f   -     -     -         2995    0    0 
+OvrThEdge 821413721  5  4 r   -     -     -         2995 2140  662 5s 5d
+OvrThEdge 821413739  5  3 f   -     -     -         1517    0    0 
+OvrThEdge 821413773  5  2 BrA -     -     -         1517 1517 3034 Kd Ah
+OvrThEdge 821413794  5  1 Bc  b     -     -         3034 1920 2560 
+OvrThEdge 821413832  5  5 f   -     -     -         3674    0    0 
+OvrThEdge 821413852  4  3 f   -     -     -         3674    0    0 
+OvrThEdge 821413873  4  3 r   -     -     -         3674 3280 5200 
+OvrThEdge 821413888  4  2 Bf  -     -     -         5594 1280    0 
+OvrThEdge 821413898  4  1 Bf  -     -     -         4314  640    0 
+OvrThEdge 821413912  4  4 rA  -     -     -         3674 3674 1038 6s 6d
+OvrThEdge 821413928  4  3 cA  -     -     -         1038 1038 3754 4s 4h
+OvrThEdge 821413952  4  2 Bf  -     -     -         3754 1280    0 
+OvrThEdge 821413973  4  1 Bf  -     -     -         2474  640    0 
+OvrThEdge 821413986  4  4 rA  -     -     -         1834 1834 4308 As Ah
+OvrThEdge 821414003  4  3 f   -     -     -         4308    0    0 
+OvrThEdge 821414017  4  2 B   -     -     -         4308 1280  118 3s Qd
+OvrThEdge 821414032  4  1 BrA -     -     -         3146 3146 4426 
+OvrThEdge 821414056  4  4 f   -     -     -         4426    0    0 
+OvrThEdge 821414089  3  2 f   -     -     -         4426    0    0 
+OvrThEdge 821414100  3  2 Bf  -     -     -         4426 1280    0 
+OvrThEdge 821414118  3  1 BrA -     -     -         3146 3146 4426 
+OvrThEdge 821414135  3  3 rA  -     -     -         4426 4426 6346 
+OvrThEdge 821414149  3  2 Bf  -     -     -         6346 1280    0 
+OvrThEdge 821414169  3  1 Bf  -     -     -         5066  640    0 
+OvrThEdge 821414178  3  3 f   -     -     -         4426    0    0 
+OvrThEdge 821414183  3  2 Bf  -     -     -         4426 1280    0 
+OvrThEdge 821414195  3  1 BccA -     -     -         3146 3146 6292 Kd 3h
+OvrThEdge 821414214  3  3 c   bA    -     -         6292 6292 10132 
+OvrThEdge 821414274  3  2 B   -     -     -        10132 2560 3840 
+OvrThEdge 821414286  3  1 Br  -     -     -        11412 5560 8810 Jc 8c
+OvrThEdge 821414312  2  2 f   -     -     -        14662    0    0 
+OvrThEdge 821414324  2  2 Bc  -     -     -        14662 3338 6676 4h 4s
+OvrThEdge 821414512 14  3 f   -     -     -         2500    0    0 
+OvrThEdge 821414603 14  2 Bf  -     -     -         2500   20    0 
+OvrThEdge 821414720 13  1 Bf  -     -     -         2480   10    0 
+OvrThEdge 821414836 13 13 f   -     -     -         2470    0    0 
+OvrThEdge 821414920 12 11 f   -     -     -         2470    0    0 
+OvrThEdge 821414993 12 10 f   -     -     -         2470    0    0 
+OvrThEdge 821415026 12  9 f   -     -     -         2470    0    0 
+OvrThEdge 821415085 12  8 f   -     -     -         2470    0    0 
+OvrThEdge 821415159 12  7 f   -     -     -         2470    0    0 
+OvrThEdge 821415225 12  6 f   -     -     -         2470    0    0 
+OvrThEdge 821415290 12  5 f   -     -     -         2470    0    0 
+OvrThEdge 821415390 12  4 f   -     -     -         2470    0    0 
+OvrThEdge 821415441 11  3 f   -     -     -         2470    0    0 
+OvrThEdge 821415532 11  2 Bf  -     -     -         2470   80    0 
+OvrThEdge 821415558 11  1 Bf  -     -     -         2390   40    0 
+OvrThEdge 821415615 11 11 f   -     -     -         2350    0    0 
+OvrThEdge 821415675 11 10 f   -     -     -         2350    0    0 
+OvrThEdge 821415771 11  9 f   -     -     -         2350    0    0 
+OvrThEdge 821415818 11  8 f   -     -     -         2350    0    0 
+OvrThEdge 821415894  9  7 f   -     -     -         2350    0    0 
+OvrThEdge 821415953  9  6 f   -     -     -         2350    0    0 
+OvrThEdge 821416019  9  5 f   -     -     -         2350    0    0 
+OvrThEdge 821416089  9  4 f   -     -     -         2350    0    0 
+OvrThEdge 821416156  9  3 f   -     -     -         2350    0    0 
+OvrThEdge 821416199  9  2 Bk  k     kf    -         2350  160    0 
+OvrThEdge 821416256  9  1 Bf  -     -     -         2190  160    0 
+OvrThEdge 821416314  9  9 f   -     -     -         2030    0    0 
+OvrThEdge 821416385  9  8 f   -     -     -         2030    0    0 
+OvrThEdge 821416451  9  7 f   -     -     -         2030    0    0 
+OvrThEdge 821416483  9  6 f   -     -     -         2030    0    0 
+OvrThEdge 821416544  9  5 f   -     -     -         2030    0    0 
+OvrThEdge 821416580  9  4 f   -     -     -         2030    0    0 
+OvrThEdge 821416607  9  3 f   -     -     -         2030    0    0 
+OvrThEdge 821416661  9  2 Bk  kf    -     -         2030  640    0 
+OvrThEdge 821416693  9  1 Bf  -     -     -         1390  320    0 
+OvrThEdge 821416720  9  9 f   -     -     -         1070    0    0 
+OvrThEdge 821416756  9  8 f   -     -     -         1070    0    0 
+OvrThEdge 821416789  9  7 f   -     -     -         1070    0    0 
+OvrThEdge 821416861  9  6 f   -     -     -         1070    0    0 
+OvrThEdge 821416911  9  5 f   -     -     -         1070    0    0 
+OvrThEdge 821416960  8  4 f   -     -     -         1070    0    0 
+OvrThEdge 821417019  8  3 f   -     -     -         1070    0    0 
+OvrThEdge 821417098  8  2 BA  -     -     -         1070 1070    0 7d 3s
+OvrThEdge 821790842  2  2 Br  b     bA    -         1000 1000 1050 
+OvrThEdge 821790952  2  1 Bcc kf    -     -         1050   30    0 
+OvrThEdge 821790986  2  2 Br  -     -     -         1020   30   60 
+OvrThEdge 821791016  2  1 Bf  -     -     -         1050    5    0 
+OvrThEdge 821791022  2  2 Bk  b     b     bA        1045 1045 2000 Kh 3s
+OvrThEdge 821791453  2  1 Bc  b     -     -         1000  110  120 
+OvrThEdge 821791479  2  2 Bk  f     -     -         1010   10    0 
+OvrThEdge 821791502  2  1 Bc  kf    -     -         1000   10    0 
+OvrThEdge 821791529  2  2 Br  -     -     -          990  110  120 
+OvrThEdge 821791553  2  1 Bc  -     -     -         1000   10   20 
+OvrThEdge 821791621  2  2 Br  -     -     -         1010  110  120 
+OvrThEdge 821791650  2  1 Bf  -     -     -         1020    5    0 
+OvrThEdge 821791653  2  2 Br  bA    -     -         1015 1015 1125 
+OvrThEdge 821791691  2  1 Bc  b     b     -         1125 1110  235 8d 9c
+OvrThEdge 821791725  2  2 Bk  b     -     -          250  110  120 
+OvrThEdge 821791799  2  1 Bf  -     -     -          260   10    0 
+OvrThEdge 821791810  2  2 Br  -     -     -          250   60  120 
+OvrThEdge 821791841  2  1 Bf  -     -     -          310   10    0 
+OvrThEdge 821791851  2  2 BrA -     -     -          300  300    0 6c Th
+OvrThEdge 822218204  5  2 Br  kc    k     kc        1000  710 1425 Ts Td
+OvrThEdge 822218312  2  1 Bf  -     -     -         1715    5    0 
+OvrThEdge 822218326  2  2 Bk  b     k     k         1710   30    0 Qc 3s
+OvrThEdge 822218371  2  1 Bf  -     -     -         1680    5    0 
+OvrThEdge 822218378  2  2 Br  -     -     -         1675   30   40 
+OvrThEdge 822218401  2  1 Bf  -     -     -         1685    5    0 
+OvrThEdge 822218404  2  2 Br  b     -     -         1680   90  120 
+OvrThEdge 822218441  2  1 Bf  -     -     -         1710    5    0 
+OvrThEdge 822218443  2  2 B   -     -     -         1705   10   15 
+OvrThEdge 822218456  2  1 Bc  -     -     -         1710   10   20 
+OvrThEdge 822218463  2  2 B   -     -     -         1720   10   15 
+OvrThEdge 822218469  2  1 Bc  b     kc    kc        1725  180  360 8h Tc
+OvrThEdge 822218519  2  2 Bc  b     -     -         1905  140  180 
+OvrThEdge 822218554  2  1 Bc  kc    -     -         1945   60   60 Ad 4h
+OvrThEdge 822218583  2  2 Bk  -     -     -         1945   20   40 
+OvrThEdge 822218626  2  1 Bc  k     k     b         1965  120  160 7s 8d
+OvrThEdge 822219054  2  1 Bc  b     k     k         1000  110  110 Kc 6s
+OvrThEdge 822219146  2  2 B   -     -     -         1000   10   15 
+OvrThEdge 822219161  2  1 Bc  b     -     -         1005   30   40 
+OvrThEdge 822219181  2  2 Bk  k     b     -         1015   30   40 
+OvrThEdge 822219228  2  1 Bcf -     -     -         1025   10    0 
+OvrThEdge 822219246  2  2 Bk  k     b     b         1015   90    0 4s Ac
+OvrThEdge 822219298  2  1 Br  kf    -     -          925   30    0 
+OvrThEdge 822219334  2  2 Bf  -     -     -          895   10    0 
+OvrThEdge 822219354  2  1 Bf  -     -     -          885    5    0 
+OvrThEdge 822219356  2  2 Br  k     k     b          880  180  240 
+OvrThEdge 822219422  2  1 Bcf -     -     -          940   20    0 
+OvrThEdge 822219442  2  2 B   -     -     -          920   20   30 
+OvrThEdge 822219454  2  1 Bc  b     b     -          930  220  290 
+OvrThEdge 822219488  2  2 B   -     -     -         1000   20   30 
+OvrThEdge 822219496  2  1 Bf  -     -     -         1010   10    0 
+OvrThEdge 822219500  2  2 B   -     -     -         1000   20   30 
+OvrThEdge 822219510  2  1 Bc  -     -     -         1010   20   40 
+OvrThEdge 822219517  2  2 B   -     -     -         1030   20   30 
+OvrThEdge 822219525  2  1 Bc  b     kc    k         1040  180    0 6c 7c
+OvrThEdge 822219592  2  2 Bk  f     -     -          860   20    0 
+OvrThEdge 822219630  2  1 Bf  -     -     -          840   10    0 
+OvrThEdge 822219633  2  2 B   -     -     -          830   20   30 
+OvrThEdge 822219662  2  1 Bc  b     kc    k          840  220    0 9d Ah
+OvrThEdge 822219732  2  2 B   -     -     -          620   40   60 
+OvrThEdge 822219751  2  1 Bc  k     k     k          640   40    0 7h 9s
+OvrThEdge 822219819  2  2 B   -     -     -          600   40   60 
+OvrThEdge 822219833  2  1 Br  -     -     -          620  140  180 
+OvrThEdge 822219845  2  2 Bk  c     f     -          660  140    0 
+OvrThEdge 822219888  2  1 Bf  -     -     -          520   20    0 
+OvrThEdge 822219892  2  2 Bk  b     -     -          500  120  240 
+OvrThEdge 822219996  2  1 Bf  -     -     -          620   40    0 
+OvrThEdge 822220000  2  2 B   -     -     -          580   80  120 
+OvrThEdge 822220011  2  1 Bc  k     k     k          620   80    0 4d 3c
+OvrThEdge 822220047  2  2 Bk  b     bA    -          540  540  540 6h Jd
+OvrThEdge 822220104  2  1 Br  -     -     -          540  200  280 
+OvrThEdge 822220129  2  2 Bk  k     rA    -          620  620 1240 4d Qd
+OvrThEdge 822220190  2  1 Bf  -     -     -         1240   40    0 
+OvrThEdge 822220211  2  2 Bk  k     b     -         1200  380  460 
+OvrThEdge 822220283  2  1 Bf  -     -     -         1280   40    0 
+OvrThEdge 822220288  2  2 B   -     -     -         1240   80  120 
+OvrThEdge 822220297  2  1 Bc  b     bA    -         1280 1280 2000 Ad 5h
+OvrThEdge 822302323  3  1 Bc  kf    -     -         1000   10    0 
+OvrThEdge 822302377  2  2 cf  -     -     -          990   10    0 
+OvrThEdge 822302402  2  2 Bk  f     -     -          980   10    0 
+OvrThEdge 822302426  2  1 Bc  b     -     -          970   30   40 
+OvrThEdge 822302460  2  2 Bk  f     -     -          980   10    0 
+OvrThEdge 822302484  2  1 Bc  k     k     kf         970   10    0 
+OvrThEdge 822302526  2  2 Bk  k     k     k          960   10    0 9s 7h
+OvrThEdge 822302573  2  1 Bc  k     b     k          950   30   60 Ac 7h
+OvrThEdge 822302627  2  2 B   -     -     -          980   20   30 
+OvrThEdge 822302643  2  1 Bf  -     -     -          990   10    0 
+OvrThEdge 822302650  2  2 Bk  f     -     -          980   20    0 
+OvrThEdge 822302677  2  1 Bcf -     -     -          960   20    0 
+OvrThEdge 822302696  2  2 B   -     -     -          940   20   30 
+OvrThEdge 822302705  2  1 Bf  -     -     -          950   10    0 
+OvrThEdge 822302712  2  2 Bk  k     k     k          940   20    0 4c 5h
+OvrThEdge 822302764  2  1 Bc  k     k     bc         920  420    0 As Ad
+OvrThEdge 822302817  2  2 B   -     -     -          500   20   30 
+OvrThEdge 822302834  2  1 Bc  k     k     bc         510  160    0 7s 4s
+OvrThEdge 822302921  2  2 B   -     -     -          350   20   30 
+OvrThEdge 822302935  2  1 Br  -     -     -          360  300  340 
+OvrThEdge 822302955  2  2 B   -     -     -          400   40   60 
+OvrThEdge 822302969  2  1 Bf  -     -     -          420   20    0 
+OvrThEdge 822302979  2  2 B   -     -     -          400   40   60 
+OvrThEdge 822302990  2  1 Bcf -     -     -          420   40    0 
+OvrThEdge 822303018  2  2 Bf  -     -     -          380   40    0 
+OvrThEdge 822303042  2  1 Bc  bA    -     -          340  340  680 Qh 5c
+OvrThEdge 822303070  2  2 B   -     -     -          680   40   60 
+OvrThEdge 822303099  2  1 Bc  k     k     k          700   40   80 Ks 7s
+OvrThEdge 822303142  2  2 Bk  k     k     k          740   40   40 7h 8s
+OvrThEdge 822303185  2  1 Bc  b     -     -          740  120  160 
+OvrThEdge 822303213  2  2 B   -     -     -          780   40   60 
+OvrThEdge 822303221  2  1 Bf  -     -     -          800   20    0 
+OvrThEdge 822303225  2  2 Bk  k     f     -          780   40    0 
+OvrThEdge 822303258  2  1 Bc  kf    -     -          740   80    0 
+OvrThEdge 822303282  2  2 B   -     -     -          660   80  120 
+OvrThEdge 822303291  2  1 Bf  -     -     -          700   40    0 
+OvrThEdge 822303294  2  2 B   -     -     -          660   80  120 
+OvrThEdge 822303307  2  1 Bf  -     -     -          700   40    0 
+OvrThEdge 822303310  2  2 Bk  f     -     -          660   80    0 
+OvrThEdge 822303331  2  1 Bf  -     -     -          580   40    0 
+OvrThEdge 822303339  2  2 BrA -     -     -          540  540 1080 6c 6s
+OvrThEdge 822303358  2  1 Bc  b     -     -         1080  240  320 
+OvrThEdge 822303410  2  2 B   -     -     -         1160   80  120 
+OvrThEdge 822303419  2  1 Bf  -     -     -         1200   40    0 
+OvrThEdge 822303423  2  2 B   -     -     -         1160   80  120 
+OvrThEdge 822303433  2  1 Bc  kf    -     -         1200   80    0 
+OvrThEdge 822303456  2  2 B   -     -     -         1120   80  120 
+OvrThEdge 822303464  2  1 Br  -     -     -         1160  200  280 
+OvrThEdge 822303480  2  2 Bk  f     -     -         1240   80    0 
+OvrThEdge 822303511  2  1 Bf  -     -     -         1160   40    0 
+OvrThEdge 822303517  2  2 B   -     -     -         1120   80  120 
+OvrThEdge 822303526  2  1 BrA -     -     -         1160 1160 1240 
+OvrThEdge 822303538  2  2 B   -     -     -         1240   80  120 
+OvrThEdge 822303549  2  1 Bc  b     b     -         1280  840 1570 7s 6s
+OvrThEdge 822906918  2  2 Br  b     -     -         1000   90  120 
+OvrThEdge 822906960  2  1 Bcc k     k     b         1030   90  180 4c As
+OvrThEdge 822907006  2  2 Br  b     -     -         1120   90  120 
+OvrThEdge 822907053  2  1 Bf  -     -     -         1150    5    0 
+OvrThEdge 822907060  2  2 Bk  f     -     -         1145   10    0 
+OvrThEdge 822907090  2  1 Bc  k     k     kf        1135   10    0 
+OvrThEdge 822907134  2  2 Br  b     k     f         1125   90    0 
+OvrThEdge 822907195  2  1 Bcf -     -     -         1035   10    0 
+OvrThEdge 822907215  2  2 Bk  k     k     k         1025   10    0 2d 6h
+OvrThEdge 822907272  2  1 Bc  k     k     b         1015  120  140 
+OvrThEdge 822907340  2  2 Bk  k     f     -         1035   20    0 
+OvrThEdge 822907389  2  1 Bf  -     -     -         1015   10    0 
+OvrThEdge 822907395  2  2 B   -     -     -         1005   20   30 
+OvrThEdge 822907403  2  1 Br  -     -     -         1015  120  140 
+OvrThEdge 822907413  2  2 B   -     -     -         1035   20   30 
+OvrThEdge 822907418  2  1 Bc  b     k     k         1045   60    0 Kh Tc
+OvrThEdge 822907456  2  2 Bk  f     -     -          985   20    0 
+OvrThEdge 822907484  2  1 Bc  b     b     -          965  360  480 
+OvrThEdge 822907525  2  2 B   -     -     -         1085   20   30 
+OvrThEdge 822907534  2  1 Br  -     -     -         1095   50   70 
+OvrThEdge 822907544  2  2 Bk  f     -     -         1115   20    0 
+OvrThEdge 822907563  2  1 Bc  kc    k     k         1095   60    0 Kh Jc
+OvrThEdge 822907599  2  2 B   -     -     -         1035   40   60 
+OvrThEdge 822907617  2  1 Bc  b     k     brA       1055 1055  110 Qc 5s
+OvrThEdge 822907680  2  2 Bk  k     k     f          110   40    0 
+OvrThEdge 822907791  2  1 BrA -     -     -           70   70  140 Td Qs
+OvrThEdge 822907804  2  2 BrA -     -     -          140  140    0 Td Kh

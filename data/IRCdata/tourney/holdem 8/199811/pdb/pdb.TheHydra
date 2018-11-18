@@ -1,0 +1,541 @@
+TheHydra  909951995  9  1 Bf  -     -     -         3000   15    0 
+TheHydra  909952058  9  9 f   -     -     -         2985    0    0 
+TheHydra  909952116  9  8 f   -     -     -         2985    0    0 
+TheHydra  909952171  8  7 f   -     -     -         2985    0    0 
+TheHydra  909952208  8  6 f   -     -     -         2985    0    0 
+TheHydra  909952266  7  4 f   -     -     -         2985    0    0 
+TheHydra  909952315  7  3 f   -     -     -         2985    0    0 
+TheHydra  909952350  7  2 Bk  kc    kf    -         2985  240    0 
+TheHydra  909952396  7  1 Bf  -     -     -         2745   30    0 
+TheHydra  909952472  7  7 f   -     -     -         2715    0    0 
+TheHydra  909952517  7  6 f   -     -     -         2715    0    0 
+TheHydra  909952599  7  5 f   -     -     -         2715    0    0 
+TheHydra  909952639  7  4 f   -     -     -         2715    0    0 
+TheHydra  909952670  7  3 f   -     -     -         2715    0    0 
+TheHydra  909952706  7  2 BrcA -     -     -         2715 2715 5670 Kh Kc
+TheHydra  909952735  7  1 Bc  k     kf    -         5670  120    0 
+TheHydra  909952856  7  7 f   -     -     -         5550    0    0 
+TheHydra  909952906  7  6 c   f     -     -         5550  120    0 
+TheHydra  909952974  7  5 f   -     -     -         5430    0    0 
+TheHydra  909952993  7  4 f   -     -     -         5430    0    0 
+TheHydra  909953027  7  3 f   -     -     -         5430    0    0 
+TheHydra  909953085  6  2 Bf  -     -     -         5430  240    0 
+TheHydra  909953119  5  1 Bc  k     k     br        5190 5040 10320 Qs Kh
+TheHydra  909953190  5  5 f   -     -     -        10470    0    0 
+TheHydra  909953238  5  4 f   -     -     -        10470    0    0 
+TheHydra  909953263  5  3 f   -     -     -        10470    0    0 
+TheHydra  909953318  4  2 Bc  kc    k     k        10470 3353    0 7s 8s
+TheHydra  909953379  3  1 BrrA -     -     -         7117 7117 14234 Ah Jc
+TheHydra  909953417  3  3 f   -     -     -        14234    0    0 
+TheHydra  909953427  3  2 Bk  f     -     -        14234  480    0 
+TheHydra  909953448  3  1 Bcf -     -     -        13754  480    0 
+TheHydra  909953459  3  3 r   -     -     -        13274 1680 2400 
+TheHydra  909953467  3  2 Bf  -     -     -        13994  480    0 
+TheHydra  909953499  2  1 Bf  -     -     -        13514  240    0 
+TheHydra  909953505  2  2 Br  -     -     -        13274 2480 2960 
+TheHydra  909953526  2  1 Bf  -     -     -        13754  240    0 
+TheHydra  909953530  2  2 Bf  -     -     -        13514  480    0 
+TheHydra  909953541  2  1 Bf  -     -     -        13034  240    0 
+TheHydra  909953543  2  2 B   -     -     -        12794  480  720 
+TheHydra  909953550  2  1 Br  b     -     -        13034 4320 5760 
+TheHydra  909953563  2  2 Bk  k     k     k        14474  480    0 Jh Qd
+TheHydra  909953590  2  1 Br  -     -     -        13994 1440 1920 
+TheHydra  909953603  2  2 B   -     -     -        14474  480  720 
+TheHydra  909953606  2  1 Bf  -     -     -        14714  240    0 
+TheHydra  909953610  2  2 Bk  b     -     -        14474 1440 1920 
+TheHydra  909953628  2  1 Bc  kf    -     -        14954  960    0 
+TheHydra  909953651  2  2 Bk  f     -     -        13994  960    0 
+TheHydra  909953662  2  1 Br  b     k     bA       13034 13034 26068 3h Ah
+TheHydra  909953696  2  2 B   -     -     -        26068  960 1892 4d Ac
+TheHydra  909954162 10  5 f   -     -     -         1000    0    0 
+TheHydra  909954218 10  4 r   k     b     bA        1000 1000 2184 3h 4h
+TheHydra  909954260  9  3 f   -     -     -         2184    0    0 
+TheHydra  909954345  9  2 Bf  -     -     -         2184    4    0 
+TheHydra  909954415  9  1 Bc  k     kf    -         2180    4    0 
+TheHydra  909954526  9  9 f   -     -     -         2176    0    0 
+TheHydra  909954580  9  8 f   -     -     -         2176    0    0 
+TheHydra  909954649  7  6 r   c     f     -         2176  180    0 
+TheHydra  909954725  6  5 f   -     -     -         1996    0    0 
+TheHydra  909954765  6  4 c   f     -     -         1996    8    0 
+TheHydra  909954841  6  3 f   -     -     -         1988    0    0 
+TheHydra  909954926  6  2 Bf  -     -     -         1988   16    0 
+TheHydra  909954988  6  1 Bf  -     -     -         1972    8    0 
+TheHydra  909955046  6  6 r   b     k     b         1964 1140 2304 Ac Kc
+TheHydra  909955131  6  5 f   -     -     -         3128    0    0 
+TheHydra  909955183  6  4 f   -     -     -         3128    0    0 
+TheHydra  909955248  6  3 f   -     -     -         3128    0    0 
+TheHydra  909955302  6  2 Bk  kf    -     -         3128   32    0 
+TheHydra  909955407  6  1 Bcf -     -     -         3096   32    0 
+TheHydra  909955438  6  6 c   f     -     -         3064   32    0 
+TheHydra  909955496  6  5 f   -     -     -         3032    0    0 
+TheHydra  909955565  6  4 f   -     -     -         3032    0    0 
+TheHydra  909955600  6  3 f   -     -     -         3032    0    0 
+TheHydra  909955648  6  2 Bk  kf    -     -         3032   64    0 
+TheHydra  909955684  6  1 Br  -     -     -         2968  694  822 
+TheHydra  909955713  6  6 c   f     -     -         3096   64    0 
+TheHydra  909955739  6  5 f   -     -     -         3032    0    0 
+TheHydra  909955789  5  3 c   k     c     k         3032  320  768 Qs Js
+TheHydra  909955850  5  2 Br  -     -     -         3480  874 1404 9s As
+TheHydra  909955878  4  1 Br  -     -     -         4010  864  928 
+TheHydra  909955890  4  4 f   -     -     -         4074    0    0 
+TheHydra  909955901  4  3 f   -     -     -         4074    0    0 
+TheHydra  909955941  4  2 Bf  -     -     -         4074   64    0 
+TheHydra  909955958  4  1 Bc  bc    kf    -         4010  576    0 
+TheHydra  909955979  4  4 f   -     -     -         3434    0    0 
+TheHydra  909956002  4  3 f   -     -     -         3434    0    0 
+TheHydra  909956024  4  2 Bk  b     k     kf        3434  640    0 
+TheHydra  909956061  4  1 Bc  kf    -     -         2794  128    0 
+TheHydra  909956079  4  4 r   -     -     -         2666 1128 1320 
+TheHydra  909956094  4  3 r   -     -     -         2858  448  640 
+TheHydra  909956108  4  2 Bc  -     -     -         3050  322    0 5s Kc
+TheHydra  909956122  4  1 Br  bA    -     -         2728 2728 5584 Ac Ah
+TheHydra  909956161  4  4 f   -     -     -         5584    0    0 
+TheHydra  909956170  4  3 c   r     -     -         5584 1920 1592 Ts Qc
+TheHydra  909956206  3  2 Bk  k     k     b         5256  628  756 
+TheHydra  909956267  3  1 Bcc k     b     -         5384 2384 2768 
+TheHydra  909956300  3  3 f   -     -     -         5768    0    0 
+TheHydra  909956322  2  1 Bk  k     b     -         5768  768 1024 
+TheHydra  909956372  2  1 Bf  -     -     -         6024  128    0 
+TheHydra  909956375  2  2 Br  -     -     -         5896 2756 3012 
+TheHydra  909956392  2  1 Bc  b     -     -         6152  768 1024 
+TheHydra  909956405  2  2 Bk  f     -     -         6408  256    0 
+TheHydra  909956415  2  1 Bc  kf    -     -         6152  256    0 
+TheHydra  909956428  2  2 Bk  b     -     -         5896  922 1178 
+TheHydra  909956459  2  1 Bf  -     -     -         6152  128    0 
+TheHydra  909956462  2  2 Bc  b     -     -         6024 3567 4335 
+TheHydra  909956479  2  1 Bc  b     -     -         6792  768 1024 
+TheHydra  909956489  2  2 B   -     -     -         7048  256  384 
+TheHydra  909956491  2  1 Br  -     -     -         7176 1756 2012 
+TheHydra  909956500  2  2 B   -     -     -         7432  256  384 
+TheHydra  909956501  2  1 Bc  k     k     k         7560  256  256 6c 8c
+TheHydra  909956521  2  2 B   -     -     -         7560  256  384 
+TheHydra  909956528  2  1 Brc -     -     -         7688 2312 4624 As 2s
+TheHydra  909956736 22  5 f   -     -     -         1000    0    0 
+TheHydra  909956802 18  4 c   br    bA    -         1000 1000 2036 Ac Ks
+TheHydra  909956890 17  3 f   -     -     -         2036    0    0 
+TheHydra  909956988 16  2 Bf  -     -     -         2036    4    0 
+TheHydra  909957073 15  1 Bc  kf    -     -         2032    4    0 
+TheHydra  909957150 15 15 c   c     k     f         2028  216    0 
+TheHydra  909957248 15 14 c   f     -     -         1812    8    0 
+TheHydra  909957374 14 12 f   -     -     -         1804    0    0 
+TheHydra  909957425 13 10 r   rA    -     -         1804 1804 1978 As Qd
+TheHydra  909957554 13  9 cc  f     -     -         1978   96    0 
+TheHydra  909957623 13  8 f   -     -     -         1882    0    0 
+TheHydra  909957688 13  7 f   -     -     -         1882    0    0 
+TheHydra  909957803 13  6 f   -     -     -         1882    0    0 
+TheHydra  909957854 13  5 f   -     -     -         1882    0    0 
+TheHydra  909957962 13  4 f   -     -     -         1882    0    0 
+TheHydra  909958004 13  3 f   -     -     -         1882    0    0 
+TheHydra  909958058 12  2 Bk  kf    -     -         1882   32    0 
+TheHydra  909958128 12  1 Bf  -     -     -         1850   16    0 
+TheHydra  909958199 12 12 c   b     -     -         1834  232  360 
+TheHydra  909958265 12 11 f   -     -     -         1962    0    0 
+TheHydra  909958289 11 10 f   -     -     -         1962    0    0 
+TheHydra  909958331 10  9 c   f     -     -         1962   64    0 
+TheHydra  909958379 10  8 f   -     -     -         1898    0    0 
+TheHydra  909958419 10  7 f   -     -     -         1898    0    0 
+TheHydra  909958451 10  6 f   -     -     -         1898    0    0 
+TheHydra  909958489 10  5 f   -     -     -         1898    0    0 
+TheHydra  909958513 10  4 c   k     b     -         1898  464  656 
+TheHydra  909958556 10  3 f   -     -     -         2090    0    0 
+TheHydra  909958601  9  2 Bf  -     -     -         2090   64    0 
+TheHydra  909958622  9  1 Bc  kf    -     -         2026  224    0 
+TheHydra  909958680  9  9 c   c     f     -         1802  352    0 
+TheHydra  909958730  9  8 f   -     -     -         1450    0    0 
+TheHydra  909958753  8  6 f   -     -     -         1450    0    0 
+TheHydra  909958783  8  5 f   -     -     -         1450    0    0 
+TheHydra  909958816  8  4 f   -     -     -         1450    0    0 
+TheHydra  909958824  8  3 f   -     -     -         1450    0    0 
+TheHydra  909958836  8  2 Bk  kc    k     bA        1450 1450 2218 
+TheHydra  909958884  8  1 Bf  -     -     -         2218   64    0 
+TheHydra  909958935  8  8 r   -     -     -         2154  448  640 
+TheHydra  909958952  8  7 f   -     -     -         2346    0    0 
+TheHydra  909958968  8  6 r   -     -     -         2346  628  820 
+TheHydra  909959002  8  5 r   k     b     -         2538 1576 2792 
+TheHydra  909959060  8  4 f   -     -     -         3754    0    0 
+TheHydra  909959102  7  3 r   -     -     -         3754 1456 1840 
+TheHydra  909959123  7  2 Bk  k     b     -         4138 1262 2012 Kh 3c
+TheHydra  909959159  6  1 Bf  -     -     -         4888  128    0 
+TheHydra  909959194  6  6 f   -     -     -         4760    0    0 
+TheHydra  909959243  6  5 r   f     -     -         4760  896    0 
+TheHydra  909959274  6  4 f   -     -     -         3864    0    0 
+TheHydra  909959306  6  3 f   -     -     -         3864    0    0 
+TheHydra  909959323  6  2 B   -     -     -         3864  256  384 
+TheHydra  909959342  6  1 Bf  -     -     -         3992  128    0 
+TheHydra  909959358  6  6 f   -     -     -         3864    0    0 
+TheHydra  909959383  6  5 f   -     -     -         3864    0    0 
+TheHydra  909959425  6  4 f   -     -     -         3864    0    0 
+TheHydra  909959433  6  3 f   -     -     -         3864    0    0 
+TheHydra  909959447  6  2 Bf  -     -     -         3864  256    0 
+TheHydra  909959471  6  1 Bf  -     -     -         3608  256    0 
+TheHydra  909959485  5  5 f   -     -     -         3352    0    0 
+TheHydra  909959510  4  3 f   -     -     -         3352    0    0 
+TheHydra  909959553  4  3 r   f     -     -         3352 1512    0 
+TheHydra  909959590  4  2 BrA -     -     -         1840 1840 3936 Jh Ac
+TheHydra  909959618  4  1 Bf  -     -     -         3936  256    0 
+TheHydra  909959631  4  4 f   -     -     -         3680    0    0 
+TheHydra  909959640  4  3 r   bA    -     -         3680 3680  932 Js Qc
+TheHydra  909959680  4  2 BcA -     -     -          932  932    0 Td Qd
+TheHydra  909960371 15 11 f   -     -     -         5000    0    0 
+TheHydra  909960420 15 10 f   -     -     -         5000    0    0 
+TheHydra  909960461 15  9 f   -     -     -         5000    0    0 
+TheHydra  909960505 15  8 c   k     k     f         5000   40    0 
+TheHydra  909960607 15  7 f   -     -     -         4960    0    0 
+TheHydra  909960631 15  6 f   -     -     -         4960    0    0 
+TheHydra  909960672 15  5 f   -     -     -         4960    0    0 
+TheHydra  909960832 15  4 f   -     -     -         4960    0    0 
+TheHydra  909960870 13  3 f   -     -     -         4960    0    0 
+TheHydra  909960944 12  1 Bk  kf    -     -         4960   80    0 
+TheHydra  909960984 12  1 Bf  -     -     -         4880   40    0 
+TheHydra  909961027 11 11 f   -     -     -         4840    0    0 
+TheHydra  909961091 11 10 r   b     -     -         4840 1200 1680 
+TheHydra  909961128 11  9 f   -     -     -         5320    0    0 
+TheHydra  909961160 11  8 c   f     -     -         5320  360    0 
+TheHydra  909961229 11  7 f   -     -     -         4960    0    0 
+TheHydra  909961269 11  6 f   -     -     -         4960    0    0 
+TheHydra  909961308 10  5 f   -     -     -         4960    0    0 
+TheHydra  909961339 10  4 f   -     -     -         4960    0    0 
+TheHydra  909961350 10  3 f   -     -     -         4960    0    0 
+TheHydra  909961393 10  2 Bk  kf    -     -         4960  160    0 
+TheHydra  909961440 10  1 Bc  k     b     kf        4800  640    0 
+TheHydra  909961482 10 10 f   -     -     -         4160    0    0 
+TheHydra  909961525 10  9 c   f     -     -         4160  560    0 
+TheHydra  909961566 10  8 f   -     -     -         3600    0    0 
+TheHydra  909961591 10  7 f   -     -     -         3600    0    0 
+TheHydra  909961615 10  6 f   -     -     -         3600    0    0 
+TheHydra  909961630 10  5 f   -     -     -         3600    0    0 
+TheHydra  909961685 10  4 c   kf    -     -         3600  320    0 
+TheHydra  909961733 10  3 f   -     -     -         3280    0    0 
+TheHydra  909961763 10  2 Bk  c     k     bA        3280 3280 5520 
+TheHydra  909961835 10  1 Bf  -     -     -         5520  160    0 
+TheHydra  909961870 10 10 f   -     -     -         5360    0    0 
+TheHydra  909961930  9  8 f   -     -     -         5360    0    0 
+TheHydra  909961955  9  7 f   -     -     -         5360    0    0 
+TheHydra  909961970  9  6 r   -     -     -         5360 2640 3600 
+TheHydra  909962010  9  5 f   -     -     -         6320    0    0 
+TheHydra  909962036  9  4 f   -     -     -         6320    0    0 
+TheHydra  909962083  9  3 f   -     -     -         6320    0    0 
+TheHydra  909962114  9  2 Bk  k     k     b         6320 2240 3200 
+TheHydra  909962142  9  1 Bc  k     kf    -         7280 2040    0 
+TheHydra  909962182  9  9 f   -     -     -         5240    0    0 
+TheHydra  909962221  9  8 f   -     -     -         5240    0    0 
+TheHydra  909962243  9  7 r   -     -     -         5240 2240 3200 
+TheHydra  909962267  9  6 f   -     -     -         6200    0    0 
+TheHydra  909962299  8  5 f   -     -     -         6200    0    0 
+TheHydra  909962324  8  4 f   -     -     -         6200    0    0 
+TheHydra  909962355  6  2 B   -     -     -         6200 1280 1920 
+TheHydra  909962429  6  1 Bc  bf    -     -         6840 5120    0 
+TheHydra  909962453  6  6 f   -     -     -         1720    0    0 
+TheHydra  909962477  5  5 rA  -     -     -         1720 1720 4080 7d 7s
+TheHydra  909962498  5  4 f   -     -     -         4080    0    0 
+TheHydra  909962530  4  3 f   -     -     -         4080    0    0 
+TheHydra  909962536  4  2 B   -     -     -         4080 1280 1920 
+TheHydra  909962548  4  1 Bf  -     -     -         4720  640    0 
+TheHydra  909962564  4  4 rA  -     -     -         4080 4080 8620 9d 9h
+TheHydra  909962580  4  3 rA  -     -     -         8620 8620 9420 Kh Kd
+TheHydra  909962599  4  2 B   -     -     -         9420 1280 1920 
+TheHydra  909962609  4  1 Bc  k     k     k        10060 1280    0 8c Jh
+TheHydra  909962627  4  4 f   -     -     -         8780    0    0 
+TheHydra  909962638  4  3 f   -     -     -         8780    0    0 
+TheHydra  909962641  4  2 Bk  k     rA    -         8780 8780    0 5c Jd
+TheHydra  909963031 10  7 f   -     -     -         3000    0    0 
+TheHydra  909963065 10  6 c   k     bc    f         3000  510    0 
+TheHydra  909963140 10  5 r   b     -     -         2490  710  920 
+TheHydra  909963188 10  4 c   kf    -     -         2700   30    0 
+TheHydra  909963267 10  3 f   -     -     -         2670    0    0 
+TheHydra  909963334 10  2 Bc  kr    bA    -         2670 2670 3060 Ad Qh
+TheHydra  909963417 10  1 Bc  kf    -     -         3060   60    0 
+TheHydra  909963481 10 10 f   -     -     -         3000    0    0 
+TheHydra  909963526  9  8 f   -     -     -         3000    0    0 
+TheHydra  909963594  9  7 f   -     -     -         3000    0    0 
+TheHydra  909963650  9  6 f   -     -     -         3000    0    0 
+TheHydra  909963711  9  5 f   -     -     -         3000    0    0 
+TheHydra  909963732  9  4 f   -     -     -         3000    0    0 
+TheHydra  909963761  9  3 cc  kf    -     -         3000  520    0 
+TheHydra  909963814  9  2 Bk  k     kf    -         2480  120    0 
+TheHydra  909963866  9  1 Bf  -     -     -         2360   60    0 
+TheHydra  909963903  9  9 rcA -     -     -         2300 2300    0 Qh Th
+TheHydra  909965489 23  3 f   -     -     -         5000    0    0 
+TheHydra  909965651 21  2 Bf  -     -     -         5000   50    0 
+TheHydra  909965721 21  1 Bf  -     -     -         4950   25    0 
+TheHydra  909965794 20 20 f   -     -     -         4925    0    0 
+TheHydra  909965915 19 18 f   -     -     -         4925    0    0 
+TheHydra  909965981 19 18 f   -     -     -         4925    0    0 
+TheHydra  909966068 19 17 f   -     -     -         4925    0    0 
+TheHydra  909966191 18 15 rrA -     -     -         4925 4925 8875 Ks As
+TheHydra  909966278 17 14 f   -     -     -         8875    0    0 
+TheHydra  909966361 16 13 f   -     -     -         8875    0    0 
+TheHydra  909966431 16 12 f   -     -     -         8875    0    0 
+TheHydra  909966528 16 11 f   -     -     -         8875    0    0 
+TheHydra  909966574 14  8 f   -     -     -         8875    0    0 
+TheHydra  909966637 14  7 f   -     -     -         8875    0    0 
+TheHydra  909966710 14  6 c   b     b     -         8875 8874 3749 Qs Ac
+TheHydra  909966808 14  5 f   -     -     -         3750    0    0 
+TheHydra  909966874 14  4 f   -     -     -         3750    0    0 
+TheHydra  909966943 14  3 f   -     -     -         3750    0    0 
+TheHydra  909967014 14  2 Bf  -     -     -         3750  400    0 
+TheHydra  909967055 14  1 Bc  kf    -     -         3350  400    0 
+TheHydra  909967101 14 14 f   -     -     -         2950    0    0 
+TheHydra  909967158 14 13 f   -     -     -         2950    0    0 
+TheHydra  909967206 14 12 f   -     -     -         2950    0    0 
+TheHydra  909967310 13 10 f   -     -     -         2950    0    0 
+TheHydra  909967390 11  8 c   f     -     -         2950  800    0 
+TheHydra  909967453 11  7 f   -     -     -         2150    0    0 
+TheHydra  909967477 11  6 f   -     -     -         2150    0    0 
+TheHydra  909967529 11  5 f   -     -     -         2150    0    0 
+TheHydra  909967589 11  4 rA  -     -     -         2150 2150    0 Ts Th
+TheHydra  909969662 17  9 f   -     -     -         5000    0    0 
+TheHydra  909969793 16  7 f   -     -     -         5000    0    0 
+TheHydra  909969894 16  6 f   -     -     -         5000    0    0 
+TheHydra  909969946 16  5 f   -     -     -         5000    0    0 
+TheHydra  909970014 16  4 f   -     -     -         5000    0    0 
+TheHydra  909970150 15  3 f   -     -     -         5000    0    0 
+TheHydra  909970215 15  2 Bf  -     -     -         5000  100    0 
+TheHydra  909970276 15  1 Bf  -     -     -         4900   50    0 
+TheHydra  909970352 13 13 c   k     f     -         4850  100    0 
+TheHydra  909970430 13 12 f   -     -     -         4750    0    0 
+TheHydra  909970486 12 10 r   bcA   -     -         4750 4750 11700 Kh Ah
+TheHydra  909970631 12  9 f   -     -     -        11700    0    0 
+TheHydra  909970691 12  8 f   -     -     -        11700    0    0 
+TheHydra  909970738 12  7 rrA -     -     -        11700 11700 16250 Ad Ac
+TheHydra  909970788 11  5 f   -     -     -        16250    0    0 
+TheHydra  909970855 11  5 f   -     -     -        16250    0    0 
+TheHydra  909970943 11  4 f   -     -     -        16250    0    0 
+TheHydra  909971012 10  3 f   -     -     -        16250    0    0 
+TheHydra  909971074 10  2 Bf  -     -     -        16250  400    0 
+TheHydra  909971137  9  1 Bf  -     -     -        15850  200    0 
+TheHydra  909971227  9  9 f   -     -     -        15650    0    0 
+TheHydra  909971278  9  8 f   -     -     -        15650    0    0 
+TheHydra  909971357  8  6 f   -     -     -        15650    0    0 
+TheHydra  909971417  8  5 f   -     -     -        15650    0    0 
+TheHydra  909971455  8  4 c   k     b     -        15650 3200 4800 
+TheHydra  909971501  8  3 f   -     -     -        17250    0    0 
+TheHydra  909971516  8  2 Bc  kf    -     -        17250 2800    0 
+TheHydra  909971562  8  1 Bf  -     -     -        14450  400    0 
+TheHydra  909971624  7  7 f   -     -     -        14050    0    0 
+TheHydra  909971662  7  6 f   -     -     -        14050    0    0 
+TheHydra  909971706  7  5 f   -     -     -        14050    0    0 
+TheHydra  909971751  7  4 f   -     -     -        14050    0    0 
+TheHydra  909971777  7  3 f   -     -     -        14050    0    0 
+TheHydra  909971835  6  2 Br  bA    -     -        14050 14050 3150 9c 9d
+TheHydra  909971917  6  1 Bc  k     kf    -         3150 1600    0 
+TheHydra  909971970  6  6 cA  -     -     -         1550 1550    0 As 9c
+TheHydra  909972651 19  1 Bc  kf    -     -         5000  150    0 
+TheHydra  909972776 19 19 f   -     -     -         4850    0    0 
+TheHydra  909972885 19 18 f   -     -     -         4850    0    0 
+TheHydra  909973032 18 17 f   -     -     -         4850    0    0 
+TheHydra  909973131 15 13 f   -     -     -         4850    0    0 
+TheHydra  909973226 15 12 f   -     -     -         4850    0    0 
+TheHydra  909973294 15 11 f   -     -     -         4850    0    0 
+TheHydra  909973359 15 10 f   -     -     -         4850    0    0 
+TheHydra  909973422 14  8 f   -     -     -         4850    0    0 
+TheHydra  909973460 14  7 f   -     -     -         4850    0    0 
+TheHydra  909973534 14  6 c   k     b     -         4850 1300 2200 
+TheHydra  909973587 14  5 f   -     -     -         5750    0    0 
+TheHydra  909973682 14  4 cr  k     k     k         5750 4700 8450 Ks Ad
+TheHydra  909973738 14  3 f   -     -     -         9500    0    0 
+TheHydra  909973805 14  2 Bf  -     -     -         9500  400    0 
+TheHydra  909973919 13  1 Bf  -     -     -         9100  200    0 
+TheHydra  909973991 12 12 f   -     -     -         8900    0    0 
+TheHydra  909974008 12 11 f   -     -     -         8900    0    0 
+TheHydra  909974062 12 10 r   -     -     -         8900 2400 3000 
+TheHydra  909974108 12  9 f   -     -     -         9500    0    0 
+TheHydra  909974201 12  8 f   -     -     -         9500    0    0 
+TheHydra  909974269 12  7 f   -     -     -         9500    0    0 
+TheHydra  909974299 11  5 f   -     -     -         9500    0    0 
+TheHydra  909974355 11  4 f   -     -     -         9500    0    0 
+TheHydra  909974375 11  3 f   -     -     -         9500    0    0 
+TheHydra  909974428 10  2 Bk  kf    -     -         9500  800    0 
+TheHydra  909974470  9  1 Br  -     -     -         8700 2400 3200 
+TheHydra  909974508  9  9 f   -     -     -         9500    0    0 
+TheHydra  909974551  9  8 r   -     -     -         9500 2800 4000 
+TheHydra  909974565  9  7 f   -     -     -        10700    0    0 
+TheHydra  909974591  8  6 f   -     -     -        10700    0    0 
+TheHydra  909974628  7  5 r   -     -     -        10700 5600 11500 Ks Ac
+TheHydra  909974652  6  3 f   -     -     -        16600    0    0 
+TheHydra  909974681  5  3 f   -     -     -        16600    0    0 
+TheHydra  909974711  5  2 Bf  -     -     -        16600 1600    0 
+TheHydra  909974728  5  1 Bc  b     -     -        15000 6400 9600 
+TheHydra  909974756  5  5 f   -     -     -        18200    0    0 
+TheHydra  909974766  4  3 r   -     -     -        18200 5600 8000 
+TheHydra  909974782  4  2 BrA -     -     -        20600 20600 23800 
+TheHydra  909974809  4  1 Bf  -     -     -        23800  800    0 
+TheHydra  909974821  4  4 rf  -     -     -        23000 5600    0 
+TheHydra  909974853  4  3 f   -     -     -        17400    0    0 
+TheHydra  909974876  4  2 Bc  f     -     -        17400 4800    0 
+TheHydra  909974904  4  1 Bf  -     -     -        12600  800    0 
+TheHydra  909974935  4  4 f   -     -     -        11800    0    0 
+TheHydra  909974949  4  3 f   -     -     -        11800    0    0 
+TheHydra  909974964  4  2 Bc  k     k     k        11800 11200    0 5h As
+TheHydra  909975005  4  1 BA  -     -     -          600  600 1200 Th Ts
+TheHydra  909975013  4  4 f   -     -     -         1200    0    0 
+TheHydra  909975022  4  3 cA  -     -     -         1200 1200 4800 Ks Jd
+TheHydra  909975041  4  2 B   -     -     -         4800 3200 4800 
+TheHydra  909975056  4  1 Bf  -     -     -         6400 1600    0 
+TheHydra  909975086  4  4 f   -     -     -         4800    0    0 
+TheHydra  909975105  4  3 f   -     -     -         4800    0    0 
+TheHydra  909975115  4  2 BcA -     -     -         4800 4800    0 Jc Ks
+TheHydra  910050767 13  4 f   -     -     -         5000    0    0 
+TheHydra  910050834 13  3 f   -     -     -         5000    0    0 
+TheHydra  910050947 13  2 Bcf -     -     -         5000  480    0 
+TheHydra  910051017 13  1 Bf  -     -     -         4520   20    0 
+TheHydra  910051138 12 12 c   f     -     -         4500   80    0 
+TheHydra  910051183 12 11 f   -     -     -         4420    0    0 
+TheHydra  910051236 11  9 f   -     -     -         4420    0    0 
+TheHydra  910051344 11  9 cc  k     b     bA        4420 4420 6540 
+TheHydra  910051419 11  8 f   -     -     -         6540    0    0 
+TheHydra  910051504 11  7 f   -     -     -         6540    0    0 
+TheHydra  910051551 11  6 f   -     -     -         6540    0    0 
+TheHydra  910051627  9  4 f   -     -     -         6540    0    0 
+TheHydra  910051652  9  4 f   -     -     -         6540    0    0 
+TheHydra  910051682  9  3 f   -     -     -         6540    0    0 
+TheHydra  910051715  9  2 Bk  k     k     k         6540  160    0 8s 5h
+TheHydra  910051778  9  1 Bc  k     b     -         6380  480  640 
+TheHydra  910051807  9  9 r   -     -     -         6540  560  800 
+TheHydra  910051832  9  8 c   b     -     -         6780  720 1120 
+TheHydra  910051864  9  7 r   -     -     -         7180  720 1120 
+TheHydra  910051892  9  6 f   -     -     -         7580    0    0 
+TheHydra  910051903  9  5 f   -     -     -         7580    0    0 
+TheHydra  910051919  9  4 f   -     -     -         7580    0    0 
+TheHydra  910051950  9  3 f   -     -     -         7580    0    0 
+TheHydra  910051960  9  2 Bk  k     kf    -         7580  320    0 
+TheHydra  910052009  9  1 Brc kf    -     -         7260 2780    0 
+TheHydra  910052052  9  9 f   -     -     -         4480    0    0 
+TheHydra  910052065  9  8 rrA -     -     -         4480 4480    0 Kd Qd
+TheHydra  910059652 23 15 f   -     -     -         5000    0    0 
+TheHydra  910059870 23 14 f   -     -     -         5000    0    0 
+TheHydra  910059930 23 13 f   -     -     -         5000    0    0 
+TheHydra  910060040 23 12 f   -     -     -         5000    0    0 
+TheHydra  910060118 23 11 r   -     -     -         5000 2000 2500 
+TheHydra  910060189 23 10 f   -     -     -         5500    0    0 
+TheHydra  910060273 22  8 f   -     -     -         5500    0    0 
+TheHydra  910060357 22  7 c   kf    -     -         5500  350    0 
+TheHydra  910060478 21  5 f   -     -     -         5150    0    0 
+TheHydra  910060566 21  4 f   -     -     -         5150    0    0 
+TheHydra  910060613 20  2 Bc  kf    -     -         5150  700    0 
+TheHydra  910060690 20  1 Bf  -     -     -         4450  100    0 
+TheHydra  910060807 20 20 f   -     -     -         4350    0    0 
+TheHydra  910060870 20 19 c   k     f     -         4350 1400    0 
+TheHydra  910061015 20 18 f   -     -     -         2950    0    0 
+TheHydra  910061096 20 17 f   -     -     -         2950    0    0 
+TheHydra  910061165 20 16 f   -     -     -         2950    0    0 
+TheHydra  910061230 19 15 f   -     -     -         2950    0    0 
+TheHydra  910061371 18 14 f   -     -     -         2950    0    0 
+TheHydra  910061425 17 12 f   -     -     -         2950    0    0 
+TheHydra  910061485 17 11 f   -     -     -         2950    0    0 
+TheHydra  910061563 17 10 f   -     -     -         2950    0    0 
+TheHydra  910061597 17  9 f   -     -     -         2950    0    0 
+TheHydra  910061665 16  7 f   -     -     -         2950    0    0 
+TheHydra  910061767 16  6 f   -     -     -         2950    0    0 
+TheHydra  910061798 16  5 f   -     -     -         2950    0    0 
+TheHydra  910061893 16  4 f   -     -     -         2950    0    0 
+TheHydra  910061922 15  3 f   -     -     -         2950    0    0 
+TheHydra  910061960 15  2 BA  -     -     -         2950 2950    0 5h 9d
+TheHydra  910065605 16  8 f   -     -     -       100000    0    0 
+TheHydra  910065674 16  7 f   -     -     -       100000    0    0 
+TheHydra  910065751 16  6 f   -     -     -       100000    0    0 
+TheHydra  910065901 16  5 c   k     b     -       100000 5500 9000 
+TheHydra  910066011 16  4 f   -     -     -       103500    0    0 
+TheHydra  910066059 16  3 f   -     -     -       103500    0    0 
+TheHydra  910066213 15  2 Bf  -     -     -       103500 1000    0 
+TheHydra  910066300 15  1 Bf  -     -     -       102500  500    0 
+TheHydra  910066382 15 15 f   -     -     -       102000    0    0 
+TheHydra  910066463 14 13 f   -     -     -       102000    0    0 
+TheHydra  910066552 13 11 f   -     -     -       102000    0    0 
+TheHydra  910066656 11  8 f   -     -     -       102000    0    0 
+TheHydra  910066764 10  6 f   -     -     -       102000    0    0 
+TheHydra  910066847 10  5 f   -     -     -       102000    0    0 
+TheHydra  910066917 10  4 f   -     -     -       102000    0    0 
+TheHydra  910066968 10  3 r   -     -     -       102000 7000 10000 
+TheHydra  910066985 10  2 Bc  kf    -     -       105000 12000    0 
+TheHydra  910067035 10  1 Bc  k     b     -        93000 6000 8000 
+TheHydra  910067061 10 10 f   -     -     -        95000    0    0 
+TheHydra  910067093 10  9 c   b     -     -        95000 14500 21000 Ah 5d
+TheHydra  910067123  9  7 r   k     k     k       101500 29000 64000 Kc Ac
+TheHydra  910067175  9  6 c   kc    k     b       136500 76000 81000 6h Ah
+TheHydra  910067227  9  5 f   -     -     -       141500    0    0 
+TheHydra  910067275  9  4 f   -     -     -       141500    0    0 
+TheHydra  910067313  9  3 cc  k     f     -       141500 8000    0 
+TheHydra  910067401  9  2 Bc  kc    kcA   -       133500 133500 281000 Ad Td
+TheHydra  910067433  9  1 Bcf -     -     -       281000 14000    0 
+TheHydra  910067490  8  8 r   -     -     -       267000 24000 32000 
+TheHydra  910067535  8  8 f   -     -     -       275000    0    0 
+TheHydra  910067624  8  7 f   -     -     -       275000    0    0 
+TheHydra  910067706  8  6 f   -     -     -       275000    0    0 
+TheHydra  910067795  8  5 f   -     -     -       275000    0    0 
+TheHydra  910067862  8  4 f   -     -     -       275000    0    0 
+TheHydra  910067901  8  3 f   -     -     -       275000    0    0 
+TheHydra  910067946  8  2 Bf  -     -     -       275000 8000    0 
+TheHydra  910067981  8  1 Bcf -     -     -       267000 8000    0 
+TheHydra  910068022  7  7 f   -     -     -       259000    0    0 
+TheHydra  910068074  6  6 r   -     -     -       259000 56000 80000 
+TheHydra  910068101  6  5 f   -     -     -       283000    0    0 
+TheHydra  910068164  6  4 r   -     -     -       283000 56000 80000 
+TheHydra  910068197  6  3 r   -     -     -       307000 56000 35500 4c 4d
+TheHydra  910068211  6  2 Bf  -     -     -       286500 16000    0 
+TheHydra  910068230  6  1 Bc  k     b     kf      270500 64000    0 
+TheHydra  910068291  6  6 f   -     -     -       206500    0    0 
+TheHydra  910068302  6  5 f   -     -     -       206500    0    0 
+TheHydra  910068315  6  4 f   -     -     -       206500    0    0 
+TheHydra  910068339  6  3 rcA -     -     -       206500 206500    0 8s 8d
+TheHydra  911174775 16 16 r   c     c     f         2500  670    0 
+TheHydra  911174869 16 15 c   f     -     -         1830   70    0 
+TheHydra  911174929 15 13 f   -     -     -         1760    0    0 
+TheHydra  911174994 14 12 f   -     -     -         1760    0    0 
+TheHydra  911175061 13 10 f   -     -     -         1760    0    0 
+TheHydra  911175128 13  9 f   -     -     -         1760    0    0 
+TheHydra  911175171 13  8 f   -     -     -         1760    0    0 
+TheHydra  911175231 13  7 cc  kf    -     -         1760  220    0 
+TheHydra  911175313 12  6 f   -     -     -         1540    0    0 
+TheHydra  911175395 12  5 c   f     -     -         1540  140    0 
+TheHydra  911175439 11  3 f   -     -     -         1400    0    0 
+TheHydra  911175487 10  2 Bk  k     b     f         1400  200    0 
+TheHydra  911175577 10  1 Bf  -     -     -         1200   40    0 
+TheHydra  911175606 10 10 f   -     -     -         1160    0    0 
+TheHydra  911175636 10  9 f   -     -     -         1160    0    0 
+TheHydra  911175671 10  8 f   -     -     -         1160    0    0 
+TheHydra  911175719 10  7 f   -     -     -         1160    0    0 
+TheHydra  911175764  9  5 f   -     -     -         1160    0    0 
+TheHydra  911175792  9  5 f   -     -     -         1160    0    0 
+TheHydra  911175819  8  3 f   -     -     -         1160    0    0 
+TheHydra  911175836  8  2 Bk  k     k     kf        1160   80    0 
+TheHydra  911175892  8  1 Bc  krA   -     -         1080 1080 2240 Js Ks
+TheHydra  911175919  8  8 f   -     -     -         2240    0    0 
+TheHydra  911175953  8  7 f   -     -     -         2240    0    0 
+TheHydra  911175992  8  6 f   -     -     -         2240    0    0 
+TheHydra  911176001  8  5 c   b     -     -         2240  560  800 
+TheHydra  911176024  8  4 r   -     -     -         2480  560  800 
+TheHydra  911176043  8  3 f   -     -     -         2720    0    0 
+TheHydra  911176086  8  2 Bk  kf    -     -         2720  160    0 
+TheHydra  911176141  7  1 Bf  -     -     -         2560   80    0 
+TheHydra  911176163  6  6 f   -     -     -         2480    0    0 
+TheHydra  911176186  6  6 r   -     -     -         2480  560  800 
+TheHydra  911176202  6  5 f   -     -     -         2720    0    0 
+TheHydra  911176224  6  4 f   -     -     -         2720    0    0 
+TheHydra  911176251  5  3 f   -     -     -         2720    0    0 
+TheHydra  911176307  5  2 Bc  k     b     -         2720 1440 1920 
+TheHydra  911176331  5  1 Bc  krA   -     -         3200 3200    0 Jc Ah
+TheHydra  911864888 10  4 f   -     -     -        10000    0    0 
+TheHydra  911864953 10  3 f   -     -     -        10000    0    0 
+TheHydra  911865024 10  2 Bf  -     -     -        10000  100    0 
+TheHydra  911865086 10  1 Bf  -     -     -         9900   50    0 
+TheHydra  911865152 10 10 f   -     -     -         9850    0    0 
+TheHydra  911865175 10  9 f   -     -     -         9850    0    0 
+TheHydra  911865276 10  8 f   -     -     -         9850    0    0 
+TheHydra  911865358 10  7 c   f     -     -         9850  200    0 
+TheHydra  911865410 10  6 r   b     k     bA        9650 9650 14200 
+TheHydra  911865498 10  5 f   -     -     -        14200    0    0 
+TheHydra  911865560  9  3 f   -     -     -        14200    0    0 
+TheHydra  911865646  9  3 f   -     -     -        14200    0    0 
+TheHydra  911865715  9  2 Bk  kf    -     -        14200  400    0 
+TheHydra  911865750  9  1 Bc  b     b     -        13800 5398 8196 
+TheHydra  911865821  9  9 c   b     b     -        16598 6798 9197 
+TheHydra  911865895  9  8 f   -     -     -        18997    0    0 
+TheHydra  911865959  9  7 f   -     -     -        18997    0    0 
+TheHydra  911866028  9  6 f   -     -     -        18997    0    0 
+TheHydra  911866061  9  5 f   -     -     -        18997    0    0 
+TheHydra  911866090  9  4 f   -     -     -        18997    0    0 
+TheHydra  911866163  9  3 f   -     -     -        18997    0    0 
+TheHydra  911866193  9  2 Bf  -     -     -        18997  800    0 
+TheHydra  911866261  8  1 Bf  -     -     -        18197  800    0 
+TheHydra  911866288  8  8 r   b     cA    -        17397 17397    0 Kh 7h

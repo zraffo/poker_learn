@@ -1,0 +1,107 @@
+SpinCycle 965327509  9  3 f   -     -     -        10000    0    0 
+SpinCycle 965327543  9  2 Bf  -     -     -        10000   50    0 
+SpinCycle 965327588  9  1 Bf  -     -     -         9950   25    0 
+SpinCycle 965327647  9  9 f   -     -     -         9925    0    0 
+SpinCycle 965327688  9  8 f   -     -     -         9925    0    0 
+SpinCycle 965327723  9  7 f   -     -     -         9925    0    0 
+SpinCycle 965327748  9  6 f   -     -     -         9925    0    0 
+SpinCycle 965327783  9  5 f   -     -     -         9925    0    0 
+SpinCycle 965327838  9  4 f   -     -     -         9925    0    0 
+SpinCycle 965327859  9  3 f   -     -     -         9925    0    0 
+SpinCycle 965327871  9  2 Bf  -     -     -         9925  100    0 
+SpinCycle 965327905  9  1 Bc  k     kf    -         9825  100    0 
+SpinCycle 965327930  9  9 f   -     -     -         9725    0    0 
+SpinCycle 965327981  9  8 c   f     -     -         9725  100    0 
+SpinCycle 965328009  9  7 c   f     -     -         9625  100    0 
+SpinCycle 965328080  9  6 f   -     -     -         9525    0    0 
+SpinCycle 965328109  9  5 c   b     -     -         9525  900 1400 
+SpinCycle 965328132  9  4 cc  b     -     -        10025 3800 5400 
+SpinCycle 965328175  9  3 c   k     k     kc       11625 1000 2400 Jc Qd
+SpinCycle 965328223  9  2 Bk  k     k     k        13025  200  400 Ah Ks
+SpinCycle 965328257  9  1 Bc  kc    kc    k        13225 3200 9600 Jd Jh
+SpinCycle 965328315  9  9 cf  -     -     -        19625  200    0 
+SpinCycle 965328349  9  8 c   k     k     k        19425  400    0 3d 7d
+SpinCycle 965328392  9  7 c   k     c     k        19025 1200 4000 7c 6d
+SpinCycle 965328446  9  6 f   -     -     -        21825    0    0 
+SpinCycle 965328477  8  5 f   -     -     -        21825    0    0 
+SpinCycle 965328503  8  4 f   -     -     -        21825    0    0 
+SpinCycle 965328545  8  3 f   -     -     -        21825    0    0 
+SpinCycle 965328584  8  2 Bk  kf    -     -        21825  400    0 
+SpinCycle 965328643  8  1 Bc  k     k     k        21425  800    0 Kh Ah
+SpinCycle 965328680  8  8 c   f     -     -        20625  800    0 
+SpinCycle 965328744  8  7 c   k     k     k        19825  800    0 7s 6c
+SpinCycle 965328778  8  6 f   -     -     -        19025    0    0 
+SpinCycle 965328795  8  5 f   -     -     -        19025    0    0 
+SpinCycle 965328801  8  4 c   k     kf    -        19025  800    0 
+SpinCycle 965328855  7  3 f   -     -     -        18225    0    0 
+SpinCycle 965328889  7  2 Bk  k     k     f        18225  800    0 
+SpinCycle 965328926  7  1 Bc  b     -     -        17425 4800 6400 
+SpinCycle 965328948  7  7 c   f     -     -        19025 1600    0 
+SpinCycle 965328981  7  6 c   f     -     -        17425 1600    0 
+SpinCycle 965329008  7  5 f   -     -     -        15825    0    0 
+SpinCycle 965329064  7  4 c   k     k     kf       15825 1600    0 
+SpinCycle 965329149  7  3 f   -     -     -        14225    0    0 
+SpinCycle 965329162  7  2 Bf  -     -     -        14225 1600    0 
+SpinCycle 965329191  7  1 Bf  -     -     -        12625 1600    0 
+SpinCycle 965329244  6  6 f   -     -     -        11025    0    0 
+SpinCycle 965329315  5  4 f   -     -     -        11025    0    0 
+SpinCycle 965329340  5  3 c   k     k     k        11025 3200 11200 3c Qc
+SpinCycle 965329366  5  2 Bk  k     k     kf       19025 3200    0 
+SpinCycle 965329461  5  1 Bc  k     k     kf       15825 6400    0 
+SpinCycle 965329524  5  5 f   -     -     -         9425    0    0 
+SpinCycle 965329541  5  4 c   k     k     k         9425 6400 16000 9c Ac
+SpinCycle 965329567  5  3 f   -     -     -        19025    0    0 
+SpinCycle 965329578  5  2 Bk  k     k     kf       19025 6400    0 
+SpinCycle 965329628  5  1 Bf  -     -     -        12625 3200    0 
+SpinCycle 965329639  5  5 f   -     -     -         9425    0    0 
+SpinCycle 965329658  5  4 c   bA    -     -         9425 9425 19025 
+SpinCycle 965329681  5  3 f   -     -     -        19025    0    0 
+SpinCycle 965329685  5  2 Bf  -     -     -        19025 6400    0 
+SpinCycle 965329698  5  1 Bf  -     -     -        12625 3200    0 
+SpinCycle 965329710  3  3 f   -     -     -         9425    0    0 
+SpinCycle 965329720  3  3 f   -     -     -         9425    0    0 
+SpinCycle 965329744  3  2 BA  -     -     -         9425 9425 18850 Qc Th
+SpinCycle 965329755  3  1 BrA -     -     -        18850 18850    0 Td Kc
+SpinCycle 965683975 10  4 f   -     -     -         2000    0    0 
+SpinCycle 965684049 10  3 f   -     -     -         2000    0    0 
+SpinCycle 965684060 10  2 Bc  kf    -     -         2000   35    0 
+SpinCycle 965684074 10  1 Bf  -     -     -         1965    5    0 
+SpinCycle 965684081 10 10 f   -     -     -         1960    0    0 
+SpinCycle 965684107 10  9 c   b     k     r         1960 1330    0 Qc Jd
+SpinCycle 965684165 10  8 f   -     -     -          630    0    0 
+SpinCycle 965684228 10  7 cc  kf    -     -          630   55    0 
+SpinCycle 965684305 10  6 c   kf    -     -          575   20    0 
+SpinCycle 965684372 10  5 f   -     -     -          555    0    0 
+SpinCycle 965684403 10  4 f   -     -     -          555    0    0 
+SpinCycle 965684481 10  3 c   k     k     k          555   20    0 Kd Td
+SpinCycle 965684519 10  2 Bk  k     kc    k          535   90  210 3s 2d
+SpinCycle 965684558 10  1 Bc  kf    -     -          655   20    0 
+SpinCycle 965684626 10 10 c   k     k     b          635  220  540 Ac 8d
+SpinCycle 965684672 10  9 f   -     -     -          955    0    0 
+SpinCycle 965684726 10  8 f   -     -     -          955    0    0 
+SpinCycle 965684773 10  7 c   k     k     c          955  240    0 8c 7s
+SpinCycle 965684835 10  6 c   k     k     f          715   40    0 
+SpinCycle 965684903 10  5 f   -     -     -          675    0    0 
+SpinCycle 965685001 10  4 c   k     f     -          675   80    0 
+SpinCycle 965685050 10  3 cf  -     -     -          595   80    0 
+SpinCycle 965685066 10  2 Bf  -     -     -          515   80    0 
+SpinCycle 965685104  9  1 BrA -     -     -          435  435    0 Kd Ks
+SpinCycle 966031620 16  5 c   kf    -     -         5000   50    0 
+SpinCycle 966031747 16  4 cc  kf    -     -         4950  325    0 
+SpinCycle 966031795 16  3 f   -     -     -         4625    0    0 
+SpinCycle 966031875 16  2 Bf  -     -     -         4625   50    0 
+SpinCycle 966031947 16  1 Bc  kc    kc    kc        4575 3950    0 5h 2h
+SpinCycle 966032122 16 16 f   -     -     -          625    0    0 
+SpinCycle 966032208 16 15 f   -     -     -          625    0    0 
+SpinCycle 966032301 16 14 f   -     -     -          625    0    0 
+SpinCycle 966032348 16 13 f   -     -     -          625    0    0 
+SpinCycle 966032412 16 12 f   -     -     -          625    0    0 
+SpinCycle 966032475 16 11 c   cA    -     -          625  625    0 Ah Td
+SpinCycle 967767158 17 15 f   -     -     -        10000    0    0 
+SpinCycle 967767277 16 13 f   -     -     -        10000    0    0 
+SpinCycle 967767364 16 12 c   k     c     f        10000  525    0 
+SpinCycle 967767443 16 11 cc  f     -     -         9475 1950    0 
+SpinCycle 967767523 16 10 c   bcA   -     -         7525 7525 21142 Ks Kd
+SpinCycle 967767618 15  8 cc  k     c     c        21142 9258    0 3c Qc
+SpinCycle 967767739 13  7 c   kf    -     -        11884  292    0 
+SpinCycle 967767837 12  5 c   c     bA    -        11592 11592    0 Ks Jd

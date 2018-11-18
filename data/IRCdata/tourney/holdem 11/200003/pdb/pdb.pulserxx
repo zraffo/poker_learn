@@ -1,0 +1,370 @@
+pulserxx  951947890 13 12 f   -     -     -        10000    0    0 
+pulserxx  951947975 13 11 f   -     -     -        10000    0    0 
+pulserxx  951948034 13 10 f   -     -     -        10000    0    0 
+pulserxx  951948073 13  9 c   f     -     -        10000 1100    0 
+pulserxx  951948128 12  7 f   -     -     -         8900    0    0 
+pulserxx  951948160 12  6 f   -     -     -         8900    0    0 
+pulserxx  951948224 12  5 f   -     -     -         8900    0    0 
+pulserxx  951948296 12  4 f   -     -     -         8900    0    0 
+pulserxx  951948361 12  3 f   -     -     -         8900    0    0 
+pulserxx  951948439 12  2 Bf  -     -     -         8900  200    0 
+pulserxx  951948476 12  1 Bc  bc    kcA   -         8700 8700    0 9s 5s
+pulserxx  952094625 12 11 f   -     -     -        10000    0    0 
+pulserxx  952094735 12 10 c   f     -     -        10000  100    0 
+pulserxx  952094812 12  9 c   f     -     -         9900  100    0 
+pulserxx  952094908 12  8 f   -     -     -         9800    0    0 
+pulserxx  952094982 12  7 cc  f     -     -         9800 1200    0 
+pulserxx  952095112 12  6 f   -     -     -         8600    0    0 
+pulserxx  952095193 12  5 c   k     kf    -         8600  200    0 
+pulserxx  952095257 12  4 cc  kc    k     kf        8400 1750    0 
+pulserxx  952095397 12  3 f   -     -     -         6650    0    0 
+pulserxx  952095448 12  2 Bc  kf    -     -         6650 1100    0 
+pulserxx  952095492 12  1 Bc  kf    -     -         5550  400    0 
+pulserxx  952095590 11 11 f   -     -     -         5150    0    0 
+pulserxx  952095641 11 10 f   -     -     -         5150    0    0 
+pulserxx  952095733 11  9 f   -     -     -         5150    0    0 
+pulserxx  952095846 10  8 rA  -     -     -         5150 5150    0 Kh Kd
+pulserxx  952105502 17 17 f   -     -     -         2000    0    0 
+pulserxx  952105611 17 16 f   -     -     -         2000    0    0 
+pulserxx  952105698 17 15 f   -     -     -         2000    0    0 
+pulserxx  952105833 17 14 cf  -     -     -         2000   20    0 
+pulserxx  952105919 17 13 c   b     -     -         1980  360  640 
+pulserxx  952106006 17 12 rc  k     k     b         2260 2020 2760 
+pulserxx  952106084 17 11 f   -     -     -         3000    0    0 
+pulserxx  952106188 16 10 f   -     -     -         3000    0    0 
+pulserxx  952106253 15  9 f   -     -     -         3000    0    0 
+pulserxx  952106393 14  7 c   kf    -     -         3000   80    0 
+pulserxx  952106494 14  6 crc -     -     -         2920 2750    0 9d 9h
+pulserxx  952106553 14  5 f   -     -     -          170    0    0 
+pulserxx  952106622 14  4 f   -     -     -          170    0    0 
+pulserxx  952106684 13  3 c   bA    -     -          170  170  750 Js 8c
+pulserxx  952106815 13  2 Bk  kf    -     -          750  160    0 
+pulserxx  952106878 13  1 Bf  -     -     -          590   80    0 
+pulserxx  952106926 13 13 f   -     -     -          510    0    0 
+pulserxx  952106987 13 12 f   -     -     -          510    0    0 
+pulserxx  952107017 12 10 f   -     -     -          510    0    0 
+pulserxx  952107085 12  9 f   -     -     -          510    0    0 
+pulserxx  952107188 12  8 f   -     -     -          510    0    0 
+pulserxx  952107240 12  7 f   -     -     -          510    0    0 
+pulserxx  952107299 11  5 f   -     -     -          510    0    0 
+pulserxx  952107368 10  4 f   -     -     -          510    0    0 
+pulserxx  952107397 10  3 f   -     -     -          510    0    0 
+pulserxx  952107458  9  2 BcA -     -     -          510  510    0 Qd 8s
+pulserxx  952440729 16  4 f   -     -     -         5000    0    0 
+pulserxx  952440791 16  3 f   -     -     -         5000    0    0 
+pulserxx  952440867 16  2 Bc  kf    -     -         5000  175    0 
+pulserxx  952440972 16  1 Bc  kf    -     -         4825  175    0 
+pulserxx  952441059 16 16 c   f     -     -         4650  100    0 
+pulserxx  952441124 16 15 f   -     -     -         4550    0    0 
+pulserxx  952441185 16 14 f   -     -     -         4550    0    0 
+pulserxx  952441301 16 13 cf  -     -     -         4550  100    0 
+pulserxx  952441342 16 12 c   k     r     b         4450 2239 3152 
+pulserxx  952441390 16 11 f   -     -     -         5363    0    0 
+pulserxx  952441428 16 10 f   -     -     -         5363    0    0 
+pulserxx  952441456 16  9 f   -     -     -         5363    0    0 
+pulserxx  952441507 16  8 cc  kf    -     -         5363  298    0 
+pulserxx  952441583 15  7 r   b     -     -         5065 3900 6000 
+pulserxx  952441639 15  6 f   -     -     -         7165    0    0 
+pulserxx  952441665 15  5 f   -     -     -         7165    0    0 
+pulserxx  952441797 15  4 f   -     -     -         7165    0    0 
+pulserxx  952441838 15  3 c   b     -     -         7165 2800 4800 
+pulserxx  952441895 15  2 Bk  kf    -     -         9165  400    0 
+pulserxx  952441945 15  1 Bc  k     k     b         8765 1200 2400 
+pulserxx  952441998 15 15 f   -     -     -         9965    0    0 
+pulserxx  952442033 15 14 f   -     -     -         9965    0    0 
+pulserxx  952442070 14 12 f   -     -     -         9965    0    0 
+pulserxx  952442111 14 12 f   -     -     -         9965    0    0 
+pulserxx  952442155 14 11 c   b     -     -         9965 2800 6000 
+pulserxx  952442198 14 10 f   -     -     -        13165    0    0 
+pulserxx  952442245 14  9 f   -     -     -        13165    0    0 
+pulserxx  952442299 13  8 c   kf    -     -        13165  800    0 
+pulserxx  952442344 13  7 f   -     -     -        12365    0    0 
+pulserxx  952442442 13  6 f   -     -     -        12365    0    0 
+pulserxx  952442454 13  5 f   -     -     -        12365    0    0 
+pulserxx  952442476 13  4 f   -     -     -        12365    0    0 
+pulserxx  952442509 13  3 cc  -     -     -        12365 5644    0 Ad Td
+pulserxx  952442576 12  2 Bc  bA    -     -         6721 6721 9823 Qc Js
+pulserxx  952442605 11  1 Bf  -     -     -         9823  800    0 
+pulserxx  952442630 11 11 c   k     f     -         9023 1600    0 
+pulserxx  952442681 11 10 f   -     -     -         7423    0    0 
+pulserxx  952442698 11  9 f   -     -     -         7423    0    0 
+pulserxx  952442727 11  8 f   -     -     -         7423    0    0 
+pulserxx  952442793 11  7 cA  -     -     -         7423 7423 20446 3s 3h
+pulserxx  952442836 10  5 f   -     -     -        20446    0    0 
+pulserxx  952442861  8  3 f   -     -     -        20446    0    0 
+pulserxx  952442883  8  2 Bk  k     k     f        20446 3200    0 
+pulserxx  952442915  8  1 Bc  -     -     -        17246 4350    0 2s As
+pulserxx  952442943  8  8 f   -     -     -        12896    0    0 
+pulserxx  952442970  7  6 f   -     -     -        12896    0    0 
+pulserxx  952443002  7  6 f   -     -     -        12896    0    0 
+pulserxx  952443031  7  5 f   -     -     -        12896    0    0 
+pulserxx  952443056  6  3 f   -     -     -        12896    0    0 
+pulserxx  952443191  6  3 f   -     -     -        12896    0    0 
+pulserxx  952443245  6  2 Bk  k     bA    -        12896 12896 19296 
+pulserxx  952443285  6  1 Bf  -     -     -        19296 3200    0 
+pulserxx  952443311  6  6 c   -     -     -        16096 4527 8062 Qc 6c
+pulserxx  952443341  5  4 f   -     -     -        19631    0    0 
+pulserxx  952443380  3  3 f   -     -     -        19631    0    0 
+pulserxx  952443390  3  3 rA  -     -     -        19631 19631 43398 4s 4h
+pulserxx  952443409  2  2 B   -     -     -        43398 6400 9600 
+pulserxx  952443419  2  1 Bc  k     kf    -        46598 6400    0 
+pulserxx  952443437  2  2 B   -     -     -        40198 6400 9600 
+pulserxx  952443441  2  1 Bf  -     -     -        43398 3200    0 
+pulserxx  952443444  2  2 B   -     -     -        40198 6400 9600 
+pulserxx  952443447  2  1 Br  kc    -     -        43398 36602 73204 Qd Ac
+pulserxx  952699686  9  8 f   -     -     -         5000    0    0 
+pulserxx  952699798  9  7 f   -     -     -         5000    0    0 
+pulserxx  952699873  9  6 cc  k     kf    -         5000  275    0 
+pulserxx  952699989  8  4 f   -     -     -         4725    0    0 
+pulserxx  952700035  8  3 f   -     -     -         4725    0    0 
+pulserxx  952700091  8  2 Bf  -     -     -         4725  100    0 
+pulserxx  952700132  7  1 Bc  k     brc   -         4625 4375 8850 3c 3h
+pulserxx  952700198  6  6 r   k     b     k         9100 1300    0 Ah Qc
+pulserxx  952700242  6  6 c   b     -     -         7800  500  800 
+pulserxx  952700295  6  5 f   -     -     -         8100    0    0 
+pulserxx  952700320  6  4 f   -     -     -         8100    0    0 
+pulserxx  952700337  6  3 f   -     -     -         8100    0    0 
+pulserxx  952700380  6  2 Bc  kf    -     -         8100  250    0 
+pulserxx  952700452  6  1 Br  -     -     -         7850  300  400 
+pulserxx  952700487  6  6 c   k     k     f         7950  200    0 
+pulserxx  952700532  6  5 c   f     -     -         7750  200    0 
+pulserxx  952700558  6  4 c   kf    -     -         7550  200    0 
+pulserxx  952700598  6  3 f   -     -     -         7350    0    0 
+pulserxx  952700619  6  2 Bk  k     kf    -         7350  200    0 
+pulserxx  952700665  6  1 Bc  k     k     kc        7150  800    0 7s Qh
+pulserxx  952700718  6  6 f   -     -     -         6350    0    0 
+pulserxx  952700735  6  5 f   -     -     -         6350    0    0 
+pulserxx  952700767  6  4 c   k     k     f         6350  200    0 
+pulserxx  952700797  6  3 f   -     -     -         6150    0    0 
+pulserxx  952700821  6  2 Bk  kf    -     -         6150  200    0 
+pulserxx  952700841  6  1 Bf  -     -     -         5950  100    0 
+pulserxx  952700861  6  6 f   -     -     -         5850    0    0 
+pulserxx  952700876  6  5 f   -     -     -         5850    0    0 
+pulserxx  952700906  6  4 r   -     -     -         5850 1800 2800 
+pulserxx  952700921  6  3 cc  f     -     -         6850  800    0 
+pulserxx  952700951  6  2 Brc -     -     -         6050 5750    0 7s 7h
+pulserxx  952700998  6  1 BcA -     -     -          300  300  600 Ah 7c
+pulserxx  952701029  6  6 f   -     -     -          600    0    0 
+pulserxx  952701053  6  5 f   -     -     -          600    0    0 
+pulserxx  952701093  6  4 f   -     -     -          600    0    0 
+pulserxx  952701121  6  3 f   -     -     -          600    0    0 
+pulserxx  952701143  6  2 Bk  bA    -     -          600  600    0 8d 9d
+pulserxx  953055301 13  1 Br  kf    -     -         6000  200    0 
+pulserxx  953055363 13 13 f   -     -     -         5800    0    0 
+pulserxx  953055431 13 12 f   -     -     -         5800    0    0 
+pulserxx  953055518 13 11 c   k     k     f         5800   40    0 
+pulserxx  953055657 13 10 c   f     -     -         5760   80    0 
+pulserxx  953055734 13  9 f   -     -     -         5680    0    0 
+pulserxx  953055791 13  8 f   -     -     -         5680    0    0 
+pulserxx  953055867 13  7 c   kf    -     -         5680   80    0 
+pulserxx  953055957 13  6 c   f     -     -         5600   80    0 
+pulserxx  953056004 13  5 f   -     -     -         5520    0    0 
+pulserxx  953056069 12  4 f   -     -     -         5520    0    0 
+pulserxx  953056137 12  3 c   k     c     kf        5520  360    0 
+pulserxx  953056231 12  2 Bk  kf    -     -         5160  160    0 
+pulserxx  953056285 12  1 Bc  kf    -     -         5000  160    0 
+pulserxx  953056331 12 12 f   -     -     -         4840    0    0 
+pulserxx  953056377 10 10 c   b     k     k         4840 1760 2880 9h Kc
+pulserxx  953056460 10  9 f   -     -     -         5960    0    0 
+pulserxx  953056523 10  8 c   f     -     -         5960  320    0 
+pulserxx  953056578 10  7 f   -     -     -         5640    0    0 
+pulserxx  953056616  9  5 f   -     -     -         5640    0    0 
+pulserxx  953056674  9  5 c   b     b     -         5640 2320 3200 
+pulserxx  953056711  9  4 f   -     -     -         6520    0    0 
+pulserxx  953056730  9  3 f   -     -     -         6520    0    0 
+pulserxx  953056756  9  2 Bk  kf    -     -         6520  640    0 
+pulserxx  953056783  9  1 Bf  -     -     -         5880  320    0 
+pulserxx  953056820  9  9 f   -     -     -         5560    0    0 
+pulserxx  953056856  9  8 r   cA    -     -         5560 5560    0 6s 6d
+pulserxx  953307956 16  6 c   kf    -     -         5000   50    0 
+pulserxx  953308055 16  5 f   -     -     -         4950    0    0 
+pulserxx  953308128 16  4 f   -     -     -         4950    0    0 
+pulserxx  953308222 16  3 c   kf    -     -         4950   50    0 
+pulserxx  953308383 16  2 Bk  kf    -     -         4900  100    0 
+pulserxx  953308507 15  1 Bf  -     -     -         4800   50    0 
+pulserxx  953308587 14 14 f   -     -     -         4750    0    0 
+pulserxx  953308643 13 12 f   -     -     -         4750    0    0 
+pulserxx  953308749 13 11 f   -     -     -         4750    0    0 
+pulserxx  953308805 13 10 f   -     -     -         4750    0    0 
+pulserxx  953309040 13  9 c   k     k     k         4750  700    0 Ah 3d
+pulserxx  953309105 13  8 f   -     -     -         4050    0    0 
+pulserxx  953309163 13  7 f   -     -     -         4050    0    0 
+pulserxx  953309246 13  6 c   kf    -     -         4050  400    0 
+pulserxx  953309302 12  5 f   -     -     -         3650    0    0 
+pulserxx  953309405 12  4 r   kf    -     -         3650 1400    0 
+pulserxx  953309482 12  3 f   -     -     -         2250    0    0 
+pulserxx  953309555 12  2 Bk  kf    -     -         2250  800    0 
+pulserxx  953309617 12  1 Bf  -     -     -         1450  400    0 
+pulserxx  953309695 11 11 rA  -     -     -         1050 1050    0 Kc 3c
+pulserxx  953310756 13  3 f   -     -     -         5000    0    0 
+pulserxx  953310776 13  2 Bk  kf    -     -         5000   50    0 
+pulserxx  953310852 13  1 Bf  -     -     -         4950   25    0 
+pulserxx  953310908 13 13 f   -     -     -         4925    0    0 
+pulserxx  953310965 13 12 r   b     k     b         4925 3125 4350 
+pulserxx  953311061 13 11 f   -     -     -         6150    0    0 
+pulserxx  953311152 13 10 f   -     -     -         6150    0    0 
+pulserxx  953311208 13  9 f   -     -     -         6150    0    0 
+pulserxx  953311276 13  8 c   c     f     -         6150  800    0 
+pulserxx  953311368 13  7 f   -     -     -         5350    0    0 
+pulserxx  953311462 13  6 c   c     c     c         5350 4900 4750 2d Ad
+pulserxx  953311549 11  5 f   -     -     -         5200    0    0 
+pulserxx  953311588 11  4 f   -     -     -         5200    0    0 
+pulserxx  953311609 11  3 f   -     -     -         5200    0    0 
+pulserxx  953311649 11  2 Bk  b     b     -         5200 1800 2400 
+pulserxx  953311697 11  1 Bf  -     -     -         5800  100    0 
+pulserxx  953311750 11 11 f   -     -     -         5700    0    0 
+pulserxx  953311768 11 10 rc  cA    -     -         5700 5700    0 Kh Ad
+pulserxx  953477597 14  4 f   -     -     -        10000    0    0 
+pulserxx  953477758 14  3 cc  b     k     b        10000 5025 10800 Ad Kh
+pulserxx  953477861 14  2 Bk  kf    -     -        15775   50    0 
+pulserxx  953478028 14  1 Bc  kf    -     -        15725  100    0 
+pulserxx  953478174 14 14 f   -     -     -        15625    0    0 
+pulserxx  953478286 14 13 f   -     -     -        15625    0    0 
+pulserxx  953478425 14 12 f   -     -     -        15625    0    0 
+pulserxx  953478531 14 11 f   -     -     -        15625    0    0 
+pulserxx  953478627 14 10 c   k     f     -        15625  200    0 
+pulserxx  953478693 14  9 f   -     -     -        15425    0    0 
+pulserxx  953478807 14  8 f   -     -     -        15425    0    0 
+pulserxx  953478856 13  6 c   f     -     -        15425 1400    0 
+pulserxx  953478906 13  5 c   f     -     -        14025 1074    0 
+pulserxx  953478942 12  3 c   f     -     -        12951  400    0 
+pulserxx  953478989 12  3 f   -     -     -        12551    0    0 
+pulserxx  953479061 12  2 Bf  -     -     -        12551  400    0 
+pulserxx  953479162 12  1 Bf  -     -     -        12151  400    0 
+pulserxx  953479238 11 11 f   -     -     -        11751    0    0 
+pulserxx  953479292 11 10 f   -     -     -        11751    0    0 
+pulserxx  953479350 11  9 f   -     -     -        11751    0    0 
+pulserxx  953479385 11  8 c   c     f     -        11751 2200    0 
+pulserxx  953479469 11  7 rA  -     -     -         9551 9551 16651 6d 6h
+pulserxx  953479521 10  5 f   -     -     -        16651    0    0 
+pulserxx  953479578  9  4 f   -     -     -        16651    0    0 
+pulserxx  953479615  9  3 f   -     -     -        16651    0    0 
+pulserxx  953479651  9  2 BrA -     -     -        16651 16651 42329 Ts Th
+pulserxx  953479684  7  1 Bc  kf    -     -        42329 1600    0 
+pulserxx  953479733  7  7 f   -     -     -        40729    0    0 
+pulserxx  953479777  6  6 f   -     -     -        40729    0    0 
+pulserxx  953479825  5  5 f   -     -     -        40729    0    0 
+pulserxx  953479866  4  3 f   -     -     -        40729    0    0 
+pulserxx  953479910  4  3 f   -     -     -        40729    0    0 
+pulserxx  953479958  4  2 Bc  k     b     -        40729 35200 48000 
+pulserxx  953480000  4  1 Bf  -     -     -        53529 1600    0 
+pulserxx  953480010  4  4 f   -     -     -        51929    0    0 
+pulserxx  953480071  4  3 f   -     -     -        51929    0    0 
+pulserxx  953480081  4  2 Bk  k     k     c        51929 9600    0 8d 9c
+pulserxx  953480111  4  1 Bc  k     k     k        42329 3200    0 Tc 6d
+pulserxx  953480177  4  4 r   -     -     -        39129 11200 16000 
+pulserxx  953480197  4  3 f   -     -     -        43929    0    0 
+pulserxx  953480220  4  2 B   -     -     -        43929 6400 9600 
+pulserxx  953480229  4  1 Bc  kf    -     -        47129 6400    0 
+pulserxx  953480254  4  4 r   -     -     -        40729 22400 32000 
+pulserxx  953480263  4  3 crA -     -     -        50329 50329 22685 Ts Qd
+pulserxx  953480302  4  2 B   -     -     -        22685 6400 9600 
+pulserxx  953480324  4  1 Br  bA    -     -        25885 25885    0 Ac 8s
+pulserxx  953480894 14  4 c   k     b     -         5000  188  413 
+pulserxx  953480956 14  3 cc  kc    kf    -         5225 3764    0 
+pulserxx  953481066 14  2 Bk  kf    -     -         1461   50    0 
+pulserxx  953481207 14  1 Bc  kf    -     -         1411   50    0 
+pulserxx  953481268 14 14 f   -     -     -         1361    0    0 
+pulserxx  953481338 13 12 f   -     -     -         1361    0    0 
+pulserxx  953481398 12 10 f   -     -     -         1361    0    0 
+pulserxx  953481469 11  9 rA  -     -     -         1361 1361 4233 As Js
+pulserxx  953481540 11  8 c   f     -     -         4233  100    0 
+pulserxx  953481599 11  7 f   -     -     -         4133    0    0 
+pulserxx  953481656 11  6 f   -     -     -         4133    0    0 
+pulserxx  953481687 10  4 f   -     -     -         4133    0    0 
+pulserxx  953481750 10  4 f   -     -     -         4133    0    0 
+pulserxx  953481810 10  3 f   -     -     -         4133    0    0 
+pulserxx  953481836 10  2 Bf  -     -     -         4133  200    0 
+pulserxx  953481873  9  1 Brc kf    -     -         3933 1800    0 
+pulserxx  953481920  9  9 f   -     -     -         2133    0    0 
+pulserxx  953481948  9  8 rcA -     -     -         2133 2133 2433 Ah 9h
+pulserxx  953481975  9  7 f   -     -     -         2433    0    0 
+pulserxx  953482007  9  6 f   -     -     -         2433    0    0 
+pulserxx  953482026  9  5 f   -     -     -         2433    0    0 
+pulserxx  953482047  9  4 f   -     -     -         2433    0    0 
+pulserxx  953482076  8  2 f   -     -     -         2433    0    0 
+pulserxx  953482105  8  2 Bk  kf    -     -         2433  400    0 
+pulserxx  953482119  8  1 Bc  kc    k     k         2033 2000 6400 Qc 8s
+pulserxx  953482159  8  8 r   b     -     -         6433 6200 8800 
+pulserxx  953482192  8  7 c   k     rA    -         9033 9033 13033 
+pulserxx  953482231  8  6 f   -     -     -        13033    0    0 
+pulserxx  953482266  8  5 f   -     -     -        13033    0    0 
+pulserxx  953482309  8  4 f   -     -     -        13033    0    0 
+pulserxx  953482318  8  3 c   k     k     kf       13033  400    0 
+pulserxx  953482378  8  2 Bk  k     k     k        12633  800    0 Th 9s
+pulserxx  953482407  8  1 Bf  -     -     -        11833  400    0 
+pulserxx  953482448  7  7 f   -     -     -        11433    0    0 
+pulserxx  953482463  7  6 f   -     -     -        11433    0    0 
+pulserxx  953482509  7  5 f   -     -     -        11433    0    0 
+pulserxx  953482533  7  4 f   -     -     -        11433    0    0 
+pulserxx  953482562  7  3 c   b     k     k        11433 2400 4000 7h As
+pulserxx  953482626  7  2 Bk  k     k     k        13033  800 2000 Ah 5c
+pulserxx  953482711  7  1 Bc  k     k     k        14233 1600 3200 Ac 8c
+pulserxx  953482736  7  7 f   -     -     -        15833    0    0 
+pulserxx  953482770  7  6 f   -     -     -        15833    0    0 
+pulserxx  953482807  7  5 f   -     -     -        15833    0    0 
+pulserxx  953482820  7  4 cf  -     -     -        15833 1600    0 
+pulserxx  953482836  7  3 f   -     -     -        14233    0    0 
+pulserxx  953482874  7  2 Bc  -     -     -        14233 3186 4916 Jc Qd
+pulserxx  953482886  6  1 Bf  -     -     -        15963  800    0 
+pulserxx  953482907  6  6 f   -     -     -        15163    0    0 
+pulserxx  953482923  6  5 r   -     -     -        15163 5600 8000 
+pulserxx  953482953  6  4 f   -     -     -        17563    0    0 
+pulserxx  953482964  6  3 f   -     -     -        17563    0    0 
+pulserxx  953482989  6  2 Bf  -     -     -        17563 1600    0 
+pulserxx  953482999  6  1 Bc  k     k     k        15963 1600 1600 5h 4s
+pulserxx  953483025  6  6 f   -     -     -        15963    0    0 
+pulserxx  953483074  6  5 c   k     k     k        15963 3200 8000 Qd Kd
+pulserxx  953483102  6  4 f   -     -     -        20763    0    0 
+pulserxx  953483112  6  3 cc  bA    -     -        20763 20763    0 Kc As
+pulserxx  953650187 18 17 f   -     -     -        10000    0    0 
+pulserxx  953650345 17 15 c   k     f     -        10000   50    0 
+pulserxx  953650464 17 14 c   f     -     -         9950  175    0 
+pulserxx  953650572 17 13 c   f     -     -         9775   50    0 
+pulserxx  953650736 17 12 cc  kc    kc    kc        9725 1550    0 Ts Jc
+pulserxx  953650924 17 11 f   -     -     -         8175    0    0 
+pulserxx  953650993 17 10 cf  -     -     -         8175  100    0 
+pulserxx  953651112 16  9 f   -     -     -         8075    0    0 
+pulserxx  953651213 14  8 f   -     -     -         8075    0    0 
+pulserxx  953651294 14  7 c   kf    -     -         8075  200    0 
+pulserxx  953651506 13  5 f   -     -     -         7875    0    0 
+pulserxx  953651572 13  4 c   k     kf    -         7875  200    0 
+pulserxx  953651690 13  3 f   -     -     -         7675    0    0 
+pulserxx  953651815 13  2 Bk  b     k     k         7675 2400 6000 9s 7d
+pulserxx  953651960 12  1 Bf  -     -     -        11275  200    0 
+pulserxx  953652060 12 12 f   -     -     -        11075    0    0 
+pulserxx  953652142 12 11 c   k     f     -        11075 2800    0 
+pulserxx  953652240 11  9 f   -     -     -         8275    0    0 
+pulserxx  953652282 11  9 cf  -     -     -         8275  800    0 
+pulserxx  953652319 11  8 f   -     -     -         7475    0    0 
+pulserxx  953652394 11  7 r   -     -     -         7475 2800 4000 
+pulserxx  953652442 11  6 c   f     -     -         8675  800    0 
+pulserxx  953652514 11  5 f   -     -     -         7875    0    0 
+pulserxx  953652552 11  4 f   -     -     -         7875    0    0 
+pulserxx  953652602 11  3 rcA -     -     -         7875 7875    0 Qc Ah
+pulserxx  953908713 10  2 Bk  kf    -     -        10000  100    0 
+pulserxx  953908759  9  1 Bf  -     -     -         9900   50    0 
+pulserxx  953908801  9  9 c   k     f     -         9850  100    0 
+pulserxx  953908863  9  8 c   kf    -     -         9750  100    0 
+pulserxx  953908934  9  7 f   -     -     -         9650    0    0 
+pulserxx  953908996  8  6 c   b     k     b         9650 1500 2100 
+pulserxx  953909046  8  5 f   -     -     -        10250    0    0 
+pulserxx  953909102  8  4 f   -     -     -        10250    0    0 
+pulserxx  953909186  8  3 f   -     -     -        10250    0    0 
+pulserxx  953909270  8  2 Bk  kf    -     -        10250  200    0 
+pulserxx  953909330  7  1 Bc  kc    k     bcA      10050 10050    0 3c 5s
+pulserxx  954428097 15  7 rc  b     k     k         5000 1875    0 Qd Ah
+pulserxx  954428254 15  6 f   -     -     -         3125    0    0 
+pulserxx  954428343 15  5 r   k     kf    -         3125  225    0 
+pulserxx  954428385 15  4 c   f     -     -         2900  175    0 
+pulserxx  954428463 15  3 f   -     -     -         2725    0    0 
+pulserxx  954428575 14  2 Bf  -     -     -         2725  100    0 
+pulserxx  954428639 14  1 Bf  -     -     -         2625   50    0 
+pulserxx  954428732 14 14 f   -     -     -         2575    0    0 
+pulserxx  954428789 13 12 f   -     -     -         2575    0    0 
+pulserxx  954428866 13 11 f   -     -     -         2575    0    0 
+pulserxx  954428928 13 10 f   -     -     -         2575    0    0 
+pulserxx  954428966 13  9 c   c     c     bA        2575 2575 5650 Qd Ts
+pulserxx  954429031 13  8 c   kf    -     -         5650  700    0 
+pulserxx  954429109 12  7 f   -     -     -         4950    0    0 
+pulserxx  954429194 12  6 cc  ccA   -     -         4950 4950    0 4s 5s

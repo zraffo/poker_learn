@@ -1,0 +1,630 @@
+camaron   965164429 13  9 f   -     -     -         5000    0    0 
+camaron   965164544 13  8 f   -     -     -         5000    0    0 
+camaron   965164616 13  7 c   f     -     -         5000 3050    0 
+camaron   965164712 13  6 cQ  -     -     -         1950   20    0 
+camaron   965321970 12  2 Bc  kc    k     k         1000  325    0 Qd 5h
+camaron   965322069 12  1 Bf  -     -     -          675    5    0 
+camaron   965322137 12 12 c   f     -     -          670   45    0 
+camaron   965322200 12 11 f   -     -     -          625    0    0 
+camaron   965322242 12 10 f   -     -     -          625    0    0 
+camaron   965322310 12  9 f   -     -     -          625    0    0 
+camaron   965322354 11  8 c   kc    k     rA         625  625  960 Tc 9h
+camaron   965322432 10  7 f   -     -     -          960    0    0 
+camaron   965322513 10  6 f   -     -     -          960    0    0 
+camaron   965322597 10  5 cc  k     k     kf         960   90    0 
+camaron   965322709 10  4 f   -     -     -          870    0    0 
+camaron   965322738 10  3 cc  k     k     k          870   90  210 Jh Kc
+camaron   965322795 10  2 Bk  f     -     -          990   20    0 
+camaron   965322844 10  1 Bc  kf    -     -          970   40    0 
+camaron   965322890 10 10 f   -     -     -          930    0    0 
+camaron   965322976 10  9 f   -     -     -          930    0    0 
+camaron   965323016 10  8 c   ccA   -     -          930  930  220 Ts Td
+camaron   965323059 10  7 c   k     bA    -          220  220    0 3h Jc
+camaron   965325036 12  6 cccA -     -     -        10000 10000 40100 8s 8h
+camaron   965325083  9  4 c   c     c     b        40100 5700    0 9h 9c
+camaron   965325126  9  3 c   k     kf    -        34400   50    0 
+camaron   965325215  9  2 Bc  kf    -     -        34350  225    0 
+camaron   965325255  9  1 Bc  kc    kf    -        34125  750    0 
+camaron   965325319  9  9 f   -     -     -        33375    0    0 
+camaron   965325361  9  8 c   r     -     -        33375 14950 25925 Ah Qc
+camaron   965325426  8  6 f   -     -     -        44350    0    0 
+camaron   965325509  8  5 c   b     -     -        44350 1000 1600 Jh Qs
+camaron   965325540  7  4 c   k     kf    -        44950  200    0 
+camaron   965325568  7  3 c   kf    -     -        44750  200    0 
+camaron   965325594  7  2 Bk  k     k     k        44550  200  700 6c 2s
+camaron   965325632  7  1 Bc  kc    kf    -        45050  600    0 
+camaron   965325659  7  7 f   -     -     -        44450    0    0 
+camaron   965325699  7  6 f   -     -     -        44450    0    0 
+camaron   965325704  7  5 c   kc    kc    k        44450 3800    0 8h Ah
+camaron   965325745  7  4 c   k     b     -        40650 1800 2800 
+camaron   965325769  7  3 c   kf    -     -        41650  400    0 
+camaron   965325824  7  2 Bk  kf    -     -        41250  400    0 
+camaron   965325875  7  1 Bc  kf    -     -        40850 1400    0 
+camaron   965325928  7  7 f   -     -     -        39450    0    0 
+camaron   965325974  7  6 c   c     k     f        39450 1800    0 
+camaron   965326006  7  5 f   -     -     -        37650    0    0 
+camaron   965326035  7  4 f   -     -     -        37650    0    0 
+camaron   965326060  7  3 c   k     f     -        37650  800    0 
+camaron   965326085  7  2 Bk  kf    -     -        36850  800    0 
+camaron   965326102  7  1 Br  b     -     -        36050 4800  450 Qd Ad
+camaron   965326142  7  7 f   -     -     -        31700    0    0 
+camaron   965326215  7  6 c   f     -     -        31700 3200    0 
+camaron   965326265  7  5 c   k     c     f        28500 10400    0 
+camaron   965326314  6  3 c   b     -     -        18100 6600 9800 
+camaron   965326356  6  2 Bk  b     -     -        21300 4800 6400 
+camaron   965326375  6  1 Bc  krA   -     -        22900 22900 43850 Jh Jc
+camaron   965326422  5  5 c   k     b     -        43850 15825 25250 Td Th
+camaron   965326456  4  4 c   k     f     -        53275 3200    0 
+camaron   965326475  4  3 c   c     k     k        50075 9600    0 9c 6s
+camaron   965326515  4  2 Bk  k     r     -        40475 28800 42875 Qs 5d
+camaron   965326555  3  1 Bc  kf    -     -        54550 3200    0 
+camaron   965326575  3  3 c   k     bc    -        51350 45300 93800 4h Ac
+camaron   965326611  2  2 B   -     -     -        99850 3200 4800 
+camaron   965326620  2  1 Bc  kf    -     -       101450 3200    0 
+camaron   965326633  2  2 B   -     -     -        98250 6400 9600 
+camaron   965326637  2  1 Bcf -     -     -       101450 6400    0 
+camaron   965326646  2  2 Bk  k     k     f        95050 6400    0 
+camaron   965326666  2  1 Bf  -     -     -        88650 3200    0 
+camaron   965326668  2  2 B   -     -     -        85450 6400 9600 
+camaron   965326674  2  1 Bc  k     k     k        88650 6400    0 As 5d
+camaron   965326697  2  2 B   -     -     -        82250 6400 9600 
+camaron   965326707  2  1 Bc  k     k     k        85450 6400 12800 6h Qh
+camaron   965326727  2  2 Bc  f     -     -        91850 19200    0 
+camaron   965326744  2  1 Bc  k     kf    -        72650 6400    0 
+camaron   965326758  2  2 Bf  -     -     -        66250 6400    0 
+camaron   965326763  2  1 Bc  k     kf    -        59850 6400    0 
+camaron   965326777  2  2 Bk  k     k     k        53450 6400    0 6c 8d
+camaron   965326795  2  1 Bc  k     k     k        47050 6400 12800 9d 8d
+camaron   965326816  2  2 B   -     -     -        53450 6400 9600 
+camaron   965326823  2  1 Bf  -     -     -        56650 3200    0 
+camaron   965326826  2  2 B   -     -     -        53450 6400 9600 
+camaron   965326828  2  1 Bc  k     k     k        56650 6400 6400 Kd 7d
+camaron   965326841  2  2 Bk  rA    -     -        56650 56650 82250 
+camaron   965326870  2  1 Bc  k     k     k        82250 12800    0 5s 4d
+camaron   965326887  2  2 B   -     -     -        69450 12800 19200 
+camaron   965326894  2  1 Bf  -     -     -        75850 6400    0 
+camaron   965326898  2  2 B   -     -     -        69450 12800 19200 
+camaron   965326901  2  1 Bc  k     b     -        75850 32800 45600 
+camaron   965326924  2  2 B   -     -     -        88650 12800 19200 
+camaron   965326928  2  1 Bc  kf    -     -        95050 12800    0 
+camaron   965326943  2  2 B   -     -     -        82250 12800 19200 
+camaron   965326945  2  1 Bf  -     -     -        88650 6400    0 
+camaron   965326948  2  2 Bc  -     -     -        82250 37750 75500 Ac 8h
+camaron   965327509  9  9 c   k     k     f        10000  175    0 
+camaron   965327543  9  8 c   k     f     -         9825  275    0 
+camaron   965327588  9  7 c   kc    k     f         9550  275    0 
+camaron   965327647  9  6 r   b     bA    -         9275 9275 12575 
+camaron   965327688  9  5 f   -     -     -        12575    0    0 
+camaron   965327723  9  4 cc  f     -     -        12575  200    0 
+camaron   965327748  9  3 f   -     -     -        12375    0    0 
+camaron   965327783  9  2 Bk  kf    -     -        12375  100    0 
+camaron   965327838  9  1 Bf  -     -     -        12275   50    0 
+camaron   965327859  9  9 f   -     -     -        12225    0    0 
+camaron   965327871  9  8 f   -     -     -        12225    0    0 
+camaron   965327905  9  7 f   -     -     -        12225    0    0 
+camaron   965327930  9  6 f   -     -     -        12225    0    0 
+camaron   965327981  9  5 f   -     -     -        12225    0    0 
+camaron   965328009  9  4 f   -     -     -        12225    0    0 
+camaron   965328080  9  3 f   -     -     -        12225    0    0 
+camaron   965328109  9  2 Bk  kf    -     -        12225  200    0 
+camaron   965328132  9  1 Bf  -     -     -        12025  100    0 
+camaron   965328175  9  9 f   -     -     -        11925    0    0 
+camaron   965328223  9  8 f   -     -     -        11925    0    0 
+camaron   965328257  9  7 f   -     -     -        11925    0    0 
+camaron   965328315  9  6 f   -     -     -        11925    0    0 
+camaron   965328349  9  5 f   -     -     -        11925    0    0 
+camaron   965328392  9  4 f   -     -     -        11925    0    0 
+camaron   965328446  9  3 f   -     -     -        11925    0    0 
+camaron   965328477  8  2 Bf  -     -     -        11925  400    0 
+camaron   965328503  8  1 Bf  -     -     -        11525  200    0 
+camaron   965328545  8  8 f   -     -     -        11325    0    0 
+camaron   965328584  8  7 f   -     -     -        11325    0    0 
+camaron   965328643  8  6 f   -     -     -        11325    0    0 
+camaron   965328680  8  5 f   -     -     -        11325    0    0 
+camaron   965328744  8  4 f   -     -     -        11325    0    0 
+camaron   965328778  8  3 f   -     -     -        11325    0    0 
+camaron   965328795  8  2 B   -     -     -        11325  800 1200 
+camaron   965328801  8  1 Bf  -     -     -        11725  400    0 
+camaron   965328855  7  7 f   -     -     -        11325    0    0 
+camaron   965328889  7  6 f   -     -     -        11325    0    0 
+camaron   965328926  7  5 f   -     -     -        11325    0    0 
+camaron   965328948  7  4 f   -     -     -        11325    0    0 
+camaron   965328981  7  3 f   -     -     -        11325    0    0 
+camaron   965329008  7  2 Bk  k     b     -        11325 4800 6400 
+camaron   965329064  7  1 Bc  k     k     kf       12925 1600    0 
+camaron   965329149  7  7 f   -     -     -        11325    0    0 
+camaron   965329162  7  6 c   f     -     -        11325 5600    0 
+camaron   965329191  7  5 f   -     -     -         5725    0    0 
+camaron   965329244  6  3 c   bA    -     -         5725 5725    0 9s Td
+camaron   965509325 13  8 f   -     -     -        10000    0    0 
+camaron   965509489 13  7 cf  -     -     -        10000   50    0 
+camaron   965509579 13  6 c   k     k     k         9950   50  325 Ks 6h
+camaron   965509672 13  5 c   k     kf    -        10225   50    0 
+camaron   965509769 13  4 c   kf    -     -        10175  100    0 
+camaron   965509828 13  3 f   -     -     -        10075    0    0 
+camaron   965509894 13  2 Bc  rA    -     -        10075 10075  350 4d 4h
+camaron   965509977 12  1 BrA -     -     -          350  350    0 7s 9s
+camaron   965677915  7  6 f   -     -     -         5000    0    0 
+camaron   965677990  6  5 f   -     -     -         5000    0    0 
+camaron   965678053  6  4 c   k     c     f         5000   70    0 
+camaron   965678079  6  3 f   -     -     -         4930    0    0 
+camaron   965678097  6  2 B   -     -     -         4930   20   30 
+camaron   965678113  6  1 Bc  kf    -     -         4940   90    0 
+camaron   965678161  6  6 f   -     -     -         4850    0    0 
+camaron   965678224  6  5 c   b     b     -         4850 2020  840 Jc 9d
+camaron   965678267  6  4 c   r     -     -         3670  610  770 
+camaron   965678293  6  3 c   k     b     b         3830 2040 2620 
+camaron   965678322  6  2 B   -     -     -         4410   40   60 
+camaron   965678328  6  1 Bc  kc    kf    -         4430  760    0 
+camaron   965678368  6  6 f   -     -     -         3670    0    0 
+camaron   965678388  6  5 cc  kc    k     krA       3670 3670 7400 As 5d
+camaron   965678422  6  4 cc  k     k     bc        7400 1460 3020 2c Ah
+camaron   965678468  5  3 c   k     c     kc        8960  540 1400 9d Td
+camaron   965678519  5  2 Bk  k     k     f         9820   40    0 
+camaron   965678540  5  1 Bf  -     -     -         9780   20    0 
+camaron   965678564  5  5 c   k     b     -         9760  480  680 
+camaron   965678591  5  4 cc  f     -     -         9960  540    0 
+camaron   965678628  5  3 f   -     -     -         9420    0    0 
+camaron   965678655  5  2 Bk  kf    -     -         9420   80    0 
+camaron   965678674  5  1 Bc  kc    krA   -         9340 9340 16920 2c 2d
+camaron   965678734  4  4 c   k     k     k        16920   80    0 Jh 6s
+camaron   965678774  4  4 f   -     -     -        16840    0    0 
+camaron   965678795  4  3 f   -     -     -        16840    0    0 
+camaron   965678802  4  2 Bc  c     b     -        16840 5720 6440 
+camaron   965678823  4  1 Bc  kr    -     -        17560 5920 10850 7s 9h
+camaron   965678842  3  3 c   k     f     -        22490   80    0 
+camaron   965678872  3  2 B   -     -     -        22410   80  120 
+camaron   965678878  3  1 Br  b     -     -        22450  720  960 
+camaron   965678888  3  3 c   k     k     f        22690   80    0 
+camaron   965678917  3  2 B   -     -     -        22610   80  120 
+camaron   965678923  3  1 Br  -     -     -        22650  240  320 
+camaron   965678928  3  3 c   f     -     -        22730   80    0 
+camaron   965678938  3  2 Bf  -     -     -        22650   80    0 
+camaron   965678946  3  1 Bf  -     -     -        22570   40    0 
+camaron   965678951  3  3 f   -     -     -        22530    0    0 
+camaron   965678954  3  2 Bf  -     -     -        22530   80    0 
+camaron   965678980  3  1 Bc  kf    -     -        22450   80    0 
+camaron   965678998  3  3 c   b     -     -        22370  280  400 
+camaron   965679009  3  2 B   -     -     -        22490   80  120 
+camaron   965679015  3  1 Bf  -     -     -        22530   80    0 
+camaron   965679025  3  3 f   -     -     -        22450    0    0 
+camaron   965679034  3  2 B   -     -     -        22450  160  240 
+camaron   965679040  3  1 Bf  -     -     -        22530   80    0 
+camaron   965679043  3  3 f   -     -     -        22450    0    0 
+camaron   965679047  3  2 Bk  k     kf    -        22450  160    0 
+camaron   965679062  3  1 Bf  -     -     -        22290   80    0 
+camaron   965679064  3  3 f   -     -     -        22210    0    0 
+camaron   965679080  3  2 Bk  k     k     f        22210  160    0 
+camaron   965679098  3  1 Bf  -     -     -        22050   80    0 
+camaron   965679100  3  3 f   -     -     -        21970    0    0 
+camaron   965679121  3  2 Bk  kf    -     -        21970  160    0 
+camaron   965679134  3  1 Bf  -     -     -        21810   80    0 
+camaron   965679137  3  3 f   -     -     -        21730    0    0 
+camaron   965679141  3  2 Bk  kf    -     -        21730  160    0 
+camaron   965679150  3  1 Bf  -     -     -        21570   80    0 
+camaron   965679152  3  3 f   -     -     -        21490    0    0 
+camaron   965679156  3  2 Bk  kf    -     -        21490  160    0 
+camaron   965679167  3  1 Bf  -     -     -        21330   80    0 
+camaron   965679169  3  3 f   -     -     -        21250    0    0 
+camaron   965679173  3  2 Bf  -     -     -        21250  160    0 
+camaron   965679180  3  1 Bf  -     -     -        21090   80    0 
+camaron   965679190  3  3 f   -     -     -        21010    0    0 
+camaron   965679213  3  2 B   -     -     -        21010  160  240 
+camaron   965679220  3  1 Bc  kf    -     -        21090  160    0 
+camaron   965679232  3  3 f   -     -     -        20930    0    0 
+camaron   965679250  3  2 B   -     -     -        20930  160  240 
+camaron   965679253  3  1 Bf  -     -     -        21010   80    0 
+camaron   965679257  3  3 c   b     -     -        20930  560  800 
+camaron   965679265  3  2 B   -     -     -        21170  160  240 
+camaron   965679269  3  1 Bf  -     -     -        21250   80    0 
+camaron   965679274  3  3 c   k     k     k        21170  160  480 7s 7d
+camaron   965679303  3  2 Bc  k     br    -        21490 16160 8630 Kh Jh
+camaron   965679334  3  1 Bf  -     -     -        13960   80    0 
+camaron   965679343  3  3 c   k     k     k        13880  160  400 Ts Qd
+camaron   965679362  3  2 B   -     -     -        14120  160  240 
+camaron   965679369  3  1 Bc  k     k     k        14200  160  320 3d Kc
+camaron   965679384  3  3 f   -     -     -        14360    0    0 
+camaron   965679391  3  2 Bf  -     -     -        14360  320    0 
+camaron   965679396  3  1 Bc  k     k     kf       14040  320    0 
+camaron   965679419  3  3 f   -     -     -        13720    0    0 
+camaron   965679423  3  2 Br  bA    -     -        13720 13720 16200 
+camaron   965679447  3  1 Bc  krA   -     -        16200 16200 16760 2d 5d
+camaron   965679471  3  3 c   k     k     k        16760  320    0 5c Ad
+camaron   965679512  3  2 B   -     -     -        16440  320  480 
+camaron   965679519  3  1 Bc  k     k     k        16600 1120    0 6h 7c
+camaron   965679537  3  3 f   -     -     -        15480    0    0 
+camaron   965679556  3  2 Bc  f     -     -        15480  960    0 
+camaron   965679571  3  1 Bc  kf    -     -        14520  320    0 
+camaron   965679585  3  3 f   -     -     -        14200    0    0 
+camaron   965679605  3  2 Bc  k     k     b        14200 2880 3840 
+camaron   965679636  3  1 Bf  -     -     -        15160  160    0 
+camaron   965679640  3  3 cc  k     b     b        15000 12800 6360 As 3s
+camaron   965679663  3  2 B   -     -     -         8560  320  480 
+camaron   965679671  3  1 Br  -     -     -         8720  960 1280 
+camaron   965679678  3  3 c   k     k     k         9040  320  800 Th 8c
+camaron   965679693  3  2 B   -     -     -         9520  320  480 
+camaron   965679700  3  1 Bc  k     k     k         9680  320  640 6d 6c
+camaron   965679723  3  3 c   f     -     -        10000  320    0 
+camaron   965679741  3  2 B   -     -     -         9680  320  480 
+camaron   965679747  3  1 Bc  k     k     b         9840 1920 2560 
+camaron   965679761  3  3 c   k     k     k        10480  640 1600 8c Ac
+camaron   965679777  3  2 Bc  bA    -     -        11440 11440 13080 
+camaron   965679797  3  1 Br  -     -     -        13080 1840 2480 
+camaron   965679805  3  3 cc  f     -     -        13720 2240    0 
+camaron   965679821  3  2 Bk  k     k     f        11480  640    0 
+camaron   965679839  3  1 Bc  kf    -     -        10840 2240    0 
+camaron   965679855  3  3 c   rA    -     -         8600 8600    0 Qd 7s
+camaron   965767187  9  3 f   -     -     -         5000    0    0 
+camaron   965767203  9  2 Bc  k     kc    kf        5000  550    0 
+camaron   965767235  9  1 Bcc k     kc    k         4450 1000    0 5s Kh
+camaron   965767285  9  9 c   k     f     -         3450   50    0 
+camaron   965767314  9  8 f   -     -     -         3400    0    0 
+camaron   965767355  9  7 cc  f     -     -         3400  275    0 
+camaron   965767398  9  6 f   -     -     -         3125    0    0 
+camaron   965767441  9  5 f   -     -     -         3125    0    0 
+camaron   965767495  9  4 c   k     kf    -         3125   50    0 
+camaron   965767535  9  3 f   -     -     -         3075    0    0 
+camaron   965767569  9  2 Bc  kf    -     -         3075  450    0 
+camaron   965767621  9  1 Bf  -     -     -         2625   50    0 
+camaron   965767675  9  9 c   c     k     f         2575  800    0 
+camaron   965767758  9  8 f   -     -     -         1775    0    0 
+camaron   965767790  9  7 crA -     -     -         1775 1775    0 Qs Ah
+camaron   965769070 14 14 f   -     -     -        10000    0    0 
+camaron   965769154 14 13 f   -     -     -        10000    0    0 
+camaron   965769232 14 12 f   -     -     -        10000    0    0 
+camaron   965769293 14 11 f   -     -     -        10000    0    0 
+camaron   965769368 13  9 f   -     -     -        10000    0    0 
+camaron   965769434 13  8 cc  c     -     -        10000 8375 20050 2h 2c
+camaron   965769485 12  6 c   k     f     -        21675  100    0 
+camaron   965769540 12  6 f   -     -     -        21575    0    0 
+camaron   965769622 12  5 c   kc    k     k        21575  800    0 7d Ac
+camaron   965769701 12  4 cc  kf    -     -        20775  450    0 
+camaron   965769774 12  3 c   c     cf    -        20325 6200    0 
+camaron   965769827 11  2 Bk  k     k     k        14125  200  500 2d 2h
+camaron   965769861 11  1 Bc  kf    -     -        14425  200    0 
+camaron   965769923 11 11 f   -     -     -        14225    0    0 
+camaron   965770004 10  9 f   -     -     -        14225    0    0 
+camaron   965770058  9  8 f   -     -     -        14225    0    0 
+camaron   965770138  9  7 c   c     rA    -        14225 14225    0 7d Qc
+camaron   965772147 11  8 f   -     -     -         5000    0    0 
+camaron   965772202 10  6 ccA -     -     -         5000 5000    0 Ks 9s
+camaron   965843258 12  1 Bf  -     -     -         1000    5    0 
+camaron   965843326 12 12 f   -     -     -          995    0    0 
+camaron   965843411 12 11 c   k     b     -          995  310  355 
+camaron   965843485 12 10 c   f     -     -         1040   10    0 
+camaron   965843533 12  9 c   bc    -     -         1030  935    0 8c Ac
+camaron   965843597 12  8 rA  -     -     -           95   95  505 4h Ah
+camaron   965843669 12  7 f   -     -     -          505    0    0 
+camaron   965843758 12  6 f   -     -     -          505    0    0 
+camaron   965843828 12  5 f   -     -     -          505    0    0 
+camaron   965843889 11  3 f   -     -     -          505    0    0 
+camaron   965843949 10  3 c   k     c     cA         505  505    0 2d Qd
+camaron   966021377 16 14 c   rcA   -     -        10000 10000    0 7s 7h
+camaron   966024429 10  7 c   kc    k     k        10000  175  625 7h Jc
+camaron   966024575 10  6 f   -     -     -        10450    0    0 
+camaron   966024701 10  5 cf  -     -     -        10450   50    0 
+camaron   966024734 10  4 cf  -     -     -        10400   50    0 
+camaron   966024757  9  3 c   kf    -     -        10350   50    0 
+camaron   966024826  9  2 Bk  kf    -     -        10300  100    0 
+camaron   966024875  9  1 Bc  kc    k     k        10200 1100 3400 Td Qh
+camaron   966024938  9  9 c   c     b     b        12500 7625 17225 2c Qc
+camaron   966024988  8  7 cc  rA    -     -        22100 22100 48000 Qc Kc
+camaron   966025040  7  5 cr  -     -     -        48000 14400 10675 6h Qc
+camaron   966025104  6  5 c   kc    kf    -        44275  600    0 
+camaron   966025148  6  4 cr  -     -     -        43675 10450 36375 Ah Ac
+camaron   966025180  3  2 c   r     b     -        69600 22600 1975 Jd Qd
+camaron   966025241  2  1 B   -     -     -        48975  200  200 
+camaron   966025249  2  1 Bc  b     -     -        48975  600  800 
+camaron   966025262  2  2 B   -     -     -        49175  200  300 
+camaron   966025265  2  1 Bcc kf    -     -        49275  600    0 
+camaron   966025279  2  2 Bk  k     k     k        48675  200    0 4s 2d
+camaron   966025301  2  1 Br  k     kf    -        48475  600    0 
+camaron   966025325  2  2 Bf  -     -     -        47875  200    0 
+camaron   966025329  2  1 Bf  -     -     -        47675  100    0 
+camaron   966025331  2  2 Br  -     -     -        47575 5200 5400 
+camaron   966025347  2  1 Bc  kf    -     -        47775  200    0 
+camaron   966025359  2  2 Bc  k     f     -        47575  600    0 
+camaron   966025374  2  1 Bc  k     b     -        46975  600  800 
+camaron   966025385  2  2 Bk  k     f     -        47175  200    0 
+camaron   966025397  2  1 Bc  k     b     -        46975  600  800 
+camaron   966025410  2  2 Bk  k     f     -        47175  200    0 
+camaron   966025424  2  1 Bc  k     k     k        46975  200  400 Jh 9d
+camaron   966025439  2  2 Bc  f     -     -        47175  600    0 
+camaron   966025452  2  1 Bc  kc    kf    -        46575  600    0 
+camaron   966025466  2  2 Bc  f     -     -        45975  600    0 
+camaron   966025476  2  1 Bc  kc    kf    -        45375  600    0 
+camaron   966025494  2  2 Bk  k     k     k        44775  200  400 8c Ks
+camaron   966025508  2  1 Bf  -     -     -        44975  100    0 
+camaron   966025513  2  2 B   -     -     -        44875  400  600 
+camaron   966025528  2  1 Bcc kr    -     -        45075 13600 17200 
+camaron   966025554  2  2 Bk  b     -     -        48675 1200 1600 
+camaron   966025565  2  1 Bcc kf    -     -        49075 1200    0 
+camaron   966025579  2  2 Bk  k     k     b        47875 1200 1600 
+camaron   966025598  2  1 Bf  -     -     -        48275  200    0 
+camaron   966025600  2  2 Bk  c     c     b        48075 23600 27200 
+camaron   966025634  2  1 Bc  k     k     kf       51675  400    0 
+camaron   966025655  2  2 Br  -     -     -        51275 5400 5800 
+camaron   966025667  2  1 Bcc kf    -     -        51675 1200    0 
+camaron   966025681  2  2 Bc  c     f     -        50475 3600    0 
+camaron   966025697  2  1 Bf  -     -     -        46875  200    0 
+camaron   966025699  2  2 B   -     -     -        46675  400  600 
+camaron   966025702  2  1 Bc  kc    kc    kc       46875 10800 21600 9s Qs
+camaron   966025730  2  2 Bk  b     bf    -        57675 3600    0 
+camaron   966025755  2  1 Bcf -     -     -        54075  400    0 
+camaron   966025761  2  2 Bc  brA   -     -        53675 53675 7350 4s 8s
+camaron   966025800  2  1 Br  -     -     -         7350 1200 1600 
+camaron   966025809  2  2 Br  -     -     -         7750 1200 1600 
+camaron   966025817  2  1 Bf  -     -     -         8150  200    0 
+camaron   966025820  2  2 Br  -     -     -         7950 1200 1600 
+camaron   966025835  2  1 BrA -     -     -         8350 8350 8750 
+camaron   966025843  2  2 B   -     -     -         8750  400  600 
+camaron   966025847  2  1 BrA -     -     -         8950 8950 9750 
+camaron   966025850  2  2 BrA -     -     -         9750 9750 19500 Qc 4c
+camaron   966025858  2  1 BrA -     -     -        19500 19500    0 3h 4h
+camaron   966026093 15 14 f   -     -     -         5000    0    0 
+camaron   966026124 15 13 f   -     -     -         5000    0    0 
+camaron   966026156 15 12 f   -     -     -         5000    0    0 
+camaron   966026256 14 10 f   -     -     -         5000    0    0 
+camaron   966026319 14 10 f   -     -     -         5000    0    0 
+camaron   966026431 14  9 f   -     -     -         5000    0    0 
+camaron   966026507 14  8 f   -     -     -         5000    0    0 
+camaron   966026596 13  6 cc  kf    -     -         5000  350    0 
+camaron   966026644 13  5 c   kc    k     k         4650  500    0 Kh Qs
+camaron   966026695 13  4 f   -     -     -         4150    0    0 
+camaron   966026770 13  3 f   -     -     -         4150    0    0 
+camaron   966026802 13  2 Bf  -     -     -         4150  100    0 
+camaron   966026819 13  1 Bc  kc    kcA   -         4050 4050    0 Qc 5d
+camaron   966795001 12 12 f   -     -     -        10000    0    0 
+camaron   966795062 12 11 c   c     cf    -        10000 3450    0 
+camaron   966795115 12 10 c   c     c     rA        6550 6550 13175 7s Qh
+camaron   966795157 11  9 c   bc    -     -        13175 10000    0 8d 2d
+camaron   966795214 11  8 cc  bA    -     -         3175 3175 3375 3c 3s
+camaron   966795266 11  7 c   k     kc    k         3375  300 1000 Jd 7c
+camaron   966795351 11  6 cc  krA   -     -         4075 4075 5350 
+camaron   966795419 11  5 c   kf    -     -         5350  100    0 
+camaron   966795515 11  4 c   k     kf    -         5250  100    0 
+camaron   966795552 11  3 cc  kf    -     -         5150  550    0 
+camaron   966795573 11  2 Bc  kc    kcA   -         4600 4600 11400 3s Kc
+camaron   966795611 11  1 Bf  -     -     -        11400   50    0 
+camaron   966795638 11 11 c   r     -     -        11350 11200 12550 
+camaron   966795678 11 10 c   f     -     -        12700  450    0 
+camaron   966795738  9  8 c   b     brA   -        12250 12250 12375 Th 5h
+camaron   966795806  9  7 c   c     -     -        12375 2575 6550 Qs 4h
+camaron   966795865  8  5 c   kc    kc    k        16350 6200    0 Jd Ah
+camaron   966795949  8  4 f   -     -     -        10150    0    0 
+camaron   966795993  8  3 f   -     -     -        10150    0    0 
+camaron   966796037  8  2 Bk  kc    krA   -        10150 10150 1125 5h As
+camaron   966796085  8  1 Bc  kf    -     -         1125  200    0 
+camaron   966796118  8  8 rA  -     -     -          925  925    0 4d Kd
+camaron   966797690 12 11 f   -     -     -        10000    0    0 
+camaron   966797773 12 10 f   -     -     -        10000    0    0 
+camaron   966797813 11  8 c   r     bA    -        10000 10000 22900 Jd Kd
+camaron   966797884 10  7 f   -     -     -        22900    0    0 
+camaron   966797912 10  6 c   c     f     -        22900 1000    0 
+camaron   966797966 10  5 cc  k     b     -        21900 2600 3050 Jd Jh
+camaron   966798009 10  4 f   -     -     -        22350    0    0 
+camaron   966798058 10  3 f   -     -     -        22350    0    0 
+camaron   966798105  9  2 Bc  k     k     kf       22350 1800    0 
+camaron   966798178  8  1 Bc  krA   -     -        20550 20550 42900 6h 6d
+camaron   966798211  8  8 c   f     -     -        42900  400    0 
+camaron   966798239  8  7 c   f     -     -        42500 1250    0 
+camaron   966798261  7  5 f   -     -     -        41250    0    0 
+camaron   966798298  7  5 c   k     c     f        41250 1850    0 
+camaron   966798353  7  4 cc  f     -     -        39400  900    0 
+camaron   966798377  7  3 c   c     k     f        38500 1000    0 
+camaron   966798425  7  2 Bc  kf    -     -        37500 2800    0 
+camaron   966798461  7  1 Bc  kf    -     -        34700  800    0 
+camaron   966798480  7  7 c   k     c     f        33900 2800    0 
+camaron   966798515  7  6 f   -     -     -        31100    0    0 
+camaron   966798554  7  5 c   k     f     -        31100 2800    0 
+camaron   966798577  7  4 c   k     b     -        28300 2800 4000 
+camaron   966798614  7  3 c   k     f     -        29500  800    0 
+camaron   966798660  7  2 Bk  b     -     -        28700 2400 3200 
+camaron   966798688  7  1 Bc  k     k     k        29500  800    0 Ac Td
+camaron   966798715  7  7 c   c     b     -        28700 11900  250 9c Jc
+camaron   966798774  7  6 f   -     -     -        17050    0    0 
+camaron   966798816  7  5 c   b     bA    -        17050 17050 23450 
+camaron   966798873  7  4 c   f     -     -        23450 1600    0 
+camaron   966798894  7  3 c   b     -     -        21850 8000 12800 
+camaron   966798914  7  2 Bc  -     -     -        26650 6250    0 3d 5s
+camaron   966798937  7  1 Bf  -     -     -        20400  800    0 
+camaron   966798964  7  7 c   c     f     -        19600 7787    0 
+camaron   966798998  7  6 c   b     bA    -        11813 11813 21413 
+camaron   966799039  7  5 c   f     -     -        21413 1600    0 
+camaron   966799070  7  4 f   -     -     -        19813    0    0 
+camaron   966799098  7  3 f   -     -     -        19813    0    0 
+camaron   966799112  7  2 Bk  k     b     -        19813 6400 9600 
+camaron   966799132  7  1 Bc  kf    -     -        23013 5600    0 
+camaron   966799157  7  7 r   cA    -     -        17413 17413    0 As Kh
+camaron   967390658 15 14 f   -     -     -        10000    0    0 
+camaron   967390709 15 13 f   -     -     -        10000    0    0 
+camaron   967390789 15 12 f   -     -     -        10000    0    0 
+camaron   967390865 15 11 f   -     -     -        10000    0    0 
+camaron   967390945 14 10 cf  -     -     -        10000  100    0 
+camaron   967391056 14  9 c   c     c     cA        9900 9900    0 Tc Jh
+camaron   967393766 15  9 f   -     -     -        10000    0    0 
+camaron   967393889 15  8 cc  ccA   -     -        10000 10000 42400 5c 9c
+camaron   967393982 13  6 cc  k     k     k        42400  500    0 7d Ks
+camaron   967394075 12  6 c   kf    -     -        41900  100    0 
+camaron   967394132 12  5 c   k     k     b        41800 5100 10600 Ac 2s
+camaron   967394220 12  4 c   kf    -     -        47300  200    0 
+camaron   967394277 11  3 cc  kc    kc    -        47100 10000 24100 Js Jc
+camaron   967394341 10  2 Bf  -     -     -        61200  200    0 
+camaron   967394388 10  1 Bc  kc    kf    -        61000 1000    0 
+camaron   967394443 10 10 c   f     -     -        60000 1200    0 
+camaron   967394509 10  9 r   bc    -     -        58800 15600 35200 Qs Ad
+camaron   967394555  8  6 c   c     k     k        78400 3000    0 7d Qs
+camaron   967394617  8  5 c   bc    -     -        75400 10700 5000 Ks 8s
+camaron   967394678  7  3 c   k     f     -        69700  400    0 
+camaron   967394742  7  2 Bk  f     -     -        69300  400    0 
+camaron   967394791  7  1 Bc  k     kf    -        68900  400    0 
+camaron   967394875  7  7 c   k     f     -        68500  400    0 
+camaron   967394905  7  6 c   k     k     c        68100 1800 4200 Ad 7h
+camaron   967394979  7  5 c   kc    k     k        70500 2000    0 Kc 6d
+camaron   967395055  7  4 c   k     k     k        68500  800 3600 Ts Th
+camaron   967395119  7  3 c   kr    -     -        71300 11600 16400 
+camaron   967395168  7  2 B   -     -     -        76100  800 1200 
+camaron   967395178  7  1 Bc  k     k     kf       76500  800    0 
+camaron   967395215  7  7 f   -     -     -        75700    0    0 
+camaron   967395230  7  6 f   -     -     -        75700    0    0 
+camaron   967395267  7  5 c   k     f     -        75700  800    0 
+camaron   967395322  7  4 f   -     -     -        74900    0    0 
+camaron   967395350  7  3 c   k     k     kf       74900  800    0 
+camaron   967395442  7  2 Bk  k     kf    -        74100 1600    0 
+camaron   967395550  7  1 Bf  -     -     -        72500  800    0 
+camaron   967395584  7  7 c   k     f     -        71700 1600    0 
+camaron   967395672  6  5 c   b     -     -        70100 7599 10799 
+camaron   967395734  6  5 r   -     -     -        73300 6600 9000 
+camaron   967395755  6  4 r   b     b     -        75700 67200 92100 Ts Ah
+camaron   967395793  5  3 c   kf    -     -       100600 1600    0 
+camaron   967395842  5  2 Bk  k     k     k        99000 3200 8000 4s 9s
+camaron   967395865  5  1 Bf  -     -     -       103800 1600    0 
+camaron   967395888  5  5 f   -     -     -       102200    0    0 
+camaron   967395907  5  4 f   -     -     -       102200    0    0 
+camaron   967395942  5  3 f   -     -     -       102200    0    0 
+camaron   967395976  5  2 Bc  -     -     -       102200 10000    0 8s Qs
+camaron   967395995  4  1 Bc  k     b     -        92200 8200 11400 
+camaron   967396033  4  4 c   r     -     -        95400 40800 71400 7s 7d
+camaron   967396058  2  2 f   -     -     -       126000    0    0 
+camaron   967396064  2  2 Bf  -     -     -       126000 3200    0 
+camaron   967396073  2  1 Br  b     -     -       122800 29600 39200 
+camaron   967396094  2  2 Bf  -     -     -       132400 3200    0 
+camaron   967396105  2  1 Br  -     -     -       129200 23200 26400 
+camaron   967396116  2  2 B   -     -     -       132400 3200 4800 
+camaron   967396118  2  1 Bc  kf    -     -       134000 3200    0 
+camaron   967396151  2  2 B   -     -     -       130800 3200 4800 
+camaron   967396153  2  1 Bc  b     -     -       132400 23200 40800 2h 3h
+camaron   967396714 12  3 cc  k     bcA   -        10000 10000    0 Qd 3d
+camaron   967398646 14 13 rcA -     -     -        10000 10000 40425 Ks As
+camaron   967398755 11  9 c   f     -     -        40425  275    0 
+camaron   967398853 10  7 c   k     k     k        40150   50  200 3s Qh
+camaron   967398933 10  6 c   k     k     f        40300   50    0 
+camaron   967398997 10  5 cc  kc    kf    -        40250 1950    0 
+camaron   967399047 10  4 cc  kf    -     -        38300  650    0 
+camaron   967399094 10  3 f   -     -     -        37650    0    0 
+camaron   967399142  9  2 Bk  kc    kr    -        37650 29450 56364 Qd 9s
+camaron   967399216  8  1 Bc  kr    -     -        64564 10450  825 5d Kd
+camaron   967399282  8  8 f   -     -     -        54939    0    0 
+camaron   967399348  7  6 c   k     k     k        54939  200    0 4d 3s
+camaron   967399393  7  5 f   -     -     -        54739    0    0 
+camaron   967399445  7  4 c   k     kc    kf       54739  900    0 
+camaron   967399508  7  3 c   b     -     -        53839 5200 6200 
+camaron   967399552  7  2 Bk  k     b     -        54839 5200 5800 
+camaron   967399608  7  1 Bc  k     k     kf       55439  200    0 
+camaron   967399670  7  7 f   -     -     -        55239    0    0 
+camaron   967399685  7  6 f   -     -     -        55239    0    0 
+camaron   967399729  7  5 f   -     -     -        55239    0    0 
+camaron   967399754  7  4 f   -     -     -        55239    0    0 
+camaron   967399783  6  3 f   -     -     -        55239    0    0 
+camaron   967399825  6  2 Bk  kf    -     -        55239  400    0 
+camaron   967399847  6  1 Bf  -     -     -        54839  200    0 
+camaron   967399911  6  6 f   -     -     -        54639    0    0 
+camaron   967399960  5  4 f   -     -     -        54639    0    0 
+camaron   967400003  5  3 f   -     -     -        54639    0    0 
+camaron   967400050  5  2 Bk  k     k     k        54639  400  800 Td Ad
+camaron   967400075  5  1 Bf  -     -     -        55039  400    0 
+camaron   967400096  5  5 f   -     -     -        54639    0    0 
+camaron   967400118  5  4 f   -     -     -        54639    0    0 
+camaron   967400142  5  3 f   -     -     -        54639    0    0 
+camaron   967400160  5  2 Bf  -     -     -        54639  800    0 
+camaron   967400183  5  1 Bf  -     -     -        53839  400    0 
+camaron   967400232  5  5 f   -     -     -        53439    0    0 
+camaron   967400271  5  4 f   -     -     -        53439    0    0 
+camaron   967400295  5  3 f   -     -     -        53439    0    0 
+camaron   967400311  5  2 Bc  k     c     k        53439 11200    0 5c Jc
+camaron   967400350  5  1 Br  bA    -     -        42239 42239    0 Qc As
+camaron   967401909 14  8 f   -     -     -          400    0    0 
+camaron   967402779 14  7 c   k     k     k          400    4    0 6s Jc
+camaron   967402943 14  6 f   -     -     -          396    0    0 
+camaron   967403015 14  5 f   -     -     -          396    0    0 
+camaron   967403040 14  4 f   -     -     -          396    0    0 
+camaron   967403070 14  3 f   -     -     -          396    0    0 
+camaron   967403104 14  2 Bk  kf    -     -          396    4    0 
+camaron   967403133 14  1 Bf  -     -     -          392    2    0 
+camaron   967403167 14 14 f   -     -     -          390    0    0 
+camaron   967403187 14 13 f   -     -     -          390    0    0 
+camaron   967403243 14 12 f   -     -     -          390    0    0 
+camaron   967403263 14 11 f   -     -     -          390    0    0 
+camaron   967403292 13  9 f   -     -     -          390    0    0 
+camaron   967404049 13  8 f   -     -     -          390    0    0 
+camaron   967404109 13  7 cc  kf    -     -          390   88    0 
+camaron   967404162 12  6 c   kc    krA   -          302  302  628 3h 4h
+camaron   967404218 12  5 f   -     -     -          628    0    0 
+camaron   967404232 12  4 c   b     b     -          628  304  432 
+camaron   967404286 12  3 c   k     k     k          756   16    0 Js Ts
+camaron   967404314 12  2 Bc  kc    kf    -          740  232    0 
+camaron   967404367 12  1 Bf  -     -     -          508    8    0 
+camaron   967404385 12 12 c   f     -     -          500   16    0 
+camaron   967404403 12 11 c   k     k     kf         484   16    0 
+camaron   967404484 12 10 c   b     bA    -          468  468  616 
+camaron   967404549 12  9 c   k     k     k          616   32   48 9h As
+camaron   967404584 12  8 c   f     -     -          632  112    0 
+camaron   967404639 12  7 f   -     -     -          520    0    0 
+camaron   967404678 12  6 c   k     b     -          520  112  160 
+camaron   967404776 12  5 c   f     -     -          568   32    0 
+camaron   967404825 11  3 c   k     b     b          536  416  576 
+camaron   967404860 11  3 c   b     -     -          696  224  320 
+camaron   967404873 11  2 Bk  krA   -     -          792  792 1176 
+camaron   967404909 11  1 Bc  k     kc    -         1176  148  360 9h 8h
+camaron   967404940 10 10 f   -     -     -         1388    0    0 
+camaron   967404946 10 10 c   c     c     -         1388  446    0 Jc 3s
+camaron   967404963 10  9 c   b     -     -          942  224  320 
+camaron   967404981 10  8 c   f     -     -         1038   64    0 
+camaron   967405002 10  7 f   -     -     -          974    0    0 
+camaron   967405009 10  6 c   b     -     -          974  288  448 
+camaron   967405030 10  5 c   k     b     -         1134  224  320 
+camaron   967405051 10  4 f   -     -     -         1230    0    0 
+camaron   967405062 10  3 c   b     b     -         1230 1164 1624 
+camaron   967405098 10  2 Bk  k     k     k         1690   64    0 Jd 6h
+camaron   967405119 10  1 Bc  k     k     k         1626   64    0 5s Td
+camaron   967405144 10 10 c   f     -     -         1562   64    0 
+camaron   967405165 10  9 c   k     k     f         1498   64    0 
+camaron   967405189 10  8 c   b     -     -         1434  364  492 
+camaron   967405207 10  7 c   k     bc    -         1562 1098 2292 Ks As
+camaron   967405251  9  5 f   -     -     -         2756    0    0 
+camaron   967405265  9  4 f   -     -     -         2756    0    0 
+camaron   967405269  9  3 c   k     k     k         2756  128  448 3s 3d
+camaron   967405300  9  2 B   -     -     -         3076  128  192 
+camaron   967405305  9  1 Br  -     -     -         3140  384  512 
+camaron   967405324  9  9 r   -     -     -         3268  448  640 
+camaron   967405329  9  8 c   k     k     f         3460  128    0 
+camaron   967405352  8  7 f   -     -     -         3332    0    0 
+camaron   967405362  8  6 c   b     -     -         3332  448  640 
+camaron   967405372  8  5 f   -     -     -         3524    0    0 
+camaron   967405387  8  4 c   kf    -     -         3524  128    0 
+camaron   967405401  8  3 c   -     -     -         3396  128  156 5d Td
+camaron   967405406  8  2 Bk  k     k     b         3424  438  620 Ad 7s
+camaron   967405436  7  1 Bc  b     -     -         3606  384  512 
+camaron   967405445  7  7 c   k     k     k         3734  128  164 Qc 9c
+camaron   967405466  7  6 c   k     k     b         3770  448  640 
+camaron   967405484  7  5 c   -     -     -         3962  128  136 Ah 3d
+camaron   967405491  6  4 c   -     -     -         3970  128  268 9c Ah
+camaron   967405497  4  2 c   k     b     b         4110 1424 1444 Js 5h
+camaron   967405528  3  1 B   -     -     -         4130  128  128 
+camaron   967405534  3  1 Bc  kc    k     b         4130 1512 2152 
+camaron   967405562  3  3 cc  f     -     -         4770  394    0 
+camaron   967405577  2  2 Bk  b     -     -         4376 1128 1256 
+camaron   967405595  2  1 Bcc kc    -     -         4504 1096 2192 9d Kc
+camaron   967406176 10  8 f   -     -     -         1000    0    0 
+camaron   967406265 10  7 f   -     -     -         1000    0    0 
+camaron   967406343 10  6 f   -     -     -         1000    0    0 
+camaron   967406379 10  5 f   -     -     -         1000    0    0 
+camaron   967406446  9  4 f   -     -     -         1000    0    0 
+camaron   967406485  9  3 f   -     -     -         1000    0    0 
+camaron   967406512  9  2 Bf  -     -     -         1000   20    0 
+camaron   967406548  9  1 Bf  -     -     -          980   10    0 
+camaron   967406603  9  9 f   -     -     -          970    0    0 
+camaron   967406642  9  8 f   -     -     -          970    0    0 
+camaron   967406683  9  7 f   -     -     -          970    0    0 
+camaron   967406707  8  5 f   -     -     -          970    0    0 
+camaron   967406750  8  4 c   k     f     -          970   20    0 
+camaron   967406831  8  3 c   k     b     -          950  540  760 
+camaron   967406885  8  2 Bf  -     -     -         1170   40    0 
+camaron   967406898  8  1 Bf  -     -     -         1130   20    0 
+camaron   967406942  8  8 c   f     -     -         1110   40    0 
+camaron   967407004  8  7 cc  f     -     -         1070   60    0 
+camaron   967407032  7  6 c   k     f     -         1010   40    0 
+camaron   967407082  7  5 cc  f     -     -          970  240    0 
+camaron   967407136  6  4 f   -     -     -          730    0    0 
+camaron   967407159  6  3 c   kf    -     -          730   80    0 
+camaron   967407198  6  2 BcA -     -     -          650  650    0 Td Ts

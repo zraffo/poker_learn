@@ -1,0 +1,757 @@
+SpecialFX 818019097  6  3 c   kc    kc    kc        1000   60    0 Tc 6d
+SpecialFX 818019205  6  2 Bc  b     r     b          940   90    0 6h 9h
+SpecialFX 818019315  6  1 Bc  b     k     k          850   30    0 Kh 8h
+SpecialFX 818019400  5  5 c   f     -     -          820   10    0 
+SpecialFX 818019452  4  3 cc  c     f     -          810   30    0 
+SpecialFX 818019481  4  2 B   -     -     -          780   10   15 
+SpecialFX 818019489  5  1 Br  b     -     -          785   30   50 
+SpecialFX 818019520  5  5 c   r     f     -          805   30    0 
+SpecialFX 818019583  5  4 cc  b     k     kf         775   30    0 
+SpecialFX 818019658  5  3 c   k     b     -          745   30   50 
+SpecialFX 818019717  6  4 cc  bf    Q     -          765   30    0 
+SpecialFX 818022282 10  2 Br  kQ    -     -          735   20    0 
+SpecialFX 818027606  9  3 ccc Q     -     -          715   40    0 
+SpecialFX 818028110  9  3 Q   -     -     -          675    0    0 
+SpecialFX 818028467 10 10 c   crc   r     b          675  110  280 
+SpecialFX 818028601 10  9 c   cc    c     c          845   80    0 3s Qd
+SpecialFX 818028668 10  8 c   r     k     f          765   40    0 
+SpecialFX 818028749 12  8 c   cc    b     b          725   80    0 6s 2d
+SpecialFX 818028843 11  6 c   cc    kc    f          645   50    0 
+SpecialFX 818029000 12  6 cc  k     f     -          595   20    0 
+SpecialFX 818029127 11  5 c   k     f     -          575   10    0 
+SpecialFX 818029187 11  4 cc  kQ    -     -          565   20    0 
+SpecialFX 818033120  7  3 c   c     k     kf         545   20    0 
+SpecialFX 818033182  7  2 Br  br    k     b          525   80  165 Ks Kc
+SpecialFX 818033229  7  1 Bf  -     -     -          610    5    0 
+SpecialFX 818033294  9  7 Q   -     -     -          605    0    0 
+SpecialFX 818033531  9  5 c   kcc   kf    -          605   40    0 
+SpecialFX 818033632  9  4 cc  bcc   k     kf         565   50    0 
+SpecialFX 818033721  9  3 c   br    k     k          515   40    0 2c 7c
+SpecialFX 818033792 10  2 Bc  fQ    -     -          475   20    0 
+SpecialFX 818033950 11  5 c   kc    f     -          455   20    0 
+SpecialFX 818034023 10  3 c   krc   brc   b          435  140  455 Jh Ts
+SpecialFX 818034169 11  2 BQ  -     -     -          750   10    0 
+SpecialFX 818034338  8  5 cr  cKQ   -     -          740   60    0 
+SpecialFX 818035424  5  4 cQ  -     -     -          680   10    0 
+SpecialFX 818035519  5  2 Br  b     k     b          670   60  110 
+SpecialFX 818035569  5  1 Bf  -     -     -          720    5    0 
+SpecialFX 818035611  5  5 c   c     f     -          715   20    0 
+SpecialFX 818035795  5  4 r   brrr  b     b          695  130  255 
+SpecialFX 818035871  5  3 c   b     rrrr  r          820  220  445 Kh 7h
+SpecialFX 818035928  5  2 Bk  kc    k     f         1045   20    0 
+SpecialFX 818035985  5  1 Bf  -     -     -         1025    5    0 
+SpecialFX 818035998  5  5 c   r     b     -         1020   50  100 
+SpecialFX 818036044  6  4 cc  kc    kc    cc        1070  110    0 3s 8c
+SpecialFX 818036221  6  2 Bk  kr    -     -          960   30   55 
+SpecialFX 818036360  7  1 Br  kc    kf    -          985   40    0 
+SpecialFX 818036423  8  8 cc  c     rc    f          945  100    0 
+SpecialFX 818036523  9  5 Q   -     -     -          845    0    0 
+SpecialFX 818039278  6  4 cc  rc    rr    rr         845  220    0 7s Kh
+SpecialFX 818039446 10  3 cQ  -     -     -          625   10    0 
+SpecialFX 818043549 10 10 c   rc    rc    c          615  150    0 Qc 5h
+SpecialFX 818043755 10  9 c   kc    kc    b          465   60  160 8c 2h
+SpecialFX 818043968  7  6 c   k     c     r          565   70  170 
+SpecialFX 818044098 10  5 c   cr    b     k          665   70    0 Ad 3c
+SpecialFX 818044235 11  5 cQ  -     -     -          595   20    0 
+SpecialFX 818122278 11  8 c   c     c     f          575   50    0 
+SpecialFX 818122358 11  7 cc  b     b     -          525   50  135 
+SpecialFX 818122414 12  7 f   -     -     -          610    0    0 
+SpecialFX 818122517 12  5 r   -     -     -          610   20   35 
+SpecialFX 818122539 11  4 r   kQ    -     -          625   20    0 
+SpecialFX 818176810  2  1 BQ  -     -     -          605    5    0 
+SpecialFX 818178702  4  4 Q   -     -     -          600    0    0 
+SpecialFX 818305000  9  5 f   Q     -     -          600    0    0 
+SpecialFX 818305199  8  2 cc  f     -     -          600   20    0 
+SpecialFX 818305369 10  2 Bk  kf    -     -          580   10    0 
+SpecialFX 818305470 11  1 Bc  kc    kf    -          570   30    0 
+SpecialFX 818305649 12 12 c   b     b     Q          540   40    0 
+SpecialFX 818383791  3  3 c   k     f     -          500   10    0 
+SpecialFX 818383830  3  2 Bk  c     k     c          490   40    0 8s 9h
+SpecialFX 818383882  5  1 Bc  k     kf    -          450   10    0 
+SpecialFX 818383939  6  6 c   k     k     f          440   10    0 
+SpecialFX 818384010  5  3 Q   -     -     -          430    0    0 
+SpecialFX 818384099  6  2 Bk  kf    -     -          430   10    0 
+SpecialFX 818384164  7  1 Bc  k     kc    kQ         420   30    0 
+SpecialFX 818385611 12  5 cc  rc    Q     -          390   60    0 
+SpecialFX 818519520  5  4 rc  c     c     c          330   90    0 4d 4c
+SpecialFX 818519586  5  3 c   rc    c     br         240  150    0 8s Ac
+SpecialFX 818519684  4  1 Bf  -     -     -           90   10    0 
+SpecialFX 818519763  4  1 Bc  kc    kc    krA         80   80    0 8d Ah
+SpecialFX 818519842  4  4 f   -     -     -         1000    0    0 
+SpecialFX 818519864  4  3 r   c     c     k         1000   50  105 8h 8c
+SpecialFX 818519912  4  2 Bk  c     c     c         1055   60    0 6c 2s
+SpecialFX 818519986  4  1 BfQ -     -     -          995    5    0 
+SpecialFX 818523237  2  2 c   -     -     -          990   10   20 
+SpecialFX 818523307  2  1 Bk  k     b     -         1000   30   40 
+SpecialFX 818523329  2  1 Bf  -     -     -         1010    5    0 
+SpecialFX 818523334  2  2 Bc  k     k     f         1005   20    0 
+SpecialFX 818523364  2  1 Bf  -     -     -          985    5    0 
+SpecialFX 818523370  2  2 B   -     -     -          980   10   15 
+SpecialFX 818523374  2  1 Bc  k     k     k          985   10    0 7c 6s
+SpecialFX 818523394  2  2 B   -     -     -          975   10   15 
+SpecialFX 818523399  2  1 Bf  -     -     -          980    5    0 
+SpecialFX 818523408  2  2 B   -     -     -          975   10   15 
+SpecialFX 818523424  2  1 Bcc k     k     kf         980   20    0 
+SpecialFX 818523452  2  2 B   -     -     -          960   10   15 
+SpecialFX 818523455  2  1 Bf  -     -     -          965    5    0 
+SpecialFX 818523460  2  2 Bc  k     r     b          960   80    0 4h 3c
+SpecialFX 818523491  2  1 Bc  kc    bc    k          880   60    0 Tc Ac
+SpecialFX 818523530  2  2 Bf  -     -     -          820   10    0 
+SpecialFX 818523534  2  1 Bf  -     -     -          810    5    0 
+SpecialFX 818523540  2  2 Bf  -     -     -          805   10    0 
+SpecialFX 818523547  2  1 Bc  br    b     b          795   80   80 3c Qc
+SpecialFX 818523602  3  3 f   -     -     -          795    0    0 
+SpecialFX 818523706  3  2 Bc  kc    k     k          795   30   65 Qd 9s
+SpecialFX 818523757  3  1 Bc  k     b     -          830   30   40 
+SpecialFX 818523781  3  3 c   b     -     -          840   20   40 
+SpecialFX 818523811  3  2 Bk  k     f     -          860   10    0 
+SpecialFX 818523834  3  1 Bf  -     -     -          850    5    0 
+SpecialFX 818523853  3  3 f   -     -     -          845    0    0 
+SpecialFX 818523860  3  2 B   -     -     -          845   10   15 
+SpecialFX 818523868  3  1 Bc  k     b     b          850   50    0 Th Kh
+SpecialFX 818523902  3  3 cc  f     -     -          800   20    0 
+SpecialFX 818523944  3  2 Bf  -     -     -          780   10    0 
+SpecialFX 818523971  3  1 Bc  k     b     -          770   30   40 
+SpecialFX 818524014  3  3 rr  c     f     -          780   60    0 
+SpecialFX 818524061  3  2 Bc  f     -     -          720   20    0 
+SpecialFX 818524099  3  1 Bf  -     -     -          700    5    0 
+SpecialFX 818524108  3  3 c   k     c     c          695   50    0 9d Js
+SpecialFX 818524141  3  2 Bf  -     -     -          645   10    0 
+SpecialFX 818524156  3  1 Br  kc    kf    -          635   40    0 
+SpecialFX 818524196  3  3 r   b     -     -          595   30   60 
+SpecialFX 818524223  4  2 Bf  -     -     -          625   10    0 
+SpecialFX 818524241  4  1 Bf  -     -     -          615    5    0 
+SpecialFX 818524274  4  4 rr  r     b     k          610   80  225 Qs Qc
+SpecialFX 818524342  4  3 c   f     -     -          755   10    0 
+SpecialFX 818524392  4  2 Bk  k     b     -          745   30   40 
+SpecialFX 818524418  4  1 Bf  -     -     -          755    5    0 
+SpecialFX 818524427  4  4 c   k     k     f          750   10    0 
+SpecialFX 818524473  4  3 cc  b     k     k          740   30  100 5s Ac
+SpecialFX 818524518  4  2 B   -     -     -          810   10   15 
+SpecialFX 818524535  4  1 Bc  k     k     b          815   40   70 
+SpecialFX 818524570  4  4 f   -     -     -          845    0    0 
+SpecialFX 818524618  4  3 cc  k     f     -          845   15    0 
+SpecialFX 818524678  3  2 Bk  k     b     -          830   30   45 
+SpecialFX 818524722  4  1 Bc  b     b     -          845   40   60 
+SpecialFX 818524791  5  5 f   -     -     -          865    0    0 
+SpecialFX 818524838  5  4 c   k     b     k          865   30   90 6d Ad
+SpecialFX 818524896  5  3 c   k     bc    k          925   50    0 Jh Tc
+SpecialFX 818524948  5  2 Bc  k     k     f          875   20    0 
+SpecialFX 818524984  5  1 Bf  Q     -     -          855    5    0 
+SpecialFX 818525788  6  2 Bk  br    b     b          850   80  170 Ts 4s
+SpecialFX 818525840  6  1 Bf  -     -     -          940    5    0 
+SpecialFX 818525918  7  7 c   c     cc    c          935  110    0 2s Ad
+SpecialFX 818525993  7  6 fQ  -     -     -          825    0    0 
+SpecialFX 818526810  6  6 c   f     -     -          825   20    0 
+SpecialFX 818526858  7  5 c   c     c     b          805   60  115 
+SpecialFX 818526905  7  4 c   c     c     k          860   40    0 Tc 7c
+SpecialFX 818526952  7  3 f   -     -     -          820    0    0 
+SpecialFX 818526988  7  2 Bc  kr    kc    kf         820   70    0 
+SpecialFX 818527051  7  1 Bf  -     -     -          750    5    0 
+SpecialFX 818527082  7  7 c   c     c     k          745   50    0 Tc Jc
+SpecialFX 818527142  8  7 c   cc    kc    kf         695   50    0 
+SpecialFX 818527207  8  6 cc  rc    k     f          645   50    0 
+SpecialFX 818527333  8  5 c   rc    c     c          595   90    0 As Jc
+SpecialFX 818527378  8  4 fQ  -     -     -          505    0    0 
+SpecialFX 818527639  8  5 cc  kf    -     -          505   20    0 
+SpecialFX 818527684  8  3 r   r     -     -          485   40   75 
+SpecialFX 818527722  8  2 Bk  kc    b     b          520   60  165 
+SpecialFX 818527766  8  1 Bc  kc    kc    kf         625   40    0 
+SpecialFX 818527827  8  8 f   -     -     -          585    0    0 
+SpecialFX 818527882  8  7 f   -     -     -          585    0    0 
+SpecialFX 818527927  8  6 f   -     -     -          585    0    0 
+SpecialFX 818527985  8  5 cc  k     kf    -          585   20    0 
+SpecialFX 818528069  8  4 cc  cf    -     -          565   30    0 
+SpecialFX 818528154  8  3 cc  cc    kc    b          535   80  280 5d Ad
+SpecialFX 818528297  9  2 Bf  Q     -     -          735   10    0 
+SpecialFX 818528450 11 11 f   -     -     -          725    0    0 
+SpecialFX 818528541  9  9 r   c     r     rc         725  140    0 Tc Td
+SpecialFX 818528658  9  8 f   -     -     -          585    0    0 
+SpecialFX 818528700  9  7 c   k     f     -          585   10    0 
+SpecialFX 818528792  9  6 c   c     c     k          575   40  110 9s Ad
+SpecialFX 818528874  9  5 f   -     -     -          645    0    0 
+SpecialFX 818528921  8  3 Q   -     -     -          645    0    0 
+SpecialFX 818529371  7  3 c   f     -     -          645   10    0 
+SpecialFX 818529463  7  2 Bk  k     b     -          635   30   70 
+SpecialFX 818529532  7  1 Bc  b     kc    kc         675   60    0 Js Kd
+SpecialFX 818529580  7  7 f   -     -     -          615    0    0 
+SpecialFX 818529694  9  8 cc  b     -     -          615   30   75 
+SpecialFX 818529763  8  6 crc b     b     brrr       660  210    0 4d 5h
+SpecialFX 818529926 10  7 c   r     b     -          450   60  130 
+SpecialFX 818529994 11  8 f   -     -     -          520    0    0 
+SpecialFX 818530083 11  7 c   b     b     b          520   60  150 Td Jd
+SpecialFX 818530157 11  6 f   -     -     -          610    0    0 
+SpecialFX 818530268 10  4 cc  kc    b     b          610   70  185 
+SpecialFX 818530336 11  3 c   k     f     -          725   10    0 
+SpecialFX 818530408 11  2 Brc bc    kf    -          715   60    0 
+SpecialFX 818530488 11  1 Bc  k     b     -          655   30   45 4s Qs
+SpecialFX 818530576 11  3 Q   -     -     -          670    0    0 
+SpecialFX 818530790 11  8 cQ  -     -     -          670   10    0 
+SpecialFX 818533951  9  2 Bk  kr    b     b          660   70  195 2d 6h
+SpecialFX 818534023  8  1 Bc  bc    kc    bc         785   90    0 Qc 9c
+SpecialFX 818534111  9  5 Q   -     -     -          695    0    0 
+SpecialFX 818534363  6  6 c   b     r     rc         695  120    0 8d 5c
+SpecialFX 818534459  7  5 f   -     -     -          575    0    0 
+SpecialFX 818534481  7  4 f   -     -     -          575    0    0 
+SpecialFX 818534542  7  2 Br  kc    bc    b          575  100  305 
+SpecialFX 818534634  8  1 Bf  -     -     -          780    5    0 
+SpecialFX 818534705  9  9 f   -     -     -          775    0    0 
+SpecialFX 818534788  9  9 c   c     k     r          775   70    0 5c Tc
+SpecialFX 818534845  9  8 f   -     -     -          705    0    0 
+SpecialFX 818534964 10  2 Q   -     -     -          705    0    0 
+SpecialFX 818535679 11  3 f   -     -     -          705    0    0 
+SpecialFX 818535744 11  2 Bc  krc   k     b          705   80  325 
+SpecialFX 818535846  7  1 Brc kc    kc    k          950   90    0 4s 4c
+SpecialFX 818535978  6  6 c   k     f     -          860   10    0 
+SpecialFX 818536052  6  5 c   c     f     -          850   20    0 
+SpecialFX 818536110  5  4 f   -     -     -          830    0    0 
+SpecialFX 818536164  7  5 f   -     -     -          830    0    0 
+SpecialFX 818536225  7  4 f   -     -     -          830    0    0 
+SpecialFX 818536297  8  3 fQ  -     -     -          830    0    0 
+SpecialFX 818536546  9  7 cf  -     -     -          830   20    0 
+SpecialFX 818536600 10  6 fQ  -     -     -          810    0    0 
+SpecialFX 818539160  8  2 Bc  kc    kc    br         810  110  245 7s Ts
+SpecialFX 818539242  7  1 Bf  -     -     -          945    5    0 
+SpecialFX 818539392  8  7 c   f     -     -          940   20    0 
+SpecialFX 818539587  6  4 c   b     -     -          920   20   45 
+SpecialFX 818539629  4  2 Bk  b     -     -          945   20   35 
+SpecialFX 818539661  5  1 Bc  kf    -     -          960   10    0 
+SpecialFX 818539720  7  7 c   c     r     b          950   80    0 Ac Jd
+SpecialFX 818539810  7  6 c   r     b     c          870   70    0 2c As
+SpecialFX 818539887  7  5 f   -     -     -          800    0    0 
+SpecialFX 818539961  7  4 c   c     f     -          800   30    0 
+SpecialFX 818540031  7  3 c   f     -     -          770   10    0 
+SpecialFX 818540111  7  2 Bk  b     b     -          760   40  100 
+SpecialFX 818540160  8  1 Bc  kf    -     -          820   10    0 
+SpecialFX 818540215  9  9 c   k     c     b          810   50  175 Th 3h
+SpecialFX 818540307  9  8 c   c     cc    c          935  100    0 Th Td
+SpecialFX 818540400  9  7 f   -     -     -          835    0    0 
+SpecialFX 818540495  9  6 f   -     -     -          835    0    0 
+SpecialFX 818540542  9  5 c   b     r     b          835   80  200 2s Ts
+SpecialFX 818540610  8  4 f   -     -     -          955    0    0 
+SpecialFX 818540709  8  3 f   -     -     -          955    0    0 
+SpecialFX 818540778  8  2 Bc  kcc   kf    -          955   50    0 
+SpecialFX 818540875  9  1 Bcc b     bc    bc         905  110    0 2d Ts
+SpecialFX 818540969 10 10 f   -     -     -          795    0    0 
+SpecialFX 818541045 11 10 f   -     -     -          795    0    0 
+SpecialFX 818541219 10  9 f   -     -     -          795    0    0 
+SpecialFX 818541312 12  9 c   cc    f     -          795   40    0 
+SpecialFX 818541435 11  7 crc brc   bc    bc         755  160    0 Th Jh
+SpecialFX 818541566 10  5 f   -     -     -          595    0    0 
+SpecialFX 818541663 11  5 f   -     -     -          595    0    0 
+SpecialFX 818541762 12  6 ccc rr    b     b          595  120  490 
+SpecialFX 818541943 12  4 f   -     Q     -          965    0    0 
+SpecialFX 818542549 12  5 f   -     -     -          965    0    0 
+SpecialFX 818542721 10  3 c   kc    c     kf         965   40    0 
+SpecialFX 818542797 10  2 Bc  b     kc    k          925   50    0 2c 2h
+SpecialFX 818542923 10  1 Bc  b     br    k          875   80  260 7s 9d
+SpecialFX 818543071 10 10 f   Q     -     -         1055    0    0 
+SpecialFX 818543884  7  6 cc  bc    bc    kc        1055  100  215 6h Ad
+SpecialFX 818543951  7  4 rr  rc    c     cc        1170  140    0 As Kd
+SpecialFX 818544117  8  3 c   brc   bc    k         1030   90  310 6h 6d
+SpecialFX 818544276  7  2 Brc br    bc    br        1250  180    0 Ah Kh
+SpecialFX 818544388  7  1 BQ  -     -     -         1070    5    0 
+SpecialFX 818544560  5  4 c   k     c     rc        1065  100    0 3c Ac
+SpecialFX 818544688  5  3 c   br    b     b          965   80    0 Ah Qs
+SpecialFX 818544806  5  2 Bk  br    b     b          885   80  160 Jd Ks
+SpecialFX 818544910  5  1 Bc  k     b     -          965   30   50 
+SpecialFX 818545007  5  5 f   -     -     -          985    0    0 
+SpecialFX 818545034  5  4 cc  f     -     -          985   20    0 
+SpecialFX 818545233  6  4 f   -     -     -          965    0    0 
+SpecialFX 818545319  6  3 Q   -     -     -          965    0    0 
+SpecialFX 818545470  7  7 rr  rc    c     r          965  140    0 Ac Tc
+SpecialFX 818545633  7  6 f   -     -     -          825    0    0 
+SpecialFX 818545729  7  5 f   -     Q     -          825    0    0 
+SpecialFX 818546288  9  3 ccc kc    kf    -          825   50    0 
+SpecialFX 818546407  8  2 Br  bc    bc    b          775  110    0 Ac 7d
+SpecialFX 818546506  7  1 Bc  br    brc   br         665  210  234 5s 4c
+SpecialFX 818546658  7  7 c   f     -     -          689   10    0 
+SpecialFX 818546839  7  6 f   Q     -     -          679    0    0 
+SpecialFX 818548151  8  5 r   b     br    b          679  110  260 8d 8c
+SpecialFX 818548266  8  4 f   -     -     -          829    0    0 
+SpecialFX 818548327  7  2 Br  b     b     k          829   60   98 4c 3c
+SpecialFX 818548456  6  1 Bc  kc    kc    b          867   70  150 7d Ac
+SpecialFX 818548527  6  6 f   -     -     -          947    0    0 
+SpecialFX 818548598  6  5 c   b     k     kc         947   50    0 8d Js
+SpecialFX 818548698  7  5 cc  c     kf    -          897   30    0 
+SpecialFX 818548857  7  5 c   r     b     b          867   70  160 
+SpecialFX 818548949  8  4 f   -     -     -          957    0    0 
+SpecialFX 818549111  8  3 c   c     c     rc         957  140    0 9c 7c
+SpecialFX 818549245  7  2 Bk  kf    -     -          817   10    0 
+SpecialFX 818549382  9  1 BQ  -     -     -          807    5    0 
+SpecialFX 818552298 11  4 Q   -     -     -          802    0    0 
+SpecialFX 818557524  3  3 r   b     b     k          802   50    0 5c 6h
+SpecialFX 818557611  3  2 Bk  kf    -     -          752   10    0 
+SpecialFX 818557669  3  1 Bcc b     kc    kf         742   50    0 
+SpecialFX 818557741  5  5 c   k     b     -          692   30   45 
+SpecialFX 818557811  5  4 c   f     -     -          707   10    0 
+SpecialFX 818557927  5  2 Bk  kc    kf    -          697   20    0 
+SpecialFX 818558041  8  1 Bf  -     -     -          677    5    0 
+SpecialFX 818558077  8  8 rc  b     b     -          672   70  240 
+SpecialFX 818558169  7  6 f   -     -     -          842    0    0 
+SpecialFX 818558191  8  5 f   -     -     -          842    0    0 
+SpecialFX 818558270  9  4 rr  c     br    b          842  130    0 3h Ah
+SpecialFX 818558355 10  3 f   -     -     -          712    0    0 
+SpecialFX 818558497 12  2 Bf  -     -     -          712   10    0 
+SpecialFX 818558577 12  1 Bf  Q     -     -          702    5    0 
+SpecialFX 818559183 12  3 Q   -     -     -          697    0    0 
+SpecialFX 818562969  5  4 f   -     -     -          697    0    0 
+SpecialFX 818563015  5  3 rc  rc    c     c          697  110    0 4c 4h
+SpecialFX 818563062  5  2 Bf  -     -     -          587   10    0 
+SpecialFX 818563099  4  1 Bc  k     kf    -          577   10    0 
+SpecialFX 818563146  4  4 c   c     r     k          567   70  190 5d Kh
+SpecialFX 818563211  4  3 f   -     -     -          687    0    0 
+SpecialFX 818563263  5  2 Bk  kf    -     -          687   10    0 
+SpecialFX 818563303  5  1 Bf  -     -     -          677    5    0 
+SpecialFX 818563334  4  4 c   c     c     c          672   70    0 7c 8c
+SpecialFX 818563378  4  3 r   br    b     b          602   90    0 Ah 2d
+SpecialFX 818563423  5  3 f   -     -     -          512    0    0 
+SpecialFX 818563480  5  2 Br  f     -     -          512   30    0 
+SpecialFX 818563516  5  1 Bf  -     -     -          482    5    0 
+SpecialFX 818563557  5  5 c   c     f     -          477   20    0 
+SpecialFX 818563604  5  4 f   -     -     -          457    0    0 
+SpecialFX 818563642  5  3 f   -     -     -          457    0    0 
+SpecialFX 818563727  8  2 Bf  -     -     -          457   10    0 
+SpecialFX 818563787  8  1 Bcc kf    -     Q          447   20    0 
+SpecialFX 818625851 11  9 cc  kf    -     -          427   30    0 
+SpecialFX 818625987 12  8 c   c     f     Q          397   20    0 
+SpecialFX 818626599  5  4 cc  c     f     -          377   30    0 
+SpecialFX 818626663  5  3 f   -     -     -          347    0    0 
+SpecialFX 818626684  5  2 Bf  -     -     -          347   10    0 
+SpecialFX 818626702  5  1 Bf  -     -     -          337    5    0 
+SpecialFX 818626768  6  6 c   c     r     b          332   80  150 
+SpecialFX 818626822  6  5 cc  kc    kf    -          402   30    0 
+SpecialFX 818626867  6  4 f   -     -     -          372    0    0 
+SpecialFX 818626942  6  3 f   -     -     -          372    0    0 
+SpecialFX 818626981  6  2 Bc  kcf   -     -          372   50    0 
+SpecialFX 818627058  6  1 Bcc kc    kc    kc         322   70    0 Ah 9c
+SpecialFX 818627122  6  6 f   -     -     -          252    0    0 
+SpecialFX 818627145  6  5 c   rc    c     r          252  110  235 9c Kc
+SpecialFX 818627191  7  5 f   -     -     -          377    0    0 
+SpecialFX 818627284  7  4 f   -     -     -          377    0    0 
+SpecialFX 818627323  7  3 cc  kc    k     f          377   30    0 
+SpecialFX 818627412  7  2 Bc  bc    bc    kc         347  100    0 Jh Ts
+SpecialFX 818627479  6  1 Bc  kc    kc    br         247  100  210 Jc 9h
+SpecialFX 818627559  7  7 f   -     -     -          357    0    0 
+SpecialFX 818627615  7  6 c   f     -     -          357   10    0 
+SpecialFX 818627744  7  5 c   c     k     c          347   40    0 4s Ks
+SpecialFX 818627842  9  6 c   kQ    -     -          307   10    0 
+SpecialFX 818647366  6  3 r   b     b     -          297   50  130 
+SpecialFX 818647405  6  2 Bk  b     kc    kc         377   60    0 8h 5s
+SpecialFX 818647447  5  1 Br  kc    b     k          317   50  150 Ah Ks
+SpecialFX 818647490  5  5 c   c     k     k          417   30    0 Ks 2s
+SpecialFX 818647545  5  4 f   -     -     -          387    0    0 
+SpecialFX 818647582  5  3 fQ  -     -     -          387    0    0 
+SpecialFX 818647651  5  5 f   -     -     -          387    0    0 
+SpecialFX 818647690  4  3 c   f     -     -          387   10    0 
+SpecialFX 818647715  4  2 Br  b     b     b          377   80  165 8h 8s
+SpecialFX 818647743  4  1 Bc  b     b     k          462   50  150 8c Tc
+SpecialFX 818647780  4  4 cc  c     c     c          562   70    0 2h Kc
+SpecialFX 818647842  5  4 c   b     -     -          492   20   45 
+SpecialFX 818647869  4  2 Bc  kc    kf    -          517   30    0 
+SpecialFX 818647892  4  1 Bf  -     -     -          487    5    0 
+SpecialFX 818647930  4  4 r   b     -     -          482   30   55 
+SpecialFX 818647959  4  3 r   -     -     -          507   20   35 
+SpecialFX 818647969  4  2 Br  kc    kf    -          522   50    0 
+SpecialFX 818648014  4  1 Bc  kc    kf    -          472   20    0 
+SpecialFX 818648065  5  5 f   -     -     -          452    0    0 
+SpecialFX 818648074  5  4 c   kc    kc    kf         452   40    0 
+SpecialFX 818648123  6  3 r   br    b     k          412   70  150 Qh Qc
+SpecialFX 818648161  7  2 Bk  kf    -     -          492   10    0 
+SpecialFX 818648183  7  1 Bf  -     -     -          482    5    0 
+SpecialFX 818648194  7  7 f   -     -     -          477    0    0 
+SpecialFX 818648220  7  6 cc  c     c     f          477   70    0 
+SpecialFX 818648269  7  5 f   -     -     -          407    0    0 
+SpecialFX 818648327  7  5 f   -     -     -          407    0    0 
+SpecialFX 818648390  7  4 c   c     k     c          407   40    0 2h 2c
+SpecialFX 818648422  7  3 f   -     -     -          367    0    0 
+SpecialFX 818648455  7  2 B   -     -     -          367   10   15 
+SpecialFX 818648471  7  1 Bc  kf    -     -          372   10    0 
+SpecialFX 818648503  8  8 f   -     -     -          362    0    0 
+SpecialFX 818648557  8  7 f   -     -     -          362    0    0 
+SpecialFX 818648629  9  7 c   kf    -     -          362   10    0 
+SpecialFX 818648709 10  7 f   -     -     -          352    0    0 
+SpecialFX 818648790 10  3 Q   -     -     -          352    0    0 
+SpecialFX 818699962  7  7 f   -     -     -          352    0    0 
+SpecialFX 818699976  7  6 f   -     -     -          352    0    0 
+SpecialFX 818700018  7  5 c   k     k     kc         352   30   40 Kd Qd
+SpecialFX 818700085  7  4 c   c     c     k          362   40  130 5d 2d
+SpecialFX 818700129  7  3 r   -     -     -          452   20   35 
+SpecialFX 818700141  7  2 Bk  kf    -     -          467   10    0 
+SpecialFX 818700169  7  1 Bc  kf    -     -          457   10    0 
+SpecialFX 818700189  7  7 f   -     -     -          447    0    0 
+SpecialFX 818700210  7  6 f   -     -     -          447    0    0 
+SpecialFX 818700218  7  5 f   -     -     -          447    0    0 
+SpecialFX 818700249  7  4 cc  kc    kf    -          447   30    0 
+SpecialFX 818700289  7  3 cc  kc    kf    -          417   30    0 
+SpecialFX 818700330  7  2 Bk  br    k     bc         387   80    0 4d Ad
+SpecialFX 818700369  7  1 Bf  Q     -     -          307    5    0 
+SpecialFX 818700807  5  3 c   f     -     -          302   10    0 
+SpecialFX 818700833  5  2 Bk  kc    kc    k          292   40    0 5c 3h
+SpecialFX 818700863  5  1 Bf  -     -     -          252    5    0 
+SpecialFX 818700886  5  5 f   -     -     -          247    0    0 
+SpecialFX 818700913  5  4 f   -     -     -          247    0    0 
+SpecialFX 818700953  5  3 c   f     -     -          247   10    0 
+SpecialFX 818700979  5  2 Bk  bc    k     k          237   30   65 Kd Jh
+SpecialFX 818701017  5  1 Brc kc    brc   kc         272  150    0 Qh Ac
+SpecialFX 818701067  6  5 c   kc    kf    -          122   20    0 
+SpecialFX 818701105  6  4 f   -     -     -          102    0    0 
+SpecialFX 818701134  6  3 c   k     f     -          102   10    0 
+SpecialFX 818701172  6  2 Bk  f     -     -           92   10    0 
+SpecialFX 818701205  6  1 Br  b     b     b           82   70  150 As Ah
+SpecialFX 818701237  7  7 c   c     c     c          162   60    0 5c 6d
+SpecialFX 818701327  7  6 c   f     -     -          102   10    0 
+SpecialFX 818701359  7  5 cc  kc    k     k           92   30    0 7c 2c
+SpecialFX 818701402  8  4 cf  -     -     -           62   10    0 
+SpecialFX 818701448  8  3 c   k     k     k           52   10   50 7h 7s
+SpecialFX 818701514  9  2 Bc  kc    kf    -           92   30    0 
+SpecialFX 818701600  9  1 Bc  b     kc    kcA         62   62    0 3s Kh
+SpecialFX 818701973  8  5 f   -     -     -         1000    0    0 
+SpecialFX 818702007  9  4 cc  c     f     -         1000   40    0 
+SpecialFX 818702107  9  4 f   -     -     -          960    0    0 
+SpecialFX 818702173  9  3 c   k     b     b          960   50  130 9d Kd
+SpecialFX 818702242  9  2 Bk  kf    -     -         1040   10    0 
+SpecialFX 818702282  9  1 Bf  -     -     -         1030    5    0 
+SpecialFX 818702347  9  9 f   -     -     -         1025    0    0 
+SpecialFX 818702404  9  8 f   -     -     -         1025    0    0 
+SpecialFX 818702428  8  6 f   -     -     -         1025    0    0 
+SpecialFX 818702478  8  6 cc  kf    -     -         1025   20    0 
+SpecialFX 818702562  8  5 f   -     -     -         1005    0    0 
+SpecialFX 818702628  8  4 cc  kf    -     -         1005   20    0 
+SpecialFX 818702664  8  3 cc  kc    kf    -          985   30    0 
+SpecialFX 818702699  8  2 Bf  -     -     -          955   10    0 
+SpecialFX 818702776  9  1 Bc  kf    -     -          945   20    0 
+SpecialFX 818702857  8  8 c   fQ    -     -          925   10    0 
+SpecialFX 818718664  9  6 c   kf    -     -          915   10    0 
+SpecialFX 818718844  9  5 c   k     k     c          905   30    0 6c As
+SpecialFX 818719011  8  4 fQ  -     -     -          875    0    0 
+SpecialFX 818720596 12 10 Q   -     -     -          875    0    0 
+SpecialFX 818806677  8  5 f   -     -     -          875    0    0 
+SpecialFX 818806748  9  4 c   cc    b     k          875   50    0 Kh Qc
+SpecialFX 818806802  9  3 f   -     -     -          825    0    0 
+SpecialFX 818806873 10  2 Bc  kc    kc    kc         825   70    0 Ad 4c
+SpecialFX 818806920 10  1 Bf  -     -     -          755    5    0 
+SpecialFX 818807048  9  9 c   c     f     -          750   30    0 
+SpecialFX 818807092  8  7 f   -     -     -          720    0    0 
+SpecialFX 818807187 10  8 c   k     f     -          720   10    0 
+SpecialFX 818807313  9  6 c   r     br    brrrrrrc    710  380    0 2s 2d
+SpecialFX 818807472  9  5 f   -     -     -          330    0    0 
+SpecialFX 818807482  9  4 cr  kc    kc    k          330   60    0 5h 5c
+SpecialFX 818807549  9  3 c   kc    b     -          270   40  100 
+SpecialFX 818807590  9  2 BQ  -     -     -          330   10    0 
+SpecialFX 819064820 11  8 c   cc    kc    kc         320   70    0 3d 6d
+SpecialFX 819065033 11  6 f   -     -     -          250    0    0 
+SpecialFX 819065070 11  5 fQ  -     -     -          250    0    0 
+SpecialFX 819070578 10  8 c   c     c     f          250   60    0 
+SpecialFX 819070674 12  9 c   fQ    -     -          190   10    0 
+SpecialFX 819237455 12  2 Bk  Q     -     -          180   10    0 
+SpecialFX 819237612 10  6 c   cc    c     f          170   60    0 
+SpecialFX 819237688 10  4 c   c     rc    c          110  100    0 8d Js
+SpecialFX 819237792 10  3 f   -     -     -           10    0    0 
+SpecialFX 819237840 10  2 BA  -     -     -           10   10    0 8d Td
+SpecialFX 819238002  8  8 c   f     -     -         1000   20    0 
+SpecialFX 819238053  8  7 c   f     -     -          980   20    0 
+SpecialFX 819238101  8  6 c   b     c     c          960   60    0 5s As
+SpecialFX 819238179  8  5 f   Q     -     -          900    0    0 
+SpecialFX 819238864  9  9 f   -     -     -          900    0    0 
+SpecialFX 819238905  9  8 c   c     r     b          900   90  310 Kd 8h
+SpecialFX 819239024  9  7 c   -     -     -         1120   10   25 
+SpecialFX 819239039  9  6 f   -     -     -         1135    0    0 
+SpecialFX 819239076  9  5 f   -     -     -         1135    0    0 
+SpecialFX 819239141 10  4 f   -     -     -         1135    0    0 
+SpecialFX 819239237 11  3 f   -     -     -         1135    0    0 
+SpecialFX 819239307 11  1 Bk  kf    -     -         1135   10    0 
+SpecialFX 819239373 11  1 Bf  -     -     -         1125    5    0 
+SpecialFX 819239435 11 11 c   f     -     -         1120   20    0 
+SpecialFX 819239503 11 10 f   -     -     -         1100    0    0 
+SpecialFX 819239540 11  9 cc  c     c     c         1100   80    0 Ad 4h
+SpecialFX 819239662 11  8 c   k     k     k         1020   10    0 8d Kd
+SpecialFX 819239752 11  7 f   -     -     -         1010    0    0 
+SpecialFX 819239820 11  6 f   -     -     -         1010    0    0 
+SpecialFX 819239906 11  5 f   Q     -     -         1010    0    0 
+SpecialFX 819240930 12  9 f   -     -     -         1010    0    0 
+SpecialFX 819241004 12  8 cc  kc    kc    kf        1010   50    0 
+SpecialFX 819241075 12  7 c   b     f     -          960   20    0 
+SpecialFX 819241202 12  6 c   c     k     f          940   20    0 
+SpecialFX 819241281 11  4 cc  kf    -     -          920   20    0 
+SpecialFX 819241361 12  4 cc  kc    kc    kf         900   50    0 
+SpecialFX 819241443 11  3 f   -     -     -          850    0    0 
+SpecialFX 819241534 12  2 Bf  -     -     -          850   10    0 
+SpecialFX 819241626 12  1 Bc  kf    -     -          840   10    0 
+SpecialFX 819241734 12 12 c   c     f     -          830   20    0 
+SpecialFX 819241823 11  6 Q   -     -     -          810    0    0 
+SpecialFX 819246765  6  6 f   -     -     -          810    0    0 
+SpecialFX 819246816  5  4 f   -     Q     -          810    0    0 
+SpecialFX 819302318  3  2 B   -     -     -          810   10   15 
+SpecialFX 819302334  3  1 Bc  kc    k     b          815   40   90 Tc Qd
+SpecialFX 819302378  3  3 f   Q     -     -          865    0    0 
+SpecialFX 819302466  3  2 B   -     -     -          865   10   15 
+SpecialFX 819302483  4  1 Bc  b     b     k          870   40    0 Kh Qc
+SpecialFX 819302520  4  4 f   -     -     -          830    0    0 
+SpecialFX 819302553  4  3 f   -     -     -          830    0    0 
+SpecialFX 819302573  4  2 Bk  k     kf    -          830   10    0 
+SpecialFX 819302608  4  1 Br  b     b     -          820   50   90 
+SpecialFX 819302661  4  4 c   f     -     -          860   10    0 
+SpecialFX 819302690  4  3 r   rrc   c     r          850  130  285 As Ks
+SpecialFX 819302732  4  2 B   -     -     -         1005   10   15 
+SpecialFX 819302756  4  1 Br  kc    kf    -         1010   30    0 
+SpecialFX 819302784  4  4 f   -     -     -          980    0    0 
+SpecialFX 819302824  4  3 f   -     -     -          980    0    0 
+SpecialFX 819302840  4  2 Bc  kf    -     -          980   20    0 
+SpecialFX 819302863  4  1 BQ  -     -     -          960    5    0 
+SpecialFX 819339869 12 10 c   f     -     -          955   10    0 
+SpecialFX 819339959 12  9 Q   -     -     -          945    0    0 
+SpecialFX 819575874 12  5 r   b     b     b          945   70  155 
+SpecialFX 819575938 12  4 f   -     -     -         1030    0    0 
+SpecialFX 819576050 12  3 f   -     -     -         1030    0    0 
+SpecialFX 819576126 12  2 Bf  -     -     -         1030   10    0 
+SpecialFX 819576222 12  1 Bc  kc    kc    kf        1020   50    0 
+SpecialFX 819576302 12  4 Q   -     -     -          970    0    0 
+SpecialFX 819580253  8  7 c   c     f     -          970   20    0 
+SpecialFX 819580308  8  6 c   kc    k     f          950   30    0 
+SpecialFX 819580403  7  5 f   -     -     -          920    0    0 
+SpecialFX 819580473  7  4 c   k     b     b          920   50  100 
+SpecialFX 819580551  7  3 f   -     -     -          970    0    0 
+SpecialFX 819580610  6  2 Bf  Q     -     -          970   10    0 
+SpecialFX 819581286  6  5 c   r     b     b          960   80  170 
+SpecialFX 819581338  5  4 Q   -     -     -         1050    0    0 
+SpecialFX 819583262 11  8 c   c     c     f         1050   40    0 
+SpecialFX 819583352 10  7 f   -     Q     -         1010    0    0 
+SpecialFX 819590004 11  7 Q   -     -     -         1010    0    0 
+SpecialFX 819591817 10  6 cc  rr    kc    cf        1010  100    0 
+SpecialFX 819592033 10  4 f   -     -     -          910    0    0 
+SpecialFX 819592179  8  2 Bf  -     -     -          910   10    0 
+SpecialFX 819592322  7  1 Bc  kc    kc    kc         900   70    0 6d 2d
+SpecialFX 819592371  6  6 r   b     k     k          830   30    0 Ac Tc
+SpecialFX 819592455  7  7 r   k     b     b          800   60  170 
+SpecialFX 819592521  7  6 c   b     k     k          910   20   75 Ks Qd
+SpecialFX 819592577  7  5 c   kc    kc    b          965   60  180 Ts As
+SpecialFX 819592767  6  3 f   -     -     -         1085    0    0 
+SpecialFX 819592813  6  2 Bk  c     f     -         1085   20    0 
+SpecialFX 819592882  6  1 Bc  b     kc    k         1065   40    0 8h Td
+SpecialFX 819592939  6  6 r   -     -     -         1025   20   50 
+SpecialFX 819592976  6  5 c   c     Q     -         1055   30    0 
+SpecialFX 819593422  6  4 cc  b     b     b         1025   70  135 
+SpecialFX 819593476  6  3 r   kc    kc    kc        1090   70    0 3d 3h
+SpecialFX 819593540  8  2 Bk  k     kf    Q         1020   10    0 
+SpecialFX 819598947  3  3 c   k     f     -         1010   10    0 
+SpecialFX 819598969  3  2 B   -     -     -         1000   10   15 
+SpecialFX 819598977  3  1 Bc  kc    kc    kf        1005   40    0 
+SpecialFX 819599011  3  3 f   -     -     -          965    0    0 
+SpecialFX 819599054  3  2 B   -     -     -          965   10   15 
+SpecialFX 819599059  3  1 Bcc kf    -     -          970   20    0 
+SpecialFX 819599075  3  3 f   -     -     -          950    0    0 
+SpecialFX 819599096  3  2 B   -     -     -          950   10   15 
+SpecialFX 819599106  3  1 Bc  b     b     -          955   40   60 
+SpecialFX 819599141  3  3 f   -     -     -          975    0    0 
+SpecialFX 819599147  3  2 B   -     -     -          975   10   15 
+SpecialFX 819599157  3  1 Bf  -     -     -          980    5    0 
+SpecialFX 819599166  3  3 c   c     c     b          975   60    0 3d 2d
+SpecialFX 819599247  3  3 f   -     -     -          905    0    0 
+SpecialFX 819599268  3  2 B   -     -     -          905   10   15 
+SpecialFX 819599290  3  1 Bc  k     b     b          910   50   80 
+SpecialFX 819599355  2  2 B   -     -     -          940   10   15 
+SpecialFX 819599361  2  1 Bf  -     -     -          945    5    0 
+SpecialFX 819599365  2  2 Bk  k     f     -          940   10    0 
+SpecialFX 819599405  2  1 BQQ -     -     -          930    5    0 
+SpecialFX 819604369  4  2 Q   -     -     -          925    0    0 
+SpecialFX 819663609  5  4 f   -     -     -          925    0    0 
+SpecialFX 819663660  5  3 Q   -     -     -          925    0    0 
+SpecialFX 819667272  2  1 Bc  kc    b     b          925   60  120 Kh Ac
+SpecialFX 819667299  3  3 f   -     -     -          985    0    0 
+SpecialFX 819667335  3  2 B   -     -     -          985   10   15 
+SpecialFX 819667365  2  1 Bf  -     -     -          990    5    0 
+SpecialFX 819667375  3  3 c   b     -     -          985   20   35 
+SpecialFX 819667409  4  3 r   -     -     -         1000   20   45 
+SpecialFX 819667449  4  2 Bf  -     -     -         1025   10    0 
+SpecialFX 819667475  3  1 Bf  -     -     -         1015    5    0 
+SpecialFX 819667488  3  3 ccc f     -     -         1010   40    0 
+SpecialFX 819667530  3  2 B   -     -     -          970   10   15 
+SpecialFX 819667539  3  1 Bc  kc    f     -          975   30    0 
+SpecialFX 819667563  3  3 c   c     b     b          945   60  125 Ac Tc
+SpecialFX 819667657  2  2 B   -     -     -         1010   10   15 
+SpecialFX 819667666  2  1 Br  -     -     -         1015   20   30 
+SpecialFX 819667674  2  2 Bc  f     -     -         1025   20    0 
+SpecialFX 819667697  2  1 Bf  -     -     -         1005    5    0 
+SpecialFX 819667701  2  2 B   -     -     -         1000   10   15 
+SpecialFX 819667707  2  1 Bcc k     k     b         1005   40   80 Ks 3c
+SpecialFX 819667756  2  2 B   -     -     -         1045   10   15 
+SpecialFX 819667766  2  1 Bf  -     -     -         1050    5    0 
+SpecialFX 819667774  2  2 Bf  -     -     -         1045   10    0 
+SpecialFX 819667784  2  1 Bf  -     -     -         1035    5    0 
+SpecialFX 819667787  2  2 Bc  r     b     -         1030   60  100 
+SpecialFX 819667820  2  1 Bc  kf    -     -         1070   10    0 
+SpecialFX 819667839  2  2 B   -     -     -         1060   10   15 
+SpecialFX 819667845  2  1 Bf  -     -     -         1065    5    0 
+SpecialFX 819667849  2  2 Br  c     f     -         1060   40    0 
+SpecialFX 819667900  2  1 BQ  -     -     -         1020    5    0 
+SpecialFX 819674859 11  7 c   b     b     b         1015   60  120 
+SpecialFX 819674923 10  4 Q   -     -     -         1075    0    0 
+SpecialFX 819675226 11  6 f   -     -     -         1075    0    0 
+SpecialFX 819675288 12  6 c   k     f     -         1075   10    0 
+SpecialFX 819675377 12  5 f   -     -     -         1065    0    0 
+SpecialFX 819675513 12  4 crc rr    brc   r         1065  200    0 Kc 7c
+SpecialFX 819675629 11  2 BfQ -     -     -          865   10    0 
+SpecialFX 819742732  4  2 Bf  -     -     -          855   10    0 
+SpecialFX 819742777  4  1 Brc kc    k     k          845   50    0 9c Qd
+SpecialFX 819742827  4  4 f   -     -     -          795    0    0 
+SpecialFX 819742875  4  3 c   c     f     -          795   20    0 
+SpecialFX 819742904  4  2 Bf  -     -     -          775   10    0 
+SpecialFX 819742913  4  1 Bc  kr    -     -          765   30   50 
+SpecialFX 819742941  4  4 f   -     -     -          785    0    0 
+SpecialFX 819742948  5  3 cc  kc    k     k          785   30    0 2d Kh
+SpecialFX 819743019  5  2 Bf  -     -     -          755   10    0 
+SpecialFX 819743031  5  1 Bc  b     -     -          745   30   60 
+SpecialFX 819743059  5  5 c   k     c     k          775   30   65 Th Qd
+SpecialFX 819743101  5  4 f   -     -     -          810    0    0 
+SpecialFX 819743118  5  3 f   -     -     -          810    0    0 
+SpecialFX 819743132  5  2 Bf  -     -     -          810   10    0 
+SpecialFX 819743143  5  1 Brr b     -     -          800   60  120 
+SpecialFX 819743168  5  5 cc  f     -     -          860   20    0 
+SpecialFX 819743202  6  4 crc kc    kc    kc         840   90    0 9h 9c
+SpecialFX 819743280  6  3 cc  b     kc    kr         750   90    0 Qs Ad
+SpecialFX 819743339  6  2 Bf  -     -     -          660   10    0 
+SpecialFX 819743375  6  1 Bc  kf    -     -          650   20    0 
+SpecialFX 819743402  6  6 f   -     -     -          630    0    0 
+SpecialFX 819743439  6  5 cc  rrrr  r     r          630  190    0 Ad 2h
+SpecialFX 819743527  7  4 r   k     k     kf         440   20    0 
+SpecialFX 819743570  7  3 c   Q     -     -          420   10    0 
+SpecialFX 819777498  2  2 B   -     -     -          410   10   20 
+SpecialFX 819780601  3  1 BQ  -     -     -          420    5    0 
+SpecialFX 819780812  2  2 Bk  k     k     b          415   30   40 
+SpecialFX 819780862  2  1 Bc  kf    -     -          425   10    0 
+SpecialFX 819780875  2  2 Bc  r     -     -          415   40   70 
+SpecialFX 819780889  2  1 Bcc kf    -     -          445   20    0 
+SpecialFX 819780898  2  2 Bc  rc    f     -          425   50    0 
+SpecialFX 819780916  2  1 Bc  k     b     -          375   30   40 
+SpecialFX 819780933  2  2 Bf  -     -     -          385   10    0 
+SpecialFX 819780939  2  1 BrrrrrrrrrrrrrrrrrrrA -     -     -          375  375    0 Jc Jh
+SpecialFX 819781076  2  2 B   -     -     -         1000   10   15 
+SpecialFX 819781079  2  1 Bc  k     k     k         1005   10    0 3c Qs
+SpecialFX 819781115  2  2 B   -     -     -          995   10   15 
+SpecialFX 819781122  2  1 Bf  -     -     -         1000    5    0 
+SpecialFX 819781127  2  2 Bc  b     b     b          995   70  120 
+SpecialFX 819781155  2  1 Bf  -     -     -         1045    5    0 
+SpecialFX 819781166  2  2 B   -     -     -         1040   10   15 
+SpecialFX 819781172  2  1 Bf  -     -     -         1045    5    0 
+SpecialFX 819781181  2  2 Br  k     k     k         1040   20   20 Jc Ad
+SpecialFX 819781223  2  1 Bf  -     -     -         1040    5    0 
+SpecialFX 819781229  2  2 B   -     -     -         1035   10   15 
+SpecialFX 819781236  2  1 Bf  -     -     -         1040    5    0 
+SpecialFX 819781239  2  2 B   -     -     -         1035   10   15 
+SpecialFX 819781296  2  1 Br  -     -     -         1040   20   30 
+SpecialFX 819781299  2  2 B   -     -     -         1050   10   15 
+SpecialFX 819781302  2  1 Bf  -     -     -         1055    5    0 
+SpecialFX 819781306  2  2 Bf  -     -     -         1050   10    0 
+SpecialFX 819781321  2  1 Bf  -     -     -         1040    5    0 
+SpecialFX 819781327  2  2 B   -     -     -         1035   10   15 
+SpecialFX 819781329  2  1 Bf  -     -     -         1040    5    0 
+SpecialFX 819781332  2  2 Bf  -     -     -         1035   10    0 
+SpecialFX 819781336  2  1 Bf  -     -     -         1025    5    0 
+SpecialFX 819781339  2  2 B   -     -     -         1020   10   15 
+SpecialFX 819781342  2  1 Bf  -     -     -         1025    5    0 
+SpecialFX 819781347  2  2 B   -     -     -         1020   10   15 
+SpecialFX 819781350  2  1 Bf  -     -     -         1025    5    0 
+SpecialFX 819781358  2  2 B   -     -     -         1020   10   15 
+SpecialFX 819781365  2  1 Bf  -     -     -         1025    5    0 
+SpecialFX 819781368  2  2 B   -     -     -         1020   10   15 
+SpecialFX 819781372  2  1 Bf  -     -     -         1025    5    0 
+SpecialFX 819781374  2  2 B   -     -     -         1020   10   15 
+SpecialFX 819781375  2  1 Bf  -     -     -         1025    5    0 
+SpecialFX 819781377  2  2 B   -     -     -         1020   10   15 
+SpecialFX 819781380  2  1 Bf  -     -     -         1025    5    0 
+SpecialFX 819781381  2  2 B   -     -     -         1020   10   15 
+SpecialFX 819781383  2  1 Bf  -     -     -         1025    5    0 
+SpecialFX 819781392  2  2 Bf  -     -     -         1020   10    0 
+SpecialFX 819781401  2  1 Bf  -     -     -         1010    5    0 
+SpecialFX 819781405  2  2 B   -     -     -         1005   10   15 
+SpecialFX 819781407  2  1 Bf  -     -     -         1010    5    0 
+SpecialFX 819781410  2  2 B   -     -     -         1005   10   15 
+SpecialFX 819781412  2  1 Bf  -     -     -         1010    5    0 
+SpecialFX 819781414  2  2 B   -     -     -         1005   10   15 
+SpecialFX 819781417  2  1 Bf  -     -     -         1010    5    0 
+SpecialFX 819781425  2  2 B   -     -     -         1005   10   15 
+SpecialFX 819781427  2  1 Bf  -     -     -         1010    5    0 
+SpecialFX 819781430  2  2 B   -     -     -         1005   10   15 
+SpecialFX 819781432  2  1 Bf  -     -     -         1010    5    0 
+SpecialFX 819781434  2  2 B   -     -     -         1005   10   15 
+SpecialFX 819781437  3  1 Bf  -     -     -         1010    5    0 
+SpecialFX 819781441  3  3 f   -     -     -         1005    0    0 
+SpecialFX 819781486  3  2 Bc  b     brc   brrc      1005  230    0 9d Ac
+SpecialFX 819781561  4  1 Br  b     b     -          775   60  110 
+SpecialFX 819781622  4  3 Q   -     -     -          825    0    0 
+SpecialFX 819781705  4  2 Bf  -     -     -          825   10    0 
+SpecialFX 819781750  5  1 Bc  b     b     -          815   40   70 
+SpecialFX 819781819  4  4 Q   -     -     -          845    0    0 
+SpecialFX 819848572  3  2 Bk  b     k     c          845   40    0 4c Ts
+SpecialFX 819848599  3  1 Br  b     b     b          805   70  120 
+SpecialFX 819848624  3  3 f   -     -     -          855    0    0 
+SpecialFX 819848649  3  2 Bk  b     -     -          855   20   30 
+SpecialFX 819848668  3  1 Bc  b     -     -          865   20   30 
+SpecialFX 819848682  3  3 c   f     -     -          875   10    0 
+SpecialFX 819848703  3  2 Bk  f     -     -          865   10    0 
+SpecialFX 819848716  3  1 Bc  bf    -     -          855   20    0 
+SpecialFX 819848746  3  3 c   f     -     -          835   10    0 
+SpecialFX 819848764  3  2 Bk  b     bc    f          825   60    0 
+SpecialFX 819848800  3  1 Bc  k     k     b          765   30   50 
+SpecialFX 819848830  3  3 c   f     -     -          785   10    0 
+SpecialFX 819848842  3  2 Bk  k     f     -          775   10    0 
+SpecialFX 819848857  3  1 Bc  bf    -     -          765   20    0 
+SpecialFX 819848891  3  3 rr  b     b     b          745   90    0 5d 5s
+SpecialFX 819848929  3  2 Bf  -     -     -          655   10    0 
+SpecialFX 819848938  3  1 Bc  k     kf    -          645   10    0 
+SpecialFX 819848975  3  3 r   r     b     k          635   60    0 Tc Qh
+SpecialFX 819849004  3  2 Bf  -     -     -          575   10    0 
+SpecialFX 819849011  3  1 Br  -     -     -          565   20   30 
+SpecialFX 819849016  3  3 r   -     -     -          575   20   35 
+SpecialFX 819849024  3  2 Br  bc    f     -          590   40    0 
+SpecialFX 819849052  3  1 Bc  kf    -     -          550   20    0 
+SpecialFX 819849070  3  3 f   -     -     -          530    0    0 
+SpecialFX 819849093  3  2 Bf  -     -     -          530   10    0 
+SpecialFX 819849102  3  1 Br  kf    -     -          520   20    0 
+SpecialFX 819849120  3  3 f   -     -     -          500    0    0 
+SpecialFX 819849125  3  2 B   -     -     -          500   10   15 
+SpecialFX 819849130  3  1 Bf  -     -     -          505    5    0 
+SpecialFX 819849134  3  3 c   k     b     -          500   30   45 
+SpecialFX 819849150  3  2 Bk  k     k     r          515   50  100 7h Td
+SpecialFX 819849180  3  1 Bf  -     -     -          565    5    0 
+SpecialFX 819849189  3  3 c   k     f     -          560   10    0 
+SpecialFX 819849224  3  2 B   -     -     -          550   10   15 
+SpecialFX 819849231  3  1 Br  br    b     b          555   90  180 Qd Qs
+SpecialFX 819849269  3  3 c   f     -     -          645   10    0 
+SpecialFX 819849289  3  2 Bc  bc    c     b          635   80  140 
+SpecialFX 819849323  3  1 Bf  -     -     -          695    5    0 
+SpecialFX 819849330  3  3 r   k     b     -          690   40   65 
+SpecialFX 819849349  3  2 Bf  -     -     -          715   10    0 
+SpecialFX 819849356  3  1 Bf  -     -     -          705    5    0 
+SpecialFX 819849363  3  3 f   -     -     -          700    0    0 
+SpecialFX 819849380  3  2 Br  kc    kc    rrr        700  180    0 3d 2d
+SpecialFX 819849435  3  1 Bf  -     -     -          520    5    0 
+SpecialFX 819849446  3  3 f   -     -     -          515    0    0 
+SpecialFX 819849461  3  2 Bc  k     k     k          515   20    0 8c 5c
+SpecialFX 819849495  3  1 Br  bc    kc    k          495   70  150 Ad 5d
+SpecialFX 819849529  3  3 c   k     b     -          575   30   50 
+SpecialFX 819849559  4  2 Bk  k     k     b          595   30   40 
+SpecialFX 819849587  4  1 Bc  kc    kf    -          605   20    0 
+SpecialFX 819849620  4  4 r   b     b     b          585   70  145 6c Kc
+SpecialFX 819849646  4  3 cc  c     f     -          660   30    0 
+SpecialFX 819849680  4  2 Bk  k     c     rc         630   90    0 5h 8d
+SpecialFX 819849707  4  1 Bf  -     -     -          540    5    0 
+SpecialFX 819849724  4  4 c   c     c     b          535   60  130 Jc Qh
+SpecialFX 819849774  3  2 Br  b     -     -          605   40   70 
+SpecialFX 819849796  3  1 Bc  k     kf    -          635   10    0 
+SpecialFX 819849824  3  3 c   rc    c     c          625   80  165 4d 4h
+SpecialFX 819849854  3  2 Bf  -     -     -          710   10    0 
+SpecialFX 819849874  3  1 Bc  b     b     b          700   60  130 8d Ah
+SpecialFX 819849907  3  3 c   k     f     -          770   10    0 
+SpecialFX 819849930  3  2 B   -     -     -          760   10   15 
+SpecialFX 819849936  3  1 Bc  kc    kf    -          765   20    0 
+SpecialFX 819849979  4  4 c   c     b     b          745   70  160 5c As
+SpecialFX 819850023  4  3 cc  c     c     f          835   60    0 
+SpecialFX 819850068  4  2 Bk  b     -     -          775   20   40 
+SpecialFX 819850091  4  1 Bc  kf    -     -          795   10    0 
+SpecialFX 819850123  4  4 c   f     -     -          785   10    0 
+SpecialFX 819850150  4  3 f   -     -     -          775    0    0 
+SpecialFX 819850178  4  2 Bk  kc    k     b          775   40   65 
+SpecialFX 819850216  4  1 Bc  kf    -     -          800   10    0 
+SpecialFX 819850237  4  3 Q   -     -     -          790    0    0 

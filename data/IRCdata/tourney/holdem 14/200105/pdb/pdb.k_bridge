@@ -1,0 +1,35 @@
+k_bridge  988699750 18 10 f   -     -     -        10000    0    0 
+k_bridge  988699806 17  9 rc  k     kc    kf       10000 5425    0 
+k_bridge  988699940 17  8 cc  c     cA    -         4575 4575    0 3d Kc
+k_bridge  988713365  6  2 Bk  kc    kf    -         2000   45    0 
+k_bridge  988713463  6  1 Bf  -     -     -         1955    5    0 
+k_bridge  988713489  6  6 c   c     k     c         1950   97    0 Ac 6h
+k_bridge  988713576  6  5 c   r     b     bA        1853 1853    0 Ac Ts
+k_bridge  988716037  8  3 cc  k     b     -        10000 6650 11100 
+k_bridge  988716146  8  2 Bk  kc    kf    -        14450 1956    0 
+k_bridge  988716240  8  1 Bc  k     kf    -        12494  100    0 
+k_bridge  988716291  8  8 cc  k     cc    -        12394 8806    0 Kh 5d
+k_bridge  988716359  8  7 f   -     -     -         3588    0    0 
+k_bridge  988716414  8  6 cc  kf    -     -         3588  700    0 
+k_bridge  988716444  8  5 c   c     cA    -         2888 2888 7776 Tc 2c
+k_bridge  988716505  8  4 f   -     -     -         7776    0    0 
+k_bridge  988716544  8  3 c   b     b     b         7776 5150 8100 
+k_bridge  988716593  8  2 Bk  kc    k     kc       10726 3800    0 Jh 6h
+k_bridge  988716686  8  1 Bf  -     -     -         6926  100    0 
+k_bridge  988716751  8  8 c   ccA   -     -         6826 6826 7926 Th 6h
+k_bridge  988716811  8  7 f   -     -     -         7926    0    0 
+k_bridge  988716846  8  6 f   -     -     -         7926    0    0 
+k_bridge  988716896  7  4 c   k     b     -         7926 2400 4000 
+k_bridge  988716965  7  3 cf  -     -     -         9526  400    0 
+k_bridge  988716997  7  2 Bk  k     kc    k         9126 1000 2400 6s Qh
+k_bridge  988717056  7  1 Bf  -     -     -        10526  200    0 
+k_bridge  988717100  7  7 cc  c     c     cA       10326 10326    0 Ks Jh
+k_bridge  988812043  6  1 Br  -     -     -        10000  300  400 
+k_bridge  988812060  6  6 f   -     -     -        10100    0    0 
+k_bridge  988812076  6  5 c   k     f     -        10100  100    0 
+k_bridge  988812105  6  4 f   -     -     -        10000    0    0 
+k_bridge  988812118  6  3 c   kc    k     f        10000  600    0 
+k_bridge  988812162  6  2 Bf  -     -     -         9400  100    0 
+k_bridge  988812169  6  1 Br  k     k     b         9300 2350 3600 
+k_bridge  988812213  6  6 r   b     b     k        10550 5950    0 Qd As
+k_bridge  988812266  6  5 c   b     b     bA        4600 4600    0 Th 8h

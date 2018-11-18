@@ -1,0 +1,388 @@
+rayzor    809061680  3  1 Br  b     -     -         1000   30   50 
+rayzor    809061707  3  3 r   b     -     -         1020   30   60 
+rayzor    809061867  4  3 f   -     -     -         1050    0    0 
+rayzor    809061872  4  2 Bk  f     -     -         1050   10    0 
+rayzor    809061875  5  1 Bf  -     -     -         1040    5    0 
+rayzor    809061930  6  6 f   -     -     -         1035    0    0 
+rayzor    809061988  7  6 f   -     -     -         1035    0    0 
+rayzor    809062058  9  7 r   cc    c     k         1035   90    0 5c 5d
+rayzor    809062172 10  7 c   kf    -     -          945   10    0 
+rayzor    809062270 10  6 cf  -     -     -          935   10    0 
+rayzor    809062358 10  5 f   -     -     -          925    0    0 
+rayzor    809062440 10  4 f   -     -     -          925    0    0 
+rayzor    809062539  8  3 f   -     -     -          925    0    0 
+rayzor    809062593  7  2 Bk  b     -     -          925   20   35 
+rayzor    809062616  5  1 Br  b     b     k          940   50  100 2h 2d
+rayzor    809062651  4  4 fQ  -     -     -          990    0    0 
+rayzor    809816162 11 11 f   -     -     -          990    0    0 
+rayzor    809816270 10  9 cc  k     f     -          990   20    0 
+rayzor    809816363 12 10 f   -     -     -          970    0    0 
+rayzor    809816425 11  8 f   -     -     -          970    0    0 
+rayzor    809816468 11  7 c   k     f     -          970   10    0 
+rayzor    809816542 12  7 f   -     -     -          960    0    0 
+rayzor    809816653 12  6 f   -     -     -          960    0    0 
+rayzor    809816706 11  4 f   -     -     -          960    0    0 
+rayzor    809816729 11  3 cc  kf    -     -          960   20    0 
+rayzor    809816831 12  3 f   -     -     -          940    0    0 
+rayzor    809816920 12  2 Bc  kf    -     -          940   20    0 
+rayzor    809816984 12  1 Bc  br    b     kc         920   80  170 7s Ah
+rayzor    809817064 12 12 rr  c     r     r         1010  130  365 Qh Qs
+rayzor    809817190 11 10 cc  cc    kc    kf        1245   60    0 
+rayzor    809817386 11  9 c   f     -     -         1185   10    0 
+rayzor    809817473 11  8 f   -     -     -         1175    0    0 
+rayzor    809817549 12  8 cc  k     f     -         1175   20    0 
+rayzor    809817638 12  7 f   -     -     -         1155    0    0 
+rayzor    809817720 12  7 c   f     -     -         1155   10    0 
+rayzor    809817868 12  5 f   -     -     -         1145    0    0 
+rayzor    809817974 12  4 c   rrc   c     k         1145   80    0 As 6s
+rayzor    809818058 12  3 f   -     -     -         1065    0    0 
+rayzor    809818150 12  2 Bc  kc    kc    kc        1065   70    0 6d 2s
+rayzor    809818198 12  1 Bc  kf    -     -          995   10    0 
+rayzor    809818299 12 12 f   -     -     -          985    0    0 
+rayzor    809818368 12 11 f   -     -     -          985    0    0 
+rayzor    809818495 12 10 f   -     -     -          985    0    0 
+rayzor    809818579 12  9 f   -     -     -          985    0    0 
+rayzor    809818632 12  8 c   br    f     -          985   50    0 
+rayzor    809818744 12  7 f   -     -     -          935    0    0 
+rayzor    809818821 12  6 c   r     b     b          935   80  245 5h 2h
+rayzor    809818881 12  5 f   -     -     -         1100    0    0 
+rayzor    809818957 12  4 f   -     -     -         1100    0    0 
+rayzor    809819193 12  3 ccc kf    -     -         1100   40    0 
+rayzor    809819324 12  2 Bc  bc    kr    b         1060  100  305 
+rayzor    809819428 10  1 Bf  -     -     -         1265    5    0 
+rayzor    809819470  9  9 f   -     -     -         1260    0    0 
+rayzor    809819577 10  9 f   -     -     -         1260    0    0 
+rayzor    809819671 10  7 f   -     -     -         1260    0    0 
+rayzor    809819771  8  4 f   -     -     -         1260    0    0 
+rayzor    809819795  8  3 r   kf    -     -         1260   20    0 
+rayzor    809819887  9  2 Bk  f     -     -         1240   10    0 
+rayzor    809819951 10  1 Bc  kc    kf    -         1230   20    0 
+rayzor    809820011 10 10 f   -     -     -         1210    0    0 
+rayzor    809820063 10  9 c   bc    f     -         1210   30    0 
+rayzor    809820147 10  8 f   -     -     -         1180    0    0 
+rayzor    809820201 10  7 f   -     -     -         1180    0    0 
+rayzor    809820260  9  7 f   -     -     -         1180    0    0 
+rayzor    809820284  9  5 f   -     -     -         1180    0    0 
+rayzor    809820358  9  4 f   -     -     -         1180    0    0 
+rayzor    809820390  9  3 f   -     -     -         1180    0    0 
+rayzor    809820491 12  2 Bc  kf    -     -         1180   20    0 
+rayzor    809820625 12  1 Bc  kf    -     -         1160   10    0 
+rayzor    809820726 12 12 c   c     f     -         1150   30    0 
+rayzor    809820833 12 11 c   f     -     -         1120   20    0 
+rayzor    809820913 12 10 f   -     -     -         1100    0    0 
+rayzor    809820986 11  8 f   -     -     -         1100    0    0 
+rayzor    809821128 12  8 f   -     -     -         1100    0    0 
+rayzor    809821264 12  7 f   -     -     -         1100    0    0 
+rayzor    809821345 12  6 f   -     -     -         1100    0    0 
+rayzor    809821493 12  6 f   -     -     -         1100    0    0 
+rayzor    809821610 10  6 f   -     -     -         1100    0    0 
+rayzor    809821793 11  3 cc  kc    k     kf        1100   30    0 
+rayzor    809821901 12  2 Bf  -     -     -         1070   10    0 
+rayzor    809821993 12  1 Bf  -     -     -         1060    5    0 
+rayzor    809822135 12 12 c   f     -     -         1055   10    0 
+rayzor    809822194 12 11 cc  f     -     -         1045   40    0 
+rayzor    809822256 12 10 f   -     -     -         1005    0    0 
+rayzor    809822417 10  8 f   -     -     -         1005    0    0 
+rayzor    809822532 12  8 f   -     -     -         1005    0    0 
+rayzor    809822694 10  7 f   -     -     -         1005    0    0 
+rayzor    809822767 10  6 f   -     -     -         1005    0    0 
+rayzor    809822894 10  5 c   kf    -     -         1005   10    0 
+rayzor    809822963 10  4 f   -     -     -          995    0    0 
+rayzor    809823058 10  3 f   -     -     -          995    0    0 
+rayzor    809823134 12  2 Bc  kf    -     -          995   20    0 
+rayzor    809823232 11  1 Bc  kf    -     -          975   10    0 
+rayzor    809823300 11 11 f   -     -     -          965    0    0 
+rayzor    809823387 11 10 c   f     -     -          965   10    0 
+rayzor    809823454 12 10 c   f     -     -          955   10    0 
+rayzor    809823544 12  9 f   -     -     -          945    0    0 
+rayzor    809823719 12  9 f   -     -     -          945    0    0 
+rayzor    809823879 10  7 c   f     -     -          945   10    0 
+rayzor    809823958 12  5 f   -     -     -          935    0    0 
+rayzor    809824008 11  4 f   -     -     -          935    0    0 
+rayzor    809824076 11  3 f   -     -     -          935    0    0 
+rayzor    809824224 11  2 Bk  kf    -     -          935   10    0 
+rayzor    809824341 12  1 Bc  kc    kf    -          925   20    0 
+rayzor    809824430 11 11 f   -     -     -          905    0    0 
+rayzor    809824543  9  9 f   -     -     -          905    0    0 
+rayzor    809824579  6  5 f   -     -     -          905    0    0 
+rayzor    809824633  8  5 c   k     b     f          905   30    0 
+rayzor    809824703  8  4 f   -     -     -          875    0    0 
+rayzor    809824760  9  3 f   -     -     -          875    0    0 
+rayzor    809824822  9  2 Bc  k     kf    -          875   20    0 
+rayzor    809824912 10  1 Bc  kf    -     -          855   10    0 
+rayzor    809825005 10 10 f   -     -     -          845    0    0 
+rayzor    809825079  9  8 f   -     -     -          845    0    0 
+rayzor    809825148 10  8 cc  c     f     -          845   30    0 
+rayzor    809825239  9  6 rr  bc    bc    bc         815  140    0 Qd Qc
+rayzor    809825284 10  6 f   -     -     -          675    0    0 
+rayzor    809825380 11  6 c   k     kf    -          675   10    0 
+rayzor    809825475 11  6 f   -     -     -          665    0    0 
+rayzor    809825572 10  4 f   -     -     -          665    0    0 
+rayzor    809825670 11  3 f   -     -     -          665    0    0 
+rayzor    809825740 10  2 Bc  bc    b     kc         665   80    0 7d 7c
+rayzor    809825857 11  1 Bf  -     -     -          585    5    0 
+rayzor    809825948 10 10 c   b     b     b          580   60  150 
+rayzor    809826101 11  9 c   b     b     b          670   60   80 8d 7h
+rayzor    809826200 12  8 f   -     -     -          690    0    0 
+rayzor    809826284 12  7 c   rc    k     f          690   50    0 
+rayzor    809826479  9  6 c   b     -     -          640   20   60 
+rayzor    809826547  9  5 cc  cr    b     b          680   90  395 Jh 2h
+rayzor    809826652  8  3 f   -     -     -          985    0    0 
+rayzor    809826761 12  3 f   -     -     -          985    0    0 
+rayzor    809826844 12  2 Bf  -     -     -          985   10    0 
+rayzor    809826916 12  1 Bc  kf    -     -          975   10    0 
+rayzor    809827028 12 12 f   -     -     -          965    0    0 
+rayzor    809827185 11 10 cc  c     f     -          965   30    0 
+rayzor    809827285  7  6 f   -     -     -          935    0    0 
+rayzor    809827354  6  5 f   -     -     -          935    0    0 
+rayzor    809827368  5  3 f   -     -     -          935    0    0 
+rayzor    809827399  5  2 Bk  b     bc    kc         935   80    0 9c Qs
+rayzor    809827476  5  1 Bf  -     -     -          855    5    0 
+rayzor    809827533  5  5 c   f     -     -          850   10    0 
+rayzor    809827583  5  4 r   b     -     -          840   30   95 
+rayzor    809827621  5  3 f   -     -     -          905    0    0 
+rayzor    809827660  5  2 Br  b     kf    -          905   30    0 
+rayzor    809827695  5  1 Bf  -     -     -          875    5    0 
+rayzor    809827725  5  5 f   -     -     -          870    0    0 
+rayzor    809827737  5  4 f   -     -     -          870    0    0 
+rayzor    809827784  5  3 f   -     Q     -          870    0    0 
+rayzor    809841039  6  2 BKQ -     -     -          870   10    0 
+rayzor    809841200  6  6 c   bc    c     c          860   70    0 6h Kh
+rayzor    809841239  6  4 f   -     -     -          790    0    0 
+rayzor    809841293  7  4 f   -     -     -          790    0    0 
+rayzor    809841347  7  3 f   -     -     -          790    0    0 
+rayzor    809841403  7  2 Bcc k     kf    -          790   30    0 
+rayzor    809841489  7  1 Bf  -     -     -          760    5    0 
+rayzor    809841531  8  8 f   -     -     -          755    0    0 
+rayzor    809841541  8  7 c   c     b     b          755   60  125 Ac 4h
+rayzor    809841583  8  6 f   -     -     -          820    0    0 
+rayzor    809841610  8  5 c   f     -     -          820   20    0 
+rayzor    809841643  9  4 c   f     -     -          800   10    0 
+rayzor    809841695  9  3 f   -     -     -          790    0    0 
+rayzor    809841755 10  2 Bc  cc    kc    kc         790   80    0 Qs Ac
+rayzor    809841821 10  1 Bf  -     -     -          710    5    0 
+rayzor    809841903 10 10 c   c     f     -          705   30    0 
+rayzor    809841971 11  9 r   kf    -     -          675   20    0 
+rayzor    809842075 12 10 f   -     -     -          655    0    0 
+rayzor    809842175 10  8 c   f     -     -          655   10    0 
+rayzor    809842245  7  5 f   -     -     -          645    0    0 
+rayzor    809842299  5  3 f   -     -     -          645    0    0 
+rayzor    809842369  5  2 Bk  b     b     b          645   60  135 2c 7c
+rayzor    809842411  4  1 Br  b     b     kc         720   80    0 Kh Kc
+rayzor    809842447  4  4 f   -     -     -          640    0    0 
+rayzor    809842490  6  5 f   -     -     -          640    0    0 
+rayzor    809842543  6  4 r   -     -     -          640   20   35 
+rayzor    809842566  7  4 cc  k     b     b          655   60  130 
+rayzor    809842608  7  3 f   -     -     -          725    0    0 
+rayzor    809842700  7  2 Bk  k     f     -          725   10    0 
+rayzor    809842741  7  1 Bc  kf    -     -          715   10    0 
+rayzor    809842817  7  7 f   -     -     -          705    0    0 
+rayzor    809842877  7  6 f   -     -     -          705    0    0 
+rayzor    809842921  7  5 f   -     -     -          705    0    0 
+rayzor    809842956  7  4 cf  -     -     -          705   10    0 
+rayzor    809843024  6  2 Bc  k     kf    -          695   20    0 
+rayzor    809843087  7  1 Bf  -     -     -          675    5    0 
+rayzor    809843178  6  6 c   b     b     b          670   70  160 
+rayzor    809843247  8  6 c   k     kf    -          760   10    0 
+rayzor    809843298  8  5 rc  c     f     -          750   40    0 
+rayzor    809843345  9  4 f   -     -     -          710    0    0 
+rayzor    809843446  7  2 f   -     -     -          710    0    0 
+rayzor    809843512  7  2 Bf  -     -     -          710   10    0 
+rayzor    809843603  8  1 Bc  kr    b     k          700   60    0 2c 2d
+rayzor    809843681  9  9 c   f     -     -          640   10    0 
+rayzor    809843777  9  8 f   -     -     -          630    0    0 
+rayzor    809843908  9  7 cc  cc    kf    -          630   50    0 
+rayzor    809844090  9  6 f   -     -     -          580    0    0 
+rayzor    809844258  8  4 f   -     -     -          580    0    0 
+rayzor    809844321  8  3 f   -     -     -          580    0    0 
+rayzor    809844452  6  1 Bc  kf    -     -          580   20    0 
+rayzor    809844509  7  1 Bc  k     k     k          560   10   30 5s 3c
+rayzor    809844585  8  8 f   -     -     -          580    0    0 
+rayzor    809844694  9  6 rc  b     b     -          580   60  155 
+rayzor    809844741  8  4 f   -     -     -          675    0    0 
+rayzor    809844826  9  4 cc  kf    -     -          675   20    0 
+rayzor    809844951  9  3 rr  b     b     k          655   70    0 Kd Kh
+rayzor    809845040 10  4 f   -     Q     -          585    0    0 
+rayzor    809881705  7  3 cc  br    b     b          585   90    0 Qs Ts
+rayzor    809881760  7  2 Brc bc    br    b          495  140  325 Kc Ad
+rayzor    809881813  7  1 Bc  b     b     k          680   40   55 8c Td
+rayzor    809881855  7  7 c   f     -     -          695   10    0 
+rayzor    809881923  7  6 c   f     -     -          685   10    0 
+rayzor    809881982  7  5 f   -     -     -          675    0    0 
+rayzor    809882033  7  4 f   -     -     -          675    0    0 
+rayzor    809882071  7  3 f   -     -     -          675    0    0 
+rayzor    809882107  7  2 Bf  -     -     -          675   10    0 
+rayzor    809882149  7  1 Bc  kf    -     -          665   10    0 
+rayzor    809882196  7  7 f   -     -     -          655    0    0 
+rayzor    809882241  7  6 f   -     -     -          655    0    0 
+rayzor    809882303  7  5 c   k     f     -          655   10    0 
+rayzor    809882355  7  4 f   -     -     -          645    0    0 
+rayzor    809882414  7  3 f   -     -     -          645    0    0 
+rayzor    809882463  7  2 Bc  bf    -     -          645   30    0 
+rayzor    809882521  7  1 Bf  -     -     -          615    5    0 
+rayzor    809882592  7  7 c   f     -     -          610   10    0 
+rayzor    809882664  8  6 f   -     -     -          600    0    0 
+rayzor    809882721  9  5 cc  c     bc    b          600   90  275 Tc 9c
+rayzor    809882812  9  4 f   -     -     -          785    0    0 
+rayzor    809882886  9  3 f   -     -     -          785    0    0 
+rayzor    809882974  9  2 Bc  kf    -     -          785   20    0 
+rayzor    809883064  9  1 Bf  -     -     -          765    5    0 
+rayzor    809883175  9  9 f   -     -     -          760    0    0 
+rayzor    809883228  8  7 c   f     -     -          760   20    0 
+rayzor    809883308  8  6 f   -     -     -          740    0    0 
+rayzor    809883405  8  5 f   -     -     -          740    0    0 
+rayzor    809883468  7  4 f   -     -     -          740    0    0 
+rayzor    809883527  6  2 f   -     -     -          740    0    0 
+rayzor    809883588  6  2 Bk  k     f     -          740   10    0 
+rayzor    809883658  6  1 Bf  -     -     -          730    5    0 
+rayzor    809883731  8  8 f   -     -     -          725    0    0 
+rayzor    809883782  7  6 c   f     -     -          725   10    0 
+rayzor    809883821  7  5 f   -     -     -          715    0    0 
+rayzor    809883883  8  5 c   b     b     k          715   40  125 Ah 3s
+rayzor    809883945  6  3 f   -     -     -          800    0    0 
+rayzor    809883994  6  2 Bk  k     f     -          800   10    0 
+rayzor    809884030  6  1 Bc  b     b     k          790   40  140 5d Kh
+rayzor    809884071  6  6 c   b     b     -          890   40   80 
+rayzor    809884118  6  5 r   b     b     -          930   50  120 
+rayzor    809884187  6  4 r   b     r     k         1000   70    0 Ad As
+rayzor    809884252  6  3 c   k     k     f          930   10    0 
+rayzor    809884312  7  2 Bk  k     kf    -          920   10    0 
+rayzor    809884345  7  1 Bc  b     k     kf         910   20    0 
+rayzor    809884391  7  7 f   -     -     -          890    0    0 
+rayzor    809884419  7  6 f   -     -     -          890    0    0 
+rayzor    809884469  7  5 f   -     -     -          890    0    0 
+rayzor    809884511  7  4 c   c     b     c          890   70    0 Th Jh
+rayzor    809884568  7  3 f   -     -     -          820    0    0 
+rayzor    809884624  7  2 Bc  kf    -     -          820   20    0 
+rayzor    809884716  7  1 Bc  kf    -     -          800   20    0 
+rayzor    809884775  7  6 c   rc    c     c          780   80    0 Ac 5h
+rayzor    809884871  5  4 c   rc    b     b          700   80  175 Kc Qs
+rayzor    809884923  6  3 r   rc    rc    c          795  130  265 Ks Kd
+rayzor    809884962  7  2 Bk  b     b     b          930   60  125 
+rayzor    809885014  7  1 Brc bf    -     -          995   50    0 
+rayzor    809885103  6  6 c   b     b     -          945   50   95 
+rayzor    809885147  5  5 c   k     k     f          990   10    0 
+rayzor    809885219  5  4 c   k     b     -          980   30   55 
+rayzor    809885287  5  3 f   -     -     -         1005    0    0 
+rayzor    809885347  5  2 Bk  k     b     b         1005   50   90 
+rayzor    809885403  5  1 Br  b     kf    -         1045   30    0 
+rayzor    809885483  6  5 c   b     -     -         1015   20   40 
+rayzor    809885518  6  4 r   b     b     c         1035   70    0 Qs Qc
+rayzor    809885596  8  3 c   kf    -     -          965   10    0 
+rayzor    809885718  8  2 Bc  b     -     -          955   30   75 
+rayzor    809885760  8  1 Brc b     -     -         1000   50  100 
+rayzor    809885819  9  9 c   f     -     -         1050   10    0 
+rayzor    809885896  9  8 f   -     -     -         1040    0    0 
+rayzor    809885979 10  7 f   -     -     -         1040    0    0 
+rayzor    809886127 10  5 f   -     -     -         1040    0    0 
+rayzor    809886224 10  3 c   kc    kf    -         1040   20    0 
+rayzor    809886346  9  2 f   -     -     -         1020    0    0 
+rayzor    809886472  9  2 Bk  b     b     -         1020   40   80 
+rayzor    809886531  5  1 Bc  kc    k     b         1060   50  130 Ks Qs
+rayzor    809886582  6  6 c   k     f     -         1140   20    0 
+rayzor    809886622  6  5 f   -     -     -         1120    0    0 
+rayzor    809886669  6  4 c   k     f     -         1120   10    0 
+rayzor    809886800  9  4 c   c     c     b         1110   60  150 Ah 8h
+rayzor    809886883 12  4 cc  kc    kf    -         1200   30    0 
+rayzor    809886999 12  3 f   -     -     -         1170    0    0 
+rayzor    809887085 12  2 Bk  f     -     -         1170   10    0 
+rayzor    809887183 11  1 Bc  kf    -     -         1160   10    0 
+rayzor    809887254 12 12 c   f     -     -         1150   10    0 
+rayzor    809887347 12 11 c   k     c     f         1140   30    0 
+rayzor    809887459 12 10 f   -     -     -         1110    0    0 
+rayzor    809887598 11  9 c   k     f     -         1110   10    0 
+rayzor    809887726 12  8 c   b     br    brc       1100  160  544 Qh 9h
+rayzor    809887907 12  7 f   -     -     -         1484    0    0 
+rayzor    809887978 12  6 f   -     -     -         1484    0    0 
+rayzor    809888138 12  6 f   -     -     -         1484    0    0 
+rayzor    809888274 12  4 c   f     -     -         1484   10    0 
+rayzor    809888338 12  3 c   kf    -     -         1474   10    0 
+rayzor    809888444 10  2 Bk  f     -     -         1464   10    0 
+rayzor    809888524 12  1 Bc  kf    -     -         1454   20    0 
+rayzor    809888666 12 12 f   -     -     -         1434    0    0 
+rayzor    809888800 12 11 f   -     -     -         1434    0    0 
+rayzor    809888882 12 10 cc  f     -     -         1434   20    0 
+rayzor    809889068 12  9 f   -     -     -         1414    0    0 
+rayzor    809889190 10  7 f   -     -     -         1414    0    0 
+rayzor    809889270  9  5 f   -     -     -         1414    0    0 
+rayzor    809889381  9  4 cc  f     -     -         1414   20    0 
+rayzor    809889508  9  3 c   k     kf    -         1394   10    0 
+rayzor    809889582  8  2 Bf  -     -     -         1384   10    0 
+rayzor    809889685  8  1 Bf  -     -     -         1374    5    0 
+rayzor    809889769  8  8 c   f     -     -         1369   10    0 
+rayzor    809889826  8  7 f   -     -     -         1359    0    0 
+rayzor    809889899  8  6 f   -     -     -         1359    0    0 
+rayzor    809889951  8  5 c   r     r     b         1359  100    0 Qd Jd
+rayzor    809890066  9  6 f   -     -     -         1259    0    0 
+rayzor    809890142 10  5 f   -     -     -         1259    0    0 
+rayzor    809890205 10  4 c   kf    -     -         1259   10    0 
+rayzor    809890282 11  3 f   -     -     -         1249    0    0 
+rayzor    809890362 11  2 Bf  -     -     -         1249   10    0 
+rayzor    809890459 12  1 Bc  br    b     b         1239  110    0 Jd Ad
+rayzor    809890556 12 12 c   f     -     -         1129   10    0 
+rayzor    809890670 12 11 cc  r     r     b         1119  130  470 8d Jd
+rayzor    809890874 12 11 f   -     -     -         1459    0    0 
+rayzor    809890954 11  9 f   -     -     -         1459    0    0 
+rayzor    809891075 11  8 c   k     c     f         1459   40    0 
+rayzor    809891165 12  7 f   -     -     -         1419    0    0 
+rayzor    809891331 11  5 rc  brc   bc    bc        1419  160    0 Ac Ks
+rayzor    809891485 11  5 f   -     -     -         1259    0    0 
+rayzor    809891566 12  4 c   f     -     -         1259   10    0 
+rayzor    809891631 12  3 f   -     -     -         1249    0    0 
+rayzor    809891690 12  2 Bk  kc    kf    -         1249   20    0 
+rayzor    809891792 12  1 Bf  -     -     -         1229    5    0 
+rayzor    809891857 12 12 c   c     c     k         1224   70    0 Qd Kd
+rayzor    809891973 12 12 c   c     f     -         1154   30    0 
+rayzor    809892126  9  8 cc  f     -     -         1124   20    0 
+rayzor    809892205 11  8 f   -     -     -         1104    0    0 
+rayzor    809892300 11  7 cc  c     cc    f         1104  130    0 
+rayzor    809892434 11  6 f   -     -     -          974    0    0 
+rayzor    809892532 12  5 f   -     -     -          974    0    0 
+rayzor    809892610 12  4 cc  kf    -     -          974   20    0 
+rayzor    809892727 12  3 f   -     -     -          954    0    0 
+rayzor    809892863 12  2 Bcf -     -     -          954   20    0 
+rayzor    809893059 12  1 Bf  -     -     -          934    5    0 
+rayzor    809893230  9  9 cc  f     -     -          929   40    0 
+rayzor    809893351 10  9 f   -     -     -          889    0    0 
+rayzor    809893478 12 10 f   -     -     -          889    0    0 
+rayzor    809893600 12  9 f   -     -     -          889    0    0 
+rayzor    809893729 12  8 f   -     -     -          889    0    0 
+rayzor    809893858 11  6 cc  bc    kf    -          889   40    0 
+rayzor    809893987 12  6 f   -     -     -          849    0    0 
+rayzor    809894075 11  4 f   -     -     -          849    0    0 
+rayzor    809894192 11  3 f   -     -     -          849    0    0 
+rayzor    809894280  9  1 Bk  kf    -     -          849   10    0 
+rayzor    809894354 10  1 Bcf -     -     -          839   10    0 
+rayzor    809894453 11 11 rc  r     r     bc         829  150    0 Kh Kc
+rayzor    809894535 11 10 f   -     -     -          679    0    0 
+rayzor    809894680 11  9 cc  f     -     -          679   20    0 
+rayzor    809894823 11  9 f   -     -     -          659    0    0 
+rayzor    809894905 11  8 f   -     -     -          659    0    0 
+rayzor    809895057  9  7 c   f     -     -          659   10    0 
+rayzor    809895126  9  6 c   brc   brc   bc         649  170    0 2s 2h
+rayzor    809895232  8  4 f   -     -     -          479    0    0 
+rayzor    809895332  7  3 f   -     -     -          479    0    0 
+rayzor    809895430  7  1 Bk  k     kf    -          479   10    0 
+rayzor    809895582  6  1 Bcc b     kf    -          469   30    0 
+rayzor    809895632  5  5 c   r     b     b          439   70  180 8h Ac
+rayzor    809895700  4  3 f   -     -     -          549    0    0 
+rayzor    809895748  4  3 c   Q     -     -          549   10    0 
+rayzor    809898047  6  2 Bk  kf    -     -          539   10    0 
+rayzor    809898095  6  1 Bcc b     -     -          529   30   50 
+rayzor    809898122  6  6 rr  r     rc    cc         549  220    0 Qs Qh
+rayzor    809898216  6  5 c   f     -     -          329   10    0 
+rayzor    809898309  7  5 f   -     -     -          319    0    0 
+rayzor    809898393  9  6 f   -     -     -          319    0    0 
+rayzor    809898435  9  5 f   -     -     -          319    0    0 
+rayzor    809898487  9  4 r   b     bc    kf         319   70    0 
+rayzor    809898557 11  5 f   -     -     -          249    0    0 
+rayzor    809898676 10  4 f   -     -     -          249    0    0 
+rayzor    809898828  8  3 f   -     -     -          249    0    0 
+rayzor    809898854  9  2 Bc  k     k     k          249   20   65 Jc 5c
+rayzor    809898936  8  1 Bc  kc    kf    -          294   20    0 
+rayzor    809899129  9  8 f   -     -     -          274    0    0 
+rayzor    809899219 11  9 f   -     -     -          274    0    0 
+rayzor    809899290  9  6 cc  rr    c     c          274  150    0 Js Ts
+rayzor    809899434 10  6 f   -     -     -          124    0    0 
+rayzor    809899500 10  5 c   c     f     -          124   30    0 
+rayzor    809899570 10  4 fQ  -     -     -           94    0    0 

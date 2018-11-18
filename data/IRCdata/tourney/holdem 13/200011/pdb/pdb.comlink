@@ -1,0 +1,669 @@
+comlink   974218305 12  1 Br  bcA   -     -         5000 5000    0 9c 9h
+comlink   974831283 18  9 c   c     kc    krA      10000 10000 21300 Qc Jh
+comlink   974831445 17  8 f   -     -     -        21300    0    0 
+comlink   974831484 17  7 ccf -     -     -        21300  550    0 
+comlink   974831573 16  6 f   -     -     -        20750    0    0 
+comlink   974831654 16  5 c   k     f     -        20750  100    0 
+comlink   974831779 16  4 f   -     -     -        20650    0    0 
+comlink   974831853 16  3 f   -     -     -        20650    0    0 
+comlink   974831899 16  2 Bf  -     -     -        20650  200    0 
+comlink   974831945 15  1 Bc  kf    -     -        20450  700    0 
+comlink   974832006 14 14 f   -     -     -        19750    0    0 
+comlink   974832035 13 13 f   -     -     -        19750    0    0 
+comlink   974832069 13 12 c   c     f     -        19750 3100    0 
+comlink   974832113 13 11 f   -     -     -        16650    0    0 
+comlink   974832187 13 10 f   -     -     -        16650    0    0 
+comlink   974832244 13  9 f   -     -     -        16650    0    0 
+comlink   974832329 13  8 cf  -     -     -        16650  400    0 
+comlink   974832374 13  7 f   -     -     -        16250    0    0 
+comlink   974832429 12  6 f   -     -     -        16250    0    0 
+comlink   974832468 12  5 rc  bcA   -     -        16250 16250    0 7d 7s
+comlink   974906010 12  5 f   -     -     -        10000    0    0 
+comlink   974906125 12  4 cc  f     -     -        10000  300    0 
+comlink   974906178 12  3 cc  c     k     k         9700  873    0 8c 8h
+comlink   974906254 12  2 Bc  kc    kc    b         8827 5050 10125 Qd 9c
+comlink   974906286 12  1 Bf  -     -     -        13902   25    0 
+comlink   974906322 12 12 c   k     r     b        13877 10911 15748 
+comlink   974906398 12 11 f   -     -     -        18714    0    0 
+comlink   974906455 12 10 f   -     -     -        18714    0    0 
+comlink   974906512 11  8 r   -     -     -        18714  250  400 
+comlink   974906529 11  7 c   kf    -     -        18864  100    0 
+comlink   974906605 11  6 f   -     -     -        18764    0    0 
+comlink   974906666 10  4 f   -     -     -        18764    0    0 
+comlink   974906721 10  3 c   kc    kc    kf       18764 3100    0 
+comlink   974906789  9  2 Bf  -     -     -        15664  200    0 
+comlink   974906809  9  1 Bc  b     k     kc       15464 3400 7200 Qh 9d
+comlink   974906847  9  9 f   -     -     -        19264    0    0 
+comlink   974906946  9  8 f   -     -     -        19264    0    0 
+comlink   974907012  8  7 c   k     c     k        19264 1100    0 Th 5h
+comlink   974907061  8  6 c   k     k     b        18164  650 1350 
+comlink   974907105  8  5 f   -     -     -        18864    0    0 
+comlink   974907157  8  4 cf  -     -     -        18864  400    0 
+comlink   974907176  8  3 c   k     k     kf       18464  400    0 
+comlink   974907227  8  2 Bf  -     -     -        18064  400    0 
+comlink   974907260  8  1 Bc  k     k     kc       17664 1600    0 Ac 4s
+comlink   974907301  8  8 f   -     -     -        16064    0    0 
+comlink   974907328  8  7 c   k     k     f        16064  400    0 
+comlink   974907365  8  6 c   c     k     f        15664 1300    0 
+comlink   974907420  8  5 c   k     f     -        14364  400    0 
+comlink   974907480  7  3 c   f     -     -        13964  400    0 
+comlink   974907513  7  2 Bk  k     k     k        13564  400    0 6c 9h
+comlink   974907530  7  1 Bc  kf    -     -        13164  800    0 
+comlink   974907570  7  7 f   -     -     -        12364    0    0 
+comlink   974907604  7  6 r   k     k     k        12364 2864    0 Qc 5c
+comlink   974907656  7  5 f   -     -     -         9500    0    0 
+comlink   974907701  7  4 f   -     -     -         9500    0    0 
+comlink   974907757  7  3 f   -     -     -         9500    0    0 
+comlink   974907807  7  2 Bf  -     -     -         9500  800    0 
+comlink   974907829  7  1 Bf  -     -     -         8700  400    0 
+comlink   974907847  7  7 rc  cA    -     -         8300 8300    0 Jd Ks
+comlink   974920428 18  9 f   -     -     -        10000    0    0 
+comlink   974920501 15  6 f   -     -     -        10000    0    0 
+comlink   974920607 15  6 f   -     -     -        10000    0    0 
+comlink   974920693 15  5 f   -     -     -        10000    0    0 
+comlink   974920774 15  4 f   -     -     -        10000    0    0 
+comlink   974920831 15  3 rf  -     -     -        10000  500    0 
+comlink   974920882 12  2 Bf  -     -     -         9500  200    0 
+comlink   974920924 11  1 Bf  -     -     -         9300  100    0 
+comlink   974920970 10 10 f   -     -     -         9200    0    0 
+comlink   974921052  9  8 c   kf    -     -         9200  200    0 
+comlink   974921110  8  7 f   -     -     -         9000    0    0 
+comlink   974921168  8  6 c   c     cA    -         9000 9000 22600 Ah 8s
+comlink   974921212  8  5 c   kc    k     b        22600 6800 9600 
+comlink   974921277  8  4 f   -     -     -        25400    0    0 
+comlink   974921290  8  3 cc  kc    kf    -        25400 7800    0 
+comlink   974921353  8  2 Bk  kf    -     -        17600  400    0 
+comlink   974921412  8  1 Bf  -     -     -        17200  200    0 
+comlink   974921467  7  7 c   f     -     -        17000 1800    0 
+comlink   974921523  7  6 f   -     -     -        15200    0    0 
+comlink   974921559  7  5 f   -     -     -        15200    0    0 
+comlink   974921595  7  4 c   k     b     c        15200 8800 18000 8s Ad
+comlink   974921650  7  3 f   -     -     -        24400    0    0 
+comlink   974921678  7  2 Br  k     k     k        24400 2400 4800 Ad Ks
+comlink   974921725  7  1 Br  b     kc    -        26800 13650 30300 Kh Ac
+comlink   974921767  6  6 f   -     -     -        43450    0    0 
+comlink   974921820  6  5 f   -     -     -        43450    0    0 
+comlink   974921841  6  4 c   k     c     c        43450 4600 14200 4c Jc
+comlink   974921909  5  2 f   -     -     -        53050    0    0 
+comlink   974921959  5  2 B   -     -     -        53050 1600 2400 
+comlink   974921979  5  1 Bf  -     -     -        53850  800    0 
+comlink   974921986  5  5 f   -     -     -        53050    0    0 
+comlink   974922009  5  4 f   -     -     -        53050    0    0 
+comlink   974922032  4  2 f   -     -     -        53050    0    0 
+comlink   974922047  4  2 Br  -     -     -        53050 5600 8000 
+comlink   974922077  4  1 Bf  -     -     -        55450  800    0 
+comlink   974922081  4  4 c   f     -     -        54650 1600    0 
+comlink   974922106  4  3 f   -     -     -        53050    0    0 
+comlink   974922110  4  2 Bk  k     k     k        53050 1600    0 8s Qs
+comlink   974922144  4  1 Bf  -     -     -        51450  800    0 
+comlink   974922153  4  4 f   -     -     -        50650    0    0 
+comlink   974922189  4  3 c   k     b     -        50650 5600 8000 
+comlink   974922222  4  2 B   -     -     -        53050 1600 2400 
+comlink   974922227  4  1 Bc  kf    -     -        53850 1600    0 
+comlink   974922244  4  4 f   -     -     -        52250    0    0 
+comlink   974922252  4  3 c   f     -     -        52250 1600    0 
+comlink   974922283  4  2 Bk  f     -     -        50650 1600    0 
+comlink   974922319  4  1 Bc  k     kc    k        49050 9600 19200 8d Qd
+comlink   974922359  4  4 c   b     -     -        58650 8000 14400 
+comlink   974922385  4  3 c   k     k     k        65050 3200    0 5d Ah
+comlink   974922407  4  2 B   -     -     -        61850 3200 4800 
+comlink   974922417  4  1 Bc  k     k     k        63450 3200    0 7s 8d
+comlink   974922435  4  4 c   k     k     f        60250 3200    0 
+comlink   974922463  4  3 f   -     -     -        57050    0    0 
+comlink   974922466  4  2 Bc  k     k     k        57050 11200 12000 Ad 6h
+comlink   974922484  4  1 Bc  kc    k     k        57850 9600 19200 Ac 7d
+comlink   974922510  4  4 f   -     -     -        67450    0    0 
+comlink   974922519  4  3 f   -     -     -        67450    0    0 
+comlink   974922525  4  2 Bk  f     -     -        67450 3200    0 
+comlink   974922534  4  1 Bf  -     -     -        64250 1600    0 
+comlink   974922542  4  4 r   b     k     c        62650 56800    0 9d 9h
+comlink   974922628  3  2 B   -     -     -         5850 3200 4800 
+comlink   974922641  3  1 Bf  -     -     -         7450 1600    0 
+comlink   974922648  3  3 rA  -     -     -         5850 5850    0 Ah 5c
+comlink   975336383  9  3 f   -     -     -        10000    0    0 
+comlink   975336425  9  2 B   -     -     -        10000   50   75 
+comlink   975336441  9  1 Br  kc    k     k        10025 2125 4950 Qc Qd
+comlink   975336486  9  9 f   -     -     -        12850    0    0 
+comlink   975336504  9  8 r   -     -     -        12850  125  200 
+comlink   975336516  9  7 f   -     -     -        12925    0    0 
+comlink   975336526  9  6 f   -     -     -        12925    0    0 
+comlink   975336547  9  5 cc  kc    k     b        12925 2325 3150 
+comlink   975336576  9  4 f   -     -     -        13750    0    0 
+comlink   975336610  9  3 r   b     k     c        13750  811    0 Jc Jh
+comlink   975336645  9  2 Bk  k     k     k        12939   50  175 Jc Jd
+comlink   975336673  9  1 Bf  -     -     -        13064   25    0 
+comlink   975336705  9  9 f   -     -     -        13039    0    0 
+comlink   975336736  9  8 c   f     -     -        13039  175    0 
+comlink   975336782  9  7 c   c     k     k        12864 1500    0 Td 7d
+comlink   975336834  9  6 f   -     -     -        11364    0    0 
+comlink   975336868  9  5 f   -     -     -        11364    0    0 
+comlink   975336905  9  4 c   c     c     c        11364 4000    0 2s Ac
+comlink   975336929  9  3 c   k     k     k         7364  100    0 6s Ad
+comlink   975336968  9  2 Bk  k     f     -         7264  100    0 
+comlink   975337024  9  1 Bc  kc    kc    b         7164 4000 5400 
+comlink   975337052  9  9 f   -     -     -         8564    0    0 
+comlink   975337072  9  8 c   b     -     -         8564  500  800 
+comlink   975337092  9  7 c   k     c     c         8864 1500    0 Ah 5s
+comlink   975337115  9  6 c   r     b     k         7364 2550 5250 Th Kd
+comlink   975337156  9  5 f   -     -     -        10064    0    0 
+comlink   975337183  9  4 cc  kc    kc    -        10064 8150    0 6d Qc
+comlink   975337220  9  3 c   k     k     k         1914  200  500 Js 3s
+comlink   975337248  9  2 Bf  -     -     -         2214  200    0 
+comlink   975337277  9  1 Bc  kc    k     kf        2014 1000    0 
+comlink   975337323  9  9 rA  -     -     -         1014 1014 2228 Ad Ac
+comlink   975337338  9  8 c   f     -     -         2228  200    0 
+comlink   975337374  9  7 c   cA    -     -         2028 2028    0 Ac Ts
+comlink   975435089 11  3 f   -     -     -        10000    0    0 
+comlink   975435169 11  2 Bf  -     -     -        10000  100    0 
+comlink   975435246 11  1 Bc  kf    -     -         9900  100    0 
+comlink   975435343 11 11 c   c     b     -         9800 2700 3400 
+comlink   975435451 11 10 f   -     -     -        10500    0    0 
+comlink   975435511 11  9 f   -     -     -        10500    0    0 
+comlink   975435606 11  8 f   -     -     -        10500    0    0 
+comlink   975435679 11  7 cc  f     -     -        10500 1000    0 
+comlink   975435723 11  6 c   f     -     -         9500  200    0 
+comlink   975435803 11  5 f   -     -     -         9300    0    0 
+comlink   975435849 11  4 c   k     k     k         9300  400    0 Ks Tc
+comlink   975435909 11  3 f   -     -     -         8900    0    0 
+comlink   975435926 11  2 Bf  -     -     -         8900  400    0 
+comlink   975435992 11  1 Bf  -     -     -         8500  200    0 
+comlink   975436036 11 11 f   -     -     -         8300    0    0 
+comlink   975436099 11 10 f   -     -     -         8300    0    0 
+comlink   975436144 10  9 c   c     c     c         8300 7250 20750 Kc Qd
+comlink   975436207  9  7 f   -     -     -        21800    0    0 
+comlink   975436264  9  6 f   -     -     -        21800    0    0 
+comlink   975436279  9  5 f   -     -     -        21800    0    0 
+comlink   975436292  9  4 f   -     -     -        21800    0    0 
+comlink   975436344  9  3 f   -     -     -        21800    0    0 
+comlink   975436374  9  2 Bf  -     -     -        21800  800    0 
+comlink   975436393  9  1 Bf  -     -     -        21000  400    0 
+comlink   975436426  8  8 cc  f     -     -        20600 3600    0 
+comlink   975436471  8  7 f   -     -     -        17000    0    0 
+comlink   975436532  8  6 f   -     -     -        17000    0    0 
+comlink   975436584  8  5 f   -     -     -        17000    0    0 
+comlink   975436618  8  4 c   k     k     k        17000  800 1400 Ks 3h
+comlink   975436656  8  3 f   -     -     -        17600    0    0 
+comlink   975436690  7  2 Bk  k     b     -        17600 5600 8000 
+comlink   975436725  7  1 Bc  k     bc    kcA      20000 20000 40000 Kd 3s
+comlink   975436757  7  7 c   k     f     -        40000 1600    0 
+comlink   975436800  7  6 c   b     -     -        38400 3600 6000 
+comlink   975436831  7  5 f   -     -     -        40800    0    0 
+comlink   975436863  7  4 c   k     kc    k        40800 8800 21600 4h Qh
+comlink   975436944  7  3 cc  kf    -     -        53600 7200    0 
+comlink   975436971  7  2 Bk  k     k     b        46400 5600 8000 
+comlink   975437014  7  1 Bc  kc    k     b        48800 14400 19200 
+comlink   975437048  7  7 f   -     -     -        53600    0    0 
+comlink   975437061  6  5 f   -     -     -        53600    0    0 
+comlink   975437092  6  4 f   -     -     -        53600    0    0 
+comlink   975437115  6  3 c   b     -     -        53600 11200 16000 
+comlink   975437139  6  2 Bf  -     -     -        58400 3200    0 
+comlink   975437153  5  1 Bcf -     -     -        55200 3200    0 
+comlink   975437176  4  4 f   -     -     -        52000    0    0 
+comlink   975437188  4  3 f   -     -     -        52000    0    0 
+comlink   975437193  3  1 Bc  k     kc    -        52000 15600    0 9c Ah
+comlink   975437213  3  1 Br  -     -     -        36400 8000 11200 
+comlink   975437225  3  3 f   -     -     -        39600    0    0 
+comlink   975437262  3  2 B   -     -     -        39600 3200 4800 
+comlink   975437266  3  1 Bf  -     -     -        41200 1600    0 
+comlink   975437281  2  2 Bf  -     -     -        39600 3200    0 
+comlink   975437289  2  1 Br  -     -     -        36400 8000 11200 
+comlink   975437293  2  2 Bc  f     -     -        39600 9600    0 
+comlink   975437303  2  1 Bc  k     k     b        30000 9600 19200 Qh 5c
+comlink   975437320  2  2 B   -     -     -        39600 3200 4800 
+comlink   975437332  2  1 Bc  k     k     k        41200 3200 3200 3c Js
+comlink   975437346  2  2 Bk  c     c     cA       41200 41200 41200 7s 6s
+comlink   975437367  2  1 Bc  b     -     -        41200 9600 12800 
+comlink   975437382  2  2 B   -     -     -        44400 3200 4800 
+comlink   975437386  2  1 Brc k     k     bA       46000 46000 70000 
+comlink   975437406  2  2 Bk  f     -     -        70000 3200    0 
+comlink   975437414  2  1 Bc  bc    -     -        66800 43200    0 Jh 6h
+comlink   975437423  2  2 Bc  k     bA    -        23600 23600 47200 9d Ks
+comlink   975437440  2  1 Bf  -     -     -        47200 3200    0 
+comlink   975437444  2  2 Bc  f     -     -        44000 19200    0 
+comlink   975437451  2  1 Br  -     -     -        24800 16000 22400 
+comlink   975437456  2  2 Bk  f     -     -        31200 6400    0 
+comlink   975437464  2  1 Bf  -     -     -        24800 3200    0 
+comlink   975437466  2  2 Bk  b     -     -        21600 19200 25600 
+comlink   975437478  2  1 Bcc kcA   -     -        28000 28000 28000 9c Kd
+comlink   975437487  2  2 B   -     -     -        28000 6400 9600 
+comlink   975437493  2  1 Bf  -     -     -        31200 3200    0 
+comlink   975437497  2  2 Bf  -     -     -        28000 6400    0 
+comlink   975437499  2  1 BrcA -     -     -        21600 21600 43200 Qs Th
+comlink   975437504  2  2 Bc  cA    -     -        43200 43200    0 Kd 4c
+comlink   975437736  9  1 Bf  -     -     -        10000   50    0 
+comlink   975437822  9  9 f   -     -     -         9950    0    0 
+comlink   975437927  8  7 f   -     -     -         9950    0    0 
+comlink   975437976  8  6 f   -     -     -         9950    0    0 
+comlink   975437988  8  5 f   -     -     -         9950    0    0 
+comlink   975438025  8  4 f   -     -     -         9950    0    0 
+comlink   975438069  7  3 f   -     -     -         9950    0    0 
+comlink   975438089  7  2 Br  bA    -     -         9950 9950 16100 
+comlink   975438136  7  1 Bf  -     -     -        16100  100    0 
+comlink   975438151  7  7 f   -     -     -        16000    0    0 
+comlink   975438169  7  6 cf  -     -     -        16000  200    0 
+comlink   975438205  6  4 c   k     k     b        15800  700 1000 
+comlink   975438230  6  3 f   -     -     -        16100    0    0 
+comlink   975438252  6  2 Bf  -     -     -        16100  200    0 
+comlink   975438282  6  1 Bc  kc    kf    -        15900  800    0 
+comlink   975438312  5  5 c   c     cf    -        15100 3200    0 
+comlink   975438347  4  3 f   -     -     -        11900    0    0 
+comlink   975438392  4  3 f   -     -     -        11900    0    0 
+comlink   975438424  4  2 B   -     -     -        11900  200  300 
+comlink   975438428  4  1 Bf  -     -     -        12000  100    0 
+comlink   975438432  4  4 f   -     -     -        11900    0    0 
+comlink   975438462  4  3 f   -     -     -        11900    0    0 
+comlink   975438477  4  2 B   -     -     -        11900  200  300 
+comlink   975438482  4  1 Bf  -     -     -        12000  100    0 
+comlink   975438489  4  4 f   -     -     -        11900    0    0 
+comlink   975438500  4  3 f   -     -     -        11900    0    0 
+comlink   975438511  3  2 Bf  -     -     -        11900  400    0 
+comlink   975438522  3  1 Bc  k     k     k        11500 1400 3200 Tc Kc
+comlink   975438543  3  3 f   -     -     -        13300    0    0 
+comlink   975438552  3  2 B   -     -     -        13300  400  600 
+comlink   975438561  3  1 Bc  k     k     kf       13500  400    0 
+comlink   975438579  3  3 f   -     -     -        13100    0    0 
+comlink   975438591  3  2 B   -     -     -        13100  400  600 
+comlink   975438596  3  1 Bc  kc    k     k        13300 4600 9600 Tc Ah
+comlink   975438625  3  3 f   -     -     -        18300    0    0 
+comlink   975438635  3  2 Bk  f     -     -        18300  400    0 
+comlink   975438667  3  1 Bf  -     -     -        17900  200    0 
+comlink   975438679  3  3 c   b     -     -        17700 1600 2400 
+comlink   975438706  3  2 Bc  b     -     -        18500 10400 14000 
+comlink   975438727  3  1 Bc  k     k     kf       22100  400    0 
+comlink   975438757  3  3 f   -     -     -        21700    0    0 
+comlink   975438770  3  2 Bf  -     -     -        21700  400    0 
+comlink   975438775  3  1 Br  k     kf    -        21300 1000    0 
+comlink   975438793  3  3 c   c     k     k        20300 1600    0 Qh Js
+comlink   975438818  3  2 Bk  f     -     -        18700  400    0 
+comlink   975438836  3  1 Bcc kc    kc    k        18300 10800 21600 Ks Jd
+comlink   975438858  3  3 f   -     -     -        29100    0    0 
+comlink   975438922  3  2 Bk  f     -     -        29100  800    0 
+comlink   975438942  3  1 Bc  k     k     k        28300  800 1600 Ts Qd
+comlink   975438964  3  3 cc  c     f     -        29100 10400    0 
+comlink   975438985  3  2 Bf  -     -     -        18700  800    0 
+comlink   975439002  3  1 Bf  -     -     -        17900  400    0 
+comlink   975439006  3  3 f   -     -     -        17500    0    0 
+comlink   975439010  3  2 Bk  c     k     c        17500 7200    0 Ts Js
+comlink   975439047  3  1 Bc  k     bc    kcA      10300 10300    0 7s 6s
+comlink   975507667 10  8 c   k     f     -        10000   50    0 
+comlink   975507789  9  7 f   -     -     -         9950    0    0 
+comlink   975507824  9  6 f   -     -     -         9950    0    0 
+comlink   975507878  9  5 f   -     -     -         9950    0    0 
+comlink   975507919  9  4 f   -     -     -         9950    0    0 
+comlink   975507958  9  3 f   -     -     -         9950    0    0 
+comlink   975508015  9  2 Bk  c     k     k         9950  200    0 6c 4h
+comlink   975508063  9  1 Bc  kc    b     -         9750 1300 2050 Ah Tc
+comlink   975508108  8  8 f   -     -     -        10500    0    0 
+comlink   975508156  8  7 f   -     -     -        10500    0    0 
+comlink   975508188  8  6 c   f     -     -        10500  100    0 
+comlink   975508225  8  5 f   -     -     -        10400    0    0 
+comlink   975508263  8  4 f   -     -     -        10400    0    0 
+comlink   975508303  8  3 f   -     -     -        10400    0    0 
+comlink   975508347  8  2 Bk  k     kf    -        10400  100    0 
+comlink   975508373  8  1 Bf  -     -     -        10300   50    0 
+comlink   975508422  8  8 f   -     -     -        10250    0    0 
+comlink   975508446  7  7 f   -     -     -        10250    0    0 
+comlink   975508485  7  6 f   -     -     -        10250    0    0 
+comlink   975508531  7  5 f   -     -     -        10250    0    0 
+comlink   975508576  5  2 f   -     -     -        10250    0    0 
+comlink   975508602  5  2 Bk  k     kf    -        10250  200    0 
+comlink   975508614  5  1 Bf  -     -     -        10050  100    0 
+comlink   975508634  5  5 f   -     -     -         9950    0    0 
+comlink   975508652  5  4 f   -     -     -         9950    0    0 
+comlink   975508672  5  3 f   -     -     -         9950    0    0 
+comlink   975508712  5  2 B   -     -     -         9950  200  300 
+comlink   975508723  5  1 Bf  -     -     -        10050  100    0 
+comlink   975508750  5  5 f   -     -     -         9950    0    0 
+comlink   975508788  5  4 f   -     -     -         9950    0    0 
+comlink   975508810  5  3 f   -     -     -         9950    0    0 
+comlink   975508826  5  2 Bk  kf    -     -         9950  400    0 
+comlink   975508839  5  1 Bc  kf    -     -         9550  400    0 
+comlink   975508886  5  5 c   k     c     r         9150 7400 15000 8s Ks
+comlink   975508908  5  4 f   -     -     -        16750    0    0 
+comlink   975508914  5  3 f   -     -     -        16750    0    0 
+comlink   975508929  5  2 Bk  kf    -     -        16750  400    0 
+comlink   975508947  5  1 Bc  k     k     k        16350  400  800 Ah 8h
+comlink   975508980  5  5 f   -     -     -        16750    0    0 
+comlink   975509000  5  4 r   c     cA    -        16750 16750 51250 Kh Kc
+comlink   975509025  4  3 f   -     -     -        51250    0    0 
+comlink   975509057  4  2 Bf  -     -     -        51250  400    0 
+comlink   975509061  4  1 Bcc kc    kc    kc       50850 6400 12800 7c Tc
+comlink   975509083  4  4 c   b     -     -        57250  900 1500 
+comlink   975509106  4  3 c   c     c     c        57850 10725 22250 Ad 4s
+comlink   975509124  3  2 Bk  k     k     k        69375  400    0 Ks 3d
+comlink   975509143  3  1 Bc  k     k     k        68975  400  800 Jh Ks
+comlink   975509157  3  3 f   -     -     -        69375    0    0 
+comlink   975509162  3  2 B   -     -     -        69375  400  600 
+comlink   975509163  3  1 Bf  -     -     -        69575  200    0 
+comlink   975509165  3  3 f   -     -     -        69375    0    0 
+comlink   975509174  3  2 Bk  k     kf    -        69375  800    0 
+comlink   975509185  3  1 Bf  -     -     -        68575  400    0 
+comlink   975509190  3  3 cf  -     -     -        68175  800    0 
+comlink   975509207  3  2 B   -     -     -        67375  800 1200 
+comlink   975509209  3  1 Br  kc    k     bc       67775 20000 40000 9c 9h
+comlink   975509226  3  3 f   -     -     -        87775    0    0 
+comlink   975509234  3  2 B   -     -     -        87775  800 1200 
+comlink   975509236  3  1 Br  -     -     -        88175 2000 2800 
+comlink   975509240  3  3 c   k     k     k        88975  800    0 3d Ah
+comlink   975509251  3  2 Bk  kf    -     -        88175  800    0 
+comlink   975509264  3  1 Bf  -     -     -        87375  400    0 
+comlink   975509265  3  3 cc  c     c     -        86975 7050    0 Jh 7h
+comlink   975509273  3  2 Bk  k     kf    -        79925  800    0 
+comlink   975509289  3  1 Bc  bf    -     -        79125 2400    0 
+comlink   975509298  3  3 r   -     -     -        76725 2000 3200 
+comlink   975509301  3  2 Bk  kc    kc    kf       77925 3800    0 
+comlink   975509313  3  1 Bf  -     -     -        74125  400    0 
+comlink   975509315  3  3 r   -     -     -        73725 2000 3200 
+comlink   975509318  3  2 Bk  k     k     k        74925  800 2000 5c Kc
+comlink   975509333  3  1 Bc  k     k     k        76125  800    0 Kh 4h
+comlink   975509347  3  3 f   -     -     -        75325    0    0 
+comlink   975509352  3  2 Bk  kc    k     kc       75325 3800    0 8s 6c
+comlink   975509370  3  1 Bf  -     -     -        71525  400    0 
+comlink   975509373  3  3 f   -     -     -        71125    0    0 
+comlink   975509383  3  2 Bk  k     kc    k        71125 1800    0 9d 2h
+comlink   975509395  3  1 Bf  -     -     -        69325  400    0 
+comlink   975509396  3  3 c   b     b     -        68925 10400 14400 
+comlink   975509427  3  2 Bk  k     k     kf       72925  800    0 
+comlink   975509443  2  1 Bc  kc    kc    kf       72125 3200    0 
+comlink   975509463  2  2 Bk  b     -     -        68925 2400 3200 
+comlink   975509472  2  1 Bc  kc    kc    kc       69725 6400 12800 9s 6h
+comlink   975509489  2  2 Br  k     k     k        76125 2400    0 8h Ad
+comlink   975509509  2  1 Bc  b     kc    kc       73725 9600    0 5c 9s
+comlink   975509528  2  2 Brc k     k     b        64125 12000 16000 
+comlink   975509556  2  1 Bf  -     -     -        68125  800    0 
+comlink   975509559  2  2 Br  k     k     f        67325 4800    0 
+comlink   975509576  2  1 Bc  kf    -     -        62525 1600    0 
+comlink   975509585  2  2 B   -     -     -        60925 1600 2400 
+comlink   975509588  2  1 Bc  kf    -     -        61725 1600    0 
+comlink   975509595  2  2 B   -     -     -        60125 1600 2400 
+comlink   975509597  2  1 Bf  -     -     -        60925  800    0 
+comlink   975509599  2  2 B   -     -     -        60125 1600 2400 
+comlink   975509603  2  1 Bf  -     -     -        60925  800    0 
+comlink   975509604  2  2 B   -     -     -        60125 1600 2400 
+comlink   975509606  2  1 Bc  k     k     k        60925 1600    0 Jd 3d
+comlink   975509620  2  2 Bk  c     c     c        59325 12800    0 Tc 5d
+comlink   975509637  2  1 Br  -     -     -        46525 4000 5600 
+comlink   975509646  2  2 B   -     -     -        48125 1600 2400 
+comlink   975509650  2  1 Bcc kf    -     -        48925 3200    0 
+comlink   975509657  2  2 Bk  c     c     c        45725 12800    0 Kc 4h
+comlink   975509668  2  1 Bf  -     -     -        32925  800    0 
+comlink   975509672  2  2 Bk  k     k     k        32125 1600    0 6s Jh
+comlink   975509686  2  1 Br  k     k     k        30525 4000 8000 8c As
+comlink   975509698  2  2 B   -     -     -        34525 1600 2400 
+comlink   975509703  2  1 Bc  k     b     bc       35325 24000 48000 9s Qd
+comlink   975509722  2  2 B   -     -     -        59325 1600 2400 
+comlink   975509732  2  1 Bc  k     b     -        60125 4800 6400 
+comlink   975509744  2  2 B   -     -     -        61725 1600 2400 
+comlink   975509745  2  1 Bc  k     k     k        62525 1600 3200 Kc 3s
+comlink   975509756  2  2 Br  k     k     b        64125 14400 19200 
+comlink   975509777  2  1 Bc  k     k     kc       68925 3200 3200 4s Qs
+comlink   975509791  2  2 Br  -     -     -        68925 4800 6400 
+comlink   975509802  2  1 Bf  -     -     -        70525  800    0 
+comlink   975509804  2  2 B   -     -     -        69725 1600 2400 
+comlink   975509807  2  1 Bc  b     b     -        70525 14400 19200 
+comlink   975509820  2  2 Bk  k     b     -        75325 4800 6400 
+comlink   975509833  2  1 Br  -     -     -        76925 4000 5600 
+comlink   975509841  2  2 Br  r     -     -        78525 24000 45475 Ad Jc
+comlink   975510188 11  2 Bk  kc    kc    kf        5000  840    0 
+comlink   975510247 10  1 Bf  -     -     -         4160   20    0 
+comlink   975510289 10 10 f   -     -     -         4140    0    0 
+comlink   975510332 10  9 c   k     f     -         4140   40    0 
+comlink   975510391 10  8 cf  -     -     -         4100   40    0 
+comlink   975510488  9  7 c   k     b     b         4060 2060 2260 
+comlink   975510562  9  6 c   k     f     -         4260 1200    0 
+comlink   975510614  8  4 f   -     -     -         3060    0    0 
+comlink   975510661  8  3 r   k     k     bA        3060 3060 6240 Tc Ts
+comlink   975510714  8  2 Bc  kc    krA   -         6240 6240 8400 As 6s
+comlink   975510792  7  1 Bf  -     -     -         8400   40    0 
+comlink   975510822  7  7 c   k     k     f         8360   80    0 
+comlink   975510912  7  6 f   -     -     -         8280    0    0 
+comlink   975510962  7  5 c   k     kf    -         8280  160    0 
+comlink   975511069  7  4 c   b     f     -         8120 1120    0 
+comlink   975511138  6  2 f   -     -     -         7000    0    0 
+comlink   975511166  6  2 Bc  k     b     -         7000 1440 2160 
+comlink   975511196  6  1 Bc  kf    -     -         7720  160    0 
+comlink   975511228  6  6 c   k     c     k         7560  800    0 Tc Qs
+comlink   975511290  6  5 f   -     -     -         6760    0    0 
+comlink   975511336  5  4 f   -     -     -         6760    0    0 
+comlink   975511378  5  3 c   bc    k     k         6760 4160 4320 Ts Tc
+comlink   975511409  5  2 Bk  k     f     -         6920  320    0 
+comlink   975511448  5  1 Bc  kf    -     -         6600  320    0 
+comlink   975511476  5  5 f   -     -     -         6280    0    0 
+comlink   975511492  5  4 c   b     -     -         6280 1440 2240 
+comlink   975511526  5  3 f   -     -     -         7080    0    0 
+comlink   975511552  5  2 Bf  -     -     -         7080  320    0 
+comlink   975511589  5  1 Bf  -     -     -         6760  160    0 
+comlink   975511625  5  5 c   k     c     k         6600 1120    0 Qh Ac
+comlink   975511665  4  3 f   -     -     -         5480    0    0 
+comlink   975511690  4  3 f   -     -     -         5480    0    0 
+comlink   975511731  3  1 B   -     -     -         5480  640  640 
+comlink   975511742  3  1 Bc  kf    -     -         5480  640    0 
+comlink   975511760  3  3 c   k     k     f         4840  640    0 
+comlink   975511793  3  2 Bk  kf    -     -         4200  640    0 
+comlink   975511803  3  1 Bf  -     -     -         3560  320    0 
+comlink   975511806  3  3 f   -     -     -         3240    0    0 
+comlink   975511824  3  2 Bk  k     kf    -         3240  640    0 
+comlink   975511843  3  1 BrA -     -     -         2600 2600 5200 Th Tc
+comlink   975511851  3  3 f   -     -     -         5200    0    0 
+comlink   975511858  3  2 Bk  k     k     k         5200  640    0 8s Qd
+comlink   975511877  3  1 Bf  -     -     -         4560  320    0 
+comlink   975511884  3  3 f   -     -     -         4240    0    0 
+comlink   975511908  3  2 Bk  b     -     -         4240 1920 2560 
+comlink   975511931  3  1 Bf  -     -     -         4880  320    0 
+comlink   975511949  3  3 c   k     k     k         4560  640    0 Ks Jd
+comlink   975511984  3  2 Bk  c     k     cA        3920 3920    0 4s Ac
+comlink   975530017 17  4 f   -     -     -        10000    0    0 
+comlink   975530232 17  3 c   kf    -     -        10000   50    0 
+comlink   975530334 17  2 Bf  -     -     -         9950   50    0 
+comlink   975530394 16  1 Bf  -     -     -         9900   25    0 
+comlink   975530449 16 16 rA  -     -     -         9875 9875 15400 Ks As
+comlink   975530495 16 15 f   -     -     -        15400    0    0 
+comlink   975530556 13 11 f   -     -     -        15400    0    0 
+comlink   975530652 13 10 f   -     -     -        15400    0    0 
+comlink   975530717 13  9 f   -     -     -        15400    0    0 
+comlink   975530787 13  8 f   -     -     -        15400    0    0 
+comlink   975530843 13  7 ccf -     -     -        15400 2450    0 
+comlink   975530896 13  6 f   -     -     -        12950    0    0 
+comlink   975530966 12  4 cc  kf    -     -        12950 1100    0 
+comlink   975531034 12  3 f   -     -     -        11850    0    0 
+comlink   975531094 11  2 Bk  kf    -     -        11850  200    0 
+comlink   975531176 11  1 Bf  -     -     -        11650  100    0 
+comlink   975531271 11 11 f   -     -     -        11550    0    0 
+comlink   975531356 11 10 f   -     -     -        11550    0    0 
+comlink   975531467 10  8 c   k     b     -        11550 2200 3600 
+comlink   975531515 10  7 c   k     k     f        12950  900    0 
+comlink   975531625 10  6 f   -     -     -        12050    0    0 
+comlink   975531778 10  5 c   kf    -     -        12050  800    0 
+comlink   975531861 10  4 c   k     c     c        11250 4300    0 Tc Ts
+comlink   975531954 10  3 f   -     -     -         6950    0    0 
+comlink   975532015 10  2 Bk  k     k     kf        6950  800    0 
+comlink   975532080 10  1 Bc  kf    -     -         6150  800    0 
+comlink   975532161  9  9 f   -     -     -         5350    0    0 
+comlink   975532238  8  8 cc  k     k     k         5350 3350    0 4c As
+comlink   975532296  8  7 ccA -     -     -         2000 2000    0 5c Ks
+comlink   975533472 14  2 Bk  kf    -     -        10000   50    0 
+comlink   975533528 14  1 Bf  -     -     -         9950   25    0 
+comlink   975533563 14 14 f   -     -     -         9925    0    0 
+comlink   975533611 14 13 c   k     kf    -         9925   50    0 
+comlink   975533661 14 12 f   -     -     -         9875    0    0 
+comlink   975533759 14 11 cc  kf    -     -         9875  325    0 
+comlink   975533800 14 10 f   -     -     -         9550    0    0 
+comlink   975533820 14  9 c   k     kc    f         9550  250    0 
+comlink   975533987 14  8 f   -     -     -         9300    0    0 
+comlink   975534068 14  7 f   -     -     -         9300    0    0 
+comlink   975534156 14  6 cf  -     -     -         9300  100    0 
+comlink   975534258 13  5 cf  -     -     -         9200  350    0 
+comlink   975534292 13  4 f   -     -     -         8850    0    0 
+comlink   975534360 13  3 f   -     -     -         8850    0    0 
+comlink   975534436 11  1 Bf  -     -     -         8850  200    0 
+comlink   975534506 11  1 Bc  kf    -     -         8650  200    0 
+comlink   975534549 11 11 f   -     -     -         8450    0    0 
+comlink   975534597 11 10 f   -     -     -         8450    0    0 
+comlink   975534652 10  8 f   -     -     -         8450    0    0 
+comlink   975534698 10  7 c   k     f     -         8450  200    0 
+comlink   975534813 10  6 f   -     -     -         8250    0    0 
+comlink   975534852 10  5 c   kf    -     -         8250  400    0 
+comlink   975534890 10  4 f   -     -     -         7850    0    0 
+comlink   975534951 10  3 cf  -     -     -         7850  400    0 
+comlink   975534985  9  2 Bc  k     k     k         7450 2400 5800 Ad Js
+comlink   975535049  9  1 Bc  kf    -     -        10850 4900    0 
+comlink   975535087  9  9 c   cA    -     -         5950 5950 15900 Qh Kc
+comlink   975535149  9  8 c   f     -     -        15900 1800    0 
+comlink   975535188  9  7 f   -     -     -        14100    0    0 
+comlink   975535221  9  6 cc  -     -     -        14100 3600 8400 Ts Td
+comlink   975535239  8  5 f   -     -     -        18900    0    0 
+comlink   975535304  8  4 f   -     -     -        18900    0    0 
+comlink   975535385  8  3 cf  -     -     -        18900  800    0 
+comlink   975535420  8  2 Bk  k     k     kc       18100 1800    0 7h As
+comlink   975535489  8  1 Bf  -     -     -        16300  400    0 
+comlink   975535562  8  8 c   k     c     -        15900 3100    0 Jh 7h
+comlink   975535624  8  7 c   k     k     k        12800 1600 7200 Qc Jh
+comlink   975535743  8  6 ccA -     -     -        18400 18400 44000 Jc 9d
+comlink   975535810  7  5 f   -     -     -        44000    0    0 
+comlink   975535855  6  3 c   k     b     -        44000 4800 6400 
+comlink   975535890  6  3 f   -     -     -        45600    0    0 
+comlink   975535933  6  2 B   -     -     -        45600 3200 4800 
+comlink   975535950  6  1 Bf  -     -     -        47200 1600    0 
+comlink   975535973  6  6 f   -     -     -        45600    0    0 
+comlink   975535988  6  5 c   c     -     -        45600 16550    0 9d 9h
+comlink   975536024  5  4 c   f     -     -        29050 3200    0 
+comlink   975536073  5  3 f   -     -     -        25850    0    0 
+comlink   975536094  5  2 Bc  c     -     -        25850 23200 46400 7h 7d
+comlink   975536109  4  1 Bc  b     -     -        49050 36800 51200 
+comlink   975536132  4  4 f   -     -     -        63450    0    0 
+comlink   975536143  4  3 cf  -     -     -        63450 3200    0 
+comlink   975536162  3  2 B   -     -     -        60250 3200 4800 
+comlink   975536176  3  1 Bf  -     -     -        61850 1600    0 
+comlink   975536181  3  3 c   k     b     -        60250 12800 19200 
+comlink   975536220  3  2 B   -     -     -        66650 3200 4800 
+comlink   975536226  3  1 Bc  k     k     b        68250 9600 12800 
+comlink   975536249  3  3 cc  k     k     k        71450 3500    0 Jc 8d
+comlink   975536273  2  1 Bk  kc    k     k        67950 9600 19200 3d 3c
+comlink   975536292  2  1 Bf  -     -     -        77550 1600    0 
+comlink   975536296  2  2 Bk  k     k     f        75950 6400    0 
+comlink   975536317  2  1 Bf  -     -     -        69550 3200    0 
+comlink   975536328  2  2 Bc  b     -     -        66350 57600 76800 
+comlink   975536345  2  1 Bc  k     k     k        85550 6400 12800 6d Jd
+comlink   975536370  2  2 B   -     -     -        91950 6400 9600 
+comlink   975536378  2  1 Bf  -     -     -        95150 3200    0 
+comlink   975536379  2  2 Bk  b     -     -        91950 19200 25600 
+comlink   975536389  2  1 Bf  -     -     -        98350 3200    0 
+comlink   975536391  2  2 B   -     -     -        95150 6400 9600 
+comlink   975536393  2  1 Bc  k     k     k        98350 6400    0 9h Ac
+comlink   975536405  2  2 Bf  -     -     -        91950 6400    0 
+comlink   975536414  2  1 Bc  kc    kc    -        85550 54450    0 8c 7c
+comlink   975536425  2  2 Bk  b     bA    -        31100 31100 62200 Kc 9c
+comlink   975536450  2  1 Bcc kf    -     -        62200 19200    0 
+comlink   975536467  2  2 Bk  k     k     b        43000 19200 25600 
+comlink   975536483  2  1 Bc  k     k     k        49400 6400 12800 9h Ks
+comlink   975536500  2  2 B   -     -     -        55800 6400 9600 
+comlink   975536507  2  1 Br  -     -     -        59000 16000 22400 
+comlink   975536512  2  2 B   -     -     -        65400 6400 9600 
+comlink   975536514  2  1 Bc  k     k     k        68600 6400 12800 Tc Qd
+comlink   975536525  2  2 Bk  k     k     k        75000 6400 6400 Ks 5s
+comlink   975536546  2  1 Bf  -     -     -        75000 3200    0 
+comlink   975536548  2  2 Bk  k     k     f        71800 6400    0 
+comlink   975536564  2  1 Bc  kf    -     -        65400 6400    0 
+comlink   975536578  2  2 Bf  -     -     -        59000 6400    0 
+comlink   975536580  2  1 Bc  k     k     k        52600 6400    0 7c 8s
+comlink   975536605  2  2 Bk  k     k     k        46200 6400    0 9h 3s
+comlink   975536623  2  1 Bf  -     -     -        39800 3200    0 
+comlink   975536625  2  2 Bf  -     -     -        36600 6400    0 
+comlink   975536632  2  1 BrcA -     -     -        30200 30200    0 Ad 9d
+comlink   975593938  9  7 f   -     -     -        10000    0    0 
+comlink   975593981  8  5 f   -     -     -        10000    0    0 
+comlink   975594034  8  5 cc  b     rA    -        10000 10000 18400 
+comlink   975594087  8  4 f   -     -     -        18400    0    0 
+comlink   975594120  8  3 f   -     -     -        18400    0    0 
+comlink   975594141  8  2 Bk  k     k     k        18400  100  250 3s 3d
+comlink   975594180  8  1 Bf  -     -     -        18550   50    0 
+comlink   975594213  7  7 c   b     -     -        18500 1100 1400 
+comlink   975594260  7  6 f   -     -     -        18800    0    0 
+comlink   975594283  7  5 c   k     k     b        18800  550  675 Qs As
+comlink   975594347  7  4 cc  f     -     -        18925  800    0 
+comlink   975594376  7  3 f   -     -     -        18125    0    0 
+comlink   975594427  6  2 Bk  k     k     k        18125  200    0 8s Qh
+comlink   975594478  6  1 Bc  k     k     k        17925  200  200 5h Jh
+comlink   975594520  6  6 f   -     -     -        17925    0    0 
+comlink   975594556  6  5 c   b     k     k        17925 1000 2400 Qd 7h
+comlink   975594602  6  4 f   -     -     -        19325    0    0 
+comlink   975594636  6  3 f   -     -     -        19325    0    0 
+comlink   975594664  6  2 Bk  bc    kc    kc       19325 7800    0 8d 6d
+comlink   975594710  6  1 Bf  -     -     -        11525  200    0 
+comlink   975594745  6  6 c   b     b     -        11325 6450 9600 5c Qc
+comlink   975594794  5  5 c   k     k     f        14475  400    0 
+comlink   975594840  5  4 f   -     -     -        14075    0    0 
+comlink   975594870  5  3 f   -     -     -        14075    0    0 
+comlink   975594894  5  2 Bk  k     k     k        14075  400 1600 Ts Jd
+comlink   975594976  5  1 Bf  -     -     -        15275  200    0 
+comlink   975595004  5  5 f   -     -     -        15075    0    0 
+comlink   975595035  5  4 cc  k     k     b        15075 7400 8400 Qh Ks
+comlink   975595076  5  3 f   -     -     -        16075    0    0 
+comlink   975595105  5  2 Bk  k     k     k        16075  800    0 8s 9d
+comlink   975595142  5  1 Bf  -     -     -        15275  400    0 
+comlink   975595186  5  5 f   -     -     -        14875    0    0 
+comlink   975595213  5  4 cc  rA    -     -        14875 14875 32950 Jh 6h
+comlink   975595240  5  3 f   -     -     -        32950    0    0 
+comlink   975595286  5  2 Bk  k     kf    -        32950  800    0 
+comlink   975595362  5  1 Bf  -     -     -        32150  400    0 
+comlink   975595399  5  5 f   -     -     -        31750    0    0 
+comlink   975595410  5  4 f   -     -     -        31750    0    0 
+comlink   975595423  4  3 cc  k     bc    -        31750 14400 15000 7d Kc
+comlink   975595469  4  2 Bk  kf    -     -        32350 1600    0 
+comlink   975595500  3  1 Bf  -     -     -        30750  800    0 
+comlink   975595509  3  3 f   -     -     -        29950    0    0 
+comlink   975595515  3  2 Bk  k     k     k        29950 1600    0 8h 7c
+comlink   975595550  3  1 Bf  -     -     -        28350  800    0 
+comlink   975595556  3  3 f   -     -     -        27550    0    0 
+comlink   975595576  3  2 Bk  k     k     k        27550 1600 1600 2d 9c
+comlink   975595595  3  1 Bc  k     k     k        27550 1600 4800 3c Kd
+comlink   975595625  3  3 c   f     -     -        30750 1600    0 
+comlink   975595644  3  2 Bk  k     k     k        29150 1600    0 7s Ks
+comlink   975595662  3  1 Bf  -     -     -        27550  800    0 
+comlink   975595684  3  3 c   b     k     k        26750 3600    0 2s Qs
+comlink   975595714  3  2 Bk  k     k     k        23150 1600 4000 9h As
+comlink   975595762  3  1 Bf  -     -     -        25550  800    0 
+comlink   975595784  3  3 c   k     k     k        24750 1600 4000 Ah 3c
+comlink   975595835  3  2 Bk  bf    -     -        27150 8000    0 
+comlink   975595884  3  1 Br  bA    -     -        19150 19150 30350 
+comlink   975595899  3  3 c   k     k     f        30350 3200    0 
+comlink   975595915  3  2 Bk  k     k     k        27150 3200    0 8h Th
+comlink   975595933  3  1 Br  -     -     -        23950 8000 11200 
+comlink   975595941  3  3 r   -     -     -        27150 8000 12800 
+comlink   975595950  3  2 Bc  kf    -     -        31950 11200    0 
+comlink   975595960  3  1 Bc  k     k     k        20750 3200 9600 5d 6h
+comlink   975595989  3  3 f   -     -     -        27150    0    0 
+comlink   975595996  3  2 Bk  k     k     k        27150 3200 6400 9d Ad
+comlink   975596016  3  1 Bc  k     kf    -        30350 3200    0 
+comlink   975596045  3  3 f   -     -     -        27150    0    0 
+comlink   975596057  2  2 B   -     -     -        27150 3200 4800 
+comlink   975596063  2  1 Br  k     k     k        28750 8000 16000 Ks Jc
+comlink   975596087  2  2 B   -     -     -        36750 3200 4800 
+comlink   975596092  2  1 Br  -     -     -        38350 8000 11200 
+comlink   975596097  2  2 B   -     -     -        41550 3200 4800 
+comlink   975596101  2  1 Bf  -     -     -        43150 1600    0 
+comlink   975596103  2  2 Bk  k     k     b        41550 9600 12800 
+comlink   975596118  2  1 Br  k     k     b        44750 24000 32000 
+comlink   975596138  2  2 Bk  c     k     c        52750 28800    0 Jc Qh
+comlink   975596155  2  1 Bf  -     -     -        23950 1600    0 
+comlink   975596161  2  2 B   -     -     -        22350 3200 4800 
+comlink   975596165  2  1 Br  k     bA    -        23950 23950 31950 
+comlink   975596178  2  2 B   -     -     -        31950 3200 4800 
+comlink   975596181  2  1 Bc  k     k     k        33550 3200 6400 4h Qh
+comlink   975596194  2  2 B   -     -     -        36750 6400 9600 
+comlink   975596201  2  1 Bf  -     -     -        39950 3200    0 
+comlink   975596202  2  2 B   -     -     -        36750 6400 9600 
+comlink   975596204  2  1 Bc  b     -     -        39950 19200 25600 
+comlink   975596213  2  2 B   -     -     -        46350 6400 9600 
+comlink   975596216  2  1 Bc  kf    -     -        49550 6400    0 
+comlink   975596224  2  2 Br  -     -     -        43150 16000 22400 
+comlink   975596233  2  1 Bc  k     k     k        49550 6400    0 Qc 5h
+comlink   975596251  2  2 B   -     -     -        43150 6400 9600 
+comlink   975596257  2  1 Bf  -     -     -        46350 3200    0 
+comlink   975596260  2  2 Bk  b     -     -        43150 19200 25600 
+comlink   975596269  2  1 Bc  kf    -     -        49550 6400    0 
+comlink   975596278  2  2 Bk  f     -     -        43150 6400    0 
+comlink   975596286  2  1 Bc  k     k     k        36750 6400    0 Qs 2h
+comlink   975596300  2  2 B   -     -     -        30350 6400 9600 
+comlink   975596305  2  1 Br  bA    -     -        33550 33550 67100 Ad 3s
+comlink   975596322  2  2 Bk  c     c     -        67100 22900 45800 Qc 4c

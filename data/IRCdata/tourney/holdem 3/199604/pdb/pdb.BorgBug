@@ -1,0 +1,1123 @@
+BorgBug   828654692  6  1 Bc  k     k     kf        2000   20    0 
+BorgBug   828654747  6  6 f   -     -     -         1980    0    0 
+BorgBug   828654912  7  7 -   c     -     -         2000   20   70 
+BorgBug   828654992  7  2 Bk  bc    k     kf        2000  250    0 
+BorgBug   828655080  7  1 Bc  kf    -     -         1750   20    0 
+BorgBug   828655114  7  7 f   -     -     -         1730    0    0 
+BorgBug   828655191  7  6 c   b     b     -         1730   90  150 
+BorgBug   828655261  7  5 f   -     -     -         1790    0    0 
+BorgBug   828655383  7  4 c   b     -     -         1790  140  320 
+BorgBug   828655442  7  3 c   k     f     -         1970   40    0 
+BorgBug   828655511  7  2 Bf  -     -     -         1930   40    0 
+BorgBug   828655553  7  1 Bc  k     kf    -         1890   40    0 
+BorgBug   828655638  7  7 c   f     -     -         1850  140    0 
+BorgBug   828655707  7  6 f   -     -     -         1710    0    0 
+BorgBug   828655736  7  5 c   b     -     -         1710  839  700 2d Qd
+BorgBug   828655791  7  4 r   bA    -     -         1571 1571 3957 Ks 6s
+BorgBug   828655843  6  2 f   -     -     -         3957    0    0 
+BorgBug   828655863  5  2 Bk  b     -     -         3957  160  240 
+BorgBug   828655906  5  1 Bc  -     -     -         4037   80  160 
+BorgBug   828655923  5  5 cf  -     -     -         4117   80    0 
+BorgBug   828655952  5  4 f   -     -     -         4037    0    0 
+BorgBug   828655968  5  3 f   -     -     -         4037    0    0 
+BorgBug   828655979  4  2 Br  -     -     -         4037  280  400 
+BorgBug   828656007  4  1 Br  -     -     -         4157  160  240 
+BorgBug   828656025  4  4 f   -     -     -         4237    0    0 
+BorgBug   828656060  4  3 c   b     -     -         4237 1160 1480 
+BorgBug   828656100  4  2 Bf  -     -     -         4557  160    0 
+BorgBug   828656116  4  1 Bf  -     -     -         4397   80    0 
+BorgBug   828656126  4  4 f   -     -     -         4317    0    0 
+BorgBug   828656135  4  3 c   rA    -     -         4317 4317 2567 Kc Kh
+BorgBug   828656170  4  2 BcA -     -     -         2567 2567 2754 7c 5s
+BorgBug   828656198  4  1 BrA -     -     -         2754 2754 2754 As 5c
+BorgBug   828656214  4  4 rA  -     -     -         2754 2754 2994 
+BorgBug   828656231  4  3 rA  -     -     -         2994 2994 6228 Qd 7d
+BorgBug   828656243  4  2 Bc  c     -     -         6228 3340 3851 As 3c
+BorgBug   828656296  3  1 Bc  k     k     k         6739  160  320 2d 2c
+BorgBug   828656334  3  3 f   -     -     -         6899    0    0 
+BorgBug   828656370  3  2 B   -     -     -         6899  320  480 
+BorgBug   828656375  3  1 Bc  k     b     -         7059  640  960 
+BorgBug   828656395  3  3 c   k     b     -         7379  640 1120 
+BorgBug   828656424  3  2 B   -     -     -         7859  320  480 
+BorgBug   828656431  3  1 Bf  -     -     -         8019  160    0 
+BorgBug   828656442  3  3 f   -     -     -         7859    0    0 
+BorgBug   828656446  3  2 Bf  -     -     -         7859  320    0 
+BorgBug   828656457  3  1 Bf  -     -     -         7539  160    0 
+BorgBug   828656462  3  3 c   b     -     -         7379  820 1460 
+BorgBug   828656487  3  2 B   -     -     -         8019  320  480 
+BorgBug   828656494  3  1 Bc  kf    -     -         8179  320    0 
+BorgBug   828656511  3  3 c   k     b     -         7859  720 1360 
+BorgBug   828656579  3  2 B   -     -     -         8499  320  480 
+BorgBug   828656583  3  1 Bf  -     -     -         8659  160    0 
+BorgBug   828656595  3  3 c   r     b     bA        8499 8499 10899 
+BorgBug   828656641  3  2 Bc  -     -     -        10899  690    0 Ts Tc
+BorgBug   828656658  3  1 Bc  -     -     -        10209 2091    0 Ks Ts
+BorgBug   828656671  3  3 f   -     -     -         8118    0    0 
+BorgBug   828656711  3  2 B   -     -     -         8118  640  960 
+BorgBug   828656720  3  1 Bf  -     -     -         8438  320    0 
+BorgBug   828656730  2  2 c   k     b     -         8118 1640 2280 
+BorgBug   828656760  2  2 B   -     -     -         8758  640  960 
+BorgBug   828656763  2  1 Bc  b     k     k         9078 1340 2680 Td Kc
+BorgBug   828656798  2  2 B   -     -     -        10418  640  960 
+BorgBug   828656801  2  1 Bc  b     -     -        10738 1340 1980 
+BorgBug   828656817  2  2 B   -     -     -        11378  640  960 
+BorgBug   828656823  2  1 Bc  kc    b     -        11698 2302 3582 
+BorgBug   828656865  2  2 B   -     -     -        12978  640  960 
+BorgBug   828656870  2  1 Bc  b     -     -        13298 1280 1982 Ts 3c
+BorgBug   828926320  9  6 f   -     -     -         1000    0    0 
+BorgBug   828926388  9  5 cc  kc    kcA   -         1000 1000 1083 Ad Qh
+BorgBug   828926452  9  4 f   -     -     -         1083    0    0 
+BorgBug   828926557  9  3 c   kc    b     -         1083  255  380 
+BorgBug   828926597  9  2 Bk  bf    -     -         1208   30    0 
+BorgBug   828926656  9  1 Bc  kf    -     -         1178   20    0 
+BorgBug   828926696  9  9 f   -     -     -         1158    0    0 
+BorgBug   828926720  9  8 c   k     b     -         1158   50   80 
+BorgBug   828926758  9  7 r   b     -     -         1188  140  240 
+BorgBug   828926806  9  6 c   k     k     c         1288   40  130 7s Ts
+BorgBug   828926860  9  5 cf  -     -     -         1378   20    0 
+BorgBug   828926916  9  4 c   b     b     b         1358  140  310 Kc Ks
+BorgBug   828926997  9  3 cf  -     -     -         1528   40    0 
+BorgBug   828927062  8  2 Bf  -     -     -         1488   40    0 
+BorgBug   828927083  8  1 Bc  b     b     b         1448  290  620 Qc Td
+BorgBug   828927128  8  8 f   -     -     -         1778    0    0 
+BorgBug   828927146  8  7 c   f     -     -         1778   40    0 
+BorgBug   828927170  8  6 f   -     -     -         1738    0    0 
+BorgBug   828927184  8  5 c   kf    -     -         1738   40    0 
+BorgBug   828927216  8  4 f   -     -     -         1698    0    0 
+BorgBug   828927245  8  3 cc  kf    -     -         1698  240    0 
+BorgBug   828927306  8  2 Bc  kf    -     -         1458  160    0 
+BorgBug   828927345  8  1 Bf  -     -     -         1298   40    0 
+BorgBug   828927359  8  8 f   -     -     -         1258    0    0 
+BorgBug   828927427  8  7 f   -     -     -         1258    0    0 
+BorgBug   828927441  8  6 f   -     -     -         1258    0    0 
+BorgBug   828927474  7  4 f   -     -     -         1258    0    0 
+BorgBug   828927498  7  3 f   -     -     -         1258    0    0 
+BorgBug   828927567  7  2 Bc  kf    -     -         1258  160    0 
+BorgBug   828927632  7  1 Bc  k     k     k         1098  160  160 5d Kc
+BorgBug   828927678  7  7 f   -     -     -         1098    0    0 
+BorgBug   828927705  7  6 cf  -     -     -         1098  160    0 
+BorgBug   828927776  7  5 f   -     -     -          938    0    0 
+BorgBug   828927817  7  4 f   -     -     -          938    0    0 
+BorgBug   828927912  7  3 f   -     -     -          938    0    0 
+BorgBug   828927933  7  2 BcA -     -     -          938  938 2036 Ad Ac
+BorgBug   828927993  7  1 Bf  -     -     -         2036  160    0 
+BorgBug   828928042  6  6 f   -     -     -         1876    0    0 
+BorgBug   828928104  6  5 f   -     -     -         1876    0    0 
+BorgBug   828928124  6  4 c   c     k     k         1876  465    0 4s 4d
+BorgBug   828928193  6  3 f   -     -     -         1411    0    0 
+BorgBug   828928214  6  2 Bf  -     -     -         1411  320    0 
+BorgBug   828928238  5  1 BcA -     -     -         1091 1091 2822 Qh Js
+BorgBug   828928261  5  5 f   -     -     -         2822    0    0 
+BorgBug   828928291  4  3 cf  -     -     -         2822  640    0 
+BorgBug   828928321  4  2 Bf  -     -     -         2182  640    0 
+BorgBug   828928341  3  1 Bf  -     -     -         1542  320    0 
+BorgBug   828928374  2  2 c   cA    -     -         1222 1222 1222 Kc Th
+BorgBug   828928670  2  2 BA  -     -     -         1222 1222 2444 9d Ts
+BorgBug   828928683  2  1 Bc  bA    -     -         2444 2444 3724 
+BorgBug   828928713  2  2 B   -     -     -         3724 1280 1920 
+BorgBug   828928729  2  1 Bf  -     -     -         4364  640    0 
+BorgBug   828928737  2  2 B   -     -     -         3724 1280 1920 
+BorgBug   828928747  2  1 Br  -     -     -         4364 2580 3860 
+BorgBug   828928779  2  2 Bf  -     -     -         5644 1280    0 
+BorgBug   828928810  2  1 Bf  -     -     -         4364  640    0 
+BorgBug   828928816  2  2 Bf  -     -     -         3724 1280    0 
+BorgBug   828928833  2  1 Bf  -     -     -         2444  640    0 
+BorgBug   828928838  2  2 BcA -     -     -         1804 1804    0 5h Js
+BorgBug   828929234 10  2 Bk  k     b     b         5000  200  350 
+BorgBug   828929331 10  1 Bc  kf    -     -         5150   50    0 
+BorgBug   828929446 10 10 f   -     -     -         5100    0    0 
+BorgBug   828929475 10  9 c   k     b     bc        5100 2225    0 Qc Js
+BorgBug   828929588 10  8 c   b     b     b         2875  800  875 Ks Ah
+BorgBug   828929662 10  7 f   -     -     -         2950    0    0 
+BorgBug   828929705 10  6 c   kc    kc    k         2950  950 2400 Jd 6d
+BorgBug   828929819 10  5 f   -     -     -         4400    0    0 
+BorgBug   828929860 10  4 c   c     k     k         4400  600    0 9h Ah
+BorgBug   828929934 10  3 f   -     -     -         3800    0    0 
+BorgBug   828930009  9  2 Bk  kf    -     -         3800  200    0 
+BorgBug   828930118  9  1 Bf  -     -     -         3600  100    0 
+BorgBug   828930140  9  9 f   -     -     -         3500    0    0 
+BorgBug   828930176  9  8 f   -     -     -         3500    0    0 
+BorgBug   828930208  9  7 f   -     -     -         3500    0    0 
+BorgBug   828930234  9  6 f   -     -     -         3500    0    0 
+BorgBug   828930324  9  5 c   b     bA    -         3500 3500 5200 
+BorgBug   828930392  9  4 cf  -     -     -         5200  400    0 
+BorgBug   828930421  9  3 f   -     -     -         4800    0    0 
+BorgBug   828930492  9  2 Bk  b     -     -         4800 1300 2500 
+BorgBug   828930539  9  1 Bf  -     -     -         6000  200    0 
+BorgBug   828930562  9  9 f   -     -     -         5800    0    0 
+BorgBug   828930635  9  8 c   bc    bA    -         5800 5800 14750 Kh Kc
+BorgBug   828930702  8  6 f   -     -     -        14750    0    0 
+BorgBug   828930737  6  5 c   b     -     -        14750 2000 3600 
+BorgBug   828930790  6  4 f   -     -     -        16350    0    0 
+BorgBug   828930801  6  3 f   -     -     -        16350    0    0 
+BorgBug   828930824  6  2 Bf  -     -     -        16350  800    0 
+BorgBug   828930841  6  1 Bf  -     -     -        15550  400    0 
+BorgBug   828930862  6  6 cc  -     -     -        15150 3475 7750 Ad Ah
+BorgBug   828930885  5  5 f   -     -     -        19425    0    0 
+BorgBug   828930908  4  3 f   -     -     -        19425    0    0 
+BorgBug   828930927  4  3 f   -     -     -        19425    0    0 
+BorgBug   828930984  4  2 Bc  c     c     -        19425 9800 19600 Kh Ac
+BorgBug   828931024  3  1 Bcf -     -     -        29225  800    0 
+BorgBug   828931049  3  3 c   c     f     -        28425 5600    0 
+BorgBug   828931114  3  2 Bk  kf    -     -        22825 1600    0 
+BorgBug   828931155  3  1 Bf  -     -     -        21225  800    0 
+BorgBug   828931163  3  3 c   k     k     b        20425 3600 6000 
+BorgBug   828931201  3  2 Bk  k     b     bf       22825 4800    0 
+BorgBug   828931251  3  1 Bf  -     -     -        18025  800    0 
+BorgBug   828931262  3  3 f   -     -     -        17225    0    0 
+BorgBug   828931271  3  2 Bf  -     -     -        17225 1600    0 
+BorgBug   828931277  3  1 Bc  k     k     kc       15625 3200    0 Kh 2c
+BorgBug   828931322  3  3 cc  cA    -     -        12425 12425    0 Ad Qs
+BorgBug   828990413 10  1 Bf  -     -     -        10000   25    0 
+BorgBug   828990467 10 10 f   -     -     -         9975    0    0 
+BorgBug   828990520 10  9 c   c     c     k         9975  525 1175 8d Qc
+BorgBug   828990612 10  8 c   f     -     -        10625  225    0 
+BorgBug   828990674 10  7 c   k     c     r        10400 2175 4925 6c Ac
+BorgBug   828990814 10  6 c   k     k     k        13150  100  350 5c 6h
+BorgBug   828990874 10  5 c   kc    kf    -        13400  500    0 
+BorgBug   828991000  9  4 f   -     -     -        12900    0    0 
+BorgBug   828991101  9  3 c   b     b     -        12900 2100 3200 
+BorgBug   828991226  9  2 Bf  -     -     -        14000  200    0 
+BorgBug   828991308  9  1 Bc  b     bc    kc       13800 8550 17675 Kc Qd
+BorgBug   828991373  7  7 c   k     k     b        22925  400  600 
+BorgBug   828991434  7  7 f   -     -     -        23125    0    0 
+BorgBug   828991524  7  6 f   -     -     -        23125    0    0 
+BorgBug   828991583  7  5 f   -     -     -        23125    0    0 
+BorgBug   828991648  7  4 c   k     f     -        23125  400    0 
+BorgBug   828991772  7  3 cc  kc    k     k        22725 6200    0 Jd Js
+BorgBug   828991873  7  2 Bk  k     kf    -        16525  400    0 
+BorgBug   828991950  7  1 Bc  kc    -     -        16125 3025    0 Jh Kd
+BorgBug   828992058  7  7 c   c     f     -        13100 4000    0 
+BorgBug   828992186  7  6 rA  -     -     -         9100 9100    0 Kh As
+BorgBug   829002122  9  9 f   -     -     -          500    0    0 
+BorgBug   829002206  9  8 c   k     k     b          500   60   75 
+BorgBug   829002346  9  7 f   -     -     -          515    0    0 
+BorgBug   829002380  9  6 c   b     b     bc         515  500    0 Ts Jc
+BorgBug   829002479  9  5 cA  -     -     -           15   15    0 6s 5h
+BorgBug   829020883 17  8 f   -     -     -         2500    0    0 
+BorgBug   829021035 16  7 cc  kf    -     -         2500  200    0 
+BorgBug   829021179 16  6 f   -     -     -         2300    0    0 
+BorgBug   829021269 16  5 f   -     -     -         2300    0    0 
+BorgBug   829021367 16  4 f   -     -     -         2300    0    0 
+BorgBug   829021480 16  3 c   k     k     k         2300  100    0 Ad Jc
+BorgBug   829021569 15  2 Bf  -     -     -         2200  100    0 
+BorgBug   829021672 15  1 Bf  -     -     -         2100   50    0 
+BorgBug   829021731 13 13 f   -     -     -         2050    0    0 
+BorgBug   829021872 13 12 c   k     f     -         2050  200    0 
+BorgBug   829021962 13 11 f   -     -     -         1850    0    0 
+BorgBug   829021984 13 10 c   c     rA    -         1850 1850    0 Ad Td
+BorgBug   829608985 14  7 f   -     -     -         3000    0    0 
+BorgBug   829609141 14  6 cc  c     c     f         3000  270    0 
+BorgBug   829609279 14  5 c   k     bc    k         2730  220  740 Ah 8h
+BorgBug   829609382 14  4 f   -     -     -         3250    0    0 
+BorgBug   829609466 14  3 c   kc    kf    -         3250  240    0 
+BorgBug   829609581 13  2 Bc  kf    -     -         3010  130    0 
+BorgBug   829609681 13  1 Bf  -     -     -         2880   20    0 
+BorgBug   829609879 11 11 f   -     -     -         2860    0    0 
+BorgBug   829609994 11 10 c   k     c     f         2860  180    0 
+BorgBug   829610099 11  9 c   f     -     -         2680   80    0 
+BorgBug   829610168 11  8 f   -     -     -         2600    0    0 
+BorgBug   829610248 11  7 c   cA    -     -         2600 2600 8440 Kc Kd
+BorgBug   829610318 11  6 c   k     b     -         8440  360  220 8d Td
+BorgBug   829610406 11  5 f   -     -     -         8300    0    0 
+BorgBug   829610479  9  3 c   k     k     bf        8300  360    0 
+BorgBug   829610630  9  3 f   -     -     -         7940    0    0 
+BorgBug   829610730  9  2 Bf  -     -     -         7940  320    0 
+BorgBug   829610784  8  1 Bf  -     -     -         7620  160    0 
+BorgBug   829610912  8  8 f   -     -     -         7460    0    0 
+BorgBug   829610972  8  7 f   -     -     -         7460    0    0 
+BorgBug   829611001  8  6 c   f     -     -         7460  640    0 
+BorgBug   829611055  8  5 c   k     k     k         6820  640 2240 Qh Tc
+BorgBug   829611190  8  4 c   k     k     f         8420  640    0 
+BorgBug   829611192  8  3 c   rA    -     -         7780 7780 16840 Ks Jh
+BorgBug   829611234  8  2 Bf  -     -     -        16840  640    0 
+BorgBug   829611263  8  1 Bf  -     -     -        16200  320    0 
+BorgBug   829611297  8  8 f   -     -     -        15880    0    0 
+BorgBug   829611359  8  7 f   -     -     -        15880    0    0 
+BorgBug   829611380  8  6 f   -     -     -        15880    0    0 
+BorgBug   829611424  7  4 f   -     -     -        15880    0    0 
+BorgBug   829611453  7  3 f   -     -     -        15880    0    0 
+BorgBug   829611512  7  2 B   -     -     -        15880 1280 1920 
+BorgBug   829611526  7  1 Bf  -     -     -        16520  640    0 
+BorgBug   829611566  5  5 c   -     -     -        15880 1120    0 Kh Th
+BorgBug   829611581  4  4 r   -     -     -        14760 3280 4240 Th Ad
+BorgBug   829611604  3  2 c   k     b     k        15720 3280 6560 Ks Jc
+BorgBug   829611690  3  2 B   -     -     -        19000 1280 1920 
+BorgBug   829611700  3  1 Bc  kf    -     -        19640 3780    0 
+BorgBug   829611733  3  3 c   b     bA    -        15860 15860 21940 7h Ac
+BorgBug   829611782  2  2 B   -     -     -        21940 2560 3840 
+BorgBug   829611803  2  1 Bc  kf    -     -        23220 2560    0 
+BorgBug   829612005  2  2 Bk  c     rA    -        20660 20660 41320 5s 3d
+BorgBug   829612065  2  1 B   -     -     -        41320 1280 1280 9h 5h
+BorgBug   829612066  2  2 B   -     -     -        41320 2560 3240 3c 7d
+BorgBug   829712678  7  7 c   k     c     k         1500   60    0 Td 8d
+BorgBug   829712750  7  6 f   -     -     -         1440    0    0 
+BorgBug   829712770  7  5 f   -     -     -         1440    0    0 
+BorgBug   829712835  6  3 c   kf    -     -         1440   10    0 
+BorgBug   829712931  6  3 c   c     c     f         1430  310    0 
+BorgBug   829713037  6  2 Bk  kf    -     -         1120   20    0 
+BorgBug   829713108  6  1 Bc  kf    -     -         1100   70    0 
+BorgBug   829713150  6  6 c   k     f     -         1030   20    0 
+BorgBug   829713184  6  5 c   f     -     -         1010   20    0 
+BorgBug   829713230  6  4 c   kc    k     bcA        990  990 2160 8h Qh
+BorgBug   829713316  6  3 f   -     -     -         2160    0    0 
+BorgBug   829713378  6  2 Bf  -     -     -         2160   40    0 
+BorgBug   829713400  6  1 Bf  -     -     -         2120   20    0 
+BorgBug   829713428  6  6 f   -     -     -         2100    0    0 
+BorgBug   829713460  6  5 c   f     -     -         2100   40    0 
+BorgBug   829713502  6  4 c   kf    -     -         2060   40    0 
+BorgBug   829713555  6  3 c   k     r     f         2020  240    0 
+BorgBug   829713605  6  2 Bf  -     -     -         1780   40    0 
+BorgBug   829713631  6  1 Bcc kf    -     -         1740   80    0 
+BorgBug   829713681  6  6 f   -     -     -         1660    0    0 
+BorgBug   829713695  6  5 f   -     -     -         1660    0    0 
+BorgBug   829713744  6  4 c   f     -     -         1660   80    0 
+BorgBug   829713799  5  2 cc  krA   -     -         1580 1580    0 As Qc
+BorgBug   830030657  8  8 f   -     -     -          200    0    0 
+BorgBug   830030686  7  6 cf  -     -     -          200    2    0 
+BorgBug   830030737  6  5 r   c     c     k          198   52  108 Ah Kh
+BorgBug   830030803  6  4 cf  -     -     -          254    2    0 
+BorgBug   830030852  6  3 c   kc    k     k          252   10   24 7s 7d
+BorgBug   830030902  6  2 Bc  kc    kcA   -          266  266  533 Jh Js
+BorgBug   830030948  6  1 Bf  -     -     -          533    1    0 
+BorgBug   830030973  5  5 f   -     -     -          532    0    0 
+BorgBug   830031025  5  4 cc  k     k     b          532   43   61 
+BorgBug   830031079  5  3 c   k     k     k          550    4    0 8h Ks
+BorgBug   830031119  5  2 Bk  kf    -     -          546    4    0 
+BorgBug   830031172  5  1 Bc  b     -     -          542   20   32 
+BorgBug   830031207  5  5 f   -     -     -          554    0    0 
+BorgBug   830031227  5  4 c   c     k     f          554   20    0 
+BorgBug   830031287  5  3 c   k     cf    -          534   40    0 
+BorgBug   830031373  5  2 Bk  kf    -     -          494    8    0 
+BorgBug   830031438  5  1 Bf  -     -     -          486    4    0 
+BorgBug   830031481  5  5 c   f     -     -          482    8    0 
+BorgBug   830031512  5  4 f   -     -     -          474    0    0 
+BorgBug   830031545  5  3 c   b     -     -          474   23   39 
+BorgBug   830031572  5  2 Bk  kc    kc    kf         490   28    0 
+BorgBug   830031627  5  1 Bf  -     -     -          462    8    0 
+BorgBug   830031642  5  5 f   -     -     -          454    0    0 
+BorgBug   830031665  5  4 c   f     -     -          454   16    0 
+BorgBug   830031693  5  3 c   cf    -     -          438   32    0 
+BorgBug   830031740  5  2 Bk  b     -     -          406   56   80 
+BorgBug   830031765  5  1 Bf  -     -     -          430    8    0 
+BorgBug   830031800  5  5 c   k     k     k          422   16   56 Qs Kh
+BorgBug   830031836  5  4 c   k     c     b          462  156  320 Tc Qs
+BorgBug   830031874  5  3 c   b     -     -          626   64   96 
+BorgBug   830031909  5  2 Bk  kf    -     -          658   16    0 
+BorgBug   830031932  5  1 Bf  -     -     -          642   16    0 
+BorgBug   830031948  5  5 f   -     -     -          626    0    0 
+BorgBug   830031975  5  4 cf  -     -     -          626   32    0 
+BorgBug   830032009  4  3 c   bc    -     -          594  161  338 Qd Qh
+BorgBug   830032043  3  1 Bc  k     k     b          771  164  228 
+BorgBug   830032077  3  1 Bf  -     -     -          835   16    0 
+BorgBug   830032093  3  3 c   b     -     -          819   72  120 
+BorgBug   830032118  3  2 Bc  f     -     -          867   64    0 
+BorgBug   830032135  3  1 Bf  -     -     -          803   16    0 
+BorgBug   830032142  3  3 f   -     -     -          787    0    0 
+BorgBug   830032152  3  2 Bf  -     -     -          787   32    0 
+BorgBug   830032171  3  1 Bc  k     b     kf         755   82    0 
+BorgBug   830032236  3  3 f   -     -     -          673    0    0 
+BorgBug   830032258  3  2 B   -     -     -          673   64   96 
+BorgBug   830032265  3  1 Bc  kc    -     -          705  128  256 Ac Td
+BorgBug   830032280  2  2 f   -     -     -          833    0    0 
+BorgBug   830032293  2  2 Bk  b     -     -          833  184  248 
+BorgBug   830032308  2  1 Bcf -     -     -          897   64    0 
+BorgBug   830032328  2  2 Bk  f     -     -          833   64    0 
+BorgBug   830032343  2  1 Bc  b     bA    -          769  769  138 Ah 4s
+BorgBug   830032378  2  2 BrA -     -     -          138  138  276 Jc 5c
+BorgBug   830032390  2  1 Bcc kf    -     -          276  128    0 
+BorgBug   830032415  2  2 B   -     -     -          148   64   96 
+BorgBug   830032423  2  1 BrA -     -     -          180  180  244 
+BorgBug   830032434  2  2 Bk  k     bA    -          244  244    0 Th 3d
+BorgBug   830044103  7  4 f   -     -     -         3000    0    0 
+BorgBug   830044185  7  3 f   -     -     -         3000    0    0 
+BorgBug   830044201  7  2 Bf  -     -     -         3000   10    0 
+BorgBug   830044281  6  1 Bc  k     bc    kc        2990  520    0 Js 2h
+BorgBug   830044369  6  6 c   f     -     -         2470   10    0 
+BorgBug   830044400  6  5 f   -     -     -         2460    0    0 
+BorgBug   830044426  6  4 cc  c     bA    -         2460 2460 3100 
+BorgBug   830044473  6  3 c   kf    -     -         3100   20    0 
+BorgBug   830044497  6  2 Bk  kf    -     -         3080   20    0 
+BorgBug   830044525  6  1 Bf  -     -     -         3060   10    0 
+BorgBug   830044571  6  6 c   k     b     -         3050   70  130 
+BorgBug   830044615  6  5 f   -     -     -         3110    0    0 
+BorgBug   830044631  6  4 f   -     -     -         3110    0    0 
+BorgBug   830044637  6  3 cf  -     -     -         3110   20    0 
+BorgBug   830044664  5  2 Bk  k     b     b         3090  150  210 
+BorgBug   830044709  5  1 Bc  k     b     b         3150  260  360 
+BorgBug   830044753  5  5 c   k     k     b         3250   90  200 Tc Qs
+BorgBug   830044786  5  4 c   k     k     b         3360   90  190 
+BorgBug   830044853  5  3 f   -     -     -         3460    0    0 
+BorgBug   830044867  5  2 Bk  k     k     k         3460   40    0 Th 5d
+BorgBug   830044911  5  1 Bc  b     -     -         3420   80  120 
+BorgBug   830045011  5  5 c   k     k     k         3460   40  100 Th 6h
+BorgBug   830045035  5  4 c   c     r     k         3520  240  520 Td Th
+BorgBug   830045078  5  3 f   -     -     -         3800    0    0 
+BorgBug   830045096  5  2 Bk  k     c     b         3800  440  680 
+BorgBug   830045133  5  1 Bf  -     -     -         4040   40    0 
+BorgBug   830045148  5  5 f   -     -     -         4000    0    0 
+BorgBug   830045160  5  4 c   k     k     c         4000  360  840 As Td
+BorgBug   830045193  5  3 f   -     -     -         4480    0    0 
+BorgBug   830045205  5  2 Bc  f     -     -         4480  240    0 
+BorgBug   830045220  5  1 Bf  -     -     -         4240   40    0 
+BorgBug   830045250  5  5 f   -     -     -         4200    0    0 
+BorgBug   830045296  5  4 cc  k     f     -         4200  160    0 
+BorgBug   830045328  5  3 f   -     -     -         4040    0    0 
+BorgBug   830045349  5  2 Bk  k     b     b         4040  280  540 
+BorgBug   830045389  5  1 Bf  -     -     -         4300   80    0 
+BorgBug   830045414  5  5 f   -     -     -         4220    0    0 
+BorgBug   830045421  5  4 f   -     -     -         4220    0    0 
+BorgBug   830045449  5  3 c   k     b     -         4220  360  600 
+BorgBug   830045474  5  2 B   -     -     -         4460  160  240 
+BorgBug   830045483  5  1 Bf  -     -     -         4540   80    0 
+BorgBug   830045517  5  5 c   k     k     k         4460  160    0 5s 6s
+BorgBug   830045559  5  4 f   -     -     -         4300    0    0 
+BorgBug   830045572  5  3 f   -     -     -         4300    0    0 
+BorgBug   830045602  5  2 Bk  k     bf    -         4300  320    0 
+BorgBug   830045656  5  1 Bc  k     k     k         3980  160    0 4d Jd
+BorgBug   830045688  5  5 f   -     -     -         3820    0    0 
+BorgBug   830045703  5  4 f   -     -     -         3820    0    0 
+BorgBug   830045711  5  3 f   -     -     -         3820    0    0 
+BorgBug   830045719  5  2 Bc  c     -     -         3820 1250 2500 Qh Jc
+BorgBug   830045737  4  1 Bf  -     -     -         5070  160    0 
+BorgBug   830045753  4  4 f   -     -     -         4910    0    0 
+BorgBug   830045758  4  3 f   -     -     -         4910    0    0 
+BorgBug   830045779  4  2 Bf  -     -     -         4910  320    0 
+BorgBug   830045794  4  1 Bf  -     -     -         4590  160    0 
+BorgBug   830045803  4  4 f   -     -     -         4430    0    0 
+BorgBug   830045811  4  3 f   -     -     -         4430    0    0 
+BorgBug   830045831  4  2 Bk  k     kc    b         4430 1620    0 8d Ad
+BorgBug   830045862  4  1 Bc  kf    -     -         2810  320    0 
+BorgBug   830045887  4  4 c   k     k     c         2490 1120    0 7c 7s
+BorgBug   830045920  4  3 rA  -     -     -         1370 1370 1850 
+BorgBug   830045933  4  2 BrA -     -     -         1850 1850 3700 Kd Jh
+BorgBug   830045948  4  1 Bf  -     -     -         3700  160    0 
+BorgBug   830045960  4  4 c   b     -     -         3540  720 1200 
+BorgBug   830045986  4  3 f   -     -     -         4020    0    0 
+BorgBug   830045998  4  2 Bk  k     k     k         4020  320  640 3h 4h
+BorgBug   830046037  4  1 Bf  -     -     -         4340  320    0 
+BorgBug   830046049  4  4 f   -     -     -         4020    0    0 
+BorgBug   830046056  4  3 c   k     c     k         4020 1280    0 Kd Js
+BorgBug   830046097  4  2 B   -     -     -         2740  640  960 
+BorgBug   830046104  4  1 BcA -     -     -         3060 3060 9820 Th Ah
+BorgBug   830046136  4  4 f   -     -     -         9820    0    0 
+BorgBug   830046146  4  3 f   -     -     -         9820    0    0 
+BorgBug   830046154  4  2 Bk  k     b     -         9820 1280 1920 
+BorgBug   830046175  4  1 Bf  -     -     -        10460  320    0 
+BorgBug   830046184  4  4 c   b     -     -        10140 1340 2300 
+BorgBug   830046202  4  3 f   -     -     -        11100    0    0 
+BorgBug   830046208  4  2 Bk  k     b     -        11100 1280 1920 
+BorgBug   830046250  4  1 Bc  kf    -     -        11740  640    0 
+BorgBug   830046275  2  2 f   -     -     -        11100    0    0 
+BorgBug   830046286  2  2 Bk  k     b     -        11100 1280 1920 
+BorgBug   830046318  2  1 Bc  k     b     -        11740 1540 2180 
+BorgBug   830046343  2  2 B   -     -     -        12380 1280 1920 
+BorgBug   830046347  2  1 Br  -     -     -        13020 2560 3840 
+BorgBug   830046355  2  2 Bf  -     -     -        14300 1280    0 
+BorgBug   830046359  2  1 Bc  k     k     b        13020 2560 3840 
+BorgBug   830046377  2  2 Bc  c     -     -        14300 6700    0 As Td
+BorgBug   830046428  2  1 Bf  -     -     -         7600  640    0 
+BorgBug   830046436  2  2 B   -     -     -         6960 1280 1920 
+BorgBug   830046438  2  1 Bc  k     b     -         7600 3840 5120 
+BorgBug   830046455  2  2 B   -     -     -         8880 1280 1920 
+BorgBug   830046457  2  1 Bc  kf    -     -         9520 1280    0 
+BorgBug   830046469  2  2 Bf  -     -     -         8240 1280    0 
+BorgBug   830046473  2  1 Bf  -     -     -         6960  640    0 
+BorgBug   830046477  2  2 B   -     -     -         6320 1280 1920 
+BorgBug   830046487  2  1 Bc  k     k     b         6960 2560 3840 
+BorgBug   830046517  2  2 B   -     -     -         8240 1280 1920 
+BorgBug   830046519  2  1 Bf  -     -     -         8880  640    0 
+BorgBug   830046525  2  2 B   -     -     -         8240 1280 1920 
+BorgBug   830046527  2  1 Bc  k     k     bA        8880 8880    0 8d Kd
+BorgBug   830051152  8  4 c   k     c     f         2000  320    0 
+BorgBug   830051269  8  3 f   -     -     -         1680    0    0 
+BorgBug   830051300  8  2 Bk  k     kc    b         1680  670 1420 Kc 5c
+BorgBug   830051452  8  1 Bc  k     bc    kc        2430 1310 4270 Ks Qc
+BorgBug   830051629  7  7 f   -     -     -         5390    0    0 
+BorgBug   830051713  7  6 f   -     -     -         5390    0    0 
+BorgBug   830051768  7  5 cc  f     -     -         5390  340    0 
+BorgBug   830051825  7  4 f   -     -     -         5050    0    0 
+BorgBug   830051864  7  3 c   kf    -     -         5050   40    0 
+BorgBug   830051904  7  2 Bk  f     -     -         5010   40    0 
+BorgBug   830051968  7  1 Bf  -     -     -         4970   40    0 
+BorgBug   830051991  7  7 f   -     -     -         4930    0    0 
+BorgBug   830052042  7  6 cc  k     c     f         4930  360    0 
+BorgBug   830052110  7  5 f   -     -     -         4570    0    0 
+BorgBug   830052129  7  4 c   bc    k     kf        4570  580    0 
+BorgBug   830052245  7  3 c   k     b     k         3990  160    0 3d 9d
+BorgBug   830052313  7  2 Bk  c     f     -         3830  460    0 
+BorgBug   830052389  7  1 Bc  kf    -     -         3370  160    0 
+BorgBug   830052430  7  7 f   -     -     -         3210    0    0 
+BorgBug   830052476  7  6 c   f     -     -         3210  160    0 
+BorgBug   830052526  7  5 f   -     -     -         3050    0    0 
+BorgBug   830052546  6  3 c   f     -     -         3050  160    0 
+BorgBug   830052599  6  2 Bf  -     -     -         2890  160    0 
+BorgBug   830052612  6  1 Bc  kf    -     -         2730  360    0 
+BorgBug   830052665  6  6 f   -     -     -         2370    0    0 
+BorgBug   830052684  6  5 f   -     -     -         2370    0    0 
+BorgBug   830052707  5  3 f   -     -     -         2370    0    0 
+BorgBug   830052742  5  2 Br  b     -     -         2370 2120   30 Qd Qc
+BorgBug   830052780  5  1 Bf  -     -     -          280  160    0 
+BorgBug   830052802  5  5 cA  -     -     -          120  120    0 7h 4h
+BorgBug   830053320 10  7 cf  -     -     -         2000   70    0 
+BorgBug   830053352 10  6 f   -     -     -         1930    0    0 
+BorgBug   830053504 10  5 f   -     -     -         1930    0    0 
+BorgBug   830053519 10  4 f   -     -     -         1930    0    0 
+BorgBug   830053573 10  3 f   -     -     -         1930    0    0 
+BorgBug   830053649 10  2 Bk  kc    brcA  -         1930 1930    0 3c Ad
+BorgBug   830123854  8  2 Bk  kf    -     -         2000   10    0 
+BorgBug   830123942  8  1 Bcc kr    k     kf        1990  150    0 
+BorgBug   830124010  8  8 c   k     k     b         1840   60   80 
+BorgBug   830124055  8  7 r   -     -     -         1860   20   35 
+BorgBug   830124069  8  6 f   -     -     -         1875    0    0 
+BorgBug   830124091  8  5 cc  b     b     kc        1875 1110 2235 8h 9s
+BorgBug   830124175  8  4 c   kc    k     kc        3000  300  630 Js Jc
+BorgBug   830124228  8  3 c   k     b     -         3330   60  130 
+BorgBug   830124259  8  2 Br  b     -     -         3400  100  170 
+BorgBug   830124291  8  1 Bc  kf    -     -         3470   20    0 
+BorgBug   830124327  8  8 c   k     k     k         3450   20    0 3c 6c
+BorgBug   830124373  8  7 c   k     b     -         3430   70  130 
+BorgBug   830124425  8  6 c   c     c     rf        3490  180    0 
+BorgBug   830124482  8  5 c   k     kf    -         3310   40    0 
+BorgBug   830124521  8  4 c   k     b     -         3270   90  150 
+BorgBug   830124542  8  3 cf  -     -     -         3330   40    0 
+BorgBug   830124560  8  2 Bc  kf    -     -         3290   90    0 
+BorgBug   830124592  8  1 Br  b     -     -         3200  120  200 
+BorgBug   830124613  8  8 f   -     -     -         3280    0    0 
+BorgBug   830124631  8  7 f   -     -     -         3280    0    0 
+BorgBug   830124666  8  6 c   f     -     -         3280   40    0 
+BorgBug   830124725  8  5 f   -     -     -         3240    0    0 
+BorgBug   830124742  8  4 c   b     kr    b         3240  880    0 8c Jd
+BorgBug   830124811  8  3 f   -     -     -         2360    0    0 
+BorgBug   830124885  8  2 Bk  kf    -     -         2360   80    0 
+BorgBug   830124917  8  1 Bc  kf    -     -         2280   80    0 
+BorgBug   830124949  8  8 c   k     b     -         2200  280  440 
+BorgBug   830125009  8  7 c   b     -     -         2360  180  300 
+BorgBug   830125028  8  6 c   f     -     -         2480   80    0 
+BorgBug   830125054  8  5 c   k     c     b         2400  280  540 
+BorgBug   830125107  8  4 cf  -     -     -         2660   80    0 
+BorgBug   830125119  8  3 f   -     -     -         2580    0    0 
+BorgBug   830125146  8  2 Bk  kf    -     -         2580  160    0 
+BorgBug   830125170  8  1 Bc  k     k     b         2420  480  640 
+BorgBug   830125211  8  8 c   b     bA    -         2580 2580 3360 
+BorgBug   830125268  8  7 c   b     -     -         3360  560  880 
+BorgBug   830125304  8  6 c   k     k     k         3680  160    0 Kd 9c
+BorgBug   830125334  8  5 c   c     r     b         3520 1260 2680 Qc Js
+BorgBug   830125410  8  4 f   -     -     -         4940    0    0 
+BorgBug   830125429  8  3 c   kf    -     -         4940  320    0 
+BorgBug   830125449  8  2 Bk  kf    -     -         4620  320    0 
+BorgBug   830125480  8  1 Bc  k     b     -         4300  720 1040 
+BorgBug   830125531  8  8 f   -     -     -         4620    0    0 
+BorgBug   830125543  8  7 f   -     -     -         4620    0    0 
+BorgBug   830125555  8  6 f   -     -     -         4620    0    0 
+BorgBug   830125582  8  5 f   -     -     -         4620    0    0 
+BorgBug   830125601  8  4 f   -     -     -         4620    0    0 
+BorgBug   830125624  8  3 f   -     -     -         4620    0    0 
+BorgBug   830125664  8  2 Bc  kc    -     -         4620 1685    0 8c 8h
+BorgBug   830125687  8  1 Bcc kc    -     -         2935 2250 4500 Qh 9c
+BorgBug   830125716  7  7 f   -     -     -         5185    0    0 
+BorgBug   830125768  6  6 f   -     -     -         5185    0    0 
+BorgBug   830125786  6  6 f   -     -     -         5185    0    0 
+BorgBug   830125793  6  5 c   k     k     b         5185 1640 2920 
+BorgBug   830125831  6  4 cf  -     -     -         6465  640    0 
+BorgBug   830125845  6  3 f   -     -     -         5825    0    0 
+BorgBug   830125857  5  1 Bc  kf    -     -         5825 1280    0 
+BorgBug   830125894  5  1 Bf  -     -     -         4545  320    0 
+BorgBug   830125903  5  5 c   k     k     k         4225  640  960 Th Qc
+BorgBug   830125926  5  4 c   -     -     -         4545  640  840 Qs 9s
+BorgBug   830125946  5  3 f   -     -     -         4745    0    0 
+BorgBug   830125963  4  2 B   -     -     -         4745  640  960 
+BorgBug   830125976  4  1 Bf  -     -     -         5065  320    0 
+BorgBug   830126071  4  4 f   -     -     -         4745    0    0 
+BorgBug   830126079  4  3 f   -     -     -         4745    0    0 
+BorgBug   830126085  4  2 Bk  kc    bA    -         4745 4745    0 Ts 3h
+BorgBug   830130547 13  5 cf  -     -     -         1000   25    0 
+BorgBug   830130708 13  4 cc  kc    kc    -          975  460    0 Js Kd
+BorgBug   830130780 13  3 f   -     -     -          515    0    0 
+BorgBug   830130866 13  2 Bk  k     c     rA         515  515    0 6c 6h
+BorgBug   830133239  8  2 Bk  k     kf    -         4500   30    0 
+BorgBug   830133317  8  1 Bc  bc    k     kf        4470  270    0 
+BorgBug   830133389  8  8 f   -     -     -         4200    0    0 
+BorgBug   830133477  8  7 c   b     b     -         4200  180  305 
+BorgBug   830133548  8  6 c   f     -     -         4325  135    0 
+BorgBug   830133627  8  5 c   c     f     -         4190  360    0 
+BorgBug   830133728  8  4 f   -     -     -         3830    0    0 
+BorgBug   830133771  8  3 f   -     -     -         3830    0    0 
+BorgBug   830133807  8  2 Bk  b     b     k         3830  220    0 Ts 9s
+BorgBug   830133897  8  1 Bf  -     -     -         3610   30    0 
+BorgBug   830133952  8  8 f   -     -     -         3580    0    0 
+BorgBug   830133990  8  7 f   -     -     -         3580    0    0 
+BorgBug   830134085  8  6 f   -     -     -         3580    0    0 
+BorgBug   830134156  8  5 c   k     bc    k         3580  900    0 7c 7d
+BorgBug   830134256  8  4 cc  kc    bA    -         2680 2680 6500 Ad 3c
+BorgBug   830134426  8  3 f   -     -     -         6500    0    0 
+BorgBug   830134483  7  2 Bk  kf    -     -         6500  240    0 
+BorgBug   830134556  7  1 Bf  -     -     -         6260  120    0 
+BorgBug   830134620  6  6 f   -     -     -         6140    0    0 
+BorgBug   830134664  6  5 r   b     k     kf        6140  880    0 
+BorgBug   830134776  6  4 f   -     -     -         5260    0    0 
+BorgBug   830134802  6  3 f   -     -     -         5260    0    0 
+BorgBug   830134836  6  2 Bk  kf    -     -         5260  480    0 
+BorgBug   830134934  6  1 Bf  -     -     -         4780  240    0 
+BorgBug   830135001  5  5 f   -     -     -         4540    0    0 
+BorgBug   830135020  5  4 f   -     -     -         4540    0    0 
+BorgBug   830135068  4  2 Bc  b     -     -         4540 1960 3160 
+BorgBug   830135107  4  1 Bf  -     -     -         5740  240    0 
+BorgBug   830135140  4  4 f   -     -     -         5500    0    0 
+BorgBug   830135156  4  3 c   k     k     b         5500 1920 4320 
+BorgBug   830135220  4  2 Bf  -     -     -         7900  960    0 
+BorgBug   830135235  4  1 Bc  kf    -     -         6940  960    0 
+BorgBug   830135275  4  4 f   -     -     -         5980    0    0 
+BorgBug   830135306  4  3 f   -     -     -         5980    0    0 
+BorgBug   830135332  4  2 Bk  b     -     -         5980 1960 3880 
+BorgBug   830135370  4  1 Bf  -     -     -         7900  480    0 
+BorgBug   830135388  4  4 c   rA    -     -         7420 7420 8140 Js Ah
+BorgBug   830135432  4  3 f   -     -     -         8140    0    0 
+BorgBug   830135445  4  2 Bk  b     b     k         8140 2880 6240 4d Th
+BorgBug   830135499  4  1 Bf  -     -     -        11500  960    0 
+BorgBug   830135511  4  4 f   -     -     -        10540    0    0 
+BorgBug   830135522  4  3 cc  k     k     k        10540 3305 10875 As 7d
+BorgBug   830135593  3  2 B   -     -     -        18110 1920 2880 
+BorgBug   830135606  3  1 Bcf -     -     -        19070 1920    0 
+BorgBug   830135626  3  3 f   -     -     -        17150    0    0 
+BorgBug   830135634  3  2 B   -     -     -        17150 1920 2880 
+BorgBug   830135640  3  1 Bf  -     -     -        18110  960    0 
+BorgBug   830135654  3  3 f   -     -     -        17150    0    0 
+BorgBug   830135659  3  2 Bc  -     -     -        17150 5740    0 Ad 6c
+BorgBug   830135672  3  1 Bf  -     -     -        11410  960    0 
+BorgBug   830135685  3  3 f   -     -     -        10450    0    0 
+BorgBug   830135694  3  2 Bf  -     -     -        10450 1920    0 
+BorgBug   830135728  3  1 Bc  b     b     b         8530 7680 13440 
+BorgBug   830135776  3  3 f   -     -     -        14290    0    0 
+BorgBug   830135788  3  2 Bf  -     -     -        14290 1920    0 
+BorgBug   830135796  3  1 Bc  kf    -     -        12370 3840    0 
+BorgBug   830135828  3  3 f   -     -     -         8530    0    0 
+BorgBug   830135833  3  2 B   -     -     -         8530 3840 5760 
+BorgBug   830135840  3  1 Bf  -     -     -        10450 1920    0 
+BorgBug   830135851  3  3 rA  -     -     -         8530 8530 14290 
+BorgBug   830135861  3  2 BrA -     -     -        14290 14290 34300 As Ah
+BorgBug   830135885  2  1 B   -     -     -        34300 1920 1920 9d Ts
+BorgBug   830135886  2  2 B   -     -     -        34300 3840 5540 8d 3s
+BorgBug   830221011 10  8 cf  -     -     -         5000   20    0 
+BorgBug   830221042 10  7 c   k     b     b         4980  120  215 Ad 4c
+BorgBug   830221179 10  6 f   -     -     -         5075    0    0 
+BorgBug   830221243 10  5 c   bf    -     -         5075   50    0 
+BorgBug   830221345  9  4 c   kf    -     -         5025   20    0 
+BorgBug   830221413  9  3 rc  kc    kf    -         5005 1320    0 
+BorgBug   830221531  9  2 Bk  k     kf    -         3685   40    0 
+BorgBug   830221616  9  1 Bf  -     -     -         3645   20    0 
+BorgBug   830221676  9  9 c   f     -     -         3625   40    0 
+BorgBug   830221791  9  8 c   f     -     -         3585   80    0 
+BorgBug   830221868  9  7 cc  kf    -     -         3505  280    0 
+BorgBug   830221951  9  6 c   f     -     -         3225  280    0 
+BorgBug   830222160  8  4 f   -     -     -         2945    0    0 
+BorgBug   830222188  8  3 c   k     kc    b         2945 1560 3000 
+BorgBug   830222315  8  2 Bk  kc    kf    -         4385  560    0 
+BorgBug   830222361  8  1 Bc  k     k     b         3825  660 1640 2d 9s
+BorgBug   830222413  8  8 c   f     -     -         4805  160    0 
+BorgBug   830222496  8  7 c   f     -     -         4645  160    0 
+BorgBug   830222554  8  6 f   -     -     -         4485    0    0 
+BorgBug   830222619  8  5 f   -     -     -         4485    0    0 
+BorgBug   830222676  8  4 cccA -     -     -         4485 4485    0 Kh Qc
+BorgBug   830224678 10  9 f   -     -     -          150    0    0 
+BorgBug   830224759 10  8 f   -     -     -          150    0    0 
+BorgBug   830224808 10  7 c   k     b     kf         150    7    0 
+BorgBug   830224878 10  6 c   kf    -     -          143    2    0 
+BorgBug   830224912 10  5 f   -     -     -          141    0    0 
+BorgBug   830224966 10  4 c   kf    -     -          141    2    0 
+BorgBug   830225013 10  3 c   kc    kf    -          139    8    0 
+BorgBug   830225070 10  2 B   -     -     -          131    4    6 
+BorgBug   830225086 10  1 Bc  kf    -     -          133    4    0 
+BorgBug   830225161 10 10 f   -     -     -          129    0    0 
+BorgBug   830225200 10  9 f   -     -     -          129    0    0 
+BorgBug   830225247  8  7 c   c     k     b          129   46   96 Ad Ac
+BorgBug   830225325  8  7 c   k     b     -          179    9   15 
+BorgBug   830225361  8  6 c   b     k     b          185   38   84 Ad Ts
+BorgBug   830225443  8  5 c   k     k     k          231    8    0 2h 5h
+BorgBug   830225492  8  4 c   k     b     b          223   28    0 Qh 4h
+BorgBug   830225547  8  3 c   k     kc    kf         195   23    0 
+BorgBug   830225603  8  2 Bf  -     -     -          172    8    0 
+BorgBug   830225628  8  1 Bc  k     kc    k          164   24    0 Qs Jd
+BorgBug   830225662  8  8 c   b     -     -          140   18   34 
+BorgBug   830225685  8  7 c   k     k     k          156    8   20 8h Kc
+BorgBug   830225720  8  6 f   -     -     -          168    0    0 
+BorgBug   830225730  8  5 f   -     -     -          168    0    0 
+BorgBug   830225773  8  4 c   f     -     -          168   16    0 
+BorgBug   830225810  8  3 f   -     -     -          152    0    0 
+BorgBug   830225844  8  2 Bc  kcA   -     -          152  152    0 Jc 8c
+BorgBug   830227307  6  5 f   -     -     -          900    0    0 
+BorgBug   830227321  6  4 f   -     -     -          900    0    0 
+BorgBug   830227341  6  3 f   -     -     -          900    0    0 
+BorgBug   830227450  6  2 Bk  k     k     b          900   15    0 Kh 7c
+BorgBug   830227498  6  1 Bc  k     k     kc         885   26    0 5s 2s
+BorgBug   830227540  6  6 f   -     -     -          859    0    0 
+BorgBug   830227552  6  5 c   k     f     -          859    6    0 
+BorgBug   830227598  6  4 f   -     -     -          853    0    0 
+BorgBug   830227635  6  3 f   -     -     -          853    0    0 
+BorgBug   830227712  6  2 Bf  -     -     -          853   12    0 
+BorgBug   830227732  6  1 Bc  k     k     k          841   12   24 Th Kd
+BorgBug   830227776  6  6 f   -     -     -          853    0    0 
+BorgBug   830227795  6  5 f   -     -     -          853    0    0 
+BorgBug   830227805  6  4 f   -     -     -          853    0    0 
+BorgBug   830227820  6  3 f   -     -     -          853    0    0 
+BorgBug   830227836  6  2 Bf  -     -     -          853   12    0 
+BorgBug   830227862  6  1 Bc  k     kf    -          841   12    0 
+BorgBug   830227916  6  6 f   -     -     -          829    0    0 
+BorgBug   830227951  6  5 f   -     -     -          829    0    0 
+BorgBug   830228011  5  4 f   -     -     -          829    0    0 
+BorgBug   830228042  5  3 c   k     b     -          829   54   90 
+BorgBug   830228080  5  2 Bf  -     -     -          865   24    0 
+BorgBug   830228092  5  1 Bf  -     -     -          841   12    0 
+BorgBug   830228113  5  5 c   f     -     -          829   24    0 
+BorgBug   830228138  5  4 c   b     c     c          805  424    0 9h 9c
+BorgBug   830228187  5  3 c   b     -     -          381   74  110 
+BorgBug   830228223  5  2 Bc  krA   -     -          417  417  846 9h Jh
+BorgBug   830228248  5  1 Bf  -     -     -          846   12    0 
+BorgBug   830228276  5  5 f   -     -     -          834    0    0 
+BorgBug   830228327  5  4 c   c     k     k          834  228  528 Qh Qd
+BorgBug   830228402  5  3 c   kf    -     -         1134   48    0 
+BorgBug   830228439  5  2 Bc  k     k     k         1086   96  216 8s Ad
+BorgBug   830228467  5  1 Bc  kf    -     -         1206   48    0 
+BorgBug   830228526  5  5 c   k     b     -         1158  148  220 
+BorgBug   830228566  5  4 f   -     -     -         1230    0    0 
+BorgBug   830228589  5  3 f   -     -     -         1230    0    0 
+BorgBug   830228605  5  2 Bk  f     -     -         1230   96    0 
+BorgBug   830228630  5  1 Bc  kf    -     -         1134   96    0 
+BorgBug   830228677  5  5 f   -     -     -         1038    0    0 
+BorgBug   830228714  5  4 c   c     b     -         1038  392  776 
+BorgBug   830228777  5  3 c   k     f     -         1422   96    0 
+BorgBug   830228802  5  2 Bf  -     -     -         1326   96    0 
+BorgBug   830228826  5  1 Bc  k     kf    -         1230   96    0 
+BorgBug   830228869  5  5 f   -     -     -         1134    0    0 
+BorgBug   830228891  5  4 cc  -     -     -         1134  523    0 7d 7s
+BorgBug   830228907  4  2 c   rA    -     -          611  611 1222 9c Th
+BorgBug   830228941  4  2 Bc  -     -     -         1222  303  351 Td As
+BorgBug   830228960  4  1 Bf  -     -     -         1270   96    0 
+BorgBug   830228977  3  3 f   -     -     -         1174    0    0 
+BorgBug   830228989  3  3 c   c     cA    -         1174 1174    0 Js 8s
+BorgBug   830280031 11  1 Bc  b     b     bf         600  170    0 
+BorgBug   830280146 11 11 c   k     f     -          430   10    0 
+BorgBug   830280211 11 10 f   -     -     -          420    0    0 
+BorgBug   830280287 11  9 c   f     -     -          420   20    0 
+BorgBug   830280349 11  8 c   kf    -     -          400   10    0 
+BorgBug   830280463 11  7 c   cA    -     -          390  390    0 9h Qc
+BorgBug   830292435 16  7 c   kf    -     -         1500   20    0 
+BorgBug   830292636 15  6 f   -     -     -         1480    0    0 
+BorgBug   830292702 15  5 f   -     -     -         1480    0    0 
+BorgBug   830292937 15  4 f   -     -     -         1480    0    0 
+BorgBug   830293000 15  3 c   kf    -     -         1480   40    0 
+BorgBug   830293092 15  2 Bc  bA    -     -         1440 1440 4250 As Ts
+BorgBug   830293260 14  1 Bf  -     -     -         4250   20    0 
+BorgBug   830293338 14 14 f   -     -     -         4230    0    0 
+BorgBug   830293436 14 13 f   -     -     -         4230    0    0 
+BorgBug   830293495 14 12 f   -     -     -         4230    0    0 
+BorgBug   830293544 13 10 f   -     -     -         4230    0    0 
+BorgBug   830293587 13 10 f   -     -     -         4230    0    0 
+BorgBug   830293647 13  9 f   -     -     -         4230    0    0 
+BorgBug   830293746 13  8 f   -     -     -         4230    0    0 
+BorgBug   830293801 12  6 f   -     -     -         4230    0    0 
+BorgBug   830293856 12  5 f   -     -     -         4230    0    0 
+BorgBug   830293926 11  4 f   -     -     -         4230    0    0 
+BorgBug   830293968 11  3 f   -     -     -         4230    0    0 
+BorgBug   830294017 11  2 Bf  -     -     -         4230  160    0 
+BorgBug   830294114 11  1 Bf  -     -     -         4070   80    0 
+BorgBug   830294189 11 11 f   -     -     -         3990    0    0 
+BorgBug   830294277 11 10 f   -     -     -         3990    0    0 
+BorgBug   830294298 11  9 f   -     -     -         3990    0    0 
+BorgBug   830294340 11  8 c   f     -     -         3990  160    0 
+BorgBug   830294399 11  7 f   -     -     -         3830    0    0 
+BorgBug   830294510 11  6 c   kf    -     -         3830  320    0 
+BorgBug   830294607 11  5 f   -     -     -         3510    0    0 
+BorgBug   830294672 10  4 r   -     -     -         3510  820  458 Jh Jd
+BorgBug   830294763 10  3 f   -     -     -         3148    0    0 
+BorgBug   830294851 10  2 Bf  -     -     -         3148  640    0 
+BorgBug   830294893  9  1 Bf  -     -     -         2508  320    0 
+BorgBug   830295005  9  9 f   -     -     -         2188    0    0 
+BorgBug   830295034  9  8 rA  -     -     -         2188 2188    0 Ah Jd
+BorgBug   830370447 11  4 f   -     -     -          600    0    0 
+BorgBug   830370568 11  3 c   k     kf    -          600   10    0 
+BorgBug   830370683 11  2 BQ  -     -     -          590   10    0 
+BorgBug   830457435 10  8 f   -     -     -          599    0    0 
+BorgBug   830457491 10  7 f   -     -     -          599    0    0 
+BorgBug   830457536 10  6 f   -     -     -          599    0    0 
+BorgBug   830457602 10  5 c   bc    k     k          599   12    0 Ac 2s
+BorgBug   830457689 10  4 c   bc    bc    -          587  459 1058 Kc Qd
+BorgBug   830457806  9  3 c   b     b     kf        1186  128    0 
+BorgBug   830457943  9  2 Bk  kc    k     k         1058   40    0 Ks Qc
+BorgBug   830458097  9  1 Bf  -     -     -         1018    4    0 
+BorgBug   830458165  9  9 f   -     -     -         1014    0    0 
+BorgBug   830458181  9  8 f   -     -     -         1014    0    0 
+BorgBug   830458237  9  7 f   -     -     -         1014    0    0 
+BorgBug   830458325  9  6 f   -     -     -         1014    0    0 
+BorgBug   830458421  8  5 f   -     -     -         1014    0    0 
+BorgBug   830458451  8  4 f   -     -     -         1014    0    0 
+BorgBug   830458529  8  3 f   -     -     -         1014    0    0 
+BorgBug   830458652  8  2 Br  b     -     -         1014  184  248 
+BorgBug   830458693  8  1 Bf  -     -     -         1078   16    0 
+BorgBug   830458785  8  8 f   -     -     -         1062    0    0 
+BorgBug   830458822  8  7 c   f     -     -         1062   65    0 
+BorgBug   830458970  8  6 f   -     -     -          997    0    0 
+BorgBug   830459049  7  4 f   -     -     -          997    0    0 
+BorgBug   830459082  6  4 f   -     -     -          997    0    0 
+BorgBug   830459140  6  3 c   r     -     -          997  344  552 
+BorgBug   830459196  6  2 Bk  kf    -     -         1205   64    0 
+BorgBug   830459228  6  1 Bc  kf    -     -         1141   64    0 
+BorgBug   830459314  6  6 c   k     b     b         1077  489  710 
+BorgBug   830459405  6  5 c   c     -     -         1298  503 1102 Jh Ac
+BorgBug   830459443  5  3 f   -     -     -         1897    0    0 
+BorgBug   830459461  5  2 Bf  -     -     -         1897  128    0 
+BorgBug   830459475  5  1 Bc  k     kc    kc        1769  682    0 Qh 6h
+BorgBug   830459554  5  5 f   -     -     -         1087    0    0 
+BorgBug   830459584  5  4 f   -     -     -         1087    0    0 
+BorgBug   830459693  5  3 f   -     -     -         1087    0    0 
+BorgBug   830459724  5  2 Bf  -     -     -         1087  128    0 
+BorgBug   830459796  4  1 Bc  b     -     -          959  384  643 2h 2c
+BorgBug   830459821  3  3 cf  -     -     -         1218  256    0 
+BorgBug   830459861  3  3 f   -     -     -          962    0    0 
+BorgBug   830459871  3  2 Bf  -     -     -          962  256    0 
+BorgBug   830459883  3  1 Bf  -     -     -          706  128    0 
+BorgBug   830459898  3  3 f   -     -     -          578    0    0 
+BorgBug   830459911  3  2 Bf  -     -     -          578  256    0 
+BorgBug   830459931  3  1 Bc  bA    -     -          322  322  578 
+BorgBug   830459971  3  3 f   -     -     -          578    0    0 
+BorgBug   830459987  3  2 B   -     -     -          578  256  384 
+BorgBug   830459999  3  1 Bf  -     -     -          706  128    0 
+BorgBug   830460013  3  3 f   -     -     -          578    0    0 
+BorgBug   830460036  3  2 Bk  f     -     -          578  256    0 
+BorgBug   830460050  3  1 BrA -     -     -          322  322  644 6s 7d
+BorgBug   830460067  3  3 f   -     -     -          644    0    0 
+BorgBug   830460087  3  2 BrA -     -     -          644  644    0 Qh Qs
+BorgBug   830535354  7  2 Bk  k     k     f          500   10    0 
+BorgBug   830535391  7  1 Bf  -     -     -          490    5    0 
+BorgBug   830535431  7  7 f   -     -     -          485    0    0 
+BorgBug   830535455  7  6 f   -     -     -          485    0    0 
+BorgBug   830535515  7  5 f   -     -     -          485    0    0 
+BorgBug   830535534  7  4 f   -     -     -          485    0    0 
+BorgBug   830535585  7  3 f   -     -     -          485    0    0 
+BorgBug   830535619  7  2 Bf  -     -     -          485   10    0 
+BorgBug   830535628  7  1 Bf  -     -     -          475    5    0 
+BorgBug   830535638  7  7 f   -     -     -          470    0    0 
+BorgBug   830535659  7  6 f   -     -     -          470    0    0 
+BorgBug   830535678  7  5 f   -     -     -          470    0    0 
+BorgBug   830535688  7  4 f   -     -     -          470    0    0 
+BorgBug   830535698  7  3 f   -     -     -          470    0    0 
+BorgBug   830535734  7  2 Bf  -     -     -          470   20    0 
+BorgBug   830535751  7  1 Bf  -     -     -          450   10    0 
+BorgBug   830535761  7  7 f   -     -     -          440    0    0 
+BorgBug   830535804  7  6 f   -     -     -          440    0    0 
+BorgBug   830535828  6  5 f   -     -     -          440    0    0 
+BorgBug   830535848  6  4 f   -     -     -          440    0    0 
+BorgBug   830535867  6  3 f   -     -     -          440    0    0 
+BorgBug   830535881  6  2 Bf  -     -     -          440   20    0 
+BorgBug   830535889  6  1 Bf  -     -     -          420   10    0 
+BorgBug   830535909  6  6 f   -     -     -          410    0    0 
+BorgBug   830535917  6  5 f   -     -     -          410    0    0 
+BorgBug   830535923  6  4 f   -     -     -          410    0    0 
+BorgBug   830535931  6  3 f   -     -     -          410    0    0 
+BorgBug   830535962  6  2 Bk  kf    -     -          410   40    0 
+BorgBug   830535978  6  1 Bf  -     -     -          370   20    0 
+BorgBug   830536000  6  6 f   -     -     -          350    0    0 
+BorgBug   830536024  5  4 f   -     -     -          350    0    0 
+BorgBug   830536049  5  4 f   -     -     -          350    0    0 
+BorgBug   830536074  5  3 f   -     -     -          350    0    0 
+BorgBug   830536084  5  2 Bf  -     -     -          350   40    0 
+BorgBug   830536102  4  1 Bf  -     -     -          310   20    0 
+BorgBug   830536135  3  3 r   -     -     -          290  140  180 
+BorgBug   830536152  3  3 r   -     -     -          330  140  200 
+BorgBug   830536160  3  2 Bf  -     -     -          390   40    0 
+BorgBug   830536182  3  1 Br  kf    -     -          350   85    0 
+BorgBug   830536211  3  3 f   -     -     -          265    0    0 
+BorgBug   830536216  3  2 BrcA -     -     -          265  265  550 Kc As
+BorgBug   830536238  3  1 Br  b     -     -          550  440  720 
+BorgBug   830536265  3  3 f   -     -     -          830    0    0 
+BorgBug   830536284  3  2 B   -     -     -          830   80  120 
+BorgBug   830536288  3  1 Bf  -     -     -          870   40    0 
+BorgBug   830536294  3  3 f   -     -     -          830    0    0 
+BorgBug   830536300  3  2 Bf  -     -     -          830   80    0 
+BorgBug   830536313  3  1 Br  -     -     -          750  180  260 
+BorgBug   830536341  3  3 f   -     -     -          830    0    0 
+BorgBug   830564260  9  4 f   -     -     -       250025    0    0 
+BorgBug   830564339  8  2 cc  kf    -     -       250025 4000    0 
+BorgBug   830564482  8  2 Bc  f     -     -       246025 7000    0 
+BorgBug   830564569  8  1 Bc  b     b     k       239025 74000 156000 Kh Jc
+BorgBug   830564652  8  8 c   f     -     -       321025 4000    0 
+BorgBug   830564727  8  7 r   c     c     f       317025 94000    0 
+BorgBug   830564815  8  6 c   b     b     b       223025 88000 188000 7s 7d
+BorgBug   830564890  8  5 cc  bc    -     -       323025 257025 526050 Jh Qc
+BorgBug   830564970  7  4 c   k     k     f       592050 8000    0 
+BorgBug   830565069  7  3 c   k     b     -       584050 88000 120000 
+BorgBug   830565165  7  2 Bk  k     b     -       616050 16000 28000 
+BorgBug   830565219  7  1 Bf  -     -     -       628050 8000    0 
+BorgBug   830565288  7  7 f   -     -     -       620050    0    0 
+BorgBug   830565328  7  6 c   k     k     k       620050 16000 40000 6c Ac
+BorgBug   830565368  7  5 f   -     -     -       644050    0    0 
+BorgBug   830565415  7  4 c   k     k     k       644050 16000    0 2h 2s
+BorgBug   830565506  7  3 f   -     -     -       628050    0    0 
+BorgBug   830565536  7  2 Bf  -     -     -       628050 32000    0 
+BorgBug   830565579  6  1 Bcc kf    -     -       596050 64000    0 
+BorgBug   830565633  6  6 f   -     -     -       532050    0    0 
+BorgBug   830565675  6  5 f   -     -     -       532050    0    0 
+BorgBug   830565805  6  4 f   -     -     -       532050    0    0 
+BorgBug   830565979  6  3 c   c     k     k       532050 110025    0 5d Ad
+BorgBug   830566045  6  2 Bf  -     -     -       422025 64000    0 
+BorgBug   830566081  6  1 Bc  b     kf    -       358025 164000    0 
+BorgBug   830566137  6  6 f   -     -     -       194025    0    0 
+BorgBug   830566200  6  5 f   -     -     -       194025    0    0 
+BorgBug   830566229  6  4 cc  k     k     bA      194025 194025 32000 Kc 8s
+BorgBug   830566300  6  3 f   -     -     -        32000    0    0 
+BorgBug   830566410  6  2 BA  -     -     -        32000 32000 96000 4s 5h
+BorgBug   830566433  6  1 Bf  -     -     -        96000 64000    0 
+BorgBug   830566472  6  6 f   -     -     -        32000    0    0 
+BorgBug   830566502  5  4 cA  -     -     -        32000 32000 64000 2c Ah
+BorgBug   830566554  4  2 f   -     -     -        64000    0    0 
+BorgBug   830566577  3  2 BA  -     -     -        64000 64000    0 Ts 7d
+BorgBug   830723045  7  1 Bc  b     -     -         2000   40   60 
+BorgBug   830723080  7  7 c   k     c     k         2020   50    0 9d Td
+BorgBug   830723127  7  6 f   -     -     -         1970    0    0 
+BorgBug   830723148  7  5 c   f     -     -         1970   20    0 
+BorgBug   830723165  7  4 f   -     -     -         1950    0    0 
+BorgBug   830723182  7  3 c   b     -     -         1950   40   90 
+BorgBug   830723217  7  2 B   -     -     -         2000   20   30 
+BorgBug   830723225  7  1 Bc  k     kc    bc        2010  140    0 4s 3s
+BorgBug   830723317  7  7 f   -     -     -         1870    0    0 
+BorgBug   830723348  7  6 f   -     -     -         1870    0    0 
+BorgBug   830723360  7  5 c   r     b     -         1870  280  480 
+BorgBug   830723401  7  4 cc  kf    -     -         2070  180    0 
+BorgBug   830723429  7  3 f   -     -     -         1890    0    0 
+BorgBug   830723437  7  2 Bk  b     b     b         1890  500 1020 Kd As
+BorgBug   830723470  7  1 Bcc kf    -     -         2410  120    0 
+BorgBug   830723495  7  7 f   -     -     -         2290    0    0 
+BorgBug   830723505  7  6 cf  -     -     -         2290   40    0 
+BorgBug   830723527  7  5 f   -     -     -         2250    0    0 
+BorgBug   830723534  7  4 crc kcA   -     -         2250 2250 4560 9d 9s
+BorgBug   830723573  6  3 c   k     b     -         4560   90  150 
+BorgBug   830723604  6  2 B   -     -     -         4620   40   60 
+BorgBug   830723605  6  1 Bc  b     -     -         4640   80  120 
+BorgBug   830723617  6  6 r   -     -     -         4680   80  140 
+BorgBug   830723622  6  5 r   -     -     -         4740   80  140 
+BorgBug   830723627  6  4 r   -     -     -         4800   80  140 
+BorgBug   830723633  6  3 r   -     -     -         4860   80  140 
+BorgBug   830723639  6  2 B   -     -     -         4920   40   60 
+BorgBug   830723640  6  1 Br  -     -     -         4940   80  120 
+BorgBug   830723649  6  6 r   -     -     -         4980  180  300 
+BorgBug   830723656  6  5 r   -     -     -         5100  180  300 
+BorgBug   830723660  6  4 r   -     -     -         5220  180  300 
+BorgBug   830723667  6  3 r   -     -     -         5340  180  300 
+BorgBug   830723672  6  2 B   -     -     -         5460   80  120 
+BorgBug   830723673  6  1 Br  -     -     -         5500  180  260 
+BorgBug   830723678  6  6 r   -     -     -         5580  180  300 
+BorgBug   830723682  6  5 r   -     -     -         5700  180  300 
+BorgBug   830723685  6  4 r   -     -     -         5820 1080 1200 
+BorgBug   830723691  6  3 r   -     -     -         5940 1080 1200 
+BorgBug   830723697  6  2 B   -     -     -         6060   80  120 
+BorgBug   830723698  6  1 Br  -     -     -         6100  280  360 
+BorgBug   830723704  6  6 r   -     -     -         6180  379  499 
+BorgBug   830723711  6  5 r   -     -     -         6300 2080 2200 
+BorgBug   830723716  6  4 r   -     -     -         6420 4079 4199 
+BorgBug   830723721  6  3 rA  -     -     -         6540 6540 6660 
+BorgBug   830723726  6  2 B   -     -     -         6660   80  120 
+BorgBug   830723727  6  1 Br  -     -     -         6700 3080 3160 
+BorgBug   830723731  6  6 r   -     -     -         6780  479  599 
+BorgBug   830723735  6  5 r   -     -     -         6900  379  499 
+BorgBug   830723740  6  4 r   -     -     -         7020  379  499 
+BorgBug   830723745  6  3 r   -     -     -         7140 1019 1139 
+BorgBug   830723750  6  2 B   -     -     -         7260   80  120 
+BorgBug   830723751  6  1 Br  -     -     -         7300  479  559 
+BorgBug   830723756  6  6 r   -     -     -         7380  479  599 
+BorgBug   830723761  6  5 r   -     -     -         7500  479  599 
+BorgBug   830723766  6  4 r   -     -     -         7620  479  599 
+BorgBug   830723772  6  3 r   -     -     -         7740  579  699 
+BorgBug   830723777  6  2 B   -     -     -         7860   80  120 
+BorgBug   830723778  6  1 Br  -     -     -         7900  579  659 
+BorgBug   830723783  6  6 r   -     -     -         7980  579  699 
+BorgBug   830723788  6  5 r   -     -     -         8100  579  699 
+BorgBug   830723794  6  4 r   -     -     -         8220  579  699 
+BorgBug   830723800  6  3 r   -     -     -         8340  579  699 
+BorgBug   830723803  6  2 B   -     -     -         8460   80  120 
+BorgBug   830723804  6  1 Br  -     -     -         8500  579  659 
+BorgBug   830723810  6  6 r   -     -     -         8580  479  599 
+BorgBug   830723814  6  5 r   -     -     -         8700  579  699 
+BorgBug   830723818  6  4 r   -     -     -         8820  579  699 
+BorgBug   830723822  6  3 r   -     -     -         8940  579  699 
+BorgBug   830723827  6  2 B   -     -     -         9060   80  120 
+BorgBug   830723829  6  1 Br  -     -     -         9100  579  659 
+BorgBug   830723834  6  6 r   -     -     -         9180  579  699 
+BorgBug   830723838  6  5 r   -     -     -         9300  579  699 
+BorgBug   830723842  6  4 r   -     -     -         9420  579  699 
+BorgBug   830723846  6  3 r   -     -     -         9540  579  699 
+BorgBug   830723851  6  2 B   -     -     -         9660   80  120 
+BorgBug   830723852  6  1 Br  -     -     -         9700  579  659 
+BorgBug   830723872  6  6 r   -     -     -         9780  579  699 
+BorgBug   830723876  6  5 r   -     -     -         9900  579  699 
+BorgBug   830723881  6  4 r   -     -     -        10020  579  699 
+BorgBug   830723885  6  3 r   -     -     -        10140  579  699 
+BorgBug   830723889  6  2 B   -     -     -        10260   80  120 
+BorgBug   830723890  6  1 Br  -     -     -        10300  579  659 
+BorgBug   830723894  6  6 r   -     -     -        10380  579  699 
+BorgBug   830723897  6  5 r   -     -     -        10500  579  699 
+BorgBug   830723908  6  4 r   -     -     -        10620  579  699 
+BorgBug   830723909  6  3 r   -     -     -        10740  579  699 
+BorgBug   830723915  6  2 B   -     -     -        10860   80  120 
+BorgBug   830723916  6  1 Br  -     -     -        10900  579  659 
+BorgBug   830723921  6  6 r   -     -     -        10980  579  699 
+BorgBug   830723924  6  5 r   -     -     -        11100  579  699 
+BorgBug   830723927  6  4 r   -     -     -        11220  679  799 
+BorgBug   830723929  6  3 r   -     -     -        11340  579  699 
+BorgBug   830723931  6  2 B   -     -     -        11460   80  120 
+BorgBug   830723932  6  1 Br  -     -     -        11500  579  659 
+BorgBug   830723935  6  6 r   -     -     -        11580  579  699 
+BorgBug   830723937  6  5 r   -     -     -        11700  579  699 
+BorgBug   830723946  6  4 r   -     -     -        11820  579  699 
+BorgBug   830723950  6  3 r   -     -     -        11940  659  899 
+BorgBug   830723956  6  2 B   -     -     -        12180  160  240 
+BorgBug   830723957  6  1 Br  -     -     -        12260  659  819 
+BorgBug   830723961  6  6 r   -     -     -        12420  759  999 
+BorgBug   830723966  6  5 r   -     -     -        12660  659  899 
+BorgBug   830723969  6  4 r   -     -     -        12900  559  799 
+BorgBug   830723973  6  3 r   -     -     -        13140  659  899 
+BorgBug   830723976  6  2 B   -     -     -        13380  160  230 4s Qs
+BorgBug   830723977  5  1 Br  -     -     -        13450  659  819 
+BorgBug   830723981  5  5 r   -     -     -        13610  609  499 3h 6s
+BorgBug   830723983  5  4 r   -     -     -        13500  659  899 
+BorgBug   830723995  5  3 r   -     -     -        13740  659  649 6d 3d
+BorgBug   830724003  4  1 B   -     -     -        13730  160  160 
+BorgBug   830724004  4  1 B   -     -     -        13730   80   50 Kd 3d
+BorgBug   830724005  4  4 r   -     -     -        13700  280  460 Ac 9s
+BorgBug   830724018  2  2 r   -     -     -        13880  280  160 7s Ks
+BorgBug   830724027  2  2 B   -     -     -        13760  160  240 
+BorgBug   830724028  2  1 Br  -     -     -        13840  320  160 5s 7s
+BorgBug   830724034  2  2 B   -     -     -        13680  160  240 
+BorgBug   830724035  2  1 Bc  b     -     -        13760  459  619 
+BorgBug   830724048  2  2 B   -     -     -        13920  160   80 Qd 8s
+BorgBug   830724049  2  1 Bc  -     -     -        13840  160    0 Qc Ac
+BorgBug   830724055  2  2 B   -     -     -        13680  160  240 
+BorgBug   830724056  2  1 Bc  k     b     -        13760  559  719 
+BorgBug   830724066  2  2 B   -     -     -        13920  160   80 Qh 4d
+BorgBug   830724067  2  1 Br  -     -     -        13840  360  200 Jd 2c
+BorgBug   830724077  2  2 B   -     -     -        13680  160  240 
+BorgBug   830724078  2  1 Br  -     -     -        13760  460  620 
+BorgBug   830724083  2  2 B   -     -     -        13920  160   80 Kc 7c
+BorgBug   830724084  2  1 Bc  -     -     -        13840  160  320 9c 3s
+BorgBug   830725026  6  6 f   -     -     -         1500    0    0 
+BorgBug   830725082  6  5 f   -     -     -         1500    0    0 
+BorgBug   830725098  6  4 f   -     -     -         1500    0    0 
+BorgBug   830725134  6  3 f   -     -     -         1500    0    0 
+BorgBug   830725145  6  2 Bk  f     -     -         1500   10    0 
+BorgBug   830725188  6  1 Bf  -     -     -         1490    5    0 
+BorgBug   830725220  6  6 f   -     -     -         1485    0    0 
+BorgBug   830725231  6  5 f   -     -     -         1485    0    0 
+BorgBug   830725271  6  5 f   -     -     -         1485    0    0 
+BorgBug   830725283  5  3 f   -     -     -         1485    0    0 
+BorgBug   830725289  5  2 B   -     -     -         1485   10   15 
+BorgBug   830725297  5  1 Bf  -     -     -         1490    5    0 
+BorgBug   830725330  5  5 f   -     -     -         1485    0    0 
+BorgBug   830725341  5  4 f   -     -     -         1485    0    0 
+BorgBug   830725352  5  3 f   -     -     -         1485    0    0 
+BorgBug   830725373  5  2 Bk  kf    -     -         1485   10    0 
+BorgBug   830725397  5  1 Bf  -     -     -         1475    5    0 
+BorgBug   830725416  5  5 f   -     -     -         1470    0    0 
+BorgBug   830725457  5  4 f   -     -     -         1470    0    0 
+BorgBug   830725492  4  2 Bf  -     -     -         1470   20    0 
+BorgBug   830725511  4  1 Bf  -     -     -         1450   10    0 
+BorgBug   830725544  4  4 f   -     -     -         1440    0    0 
+BorgBug   830725554  4  3 f   -     -     -         1440    0    0 
+BorgBug   830725555  4  2 Bf  -     -     -         1440   20    0 
+BorgBug   830725563  4  1 Bf  -     -     -         1420   10    0 
+BorgBug   830725576  4  4 f   -     -     -         1410    0    0 
+BorgBug   830725601  4  3 f   -     -     -         1410    0    0 
+BorgBug   830725607  4  2 Bf  -     -     -         1410   20    0 
+BorgBug   830725616  4  1 Bf  -     -     -         1390   10    0 
+BorgBug   830725644  4  4 f   -     -     -         1380    0    0 
+BorgBug   830725676  4  3 f   -     -     -         1380    0    0 
+BorgBug   830725688  4  2 Bf  -     -     -         1380   20    0 
+BorgBug   830725694  4  1 Bf  -     -     -         1360   10    0 
+BorgBug   830725721  4  4 f   -     -     -         1350    0    0 
+BorgBug   830725748  4  3 f   -     -     -         1350    0    0 
+BorgBug   830725771  4  2 Bf  -     -     -         1350   20    0 
+BorgBug   830725778  4  1 Bf  -     -     -         1330   10    0 
+BorgBug   830725792  4  4 f   -     -     -         1320    0    0 
+BorgBug   830725809  4  3 f   -     -     -         1320    0    0 
+BorgBug   830725821  4  2 Bf  -     -     -         1320   40    0 
+BorgBug   830725845  3  1 Bf  -     -     -         1280   20    0 
+BorgBug   830725846  3  3 f   -     -     -         1260    0    0 
+BorgBug   830725855  3  2 Bf  -     -     -         1260   40    0 
+BorgBug   830725861  3  1 Bf  -     -     -         1220   20    0 
+BorgBug   830725862  3  3 f   -     -     -         1200    0    0 
+BorgBug   830725869  3  2 Bf  -     -     -         1200   40    0 
+BorgBug   830725876  3  1 Bf  -     -     -         1160   20    0 
+BorgBug   830725877  3  3 f   -     -     -         1140    0    0 
+BorgBug   830725891  3  2 Bf  -     -     -         1140   40    0 
+BorgBug   830725896  3  1 Bf  -     -     -         1100   20    0 
+BorgBug   830725897  3  3 f   -     -     -         1080    0    0 
+BorgBug   830725907  3  2 Bf  -     -     -         1080   40    0 
+BorgBug   830725912  3  1 Bf  -     -     -         1040   20    0 
+BorgBug   830725913  3  3 f   -     -     -         1020    0    0 
+BorgBug   830725918  3  2 Bf  -     -     -         1020   40    0 
+BorgBug   830725923  3  1 Bf  -     -     -          980   20    0 
+BorgBug   830725924  3  3 f   -     -     -          960    0    0 
+BorgBug   830725932  3  2 Bf  -     -     -          960   40    0 
+BorgBug   830725936  3  1 Bf  -     -     -          920   20    0 
+BorgBug   830725937  3  3 f   -     -     -          900    0    0 
+BorgBug   830725944  3  2 Bf  -     -     -          900   40    0 
+BorgBug   830725947  3  1 Bf  -     -     -          860   20    0 
+BorgBug   830725948  3  3 f   -     -     -          840    0    0 
+BorgBug   830725955  3  2 Bf  -     -     -          840   40    0 
+BorgBug   830725959  3  1 Bf  -     -     -          800   20    0 
+BorgBug   830725960  3  3 f   -     -     -          780    0    0 
+BorgBug   830725968  3  2 Bf  -     -     -          780   40    0 
+BorgBug   830725971  3  1 Bf  -     -     -          740   20    0 
+BorgBug   830725972  3  3 f   -     -     -          720    0    0 
+BorgBug   830725979  3  2 Bf  -     -     -          720   40    0 
+BorgBug   830725984  3  1 Bf  -     -     -          680   20    0 
+BorgBug   830725985  3  3 f   -     -     -          660    0    0 
+BorgBug   830725991  3  2 Bf  -     -     -          660   40    0 
+BorgBug   830725998  3  1 Bf  -     -     -          620   20    0 
+BorgBug   830725999  3  3 f   -     -     -          600    0    0 
+BorgBug   830726007  3  2 Bf  -     -     -          600   40    0 
+BorgBug   830726011  3  1 Bf  -     -     -          560   20    0 
+BorgBug   830726012  3  3 f   -     -     -          540    0    0 
+BorgBug   830726019  3  2 Bf  -     -     -          540   40    0 
+BorgBug   830726023  3  1 Bf  -     -     -          500   20    0 
+BorgBug   830726024  3  3 f   -     -     -          480    0    0 
+BorgBug   830726031  3  2 Bf  -     -     -          480   40    0 
+BorgBug   830726036  3  1 Bf  -     -     -          440   20    0 
+BorgBug   830726037  3  3 f   -     -     -          420    0    0 
+BorgBug   830726043  3  2 Bf  -     -     -          420   40    0 
+BorgBug   830726047  3  1 Bf  -     -     -          380   20    0 
+BorgBug   830726048  3  3 f   -     -     -          360    0    0 
+BorgBug   830726054  3  2 Bf  -     -     -          360   40    0 
+BorgBug   830726058  3  1 Bf  -     -     -          320   20    0 
+BorgBug   830726059  3  3 f   -     -     -          300    0    0 
+BorgBug   830726066  3  2 Bf  -     -     -          300   40    0 
+BorgBug   830726070  3  1 Bf  -     -     -          260   20    0 
+BorgBug   830726071  3  3 f   -     -     -          240    0    0 
+BorgBug   830726079  3  2 Bf  -     -     -          240   40    0 
+BorgBug   830726082  3  1 Bf  -     -     -          200   20    0 
+BorgBug   830726083  3  3 f   -     -     -          180    0    0 
+BorgBug   830726090  3  2 Bf  -     -     -          180   40    0 
+BorgBug   830726095  3  1 Bf  -     -     -          140   20    0 
+BorgBug   830726097  3  3 f   -     -     -          120    0    0 
+BorgBug   830726103  3  2 Bf  -     -     -          120   40    0 
+BorgBug   830726107  3  1 Bf  -     -     -           80   20    0 
+BorgBug   830726108  3  3 f   -     -     -           60    0    0 
+BorgBug   830726114  3  2 Bf  -     -     -           60   40    0 
+BorgBug   830726119  3  1 BA  -     -     -           20   20    0 6c 4s
+BorgBug   830820465 10 10 c   k     k     f         2000   20    0 
+BorgBug   830820530 10  9 f   -     -     -         1980    0    0 
+BorgBug   830820554 10  8 f   -     -     -         1980    0    0 
+BorgBug   830820596 10  7 f   -     -     -         1980    0    0 
+BorgBug   830820728 10  6 c   kf    -     -         1980   20    0 
+BorgBug   830820843 10  5 c   k     f     -         1960   40    0 
+BorgBug   830820937 10  4 f   -     -     -         1920    0    0 
+BorgBug   830821023 10  3 cc  kf    -     -         1920  540    0 
+BorgBug   830821145 10  2 Bf  -     -     -         1380   40    0 
+BorgBug   830821201  8  1 Bc  k     kf    -         1340   40    0 
+BorgBug   830821276  8  8 c   c     k     k         1300  360    0 Ac 7d
+BorgBug   830821352  8  7 c   k     bf    -          940  180    0 
+BorgBug   830821415  8  6 f   -     -     -          760    0    0 
+BorgBug   830821516  8  5 f   -     -     -          760    0    0 
+BorgBug   830821598  8  4 f   -     -     -          760    0    0 
+BorgBug   830821619  8  3 c   k     f     -          760   80    0 
+BorgBug   830821651  8  2 Bf  -     -     -          680   80    0 
+BorgBug   830821732  8  1 Bc  kf    -     -          600  160    0 
+BorgBug   830821785  8  8 rA  -     -     -          440  440    0 As Qc

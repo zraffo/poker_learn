@@ -1,0 +1,530 @@
+carenbon  981830429 10  7 f   -     -     -        10000    0    0 
+carenbon  981830520 10  6 f   -     -     -        10000    0    0 
+carenbon  981830586 10  5 r   b     -     -        10000 1175 1900 
+carenbon  981830638 10  4 f   -     -     -        10725    0    0 
+carenbon  981830690 10  3 f   -     -     -        10725    0    0 
+carenbon  981830782 10  2 Bk  kf    -     -        10725   50    0 
+carenbon  981830904 10  1 Bf  -     -     -        10675   50    0 
+carenbon  981831003 10 10 f   -     -     -        10625    0    0 
+carenbon  981831108 10  9 f   -     -     -        10625    0    0 
+carenbon  981831155 10  8 f   -     -     -        10625    0    0 
+carenbon  981831201 10  7 f   -     -     -        10625    0    0 
+carenbon  981831283 10  6 f   -     -     -        10625    0    0 
+carenbon  981831359 10  5 c   bc    kcA   -        10625 10625 11125 5s As
+carenbon  981831433 10  4 f   -     -     -        11125    0    0 
+carenbon  981831496 10  3 f   -     -     -        11125    0    0 
+carenbon  981831532 10  2 Bf  -     -     -        11125  200    0 
+carenbon  981831623  9  1 Bf  -     -     -        10925  100    0 
+carenbon  981831668  9  9 f   -     -     -        10825    0    0 
+carenbon  981831706  9  8 rc  -     -     -        10825 5400 11400 Kc Ks
+carenbon  981831752  8  6 f   -     -     -        16825    0    0 
+carenbon  981831826  8  5 f   -     -     -        16825    0    0 
+carenbon  981831873  8  4 f   -     -     -        16825    0    0 
+carenbon  981831918  8  3 f   -     -     -        16825    0    0 
+carenbon  981831997  8  2 Bf  -     -     -        16825  400    0 
+carenbon  981832034  8  1 Bc  k     k     kf       16425  800    0 
+carenbon  981832156  7  7 f   -     -     -        15625    0    0 
+carenbon  981832202  7  7 f   -     -     -        15625    0    0 
+carenbon  981832235  7  6 f   -     -     -        15625    0    0 
+carenbon  981832261  7  5 f   -     -     -        15625    0    0 
+carenbon  981832308  6  3 f   -     -     -        15625    0    0 
+carenbon  981832350  6  3 c   k     f     -        15625  800    0 
+carenbon  981832398  6  2 Bf  -     -     -        14825 1600    0 
+carenbon  981832457  6  1 Bf  -     -     -        13225  800    0 
+carenbon  981832479  6  6 f   -     -     -        12425    0    0 
+carenbon  981832518  6  5 f   -     -     -        12425    0    0 
+carenbon  981832571  6  4 r   -     -     -        12425 5600 8000 
+carenbon  981832589  6  3 c   k     k     b        14825 6400 9600 
+carenbon  981832637  6  2 BrA -     -     -        18025 18025 33275 Ad Ah
+carenbon  981832677  5  1 Bf  -     -     -        33275  800    0 
+carenbon  981832717  5  5 f   -     -     -        32475    0    0 
+carenbon  981832752  5  4 f   -     -     -        32475    0    0 
+carenbon  981832761  5  3 f   -     -     -        32475    0    0 
+carenbon  981832777  5  2 Bk  kf    -     -        32475 3200    0 
+carenbon  981832805  5  1 Bc  kf    -     -        29275 3200    0 
+carenbon  981832833  5  5 f   -     -     -        26075    0    0 
+carenbon  981832854  5  4 f   -     -     -        26075    0    0 
+carenbon  981832860  5  3 f   -     -     -        26075    0    0 
+carenbon  981832898  4  2 Bc  bA    -     -        26075 26075 35675 
+carenbon  981832936  4  1 Bf  -     -     -        35675 1600    0 
+carenbon  981832944  4  4 f   -     -     -        34075    0    0 
+carenbon  981832958  3  2 f   -     -     -        34075    0    0 
+carenbon  981832974  3  2 B   -     -     -        34075 3200 4800 
+carenbon  981832981  3  1 Bf  -     -     -        35675 1600    0 
+carenbon  981832987  3  3 f   -     -     -        34075    0    0 
+carenbon  981833025  3  2 B   -     -     -        34075 3200 4800 
+carenbon  981833030  3  1 Bf  -     -     -        35675 1600    0 
+carenbon  981833039  3  3 f   -     -     -        34075    0    0 
+carenbon  981833047  3  2 B   -     -     -        34075 3200 4800 
+carenbon  981833053  3  1 Bcc k     k     k        35675 9600 19200 Qd Jd
+carenbon  981833079  3  3 f   -     -     -        45275    0    0 
+carenbon  981833096  3  2 Bc  -     -     -        45275 8775 20750 Kc Qc
+carenbon  981833118  2  1 Bf  -     -     -        57250 1600    0 
+carenbon  981833125  2  2 B   -     -     -        55650 6400 9600 
+carenbon  981833129  2  1 Bf  -     -     -        58850 3200    0 
+carenbon  981833132  2  2 B   -     -     -        55650 6400 9600 
+carenbon  981833136  2  1 Bf  -     -     -        58850 3200    0 
+carenbon  981833145  2  2 Bf  -     -     -        55650 6400    0 
+carenbon  981833152  2  1 Bf  -     -     -        49250 3200    0 
+carenbon  981833154  2  2 B   -     -     -        46050 6400 9600 
+carenbon  981833159  2  1 Bf  -     -     -        49250 3200    0 
+carenbon  981833161  2  2 Bk  f     -     -        46050 6400    0 
+carenbon  981833173  2  1 Bf  -     -     -        39650 3200    0 
+carenbon  981833175  2  2 Bk  b     -     -        36450 19200 25600 
+carenbon  981833189  2  1 Bf  -     -     -        42850 3200    0 
+carenbon  981833196  2  2 Bk  f     -     -        39650 6400    0 
+carenbon  981833206  2  1 Bf  -     -     -        33250 3200    0 
+carenbon  981833209  2  2 B   -     -     -        30050 6400 9600 
+carenbon  981833213  2  1 Bf  -     -     -        33250 3200    0 
+carenbon  981833215  2  2 B   -     -     -        30050 6400 9600 
+carenbon  981833218  2  1 Bf  -     -     -        33250 3200    0 
+carenbon  981833223  2  2 Bk  k     k     k        30050 6400    0 3d Jc
+carenbon  981833248  2  1 Bf  -     -     -        23650 3200    0 
+carenbon  981833257  2  2 Br  -     -     -        20450 19200 25600 
+carenbon  981833268  2  1 Bf  -     -     -        26850 3200    0 
+carenbon  981833274  2  2 Bk  c     cA    -        23650 23650 47300 Ks Qh
+carenbon  981833293  2  1 Bf  -     -     -        47300 3200    0 
+carenbon  981833298  2  2 Bk  f     -     -        44100 6400    0 
+carenbon  981833312  2  1 Bf  -     -     -        37700 3200    0 
+carenbon  981833319  2  2 B   -     -     -        34500 6400 9600 
+carenbon  981833323  2  1 Bf  -     -     -        37700 3200    0 
+carenbon  981833328  2  2 Bk  k     f     -        34500 6400    0 
+carenbon  981833350  2  1 Bf  -     -     -        28100 3200    0 
+carenbon  981833354  2  2 Bk  f     -     -        24900 6400    0 
+carenbon  981833370  2  1 Bf  -     -     -        18500 3200    0 
+carenbon  981833371  2  2 B   -     -     -        15300 6400 9600 
+carenbon  981833375  2  1 Bf  -     -     -        18500 3200    0 
+carenbon  981833377  2  2 Bk  bA    -     -        15300 15300 21700 
+carenbon  981833397  2  1 Bf  -     -     -        21700 3200    0 
+carenbon  981833400  2  2 BcA -     -     -        18500 18500 18500 Qh As
+carenbon  981833406  2  1 Bc  k     k     k        18500 6400 12800 Qs Kc
+carenbon  981833443  2  2 B   -     -     -        24900 6400 9600 
+carenbon  981833450  2  1 Bf  -     -     -        28100 3200    0 
+carenbon  981833455  2  2 B   -     -     -        24900 6400 9600 
+carenbon  981833459  2  1 Bf  -     -     -        28100 3200    0 
+carenbon  981833462  2  2 B   -     -     -        24900 6400 9600 
+carenbon  981833465  2  1 Bf  -     -     -        28100 3200    0 
+carenbon  981833469  2  2 Bk  f     -     -        24900 6400    0 
+carenbon  981833486  2  1 Bf  -     -     -        18500 6400    0 
+carenbon  981833490  2  2 BA  -     -     -        12100 12100    0 3d 2d
+carenbon  981833767 12 10 f   -     -     -        10000    0    0 
+carenbon  981833853 12  9 c   k     k     k        10000  100  150 Ah 4c
+carenbon  981833918 12  8 c   c     f     -        10050  850    0 
+carenbon  981834001 11  6 cc  kf    -     -         9200  550    0 
+carenbon  981834064 11  5 f   -     -     -         8650    0    0 
+carenbon  981834214 11  4 c   kf    -     -         8650  200    0 
+carenbon  981834341 11  3 f   -     -     -         8450    0    0 
+carenbon  981834464 11  2 Bc  kf    -     -         8450  900    0 
+carenbon  981834566 10  1 Bf  -     -     -         7550  100    0 
+carenbon  981834669 10 10 f   -     -     -         7450    0    0 
+carenbon  981834769 10  9 f   -     -     -         7450    0    0 
+carenbon  981834843 10  8 f   -     -     -         7450    0    0 
+carenbon  981834921 10  7 f   -     -     -         7450    0    0 
+carenbon  981834956 10  6 f   -     -     -         7450    0    0 
+carenbon  981834997 10  5 f   -     -     -         7450    0    0 
+carenbon  981835046 10  4 f   -     -     -         7450    0    0 
+carenbon  981835129 10  3 f   -     -     -         7450    0    0 
+carenbon  981835208 10  2 Bk  kf    -     -         7450  800    0 
+carenbon  981835256 10  1 Bf  -     -     -         6650  400    0 
+carenbon  981835303 10 10 f   -     -     -         6250    0    0 
+carenbon  981835399 10  9 f   -     -     -         6250    0    0 
+carenbon  981835458 10  8 f   -     -     -         6250    0    0 
+carenbon  981835503 10  7 f   -     -     -         6250    0    0 
+carenbon  981835570  9  5 f   -     -     -         6250    0    0 
+carenbon  981835613  7  4 f   -     -     -         6250    0    0 
+carenbon  981835675  7  3 f   -     -     -         6250    0    0 
+carenbon  981835712  7  2 Bf  -     -     -         6250 1600    0 
+carenbon  981835731  7  1 Bf  -     -     -         4650  800    0 
+carenbon  981835797  6  6 f   -     -     -         3850    0    0 
+carenbon  981835824  6  6 f   -     -     -         3850    0    0 
+carenbon  981835872  6  5 f   -     -     -         3850    0    0 
+carenbon  981835937  6  4 f   -     -     -         3850    0    0 
+carenbon  981835963  6  3 f   -     -     -         3850    0    0 
+carenbon  981835995  6  2 Bk  k     k     kf        3850 3200    0 
+carenbon  981836081  6  1 BA  -     -     -          650  650 2600 7d 8d
+carenbon  981836113  6  6 f   -     -     -         2600    0    0 
+carenbon  981836134  5  5 f   -     -     -         2600    0    0 
+carenbon  981836208  5  4 f   -     -     -         2600    0    0 
+carenbon  981836249  4  2 BA  -     -     -         2600 2600 7800 Qc Kc
+carenbon  981836269  4  1 Bf  -     -     -         7800 3200    0 
+carenbon  981836303  4  4 f   -     -     -         4600    0    0 
+carenbon  981836313  4  3 f   -     -     -         4600    0    0 
+carenbon  981836349  4  2 BA  -     -     -         4600 4600    0 9d Td
+carenbon  982071261  5  3 f   -     -     -        10000    0    0 
+carenbon  982071298  5  2 Bk  k     kf    -        10000   50    0 
+carenbon  982071355  5  1 Bc  kf    -     -         9950   50    0 
+carenbon  982071381  5  5 f   -     -     -         9900    0    0 
+carenbon  982071408  5  4 f   -     -     -         9900    0    0 
+carenbon  982071535  5  3 cc  k     k     k         9900  100    0 2c Kc
+carenbon  982071601  5  2 Bk  k     b     -         9800  175  250 
+carenbon  982071638  5  1 Bf  -     -     -         9875   50    0 
+carenbon  982071647  5  5 c   b     -     -         9825  350  500 
+carenbon  982071671  5  4 cc  c     k     f         9975 2500    0 
+carenbon  982071724  5  3 f   -     -     -         7475    0    0 
+carenbon  982071780  5  2 Br  b     k     bA        7475 7475 10525 
+carenbon  982071887  5  1 Bcc k     b     -        10525 1650 2200 
+carenbon  982071955  5  5 f   -     -     -        11075    0    0 
+carenbon  982072037  5  4 f   -     -     -        11075    0    0 
+carenbon  982072063  5  3 cc  b     -     -        11075 4200 6400 
+carenbon  982072095  5  2 Bk  k     k     b        13275  700 1000 
+carenbon  982072149  5  1 Bc  k     k     kf       13575  200    0 
+carenbon  982072207  5  5 cc  f     -     -        13375  650    0 
+carenbon  982072280  5  4 f   -     -     -        12725    0    0 
+carenbon  982072290  5  3 c   kf    -     -        12725  200    0 
+carenbon  982072340  4  1 Bk  kc    kf    -        12525  600    0 
+carenbon  982072399  4  1 Br  b     kc    -        11925 11125 28650 Jd Jh
+carenbon  982072468  3  3 f   -     -     -        29450    0    0 
+carenbon  982072478  3  3 f   -     -     -        29450    0    0 
+carenbon  982072529  3  2 Bk  k     k     k        29450  400 1000 4h 3c
+carenbon  982072565  3  1 Bc  k     k     k        30050 1400    0 5s Ah
+carenbon  982072697  3  3 f   -     -     -        28650    0    0 
+carenbon  982072731  3  2 Bf  -     -     -        28650  400    0 
+carenbon  982072738  3  1 Bf  -     -     -        28250  200    0 
+carenbon  982072751  3  3 f   -     -     -        28050    0    0 
+carenbon  982072760  3  2 Bf  -     -     -        28050  400    0 
+carenbon  982072791  3  1 Bf  -     -     -        27650  400    0 
+carenbon  982072804  3  3 f   -     -     -        27250    0    0 
+carenbon  982072860  3  2 Bk  k     b     k        27250 2800 6000 Qs Th
+carenbon  982072880  3  1 Bc  k     kf    -        30450 2800    0 
+carenbon  982072933  3  3 c   k     k     k        27650  800    0 7d 6d
+carenbon  982072968  3  2 Bk  kf    -     -        26850  800    0 
+carenbon  982072985  3  1 Bf  -     -     -        26050  400    0 
+carenbon  982073004  3  3 f   -     -     -        25650    0    0 
+carenbon  982073033  3  2 Bf  -     -     -        25650  800    0 
+carenbon  982073045  3  1 Bf  -     -     -        24850  400    0 
+carenbon  982073055  3  3 r   -     -     -        24450 2800 4000 
+carenbon  982073065  3  2 Bk  kf    -     -        25650  800    0 
+carenbon  982073094  3  1 Bf  -     -     -        24850  400    0 
+carenbon  982073098  3  3 f   -     -     -        24450    0    0 
+carenbon  982073126  3  2 Bc  k     c     c        24450 21600    0 Jd Js
+carenbon  982073147  3  1 Bc  bA    -     -         2850 2850 8550 8s 8d
+carenbon  982073180  3  3 c   k     bcA   -         8550 8550    0 Ks 5s
+carenbon  982242193  5  5 f   -     -     -         5000    0    0 
+carenbon  982242237  5  4 f   -     -     -         5000    0    0 
+carenbon  982242247  5  3 f   -     -     -         5000    0    0 
+carenbon  982242260  5  2 Bk  k     k     k         5000  200    0 4c Kc
+carenbon  982242279  5  1 Bf  -     -     -         4800  100    0 
+carenbon  982242315  5  5 f   -     -     -         4700    0    0 
+carenbon  982242335  4  3 f   -     -     -         4700    0    0 
+carenbon  982242350  4  2 Bf  -     -     -         4700  200    0 
+carenbon  982242362  3  1 Bf  -     -     -         4500  100    0 
+carenbon  982242372  3  3 c   b     -     -         4400  800 1200 
+carenbon  982242385  3  2 Br  b     -     -         4800 2200 3000 
+carenbon  982242398  3  1 Bf  -     -     -         5600  100    0 
+carenbon  982242401  3  3 f   -     -     -         5500    0    0 
+carenbon  982242407  3  2 Bk  kf    -     -         5500  200    0 
+carenbon  982242417  3  1 Bc  k     k     k         5300  200  400 9h Kh
+carenbon  982242430  3  3 f   -     -     -         5500    0    0 
+carenbon  982242439  3  2 Bk  k     k     k         5500  200  500 5c 3s
+carenbon  982242455  3  1 Bf  -     -     -         5800  100    0 
+carenbon  982242469  3  3 f   -     -     -         5700    0    0 
+carenbon  982242476  3  2 Bk  kf    -     -         5700  200    0 
+carenbon  982242493  3  1 Br  kf    -     -         5500  600    0 
+carenbon  982242530  3  3 f   -     -     -         4900    0    0 
+carenbon  982242536  3  2 Bk  kf    -     -         4900  400    0 
+carenbon  982242614  3  1 Bf  -     -     -         4500  200    0 
+carenbon  982242653  3  3 f   -     -     -         4300    0    0 
+carenbon  982242663  2  1 Bk  k     k     k         4300  400  400 Kd Ts
+carenbon  982242810  2  1 Bf  -     -     -         4300  200    0 
+carenbon  982242815  2  2 Bf  -     -     -         4100  400    0 
+carenbon  982242818  2  1 Br  b     bA    -         3700 3700    0 8d Ah
+carenbon  982243084  6  3 f   -     -     -        10000    0    0 
+carenbon  982243114  6  2 Bf  -     -     -        10000  200    0 
+carenbon  982243135  6  1 Bf  -     -     -         9800  100    0 
+carenbon  982243156  6  6 f   -     -     -         9700    0    0 
+carenbon  982243170  6  5 f   -     -     -         9700    0    0 
+carenbon  982243192  6  4 c   f     -     -         9700  200    0 
+carenbon  982243215  6  3 f   -     -     -         9500    0    0 
+carenbon  982243244  6  2 B   -     -     -         9500  200  300 
+carenbon  982243256  6  1 Bf  -     -     -         9600  100    0 
+carenbon  982243286  5  5 f   -     -     -         9500    0    0 
+carenbon  982243339  4  3 f   -     -     -         9500    0    0 
+carenbon  982243354  4  3 f   -     -     -         9500    0    0 
+carenbon  982243384  4  2 B   -     -     -         9500  200  300 
+carenbon  982243391  4  1 Bf  -     -     -         9600  200    0 
+carenbon  982243398  4  4 f   -     -     -         9400    0    0 
+carenbon  982243423  4  3 f   -     -     -         9400    0    0 
+carenbon  982243435  4  2 Bf  -     -     -         9400  400    0 
+carenbon  982243443  4  1 Bf  -     -     -         9000  200    0 
+carenbon  982243447  4  4 f   -     -     -         8800    0    0 
+carenbon  982243463  4  3 f   -     -     -         8800    0    0 
+carenbon  982243489  4  2 Bk  f     -     -         8800  400    0 
+carenbon  982243516  4  1 Bf  -     -     -         8400  200    0 
+carenbon  982243539  4  4 f   -     -     -         8200    0    0 
+carenbon  982243570  4  3 f   -     -     -         8200    0    0 
+carenbon  982243583  4  2 Bf  -     -     -         8200  400    0 
+carenbon  982243666  4  1 Bc  b     -     -         7800 1200 1600 
+carenbon  982243677  4  4 c   f     -     -         8200  400    0 
+carenbon  982243725  4  3 f   -     -     -         7800    0    0 
+carenbon  982243797  4  2 Bk  kf    -     -         7800  800    0 
+carenbon  982243814  4  1 Bf  -     -     -         7000  400    0 
+carenbon  982243818  4  4 c   k     c     cA        6600 6600    0 Td Qd
+carenbon  982244484 11  3 f   -     -     -        10000    0    0 
+carenbon  982244528 11  2 Bc  b     -     -        10000 1300 1800 
+carenbon  982244549 11  1 Br  b     k     k        10500 4200 9600 As Ad
+carenbon  982244618 11 11 c   k     k     k        15900  900    0 Kc Ts
+carenbon  982244706 11 10 c   f     -     -        15000  200    0 
+carenbon  982244752 11  9 c   b     -     -        14800 1200 2000 
+carenbon  982244832 11  8 r   k     k     k        15600 1400 3400 Ah Kc
+carenbon  982244861 11  7 cc  kc    kc    bA       17600 17600 29400 Ah 3h
+carenbon  982244925 10  6 f   -     -     -        29400    0    0 
+carenbon  982244965 10  5 c   c     c     -        29400 9700    0 Js Jd
+carenbon  982245004 10  4 f   -     -     -        19700    0    0 
+carenbon  982245047 10  3 f   -     -     -        19700    0    0 
+carenbon  982245103 10  2 Bk  b     kf    -        19700 2400    0 
+carenbon  982245181 10  1 Bf  -     -     -        17300  400    0 
+carenbon  982245219 10 10 c   b     -     -        16900 9600 18900 Ac Td
+carenbon  982245246  9  8 c   -     -     -        26200 9700    0 Th Tc
+carenbon  982245265  8  7 f   -     -     -        16500    0    0 
+carenbon  982245291  8  6 c   k     k     k        16500  800    0 2d Jd
+carenbon  982245333  8  5 f   -     -     -        15700    0    0 
+carenbon  982245381  8  4 ccA -     -     -        15700 15700    0 2d 2s
+carenbon  982291984 18  5 f   -     -     -        10000    0    0 
+carenbon  982292267 18  4 r   c     fQ    -        10000 2650    0 
+carenbon  982320732  7  6 f   -     -     -         5000    0    0 
+carenbon  982320757  7  5 cc  kf    -     -         5000  220    0 
+carenbon  982320817  7  4 f   -     -     -         4780    0    0 
+carenbon  982320866  7  3 c   f     -     -         4780   40    0 
+carenbon  982320970  7  2 Bk  kf    -     -         4740   40    0 
+carenbon  982321079  7  1 Bf  -     -     -         4700   20    0 
+carenbon  982321114  7  7 f   -     -     -         4680    0    0 
+carenbon  982321144  7  6 f   -     -     -         4680    0    0 
+carenbon  982321213  7  5 c   c     k     c         4680 1200 2520 As Kd
+carenbon  982321254  7  4 c   c     k     f         6000  400    0 
+carenbon  982321312  6  3 f   -     -     -         5600    0    0 
+carenbon  982321362  6  2 Bk  k     kf    -         5600   80    0 
+carenbon  982321405  6  1 Bc  kf    -     -         5520  880    0 
+carenbon  982321455  6  6 f   -     -     -         4640    0    0 
+carenbon  982321482  6  5 f   -     -     -         4640    0    0 
+carenbon  982321519  6  4 f   -     -     -         4640    0    0 
+carenbon  982321539  6  3 f   -     -     -         4640    0    0 
+carenbon  982321592  6  2 Bk  b     -     -         4640  560  800 
+carenbon  982321640  6  1 Bf  -     -     -         4880   80    0 
+carenbon  982321672  6  6 f   -     -     -         4800    0    0 
+carenbon  982321709  6  5 f   -     -     -         4800    0    0 
+carenbon  982321722  6  4 f   -     -     -         4800    0    0 
+carenbon  982321776  6  3 f   -     -     -         4800    0    0 
+carenbon  982321814  6  2 Bc  k     k     f         4800  560    0 
+carenbon  982321858  6  1 Bf  -     -     -         4240   80    0 
+carenbon  982321932  6  6 f   -     -     -         4160    0    0 
+carenbon  982321969  5  5 f   -     -     -         4160    0    0 
+carenbon  982321998  5  4 f   -     -     -         4160    0    0 
+carenbon  982322011  5  3 f   -     -     -         4160    0    0 
+carenbon  982322056  5  2 Bk  kf    -     -         4160  320    0 
+carenbon  982322088  5  1 Bf  -     -     -         3840  160    0 
+carenbon  982322159  5  5 f   -     -     -         3680    0    0 
+carenbon  982322171  5  4 f   -     -     -         3680    0    0 
+carenbon  982322204  5  3 c   f     -     -         3680  320    0 
+carenbon  982322245  5  2 Bk  k     k     kf        3360  320    0 
+carenbon  982322336  5  1 Bf  -     -     -         3040  320    0 
+carenbon  982322351  5  5 c   k     k     f         2720  640    0 
+carenbon  982322431  5  4 f   -     -     -         2080    0    0 
+carenbon  982322447  5  3 f   -     -     -         2080    0    0 
+carenbon  982322466  5  2 Bf  -     -     -         2080  640    0 
+carenbon  982322479  5  1 Bf  -     -     -         1440  320    0 
+carenbon  982322518  5  5 ccA -     -     -         1120 1120    0 Js Ts
+carenbon  982808373 10  3 f   -     -     -        10000    0    0 
+carenbon  982808435  9  1 Bk  k     k     k        10000   50    0 2s 6s
+carenbon  982808489  9  1 Bc  k     kf    -         9950   50    0 
+carenbon  982808552  9  9 f   -     -     -         9900    0    0 
+carenbon  982808633  9  8 f   -     -     -         9900    0    0 
+carenbon  982808709  9  7 f   -     -     -         9900    0    0 
+carenbon  982808745  9  6 ccf -     -     -         9900  325    0 
+carenbon  982808799  9  5 c   k     k     k         9575  100  550 As 4s
+carenbon  982808901  9  4 f   -     -     -        10025    0    0 
+carenbon  982808947  9  3 f   -     -     -        10025    0    0 
+carenbon  982809025  7  1 Bk  b     -     -        10025  400  600 
+carenbon  982809070  7  1 Bf  -     -     -        10225   50    0 
+carenbon  982809085  7  7 f   -     -     -        10175    0    0 
+carenbon  982809153  7  6 f   -     -     -        10175    0    0 
+carenbon  982809199  7  5 f   -     -     -        10175    0    0 
+carenbon  982809237  7  4 f   -     -     -        10175    0    0 
+carenbon  982809307  7  3 f   -     -     -        10175    0    0 
+carenbon  982809325  7  2 Bk  kf    -     -        10175  200    0 
+carenbon  982809376  7  1 Bf  -     -     -         9975  100    0 
+carenbon  982809417  6  6 f   -     -     -         9875    0    0 
+carenbon  982809467  6  5 c   k     f     -         9875  200    0 
+carenbon  982809507  6  4 f   -     -     -         9675    0    0 
+carenbon  982809537  5  2 Bc  kf    -     -         9675  900    0 
+carenbon  982809573  5  1 Bf  -     -     -         8775  100    0 
+carenbon  982809596  5  5 f   -     -     -         8675    0    0 
+carenbon  982809613  5  4 f   -     -     -         8675    0    0 
+carenbon  982809641  5  3 f   -     -     -         8675    0    0 
+carenbon  982809664  5  2 Bf  -     -     -         8675  400    0 
+carenbon  982809689  5  1 Bf  -     -     -         8275  200    0 
+carenbon  982809716  5  5 f   -     -     -         8075    0    0 
+carenbon  982809739  5  4 f   -     -     -         8075    0    0 
+carenbon  982809757  5  3 f   -     -     -         8075    0    0 
+carenbon  982809774  5  2 Bc  f     -     -         8075 1200    0 
+carenbon  982809804  5  1 Bf  -     -     -         6875  200    0 
+carenbon  982809812  5  5 c   bc    cA    -         6675 6675 6775 Ah 3h
+carenbon  982809847  5  4 f   -     -     -         6775    0    0 
+carenbon  982809864  5  3 f   -     -     -         6775    0    0 
+carenbon  982809890  5  2 B   -     -     -         6775  400  600 
+carenbon  982809897  5  1 Bc  k     k     k         6975  400    0 Kc Jc
+carenbon  982809939  5  5 f   -     -     -         6575    0    0 
+carenbon  982809950  5  4 f   -     -     -         6575    0    0 
+carenbon  982809978  5  3 f   -     -     -         6575    0    0 
+carenbon  982809991  5  2 Bf  -     -     -         6575  400    0 
+carenbon  982810003  5  1 Bc  kcA   -     -         6175 6175 12750 Kc Ks
+carenbon  982810043  5  5 f   -     -     -        12750    0    0 
+carenbon  982810052  5  4 f   -     -     -        12750    0    0 
+carenbon  982810081  5  3 f   -     -     -        12750    0    0 
+carenbon  982810113  4  2 Bk  k     k     k        12750  800    0 3c 6s
+carenbon  982810148  4  1 Bf  -     -     -        11950  400    0 
+carenbon  982810186  4  4 f   -     -     -        11550    0    0 
+carenbon  982810193  4  3 f   -     -     -        11550    0    0 
+carenbon  982810203  4  2 B   -     -     -        11550  800 1200 
+carenbon  982810207  4  1 Bf  -     -     -        11950  400    0 
+carenbon  982810211  4  4 f   -     -     -        11550    0    0 
+carenbon  982810241  4  3 f   -     -     -        11550    0    0 
+carenbon  982810253  4  2 Bk  k     k     k        11550  800    0 Ts 4c
+carenbon  982810278  4  1 Bc  kf    -     -        10750  800    0 
+carenbon  982810363  3  3 c   f     -     -         9950 2400    0 
+carenbon  982810386  3  3 f   -     -     -         7550    0    0 
+carenbon  982810426  3  2 Bc  k     k     f         7550 2400    0 
+carenbon  982810450  3  1 Bf  -     -     -         5150  800    0 
+carenbon  982810454  3  3 f   -     -     -         4350    0    0 
+carenbon  982810470  3  2 B   -     -     -         4350 1600 2400 
+carenbon  982810475  3  1 Bf  -     -     -         5150  800    0 
+carenbon  982810479  3  3 f   -     -     -         4350    0    0 
+carenbon  982810493  3  2 Bk  f     -     -         4350 1600    0 
+carenbon  982810515  3  1 Bf  -     -     -         2750  800    0 
+carenbon  982810519  3  3 f   -     -     -         1950    0    0 
+carenbon  982810534  3  2 Bk  f     -     -         1950 1600    0 
+carenbon  982810571  3  1 BA  -     -     -          350  350    0 Jd As
+carenbon  983111332  7  7 c   bc    k     k        10000 1050 2250 Ah 9h
+carenbon  983111439  7  6 f   -     -     -        11200    0    0 
+carenbon  983111532  7  5 f   -     -     -        11200    0    0 
+carenbon  983111584  7  4 f   -     -     -        11200    0    0 
+carenbon  983111640  7  3 f   -     -     -        11200    0    0 
+carenbon  983111660  7  2 Bf  -     -     -        11200   50    0 
+carenbon  983111686  7  1 Bcc k     kf    -        11150  200    0 
+carenbon  983111769  7  7 f   -     -     -        10950    0    0 
+carenbon  983111837  5  4 f   -     -     -        10950    0    0 
+carenbon  983111863  5  4 f   -     -     -        10950    0    0 
+carenbon  983111873  5  3 cf  -     -     -        10950  100    0 
+carenbon  983111900  4  1 Bk  k     k     kf       10850  100    0 
+carenbon  983111928  4  1 Br  bc    kf    -        10750 2800    0 
+carenbon  983111980  4  4 c   c     f     -         7950  500    0 
+carenbon  983112060  4  3 c   k     c     f         7450  450    0 
+carenbon  983112105  4  2 Bf  -     -     -         7000  100    0 
+carenbon  983112118  4  1 Bf  -     -     -         6900  100    0 
+carenbon  983112126  4  4 f   -     -     -         6800    0    0 
+carenbon  983112143  4  3 c   k     f     -         6800  200    0 
+carenbon  983112171  4  2 Bf  -     -     -         6600  200    0 
+carenbon  983112189  4  1 Br  -     -     -         6400  600  800 
+carenbon  983112197  4  4 f   -     -     -         6600    0    0 
+carenbon  983112204  4  3 f   -     -     -         6600    0    0 
+carenbon  983112270  4  2 Bk  b     b     -         6600 4200 6400 
+carenbon  983112307  4  1 Bc  b     -     -         8800 1200 1600 
+carenbon  983112335  4  4 c   f     -     -         9200  400    0 
+carenbon  983112380  4  3 f   -     -     -         8800    0    0 
+carenbon  983112422  4  2 Bk  b     b     -         8800 4400 6000 
+carenbon  983112446  4  1 Bf  -     -     -        10400  200    0 
+carenbon  983112453  4  4 f   -     -     -        10200    0    0 
+carenbon  983112510  4  3 cc  f     -     -        10200 1600    0 
+carenbon  983112565  4  2 Bk  kf    -     -         8600  400    0 
+carenbon  983112587  4  1 Bf  -     -     -         8200  400    0 
+carenbon  983112601  4  4 f   -     -     -         7800    0    0 
+carenbon  983112626  4  3 f   -     -     -         7800    0    0 
+carenbon  983112630  4  2 Br  -     -     -         7800 2800 4000 
+carenbon  983112646  4  1 Br  -     -     -         9000 3200 4800 
+carenbon  983112674  4  4 f   -     -     -        10600    0    0 
+carenbon  983112692  4  3 f   -     -     -        10600    0    0 
+carenbon  983112699  4  2 Bf  -     -     -        10600  800    0 
+carenbon  983112716  4  1 Bf  -     -     -         9800  800    0 
+carenbon  983112743  3  3 f   -     -     -         9000    0    0 
+carenbon  983112788  3  2 Bk  b     -     -         9000 4800 6400 
+carenbon  983112813  3  1 Bf  -     -     -        10600  800    0 
+carenbon  983112820  3  3 f   -     -     -         9800    0    0 
+carenbon  983112830  3  2 Bf  -     -     -         9800 1600    0 
+carenbon  983112837  3  1 Bf  -     -     -         8200  800    0 
+carenbon  983112855  3  3 f   -     -     -         7400    0    0 
+carenbon  983112892  3  2 Bf  -     -     -         7400 3200    0 
+carenbon  983112900  3  1 BcA -     -     -         4200 4200    0 Qh Qc
+carenbon  983148559  9  4 c   bc    c     c         2000  950    0 Td Ts
+carenbon  983148635  9  3 f   -     -     -         1050    0    0 
+carenbon  983148693  9  2 Bf  -     -     -         1050   20    0 
+carenbon  983148756  9  1 Bc  kf    -     -         1030   20    0 
+carenbon  983148868  9  9 c   c     k     b         1010  245  540 Kh Qh
+carenbon  983148927  9  8 f   -     -     -         1305    0    0 
+carenbon  983149031  9  7 f   -     -     -         1305    0    0 
+carenbon  983149155  9  6 f   -     -     -         1305    0    0 
+carenbon  983149277  9  5 c   k     k     rcA       1305 1305 2770 Ks Ts
+carenbon  983149430  9  4 f   -     -     -         2770    0    0 
+carenbon  983149491  9  3 f   -     -     -         2770    0    0 
+carenbon  983149632  9  2 Bf  -     -     -         2770   80    0 
+carenbon  983149729  9  1 Bf  -     -     -         2690   40    0 
+carenbon  983149783  9  9 f   -     -     -         2650    0    0 
+carenbon  983149812  9  8 f   -     -     -         2650    0    0 
+carenbon  983149828  9  7 f   -     -     -         2650    0    0 
+carenbon  983149848  9  6 c   f     -     -         2650  160    0 
+carenbon  983149888  9  5 f   -     -     -         2490    0    0 
+carenbon  983149931  9  4 f   -     -     -         2490    0    0 
+carenbon  983149965  8  2 Bk  c     f     -         2490  320    0 
+carenbon  983150037  8  1 Bc  kf    -     -         2170  160    0 
+carenbon  983150073  8  8 f   -     -     -         2010    0    0 
+carenbon  983150127  7  6 f   -     -     -         2010    0    0 
+carenbon  983150165  7  6 f   -     -     -         2010    0    0 
+carenbon  983150208  6  4 c   f     -     -         2010  320    0 
+carenbon  983150253  6  3 f   -     -     -         1690    0    0 
+carenbon  983150327  6  2 Bk  kf    -     -         1690  320    0 
+carenbon  983150366  6  1 Bf  -     -     -         1370  160    0 
+carenbon  983150385  5  5 f   -     -     -         1210    0    0 
+carenbon  983150400  5  4 f   -     -     -         1210    0    0 
+carenbon  983150421  5  3 f   -     -     -         1210    0    0 
+carenbon  983150437  5  2 B   -     -     -         1210  320  480 
+carenbon  983150448  5  1 Bf  -     -     -         1370  160    0 
+carenbon  983150485  5  5 f   -     -     -         1210    0    0 
+carenbon  983150580  5  4 f   -     -     -         1210    0    0 
+carenbon  983150608  4  3 f   -     -     -         1210    0    0 
+carenbon  983150622  4  2 Bk  k     k     k         1210  640 1920 7h Ts
+carenbon  983150718  4  1 Bf  -     -     -         2490  320    0 
+carenbon  983150785  4  4 f   -     -     -         2170    0    0 
+carenbon  983150854  4  3 f   -     -     -         2170    0    0 
+carenbon  983150904  4  2 Bk  k     k     f         2170  640    0 
+carenbon  983150936  4  1 Bc  bA    -     -         1530 1530    0 4h Ad
+carenbon  983366931 12  9 f   -     -     -        10000    0    0 
+carenbon  983367061 12  8 f   -     -     -        10000    0    0 
+carenbon  983367114 12  7 f   -     -     -        10000    0    0 
+carenbon  983367209 12  7 f   -     -     -        10000    0    0 
+carenbon  983367258 11  5 f   -     -     -        10000    0    0 
+carenbon  983367344 11  4 f   -     -     -        10000    0    0 
+carenbon  983367458 11  3 f   -     -     -        10000    0    0 
+carenbon  983367544 11  2 Bk  k     k     k        10000  200  950 Qc Ah
+carenbon  983367613 10  1 Bf  -     -     -        10750  100    0 
+carenbon  983367664 10 10 f   -     -     -        10650    0    0 
+carenbon  983367695 10  9 f   -     -     -        10650    0    0 
+carenbon  983367747 10  8 f   -     -     -        10650    0    0 
+carenbon  983367833  9  6 f   -     -     -        10650    0    0 
+carenbon  983367899  9  5 f   -     -     -        10650    0    0 
+carenbon  983367987  9  4 f   -     -     -        10650    0    0 
+carenbon  983368068  9  3 f   -     -     -        10650    0    0 
+carenbon  983368122  9  2 Bk  kf    -     -        10650  800    0 
+carenbon  983368146  9  1 Bf  -     -     -         9850  400    0 
+carenbon  983368176  9  9 f   -     -     -         9450    0    0 
+carenbon  983368212  9  8 f   -     -     -         9450    0    0 
+carenbon  983368225  8  6 f   -     -     -         9450    0    0 
+carenbon  983368280  8  6 f   -     -     -         9450    0    0 
+carenbon  983368339  8  5 f   -     -     -         9450    0    0 
+carenbon  983368379  8  4 f   -     -     -         9450    0    0 
+carenbon  983368447  8  3 f   -     -     -         9450    0    0 
+carenbon  983368493  8  2 Bk  f     -     -         9450 1600    0 
+carenbon  983368549  8  1 Bf  -     -     -         7850  800    0 
+carenbon  983368592  8  8 f   -     -     -         7050    0    0 
+carenbon  983368621  8  7 f   -     -     -         7050    0    0 
+carenbon  983368666  8  6 f   -     -     -         7050    0    0 
+carenbon  983368718  7  4 f   -     -     -         7050    0    0 
+carenbon  983368764  7  3 f   -     -     -         7050    0    0 
+carenbon  983368831  6  2 Bk  k     k     kf        7050 1600    0 
+carenbon  983368867  6  1 Bf  -     -     -         5450 1600    0 
+carenbon  983368885  5  5 f   -     -     -         3850    0    0 
+carenbon  983368901  5  4 f   -     -     -         3850    0    0 
+carenbon  983368934  5  3 f   -     -     -         3850    0    0 
+carenbon  983368940  5  2 Bf  -     -     -         3850 3200    0 
+carenbon  983368944  5  1 BA  -     -     -          650  650  650 Ks Ah
+carenbon  983368952  5  5 f   -     -     -          650    0    0 
+carenbon  983368968  5  4 f   -     -     -          650    0    0 
+carenbon  983368985  5  3 f   -     -     -          650    0    0 
+carenbon  983368989  5  2 BA  -     -     -          650  650    0 7s 3s

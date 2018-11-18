@@ -1,0 +1,110 @@
+neuron    834416986  5  5 c   k     f     -         1000   10    0 
+neuron    834417035  5  4 c   f     -     -          990   10    0 
+neuron    834417074  5  3 c   c     f     -          980   20    0 
+neuron    834417136  5  2 Bf  -     -     -          960   10    0 
+neuron    834417241  5  1 Bc  kf    -     -          950   10    0 
+neuron    834417277  5  5 c   cc    k     f          940   40    0 
+neuron    834417336  5  4 f   -     -     -          900    0    0 
+neuron    834417366  5  3 f   -     -     -          900    0    0 
+neuron    834417394  5  2 Bc  kc    k     b          900   50   53 Ac 4c
+neuron    834417442  5  1 Bc  k     kf    -          903   10    0 
+neuron    834417496  4  4 c   c     c     b          893   70  170 
+neuron    834417556  4  3 c   c     c     f          993   40    0 
+neuron    834417606  4  2 Bk  kc    kc    b          953   60  130 6c Kc
+neuron    834417648  4  1 Bc  kf    -     -         1023   10    0 
+neuron    834417691  5  5 f   -     -     -         1013    0    0 
+neuron    834417713  5  4 cc  kf    -     -         1010   20    0 
+neuron    834417768  5  3 c   k     kf    -          990   10    0 
+neuron    834417805  5  2 Bk  k     kf    -          980   10    0 
+neuron    834417858  5  1 Bc  kc    kf    -          970   20    0 
+neuron    834417897  4  4 f   -     -     -          950    0    0 
+neuron    834417911  4  3 cc  kf    -     -          950   20    0 
+neuron    834417962  5  2 Bc  kc    kc    kr         930   90  165 
+neuron    834418015  5  1 Bc  kc    kc    k         1005   40   80 9h 9d
+neuron    834418050  5  5 c   f     -     -         1045   20    0 
+neuron    834418139  5  4 c   c     f     -         1025   30    0 
+neuron    834418214  4  3 cc  bcc   kc    k          995   80  123 Ac 3s
+neuron    834418288  4  2 Bc  kc    kr    b         1038   90  185 7s 7h
+neuron    834418331  5  1 Bf  -     -     -         1130    5    0 
+neuron    834418438  5  5 c   b     r     b         1125   80  170 
+neuron    834418515  5  5 c   c     c     c         1215   60    0 Ah Kd
+neuron    834418588  4  3 c   b     -     -         1155   20   45 
+neuron    834418619  2  2 Bf  -     -     -         1180   10    0 
+neuron    834418629  2  1 Bcc bc    k     b         1170   60  100 
+neuron    834418668  2  2 B   -     -     -         1210   10   15 
+neuron    834418674  2  1 Bf  -     -     -         1215    5    0 
+neuron    834418680  2  2 Bc  c     c     b         1210   70  140 9d 8c
+neuron    834418710  2  1 Bc  k     kc    kf        1280   30    0 
+neuron    834418750  2  2 Bf  -     -     -         1250   10    0 
+neuron    834418758  2  1 Br  kc    krc   kc        1240  110    0 Qc Ad
+neuron    834418800  2  2 Bk  k     k     k         1130   10   20 8d 6s
+neuron    834418838  2  1 Bf  -     -     -         1140    5    0 
+neuron    834418844  2  2 B   -     -     -         1135   10   15 
+neuron    834418852  2  1 Bf  -     -     -         1140    5    0 
+neuron    834418856  2  2 Bc  f     -     -         1135   20    0 
+neuron    834418870  2  1 Bf  -     -     -         1115    5    0 
+neuron    834418878  2  2 Bk  c     c     k         1110   40   80 Ac 5d
+neuron    834418905  2  1 Bcc kc    kc    k         1150   50    0 Td Qs
+neuron    834418946  2  2 Bk  c     f     -         1100   20    0 
+neuron    834418970  2  1 Bf  -     -     -         1080    5    0 
+neuron    834418975  2  2 Bk  b     -     -         1075   20   30 
+neuron    834418996  2  1 Bf  -     -     -         1085    5    0 
+neuron    834419003  2  2 Bf  -     -     -         1080   10    0 
+neuron    834419014  2  1 Bf  -     -     -         1070    5    0 
+neuron    834419020  2  2 Bc  c     c     f         1065   50    0 
+neuron    834419046  2  1 Bc  k     k     k         1015   10   20 7d Qh
+neuron    834419071  2  2 Bk  c     c     b         1025   60  100 
+neuron    834419120  2  1 Bc  kf    -     -         1065   10    0 
+neuron    834419137  2  2 Bk  k     k     k         1055   10   20 3c As
+neuron    834419166  2  1 Bc  k     k     b         1065   30   40 
+neuron    834419202  2  2 Bc  c     f     -         1075   30    0 
+neuron    834419223  2  1 Bf  -     -     -         1045    5    0 
+neuron    834419228  2  2 Bc  c     r     -         1040   70  120 
+neuron    834419250  2  1 Br  -     -     -         1090   20   30 
+neuron    834419257  2  2 Bk  c     r     b         1100   80    0 6h Jc
+neuron    834419303  4  1 Bcc kcf   -     -         1020   60    0 
+neuron    834419491  4  4 f   -     -     -          960    0    0 
+neuron    834419529  4  3 c   k     rc    rc         960  130  300 Qc Qh
+neuron    834419614  4  2 Bf  -     -     -         1130   10    0 
+neuron    834419720  4  1 Bf  -     -     -         1120    5    0 
+neuron    834419799  5  5 c   k     f     -         1115   10    0 
+neuron    834419864  4  3 c   bc    kc    kf        1105   50    0 
+neuron    834419943  3  2 Bk  kc    kf    -         1055   20    0 
+neuron    834420062  3  1 Bf  -     -     -         1035    5    0 
+neuron    834420086  3  3 f   -     -     -         1030    0    0 
+neuron    834420100  3  2 Bf  -     -     -         1030   10    0 
+neuron    834420136  4  1 Bc  bc    k     b         1020   60    0 Ks As
+neuron    834420191  4  4 c   KQ    Q     -          960   10    0 
+neuron    834420447  4  3 c   b     b     -          950   40   80 
+neuron    834420553  4  2 Bc  kc    kr    -          990   70  170 
+neuron    834420644  3  1 B   -     -     -         1090    5   15 
+neuron    834420654  2  2 cc  c     f     -         1100   30    0 
+neuron    834420693  2  2 B   -     -     -         1070   10   15 
+neuron    834420698  2  1 Br  -     -     -         1075   20   30 
+neuron    834420713  2  2 Bc  f     -     -         1085   20    0 
+neuron    834420734  3  1 Bf  -     -     -         1065    5    0 
+neuron    834420747  3  3 f   -     -     -         1060    0    0 
+neuron    834420783  3  2 Bc  k     kc    kf        1060   40    0 
+neuron    834420821  3  1 Bc  k     kr    -         1020   60  120 
+neuron    834420860  3  3 f   -     -     -         1080    0    0 
+neuron    834420880  3  2 Bk  b     b     -         1080   40   70 
+neuron    834420923  3  1 Bc  b     b     -         1110   40   60 
+neuron    834420948  3  3 f   -     -     -         1130    0    0 
+neuron    834420975  3  2 B   -     -     -         1130   10   15 
+neuron    834420982  3  1 BKQ -     -     -         1135    5    0 
+neuron    834421499  3  3 f   -     -     -         1130    0    0 
+neuron    834421562  5  2 BQ  -     -     -         1130   10    0 
+neuron    834443316  4  4 f   -     -     -         1120    0    0 
+neuron    834443355  4  3 f   -     -     -         1120    0    0 
+neuron    834443387  4  2 Bk  k     k     b         1120   30   40 
+neuron    834443410  4  1 Bf  -     -     -         1130    5    0 
+neuron    834443442  4  4 f   -     -     -         1125    0    0 
+neuron    834443460  4  3 f   -     -     -         1125    0    0 
+neuron    834443501  4  2 Bk  kc    kc    kf        1125   40    0 
+neuron    834443543  6  1 Bc  kc    kc    kf        1085   40    0 
+neuron    834443611  6  6 c   c     f     -         1045   30    0 
+neuron    834443660  6  5 f   -     -     -         1015    0    0 
+neuron    834443695  6  4 f   -     -     -         1015    0    0 
+neuron    834443738  6  3 f   -     -     -         1015    0    0 
+neuron    834443894  8  2 Bf  -     -     -         1015   10    0 
+neuron    834444015  9  1 Bc  KQ    -     -         1005   10    0 

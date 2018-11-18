@@ -1,0 +1,566 @@
+Sinclair  970602440 16  7 f   -     -     -        10000    0    0 
+Sinclair  970602560 15  6 f   -     -     -        10000    0    0 
+Sinclair  970602632 14  5 f   -     -     -        10000    0    0 
+Sinclair  970602762 13  3 f   -     -     -        10000    0    0 
+Sinclair  970602864 13  2 Bc  brA   -     -        10000 10000 20225 Qc 9c
+Sinclair  970602952 12  1 Bf  -     -     -        20225   50    0 
+Sinclair  970602994 11 11 f   -     -     -        20175    0    0 
+Sinclair  970603042 11 10 f   -     -     -        20175    0    0 
+Sinclair  970603094 11  9 f   -     -     -        20175    0    0 
+Sinclair  970603168 11  8 f   -     -     -        20175    0    0 
+Sinclair  970603229 11  7 f   -     -     -        20175    0    0 
+Sinclair  970603285 11  6 c   k     c     f        20175 1200    0 
+Sinclair  970603348 11  5 f   -     -     -        18975    0    0 
+Sinclair  970603406 11  4 cc  kc    -     -        18975 11575    0 5s 5c
+Sinclair  970603535 11  3 f   -     -     -         7400    0    0 
+Sinclair  970603586 10  2 Bk  k     k     kf        7400  400    0 
+Sinclair  970603683 10  1 Bf  -     -     -         7000  200    0 
+Sinclair  970603729 10 10 r   -     -     -         6800 2800 4000 
+Sinclair  970603760 10  9 f   -     -     -         8000    0    0 
+Sinclair  970603798 10  8 f   -     -     -         8000    0    0 
+Sinclair  970603872 10  7 f   -     -     -         8000    0    0 
+Sinclair  970603941 10  6 f   -     -     -         8000    0    0 
+Sinclair  970603991 10  5 f   -     -     -         8000    0    0 
+Sinclair  970604036 10  4 f   -     -     -         8000    0    0 
+Sinclair  970604090 10  3 f   -     -     -         8000    0    0 
+Sinclair  970604176 10  2 Bk  k     b     -         8000 6400 9600 
+Sinclair  970604236 10  1 Bc  k     b     -        11200 8000 12800 
+Sinclair  970604286 10 10 f   -     -     -        16000    0    0 
+Sinclair  970604345 10  9 f   -     -     -        16000    0    0 
+Sinclair  970604411 10  8 f   -     -     -        16000    0    0 
+Sinclair  970604439  9  6 f   -     -     -        16000    0    0 
+Sinclair  970604464  9  5 c   cA    -     -        16000 16000 36800 Ts Ac
+Sinclair  970604503  9  4 f   -     -     -        36800    0    0 
+Sinclair  970604528  9  3 f   -     -     -        36800    0    0 
+Sinclair  970604571  8  2 Bk  kf    -     -        36800 3200    0 
+Sinclair  970604626  7  1 Bf  -     -     -        33600 1600    0 
+Sinclair  970604652  6  6 cc  f     -     -        32000 13400    0 
+Sinclair  970604696  6  5 f   -     -     -        18600    0    0 
+Sinclair  970604739  6  4 f   -     -     -        18600    0    0 
+Sinclair  970604756  6  3 f   -     -     -        18600    0    0 
+Sinclair  970604803  5  2 Bk  kf    -     -        18600 6400    0 
+Sinclair  970604844  5  1 BcA -     -     -        12200 12200    0 Td Kc
+Sinclair  970605485 12 10 f   -     -     -         5555    0    0 
+Sinclair  970605640 12  9 f   -     -     -         5555    0    0 
+Sinclair  970605698 12  8 f   -     -     -         5555    0    0 
+Sinclair  970605745 12  7 f   -     -     -         5555    0    0 
+Sinclair  970605843 12  6 f   -     -     -         5555    0    0 
+Sinclair  970605927 11  5 f   -     -     -         5555    0    0 
+Sinclair  970606003 11  4 cc  kc    kf    -         5555 1288    0 
+Sinclair  970606103 11  3 f   -     -     -         4267    0    0 
+Sinclair  970606183 10  2 BrcA -     -     -         4267 4267 8702 Jc Ts
+Sinclair  970606228 10  1 Bf  -     -     -         8702   56    0 
+Sinclair  970606260 10 10 f   -     -     -         8646    0    0 
+Sinclair  970606309  9  8 f   -     -     -         8646    0    0 
+Sinclair  970606334  9  7 cc  k     k     kc        8646 5488    0 5s 5d
+Sinclair  970606465  9  6 r   -     -     -         3158  392  560 
+Sinclair  970606484  9  5 f   -     -     -         3326    0    0 
+Sinclair  970606534  9  4 f   -     -     -         3326    0    0 
+Sinclair  970606595  9  3 f   -     -     -         3326    0    0 
+Sinclair  970606632  8  2 Br  rA    -     -         3326 3326 6652 Ad 3s
+Sinclair  970606683  8  1 Bcc bc    bA    -         6652 6652 13304 8s Qh
+Sinclair  970606758  8  8 c   k     b     k        13304  616    0 Qh Ah
+Sinclair  970606837  8  7 c   k     k     f        12688  224    0 
+Sinclair  970606922  8  6 f   -     -     -        12464    0    0 
+Sinclair  970606952  8  5 f   -     -     -        12464    0    0 
+Sinclair  970606965  8  4 f   -     -     -        12464    0    0 
+Sinclair  970606990  8  3 c   b     -     -        12464 1568 2240 
+Sinclair  970607035  8  2 Bk  kc    k     k        13136 1792    0 3d 2d
+Sinclair  970607108  8  1 Bf  -     -     -        11344  224    0 
+Sinclair  970607142  7  7 f   -     -     -        11120    0    0 
+Sinclair  970607171  7  6 c   c     k     k        11120 1568    0 Qh 8c
+Sinclair  970607231  7  5 f   -     -     -         9552    0    0 
+Sinclair  970607270  7  4 f   -     -     -         9552    0    0 
+Sinclair  970607298  7  3 f   -     -     -         9552    0    0 
+Sinclair  970607341  7  2 Bk  kc    bA    -         9552 9552 13136 
+Sinclair  970607390  7  1 Bf  -     -     -        13136  448    0 
+Sinclair  970607411  7  7 c   f     -     -        12688  896    0 
+Sinclair  970607446  7  6 f   -     -     -        11792    0    0 
+Sinclair  970607483  7  5 f   -     -     -        11792    0    0 
+Sinclair  970607499  7  4 f   -     -     -        11792    0    0 
+Sinclair  970607523  7  3 rA  -     -     -        11792 11792 13136 
+Sinclair  970607556  7  2 Bk  b     k     k        13136 2688 5376 2c Qs
+Sinclair  970607603  7  1 Bf  -     -     -        15824  448    0 
+Sinclair  970607627  7  7 f   -     -     -        15376    0    0 
+Sinclair  970607651  7  6 f   -     -     -        15376    0    0 
+Sinclair  970607681  7  5 f   -     -     -        15376    0    0 
+Sinclair  970607708  7  4 c   k     k     b        15376 6272 8960 
+Sinclair  970607794  7  3 f   -     -     -        18064    0    0 
+Sinclair  970607866  7  2 B   -     -     -        18064 1792 2688 
+Sinclair  970607888  7  1 Bc  krA   -     -        18960 18960 39712 Ad Ah
+Sinclair  970607924  7  7 f   -     -     -        39712    0    0 
+Sinclair  970607957  7  6 f   -     -     -        39712    0    0 
+Sinclair  970607992  6  4 f   -     -     -        39712    0    0 
+Sinclair  970608011  6  3 f   -     -     -        39712    0    0 
+Sinclair  970608023  6  2 B   -     -     -        39712 3584 4772 Jh 2c
+Sinclair  970608049  6  1 Bc  -     -     -        40900 8485 8798 Ah Qd
+Sinclair  970608075  4  4 f   -     -     -        41213    0    0 
+Sinclair  970608111  4  4 f   -     -     -        41213    0    0 
+Sinclair  970608132  4  3 f   -     -     -        41213    0    0 
+Sinclair  970608150  4  2 Bf  -     -     -        41213 3584    0 
+Sinclair  970608175  3  1 Bf  -     -     -        37629 1792    0 
+Sinclair  970608192  3  3 f   -     -     -        35837    0    0 
+Sinclair  970608205  3  2 Bf  -     -     -        35837 3584    0 
+Sinclair  970608216  3  1 Bf  -     -     -        32253 1792    0 
+Sinclair  970608228  3  3 r   c     -     -        30461 14455 30702 Kh Kc
+Sinclair  970608249  2  1 Bf  -     -     -        46708 3584    0 
+Sinclair  970608257  2  1 Bf  -     -     -        43124 1792    0 
+Sinclair  970608263  2  2 B   -     -     -        41332 3584 5376 
+Sinclair  970608266  2  1 Bf  -     -     -        43124 1792    0 
+Sinclair  970608270  2  2 B   -     -     -        41332 3584 5376 
+Sinclair  970608274  2  1 Bf  -     -     -        43124 1792    0 
+Sinclair  970608279  2  2 B   -     -     -        41332 3584 5376 
+Sinclair  970608282  2  1 Bf  -     -     -        43124 1792    0 
+Sinclair  970608286  2  2 Br  -     -     -        41332 32256 6928 Ad Ah
+Sinclair  970608295  2  1 BrcA -     -     -        16004 16004 32008 Qd Jd
+Sinclair  970608312  2  2 B   -     -     -        32008 3584 5376 
+Sinclair  970608322  2  1 Bc  b     -     -        33800 10752 14336 
+Sinclair  970608340  2  2 Bc  c     -     -        37384 29276    0 Jc Qd
+Sinclair  970608359  2  1 Bf  -     -     -         8108 3584    0 
+Sinclair  970608365  2  2 BA  -     -     -         4524 4524 9048 3c 9h
+Sinclair  970608369  2  1 BrA -     -     -         9048 9048 18096 Qd 6d
+Sinclair  970608382  2  2 BcA -     -     -        18096 18096 36192 5s 5c
+Sinclair  970608390  2  1 Bf  -     -     -        36192 3584    0 
+Sinclair  970608397  2  2 B   -     -     -        32608 7168 10752 
+Sinclair  970608402  2  1 Bf  -     -     -        36192 3584    0 
+Sinclair  970608407  2  2 B   -     -     -        32608 7168 10752 
+Sinclair  970608409  2  1 Bf  -     -     -        36192 3584    0 
+Sinclair  970608417  2  2 B   -     -     -        32608 7168 10752 
+Sinclair  970608420  2  1 Br  -     -     -        36192 21504 28672 
+Sinclair  970608428  2  2 B   -     -     -        43360 7168 10752 
+Sinclair  970608431  2  1 Br  -     -     -        46944 21504 1788 Ah 8s
+Sinclair  970608436  2  2 Bf  -     -     -        27228 7168    0 
+Sinclair  970608446  2  1 Bc  bA    -     -        20060 20060 40120 Jc 9h
+Sinclair  970608465  2  2 B   -     -     -        40120 7168 10752 
+Sinclair  970608477  2  1 Bf  -     -     -        43704 3584    0 
+Sinclair  970608483  2  2 Bf  -     -     -        40120 7168    0 
+Sinclair  970608492  2  1 Bf  -     -     -        32952 3584    0 
+Sinclair  970608497  2  2 B   -     -     -        29368 7168 10752 
+Sinclair  970608500  2  1 Bf  -     -     -        32952 3584    0 
+Sinclair  970608507  2  2 Bf  -     -     -        29368 7168    0 
+Sinclair  970608513  2  1 Bf  -     -     -        22200 3584    0 
+Sinclair  970608515  2  2 B   -     -     -        18616 7168 10752 
+Sinclair  970608521  2  1 Br  -     -     -        22200 21504 28672 
+Sinclair  970608526  2  2 Bf  -     -     -        29368 7168    0 
+Sinclair  970608530  2  1 Bf  -     -     -        22200 3584    0 
+Sinclair  970608532  2  2 Bf  -     -     -        18616 7168    0 
+Sinclair  970608537  2  1 Bf  -     -     -        11448 3584    0 
+Sinclair  970608543  2  2 BcA -     -     -         7864 7864    0 4h Jd
+Sinclair  970769875 18 18 f   -     -     -        10000    0    0 
+Sinclair  970770001 18 17 f   -     -     -        10000    0    0 
+Sinclair  970770058 18 16 f   -     -     -        10000    0    0 
+Sinclair  970770103 18 15 c   f     -     -        10000   50    0 
+Sinclair  970770209 18 14 f   -     -     -         9950    0    0 
+Sinclair  970770295 18 13 f   -     -     -         9950    0    0 
+Sinclair  970770401 18 12 f   -     -     -         9950    0    0 
+Sinclair  970770475 17 11 f   -     -     -         9950    0    0 
+Sinclair  970770558 17 10 f   -     -     -         9950    0    0 
+Sinclair  970770620 17  9 cf  -     -     -         9950  100    0 
+Sinclair  970770679 16  7 c   k     k     f         9850  200    0 
+Sinclair  970770800 16  6 f   -     -     -         9650    0    0 
+Sinclair  970770849 16  5 c   k     kf    -         9650  200    0 
+Sinclair  970771020 16  4 f   -     -     -         9450    0    0 
+Sinclair  970771064 15  3 f   -     -     -         9450    0    0 
+Sinclair  970771109 15  2 Bk  k     kf    -         9450  400    0 
+Sinclair  970771158 14  1 Bc  brA   -     -         9050 9050 1575 Tc 2h
+Sinclair  970771224 14 14 f   -     -     -         1575    0    0 
+Sinclair  970771267 14 13 f   -     -     -         1575    0    0 
+Sinclair  970771316 14 12 f   -     -     -         1575    0    0 
+Sinclair  970771368 14 11 f   -     -     -         1575    0    0 
+Sinclair  970771421 14 10 f   -     -     -         1575    0    0 
+Sinclair  970771459 14  9 f   -     -     -         1575    0    0 
+Sinclair  970771534 14  8 f   -     -     -         1575    0    0 
+Sinclair  970771597 14  7 f   -     -     -         1575    0    0 
+Sinclair  970771662 14  6 f   -     -     -         1575    0    0 
+Sinclair  970771695 14  5 f   -     -     -         1575    0    0 
+Sinclair  970771713 14  4 f   -     -     -         1575    0    0 
+Sinclair  970771743 13  3 f   -     -     -         1575    0    0 
+Sinclair  970771773 13  2 BcA -     -     -         1575 1575    0 4h 4s
+Sinclair  970773675 17  1 Bf  -     -     -        10000   25    0 
+Sinclair  970773770 17 17 f   -     -     -         9975    0    0 
+Sinclair  970773838 17 16 f   -     -     -         9975    0    0 
+Sinclair  970773877 17 15 f   -     -     -         9975    0    0 
+Sinclair  970773947 17 14 f   -     -     -         9975    0    0 
+Sinclair  970774004 17 13 r   r     bA    -         9975 9975 19325 Ts Ad
+Sinclair  970774049 16 11 c   k     b     -        19325  200  300 
+Sinclair  970774094 16 10 f   -     -     -        19425    0    0 
+Sinclair  970774186 16  9 c   r     r     -        19425 16100 26200 Jd Td
+Sinclair  970774255 15  8 f   -     -     -        29525    0    0 
+Sinclair  970774303 15  7 c   cf    -     -        29525 2100    0 
+Sinclair  970774353 14  5 cc  kc    kf    -        27425 1300    0 
+Sinclair  970774400 14  5 r   b     -     -        26125 1200 1700 
+Sinclair  970774426 14  4 c   bc    kf    -        26625 2100    0 
+Sinclair  970774479 14  3 f   -     -     -        24525    0    0 
+Sinclair  970774548 13  2 Bk  bc    kc    -        24525 8425    0 Ac 2s
+Sinclair  970774608 13  1 Bc  kc    kf    -        16100 1000    0 
+Sinclair  970774659 13 13 f   -     -     -        15100    0    0 
+Sinclair  970774680 13 12 f   -     -     -        15100    0    0 
+Sinclair  970774737 13 11 f   -     -     -        15100    0    0 
+Sinclair  970774768 13 10 c   k     b     -        15100  700 1000 
+Sinclair  970774785 13  9 f   -     -     -        15400    0    0 
+Sinclair  970774813 13  8 f   -     -     -        15400    0    0 
+Sinclair  970774933 13  7 f   -     -     -        15400    0    0 
+Sinclair  970775051 13  6 c   c     c     f        15400 5200    0 
+Sinclair  970775104 13  5 f   -     -     -        10200    0    0 
+Sinclair  970775184 13  4 f   -     -     -        10200    0    0 
+Sinclair  970775237 13  3 f   -     -     -        10200    0    0 
+Sinclair  970775276 13  2 BcA -     -     -        10200 10200 30600 Jd Qd
+Sinclair  970775297 13  1 Bf  -     -     -        30600  200    0 
+Sinclair  970775337 13 13 f   -     -     -        30400    0    0 
+Sinclair  970775360 13 12 c   f     -     -        30400  800    0 
+Sinclair  970775428 13 11 f   -     -     -        29600    0    0 
+Sinclair  970775464 12  9 cc  c     -     -        29600 12025 27250 2d 2s
+Sinclair  970775517 11  7 f   -     -     -        44825    0    0 
+Sinclair  970775539 11  7 f   -     -     -        44825    0    0 
+Sinclair  970775571 11  6 c   f     -     -        44825  800    0 
+Sinclair  970775624 11  5 f   -     -     -        44025    0    0 
+Sinclair  970775704 11  4 f   -     -     -        44025    0    0 
+Sinclair  970775738 11  3 c   b     b     -        44025 24000 37050 As Jc
+Sinclair  970775783 10  2 Bk  bc    -     -        57075 13300    0 Th 7c
+Sinclair  970775820 10  1 Bc  kc    -     -        43775 13725    0 Qh Ad
+Sinclair  970775853 10 10 f   -     -     -        30050    0    0 
+Sinclair  970775888 10  9 f   -     -     -        30050    0    0 
+Sinclair  970775936  9  7 f   -     -     -        30050    0    0 
+Sinclair  970775961  9  7 f   -     -     -        30050    0    0 
+Sinclair  970775988  9  6 f   -     -     -        30050    0    0 
+Sinclair  970775998  9  5 f   -     -     -        30050    0    0 
+Sinclair  970776027  9  4 f   -     -     -        30050    0    0 
+Sinclair  970776066  8  2 c   b     -     -        30050 8000 12800 
+Sinclair  970776101  8  2 Bf  -     -     -        34850 1600    0 
+Sinclair  970776124  8  1 Bc  kc    k     k        33250 12800 28800 Qs Ac
+Sinclair  970776162  8  8 c   -     -     -        49250 8100    0 Ah Th
+Sinclair  970776184  8  7 c   k     b     -        41150 11200 16000 
+Sinclair  970776211  8  6 f   -     -     -        45950    0    0 
+Sinclair  970776228  8  5 c   f     -     -        45950 11200    0 
+Sinclair  970776263  8  4 c   k     b     -        34750 14400 22400 
+Sinclair  970776325  8  3 f   -     -     -        42750    0    0 
+Sinclair  970776355  8  2 Bk  k     b     -        42750 14400 11200 4d 7d
+Sinclair  970776372  8  1 Bf  -     -     -        39550 1600    0 
+Sinclair  970776388  8  8 f   -     -     -        37950    0    0 
+Sinclair  970776412  8  7 f   -     -     -        37950    0    0 
+Sinclair  970776438  7  5 f   -     -     -        37950    0    0 
+Sinclair  970776464  7  5 f   -     -     -        37950    0    0 
+Sinclair  970776480  7  4 c   k     f     -        37950 3200    0 
+Sinclair  970776505  7  3 f   -     -     -        34750    0    0 
+Sinclair  970776529  6  2 B   -     -     -        34750 6400 9600 
+Sinclair  970776544  6  1 Bf  -     -     -        37950 3200    0 
+Sinclair  970776576  5  5 c   -     -     -        34750 4875 9750 Ac Ts
+Sinclair  970776593  4  4 f   -     -     -        39625    0    0 
+Sinclair  970776610  4  4 f   -     -     -        39625    0    0 
+Sinclair  970776620  4  3 c   k     k     b        39625 22400 32000 
+Sinclair  970776701  4  2 Bc  -     -     -        49225 13650    0 Qs As
+Sinclair  970776711  4  1 Bf  -     -     -        35575 3200    0 
+Sinclair  970776722  4  4 f   -     -     -        32375    0    0 
+Sinclair  970776734  4  3 cc  k     k     k        32375 25600 57600 Ad Kh
+Sinclair  970776764  4  2 Bc  bA    -     -        64375 64375 33875 Qs Tc
+Sinclair  970776782  4  1 Bf  -     -     -        33875 3200    0 
+Sinclair  970776800  4  4 f   -     -     -        30675    0    0 
+Sinclair  970776821  4  3 f   -     -     -        30675    0    0 
+Sinclair  970776833  4  2 Bk  k     k     f        30675 6400    0 
+Sinclair  970776884  4  1 Bc  k     k     k        24275 6400    0 3h 2h
+Sinclair  970776914  4  4 f   -     -     -        17875    0    0 
+Sinclair  970776923  4  3 f   -     -     -        17875    0    0 
+Sinclair  970777009  3  2 BcA -     -     -        17875 17875 35750 8h 5s
+Sinclair  970777028  3  1 Bc  bA    -     -        35750 35750 48550 
+Sinclair  970777054  3  3 f   -     -     -        48550    0    0 
+Sinclair  970777066  3  2 B   -     -     -        48550 12800 19200 
+Sinclair  970777069  3  1 Bf  -     -     -        54950 6400    0 
+Sinclair  970777085  3  3 f   -     -     -        48550    0    0 
+Sinclair  970777168  3  2 BrA -     -     -        48550 48550 103500 5c 6h
+Sinclair  970777198  3  1 Bf  -     -     -       103500 6400    0 
+Sinclair  970777209  3  3 f   -     -     -        97100    0    0 
+Sinclair  970777218  3  2 Bf  -     -     -        97100 12800    0 
+Sinclair  970777228  3  1 Bf  -     -     -        84300 6400    0 
+Sinclair  970777240  3  3 f   -     -     -        77900    0    0 
+Sinclair  970777245  3  2 Br  -     -     -        77900 38400 51200 
+Sinclair  970777273  3  1 BrA -     -     -        90700 90700 41600 Tc Kd
+Sinclair  970777291  3  3 f   -     -     -        41600    0    0 
+Sinclair  970777306  3  2 BrA -     -     -        41600 41600 83200 7c 7d
+Sinclair  970777322  3  1 Bf  -     -     -        83200 12800    0 
+Sinclair  970777381  3  3 f   -     -     -        70400    0    0 
+Sinclair  970777386  2  2 B   -     -     -        70400 25600 38400 
+Sinclair  970777394  2  1 Bf  -     -     -        83200 12800    0 
+Sinclair  970777398  2  2 Bf  -     -     -        70400 25600    0 
+Sinclair  970777405  2  1 Bf  -     -     -        44800 12800    0 
+Sinclair  970777409  2  2 B   -     -     -        32000 25600 38400 
+Sinclair  970777412  2  1 BrA -     -     -        44800 44800 89600 Tc 7d
+Sinclair  970777417  2  2 BrA -     -     -        89600 89600 170000 3s As
+Sinclair  970777746 20 18 f   -     -     -         6666    0    0 
+Sinclair  970777976 18 15 f   -     -     -         6666    0    0 
+Sinclair  970778121 18 14 c   c     rA    -         6666 6666 14058 Jh Td
+Sinclair  970778265 17 12 c   f     -     -        14058  264    0 
+Sinclair  970778323 17 11 f   -     -     -        13794    0    0 
+Sinclair  970778344 17 10 f   -     -     -        13794    0    0 
+Sinclair  970778434 17  9 f   -     -     -        13794    0    0 
+Sinclair  970778480 15  7 f   -     -     -        13794    0    0 
+Sinclair  970778581 14  5 f   -     -     -        13794    0    0 
+Sinclair  970778670 14  4 f   -     -     -        13794    0    0 
+Sinclair  970778720 14  3 f   -     -     -        13794    0    0 
+Sinclair  970778747 14  2 Bk  k     kf    -        13794  528    0 
+Sinclair  970778814 14  1 Bf  -     -     -        13266  264    0 
+Sinclair  970778854 13 13 c   f     -     -        13002  528    0 
+Sinclair  970778897 13 12 f   -     -     -        12474    0    0 
+Sinclair  970778971 13 11 c   f     -     -        12474  528    0 
+Sinclair  970779065 13 10 c   c     c     -        11946 7854 4092 2h 2s
+Sinclair  970779128 12  8 c   kf    -     -         8184  528    0 
+Sinclair  970779202 12  7 f   -     -     -         7656    0    0 
+Sinclair  970779242 12  6 f   -     -     -         7656    0    0 
+Sinclair  970779266 10  4 f   -     -     -         7656    0    0 
+Sinclair  970779292 10  3 f   -     -     -         7656    0    0 
+Sinclair  970779327  9  1 Bf  -     -     -         7656 1056    0 
+Sinclair  970779347  9  1 Bf  -     -     -         6600  528    0 
+Sinclair  970779370  9  9 f   -     -     -         6072    0    0 
+Sinclair  970779401  9  8 f   -     -     -         6072    0    0 
+Sinclair  970779436  9  7 f   -     -     -         6072    0    0 
+Sinclair  970779472  9  6 f   -     -     -         6072    0    0 
+Sinclair  970779517  9  5 f   -     -     -         6072    0    0 
+Sinclair  970779550  9  4 c   b     -     -         6072 5808 9504 Ts Js
+Sinclair  970779599  8  3 f   -     -     -         9768    0    0 
+Sinclair  970779631  8  2 Bk  b     -     -         9768 4752 7392 
+Sinclair  970779664  8  1 Bc  b     bA    -        12408 12408    0 Kc Kh
+Sinclair  970781018 18 16 r   b     bA    -         1000 1000    0 9h Ac
+Sinclair  971037693 12  7 f   -     -     -        10000    0    0 
+Sinclair  971037739 11  5 c   kf    -     -        10000  100    0 
+Sinclair  971037835 11  4 rA  -     -     -         9900 9900 19950 Ac As
+Sinclair  971037879 11  3 f   -     -     -        19950    0    0 
+Sinclair  971037970  9  1 Bf  -     -     -        19950  100    0 
+Sinclair  971038042  9  1 Bcc k     kf    -        19850 5900    0 
+Sinclair  971038233  9  9 f   -     -     -        13950    0    0 
+Sinclair  971038293  9  8 f   -     -     -        13950    0    0 
+Sinclair  971038343  9  7 f   -     -     -        13950    0    0 
+Sinclair  971038417  7  5 r   bcA   -     -        13950 13950 30300 4s 4h
+Sinclair  971038548  7  5 f   -     -     -        30300    0    0 
+Sinclair  971038597  7  4 f   -     -     -        30300    0    0 
+Sinclair  971038651  7  3 f   -     -     -        30300    0    0 
+Sinclair  971038720  7  2 Bk  kc    kf    -        30300 1800    0 
+Sinclair  971038766  7  1 Bf  -     -     -        28500  400    0 
+Sinclair  971038811  7  7 f   -     -     -        28100    0    0 
+Sinclair  971038828  7  6 f   -     -     -        28100    0    0 
+Sinclair  971038844  7  5 f   -     -     -        28100    0    0 
+Sinclair  971038901  7  4 f   -     -     -        28100    0    0 
+Sinclair  971038929  7  3 c   b     -     -        28100 4000 6400 
+Sinclair  971038967  7  2 Bf  -     -     -        30500  800    0 
+Sinclair  971039015  7  1 Bf  -     -     -        29700  400    0 
+Sinclair  971039059  7  7 f   -     -     -        29300    0    0 
+Sinclair  971039100  6  6 f   -     -     -        29300    0    0 
+Sinclair  971039119  6  5 f   -     -     -        29300    0    0 
+Sinclair  971039176  5  4 c   k     b     -        29300 5600 8000 
+Sinclair  971039226  5  3 f   -     -     -        31700    0    0 
+Sinclair  971039251  5  2 Br  -     -     -        31700 12000  250 5s 8c
+Sinclair  971039281  5  1 Bc  k     k     k        19950 4000    0 Kd Jh
+Sinclair  971039347  5  5 c   f     -     -        15950 1600    0 
+Sinclair  971039389  5  4 f   -     -     -        14350    0    0 
+Sinclair  971039409  5  3 c   c     kcA   -        14350 14350 33900 Tc Qc
+Sinclair  971039459  5  2 Bc  kcA   -     -        33900 33900 72600 Js Jd
+Sinclair  971039510  5  1 Bcc kf    -     -        72600 10450    0 
+Sinclair  971039580  5  5 cc  c     -     -        62150 31350    0 4d 4s
+Sinclair  971039627  4  3 f   -     -     -        30800    0    0 
+Sinclair  971039657  4  3 c   b     -     -        30800 16000 38250 2s 2d
+Sinclair  971039689  3  1 Bk  k     k     k        53050 3200    0 3c 7d
+Sinclair  971039730  3  1 Bf  -     -     -        49850 1600    0 
+Sinclair  971039749  2  2 Bk  k     k     k        48250 3200    0 5c Tc
+Sinclair  971039769  2  1 Bf  -     -     -        45050 1600    0 
+Sinclair  971039776  2  2 Bf  -     -     -        43450 3200    0 
+Sinclair  971039782  2  1 Bf  -     -     -        40250 1600    0 
+Sinclair  971039791  2  2 Bf  -     -     -        38650 6400    0 
+Sinclair  971039802  2  1 BrcA -     -     -        32250 32250    0 9h Tc
+Sinclair  971808023 16  8 f   -     -     -        10000    0    0 
+Sinclair  971808105 16  7 c   c     k     b        10000 3600 5400 
+Sinclair  971808205 16  6 f   -     -     -        11800    0    0 
+Sinclair  971808295 14  5 f   -     -     -        11800    0    0 
+Sinclair  971808449 14  4 c   kc    f     -        11800 1900    0 
+Sinclair  971808557 13  3 f   -     -     -         9900    0    0 
+Sinclair  971808687 13  2 Bk  kc    k     k         9900 1300    0 Jh 3c
+Sinclair  971808809 13  1 Bc  kc    bA    -         8600 8600 13675 Kc As
+Sinclair  971808913 12 12 c   f     -     -        13675 3400    0 
+Sinclair  971808991 12 11 f   -     -     -        10275    0    0 
+Sinclair  971809071 12 10 f   -     -     -        10275    0    0 
+Sinclair  971809125 12  9 f   -     -     -        10275    0    0 
+Sinclair  971809157 12  8 f   -     -     -        10275    0    0 
+Sinclair  971809190 11  7 f   -     -     -        10275    0    0 
+Sinclair  971809279 11  6 cc  f     -     -        10275  800    0 
+Sinclair  971809342 11  5 cc  kc    -     -         9475 6175 15150 Th Kh
+Sinclair  971809416 10  4 f   -     -     -        18450    0    0 
+Sinclair  971809452 10  3 f   -     -     -        18450    0    0 
+Sinclair  971809495 10  2 Bk  f     -     -        18450  800    0 
+Sinclair  971809571  9  1 Bf  -     -     -        17650  400    0 
+Sinclair  971809598  9  9 f   -     -     -        17250    0    0 
+Sinclair  971809687  9  8 f   -     -     -        17250    0    0 
+Sinclair  971809772  9  7 f   -     -     -        17250    0    0 
+Sinclair  971809825  9  6 f   -     -     -        17250    0    0 
+Sinclair  971809842  9  5 c   b     -     -        17250 7200 11200 
+Sinclair  971809871  9  4 f   -     -     -        21250    0    0 
+Sinclair  971809920  9  3 f   -     -     -        21250    0    0 
+Sinclair  971809953  9  2 Bf  -     -     -        21250 1600    0 
+Sinclair  971809989  8  1 Bf  -     -     -        19650  800    0 
+Sinclair  971810027  8  8 f   -     -     -        18850    0    0 
+Sinclair  971810047  8  7 f   -     -     -        18850    0    0 
+Sinclair  971810061  8  6 f   -     -     -        18850    0    0 
+Sinclair  971810106  8  5 cc  cA    -     -        18850 18850    0 8s Ah
+Sinclair  971889270 10  9 f   -     -     -        10000    0    0 
+Sinclair  971889319 10  8 f   -     -     -        10000    0    0 
+Sinclair  971889388  9  6 f   -     -     -        10000    0    0 
+Sinclair  971889481  9  6 f   -     -     -        10000    0    0 
+Sinclair  971889547  9  5 f   -     -     -        10000    0    0 
+Sinclair  971889571  9  4 f   -     -     -        10000    0    0 
+Sinclair  971889687  8  3 f   -     -     -        10000    0    0 
+Sinclair  971889727  8  2 Bf  -     -     -        10000  600    0 
+Sinclair  971889755  8  1 Bf  -     -     -         9400  300    0 
+Sinclair  971889781  8  8 f   -     -     -         9100    0    0 
+Sinclair  971889797  7  6 f   -     -     -         9100    0    0 
+Sinclair  971889837  6  4 f   -     -     -         9100    0    0 
+Sinclair  971889868  6  4 f   -     -     -         9100    0    0 
+Sinclair  971889881  6  3 f   -     -     -         9100    0    0 
+Sinclair  971889894  6  2 Bk  f     -     -         9100 1200    0 
+Sinclair  971889919  5  1 Bf  -     -     -         7900  600    0 
+Sinclair  971889945  5  5 f   -     -     -         7300    0    0 
+Sinclair  971889977  4  3 f   -     -     -         7300    0    0 
+Sinclair  971889998  4  3 ccA -     -     -         7300 7300 15800 Qs Qd
+Sinclair  971890012  4  2 Bk  k     b     -        15800 3600 4800 
+Sinclair  971890045  4  1 Bc  b     b     -        17000 10800 14400 
+Sinclair  971890075  4  4 f   -     -     -        20600    0    0 
+Sinclair  971890084  4  3 f   -     -     -        20600    0    0 
+Sinclair  971890098  4  2 Bf  -     -     -        20600 2400    0 
+Sinclair  971890107  4  1 BrcA -     -     -        18200 18200    0 Tc Jh
+Sinclair  971890541 11  5 f   -     -     -        10000    0    0 
+Sinclair  971890574 10  3 f   -     -     -        10000    0    0 
+Sinclair  971890707  8  2 f   -     -     -        10000    0    0 
+Sinclair  971890748  8  2 Bf  -     -     -        10000  100    0 
+Sinclair  971890804  8  1 Bf  -     -     -         9900   50    0 
+Sinclair  971890814  8  8 f   -     -     -         9850    0    0 
+Sinclair  971890831  8  7 f   -     -     -         9850    0    0 
+Sinclair  971890876  8  6 c   f     -     -         9850  700    0 
+Sinclair  971890930  8  5 c   k     k     k         9150  700    0 Qh Ac
+Sinclair  971890969  8  4 f   -     -     -         8450    0    0 
+Sinclair  971891025  8  3 f   -     -     -         8450    0    0 
+Sinclair  971891118  8  2 Bk  kf    -     -         8450  200    0 
+Sinclair  971891196  8  1 Bf  -     -     -         8250  100    0 
+Sinclair  971891249  7  7 f   -     -     -         8150    0    0 
+Sinclair  971891296  7  6 c   k     k     f         8150  400    0 
+Sinclair  971891335  7  5 c   k     f     -         7750  400    0 
+Sinclair  971891386  7  4 f   -     -     -         7350    0    0 
+Sinclair  971891418  7  3 cc  bA    -     -         7350 7350    0 Qc Kd
+Sinclair  971892968 20  7 f   -     -     -        10000    0    0 
+Sinclair  971893101 20  6 f   -     -     -        10000    0    0 
+Sinclair  971893209 20  5 f   -     -     -        10000    0    0 
+Sinclair  971893265 18  4 f   -     -     -        10000    0    0 
+Sinclair  971893396 18  3 f   -     -     -        10000    0    0 
+Sinclair  971893438 18  2 Bk  k     k     k        10000  200    0 Ad 2h
+Sinclair  971893551 18  1 Bf  -     -     -         9800  100    0 
+Sinclair  971893673 16 16 f   -     -     -         9700    0    0 
+Sinclair  971893741 15 14 f   -     -     -         9700    0    0 
+Sinclair  971893850 15 14 c   c     f     -         9700 3200    0 
+Sinclair  971893981 14 12 f   -     -     -         6500    0    0 
+Sinclair  971894090 14 12 c   k     f     -         6500  400    0 
+Sinclair  971894174 14 11 f   -     -     -         6100    0    0 
+Sinclair  971894252 14 10 f   -     -     -         6100    0    0 
+Sinclair  971894311 12  7 f   -     -     -         6100    0    0 
+Sinclair  971894399 10  5 c   f     -     -         6100  800    0 
+Sinclair  971894478 10  4 f   -     -     -         5300    0    0 
+Sinclair  971894570 10  3 f   -     -     -         5300    0    0 
+Sinclair  971894614 10  2 Bk  kf    -     -         5300  800    0 
+Sinclair  971894702 10  1 Bf  -     -     -         4500  800    0 
+Sinclair  971894737 10 10 f   -     -     -         3700    0    0 
+Sinclair  971894793  9  9 f   -     -     -         3700    0    0 
+Sinclair  971894848  8  7 f   -     -     -         3700    0    0 
+Sinclair  971894910  8  7 f   -     -     -         3700    0    0 
+Sinclair  971894951  8  6 f   -     -     -         3700    0    0 
+Sinclair  971894987  8  5 f   -     -     -         3700    0    0 
+Sinclair  971895006  8  4 f   -     -     -         3700    0    0 
+Sinclair  971895049  8  3 f   -     -     -         3700    0    0 
+Sinclair  971895096  8  2 BrA -     -     -         3700 3700    0 7c Qd
+Sinclair  972413290 13  7 c   r     -     -        10000 8400 11700 
+Sinclair  972413335 13  6 f   -     -     -        13300    0    0 
+Sinclair  972413400 12  4 cf  -     -     -        13300  100    0 
+Sinclair  972413442 12  4 f   -     -     -        13200    0    0 
+Sinclair  972413491 12  3 f   -     -     -        13200    0    0 
+Sinclair  972413532 12  2 Bf  -     -     -        13200  100    0 
+Sinclair  972413569 12  1 Bf  -     -     -        13100   50    0 
+Sinclair  972413647 12 12 c   c     c     rA       13050 13050 23150 Td Ts
+Sinclair  972413712 11 10 cc  c     -     -        23150 11905 12730 Th Js
+Sinclair  972413768  9  7 f   -     -     -        23975    0    0 
+Sinclair  972413828  9  7 cc  kc    kc    bA       23975 23975 14525 As Ks
+Sinclair  972413869  9  6 f   -     -     -        14525    0    0 
+Sinclair  972413917  8  5 f   -     -     -        14525    0    0 
+Sinclair  972413949  8  4 cc  k     k     k        14525 1400    0 Js Ks
+Sinclair  972414003  8  3 f   -     -     -        13125    0    0 
+Sinclair  972414046  8  2 Bf  -     -     -        13125  200    0 
+Sinclair  972414117  7  1 Bc  b     b     -        12925 3600 4800 
+Sinclair  972414147  7  7 c   f     -     -        14125  400    0 
+Sinclair  972414168  7  6 f   -     -     -        13725    0    0 
+Sinclair  972414199  7  5 c   k     k     k        13725  400 1000 2h 9h
+Sinclair  972414237  7  4 f   -     -     -        14325    0    0 
+Sinclair  972414262  7  3 cc  kf    -     -        14325 1800    0 
+Sinclair  972414299  6  2 BrA -     -     -        12525 12525    0 6c 6s
+Sinclair  972415293 12  9 f   -     -     -        10000    0    0 
+Sinclair  972415360 12  8 f   -     -     -        10000    0    0 
+Sinclair  972415434 12  7 r   r     bA    -        10000 10000    0 Qc Qh
+Sinclair  972479554  7  3 f   -     -     -        10000    0    0 
+Sinclair  972479595  7  2 Bk  kf    -     -        10000   50    0 
+Sinclair  972479715  7  1 Bf  -     -     -         9950   25    0 
+Sinclair  972479792  7  7 c   b     f     -         9925  350    0 
+Sinclair  972479868  7  6 c   f     -     -         9575  100    0 
+Sinclair  972479962  7  5 c   k     k     c         9475  450    0 Td 8s
+Sinclair  972480026  7  4 f   -     -     -         9025    0    0 
+Sinclair  972480089  7  3 f   -     -     -         9025    0    0 
+Sinclair  972480162  7  2 Br  b     -     -         9025 4300 7000 
+Sinclair  972480235  7  1 Bf  -     -     -        11725  100    0 
+Sinclair  972480282  5  5 cf  -     -     -        11625  200    0 
+Sinclair  972480322  5  4 f   -     -     -        11425    0    0 
+Sinclair  972480362  5  3 f   -     -     -        11425    0    0 
+Sinclair  972480417  5  2 Bk  f     -     -        11425  200    0 
+Sinclair  972480453  5  1 Bc  kf    -     -        11225  200    0 
+Sinclair  972480519  5  5 f   -     -     -        11025    0    0 
+Sinclair  972480541  5  4 f   -     -     -        11025    0    0 
+Sinclair  972480577  5  3 f   -     -     -        11025    0    0 
+Sinclair  972480638  5  2 BQ  -     -     -        11025  400    0 
+Sinclair  972482150  7  7 f   -     -     -         5000    0    0 
+Sinclair  972482185  7  6 f   -     -     -         5000    0    0 
+Sinclair  972482214  7  5 f   -     -     -         5000    0    0 
+Sinclair  972482271  7  4 f   -     -     -         5000    0    0 
+Sinclair  972482340  7  3 c   b     -     -         5000  250  400 
+Sinclair  972482369  7  2 Bk  k     r     rA        5150 5150 2625 4d 5c
+Sinclair  972482429  7  1 Bc  kc    brA   -         2625 2625 5425 
+Sinclair  972482472  7  7 f   -     -     -         5425    0    0 
+Sinclair  972482530  7  6 c   c     f     -         5425  425    0 
+Sinclair  972482591  7  5 cc  kf    -     -         5000  550    0 
+Sinclair  972482658  7  4 c   k     k     kc        4450  600    0 Ad 6d
+Sinclair  972482748  7  3 f   -     -     -         3850    0    0 
+Sinclair  972482814  7  2 Bk  b     b     bA        3850 3850 6150 
+Sinclair  972482871  7  1 Bc  b     b     -         6150 4200 6000 
+Sinclair  972482918  7  7 f   -     -     -         7950    0    0 
+Sinclair  972482972  7  6 f   -     -     -         7950    0    0 
+Sinclair  972483009  7  5 c   k     kc    kc        7950 3800 8100 5s Jd
+Sinclair  972483062  7  4 f   -     -     -        12250    0    0 
+Sinclair  972483109  7  3 cc  k     b     -        12250 2048 3222 4s 8s
+Sinclair  972483161  6  2 B   -     -     -        13424  400  600 
+Sinclair  972483172  6  1 Bc  kf    -     -        13624  400    0 
+Sinclair  972483215  5  5 c   k     k     b        13224 1800 2800 
+Sinclair  972483261  5  4 f   -     -     -        14224    0    0 
+Sinclair  972483304  5  3 f   -     -     -        14224    0    0 
+Sinclair  972483316  5  2 Bk  kf    -     -        14224  400    0 
+Sinclair  972483355  5  1 Bc  b     -     -        13824 1200 1600 
+Sinclair  972483376  5  5 f   -     -     -        14224    0    0 
+Sinclair  972483404  5  4 f   -     -     -        14224    0    0 
+Sinclair  972483467  5  3 f   -     -     -        14224    0    0 
+Sinclair  972483527  5  2 Bf  -     -     -        14224  800    0 
+Sinclair  972483552  4  1 Bcf -     -     -        13424  800    0 
+Sinclair  972483574  4  4 r   c     -     -        12624 3225    0 5s 5d
+Sinclair  972483595  4  3 c   k     b     -         9399 3600 5600 
+Sinclair  972483636  4  2 Bf  -     -     -        11399  800    0 
+Sinclair  972483644  4  1 Bf  -     -     -        10599  400    0 
+Sinclair  972483648  4  4 f   -     -     -        10199    0    0 
+Sinclair  972483664  4  3 f   -     -     -        10199    0    0 
+Sinclair  972483671  4  2 B   -     -     -        10199  800 1200 
+Sinclair  972483683  4  1 Bf  -     -     -        10599  400    0 
+Sinclair  972483714  4  4 f   -     -     -        10199    0    0 
+Sinclair  972483748  4  3 f   -     -     -        10199    0    0 
+Sinclair  972483783  4  2 Bk  bc    -     -        10199 6450    0 7c 6d
+Sinclair  972483812  4  1 Bf  -     -     -         3749  800    0 
+Sinclair  972483861  4  4 f   -     -     -         2949    0    0 
+Sinclair  972483892  4  3 c   bA    -     -         2949 2949 5349 
+Sinclair  972483918  4  2 B   -     -     -         5349 1600 2400 
+Sinclair  972483927  4  1 Bf  -     -     -         6149  800    0 
+Sinclair  972483940  4  4 c   k     f     -         5349 1600    0 
+Sinclair  972484075  4  3 f   -     -     -         3749    0    0 
+Sinclair  972484108  4  2 BrA -     -     -         3749 3749    0 5s Qh

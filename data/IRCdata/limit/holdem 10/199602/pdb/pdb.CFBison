@@ -1,0 +1,74 @@
+CFBison   823888610  3  2 Bf  -     -     -         1000   10    0 
+CFBison   823888632  3  1 Bf  -     -     -          990    5    0 
+CFBison   823888651  3  3 r   f     -     -          985   20    0 
+CFBison   823888668  3  2 Bc  r     -     -          965   40   70 
+CFBison   823888686  3  1 Bf  -     -     -          995    5    0 
+CFBison   823888706  3  3 rr  rr    b     -          990  100  190 
+CFBison   823888748  4  2 Bf  -     -     -         1080   10    0 
+CFBison   823888788  5  1 Br  kc    bf    -         1070   50    0 
+CFBison   823888831  5  5 f   -     -     -         1020    0    0 
+CFBison   823888899  5  4 f   -     -     -         1020    0    0 
+CFBison   823888951  6  3 f   -     -     -         1020    0    0 
+CFBison   823888999  5  2 Bk  k     f     -         1020   10    0 
+CFBison   823889032  6  1 Bf  -     -     -         1010    5    0 
+CFBison   823889046  6  6 f   -     -     -         1005    0    0 
+CFBison   823889080  6  5 f   -     -     -         1005    0    0 
+CFBison   823889127  6  4 r   -     -     -         1005   20   35 
+CFBison   823889143  7  3 f   -     -     -         1020    0    0 
+CFBison   823889165  7  2 Br  b     -     -         1020   40   75 
+CFBison   823889216  7  1 Br  b     kr    -         1055   80  150 
+CFBison   823889278  8  8 f   -     -     -         1125    0    0 
+CFBison   823889324  8  7 r   b     b     b         1125   70  155 Js Jh
+CFBison   823889449  9  8 f   -     -     -         1210    0    0 
+CFBison   823889492  9  7 f   -     -     -         1210    0    0 
+CFBison   823889564 11  7 f   -     -     -         1210    0    0 
+CFBison   823889655 10  6 f   Q     -     -         1210    0    0 
+CFBison   825447028 12  3 r   b     br    kc        1210  110  248 4s Kc
+CFBison   825447157 12  2 Bf  -     -     -         1348   10    0 
+CFBison   825447279 10  1 Bf  -     -     -         1338    5    0 
+CFBison   825447471 12 11 rr  c     f     -         1333   50    0 
+CFBison   825447615 12 10 c   rc    c     f         1283   60    0 
+CFBison   825447723 12  9 fQ  -     -     -         1223    0    0 
+CFBison   825522928  5  4 c   k     cc    kf        1223   50    0 
+CFBison   825523005  4  2 Bk  kf    -     -         1173   10    0 
+CFBison   825523064  5  1 Brc krc   kf    -         1163   60    0 
+CFBison   825523128  5  5 f   -     -     -         1103    0    0 
+CFBison   825523203  6  5 f   -     -     -         1103    0    0 
+CFBison   825523310  6  4 f   -     -     -         1103    0    0 
+CFBison   825523374  6  3 f   -     -     -         1103    0    0 
+CFBison   825523446  6  2 Bk  kf    -     -         1103   10    0 
+CFBison   825523588  6  1 Bc  b     k     kr        1093   60  140 Jd Tc
+CFBison   825523647  6  6 f   -     -     -         1173    0    0 
+CFBison   825523786  8  7 rf  -     -     -         1173   20    0 
+CFBison   825523885  8  6 f   -     -     -         1153    0    0 
+CFBison   825523938  9  6 f   -     -     -         1153    0    0 
+CFBison   825524045  9  5 c   krc   r     br        1153  150  485 7s 8s
+CFBison   825524184  8  3 f   -     -     -         1488    0    0 
+CFBison   825524271  8  2 Bk  f     -     -         1488   10    0 
+CFBison   825524339  9  1 Bc  kf    -     -         1478   10    0 
+CFBison   825524481  9  9 f   -     -     -         1468    0    0 
+CFBison   825524577 11 10 f   -     -     -         1468    0    0 
+CFBison   825524714 12 10 r   b     b     k         1468   50    0 Kd Qc
+CFBison   825524822 10  7 Q   -     -     -         1418    0    0 
+CFBison   825617695  7  7 f   -     -     -         1418    0    0 
+CFBison   825617805  9  7 r   c     c     f         1418   50    0 
+CFBison   825617914  8  5 f   -     -     -         1368    0    0 
+CFBison   825618023 10  5 f   -     -     -         1368    0    0 
+CFBison   825618126 12  4 f   -     -     -         1368    0    0 
+CFBison   825618242 12  3 f   -     -     -         1368    0    0 
+CFBison   825618423 12  2 Bc  bc    kc    kc        1368   80    0 Ks 2h
+CFBison   825618639 12  1 Bc  k     kf    -         1288   10    0 
+CFBison   825618810 11 11 c   f     -     -         1278   10    0 
+CFBison   825619011  8  8 f   -     -     -         1268    0    0 
+CFBison   825619155  7  4 Q   -     -     -         1268    0    0 
+CFBison   825629733  7  6 f   -     -     -         1268    0    0 
+CFBison   825629786  9  6 f   -     -     -         1268    0    0 
+CFBison   825629849 10  5 f   -     -     -         1268    0    0 
+CFBison   825629923 10  4 c   kf    -     -         1268   10    0 
+CFBison   825630038 11  3 cc  rc    cc    b         1258  130  550 Ad Tc
+CFBison   825630191  9  2 Bf  -     -     -         1678   10    0 
+CFBison   825630280  9  1 Bf  -     -     -         1668    5    0 
+CFBison   825630414 10 10 f   -     -     -         1663    0    0 
+CFBison   825630510 10  9 c   c     f     -         1663   30    0 
+CFBison   825630623 10  8 f   -     -     -         1633    0    0 
+CFBison   825630684 10  7 f   -     Q     -         1633    0    0 

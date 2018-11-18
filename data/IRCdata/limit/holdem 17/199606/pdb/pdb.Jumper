@@ -1,0 +1,382 @@
+Jumper    833844191 12  6 f   -     -     -         1545    0    0 
+Jumper    833844274 12  5 f   -     -     -         1545    0    0 
+Jumper    833844454 12  5 f   -     -     -         1545    0    0 
+Jumper    833844522 12  3 ccc f     -     -         1545   30    0 
+Jumper    833844636 12  2 Br  b     br    b         1515  110    0 7h Ah
+Jumper    833844752 12  1 Bf  -     -     -         1405    5    0 
+Jumper    833844865 12 12 c   c     cc    f         1400   90    0 
+Jumper    833844961 11 11 r   c     k     f         1310   40    0 
+Jumper    833845104 11  9 c   f     -     -         1270   10    0 
+Jumper    833845186 11  8 f   -     -     -         1260    0    0 
+Jumper    833845334 12  7 KQ  -     -     -         1260    0    0 
+Jumper    833845931 10  8 c   c     k     f         1260   20    0 
+Jumper    833846044 10  7 f   -     -     -         1240    0    0 
+Jumper    833846228  9  6 f   -     -     -         1240    0    0 
+Jumper    833846339  8  5 f   -     -     -         1240    0    0 
+Jumper    833846446  9  5 f   -     -     -         1240    0    0 
+Jumper    833846571 11  4 f   -     -     -         1240    0    0 
+Jumper    833846749 10  2 c   kc    k     b         1240   40  180 
+Jumper    833846881 12  2 Bk  kc    kc    kf        1380   40    0 
+Jumper    833847030 11  1 Bc  kc    kf    -         1340   20    0 
+Jumper    833847239 11 11 f   -     -     -         1320    0    0 
+Jumper    833847418 12 11 f   -     -     -         1320    0    0 
+Jumper    833847546 12 10 cc  c     b     c         1320   70    0 7h 7c
+Jumper    833847654 12  9 f   -     -     -         1250    0    0 
+Jumper    833847739 12  8 f   -     -     -         1250    0    0 
+Jumper    833847846 12  7 f   -     -     -         1250    0    0 
+Jumper    833847938 12  6 f   -     -     -         1250    0    0 
+Jumper    833848044 12  5 c   c     c     r         1250   80  200 
+Jumper    833848128 12  4 c   bc    k     f         1370   30    0 
+Jumper    833848261 12  3 rQ  -     QQ    -         1340   20    0 
+Jumper    833918143  9  7 c   c     f     -         1320   20    0 
+Jumper    833918233  8  6 f   -     -     -         1300    0    0 
+Jumper    833918304  8  5 f   -     -     -         1300    0    0 
+Jumper    833918365  8  4 f   -     -     -         1300    0    0 
+Jumper    833918425  8  3 f   -     -     -         1300    0    0 
+Jumper    833918475  8  2 Bc  k     k     kf        1300   20    0 
+Jumper    833918543  8  1 Bc  kf    -     -         1280   20    0 
+Jumper    833918622  9  9 f   -     -     -         1260    0    0 
+Jumper    833918763  8  8 c   c     f     -         1260   20    0 
+Jumper    833918854  8  7 f   -     -     -         1240    0    0 
+Jumper    833918936  7  6 ccc r     b     k         1240   80    0 5c Ad
+Jumper    833919068  9  7 f   -     -     -         1160    0    0 
+Jumper    833919194 11  6 f   -     -     -         1160    0    0 
+Jumper    833919345 11  5 cc  krc   bc    bc        1160  140    0 Ad 4h
+Jumper    833919455  9  3 cf  -     -     -         1020   10    0 
+Jumper    833919546  9  2 Bk  kf    -     -         1010   10    0 
+Jumper    833919648 10  1 Bf  -     -     -         1000    5    0 
+Jumper    833919750 10 10 f   -     -     -          995    0    0 
+Jumper    833919860 10  9 f   -     -     -          995    0    0 
+Jumper    833919973 10  8 cc  c     k     f          995   60    0 
+Jumper    833920162  9  6 f   -     -     -          935    0    0 
+Jumper    833920272  9  4 f   -     -     -          935    0    0 
+Jumper    833920386  9  3 f   -     -     -          935    0    0 
+Jumper    833920474  9  2 Bc  kc    kc    kf         935   50    0 
+Jumper    833920587  8  1 Bf  -     -     -          885    5    0 
+Jumper    833920664  8  8 cc  c     f     -          880   40    0 
+Jumper    833920752  8  7 f   -     -     -          840    0    0 
+Jumper    833920830  8  6 f   -     -     -          840    0    0 
+Jumper    833920902  7  4 r   rr    b     b          840  100  310 Ac As
+Jumper    833920973  7  3 f   -     -     -         1050    0    0 
+Jumper    833921062  7  2 Bk  cc    kc    kc        1050   70  220 8s 8h
+Jumper    833921180  6  1 Bc  bc    kcc   kf        1200  140    0 
+Jumper    833921268  6  6 f   -     -     -         1060    0    0 
+Jumper    833921410  5  4 c   c     c     r         1060  120  460 8d Kd
+Jumper    833921469  5  3 f   -     -     -         1400    0    0 
+Jumper    833921575  6  2 cc  kc    kc    kc        1400   80    0 Th Kd
+Jumper    833921673  8  2 Bcc krc   br    brc       1320  220  935 Qd Ks
+Jumper    833921814  7  1 Bcc kc    br    b         2035  150  550 9d Td
+Jumper    833921933  9  9 rc  rc    cc    f         2435  160    0 
+Jumper    833922131 10  9 f   -     -     -         2275    0    0 
+Jumper    833922214 10  8 c   c     r     b         2275   80  360 4c Ac
+Jumper    833922382  8  8 cc  k     f     -         2555   30    0 
+Jumper    833922496  6  5 c   b     b     b         2525   60  145 Ks Kc
+Jumper    833922545  7  5 c   kf    -     -         2610   10    0 
+Jumper    833922632  6  4 c   c     c     f         2600   50    0 
+Jumper    833922682  6  3 f   -     -     -         2550    0    0 
+Jumper    833922739  6  2 Bcc kcc   k     kc        2550  100  305 4d Qc
+Jumper    833922847  7  1 Bcc k     kc    kc        2755   80    0 As 6d
+Jumper    833922937  8  7 f   -     -     -         2675    0    0 
+Jumper    833923011  8  6 f   -     -     -         2675    0    0 
+Jumper    833923094  7  4 c   k     k     kf        2675   10    0 
+Jumper    833923157  7  3 f   -     -     -         2665    0    0 
+Jumper    833923249  7  2 Bk  bcc   kc    kf        2665   90    0 
+Jumper    833923380  8  1 Bf  -     -     -         2575    5    0 
+Jumper    833923423  8  8 cc  c     r     b         2570  110    0 Td Qh
+Jumper    833923524  9  8 f   -     -     -         2460    0    0 
+Jumper    833923601  9  7 cc  bcc   kc    f         2460  100    0 
+Jumper    833923720  8  6 cc  f     -     -         2360   20    0 
+Jumper    833923822  9  5 cc  cc    f     -         2340   50    0 
+Jumper    833923899  9  4 ccc kcc   kf    -         2290   70    0 
+Jumper    833924022  9  3 f   -     -     -         2220    0    0 
+Jumper    833924142 10  2 Bc  kf    -     -         2220   40    0 
+Jumper    833924281 10  1 Bf  -     -     -         2180    5    0 
+Jumper    833924411 10 10 c   f     -     -         2175   10    0 
+Jumper    833924602 10  9 f   -     -     -         2165    0    0 
+Jumper    833924769 10  8 f   -     -     -         2165    0    0 
+Jumper    833924923 10  9 cc  c     c     f         2165   50    0 
+Jumper    833925067 11  8 cc  bc    kc    k         2115   60    0 9d Ac
+Jumper    833925241 11  7 c   c     c     b         2055   60    0 Td Ac
+Jumper    833925317 12  6 f   -     -     -         1995    0    0 
+Jumper    833925407 12  5 f   -     -     -         1995    0    0 
+Jumper    833925489 12  4 f   -     -     -         1995    0    0 
+Jumper    833925734 11  3 fQQ -     -     -         1995    0    0 
+Jumper    834012406  8  2 Bc  f     -     -         1995   20    0 
+Jumper    834012469  9  1 Bf  -     -     -         1975    5    0 
+Jumper    834012539  9  9 f   -     -     -         1970    0    0 
+Jumper    834012601  7  6 c   c     k     k         1970   20   45 3d 3c
+Jumper    834012653  7  5 f   -     -     -         1995    0    0 
+Jumper    834012707  8  4 c   f     -     -         1995   20    0 
+Jumper    834012790  6  2 Bc  kc    bc    k         1975   70    0 Ac 9c
+Jumper    834012871  8  1 Bc  kc    kf    -         1905   30    0 
+Jumper    834013002  9  9 f   -     -     -         1875    0    0 
+Jumper    834013087 10  9 f   -     -     -         1875    0    0 
+Jumper    834013168 10  8 c   k     c     f         1875   30    0 
+Jumper    834013261 10  7 f   -     -     -         1845    0    0 
+Jumper    834013377 10  6 f   -     -     -         1845    0    0 
+Jumper    834013514 12  7 c   kf    -     -         1845   10    0 
+Jumper    834013630 12  6 cc  k     b     -         1835   40   95 
+Jumper    834013700 10  3 f   -     -     -         1890    0    0 
+Jumper    834013808 12  4 cc  cc    kf    -         1890   50    0 
+Jumper    834013918  6  2 Bc  k     f     -         1840   20    0 
+Jumper    834014014  8  1 Bf  -     -     -         1820    5    0 
+Jumper    834014171  8  8 c   cc    cc    k         1815   90    0 Qd Ts
+Jumper    834014345  8  7 f   -     -     -         1725    0    0 
+Jumper    834014439  8  6 cc  c     c     k         1725   50  190 8s Ts
+Jumper    834014535  8  5 cc  crc   kc    k         1865   80    0 Ks 4c
+Jumper    834014666  7  3 rc  bcc   kc    kc        1785  110    0 Jh Ad
+Jumper    834014777  6  1 Bk  kc    kf    -         1675   20    0 
+Jumper    834014876  6  1 Bf  -     -     -         1655    5    0 
+Jumper    834014937  6  6 f   -     -     -         1650    0    0 
+Jumper    834015022  5  4 f   -     -     -         1650    0    0 
+Jumper    834015120  5  3 r   c     f     -         1650   30    0 
+Jumper    834015183  5  1 Bk  kc    kf    -         1620   20    0 
+Jumper    834015218  4  1 Br  b     b     b         1600   70  140 
+Jumper    834015285  4  4 r   b     rrc   rr        1670  210  450 As 2s
+Jumper    834015360  6  5 f   -     -     -         1910    0    0 
+Jumper    834015452  6  4 c   f     -     -         1910   10    0 
+Jumper    834015517  6  3 f   -     -     -         1900    0    0 
+Jumper    834015590  6  2 Bk  bc    kc    k         1900   50  155 5h 4s
+Jumper    834015634  6  1 Br  kc    kf    -         2005   30    0 
+Jumper    834015724  7  7 c   c     c     f         1975   40    0 
+Jumper    834015795  7  6 f   -     -     -         1935    0    0 
+Jumper    834015841  7  5 c   k     f     -         1935   10    0 
+Jumper    834015925  6  4 f   -     -     -         1925    0    0 
+Jumper    834015989  6  3 f   -     -     -         1925    0    0 
+Jumper    834016028  5  2 Bc  k     c     f         1925   40    0 
+Jumper    834016072  5  1 Bf  -     -     -         1885    5    0 
+Jumper    834016088  5  5 f   -     -     -         1880    0    0 
+Jumper    834016157  7  4 f   -     -     -         1880    0    0 
+Jumper    834016205  7  3 f   -     -     -         1880    0    0 
+Jumper    834016264  7  2 Bc  kc    kf    -         1880   30    0 
+Jumper    834016321  7  1 Bf  -     -     -         1850    5    0 
+Jumper    834016393  7  7 f   -     -     -         1845    0    0 
+Jumper    834016443  7  6 f   -     -     -         1845    0    0 
+Jumper    834016520  9  7 f   -     -     -         1845    0    0 
+Jumper    834016624  9  6 f   -     -     -         1845    0    0 
+Jumper    834016709  9  5 f   -     -     -         1845    0    0 
+Jumper    834016786  9  4 f   -     -     -         1845    0    0 
+Jumper    834016928  9  3 c   k     b     k         1845   30    0 7s Ac
+Jumper    834017012  7  2 Bk  k     c     f         1815   30    0 
+Jumper    834017066  7  1 Bcc k     kc    kf        1785   40    0 
+Jumper    834017135  7  7 c   k     f     -         1745   20    0 
+Jumper    834017220  7  6 c   kf    -     -         1725   10    0 
+Jumper    834017307  7  5 cc  b     b     k         1715   50    0 4s Ah
+Jumper    834017405  7  4 cc  kc    kc    kc        1665   70    0 As 3d
+Jumper    834017463  7  3 c   k     c     rc        1595   90  320 6h 5s
+Jumper    834017541  7  2 Bk  k     k     b         1825   30    0 6s 7c
+Jumper    834017595  7  1 Bc  kc    kf    -         1795   30    0 
+Jumper    834017672  7  7 c   b     b     b         1765   60  210 Qd 9h
+Jumper    834017768  7  6 c   k     k     k         1915   10   30 3c 5c
+Jumper    834017867  6  4 f   -     -     -         1935    0    0 
+Jumper    834017925  6  3 c   k     k     f         1935   10    0 
+Jumper    834017991  6  2 Br  b     b     b         1925   80  245 Tc Ac
+Jumper    834018091  6  1 Bf  -     -     -         2090    5    0 
+Jumper    834018155  6  6 c   k     b     b         2085   50    0 Ac 7h
+Jumper    834018235  6  5 c   k     k     b         2035   30  100 9c 4c
+Jumper    834018304  6  4 f   -     -     -         2105    0    0 
+Jumper    834018365  7  4 f   -     -     -         2105    0    0 
+Jumper    834018410  7  3 f   -     -     -         2105    0    0 
+Jumper    834018569  7  2 Bk  kf    -     -         2105   10    0 
+Jumper    834018703  8  1 Bc  kc    kc    kf        2095   40    0 
+Jumper    834018785  8  8 r   b     b     b         2055   70  255 Kd 5d
+Jumper    834018856  8  7 cc  kc    k     bc        2240   70    0 8c Kh
+Jumper    834018965  8  6 f   -     -     -         2170    0    0 
+Jumper    834019017  8  5 c   f     -     -         2170   10    0 
+Jumper    834019098  8  4 f   -     -     -         2160    0    0 
+Jumper    834019173  8  3 f   -     -     -         2160    0    0 
+Jumper    834019244  8  2 Bk  k     k     kf        2160   10    0 
+Jumper    834019340  7  1 Br  b     b     b         2150   70    0 Tc Td
+Jumper    834019382  8  8 f   -     -     -         2080    0    0 
+Jumper    834019444  8  7 f   -     -     -         2080    0    0 
+Jumper    834019506  7  5 f   -     -     -         2080    0    0 
+Jumper    834019594  7  4 f   -     -     -         2080    0    0 
+Jumper    834019673  8  3 f   -     -     -         2080    0    0 
+Jumper    834019764  8  2 Bc  k     k     k         2080   20    0 6s Qh
+Jumper    834019851  8  1 Bc  kc    kc    kf        2060   50    0 
+Jumper    834019953 11 11 r   cc    c     f         2010   90    0 
+Jumper    834020101 11 10 c   cc    f     -         1920   80    0 
+Jumper    834020260 11  9 c   f     -     -         1840   30    0 
+Jumper    834020430 11  7 f   -     -     -         1810    0    0 
+Jumper    834020777  9  5 f   -     -     -         1810    0    0 
+Jumper    834020839 12  5 c   kc    kf    -         1810   20    0 
+Jumper    834020952 10  2 f   -     -     -         1790    0    0 
+Jumper    834021069  8  2 Bc  f     -     -         1790   20    0 
+Jumper    834021190  9  1 Bf  -     -     -         1770    5    0 
+Jumper    834021319 11 11 c   f     -     -         1765   20    0 
+Jumper    834021491 11 10 f   -     -     -         1745    0    0 
+Jumper    834021606 10  8 c   cc    kc    kc        1745   70    0 3d 4d
+Jumper    834021742 11  8 c   c     c     f         1675   50    0 
+Jumper    834021924 12  7 c   b     k     f         1625   20    0 
+Jumper    834022083 12  6 c   f     -     -         1605   20    0 
+Jumper    834022170 12  5 f   -     -     -         1585    0    0 
+Jumper    834022293 12  4 cc  kf    -     -         1585   20    0 
+Jumper    834022476 11  3 c   k     f     Q         1565   10    0 
+Jumper    834102318  7  5 f   -     -     -         1555    0    0 
+Jumper    834102470  5  3 r   k     kc    k         1555   40    0 8s 8h
+Jumper    834102514  3  1 Bk  b     b     k         1515   40  100 Ah 2c
+Jumper    834102554  4  1 Br  b     -     -         1575   30   50 
+Jumper    834102644  3  3 r   -     -     -         1595   20   35 
+Jumper    834102654  3  2 B   -     -     -         1610   10   15 
+Jumper    834102662  3  1 Bc  kf    -     -         1615   10    0 
+Jumper    834102700  3  3 c   b     -     -         1605   20   40 
+Jumper    834102728  5  3 f   -     -     -         1625    0    0 
+Jumper    834102780  5  2 Bc  kc    b     b         1625   70  175 
+Jumper    834102833  5  1 Bc  k     k     kf        1730   10    0 
+Jumper    834102887  7  7 f   -     -     -         1720    0    0 
+Jumper    834103073  7  6 f   -     -     -         1720    0    0 
+Jumper    834103136  7  4 c   k     kf    -         1720   10    0 
+Jumper    834103272  7  3 f   -     -     -         1710    0    0 
+Jumper    834103407  5  2 Bk  k     kf    -         1710   10    0 
+Jumper    834103455  5  1 Bc  kr    kc    kf        1700   60    0 
+Jumper    834103573  4  4 f   -     -     -         1640    0    0 
+Jumper    834103636  5  3 c   k     k     k         1640   10    0 Ks 3c
+Jumper    834103693  5  2 Bk  kc    kf    -         1630   20    0 
+Jumper    834103758  4  1 Bcc kc    kc    k         1610   50    0 3d Ac
+Jumper    834103838  3  3 c   b     -     -         1560   20   40 
+Jumper    834103873  3  2 Bk  k     b     -         1580   30   45 
+Jumper    834103892  3  1 Bc  kc    b     -         1595   40   80 
+Jumper    834103928  3  3 r   b     -     -         1635   30   55 
+Jumper    834103951  3  2 Br  k     k     k         1660   20    0 8h Qc
+Jumper    834103996  4  1 Bc  k     k     b         1640   30   80 Qh 5s
+Jumper    834104056  4  4 fQ  -     -     -         1690    0    0 
+Jumper    834104391  5  4 f   -     -     -         1690    0    0 
+Jumper    834104460  7  3 c   k     k     kf        1690   10    0 
+Jumper    834104553  7  2 Bk  kc    kf    -         1680   20    0 
+Jumper    834104669  6  1 Bc  kc    kc    kf        1660   50    0 
+Jumper    834104815  6  6 f   -     -     -         1610    0    0 
+Jumper    834104959  7  6 cc  c     c     f         1610   50    0 
+Jumper    834105103  6  4 f   -     -     -         1560    0    0 
+Jumper    834105184  6  3 f   -     -     -         1560    0    0 
+Jumper    834105314  7  3 f   -     -     -         1560    0    0 
+Jumper    834105376  6  1 Bf  -     -     -         1560   10    0 
+Jumper    834105448  6  1 Bc  k     k     kf        1550   10    0 
+Jumper    834105537  6  6 f   -     -     -         1540    0    0 
+Jumper    834105581  5  4 f   -     -     -         1540    0    0 
+Jumper    834105640  5  2 c   k     kf    -         1540   10    0 
+Jumper    834105702  4  2 Bk  kf    -     -         1530   10    0 
+Jumper    834105743  4  1 Bc  k     kf    -         1520   10    0 
+Jumper    834105769  4  4 f   -     -     -         1510    0    0 
+Jumper    834105812  3  2 f   -     -     -         1510    0    0 
+Jumper    834105825  3  2 Br  b     b     b         1510   70  160 Kh Qh
+Jumper    834105870  3  1 Bc  kc    kc    kc        1600   60    0 6s 8d
+Jumper    834105915  3  3 r   b     b     b         1540   70  130 
+Jumper    834105949  3  2 Bk  c     k     k         1600   20    0 2c Tc
+Jumper    834105977  3  1 Bc  kc    kc    bc        1580   80    0 Ah 5s
+Jumper    834106022  4  4 c   b     -     -         1500   20   40 
+Jumper    834106045  5  4 f   -     -     -         1520    0    0 
+Jumper    834106085  5  3 cc  b     b     -         1520   50   95 
+Jumper    834106122  5  2 Bf  -     -     -         1565   10    0 
+Jumper    834106154  6  1 Bc  kc    kc    kf        1555   40    0 
+Jumper    834106211  6  6 c   b     k     f         1515   30    0 
+Jumper    834106276  5  4 c   k     bc    br        1485  110  230 7s 6s
+Jumper    834106404  4  3 f   -     -     -         1605    0    0 
+Jumper    834106466  5  2 Bk  b     b     -         1605   40   85 
+Jumper    834106502  5  1 Bc  kc    kf    -         1650   20    0 
+Jumper    834106613  6  6 f   -     -     -         1630    0    0 
+Jumper    834106695  6  5 f   -     -     -         1630    0    0 
+Jumper    834106759  6  4 c   f     -     -         1630   20    0 
+Jumper    834106892  7  3 f   -     -     -         1610    0    0 
+Jumper    834106975  7  2 Brc kc    k     k         1610   50    0 Jc Qc
+Jumper    834107042  7  1 Bf  -     -     -         1560    5    0 
+Jumper    834107110  6  6 cc  f     -     -         1555   40    0 
+Jumper    834107240  5  4 f   -     -     -         1515    0    0 
+Jumper    834107306  7  5 f   -     -     -         1515    0    0 
+Jumper    834107369  6  3 c   c     r     b         1515  100  240 
+Jumper    834107424  6  3 fQ  -     -     -         1655    0    0 
+Jumper    834181996  6  3 rc  bc    cc    kc        1655  120    0 Kd Kc
+Jumper    834182072  6  3 r   bc    kc    kf        1535   60    0 
+Jumper    834182159  9  2 Bk  k     f     -         1475   10    0 
+Jumper    834182220  9  1 Bcc kc    kc    kc        1465   90    0 Kc 8s
+Jumper    834182372  7  7 f   -     -     -         1375    0    0 
+Jumper    834182459  7  6 f   -     -     -         1375    0    0 
+Jumper    834182513  7  5 ccc kf    -     -         1375   40    0 
+Jumper    834182573  7  4 rc  k     kc    kc        1335   70    0 Qh Ah
+Jumper    834182654  7  3 c   kcf   -     -         1265   20    0 
+Jumper    834182777  7  2 Bf  -     -     -         1245   10    0 
+Jumper    834182873  8  1 Bcc k     b     k         1235   50  160 Ac Th
+Jumper    834183006  8  8 f   -     -     -         1345    0    0 
+Jumper    834183117  7  6 c   c     c     f         1345   40    0 
+Jumper    834183250  9  5 cc  ccc   f     -         1305   70    0 
+Jumper    834183327  9  4 cc  k     k     k         1235   20   65 Qc 8c
+Jumper    834183377  9  3 cc  kc    kf    -         1280   30    0 
+Jumper    834183452  9  2 Bcc kcc   kf    -         1250   70    0 
+Jumper    834183549  8  1 Bc  kc    kc    kf        1180   50    0 
+Jumper    834183751  7  7 f   -     -     -         1130    0    0 
+Jumper    834183804  6  6 f   -     -     -         1130    0    0 
+Jumper    834183863  6  5 f   -     -     -         1130    0    0 
+Jumper    834183906  6  4 r   r     bc    r         1130  130  275 Kc Jc
+Jumper    834183974  6  3 c   k     kc    k         1275   30    0 2s Ac
+Jumper    834184056  6  2 Bk  k     kf    -         1245   10    0 
+Jumper    834184113  6  1 Bc  k     kf    -         1235   10    0 
+Jumper    834184166  6  6 c   f     -     -         1225   10    0 
+Jumper    834184218  5  4 f   -     -     -         1215    0    0 
+Jumper    834184248  5  3 c   bc    b     b         1215   70  170 4h 5h
+Jumper    834184313  5  2 Bk  kc    kc    kf        1315   40    0 
+Jumper    834184367  7  1 Bc  k     b     kc        1275   50  120 8h 6d
+Jumper    834184434  7  7 c   b     k     f         1345   20    0 
+Jumper    834184501  7  6 f   -     -     -         1325    0    0 
+Jumper    834184565  7  5 f   -     -     -         1325    0    0 
+Jumper    834184677  8  5 c   b     k     b         1325   40  140 6c 4c
+Jumper    834184749  8  4 f   -     -     -         1425    0    0 
+Jumper    834184815  7  2 Bk  r     c     b         1425   70  240 9c 9s
+Jumper    834184900  7  1 Bc  kf    -     -         1595   10    0 
+Jumper    834184960  7  7 c   r     k     k         1585   30    0 6d 9d
+Jumper    834185064  8  7 c   k     kf    -         1555   10    0 
+Jumper    834185201 10  6 f   -     -     -         1545    0    0 
+Jumper    834185333  9  5 cc  f     -     -         1545   20    0 
+Jumper    834185438  9  4 cf  -     -     -         1525   10    0 
+Jumper    834185603  8  4 c   f     -     -         1515   10    0 
+Jumper    834185705  9  1 Brc bc    kc    kc        1505  100  160 Ac Jc
+Jumper    834185814  8  1 Bcc kf    -     -         1565   20    0 
+Jumper    834185954  8  8 cc  c     f     -         1545   30    0 
+Jumper    834186057  8  7 rc  kc    c     rc        1515  130    0 Th As
+Jumper    834186201  7  6 cc  c     k     f         1385   30    0 
+Jumper    834186292  8  6 f   -     -     -         1355    0    0 
+Jumper    834186347  7  4 r   cc    kf    -         1355   40    0 
+Jumper    834186445  8  5 c   br    br    b         1315  120  335 6c 6d
+Jumper    834186570  7  3 f   -     -     -         1530    0    0 
+Jumper    834186688  8  2 Bc  c     f     -         1530   30    0 
+Jumper    834186770  8  1 Bc  k     kf    -         1500   10    0 
+Jumper    834186871  8  8 f   -     -     -         1490    0    0 
+Jumper    834186927  8  7 f   -     -     -         1490    0    0 
+Jumper    834187061  8  6 c   b     b     bc        1490   80    0 Td 8d
+Jumper    834187202  9  6 cf  -     -     -         1410   10    0 
+Jumper    834187318  9  5 f   -     -     -         1400    0    0 
+Jumper    834187428  9  4 f   -     -     -         1400    0    0 
+Jumper    834187582  9  3 f   -     -     -         1400    0    0 
+Jumper    834187699  9  2 Bk  k     k     k         1400   10   25 Ac 8h
+Jumper    834187789  9  1 Bc  kc    kf    -         1415   20    0 
+Jumper    834187886  9  9 f   -     -     -         1395    0    0 
+Jumper    834187986 10  9 c   c     f     -         1395   20    0 
+Jumper    834188069 10  8 f   -     -     -         1375    0    0 
+Jumper    834188228 10  7 f   -     -     -         1375    0    0 
+Jumper    834188337 11  5 cc  kf    -     -         1375   20    0 
+Jumper    834188497 12  5 f   -     -     -         1355    0    0 
+Jumper    834188682 12  4 c   kf    -     -         1355   10    0 
+Jumper    834188889 12  3 c   kc    kf    -         1345   20    0 
+Jumper    834189040 12  2 Bf  -     -     -         1325   10    0 
+Jumper    834189169 12  1 Bc  kccc  kf    -         1315   50    0 
+Jumper    834189431 12 12 f   -     -     -         1265    0    0 
+Jumper    834189608 12 11 r   r     b     b         1265   80    0 Kc Qc
+Jumper    834189742 10  8 c   c     f     -         1185   20    0 
+Jumper    834189861 12  9 c   bc    c     k         1165   60    0 8h 8c
+Jumper    834189980 12  8 f   -     -     -         1105    0    0 
+Jumper    834190101 12  7 ccc cf    -     -         1105   50    0 
+Jumper    834190313 12  6 c   k     f     -         1055   10    0 
+Jumper    834190440 12  5 fQ  Q     -     -         1045    0    0 
+Jumper    834441985  7  2 Bf  -     -     -         1045   10    0 
+Jumper    834442045  7  1 Bf  -     -     -         1035    5    0 
+Jumper    834442069  7  7 r   rc    rc    c         1030  130  295 Ks Ad
+Jumper    834442132  7  6 c   f     -     -         1195   10    0 
+Jumper    834442203  8  5 cc  kc    kc    kr        1185   90  245 5s Kd
+Jumper    834442274  6  3 f   -     -     -         1340    0    0 
+Jumper    834442414  6  2 Br  k     kc    kf        1340   50    0 
+Jumper    834442464  8  1 Bcc kf    -     -         1290   20    0 
+Jumper    834442611  8  8 c   c     f     -         1270   30    0 
+Jumper    834442712  6  5 c   r     k     k         1240   30    0 Jc 6c
+Jumper    834442864  4  3 f   -     -     -         1210    0    0 
+Jumper    834442904  4  2 Bk  kc    kf    -         1210   20    0 
+Jumper    834442979  4  1 Bc  k     k     b         1190   30   80 Ks 7s
+Jumper    834443038  4  4 r   b     b     b         1240   70  155 Ts Qs
+Jumper    834443104  3  3 f   Q     Q     -         1325    0    0 

@@ -1,0 +1,841 @@
+xnavman   836209542  7  5 cc  f     -     -         1000   20    0 
+xnavman   836209648  9  6 cc  f     -     -          980   20    0 
+xnavman   836209803  8  5 r   b     k     c          960   50  135 Ah Kd
+xnavman   836209866  8  4 r   rc    r     r         1045  140    0 9c 9s
+xnavman   836209998  8  3 cc  kcc   kcc   kc         905  120    0 Qs Td
+xnavman   836210139  6  2 Bk  kf    -     -          785   10    0 
+xnavman   836210175  6  1 Bc  kc    kc    kc         775   70  170 Jh 9h
+xnavman   836210236  6  6 cc  f     -     -          875   20    0 
+xnavman   836210358  7  6 r   b     br    b          855  110  320 Jh Js
+xnavman   836210421  7  6 c   c     c     k         1065   40  105 Kh 3c
+xnavman   836210473  6  4 c   c     r     b         1130   80  270 2d 3d
+xnavman   836210559  6  3 c   kc    k     f         1320   20    0 
+xnavman   836210662  6  2 Bc  kc    kc    kf        1300   50    0 
+xnavman   836210714  6  1 Bc  kc    kc    kc        1250   60    0 8h 8s
+xnavman   836210800  5  5 c   b     b     brr       1190  140  150 Js 7d
+xnavman   836210890  4  3 c   kc    kc    kf        1200   40    0 
+xnavman   836210947  4  2 Bc  kc    kc    kc        1160   70  145 6c 3s
+xnavman   836211012  5  1 Bc  kc    kc    kc        1235   70  190 Th Jh
+xnavman   836211114  6  6 c   c     k     k         1355   30   95 2c Qc
+xnavman   836211196  6  5 c   c     c     c         1420   60    0 Jd 9s
+xnavman   836211272  6  4 c   kf    -     -         1360   10    0 
+xnavman   836211346  6  3 c   cc    krr   b         1350  130    0 Tc 7s
+xnavman   836211421  6  2 Bc  kc    kc    kc        1220   70    0 8s 5d
+xnavman   836211507  6  1 Bc  kc    kc    kf        1150   40    0 
+xnavman   836211571  5  5 cc  c     f     -         1110   30    0 
+xnavman   836211654  5  3 Q   -     -     -         1080    0    0 
+xnavman   836211936  4  4 c   k     f     -         1080   10    0 
+xnavman   836211978  4  3 c   k     k     c         1070   30    0 7c Js
+xnavman   836212021  5  2 Bc  kc    kc    b         1040   70  170 
+xnavman   836212130  5  1 Bc  kc    kc    kf        1140   40    0 
+xnavman   836212211  5  5 c   k     c     c         1100   50    0 5c Qs
+xnavman   836212282  5  4 c   c     c     k         1050   40    0 7c 6c
+xnavman   836212326  5  3 c   b     -     -         1010   20   60 
+xnavman   836212376  5  2 Bk  kc    kf    -         1050   20    0 
+xnavman   836212469  5  1 Bc  kr    k     kc        1030   70  210 Ad 2h
+xnavman   836212571  5  5 cc  c     f     -         1170   30    0 
+xnavman   836212646  5  4 c   k     f     -         1140   10    0 
+xnavman   836212686  5  3 r   k     c     c         1130   60  160 Kd Td
+xnavman   836212724  5  2 Bc  kcc   kc    k         1230   60    0 4c 4s
+xnavman   836212808  5  1 Bc  kcf   -     -         1170   20    0 
+xnavman   836212874  5  5 r   k     c     r         1150   80  175 Jd Qs
+xnavman   836212930  5  4 cc  k     k     f         1245   20    0 
+xnavman   836213162  3  3 c   f     -     -         1225   10    0 
+xnavman   836213192  3  2 Bk  k     k     k         1215   10    0 5d 3d
+xnavman   836213218  3  1 Bc  kc    k     k         1205   20   40 Qs Ks
+xnavman   836213249  3  3 c   c     rc    c         1225  100    0 7d Ts
+xnavman   836213289  3  2 Bk  c     c     c         1125   60  130 9d 5c
+xnavman   836213330  3  1 Bcr kc    kf    -         1195   40    0 
+xnavman   836213379  3  3 c   k     k     k         1155   10   30 9c 7h
+xnavman   836213407  3  2 Bc  c     k     c         1175   50    0 8d 9c
+xnavman   836213429  3  1 Bc  b     kr    brc       1125  140    0 9c Ts
+xnavman   836213483  3  3 c   f     -     -          985   10    0 
+xnavman   836213505  3  2 Bc  c     c     c          975   70    0 Jc 4d
+xnavman   836213542  3  1 Bc  kf    -     -          905   10    0 
+xnavman   836213572  3  3 c   f     -     -          895   10    0 
+xnavman   836213595  3  2 Bc  kf    -     -          885   20    0 
+xnavman   836213623  3  1 Bc  b     b     k          865   40  100 Ac Qc
+xnavman   836213669  5  3 c   kf    -     -          925   10    0 
+xnavman   836213766  5  2 Bk  kc    kc    c          915   80    0 Ac 2c
+xnavman   836213849  6  1 Bc  kc    kc    kf         835   50    0 
+xnavman   836213939  6  6 c   c     c     c          785   60    0 Kh 4c
+xnavman   836214018  6  5 cc  c     k     k          725   30    0 4d 7d
+xnavman   836214067  6  4 c   QQ    -     -          695   10    0 
+xnavman   836215512  5  2 Bc  k     k     kf         685   20    0 
+xnavman   836215583  5  1 Bc  kcc   kc    kc         665   80    0 7d Js
+xnavman   836215698  5  5 c   c     c     c          585   70  220 Js Qh
+xnavman   836215770  5  4 c   c     b     -          735   50  105 
+xnavman   836215824  5  3 cc  k     k     kc         790   40  110 Js 4s
+xnavman   836215880  5  2 Bc  kc    k     kc         860   50    0 9h Js
+xnavman   836215965  5  1 Bc  kc    kc    kc         810   70    0 Qc Jc
+xnavman   836216027  5  5 cf  -     -     -          740   20    0 
+xnavman   836216211  4  3 cc  c     b     r          720   90    0 6d 8h
+xnavman   836216279  5  3 c   k     fQ    -          630   10    0 
+xnavman   836291829  5  3 c   kf    -     -          620   10    0 
+xnavman   836291902  4  2 Bk  k     kc    brr        610  130    0 Th Jc
+xnavman   836291968  5  1 Bc  kf    -     -          480   20    0 
+xnavman   836292052  5  5 c   f     -     -          460   10    0 
+xnavman   836292103  5  4 cc  f     -     -          450   20    0 
+xnavman   836292186  4  3 r   br    b     -          430   70  165 
+xnavman   836292233  4  2 Bc  cc    f     -          525   40    0 
+xnavman   836292281  4  1 Bc  kf    -     -          485   10    0 
+xnavman   836292325  4  4 ccc cc    f     -          475   70    0 
+xnavman   836292406  5  3 cc  cc    kf    -          405   40    0 
+xnavman   836292478  4  2 Bc  kf    -     -          365   20    0 
+xnavman   836292511  4  1 Bc  kc    kc    kc         345   60    0 7d 5d
+xnavman   836292566  4  4 cc  cc    c     cf         285  110    0 
+xnavman   836292639  3  3 c   k     k     k          175   10    0 9s 6c
+xnavman   836292683  3  2 Bk  kc    kc    kf         165   40    0 
+xnavman   836292732  3  1 Bcf -     -     -          125   10    0 
+xnavman   836292770  3  3 c   b     k     c          115   40   45 Tc 8c
+xnavman   836292806  3  2 Bk  c     c     f          120   40    0 
+xnavman   836292842  3  1 Bc  kc    kc    kc          80   70    0 7c 8s
+xnavman   836292889  3  3 cA  -     -     -           10   10    0 Th 3c
+xnavman   836293023  3  2 Bk  cc    cc    cc        1000  130  130 9c 2d
+xnavman   836293076  3  1 Bc  k     k     k         1000   10    0 8h 5s
+xnavman   836293132  3  3 c   k     k     r          990   50  110 Ts Jd
+xnavman   836293190  4  2 Bk  k     k     k         1050   10   30 Qc 5d
+xnavman   836293246  4  1 Bc  kc    kf    -         1070   20    0 
+xnavman   836293289  4  4 c   k     k     k         1050   10    0 Tc 7s
+xnavman   836293378  4  3 cc  c     c     c         1040   70    0 9h Jd
+xnavman   836293422  4  2 Bk  k     k     k          970   10   20 5s Kc
+xnavman   836293456  4  1 Bc  kf    -     -          980   10    0 
+xnavman   836293480  4  4 c   k     f     -          970   10    0 
+xnavman   836293520  4  3 c   k     k     k          960   10    0 7s Qc
+xnavman   836293569  5  2 Bk  k     k     kc         950   30   80 9h 6h
+xnavman   836293628  5  1 Bc  k     kc    kc        1000   50    0 Jd 6s
+xnavman   836293686  5  5 c   k     k     r          950   50  120 Td 9d
+xnavman   836293751  5  4 c   b     c     r         1020   80  190 3c 3s
+xnavman   836293814  5  3 c   c     c     f         1130   40    0 
+xnavman   836293877  6  2 Bk  k     kf    -         1090   10    0 
+xnavman   836293977  6  1 Bc  kf    -     -         1080   10    0 
+xnavman   836294046  6  6 c   f     -     -         1070   10    0 
+xnavman   836294125  6  5 c   c     c     c         1060   70    0 Qh 3h
+xnavman   836294217  6  4 cc  f     -     -          990   20    0 
+xnavman   836294309  6  3 c   kf    -     -          970   10    0 
+xnavman   836294377  6  2 Bk  c     cc    f          960   60    0 
+xnavman   836294457  6  1 Bc  kc    kc    kf         900   40    0 
+xnavman   836294579  6  6 r   c     c     cc         860  110    0 Qc Qd
+xnavman   836294665  6  5 cc  Q     -     -          750   40    0 
+xnavman   836294842  6  3 c   kc    kf    -          710   20    0 
+xnavman   836294911  6  2 Bk  cc    cc    f          690   70    0 
+xnavman   836295005  6  1 Bc  kf    -     -          620   10    0 
+xnavman   836295079  6  6 c   c     r     b          610   90  350 Qc Kd
+xnavman   836295178  7  5 c   c     c     b          870   60  170 3c Kc
+xnavman   836295250  7  4 rc  k     c     f          980   60    0 
+xnavman   836295329  7  3 cc  kc    kcc   k          920   70    0 7d Kd
+xnavman   836295423  7  2 Bf  -     -     -          850   10    0 
+xnavman   836295535  7  1 Bcc kc    kc    kf         840   80    0 
+xnavman   836295710  7  7 c   f     -     -          760   10    0 
+xnavman   836295778  7  6 cc  c     k     f          750   30    0 
+xnavman   836295860  7  5 c   k     kc    kf         720   30    0 
+xnavman   836296039  7  4 c   c     cc    f          690  100    0 
+xnavman   836296127  7  3 c   k     k     kf         590   10    0 
+xnavman   836296201  7  2 Bc  kc    kc    kf         580   50    0 
+xnavman   836296308  7  1 Bc  kc    k     kf         530   30    0 
+xnavman   836296536  6  6 c   KQ    -     -          500   10    0 
+xnavman   836381122  4  4 KQ  -     -     -          490    0    0 
+xnavman   836381290  4  3 c   k     k     k          490   10    0 5h 5s
+xnavman   836381362  4  2 Bk  c     c     f          480   40    0 
+xnavman   836381400  4  1 Bf  -     -     -          440    5    0 
+xnavman   836381445  5  5 cc  f     -     -          435   20    0 
+xnavman   836381518  5  4 c   k     f     -          415   10    0 
+xnavman   836381570  6  4 c   c     c     f          405   50    0 
+xnavman   836381627  6  3 cc  cc    f     -          355   50    0 
+xnavman   836381683  6  2 Bk  kc    kc    kc         305   60    0 7s 6c
+xnavman   836381758  6  1 Bc  k     k     k          245   10   10 6h 9d
+xnavman   836381801  6  6 c   c     c     k          245   40    0 8h 5c
+xnavman   836381890  4  4 c   c     f     -          205   30    0 
+xnavman   836381933  4  3 c   f     -     -          175   10    0 
+xnavman   836381964  4  2 Bk  k     cc    kc         165   70    0 7s 2s
+xnavman   836382020  4  1 Bc  kc    kc    k           95   40    0 6d 3d
+xnavman   836382072  4  4 c   b     b     bA          55   55  130 Ad Ks
+xnavman   836382119  3  2 c   kc    kc    k          130   40    0 4d 4s
+xnavman   836382159  3  2 Bc  k     kf    -           90   20    0 
+xnavman   836382194  3  1 Bc  k     kf    -           70   10    0 
+xnavman   836382229  3  3 cc  c     k     c           60   50    0 4c 7c
+xnavman   836382266  3  2 BA  -     -     -           10   10    0 9c Qc
+xnavman   836382354  3  2 Bk  k     k     k         1000   10   20 5c 8s
+xnavman   836382380  3  1 Bc  kc    k     kc        1010   40    0 5d Jc
+xnavman   836382414  3  3 c   k     k     k          970   10    0 7h 2c
+xnavman   836382439  3  2 Bc  k     k     k          960   20   60 Qd Jc
+xnavman   836382471  3  1 Bc  kc    k     k         1000   20   60 Ks 7h
+xnavman   836382509  4  3 c   kc    kc    kc        1040   60  165 Ac 6s
+xnavman   836382546  5  2 Bk  kc    kc    b         1145   60  170 7h 3d
+xnavman   836382600  5  1 Bc  k     k     kf        1255   20    0 
+xnavman   836382637  4  4 c   c     k     k         1235   20    0 6s 5h
+xnavman   836382675  4  3 c   k     f     -         1215   10    0 
+xnavman   836382711  5  2 Bc  kc    kc    kc        1205   70    0 Ts 5c
+xnavman   836382785  4  1 Bc  kf    -     -         1135   20    0 
+xnavman   836382844  4  4 cc  k     c     c         1115   60    0 4h Js
+xnavman   836382893  4  3 cc  kc    kc    kc        1055   70    0 Ts 8h
+xnavman   836382969  4  2 Brc kc    kc    kc         985   90    0 Qc Qd
+xnavman   836383038  4  1 Bc  k     b     b          895   50  100 
+xnavman   836383102  4  4 c   k     c     c          945   50  110 4d 5c
+xnavman   836383148  3  2 Bk  br    b     b         1005   80  170 7c Qs
+xnavman   836383188  3  1 Bc  krrc  kc    kc        1095  110    0 9s 5h
+xnavman   836383234  3  3 c   k     k     k          985   10    0 4d 9c
+xnavman   836383296  3  2 Bk  k     k     b          975   30   50 
+xnavman   836383399  3  1 Bcc krrrrrrrrc kc    kc         995  230    0 Th 5h
+xnavman   836383446  3  3 c   k     k     k          765   10   30 3c Kh
+xnavman   836383486  3  2 Bk  kc    kf    -          785   20    0 
+xnavman   836383539  3  1 Bc  kc    kc    kf         765   40    0 
+xnavman   836383592  3  3 cc  k     f     -          725   20    0 
+xnavman   836383625  3  2 Bk  k     k     c          705   30    0 7d 8h
+xnavman   836383673  3  1 Bc  kc    kc    kc         675   60    0 9h 7h
+xnavman   836383711  3  3 c   k     k     k          615   10    0 6s 9s
+xnavman   836383778  3  2 Bk  f     -     -          605   10    0 
+xnavman   836383794  3  1 Bc  k     kc    kc         595   50    0 5c 4h
+xnavman   836383840  3  3 c   k     f     -          545   10    0 
+xnavman   836383883  3  2 Bk  k     kf    -          535   10    0 
+xnavman   836383915  3  1 Bc  k     k     kc         525   30   30 Th 3s
+xnavman   836383949  3  3 c   b     b     k          525   40   90 9d 9s
+xnavman   836383996  4  3 ccc kf    -     -          575   40    0 
+xnavman   836384089  3  1 Bcc kc    kc    kf         535   70    0 
+xnavman   836384153  4  1 Bc  k     kc    kc         465   60    0 5c 3d
+xnavman   836384258  5  5 c   f     -     -          405   20    0 
+xnavman   836384321  4  3 cc  f     -     -          385   20    0 
+xnavman   836384491  3  2 Bc  k     k     k          365   20   60 Th 9d
+xnavman   836384620  3  1 Bc  kc    k     k          405   30    0 7d 8h
+xnavman   836384663  3  3 c   c     c     c          375   60    0 8c 6h
+xnavman   836384710  3  2 Bk  kc    kc    kc         315   60    0 8c Jd
+xnavman   836384793  3  1 Bc  kf    -     -          255   20    0 
+xnavman   836384823  3  3 c   k     f     -          235   10    0 
+xnavman   836384853  3  2 Bk  k     k     k          225   10   30 Ah Qh
+xnavman   836384899  4  1 Bf  -     -     -          245    5    0 
+xnavman   836384967  4  4 ccc k     k     k          240   40    0 6s 9s
+xnavman   836385062  4  3 c   kc    kc    kf         200   40    0 
+xnavman   836385138  4  2 Bk  kcf   -     -          160   30    0 
+xnavman   836385234  4  1 Bc  kc    kc    k          130   50  130 As Qh
+xnavman   836385292  2  2 cc  k     br    b          210  100  200 Ad Js
+xnavman   836385333  2  2 Bc  c     k     k          310   30   60 6d 2d
+xnavman   836385359  3  1 Bcc kr    -     -          340   40   80 
+xnavman   836385391  3  3 rc  k     k     r          380   70  170 7s 7h
+xnavman   836385446  3  2 Bk  kc    kf    -          480   20    0 
+xnavman   836385516  3  1 Bcc kc    kc    kc         460   70  160 8h Qc
+xnavman   836385567  2  2 Bk  rr    r     rc         550  150    0 Kh 6d
+xnavman   836385606  2  1 Bc  bc    bc    k          400   70    0 6h 6s
+xnavman   836385634  2  2 B   -     -     -          330   10   15 
+xnavman   836385641  2  1 Bcc k     kc    k          335   40    0 Kc 3s
+xnavman   836385670  2  2 Bk  bQ    -     -          295   20    0 
+xnavman   836532073  5  5 c   f     -     -          275   10    0 
+xnavman   836532103  5  4 c   k     k     k          265   10   15 9d Js
+xnavman   836532129  5  3 c   f     -     -          270   10    0 
+xnavman   836532175  5  2 Bc  b     bc    kr         260  110    0 Jd Js
+xnavman   836532215  4  1 Bc  k     kf    -          150   10    0 
+xnavman   836532244  4  4 cc  c     f     -          140   40    0 
+xnavman   836532310  4  3 cc  c     cc    kc         100   90    0 Ah 7c
+xnavman   836532368  4  2 BA  -     -     -           10   10    0 7h 2s
+xnavman   836532468  4  4 c   c     c     c         1000   60    0 Ks Ad
+xnavman   836532498  4  3 cc  f     -     -          940   20    0 
+xnavman   836532540  4  2 Bk  k     k     kcf        920   50    0 
+xnavman   836532582  4  1 Bc  k     kf    -          870   10    0 
+xnavman   836532620  4  4 c   f     -     -          860   10    0 
+xnavman   836532649  4  3 c   rc    rc    c          850  120  260 Qs 5s
+xnavman   836532700  4  2 Bk  kf    -     -          990   10    0 
+xnavman   836532743  4  1 Bc  kc    kc    kc         980   70  170 Jh Td
+xnavman   836532777  4  4 cc  k     r     b         1080   80  220 8c Th
+xnavman   836532842  4  3 r   k     b     -         1220   40   70 
+xnavman   836532878  5  3 cc  kc    kc    kc        1250   90    0 Qs Td
+xnavman   836532930  5  2 Bc  kc    kc    kc        1160   70    0 4d Ad
+xnavman   836532980  5  1 Bc  kc    kf    -         1090   20    0 
+xnavman   836533042  5  5 c   c     c     f         1070   40    0 
+xnavman   836533097  5  4 c   f     -     -         1030   10    0 
+xnavman   836533138  5  3 c   kf    -     -         1020   10    0 
+xnavman   836533203  6  2 Bk  kf    -     -         1010   10    0 
+xnavman   836533332  5  1 Bc  kc    kc    kc        1000   70    0 Ks Jh
+xnavman   836533410  7  7 c   c     c     c          930   60  140 Jh Kc
+xnavman   836533461  7  6 c   c     c     k         1010   50    0 Ad 8s
+xnavman   836533543  9  7 c   c     c     k          960   50    0 Kd Tc
+xnavman   836533627 10  7 c   f     -     -          910   20    0 
+xnavman   836533660 10  6 c   c     f     -          890   20    0 
+xnavman   836533739 10  5 c   k     kc    kc         870   50  150 5h Qd
+xnavman   836533806 10  4 ccc f     -     -          970   40    0 
+xnavman   836533951 10  3 cc  kc    kc    b          930  120  495 Qc 7d
+xnavman   836534048  7  2 Bk  b     krc   kc        1305  100    0 Ah Ad
+xnavman   836534124  8  1 Bc  kf    -     -         1205   10    0 
+xnavman   836534181  9  9 c   c     f     -         1195   40    0 
+xnavman   836534262  9  8 f   -     -     -         1155    0    0 
+xnavman   836534366  9  7 c   c     kc    br        1155  100  280 Js Kh
+xnavman   836534447  9  6 c   k     kf    -         1335   10    0 
+xnavman   836534582 10  6 f   -     -     -         1325    0    0 
+xnavman   836534685  9  4 cc  k     bc    kc        1325   80  205 Qd Ad
+xnavman   836534800  9  3 c   c     f     -         1450   20    0 
+xnavman   836534855  9  2 Bk  kc    kc    k         1430   40  130 6h 5d
+xnavman   836534924  9  1 Bc  k     b     kc        1520   50  140 Ac Kd
+xnavman   836534986  9  9 cc  c     f     -         1610   30    0 
+xnavman   836535056  9  8 f   -     -     -         1580    0    0 
+xnavman   836535106  8  7 c   f     -     -         1580   10    0 
+xnavman   836535151  8  6 c   kc    kc    kc        1570   60    0 Jd 2c
+xnavman   836535216  8  5 cc  kc    kc    kc        1510   70    0 Ah 3c
+xnavman   836535296 10  5 cQ  -     -     -         1440   10    0 
+xnavman   836552696  4  3 c   k     k     k         1430   10   25 7d 8d
+xnavman   836552824  5  2 Bc  kc    kc    br        1445  110    0 Tc 4h
+xnavman   836552910  5  1 Bc  k     kf    -         1335   10    0 
+xnavman   836552974  5  5 cc  f     -     -         1325   20    0 
+xnavman   836553034  5  4 c   kc    k     f         1305   20    0 
+xnavman   836553124  5  3 c   c     k     c         1285   40    0 Qc 2c
+xnavman   836553186  5  2 Bk  kc    kf    -         1245   20    0 
+xnavman   836553290  5  1 Bc  k     k     k         1225   10   30 Td 3s
+xnavman   836553345  6  6 c   r     -     -         1245   40   95 
+xnavman   836553391  6  5 c   kc    k     kc        1300   40    0 6s 4d
+xnavman   836553459  6  4 c   k     kc    b         1260   50  170 Tc 4c
+xnavman   836553535  6  3 cc  kc    k     c         1380   50    0 5d 2s
+xnavman   836553614  6  2 Bc  b     b     b         1330   70  205 6s Ks
+xnavman   836553695  6  1 Bc  kc    kr    -         1465   70  150 
+xnavman   836553742  6  6 c   r     b     k         1545   50  170 9s 5s
+xnavman   836553833  6  5 cc  f     -     -         1665   20    0 
+xnavman   836553883  6  4 ccc ccc   kcc   kf        1645  140    0 
+xnavman   836554022  6  3 cc  kc    kc    kc        1505   70    0 4s 6s
+xnavman   836554119  7  2 Bk  k     k     k         1435   10    0 Js 7h
+xnavman   836554188  7  1 Bc  kc    brrc  brrrc     1425  310  720 2c 5h
+xnavman   836554279  7  7 c   c     r     c         1835   90    0 9c 8s
+xnavman   836554391  7  6 c   f     -     -         1745   10    0 
+xnavman   836554466  7  5 cc  kf    -     -         1735   20    0 
+xnavman   836554546  6  4 c   f     -     -         1715   20    0 
+xnavman   836554601  5  3 c   c     k     k         1695   20    0 9h 7h
+xnavman   836554656  5  2 Bc  kc    kc    kc        1675   80    0 Jh Jd
+xnavman   836554732  5  1 Bc  kc    kc    k         1595   40    0 9s 7h
+xnavman   836554834  6  6 c   c     c     c         1555   70    0 Js 6c
+xnavman   836554898  6  5 c   k     c     f         1485   30    0 
+xnavman   836554953  6  4 ccc k     c     r         1455   90  250 5d 7h
+xnavman   836555062  6  3 cc  kc    kc    kc        1615   70    0 As 7c
+xnavman   836555118  7  2 Bc  kc    kf    -         1545   30    0 
+xnavman   836555193  7  1 Bc  kcc   b     b         1515   80  280 5c 3d
+xnavman   836555278  8  8 cc  rr    br    k         1715  120    0 2c Qs
+xnavman   836555374  8  7 c   f     -     -         1595   10    0 
+xnavman   836555440  8  6 c   k     f     -         1585   10    0 
+xnavman   836555492  8  5 cc  kc    kf    -         1575   30    0 
+xnavman   836555581  8  4 c   cc    c     f         1545   70    0 
+xnavman   836555662  9  4 c   k     kc    k         1475   30    0 Jd 4h
+xnavman   836555727  9  3 cc  k     k     kf        1445   20    0 
+xnavman   836555854  9  2 Bk  k     bc    kc        1425   70    0 4h Td
+xnavman   836555930  8  1 Bc  kc    kc    k         1355   60    0 8s Qd
+xnavman   836556038  8  8 c   f     -     -         1295   10    0 
+xnavman   836556099  7  6 f   -     -     -         1285    0    0 
+xnavman   836556163  7  5 cc  kc    k     kf        1285   30    0 
+xnavman   836556223  8  4 cf  -     -     -         1255   10    0 
+xnavman   836556269  7  3 c   c     f     -         1245   20    0 
+xnavman   836556326  7  2 Bk  k     c     r         1225   70  130 
+xnavman   836556368  8  1 Bc  k     kc    k         1285   30   90 Jd Ah
+xnavman   836556417  8  8 cc  k     c     f         1345   60    0 
+xnavman   836556510  8  7 c   r     b     b         1285   80  285 Ts Tc
+xnavman   836556631  7  6 c   k     c     k         1490   30    0 Ah 4d
+xnavman   836556666  7  5 c   k     k     f         1460   10    0 
+xnavman   836556708  7  4 c   kc    kc    kf        1450   40    0 
+xnavman   836556748  7  3 cf  -     -     -         1410   10    0 
+xnavman   836556763  7  2 Bk  kc    kc    kf        1400   40    0 
+xnavman   836556841  7  1 Bc  kc    kcc   kf        1360   80    0 
+xnavman   836556897  7  7 c   k     c     k         1280   30    0 Qs 9s
+xnavman   836556967  8  6 c   brc   brc   br        1250  190    0 7d 7c
+xnavman   836557096  8  5 c   b     b     kf        1060   40    0 
+xnavman   836557185  9  5 c   ccc   cc    f         1020   90    0 
+xnavman   836557315  9  4 cc  kc    kc    k          930   70    0 2s 9s
+xnavman   836557397  8  2 cc  f     -     -          860   20    0 
+xnavman   836557454  8  2 Bk  f     -     -          840   10    0 
+xnavman   836557480  7  1 Bcc kc    kc    kf         830   60    0 
+xnavman   836557609  8  8 c   c     f     -          770   30    0 
+xnavman   836557647  8  7 c   r     c     b          740   70  220 Ah Js
+xnavman   836557719  8  6 cc  br    b     k          890   70  185 5s 9h
+xnavman   836557772  8  5 cc  kc    kf    -         1005   30    0 
+xnavman   836557854  8  4 c   kf    -     -          975   10    0 
+xnavman   836557935  7  3 cc  kc    c     br         965  120  163 7d Qd
+xnavman   836558005  7  2 Bf  -     -     -         1008   10    0 
+xnavman   836558055  7  1 Bc  k     kc    kc         998   70    0 As Ts
+xnavman   836558120  7  7 c   k     k     f          928   10    0 
+xnavman   836558234  7  6 c   f     -     -          918   10    0 
+xnavman   836558318  7  5 c   c     k     k          908   20    0 Kc 9h
+xnavman   836558346  7  4 c   k     f     -          888   10    0 
+xnavman   836558391  7  3 cc  kc    kc    kc         878   70  195 5d Tc
+xnavman   836558444  8  2 Bk  cc    kcc   f         1003   90    0 
+xnavman   836558536  7  1 Bc  kc    kc    k          913   40    0 Ts 5d
+xnavman   836558619  7  7 c   f     -     -          873   10    0 
+xnavman   836558675  7  6 c   c     k     k          863   20   60 Qs Ks
+xnavman   836558736  7  5 cf  -     -     -          903   20    0 
+xnavman   836558832  7  4 cf  -     -     -          883   10    0 
+xnavman   836558910  6  3 c   cc    kc    kc         873   70    0 3c 3h
+xnavman   836558961  7  2 Bc  kc    kc    kf         803   60    0 
+xnavman   836559155  7  1 Bcc kc    kc    kf         743   50    0 
+xnavman   836559266  5  5 c   c     f     -          693   20    0 
+xnavman   836559324  6  4 cf  -     -     -          673   20    0 
+xnavman   836559442  7  3 c   cc    kc    k          653   50    0 9s 3d
+xnavman   836559544  7  2 Br  k     kc    k          603   40  125 Ks Kc
+xnavman   836559608  7  1 Bc  kcc   k     kcf        688   70    0 
+xnavman   836559704  8  8 c   k     c     k          618   30  110 Th 8d
+xnavman   836559789  8  7 c   c     c     k          698   40    0 6h Js
+xnavman   836559861  8  6 c   k     k     c          658   40    0 8s 9c
+xnavman   836559932  8  5 c   c     c     f          618   50    0 
+xnavman   836560072  7  4 cf  -     -     -          568   10    0 
+xnavman   836560133  7  3 c   c     kc    kf         558   40    0 
+xnavman   836560207  7  2 Bc  k     c     k          518   40  120 6d 3h
+xnavman   836560275  7  1 Bc  kf    -     -          598   20    0 
+xnavman   836560352  7  7 c   k     k     k          578   10    0 Th Kc
+xnavman   836560402  6  6 r   c     c     c          568   80    0 Tc Td
+xnavman   836560476  6  5 c   k     c     f          488   40    0 
+xnavman   836560540  7  4 c   cc    kf    -          448   30    0 
+xnavman   836560614  7  3 cc  k     k     f          418   20    0 
+xnavman   836560743  6  2 Bk  kf    -     -          398   10    0 
+xnavman   836560823  6  1 Bc  kc    kc    kr         388   90  310 Qh 7h
+xnavman   836560914  6  6 c   k     f     -          608   10    0 
+xnavman   836560967  6  5 c   cc    cc    cc         598  170    0 Jc 8c
+xnavman   836561053  6  4 c   b     b     b          428   60  135 Ac As
+xnavman   836561106  6  3 c   c     ccc   kf         503  100    0 
+xnavman   836561276  5  1 Bc  kc    kc    kf         403   50    0 
+xnavman   836561367  3  1 Bc  kc    k     kc         353   50    0 Kh 2h
+xnavman   836561406  3  3 cc  f     -     -          303   20    0 
+xnavman   836561438  3  2 Bc  c     k     c          283   50    0 Jh Qs
+xnavman   836561479  3  1 Bc  kcc   kcf   -          233   70    0 
+xnavman   836561528  4  4 c   k     c     c          163   60  145 7d 6h
+xnavman   836561561  4  3 c   k     f     -          248   10    0 
+xnavman   836561586  4  2 Bk  kc    kc    k          238   40  160 2c Th
+xnavman   836561647  4  1 Bc  k     k     kf         358   20    0 
+xnavman   836561686  4  4 f   -     -     -          338    0    0 
+xnavman   836561723  3  2 Bk  k     f     -          338   10    0 
+xnavman   836561752  5  1 Bc  k     kf    -          328   10    0 
+xnavman   836561784  5  5 c   c     k     c          318   50    0 4c 6s
+xnavman   836561842  5  4 f   -     -     -          268    0    0 
+xnavman   836561860  5  3 c   kc    kc    k          268   40    0 4s 3d
+xnavman   836561950  5  2 Bf  -     -     -          228   10    0 
+xnavman   836562019  5  1 Bc  kc    k     k          218   50    0 Kh 8c
+xnavman   836562066  5  5 c   c     k     f          168   30    0 
+xnavman   836562106  5  4 cc  c     c     c          138   90    0 9h 9s
+xnavman   836562184  5  3 f   -     -     -           48    0    0 
+xnavman   836562241  5  2 Bk  k     k     k           48   10   35 8h Js
+xnavman   836562335  5  1 Bc  kf    -     -           73   20    0 
+xnavman   836562418  5  5 f   -     -     -           53    0    0 
+xnavman   836562466  5  4 f   -     -     -           53    0    0 
+xnavman   836562512  5  3 f   -     -     -           53    0    0 
+xnavman   836562536  5  2 Bf  -     -     -           53   10    0 
+xnavman   836562575  5  1 Bc  kf    -     -           43   10    0 
+xnavman   836562620  5  5 c   c     cA    -           33   33    0 As 4d
+xnavman   836720357  8  5 c   f     -     -         1000   20    0 
+xnavman   836720405  8  4 c   c     k     c          980   40    0 Jd 5h
+xnavman   836720481  8  3 c   f     -     -          940   10    0 
+xnavman   836720570  9  2 Bc  c     c     c          930   70    0 Ts Ks
+xnavman   836720663  9  1 Bc  kc    kf    -          860   30    0 
+xnavman   836720798  9  9 c   c     f     -          830   30    0 
+xnavman   836720862 10  8 f   -     -     -          800    0    0 
+xnavman   836720926 10  7 cc  kf    -     -          800   20    0 
+xnavman   836721008 10  7 cc  c     cc    b          780   90  340 Td Qc
+xnavman   836721131  9  5 c   c     c     kc        1030   60    0 Td 9h
+xnavman   836721216 10  4 cc  kc    kc    kf         970   50    0 
+xnavman   836721284 10  3 cc  kc    kc    kf         920   50    0 
+xnavman   836721412 10  2 Bc  kc    kc    kf         870   70    0 
+xnavman   836721523 10  1 Bc  kcc   kc    kc         800   90    0 Ks Ts
+xnavman   836721613  8  8 c   c     c     c          710   60    0 9h Jd
+xnavman   836721780  5  5 c   k     c     f          650   40    0 
+xnavman   836721831  4  3 c   k     kf    -          610   20    0 
+xnavman   836721868  4  3 cc  kf    -     -          590   20    0 
+xnavman   836721904  4  2 Bc  kc    k     k          570   40    0 8s 6s
+xnavman   836721952  3  1 Br  bc    k     k          530   40   80 Tc Th
+xnavman   836721986  3  3 c   c     c     k          570   40    0 Ah 2d
+xnavman   836722012  3  2 Bk  kc    k     k          530   20    0 As 6h
+xnavman   836722040  3  1 Bc  kc    k     kf         510   30    0 
+xnavman   836722077  3  3 c   k     k     f          480   10    0 
+xnavman   836722103  3  2 Bc  b     bc    kc         470   90    0 Qh Kc
+xnavman   836722129  4  1 Bc  b     b     k          380   40   80 5c 8c
+xnavman   836722162  5  5 c   k     k     k          420   10   35 6h 8h
+xnavman   836722195  5  4 cc  f     -     -          445   20    0 
+xnavman   836722242  5  3 c   c     c     f          425   40    0 
+xnavman   836722285  5  2 Bk  cf    -     -          385   20    0 
+xnavman   836722325  5  1 Bc  k     k     k          365   10   40 Jh Ks
+xnavman   836722359  5  5 c   c     r     -          395   60  130 
+xnavman   836722391  5  4 rc  bc    kc    kc         465   90    0 Jh Kh
+xnavman   836722426  5  3 c   c     cc    k          375   70  250 2s 7c
+xnavman   836722466  5  2 Bc  kc    kf    -          555   30    0 
+xnavman   836722498  5  1 Bf  -     -     -          525    5    0 
+xnavman   836722527  5  5 c   c     k     c          520   40  120 Jc 7d
+xnavman   836722565  5  4 cc  f     -     -          600   20    0 
+xnavman   836722608  5  3 c   kc    kc    k          580   40    0 Tc Kh
+xnavman   836722655  5  2 Bk  r     bc    c          540   90    0 Ad 8h
+xnavman   836722696  6  1 Bc  kr    k     kc         450   60  240 Qd As
+xnavman   836722749  6  6 c   c     f     -          630   30    0 
+xnavman   836722788  6  5 c   k     r     -          600   50   85 
+xnavman   836722827  5  4 c   k     k     k          635   10    0 7h Ac
+xnavman   836722871  5  2 Bc  kc    kc    kf         625   50    0 
+xnavman   836722919  5  1 Bc  k     kf    -          575   10    0 
+xnavman   836722961  7  7 c   k     k     k          565   20   55 5d 9h
+xnavman   836722995  8  7 c   b     b     b          600   60  160 2s Ac
+xnavman   836723055  9  6 cc  kc    kf    -          700   30    0 
+xnavman   836723198  7  4 c   cc    kf    -          670   30    0 
+xnavman   836723261 10  4 cc  kf    -     -          640   20    0 
+xnavman   836723369  9  2 Bk  kc    k     k          620   20    0 7d 4s
+xnavman   836723458 11  1 Bc  kf    -     -          600   10    0 
+xnavman   836723562 11 11 cc  c     k     c          590   50    0 6h 4c
+xnavman   836723672 10  9 c   f     -     -          540   10    0 
+xnavman   836723753 10  8 f   -     -     -          530    0    0 
+xnavman   836723847 10  7 c   bc    kr    b          530   90  180 
+xnavman   836723914 10  6 c   cc    c     f          620   70    0 
+xnavman   836724011 10  5 c   f     -     -          550   20    0 
+xnavman   836724043 10  4 c   c     c     c          530   60    0 Th 9c
+xnavman   836724141 10  3 c   kc    kc    k          470   40  145 7d 4h
+xnavman   836724224 10  2 Bf  -     -     -          575   10    0 
+xnavman   836724310 10  1 Bc  kc    kc    kcf        565   80    0 
+xnavman   836724400 10 10 c   c     f     -          485   20    0 
+xnavman   836724501 10  9 c   c     c     c          465   80    0 Qd Js
+xnavman   836724591 10  8 cc  cc    c     f          385   60    0 
+xnavman   836724730 10  7 c   c     c     c          325   60    0 Kd Th
+xnavman   836724820 10  6 c   k     c     c          265   50    0 Jh Ad
+xnavman   836724964 10  5 fQ  -     -     -          215    0    0 
+xnavman   836897053 12  4 cc  kc    kf    -          215   60    0 
+xnavman   836897220 12  3 cc  kf    -     -          155   20    0 
+xnavman   836897431 12  2 Bc  kcc   kc    bA         135  135    0 8d Td
+xnavman   836898560 12  6 c   cc    c     k         1000   90    0 5c 8c
+xnavman   836898696 12  5 cc  kc    krc   brrr       910  240    0 8c 7d
+xnavman   836898928 12  4 c   c     f     -          670   20    0 
+xnavman   836899052 12  3 c   k     f     -          650   10    0 
+xnavman   836899182 12  2 Bc  k     k     kf         640   20    0 
+xnavman   836899298 12  1 Bcc kc    kcc   kc         620  150    0 7h Kd
+xnavman   836899491 10 10 c   f     -     -          470   20    0 
+xnavman   836899593 10  9 c   kc    kc    c          450   80    0 5h 4s
+xnavman   836899742 10  8 cc  cc    k     k          370   50    0 4s 5s
+xnavman   836899904 10  7 cc  f     -     -          320   40    0 
+xnavman   836900045 10  6 f   -     -     -          280    0    0 
+xnavman   836900128  9  5 cc  c     cc    kc         280   90    0 3s Kh
+xnavman   836900251  9  4 c   kc    bc    brr        190  160  420 Qh 6h
+xnavman   836900398  9  3 cc  c     cr    br         450  150  520 6h 2d
+xnavman   836900512  9  2 Bk  kc    kc    kc         820   70    0 7c 7s
+xnavman   836900632  9  1 Bc  bc    brc   brc        750  200    0 Jc Jd
+xnavman   836900757  8  8 f   -     -     -          550    0    0 
+xnavman   836900839  8  8 f   -     -     -          550    0    0 
+xnavman   836900908  8  7 c   c     c     c          550   60    0 Ac 2h
+xnavman   836901004  9  7 c   kc    kf    -          490   20    0 
+xnavman   836901107 10  6 c   k     c     k          470   30    0 Jd 3d
+xnavman   836901219  9  5 c   c     f     -          440   20    0 
+xnavman   836901301  9  4 c   c     r     r          420  100    0 3s Qs
+xnavman   836901380  8  3 c   kc    kf    -          320   30    0 
+xnavman   836901445  8  2 Bf  -     -     -          290   10    0 
+xnavman   836901537  8  1 Bc  kc    kc    kf         280   40    0 
+xnavman   836901622  8  8 c   f     -     -          240   20    0 
+xnavman   836901701  8  7 cc  cc    c     f          220   70    0 
+xnavman   836901782  8  6 f   -     -     -          150    0    0 
+xnavman   836901863  8  5 c   kc    k     kc         150   40  120 Qs 8d
+xnavman   836901927  7  4 c   k     k     f          230   10    0 
+xnavman   836901968  7  3 ccc c     c     c          220   90  315 2d 5d
+xnavman   836902020  7  2 Bc  k     kc    k          445   40  180 Ts 6d
+xnavman   836902080  7  1 Bc  k     k     k          585   10   30 9d Tc
+xnavman   836902122  6  6 c   k     k     k          605   10   30 Jd Qd
+xnavman   836902155  6  5 c   kc    kc    kf         625   40    0 
+xnavman   836902284  7  3 f   -     -     -          585    0    0 
+xnavman   836902346  6  3 cc  kc    kc    kf         585   70    0 
+xnavman   836902412  6  2 Bc  cc    c     rc         515  130    0 9h Qh
+xnavman   836902479  6  1 Bc  kc    br    b          385  150  640 Ts 8d
+xnavman   836902579  6  6 c   k     c     f          875   30    0 
+xnavman   836902651  6  5 c   r     k     c          845   50  170 Ad Qd
+xnavman   836902721  6  4 c   k     f     -          965   10    0 
+xnavman   836902777  6  3 cc  c     kc    kf         955   50    0 
+xnavman   836902841  6  2 Bc  f     -     -          905   20    0 
+xnavman   836902927  6  1 Bc  k     kf    -          885   10    0 
+xnavman   836902994  6  6 c   c     f     -          875   30    0 
+xnavman   836903075  5  4 c   k     c     c          845   50    0 3h 7s
+xnavman   836903125  5  3 cc  f     -     -          795   20    0 
+xnavman   836903211  5  2 Bk  k     kc    k          775   70    0 3h 8h
+xnavman   836903272  5  1 Bc  kf    -     -          705   10    0 
+xnavman   836903319  5  5 c   k     f     -          695   10    0 
+xnavman   836903365  5  4 c   c     k     f          685   30    0 
+xnavman   836903405  4  2 Bk  f     -     -          655   10    0 
+xnavman   836903485  4  1 Bc  kc    k     k          645   20    0 Jh 5d
+xnavman   836903533  4  4 c   k     k     c          625   30   80 5h Jc
+xnavman   836903597  4  3 cc  r     c     c          675   80  260 5c Qd
+xnavman   836903648  4  2 Bc  cc    c     k          855   60    0 3s Qc
+xnavman   836903711  4  1 Bc  k     b     b          795   50  160 2s Ah
+xnavman   836903755  4  4 c   b     b     b          905   60  150 7c 3d
+xnavman   836903801  4  3 c   r     b     b          995   70  150 5h 9d
+xnavman   836903862  3  2 Bc  kc    kc    kf        1075   50    0 
+xnavman   836903935  3  1 Bc  kf    -     -         1025   20    0 
+xnavman   836904001  3  3 c   k     c     c         1005   70  190 6h Js
+xnavman   836904049  3  2 Bk  k     b     b         1125   50  100 Jd Kc
+xnavman   836904100  3  1 Bcc k     kc    kf        1175   40    0 
+xnavman   836904152  3  3 cc  c     c     b         1135   70  190 2s 6h
+xnavman   836904214  4  3 c   krc   kc    kr        1255  100  270 8h Ad
+xnavman   836904298  4  2 Bk  bcc   kc    kc        1425   90    0 3d Ac
+xnavman   836904349  4  1 Bc  k     k     kc        1335   30    0 Kd Ts
+xnavman   836904398  4  4 c   c     c     f         1305   40    0 
+xnavman   836904436  4  3 c   c     c     c         1265   60    0 5h 9d
+xnavman   836904486  4  2 Bk  kc    kc    kc        1205   60    0 Qc Ks
+xnavman   836904532  4  1 Bc  kc    kc    b         1145   70  170 4c Ts
+xnavman   836904584  4  4 c   cc    c     f         1245   80    0 
+xnavman   836904645  4  3 c   k     k     c         1165   30   40 4d Qc
+xnavman   836904696  4  2 Bc  k     kc    kcf       1175   80    0 
+xnavman   836904756  4  1 Bc  k     k     kf        1095   20    0 
+xnavman   836904804  4  4 c   k     c     f         1075   30    0 
+xnavman   836904849  4  3 c   c     c     r         1045   80  180 3s 5d
+xnavman   836904897  4  2 Bc  kc    bc    kc        1145  110  180 2s Kc
+xnavman   836904979  4  1 Bc  kc    kc    kc        1215   70    0 Jh Kh
+xnavman   836905059  4  4 cc  k     k     k         1145   30    0 Kc 3c
+xnavman   836905111  4  3 c   f     -     -         1115   10    0 
+xnavman   836905190  5  3 c   k     k     k         1105   10   23 9h 5d
+xnavman   836905239  5  2 Bk  kc    kc    kf        1118   40    0 
+xnavman   836905304  5  1 Bc  k     kc    kf        1078   30    0 
+xnavman   836905359  5  5 c   c     c     c         1048   70    0 4d Kd
+xnavman   836905424  5  4 c   kc    kf    -          978   20    0 
+xnavman   836905503  5  3 cc  c     c     k          958   50    0 3d 2s
+xnavman   836905634  5  2 Bk  kc    kc    kc         908   60  180 Tc 9c
+xnavman   836905706  6  1 Bc  k     b     b         1028   60  180 2h Jh
+xnavman   836905773  6  6 c   b     b     -         1148   40   85 
+xnavman   836905836  6  5 c   k     c     brr       1193  130  300 Qc 2c
+xnavman   836905972  6  4 cc  c     kc    kc        1363   70    0 Ac 3h
+xnavman   836906052  6  3 c   k     kc    kc        1293   50  120 Kc Ad
+xnavman   836906114  6  3 cc  k     c     f         1363   40    0 
+xnavman   836906160  6  2 BQ  -     -     -         1323   10    0 
+xnavman   836974635 10  4 c   k     f     -         1313   20    0 
+xnavman   836974731 11  3 ccc c     c     c         1293   90  455 Qh Ts
+xnavman   836974927 10  2 Bc  c     ccc   f         1658  120    0 
+xnavman   836975111 10  1 BQ  -     -     -         1538    5    0 
+xnavman   837077145  8  7 cc  kc    k     f         1533   40    0 
+xnavman   837077232  8  6 cc  kc    kc    cc        1493   90    0 6s Jd
+xnavman   837077358  8  5 cc  c     c     c         1403   70  290 3h Tc
+xnavman   837077435  8  4 cc  kcc   kc    k         1623   70    0 9c 7h
+xnavman   837077539  8  3 c   kf    -     -         1553   10    0 
+xnavman   837077617  9  2 Bc  kc    kcc   kc        1543   90    0 Ac 5d
+xnavman   837077767  9  1 Bc  kc    kc    kc        1453   70    0 7d Ah
+xnavman   837077849 10 10 cc  k     k     r         1383   60  110 Qh 2s
+xnavman   837077954 10  9 cc  cc    c     c         1433  120    0 Kd 4c
+xnavman   837078071  9  8 cc  ccc   cc    kf        1313  120    0 
+xnavman   837078173  9  7 cc  k     c     cc        1193   90    0 7h 2d
+xnavman   837078279  9  6 cc  kc    brrr  b         1103  200  505 Ks 5s
+xnavman   837078389  8  4 cc  kc    kc    k         1408   70    0 Jc 8d
+xnavman   837078545  8  3 cc  f     -     -         1338   30    0 
+xnavman   837078672  7  2 Bc  kf    -     -         1308   30    0 
+xnavman   837078741  7  1 Bc  k     kf    -         1278   20    0 
+xnavman   837078781  7  7 c   k     c     r         1258   70  165 
+xnavman   837078834  7  6 c   k     c     c         1353   50  140 Ad 6s
+xnavman   837078895  7  5 c   r     k     c         1443   50    0 Qh Ad
+xnavman   837078954  6  4 cc  c     f     -         1393   30    0 
+xnavman   837079003  5  3 c   kc    c     k         1363   40    0 9d 5d
+xnavman   837079078  5  2 Bc  kc    c     kf        1323   60    0 
+xnavman   837079139  5  1 Bc  b     b     b         1263   60  110 
+xnavman   837079175  5  5 c   k     k     c         1313   30   65 6d Jc
+xnavman   837079204  5  4 c   k     c     c         1348   50    0 4s Ac
+xnavman   837079252  5  3 c   kc    kf    -         1298   20    0 
+xnavman   837079321  5  2 Bc  kr    kc    kc        1278   80  165 Jd 5h
+xnavman   837079363  5  1 Br  b     b     b         1363   70  230 Js Jd
+xnavman   837080086  4  2 Bc  kf    -     -         1513   20    0 
+xnavman   837080158  3  1 Bc  kc    kf    -         1493   20    0 
+xnavman   837080193  3  3 cc  c     k     k         1473   30    0 Td 8s
+xnavman   837080220  3  2 Bc  kc    c     rc        1443  110    0 Ad 5c
+xnavman   837080264  3  1 Bcc kc    k     kc        1333   50    0 7s 7d
+xnavman   837080302  3  3 c   c     k     r         1283   60  130 9d Qd
+xnavman   837080338  3  2 Bc  f     -     -         1353   30    0 
+xnavman   837080385  4  1 Bc  kc    kc    kc        1323   70    0 2s 8d
+xnavman   837080445  4  4 c   c     c     k         1253   40    0 4c 9d
+xnavman   837080504  4  3 ccc kc    k     -         1213   50  180 
+xnavman   837080673  3  2 Bk  kc    kc    k         1343   40    0 Qd 3d
+xnavman   837080711  3  1 Bc  kc    kf    -         1303   20    0 
+xnavman   837080739  3  3 c   c     cc    f         1283   60    0 
+xnavman   837080791  4  2 Bc  bc    kccc  kc        1223  150  450 Kc Ks
+xnavman   837080890  4  1 Bcc kc    k     br        1523   90    0 7h Qd
+xnavman   837080963  4  4 cc  c     c     c         1433   90  340 Jh Qd
+xnavman   837081083  4  3 ccc bc    kc    kc        1683  100  280 Tc Kh
+xnavman   837081163  4  2 Bk  k     k     krrc      1863  110  113 2d Qh
+xnavman   837081241  4  1 Bcc k     k     k         1866   30   90 Qd 9h
+xnavman   837081315  4  4 cc  cc    k     r         1926  100  260 Jd Qd
+xnavman   837081387  4  3 cc  c     cc    kf        2086   70    0 
+xnavman   837081465  4  2 Bcc kc    c     br        2016  140  500 6h 6s
+xnavman   837081551  4  1 Bcc kf    -     -         2376   20    0 
+xnavman   837081610  4  4 ccc c     r     -         2356   90  200 
+xnavman   837081678  4  3 cc  c     c     f         2466   50    0 
+xnavman   837081750  4  2 Bk  c     c     b         2416   60  100 
+xnavman   837081815  4  1 Bcc kf    -     -         2456   40    0 
+xnavman   837081902  4  4 ccc cc    c     k         2416  100    0 6s 2s
+xnavman   837081989  4  3 cc  krc   kc    kc        2316   90    0 As Jh
+xnavman   837082067  4  2 Bc  kc    kc    k         2226   50    0 2d 2s
+xnavman   837082111  4  1 Bcc kc    kc    kc        2176   80    0 6d 5c
+xnavman   837082183  4  4 c   f     -     -         2096   10    0 
+xnavman   837082214  4  3 cf  -     -     -         2086   10    0 
+xnavman   837082294  4  2 Bk  k     kc    brrrr     2076  210  447 8s 6d
+xnavman   837082387  3  1 Bcc kf    -     -         2313   30    0 
+xnavman   837082455  2  2 Bc  k     k     k         2283   20   40 Ad 3c
+xnavman   837082482  3  1 Bcc kf    -     -         2303   20    0 
+xnavman   837082553  4  3 cc  f     -     -         2283   20    0 
+xnavman   837082608  4  2 Bcc cc    kc    kc        2263   90    0 5d 8c
+xnavman   837082703  5  1 Bc  kc    kc    kc        2173   60    0 8c Js
+xnavman   837082747  4  4 c   c     c     c         2113   60  170 Qc Js
+xnavman   837082809  4  2 c   k     c     c         2223   50  110 Qs Ks
+xnavman   837082851  4  2 Bc  kc    kc    kc        2283   70    0 Kd Qc
+xnavman   837082909  5  1 Bcc kc    kf    -         2213   60    0 
+xnavman   837083042  5  5 c   cc    c     k         2153   60  170 Kc Td
+xnavman   837083123  4  3 ccc cc    bc    c         2263  140    0 6h 5s
+xnavman   837083227  4  2 Bk  kf    -     -         2123   10    0 
+xnavman   837083289  4  1 Bc  kc    kc    k         2113   40    0 Qs 2c
+xnavman   837083337  4  4 c   cc    c     f         2073   60    0 
+xnavman   837083414  4  3 f   -     -     -         2013    0    0 
+xnavman   837083444  4  2 Bf  -     -     -         2013   10    0 
+xnavman   837083518  4  1 Bcc kc    kc    kc        2003   70    0 Qh Ks
+xnavman   837083560  4  4 cc  f     -     -         1933   20    0 
+xnavman   837083595  4  3 cc  kc    cf    -         1913   50    0 
+xnavman   837083657  4  2 Bcc kc    c     f         1863   70    0 
+xnavman   837083721  4  1 Bf  -     -     -         1793    5    0 
+xnavman   837083761  4  4 c   c     c     k         1788   40    0 8s Jc
+xnavman   837083824  4  3 c   c     c     c         1748   60    0 2h Qh
+xnavman   837083878  4  2 Bc  c     c     r         1688   90  160 
+xnavman   837083929  4  1 Bc  kc    kc    kf        1758   50    0 
+xnavman   837083988  5  5 c   c     c     f         1708   40    0 
+xnavman   837084087  5  4 c   k     c     c         1668   60    0 4c Qh
+xnavman   837084173  5  3 cc  kc    kc    b         1608   90  235 
+xnavman   837084260  5  2 Bcc f     -     -         1753   30    0 
+xnavman   837084347  5  1 Bc  b     b     b         1723   70  220 
+xnavman   837084419  5  5 c   k     c     c         1873   50    0 6h 7s
+xnavman   837084498  5  4 c   b     -     -         1823   20   50 
+xnavman   837084556  5  3 cc  c     f     -         1853   30    0 
+xnavman   837084612  5  2 Bc  kcc   kc    k         1823   70    0 Td 5h
+xnavman   837084819  4  1 Bc  kc    kc    kf        1753   40    0 
+xnavman   837084891  4  4 c   c     r     -         1713   70  180 
+xnavman   837084946  4  3 ccc f     -     -         1823   40    0 
+xnavman   837085017  4  2 Bc  kc    kc    k         1783   50    0 6c Qh
+xnavman   837085084  4  1 Bc  k     k     k         1733   10   15 9d 3d
+xnavman   837085119  4  4 cc  c     c     c         1738   80    0 Kd 9s
+xnavman   837085192  4  3 cc  kf    -     -         1658   20    0 
+xnavman   837085220  4  2 Bc  kc    kc    b         1638   70    0 6d Qs
+xnavman   837085276  4  1 Bc  kc    kr    b         1568   80    0 6s 6d
+xnavman   837085346  4  4 c   k     k     c         1488   30    0 2s Ks
+xnavman   837085390  4  3 cc  k     krr   c         1458  130    0 5d 3d
+xnavman   837085504  4  2 Bcc krc   b     b         1328  110  150 Ad Ks
+xnavman   837085579  5  1 Br  b     b     br        1368  110    0 As Kh
+xnavman   837085644  5  5 c   c     c     f         1258   50    0 
+xnavman   837085701  5  4 c   r     b     b         1208   70  210 Qc Jc
+xnavman   837085775  5  3 c   c     c     c         1348   60  180 9d 5h
+xnavman   837085833  5  2 Bk  kcc   cc    kf        1468   90    0 
+xnavman   837085920  4  1 Bc  kc    kc    br        1378  100  250 3c Tc
+xnavman   837085987  5  5 c   cc    c     f         1528   60    0 
+xnavman   837086095  5  4 cc  br    b     k         1468   70  250 3s 4h
+xnavman   837086178  5  3 cc  kc    kc    br        1648  110  400 6c 9h
+xnavman   837086275  5  2 Bc  k     cc    kf        1938   60    0 
+xnavman   837086342  5  1 Bc  k     kc    k         1878   50    0 8h 8s
+xnavman   837086403  5  5 c   rc    c     c         1828   80    0 Kd Kc
+xnavman   837086468  5  4 c   k     c     f         1748   30    0 
+xnavman   837086512  5  3 c   kc    kf    -         1718   20    0 
+xnavman   837086587  5  2 Bc  cc    cc    bc        1698  120    0 Ks 8h
+xnavman   837086679  4  1 Bc  kc    kf    -         1578   20    0 
+xnavman   837086761  4  4 c   c     f     -         1558   30    0 
+xnavman   837086839  4  3 cc  c     c     c         1528   70  170 Js 8s
+xnavman   837086895  3  2 Bk  kc    kc    k         1628   40    0 Jc 2s
+xnavman   837086936  3  1 Bc  kc    kf    -         1588   40    0 
+xnavman   837086973  3  3 cc  f     -     -         1548   20    0 
+xnavman   837086991  3  2 Br  k     c     c         1528   60  140 Td Ts
+xnavman   837087024  3  1 Bcc kc    kc    b         1608   70  160 7d Kc
+xnavman   837087068  4  4 c   f     -     -         1698   20    0 
+xnavman   837087129  4  3 cc  c     c     c         1678   70   85 3h 7d
+xnavman   837087176  4  2 Bk  kc    kc    kc        1693   60    0 Ac 2s
+xnavman   837087239  4  1 Bcc kc    kc    k         1633   50  120 Qs Ad
+xnavman   837087285  4  4 c   c     k     rr        1703  110  280 8h Ts
+xnavman   837087340  4  3 ccc cc    c     f         1873   90    0 
+xnavman   837087398  4  2 Bk  kc    kc    kf        1783   40    0 
+xnavman   837087439  4  1 Bc  kc    kc    kc        1743   70    0 Ad 5h
+xnavman   837087507  4  4 c   k     f     -         1673   10    0 
+xnavman   837087534  4  3 c   c     k     c         1663   40    0 Th Ks
+xnavman   837087576  4  2 Bc  kc    kc    kf        1623   50    0 
+xnavman   837087616  4  1 Bc  k     kc    kc        1573   50    0 Ks 5c
+xnavman   837087686  4  4 cc  k     k     k         1523   20   60 3s 3d
+xnavman   837087736  4  3 cc  f     -     -         1563   20    0 
+xnavman   837087792  4  2 Bk  kc    kc    kf        1543   40    0 
+xnavman   837087886  4  1 Bc  k     kc    kc        1503   60  140 Qc Ac
+xnavman   837087925  4  4 c   k     f     -         1583   10    0 
+xnavman   837087974  4  3 cc  kc    kc    kc        1573   70    0 3h 3s
+xnavman   837088030  4  2 Bc  k     k     k         1503   20   65 3d Jd
+xnavman   837088091  4  1 Bcc kc    kf    -         1548   50    0 
+xnavman   837088143  4  4 cc  rr    brc   r         1498  180    0 8s Qs
+xnavman   837088236  4  3 cc  kc    kc    kc        1318   70    0 Kc 4h
+xnavman   837088360  4  2 Bk  k     c     f         1248   30    0 
+xnavman   837088414  4  1 Bc  kc    kf    -         1218   20    0 
+xnavman   837088463  4  4 cc  k     k     k         1198   20    0 4c Qc
+xnavman   837088545  3  2 Bk  kc    kf    -         1178   20    0 
+xnavman   837088595  4  1 Bc  k     k     k         1158   10   20 5d Jc
+xnavman   837088639  4  4 c   c     f     -         1168   30    0 
+xnavman   837088690  3  2 c   c     c     c         1138   60  130 2h Td
+xnavman   837088752  3  2 Bk  kc    br    -         1208   80  145 
+xnavman   837088778  3  1 Bc  k     k     k         1273   10   20 5d 9d
+xnavman   837088809  3  3 cc  r     b     k         1283   60    0 9s As
+xnavman   837088853  3  2 Bc  f     -     -         1223   20    0 
+xnavman   837088884  3  1 Bc  kf    -     -         1203   20    0 
+xnavman   837088920  3  3 c   k     k     f         1183   10    0 
+xnavman   837088955  3  2 Bk  kc    cc    kc        1173   80    0 7d Jd
+xnavman   837088995  3  1 Bc  k     k     b         1093   30   60 Td 3s
+xnavman   837089020  3  3 cc  r     b     c         1123   80    0 4h 5s
+xnavman   837089061  2  2 B   -     -     -         1043   10   15 
+xnavman   837089072  2  1 BQ  -     -     -         1048    5    0 
+xnavman   837124604 12 10 c   f     -     -         1043   20    0 
+xnavman   837124768 12  9 c   r     r     b         1023  110  515 Kh Qd
+xnavman   837124923 12  8 rc  c     c     c         1428   90    0 Qh Qs
+xnavman   837125126 12  8 c   c     kc    kc        1338   60  137 8s Jd
+xnavman   837125300 12  7 c   k     c     k         1415   30   65 5s Qh
+xnavman   837125409 11  5 c   f     -     -         1450   10    0 
+xnavman   837125545 10  4 cc  cc    rr    b         1440  170  665 3c 9c
+xnavman   837125667  9  3 cc  f     -     -         1935   20    0 
+xnavman   837125801 11  2 Bc  k     kc    kf        1915   40    0 
+xnavman   837125909  9  1 Bc  kc    kf    -         1875   40    0 
+xnavman   837126043  8  8 c   c     c     f         1835   40    0 
+xnavman   837126090  6  6 c   k     c     f         1795   30    0 
+xnavman   837126131  8  7 cc  kc    kc    kf        1765   50    0 
+xnavman   837126224  8  6 c   r     c     c         1715   70    0 Ks Ac
+xnavman   837126317  9  6 cf  -     -     -         1645   10    0 
+xnavman   837126376 10  5 cc  cc    c     c         1635   80    0 Kd 9d
+xnavman   837126440 11  4 c   kc    kc    kf        1555   60    0 
+xnavman   837126572 11  3 c   brc   cc    rc        1495  210  950 Qc Qs
+xnavman   837126717 12  2 Bcf -     -     -         2235   30    0 
+xnavman   837126873 12  1 Bc  kc    kc    kf        2205   60    0 
+xnavman   837126983 12 12 c   c     k     c         2145   50    0 Tc Ah
+xnavman   837127145 12 11 c   f     -     -         2095   20    0 
+xnavman   837127231 11  9 c   cc    c     c         2075   90    0 Ts As
+xnavman   837127312 12  9 c   c     c     Q         1985   50    0 
+xnavman   837127604 10  5 ccc c     c     k         1935   70    0 Qc Ac
+xnavman   837127728 11  5 cc  c     c     f         1865   50    0 
+xnavman   837127919 10  3 cc  kc    kc    kf        1815   50    0 
+xnavman   837128110 10  3 c   k     k     k         1765   10   40 7d 9s
+xnavman   837128181 12  3 c   k     f     -         1795   10    0 
+xnavman   837128271 11  2 Bf  -     -     -         1785   10    0 
+xnavman   837128496 11  1 Bc  kc    b     brc       1775  130  350 7d Qc
+xnavman   837128685  7  7 c   cc    c     f         1995   60    0 
+xnavman   837128798  8  8 c   k     k     c         1935   90    0 6h 3s
+xnavman   837128873  7  6 cc  c     k     f         1845   30    0 
+xnavman   837128910  7  6 c   c     c     f         1815   50    0 
+xnavman   837128969  6  5 c   c     c     f         1765   70    0 
+xnavman   837129025  6  4 cc  cc    kc    kf        1695  110    0 
+xnavman   837129138  5  2 BQ  -     -     -         1585   10    0 
+xnavman   838192420  5  2 Bk  c     k     f          935   20    0 
+xnavman   838192502  5  1 Bc  kc    kc    kcf        915   90    0 
+xnavman   838192615  5  4 c   c     k     f          825   20    0 
+xnavman   838192695  5  4 c   Q     -     -          805   10    0 
+xnavman   838193042  3  2 Br  r     b     b          795   80  200 Kc Tc
+xnavman   838193135  3  1 Br  krc   kc    bc         915  110    0 Kd Qd
+xnavman   838193202  3  3 c   c     f     -          805   30    0 
+xnavman   838193244  3  2 Bk  k     k     b          775   30    0 As 9s
+xnavman   838193293  3  1 Bc  k     b     -          745   30   50 
+xnavman   838193327  3  3 c   k     k     b          765   30   70 Qh Td
+xnavman   838193399  3  2 Bk  k     b     b          805   50  110 8s Ac
+xnavman   838193438  3  1 Bc  k     k     kf         865   10    0 
+xnavman   838193474  3  3 c   k     k     k          855   10    0 Qc Jh
+xnavman   838193511  3  2 Br  b     -     -          845   30   50 
+xnavman   838193545  3  1 Bc  b     -     -          865   20   40 
+xnavman   838193568  2  2 r   k     k     k          885   20   20 Jd 6c
+xnavman   838193604  2  2 BQ  -     -     -          885   10    0 
+xnavman   838277282  8  2 Bk  k     c     c          875   50    0 9d 5h
+xnavman   838277326  7  1 Bc  kr    b     b          825   70  220 
+xnavman   838277401  7  7 c   k     c     c          975   50  200 7s 9c
+xnavman   838277477  7  6 c   k     c     c         1125   50  130 Kd 7h
+xnavman   838277616  8  3 Q   -     -     -         1205    0    0 
+xnavman   838616924  7  6 c   c     f     -         1205   40    0 
+xnavman   838616984  7  5 c   f     -     -         1165   10    0 
+xnavman   838617034  7  4 KQ  -     -     -         1155    0    0 
+xnavman   838620172 10  8 rr  br    k     kc        1155  100  400 As Ad
+xnavman   838620246 12  7 cc  kc    k     k         1455   30    0 5s Qh
+xnavman   838620316 12  6 cc  kf    -     -         1425   20    0 
+xnavman   838620369 12  5 c   c     c     k         1405   70    0 As 7c
+xnavman   838620437 12  4 c   k     b     k         1335   30  100 Jh 9d
+xnavman   838620504 12  3 r   -     -     -         1405   20   35 
+xnavman   838620531 12  2 Bc  c     c     k         1420   50    0 Qs 5d
+xnavman   838620621 12  1 Bc  kc    kc    kf        1370   40    0 
+xnavman   838620684 12 12 c   k     k     k         1330   10    0 2d Ac
+xnavman   838620740 12 11 cc  cf    -     -         1320   40    0 
+xnavman   838620817 12 10 cc  c     rr    b         1280  150  410 Qs 8s
+xnavman   838620912 11  8 c   kc    kc    bc        1540   80    0 3h 9s
+xnavman   838621001 11  7 c   k     c     f         1460   30    0 
+xnavman   838621078 12  7 r   kc    kc    kf        1430   50    0 
+xnavman   838621142 12  6 cc  kc    kc    k         1380   50    0 5c Td
+xnavman   838621279 12  5 cc  k     kc    kf        1330   40    0 
+xnavman   838621367 12  4 cc  kc    k     kc        1290   50    0 Th 2d
+xnavman   838621443 12  3 c   k     b     k         1240   30    0 Jc Qs
+xnavman   838621502 12  2 Bk  k     kc    kf        1210   30    0 
+xnavman   838621548 12  1 Br  b     bc    kc        1180   90    0 Qs Qc
+xnavman   838621646 12 12 f   Q     -     -         1090    0    0 
+xnavman   838621894 12  9 c   Q     -     -         1090   10    0 

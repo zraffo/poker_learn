@@ -1,0 +1,713 @@
+Cassandra 934480669 17  7 f   -     -     -         5000    0    0 
+Cassandra 934480715 16  6 f   -     -     -         5000    0    0 
+Cassandra 934480856 16  5 f   -     -     -         5000    0    0 
+Cassandra 934480890 16  4 f   -     -     -         5000    0    0 
+Cassandra 934480991 15  3 f   -     -     -         5000    0    0 
+Cassandra 934481060 15  2 Bf  -     -     -         5000  100    0 
+Cassandra 934481135 15  1 Bf  -     -     -         4900   50    0 
+Cassandra 934481237 15 15 f   -     -     -         4850    0    0 
+Cassandra 934481304 15 14 f   -     -     -         4850    0    0 
+Cassandra 934481381 15 13 f   -     -     -         4850    0    0 
+Cassandra 934481472 15 12 f   -     -     -         4850    0    0 
+Cassandra 934481539 14 10 f   -     -     -         4850    0    0 
+Cassandra 934481603 14 10 f   -     -     -         4850    0    0 
+Cassandra 934481666 14  9 f   -     -     -         4850    0    0 
+Cassandra 934481756 13  7 f   -     -     -         4850    0    0 
+Cassandra 934481804 12  6 f   -     -     -         4850    0    0 
+Cassandra 934481893  8  4 f   -     -     -         4850    0    0 
+Cassandra 934482027  8  3 f   -     -     -         4850    0    0 
+Cassandra 934482083  8  2 Bf  -     -     -         4850  800    0 
+Cassandra 934482124  8  1 Bc  kf    -     -         4050  800    0 
+Cassandra 934482164  7  7 f   -     -     -         3250    0    0 
+Cassandra 934482186  7  6 cA  -     -     -         3250 3250    0 8s 8c
+Cassandra 934737111 11 10 f   -     -     -        10000    0    0 
+Cassandra 934737200 11  9 rf  -     -     -        10000  275    0 
+Cassandra 934737270 11  9 f   -     -     -         9725    0    0 
+Cassandra 934737322 10  7 f   -     -     -         9725    0    0 
+Cassandra 934737471 10  6 f   -     -     -         9725    0    0 
+Cassandra 934737606 10  5 f   -     -     -         9725    0    0 
+Cassandra 934737665 10  4 f   -     -     -         9725    0    0 
+Cassandra 934737728 10  3 f   -     -     -         9725    0    0 
+Cassandra 934737781 10  2 Bk  k     k     f         9725  100    0 
+Cassandra 934737946 10  1 Bf  -     -     -         9625   50    0 
+Cassandra 934738017 10 10 c   r     -     -         9575 8900 12400 
+Cassandra 934738062 10  9 f   -     -     -        13075    0    0 
+Cassandra 934738129 10  8 f   -     -     -        13075    0    0 
+Cassandra 934738242  9  7 f   -     -     -        13075    0    0 
+Cassandra 934738330  9  6 f   -     -     -        13075    0    0 
+Cassandra 934738429  9  5 f   -     -     -        13075    0    0 
+Cassandra 934738490  9  4 f   -     -     -        13075    0    0 
+Cassandra 934738556  9  3 f   -     -     -        13075    0    0 
+Cassandra 934738640  9  2 BQ  -     -     -        13075  400    0 
+Cassandra 935251026 14 13 f   -     -     -         3500    0    0 
+Cassandra 935251080 14 12 f   -     -     -         3500    0    0 
+Cassandra 935251123 14 11 f   -     -     -         3500    0    0 
+Cassandra 935251201 14 10 r   b     -     -         3500  840 1350 
+Cassandra 935251245 13  9 f   -     -     -         4010    0    0 
+Cassandra 935251312 13  8 r   b     -     -         4010  450  630 
+Cassandra 935251351 13  7 f   -     -     -         4190    0    0 
+Cassandra 935251428 13  6 rf  -     -     -         4190  270    0 
+Cassandra 935251472 13  5 f   -     -     -         3920    0    0 
+Cassandra 935251521 11  3 c   k     k     k         3920   60    0 5h 6h
+Cassandra 935251578 11  2 Bk  kf    -     -         3860   60    0 
+Cassandra 935251631 11  1 Bc  b     b     k         3800 1260 2700 7c 4c
+Cassandra 935251680 11 11 c   k     f     -         5240   60    0 
+Cassandra 935251772 11 10 f   -     -     -         5180    0    0 
+Cassandra 935251807 11  9 f   -     -     -         5180    0    0 
+Cassandra 935251887 11  8 f   -     -     -         5180    0    0 
+Cassandra 935251935 11  7 f   -     -     -         5180    0    0 
+Cassandra 935251990 11  6 c   k     kf    -         5180  120    0 
+Cassandra 935252079 11  5 c   k     k     k         5060  120    0 4s Ks
+Cassandra 935252161 11  4 f   -     -     -         4940    0    0 
+Cassandra 935252195 11  3 r   -     -     -         4940  840 1200 
+Cassandra 935252214 11  2 Bf  -     -     -         5300  240    0 
+Cassandra 935252250 10  1 Bc  b     b     -         5060 4080 1375 Kc Jh
+Cassandra 935252292 10 10 f   -     -     -         2355    0    0 
+Cassandra 935252332 10  9 f   -     -     -         2355    0    0 
+Cassandra 935252388 10  8 f   -     -     -         2355    0    0 
+Cassandra 935252425 10  7 f   -     -     -         2355    0    0 
+Cassandra 935252516 10  6 f   -     -     -         2355    0    0 
+Cassandra 935252575  8  3 f   -     -     -         2355    0    0 
+Cassandra 935252618  8  3 f   -     -     -         2355    0    0 
+Cassandra 935252667  8  2 Bf  -     -     -         2355  480    0 
+Cassandra 935252700  8  1 Bc  k     bA    -         1875 1875 2835 
+Cassandra 935252730  8  8 f   -     -     -         2835    0    0 
+Cassandra 935252765  8  7 rA  -     -     -         2835 2835 3555 
+Cassandra 935252791  8  6 f   -     -     -         3555    0    0 
+Cassandra 935252820  8  5 f   -     -     -         3555    0    0 
+Cassandra 935252871  7  4 f   -     -     -         3555    0    0 
+Cassandra 935252918  7  3 f   -     -     -         3555    0    0 
+Cassandra 935252951  7  2 Bc  -     -     -         3555 1805    0 2h 5h
+Cassandra 935252974  7  1 BrA -     -     -         1750 1750 1750 Jc Qc
+Cassandra 935253014  7  7 f   -     -     -         1750    0    0 
+Cassandra 935253044  7  6 f   -     -     -         1750    0    0 
+Cassandra 935253066  6  5 rA  -     -     -         1750 1750 3980 Jh Qd
+Cassandra 935253088  6  4 f   -     -     -         3980    0    0 
+Cassandra 935253126  6  3 f   -     -     -         3980    0    0 
+Cassandra 935253141  6  2 Bk  bA    -     -         3980 3980 11190 8d 6s
+Cassandra 935253175  5  1 Br  -     -     -        11190 2880 3840 
+Cassandra 935253199  5  5 f   -     -     -        12150    0    0 
+Cassandra 935253220  4  4 r   bA    -     -        12150 12150 25260 Ac Qc
+Cassandra 935253257  4  3 f   -     -     -        25260    0    0 
+Cassandra 935253296  4  2 Bk  b     -     -        25260 7920 10800 
+Cassandra 935253329  4  1 Bc  b     -     -        28140 5760 7680 
+Cassandra 935253350  4  4 f   -     -     -        30060    0    0 
+Cassandra 935253379  4  3 f   -     -     -        30060    0    0 
+Cassandra 935253433  3  2 Bf  -     -     -        30060 1920    0 
+Cassandra 935253445  3  1 Bf  -     -     -        28140  960    0 
+Cassandra 935253462  3  3 f   -     -     -        27180    0    0 
+Cassandra 935253497  3  2 B   -     -     -        27180 1920 2880 
+Cassandra 935253506  3  1 Bf  -     -     -        28140  960    0 
+Cassandra 935253510  3  3 f   -     -     -        27180    0    0 
+Cassandra 935253515  3  2 B   -     -     -        27180 1920 2880 
+Cassandra 935253520  3  1 Br  -     -     -        28140 5760 7680 
+Cassandra 935253526  3  3 r   -     -     -        30060 6720 13190 As 5s
+Cassandra 935253531  2  2 B   -     -     -        36530 1920 2880 
+Cassandra 935253536  2  1 Bc  b     -     -        37490 5760 7680 
+Cassandra 935253547  2  2 Bc  -     -     -        39410 5520    0 Th 4h
+Cassandra 935253565  2  1 Bf  -     -     -        33890 1920    0 
+Cassandra 935253572  2  2 Bk  b     -     -        31970 11520 15360 
+Cassandra 935253599  2  1 Br  -     -     -        35810 11520 2400 Tc Qs
+Cassandra 935253608  2  2 Bk  f     -     -        26690 3840    0 
+Cassandra 935253623  2  1 Br  -     -     -        22850 11520 15360 
+Cassandra 935253643  2  2 Bk  f     -     -        26690 3840    0 
+Cassandra 935253654  2  1 Bf  -     -     -        22850 1920    0 
+Cassandra 935253657  2  2 B   -     -     -        20930 3840 5760 
+Cassandra 935253659  2  1 Bf  -     -     -        22850 1920    0 
+Cassandra 935253662  2  2 B   -     -     -        20930 3840 5760 
+Cassandra 935253664  2  1 Bc  k     k     k        22850 3840 3840 Tc 2c
+Cassandra 935253703  2  2 Br  f     -     -        22850 11520    0 
+Cassandra 935253733  2  1 BrA -     -     -        11330 11330    0 Td 9h
+Cassandra 935311954 10  2 Bk  kf    -     -         5000   50    0 
+Cassandra 935311972 10  1 Bf  -     -     -         4950   25    0 
+Cassandra 935312005 10 10 f   -     -     -         4925    0    0 
+Cassandra 935312049 10  9 f   -     -     -         4925    0    0 
+Cassandra 935312082 10  8 f   -     -     -         4925    0    0 
+Cassandra 935312111 10  7 f   -     -     -         4925    0    0 
+Cassandra 935312166 10  6 f   -     -     -         4925    0    0 
+Cassandra 935312236 10  5 c   k     k     k         4925   50    0 8h Kh
+Cassandra 935312308 10  4 f   -     -     -         4875    0    0 
+Cassandra 935312357 10  3 c   k     f     -         4875  100    0 
+Cassandra 935312425 10  2 Bk  kf    -     -         4775  100    0 
+Cassandra 935312461 10  1 Bc  k     k     kf        4675  100    0 
+Cassandra 935312526 10 10 c   f     -     -         4575  100    0 
+Cassandra 935312564 10  9 f   -     -     -         4475    0    0 
+Cassandra 935312618 10  8 r   r     -     -         4475 4250 7675 9s 9d
+Cassandra 935312676  9  6 f   -     -     -         7900    0    0 
+Cassandra 935312719  8  5 f   -     -     -         7900    0    0 
+Cassandra 935312777  8  4 f   -     -     -         7900    0    0 
+Cassandra 935312812  8  3 f   -     -     -         7900    0    0 
+Cassandra 935312841  7  2 Bk  k     k     k         7900  200  700 6s Qc
+Cassandra 935312884  7  1 Bc  kf    -     -         8400  200    0 
+Cassandra 935312921  7  7 r   b     c     -         8200 5075 10350 Js Td
+Cassandra 935312968  6  6 f   -     -     -        13475    0    0 
+Cassandra 935313000  6  5 f   -     -     -        13475    0    0 
+Cassandra 935313052  6  4 c   b     k     k        13475  900    0 Qs Ts
+Cassandra 935313095  6  3 c   f     -     -        12575  200    0 
+Cassandra 935313142  5  1 Bf  -     -     -        12375  200    0 
+Cassandra 935313171  5  1 Br  -     -     -        12175  600  800 
+Cassandra 935313184  5  5 r   f     -     -        12375 1400    0 
+Cassandra 935313216  5  4 f   -     -     -        10975    0    0 
+Cassandra 935313221  5  3 cc  -     -     -        10975 2700    0 2c 2s
+Cassandra 935313246  5  2 B   -     -     -         8275  400  600 
+Cassandra 935313262  5  1 Bf  -     -     -         8475  200    0 
+Cassandra 935313286  5  5 f   -     -     -         8275    0    0 
+Cassandra 935313306  5  4 f   -     -     -         8275    0    0 
+Cassandra 935313324  5  3 r   b     -     -         8275 4400 6000 
+Cassandra 935313356  5  2 Bf  -     -     -         9875  400    0 
+Cassandra 935313366  5  1 Bf  -     -     -         9475  200    0 
+Cassandra 935313382  5  5 f   -     -     -         9275    0    0 
+Cassandra 935313394  5  4 f   -     -     -         9275    0    0 
+Cassandra 935313410  5  3 f   -     -     -         9275    0    0 
+Cassandra 935313426  5  2 Bf  -     -     -         9275  400    0 
+Cassandra 935313452  5  1 Bf  -     -     -         8875  200    0 
+Cassandra 935313478  5  5 f   -     -     -         8675    0    0 
+Cassandra 935313491  5  4 f   -     -     -         8675    0    0 
+Cassandra 935313510  5  3 f   -     -     -         8675    0    0 
+Cassandra 935313522  5  2 Bk  kf    -     -         8675  400    0 
+Cassandra 935313541  5  1 Bf  -     -     -         8275  200    0 
+Cassandra 935313564  5  5 f   -     -     -         8075    0    0 
+Cassandra 935313581  5  4 r   -     -     -         8075 1400 2000 
+Cassandra 935313590  5  3 f   -     -     -         8675    0    0 
+Cassandra 935313599  5  2 Bf  -     -     -         8675  800    0 
+Cassandra 935313611  5  1 Bf  -     -     -         7875  400    0 
+Cassandra 935313624  5  5 r   -     -     -         7475 2800 1625 Kd Jh
+Cassandra 935313629  5  4 f   -     -     -         6300    0    0 
+Cassandra 935313648  5  3 r   -     -     -         6300 2800 4000 
+Cassandra 935313664  5  2 BrA -     -     -         7500 7500 7700 Kh Ad
+Cassandra 935313708  5  1 Br  -     -     -         7700 2400 3200 
+Cassandra 935313729  5  5 r   -     -     -         8500 2800 4000 
+Cassandra 935313739  5  4 f   -     -     -         9700    0    0 
+Cassandra 935313753  4  2 f   -     -     -         9700    0    0 
+Cassandra 935313769  4  2 BrA -     -     -         9700 9700    0 Kh Kd
+Cassandra 935336828 17  8 f   -     -     -         5000    0    0 
+Cassandra 935336873 15  5 c   f     -     -         5000   50    0 
+Cassandra 935337009 14  4 f   -     -     -         4950    0    0 
+Cassandra 935337086 14  3 f   -     -     -         4950    0    0 
+Cassandra 935337171 14  2 Bk  kf    -     -         4950  100    0 
+Cassandra 935337231 14  1 Bf  -     -     -         4850   50    0 
+Cassandra 935337300 14 14 f   -     -     -         4800    0    0 
+Cassandra 935337354 14 13 f   -     -     -         4800    0    0 
+Cassandra 935337423 13 11 f   -     -     -         4800    0    0 
+Cassandra 935337507 12 10 f   -     -     -         4800    0    0 
+Cassandra 935337571 12  9 f   -     -     -         4800    0    0 
+Cassandra 935337621 12  8 f   -     -     -         4800    0    0 
+Cassandra 935337668 12  7 f   -     -     -         4800    0    0 
+Cassandra 935337730 11  5 c   r     -     -         4800 3400 4800 
+Cassandra 935337785 11  4 f   -     -     -         6200    0    0 
+Cassandra 935337834 11  3 f   -     -     -         6200    0    0 
+Cassandra 935337925 11  2 Bk  kf    -     -         6200  400    0 
+Cassandra 935337981 10  1 Bf  -     -     -         5800  200    0 
+Cassandra 935338016 10 10 f   -     -     -         5600    0    0 
+Cassandra 935338060 10  9 f   -     -     -         5600    0    0 
+Cassandra 935338095 10  8 f   -     -     -         5600    0    0 
+Cassandra 935338125 10  7 f   -     -     -         5600    0    0 
+Cassandra 935338136 10  6 f   -     -     -         5600    0    0 
+Cassandra 935338185  9  5 f   -     -     -         5600    0    0 
+Cassandra 935338229  9  4 f   -     -     -         5600    0    0 
+Cassandra 935338276  9  3 f   -     -     -         5600    0    0 
+Cassandra 935338299  9  2 Bf  -     -     -         5600  800    0 
+Cassandra 935338327  9  1 Bf  -     -     -         4800  400    0 
+Cassandra 935338378  9  9 f   -     -     -         4400    0    0 
+Cassandra 935338431  9  8 f   -     -     -         4400    0    0 
+Cassandra 935338476  7  5 f   -     -     -         4400    0    0 
+Cassandra 935338525  7  5 rA  -     -     -         4400 4400    0 Qc Jh
+Cassandra 935520111 16 16 f   -     -     -         5000    0    0 
+Cassandra 935520232 15 14 f   -     -     -         5000    0    0 
+Cassandra 935520341 15 13 f   -     -     -         5000    0    0 
+Cassandra 935520426 15 12 f   -     -     -         5000    0    0 
+Cassandra 935520482 15 11 f   -     -     -         5000    0    0 
+Cassandra 935520577 14  9 f   -     -     -         5000    0    0 
+Cassandra 935520687 13  8 f   -     -     -         5000    0    0 
+Cassandra 935520727 12  6 f   -     -     -         5000    0    0 
+Cassandra 935520836 12  5 f   -     -     -         5000    0    0 
+Cassandra 935520896 12  4 f   -     -     -         5000    0    0 
+Cassandra 935520929 12  3 f   -     -     -         5000    0    0 
+Cassandra 935521009 12  2 Bk  b     b     bA        5000 5000 7800 
+Cassandra 935521077 12  1 Bf  -     -     -         7800  100    0 
+Cassandra 935521104 12 12 f   -     -     -         7700    0    0 
+Cassandra 935521135 12 11 r   b     -     -         7700 3000 4200 
+Cassandra 935521191 12 10 f   -     -     -         8900    0    0 
+Cassandra 935521274 12  9 f   -     -     -         8900    0    0 
+Cassandra 935521368 12  8 f   -     -     -         8900    0    0 
+Cassandra 935521442 11  6 f   -     -     -         8900    0    0 
+Cassandra 935521502 11  5 f   -     -     -         8900    0    0 
+Cassandra 935521564 10  4 f   -     -     -         8900    0    0 
+Cassandra 935521640 10  3 f   -     -     -         8900    0    0 
+Cassandra 935521655 10  2 Bk  k     kf    -         8900  400    0 
+Cassandra 935521807 10  1 Bc  kf    -     -         8500  400    0 
+Cassandra 935521858 10 10 f   -     -     -         8100    0    0 
+Cassandra 935521886 10  9 f   -     -     -         8100    0    0 
+Cassandra 935521921 10  8 f   -     -     -         8100    0    0 
+Cassandra 935521951 10  7 f   -     -     -         8100    0    0 
+Cassandra 935521997 10  6 f   -     -     -         8100    0    0 
+Cassandra 935522015 10  5 f   -     -     -         8100    0    0 
+Cassandra 935522120  8  3 r   bA    -     -         8100 8100 12100 
+Cassandra 935522157  8  2 Bk  k     k     k        12100  800    0 8c Kd
+Cassandra 935522251  8  1 Bf  -     -     -        11300  800    0 
+Cassandra 935522275  7  7 f   -     -     -        10500    0    0 
+Cassandra 935522310  7  7 f   -     -     -        10500    0    0 
+Cassandra 935522405  7  6 f   -     -     -        10500    0    0 
+Cassandra 935522443  6  4 f   -     -     -        10500    0    0 
+Cassandra 935522463  6  4 f   -     -     -        10500    0    0 
+Cassandra 935522470  6  3 f   -     -     -        10500    0    0 
+Cassandra 935522485  6  2 Bf  -     -     -        10500 1600    0 
+Cassandra 935522492  6  1 Bc  kf    -     -         8900 1600    0 
+Cassandra 935522504  6  6 f   -     -     -         7300    0    0 
+Cassandra 935522513  6  5 rA  -     -     -         7300 7300 17000 As Qh
+Cassandra 935522528  6  4 f   -     -     -        17000    0    0 
+Cassandra 935522540  6  3 f   -     -     -        17000    0    0 
+Cassandra 935522548  6  2 B   -     -     -        17000 1600 2400 
+Cassandra 935522553  6  1 Br  -     -     -        17800 4800 6400 
+Cassandra 935522561  6  6 f   -     -     -        19400    0    0 
+Cassandra 935522574  6  5 r   -     -     -        19400 5600 8000 
+Cassandra 935522591  6  4 f   -     -     -        21800    0    0 
+Cassandra 935522607  6  3 f   -     -     -        21800    0    0 
+Cassandra 935522614  6  2 B   -     -     -        21800 1600 2400 
+Cassandra 935522621  6  1 Br  k     k     kf       22600 4800    0 
+Cassandra 935522646  6  6 f   -     -     -        17800    0    0 
+Cassandra 935522667  5  4 r   -     -     -        17800 9300 8300 4c Ac
+Cassandra 935522677  5  3 f   -     -     -        16800    0    0 
+Cassandra 935522685  5  2 B   -     -     -        16800 3200  900 Td Ks
+Cassandra 935522699  5  1 Bf  -     -     -        14500 1600    0 
+Cassandra 935522719  5  5 f   -     -     -        12900    0    0 
+Cassandra 935522732  5  4 rA  -     -     -        12900 12900 17700 
+Cassandra 935522741  5  3 rA  -     -     -        17700 17700 22500 
+Cassandra 935522752  5  2 Bc  -     -     -        22500 6200    0 Kd 7h
+Cassandra 935522762  5  1 Bf  -     -     -        16300 1600    0 
+Cassandra 935522782  5  5 f   -     -     -        14700    0    0 
+Cassandra 935522786  5  4 f   -     -     -        14700    0    0 
+Cassandra 935522791  5  3 f   -     -     -        14700    0    0 
+Cassandra 935522802  5  2 Bk  k     k     k        14700 3200    0 2c 6h
+Cassandra 935522834  5  1 Bf  -     -     -        11500 1600    0 
+Cassandra 935522845  5  5 f   -     -     -         9900    0    0 
+Cassandra 935522878  5  4 f   -     -     -         9900    0    0 
+Cassandra 935522891  5  3 rA  -     -     -         9900 9900 14700 
+Cassandra 935522905  5  2 BrA -     -     -        14700 14700    0 As Jh
+Cassandra 935688635 17 16 f   -     -     -         5000    0    0 
+Cassandra 935688690 17 15 f   -     -     -         5000    0    0 
+Cassandra 935688742 17 14 f   -     -     -         5000    0    0 
+Cassandra 935688857 16 12 r   k     k     k         5000  450    0 Ah Th
+Cassandra 935688955 16 11 f   -     -     -         4550    0    0 
+Cassandra 935689006 16 10 f   -     -     -         4550    0    0 
+Cassandra 935689069 16  9 f   -     -     -         4550    0    0 
+Cassandra 935689129 16  8 f   -     -     -         4550    0    0 
+Cassandra 935689204 15  6 cc  k     k     k         4550  900    0 5c 6c
+Cassandra 935689259 15  5 f   -     -     -         3650    0    0 
+Cassandra 935689321 15  4 f   -     -     -         3650    0    0 
+Cassandra 935689366 15  3 f   -     -     -         3650    0    0 
+Cassandra 935689428 15  2 BrA -     -     -         3650 3650 15600 Ad Ac
+Cassandra 935689484 14  1 Bf  -     -     -        15600  200    0 
+Cassandra 935689569 13 13 f   -     -     -        15400    0    0 
+Cassandra 935689596 11 10 f   -     -     -        15400    0    0 
+Cassandra 935689652 11  9 f   -     -     -        15400    0    0 
+Cassandra 935689738 11  8 f   -     -     -        15400    0    0 
+Cassandra 935689776 10  6 f   -     -     -        15400    0    0 
+Cassandra 935689843 10  5 f   -     -     -        15400    0    0 
+Cassandra 935689929 10  4 r   k     k     kf       15400 2800    0 
+Cassandra 935689973  9  3 f   -     -     -        12600    0    0 
+Cassandra 935690018  9  2 Bk  kf    -     -        12600  800    0 
+Cassandra 935690078  9  1 Bf  -     -     -        11800  400    0 
+Cassandra 935690105  8  8 r   -     -     -        11400 2800 4000 
+Cassandra 935690127  8  7 f   -     -     -        12600    0    0 
+Cassandra 935690168  8  6 r   -     -     -        12600 2800 4000 
+Cassandra 935690195  8  5 f   -     -     -        13800    0    0 
+Cassandra 935690208  8  4 f   -     -     -        13800    0    0 
+Cassandra 935690238  7  3 f   -     -     -        13800    0    0 
+Cassandra 935690328  7  2 Bk  kr    -     -        13800 9200  700 Tc Qs
+Cassandra 935690388  7  1 Bf  -     -     -         5300  800    0 
+Cassandra 935690430  6  6 f   -     -     -         4500    0    0 
+Cassandra 935690461  6  5 f   -     -     -         4500    0    0 
+Cassandra 935690494  5  4 rA  -     -     -         4500 4500    0 4c 4h
+Cassandra 935828595  7  4 f   -     -     -         5000    0    0 
+Cassandra 935828672  7  3 f   -     -     -         5000    0    0 
+Cassandra 935828724  7  2 Bf  -     -     -         5000   10    0 
+Cassandra 935828767  7  1 Bf  -     -     -         4990    5    0 
+Cassandra 935828886  7  7 f   -     -     -         4985    0    0 
+Cassandra 935828927  7  6 rc  k     k     k         4985   85    0 Ks Ah
+Cassandra 935828983  7  5 rc  k     f     -         4900  360    0 
+Cassandra 935829018  7  4 f   -     -     -         4540    0    0 
+Cassandra 935829043  7  3 f   -     -     -         4540    0    0 
+Cassandra 935829060  7  2 Bf  -     -     -         4540   20    0 
+Cassandra 935829069  7  1 Bf  -     -     -         4520   10    0 
+Cassandra 935829080  7  7 f   -     -     -         4510    0    0 
+Cassandra 935829104  7  6 f   -     -     -         4510    0    0 
+Cassandra 935829122  7  5 f   -     -     -         4510    0    0 
+Cassandra 935829140  6  4 f   -     -     -         4510    0    0 
+Cassandra 935829185  6  3 r   b     -     -         4510  280  420 
+Cassandra 935829214  6  2 Bk  k     b     r         4650  640  880 
+Cassandra 935829258  6  1 Bf  -     -     -         4890   10    0 
+Cassandra 935829284  6  6 c   f     -     -         4880   20    0 
+Cassandra 935829331  6  5 r   rrA   -     -         4860 4860 10100 Jh Ah
+Cassandra 935829374  6  4 f   -     -     -        10100    0    0 
+Cassandra 935829414  6  3 r   kf    -     -        10100  140    0 
+Cassandra 935829440  6  2 Bk  k     k     k         9960   40   60 Ah 7d
+Cassandra 935829470  6  1 Br  b     kf    -         9980  520    0 
+Cassandra 935829508  6  6 c   f     -     -         9460   40    0 
+Cassandra 935829526  6  5 cf  -     -     -         9420   40    0 
+Cassandra 935829599  6  4 f   -     -     -         9380    0    0 
+Cassandra 935829636  6  3 c   kf    -     -         9380   40    0 
+Cassandra 935829661  6  2 Bc  kf    -     -         9340  140    0 
+Cassandra 935829678  6  1 Bf  -     -     -         9200   20    0 
+Cassandra 935829694  6  6 f   -     -     -         9180    0    0 
+Cassandra 935829710  6  5 c   k     b     -         9180  200  320 
+Cassandra 935829740  6  4 rc  bc    -     -         9300 4935 9990 Js Jd
+Cassandra 935829771  5  3 f   -     -     -        14355    0    0 
+Cassandra 935829789  5  2 Bk  kf    -     -        14355   80    0 
+Cassandra 935829809  5  1 Bf  -     -     -        14275   40    0 
+Cassandra 935829816  5  5 rf  -     -     -        14235  360    0 
+Cassandra 935829840  4  3 c   b     -     -        13875  240  320 
+Cassandra 935829867  4  3 f   -     -     -        13955    0    0 
+Cassandra 935829873  4  2 Bf  -     -     -        13955   80    0 
+Cassandra 935829883  4  1 Bc  kf    -     -        13875   80    0 
+Cassandra 935829900  4  4 f   -     -     -        13795    0    0 
+Cassandra 935829949  4  3 r   -     -     -        13795  280  400 
+Cassandra 935829956  4  2 B   -     -     -        13915   80  120 
+Cassandra 935829959  4  1 Br  -     -     -        13955  240  320 
+Cassandra 935829964  4  4 cf  -     -     -        14035   80    0 
+Cassandra 935829975  4  3 r   b     -     -        13955  880 1200 
+Cassandra 935829988  4  2 Bk  kf    -     -        14275   80    0 
+Cassandra 935830003  4  1 Bf  -     -     -        14195   40    0 
+Cassandra 935830012  4  4 c   k     k     c        14155  480 1280 9h Ad
+Cassandra 935830050  4  3 f   -     -     -        14955    0    0 
+Cassandra 935830071  4  2 Bc  b     -     -        14955  720  960 
+Cassandra 935830089  4  1 Bf  -     -     -        15195   40    0 
+Cassandra 935830095  4  4 f   -     -     -        15155    0    0 
+Cassandra 935830110  4  3 cc  f     -     -        15155  560    0 
+Cassandra 935830122  4  2 Bf  -     -     -        14595  160    0 
+Cassandra 935830148  4  1 Br  -     -     -        14435  480  640 
+Cassandra 935830153  4  4 r   b     -     -        14595 1760 2400 
+Cassandra 935830178  4  3 c   f     -     -        15235  160    0 
+Cassandra 935830192  4  2 Bk  k     k     k        15075  160    0 4d 9d
+Cassandra 935830234  4  1 Bc  kf    -     -        14915  560    0 
+Cassandra 935830267  4  4 r   -     -     -        14355  560  800 
+Cassandra 935830279  4  3 f   -     -     -        14595    0    0 
+Cassandra 935830284  4  2 Bk  b     k     k        14595  480    0 3s 7d
+Cassandra 935830315  4  1 Bc  k     k     k        14115  560 1280 7s Ks
+Cassandra 935830342  4  4 f   -     -     -        14835    0    0 
+Cassandra 935830359  4  3 cc  b     -     -        14835 2080 2880 
+Cassandra 935830376  4  2 B   -     -     -        15635  160  240 
+Cassandra 935830395  4  1 Br  -     -     -        15715  480  640 
+Cassandra 935830401  4  4 f   -     -     -        15875    0    0 
+Cassandra 935830407  4  3 f   -     -     -        15875    0    0 
+Cassandra 935830435  4  2 Bf  -     -     -        15875  160    0 
+Cassandra 935830466  4  1 Br  b     b     -        15715 12079 22139 As 5c
+Cassandra 935830503  3  3 r   -     -     -        25775 1120 1600 
+Cassandra 935830521  3  2 Bk  b     -     -        26255  960 1280 
+Cassandra 935830537  3  1 Bf  -     -     -        26575  160    0 
+Cassandra 935830545  3  3 r   -     -     -        26415 1120 1600 
+Cassandra 935830549  3  2 B   -     -     -        26895  320  480 
+Cassandra 935830556  3  1 Br  -     -     -        27055  960 1280 
+Cassandra 935830560  3  3 c   b     k     f        27375 1120    0 
+Cassandra 935830586  3  2 Br  r     -     -        26255 12879 20004 9h Kc
+Cassandra 935830610  2  1 Br  -     -     -        33380  960 1280 
+Cassandra 935830617  2  2 B   -     -     -        33700  320  480 
+Cassandra 935830618  2  1 Br  -     -     -        33860  960 1280 
+Cassandra 935830620  2  2 B   -     -     -        34180  320  480 
+Cassandra 935830621  2  1 Br  -     -     -        34340  960 1280 
+Cassandra 935830624  2  2 B   -     -     -        34660  320  480 
+Cassandra 935830625  2  1 Br  -     -     -        34820  540  360 7s 3d
+Cassandra 935830628  2  2 B   -     -     -        34640  320  480 
+Cassandra 935830629  2  1 Br  -     -     -        34800  600  400 Jd 7d
+Cassandra 935830633  2  2 B   -     -     -        34600  320  480 
+Cassandra 935830634  2  1 Bc  -     -     -        34760  240    0 8h Th
+Cassandra 935830637  2  2 B   -     -     -        34520  320  480 
+Cassandra 935830638  2  1 Br  -     -     -        34680  960 1280 2c Qd
+Cassandra 935831032  8  7 f   -     -     -        10000    0    0 
+Cassandra 935831099  8  6 f   -     -     -        10000    0    0 
+Cassandra 935831174  8  5 f   -     -     -        10000    0    0 
+Cassandra 935831230  7  3 f   -     -     -        10000    0    0 
+Cassandra 935831266  7  3 f   -     -     -        10000    0    0 
+Cassandra 935831302  7  2 Bk  kf    -     -        10000  150    0 
+Cassandra 935831335  7  1 Bf  -     -     -         9850   75    0 
+Cassandra 935831361  7  7 f   -     -     -         9775    0    0 
+Cassandra 935831394  7  6 f   -     -     -         9775    0    0 
+Cassandra 935831401  7  5 f   -     -     -         9775    0    0 
+Cassandra 935831411  7  4 f   -     -     -         9775    0    0 
+Cassandra 935831431  7  3 f   -     -     -         9775    0    0 
+Cassandra 935831459  7  2 Bf  -     -     -         9775  300    0 
+Cassandra 935831475  7  1 Bf  -     -     -         9475  150    0 
+Cassandra 935831480  7  7 f   -     -     -         9325    0    0 
+Cassandra 935831512  7  6 f   -     -     -         9325    0    0 
+Cassandra 935831544  7  5 f   -     -     -         9325    0    0 
+Cassandra 935831561  7  4 f   -     -     -         9325    0    0 
+Cassandra 935831597  7  3 f   -     -     -         9325    0    0 
+Cassandra 935831638  7  2 Bf  -     -     -         9325  300    0 
+Cassandra 935831705  7  1 Bf  -     -     -         9025  150    0 
+Cassandra 935831748  7  7 f   -     -     -         8875    0    0 
+Cassandra 935831794  7  6 f   -     -     -         8875    0    0 
+Cassandra 935831815  7  5 f   -     -     -         8875    0    0 
+Cassandra 935831831  7  4 f   -     -     -         8875    0    0 
+Cassandra 935831855  7  3 f   -     -     -         8875    0    0 
+Cassandra 935831886  7  2 Bk  k     k     f         8875  600    0 
+Cassandra 935831932  7  1 Bf  -     -     -         8275  300    0 
+Cassandra 935831961  7  7 f   -     -     -         7975    0    0 
+Cassandra 935832007  7  6 f   -     -     -         7975    0    0 
+Cassandra 935832030  7  5 f   -     -     -         7975    0    0 
+Cassandra 935832055  7  4 f   -     -     -         7975    0    0 
+Cassandra 935832083  6  3 f   -     -     -         7975    0    0 
+Cassandra 935832119  5  1 Bf  -     -     -         7975  600    0 
+Cassandra 935832138  5  1 Bf  -     -     -         7375  300    0 
+Cassandra 935832188  5  5 f   -     -     -         7075    0    0 
+Cassandra 935832208  5  4 f   -     -     -         7075    0    0 
+Cassandra 935832224  5  3 f   -     -     -         7075    0    0 
+Cassandra 935832244  5  2 Bf  -     -     -         7075 1200    0 
+Cassandra 935832256  4  1 Bf  -     -     -         5875  600    0 
+Cassandra 935832289  3  3 f   -     -     -         5275    0    0 
+Cassandra 935832314  3  3 f   -     -     -         5275    0    0 
+Cassandra 935832319  3  2 Bf  -     -     -         5275 1200    0 
+Cassandra 935832328  3  1 Bf  -     -     -         4075  600    0 
+Cassandra 935832345  3  3 f   -     -     -         3475    0    0 
+Cassandra 935832361  3  2 Bk  kf    -     -         3475 1200    0 
+Cassandra 935832382  3  1 Bf  -     -     -         2275  600    0 
+Cassandra 935832386  3  3 f   -     -     -         1675    0    0 
+Cassandra 935832390  3  2 Bf  -     -     -         1675 1200    0 
+Cassandra 935832398  3  1 BA  -     -     -          475  475 1425 5s Qc
+Cassandra 935832408  3  3 f   -     -     -         1425    0    0 
+Cassandra 935832432  3  2 Bf  -     -     -         1425 1200    0 
+Cassandra 935832438  3  1 BA  -     -     -          225  225  450 8s 5h
+Cassandra 935832443  3  3 f   -     -     -          450    0    0 
+Cassandra 935832472  3  2 BA  -     -     -          450  450 1350 Ts Ac
+Cassandra 935832478  3  1 Bf  -     -     -         1350  600    0 
+Cassandra 935832484  3  3 f   -     -     -          750    0    0 
+Cassandra 935832488  3  2 BA  -     -     -          750  750 2100 5c Qc
+Cassandra 935832494  3  1 Bf  -     -     -         2100  600    0 
+Cassandra 935832522  2  2 f   -     -     -         1500    0    0 
+Cassandra 935832523  2  2 Bf  -     -     -         1500 1200    0 
+Cassandra 935832529  2  1 BA  -     -     -          300  300    0 9h Ah
+Cassandra 935923848 11 11 f   -     -     -         5000    0    0 
+Cassandra 935923898 11 10 f   -     -     -         5000    0    0 
+Cassandra 935923961 11  9 rf  -     -     -         5000  325    0 
+Cassandra 935924033 11  8 f   -     -     -         4675    0    0 
+Cassandra 935924124 10  7 cf  -     -     -         4675   50    0 
+Cassandra 935924156 10  6 f   -     -     -         4625    0    0 
+Cassandra 935924192 10  5 f   -     -     -         4625    0    0 
+Cassandra 935924240  9  4 f   -     -     -         4625    0    0 
+Cassandra 935924277  9  3 f   -     -     -         4625    0    0 
+Cassandra 935924333  9  2 Bf  -     -     -         4625  100    0 
+Cassandra 935924355  9  1 Bc  kf    -     -         4525  100    0 
+Cassandra 935924428  9  9 f   -     -     -         4425    0    0 
+Cassandra 935924459  9  8 f   -     -     -         4425    0    0 
+Cassandra 935924510  9  7 f   -     -     -         4425    0    0 
+Cassandra 935924549  9  6 c   b     bA    -         4425 4425 11150 Ac Qs
+Cassandra 935924615  9  5 f   -     -     -        11150    0    0 
+Cassandra 935924662  9  4 cc  -     -     -        11150  500 1300 9h Th
+Cassandra 935924707  8  3 f   -     -     -        11950    0    0 
+Cassandra 935924773  7  2 Bf  -     -     -        11950  200    0 
+Cassandra 935924799  7  1 Bc  b     -     -        11750  600  800 
+Cassandra 935924836  7  7 f   -     -     -        11950    0    0 
+Cassandra 935924894  7  6 f   -     -     -        11950    0    0 
+Cassandra 935924904  7  5 c   f     -     -        11950  400    0 
+Cassandra 935924941  7  4 f   -     -     -        11550    0    0 
+Cassandra 935924970  6  3 f   -     -     -        11550    0    0 
+Cassandra 935925001  6  2 Bf  -     -     -        11550  400    0 
+Cassandra 935925016  6  1 Br  -     -     -        11150 1200 1600 
+Cassandra 935925030  6  6 f   -     -     -        11550    0    0 
+Cassandra 935925041  6  5 f   -     -     -        11550    0    0 
+Cassandra 935925088  6  4 r   -     -     -        11550 1400 2000 
+Cassandra 935925116  6  3 f   -     -     -        12150    0    0 
+Cassandra 935925146  6  2 Bf  -     -     -        12150  800    0 
+Cassandra 935925162  6  1 Bf  -     -     -        11350  400    0 
+Cassandra 935925177  5  5 f   -     -     -        10950    0    0 
+Cassandra 935925230  5  4 r   b     -     -        10950 9200 15200 7h Kc
+Cassandra 935925278  4  3 f   -     -     -        16950    0    0 
+Cassandra 935925298  4  2 Bk  b     k     c        16950 7125    0 Qd 4d
+Cassandra 935925326  4  1 Bf  -     -     -         9825  400    0 
+Cassandra 935925343  4  4 rrA -     -     -         9425 9425 19250 Kh Ah
+Cassandra 935925359  4  3 f   -     -     -        19250    0    0 
+Cassandra 935925375  4  2 Bf  -     -     -        19250  800    0 
+Cassandra 935925381  4  1 Bf  -     -     -        18450  400    0 
+Cassandra 935925387  4  4 r   -     -     -        18050 2800 4000 
+Cassandra 935925395  4  3 r   -     -     -        19250 2800 4000 
+Cassandra 935925402  4  2 Bk  b     -     -        20450 2400 3200 
+Cassandra 935925416  4  1 B   -     -     -        21250  400  625 2d As
+Cassandra 935925420  3  3 r   k     k     c        21475 7200    0 4d 4c
+Cassandra 935925450  3  3 r   -     -     -        14275 5600 8000 
+Cassandra 935925458  3  2 Bf  -     -     -        16675 1600    0 
+Cassandra 935925469  3  1 Br  -     -     -        15075 4800 6400 
+Cassandra 935925476  3  3 f   -     -     -        16675    0    0 
+Cassandra 935925485  3  2 Br  -     -     -        16675 4800 6400 
+Cassandra 935925494  3  1 Br  kf    -     -        18275 4800    0 
+Cassandra 935925510  3  3 f   -     -     -        13475    0    0 
+Cassandra 935925514  3  2 BrA -     -     -        13475 13475 27750 Tc Ts
+Cassandra 935925526  3  1 Bf  -     -     -        27750  800    0 
+Cassandra 935925535  3  3 r   -     -     -        26950 5600 8000 
+Cassandra 935925540  3  2 Bf  -     -     -        29350 1600    0 
+Cassandra 935925546  3  1 Br  -     -     -        27750 4800 6400 
+Cassandra 935925554  3  3 r   b     -     -        29350 17600 24000 
+Cassandra 935925566  3  2 B   -     -     -        35750 1600 2400 
+Cassandra 935925571  3  1 Br  b     -     -        36550 14400 3000 8s Kc
+Cassandra 935925582  3  3 f   -     -     -        25150    0    0 
+Cassandra 935925597  2  1 Bf  -     -     -        25150 1600    0 
+Cassandra 935925619  2  1 Brf -     -     -        23550 4800    0 
+Cassandra 935925628  2  2 B   -     -     -        18750 1600 2400 
+Cassandra 935925631  2  1 Bf  -     -     -        19550  800    0 
+Cassandra 935925635  2  2 B   -     -     -        18750 1600 2400 
+Cassandra 935925638  2  1 Bcf -     -     -        19550 1600    0 
+Cassandra 935925645  2  2 Br  f     -     -        17950 4800    0 
+Cassandra 935925655  2  1 Bf  -     -     -        13150  800    0 
+Cassandra 935925658  2  2 Br  cA    -     -        12350 12350 24700 8c 8d
+Cassandra 935925669  2  1 Bc  b     k     kf       24700 4800    0 
+Cassandra 935925700  2  2 Bf  -     -     -        19900 1600    0 
+Cassandra 935925708  2  1 Br  -     -     -        18300 4800 6400 
+Cassandra 935925713  2  2 Bf  -     -     -        19900 1600    0 
+Cassandra 935925718  2  1 Br  b     -     -        18300 14400 19200 
+Cassandra 935925731  2  2 Bk  f     -     -        23100 1600    0 
+Cassandra 935925740  2  1 Br  -     -     -        21500 4800 6400 
+Cassandra 935925744  2  2 B   -     -     -        23100 1600 2400 
+Cassandra 935925748  2  1 Br  b     -     -        23900 14400 19200 
+Cassandra 935925762  2  2 Bc  f     -     -        28700 9600    0 
+Cassandra 935925771  2  1 Br  -     -     -        19100 9600 12800 
+Cassandra 935925775  2  2 B   -     -     -        22300 3200 4800 
+Cassandra 935925779  2  1 Br  -     -     -        23900 9600 12800 
+Cassandra 935925783  2  2 Bf  -     -     -        27100 3200    0 
+Cassandra 935925789  2  1 Br  -     -     -        23900 9600 12800 
+Cassandra 935925794  2  2 B   -     -     -        27100 3200 4800 
+Cassandra 935925799  2  1 Bf  -     -     -        28700 1600    0 
+Cassandra 935925802  2  2 B   -     -     -        27100 3200 4800 
+Cassandra 935925805  2  1 Bc  b     bA    -        28700 28700 2400 6h 9h
+Cassandra 935925833  2  2 BA  -     -     -         2400 2400 4800 3h Js
+Cassandra 935925839  2  1 BrA -     -     -         4800 4800 9600 Qh 6c
+Cassandra 935925860  2  2 Bf  -     -     -         9600 3200    0 
+Cassandra 935925874  2  1 BrA -     -     -         6400 6400 12800 Ks Tc
+Cassandra 935925881  2  2 BrA -     -     -        12800 12800 25600 Ac 7c
+Cassandra 935925892  2  1 Bf  -     -     -        25600 1600    0 
+Cassandra 935925899  2  2 Bf  -     -     -        24000 3200    0 
+Cassandra 935925905  2  1 Br  -     -     -        20800 9600 12800 
+Cassandra 935925910  2  2 Bf  -     -     -        24000 3200    0 
+Cassandra 935925918  2  1 Br  -     -     -        20800 9600 12800 
+Cassandra 935925922  2  2 Bf  -     -     -        24000 3200    0 
+Cassandra 935925926  2  1 Br  bA    -     -        20800 20800 30400 
+Cassandra 935925942  2  2 B   -     -     -        30400 3200 4800 
+Cassandra 935925946  2  1 Bf  -     -     -        32000 1600    0 
+Cassandra 935925949  2  2 Bf  -     -     -        30400 3200    0 
+Cassandra 935925953  2  1 Bf  -     -     -        27200 1600    0 
+Cassandra 935925955  2  2 Bf  -     -     -        25600 3200    0 
+Cassandra 935925960  2  1 Bc  b     -     -        22400 9600 12800 
+Cassandra 935925970  2  2 Bf  -     -     -        25600 3200    0 
+Cassandra 935925977  2  1 BrcA -     -     -        22400 22400 44800 Jh Kc
+Cassandra 935925997  2  2 B   -     -     -        44800 3200 4800 
+Cassandra 935926006  2  1 Br  -     -     -        46400 9600 1000 Qs 4h
+Cassandra 935926012  2  2 B   -     -     -        37800 3200 4800 
+Cassandra 935926018  2  1 Bf  -     -     -        39400 1600    0 
+Cassandra 935926021  2  2 Bf  -     -     -        37800 3200    0 
+Cassandra 935926033  2  1 Br  -     -     -        34600 9600 12800 
+Cassandra 935926038  2  2 Bf  -     -     -        37800 3200    0 
+Cassandra 935926044  2  1 Brc -     -     -        34600 20400    0 5h Qh
+Cassandra 935926052  2  2 Bf  -     -     -        14200 3200    0 
+Cassandra 935926059  2  1 Bf  -     -     -        11000 1600    0 
+Cassandra 935926061  2  2 BcA -     -     -         9400 9400 18800 3h 3s
+Cassandra 935926068  2  1 Bf  -     -     -        18800 3200    0 
+Cassandra 935926077  2  2 B   -     -     -        15600 6400 9600 
+Cassandra 935926082  2  1 Bf  -     -     -        18800 3200    0 
+Cassandra 935926085  2  2 BcA -     -     -        15600 15600 31200 3h Qc
+Cassandra 935926097  2  1 Br  -     -     -        31200 19200 25600 
+Cassandra 935926105  2  2 Bc  -     -     -        37600 17400    0 4s 7s
+Cassandra 935926117  2  1 Bf  -     -     -        20200 3200    0 
+Cassandra 935926126  2  2 BcA -     -     -        17000 17000 34000 2s Kh
+Cassandra 935926130  2  1 Br  -     -     -        34000 19200 25600 
+Cassandra 935926142  2  2 B   -     -     -        40400 6400 9600 
+Cassandra 935926144  2  1 Br  -     -     -        43600 19200 30600 Ac Qs
+Cassandra 935926369  9  7 f   -     -     -         5000    0    0 
+Cassandra 935926411  9  6 f   -     -     -         5000    0    0 
+Cassandra 935926472  9  5 f   -     -     -         5000    0    0 
+Cassandra 935926511  9  4 f   -     -     -         5000    0    0 
+Cassandra 935926562  9  3 f   -     -     -         5000    0    0 
+Cassandra 935926612  9  2 Bk  kf    -     -         5000  100    0 
+Cassandra 935926662  9  1 Bf  -     -     -         4900   50    0 
+Cassandra 935926706  9  9 f   -     -     -         4850    0    0 
+Cassandra 935926772  7  7 f   -     -     -         4850    0    0 
+Cassandra 935926823  7  7 f   -     -     -         4850    0    0 
+Cassandra 935926850  7  6 f   -     -     -         4850    0    0 
+Cassandra 935926945  7  5 f   -     -     -         4850    0    0 
+Cassandra 935927011  5  3 f   -     -     -         4850    0    0 
+Cassandra 935927038  4  3 f   -     -     -         4850    0    0 
+Cassandra 935927049  4  2 Bf  -     -     -         4850  400    0 
+Cassandra 935927059  4  1 Bf  -     -     -         4450  200    0 
+Cassandra 935927062  4  4 f   -     -     -         4250    0    0 
+Cassandra 935927073  3  3 f   -     -     -         4250    0    0 
+Cassandra 935927090  3  2 Bk  f     -     -         4250  400    0 
+Cassandra 935927100  3  1 Bf  -     -     -         3850  200    0 
+Cassandra 935927113  3  3 f   -     -     -         3650    0    0 
+Cassandra 935927115  3  2 Bf  -     -     -         3650  400    0 
+Cassandra 935927123  3  1 Bf  -     -     -         3250  200    0 
+Cassandra 935927131  3  3 f   -     -     -         3050    0    0 
+Cassandra 935927134  3  2 Bf  -     -     -         3050  400    0 
+Cassandra 935927161  2  1 Bf  -     -     -         2650  200    0 
+Cassandra 935927162  2  2 Bf  -     -     -         2450  400    0 
+Cassandra 935927171  2  1 Bf  -     -     -         2050  200    0 
+Cassandra 935927172  2  2 Bf  -     -     -         1850  400    0 
+Cassandra 935927176  2  1 Bf  -     -     -         1450  200    0 
+Cassandra 935927177  2  2 B   -     -     -         1250  400  600 
+Cassandra 935927182  2  1 Bf  -     -     -         1450  200    0 
+Cassandra 935927183  2  2 Bk  k     k     f         1250  400    0 
+Cassandra 935927205  2  1 Bf  -     -     -          850  200    0 
+Cassandra 935927206  2  2 Bf  -     -     -          650  400    0 
+Cassandra 935927208  2  1 Bf  -     -     -          250  200    0 
+Cassandra 935927209  2  2 BA  -     -     -           50   50    0 5d Ad
+Cassandra 935935722 18 15 f   -     -     -         5000    0    0 
+Cassandra 935935816 18 14 f   -     -     -         5000    0    0 
+Cassandra 935935862 18 13 r   b     -     -         5000 1950 3350 
+Cassandra 935935944 18 12 f   -     -     -         6400    0    0 
+Cassandra 935936019 18 11 c   f     -     -         6400  175    0 
+Cassandra 935936069 18 10 f   -     -     -         6225    0    0 
+Cassandra 935936134 18  9 f   -     -     -         6225    0    0 
+Cassandra 935936186 18  8 r   b     -     -         6225 1950 3000 
+Cassandra 935936290 18  7 f   -     -     -         7275    0    0 
+Cassandra 935936411 18  6 f   -     -     -         7275    0    0 
+Cassandra 935936498 18  5 f   -     -     -         7275    0    0 
+Cassandra 935936570 18  4 f   -     -     -         7275    0    0 
+Cassandra 935936687 18  3 f   -     -     -         7275    0    0 
+Cassandra 935936779 16  2 Bk  kf    -     -         7275  200    0 
+Cassandra 935936999 16  1 Bf  -     -     -         7075  200    0 
+Cassandra 935937058 16 16 c   b     -     -         6875 3400 6000 
+Cassandra 935937122 16 15 c   k     f     -         9475  400    0 
+Cassandra 935937210 15 13 f   -     -     -         9075    0    0 
+Cassandra 935937283 14 11 f   -     -     -         9075    0    0 
+Cassandra 935937363 14 10 f   -     -     -         9075    0    0 
+Cassandra 935937450 14  9 f   -     -     -         9075    0    0 
+Cassandra 935937526 14  8 f   -     -     -         9075    0    0 
+Cassandra 935937629 14  7 f   -     -     -         9075    0    0 
+Cassandra 935937676 14  6 f   -     -     -         9075    0    0 
+Cassandra 935937709 14  5 f   -     -     -         9075    0    0 
+Cassandra 935937752 14  4 c   bA    -     -         9075 9075 12250 Ah As
+Cassandra 935937809 13  3 f   -     -     -        12250    0    0 
+Cassandra 935937872 13  2 Bc  k     k     k        12250 2225    0 6c 7h
+Cassandra 935937931 13  1 Bf  -     -     -        10025  800    0 
+Cassandra 935937978 11 11 f   -     -     -         9225    0    0 
+Cassandra 935938020 11 11 f   -     -     -         9225    0    0 
+Cassandra 935938046 10  9 f   -     -     -         9225    0    0 
+Cassandra 935938104 10  8 f   -     -     -         9225    0    0 
+Cassandra 935938120 10  7 f   -     -     -         9225    0    0 
+Cassandra 935938132 10  6 f   -     -     -         9225    0    0 
+Cassandra 935938162 10  5 f   -     -     -         9225    0    0 
+Cassandra 935938267  9  3 rA  -     -     -         9225 9225 14025 
+Cassandra 935938309  9  2 Bk  b     k     k        14025 12125 26775 Kc 6h
+Cassandra 935938384  8  1 Bf  -     -     -        28675 1600    0 
+Cassandra 935938401  6  6 f   -     -     -        27075    0    0 
+Cassandra 935938415  6  6 r   -     -     -        27075 11200 12000 Ah 2s
+Cassandra 935938431  6  5 r   -     -     -        27875 11200 17400 9h 9d
+Cassandra 935938454  5  3 rc  -     -     -        34075 20750    0 2h 2d
+Cassandra 935938496  5  3 f   -     -     -        13325    0    0 
+Cassandra 935938511  5  2 BrA -     -     -        13325 13325    0 3d 5c
+Cassandra 936012443  9  7 f   -     -     -         5000    0    0 
+Cassandra 936012491  9  6 f   -     -     -         5000    0    0 
+Cassandra 936012542  9  5 f   -     -     -         5000    0    0 
+Cassandra 936012590  9  4 f   -     -     -         5000    0    0 
+Cassandra 936012644  9  3 f   -     -     -         5000    0    0 
+Cassandra 936012683  9  2 Bk  b     -     -         5000  350  500 
+Cassandra 936012704  9  1 Br  -     -     -         5150  300  400 
+Cassandra 936012717  9  9 f   -     -     -         5250    0    0 
+Cassandra 936012750  9  8 f   -     -     -         5250    0    0 
+Cassandra 936012790  8  7 c   f     -     -         5250  200    0 
+Cassandra 936012881  8  6 f   -     -     -         5050    0    0 
+Cassandra 936012906  8  5 c   k     b     k         5050  900    0 Kc Jc
+Cassandra 936012947  8  4 f   -     -     -         4150    0    0 
+Cassandra 936012967  8  3 c   k     k     b         4150 1000 2400 8d Td
+Cassandra 936013016  8  2 Bc  r     -     -         5550 5400  150 Jd Kc
+Cassandra 936013061  8  1 BcA -     -     -          300  300 1200 9c 8h
+Cassandra 936013102  8  8 f   -     -     -         1200    0    0 
+Cassandra 936013115  8  7 f   -     -     -         1200    0    0 
+Cassandra 936013160  8  6 f   -     -     -         1200    0    0 
+Cassandra 936013209  8  5 f   -     -     -         1200    0    0 
+Cassandra 936013257  8  4 rA  -     -     -         1200 1200    0 Ks 8s

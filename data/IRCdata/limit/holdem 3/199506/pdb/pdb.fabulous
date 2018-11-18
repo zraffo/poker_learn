@@ -1,0 +1,855 @@
+fabulous  802880796  2  2 Bk  k     c     k         1000   30   60 7s Qc
+fabulous  802881152  2  1 Bc  k     k     k         1030   10    0 3c 6h
+fabulous  802881623  2  2 Bk  k     k     k         1020   10   20 6s 2h
+fabulous  802881773  2  1 Bc  k     k     k         1030   10   20 Qh 7s
+fabulous  802882186  2  2 B   -     -     -         1040   10   15 
+fabulous  802882191  2  1 Bcc k     k     b         1045   40   60 
+fabulous  802882336  2  2 Bc  k     k     b         1065   40   80 9h Jd
+fabulous  802882433  2  1 Bc  k     k     k         1105   10   20 2d 5s
+fabulous  802882561  2  2 Bk  k     k     f         1115   10    0 
+fabulous  802882645  2  1 Bc  k     k     k         1105   10   20 Th 9c
+fabulous  802882723  2  2 B   -     -     -         1115   10   15 
+fabulous  802882742  2  1 Bc  k     k     kf        1120   10    0 
+fabulous  802882859  3  2 Bc  kc    kf    -         1110   30    0 
+fabulous  802882924  3  1 Bcc k     kc    kf        1080   40    0 
+fabulous  802883058  3  3 c   k     k     k         1040   10    0 5h 9d
+fabulous  802883146  3  2 Bk  kf    -     -         1030   10    0 
+fabulous  802883205  3  1 Bc  k     b     -         1020   30   50 
+fabulous  802883270  4  4 c   f     -     -         1040   10    0 
+fabulous  802883363  4  3 cc  k     k     k         1030   20   45 6s Ad
+fabulous  802883443  4  2 Bk  c     f     -         1055   20    0 
+fabulous  802883521  4  1 Bcc f     -     -         1035   20    0 
+fabulous  802883623  4  4 f   -     -     -         1015    0    0 
+fabulous  802883831  4  3 f   -     -     -         1015    0    0 
+fabulous  802884071  4  2 Bk  k     k     b         1015   30   50 
+fabulous  802884210  5  1 Bc  f     -     -         1035   10    0 
+fabulous  802884282  4  4 cc  f     -     -         1025   20    0 
+fabulous  802884336  4  3 cf  -     -     -         1005   10    0 
+fabulous  802884406  4  2 Bf  -     -     -          995   10    0 
+fabulous  802884464  4  1 BfQ -     -     -          985    5    0 
+fabulous  802885612  5  2 Bf  -     -     -          980   10    0 
+fabulous  802885887  5  1 Bc  kf    -     -          970   10    0 
+fabulous  802885979  5  5 c   cf    -     -          960   30    0 
+fabulous  802886047  5  4 cc  f     -     -          930   20    0 
+fabulous  802886101  5  3 cc  k     f     -          910   20    0 
+fabulous  802886150  5  2 Bk  k     k     k          890   10    0 7d Qh
+fabulous  802886193  5  1 Bc  k     kf    -          880   10    0 
+fabulous  802886268  4  4 c   r     c     c          870   70    0 Ah Ad
+fabulous  802886320  4  3 Q   -     -     -          800    0    0 
+fabulous  802921030  7  2 Bf  -     -     -          800   10    0 
+fabulous  802921076  7  1 Bf  -     -     -          790    5    0 
+fabulous  802921164  8  7 f   -     -     Q          785    0    0 
+fabulous  802921340  9  5 c   bc    kc    c          785   90    0 7c Ac
+fabulous  802921528  4  3 Q   -     -     -          695    0    0 
+fabulous  802925627  6  2 Bk  cc    b     b          695   70  200 
+fabulous  802925703  6  1 Bc  k     b     -          825   30   50 
+fabulous  802925751  5  5 c   c     c     f          845   50    0 
+fabulous  802925842  7  5 Q   -     -     -          795    0    0 
+fabulous  802926508  7  2 Bk  kf    -     -          795   10    0 
+fabulous  802926565  6  1 Bf  -     -     -          785    5    0 
+fabulous  802926637  5  5 c   c     b     b          780   60  150 9s As
+fabulous  802926712  7  6 f   -     -     -          870    0    0 
+fabulous  802926804  6  5 r   b     bc    c          870   90    0 5c 5d
+fabulous  802926886  5  3 f   -     -     -          780    0    0 
+fabulous  802926964  5  2 Br  k     b     b          780   60    0 5c 5s
+fabulous  802927040  5  1 Bc  bc    kc    k          720   50    0 5s 6s
+fabulous  802927170  4  4 f   -     -     -          670    0    0 
+fabulous  802927214  4  4 c   c     f     -          670   20    0 
+fabulous  802927259  4  3 c   f     -     -          650   10    0 
+fabulous  802927313  4  2 Bk  c     c     c          640   60    0 Ad 3s
+fabulous  802927364  4  1 Bc  kc    kf    -          580   20    0 
+fabulous  802927427  4  4 f   -     -     -          560    0    0 
+fabulous  802927471  4  3 cc  brc   kc    c          560  100  320 Qh 9h
+fabulous  802927577  5  2 Bf  -     -     -          780   10    0 
+fabulous  802927635  6  1 Bf  -     -     -          770    5    0 
+fabulous  802927726  5  5 f   -     -     -          765    0    0 
+fabulous  802927799  5  4 f   -     -     -          765    0    0 
+fabulous  802927815  5  3 f   -     -     -          765    0    0 
+fabulous  802927856  5  2 Bf  -     -     -          765   10    0 
+fabulous  802927944  5  1 Bc  b     kr    b          755   80  180 3c 2c
+fabulous  802928035  5  5 cc  c     r     k          855   80  205 5h Qh
+fabulous  802928099  5  4 c   f     -     -          980   10    0 
+fabulous  802928149  5  3 c   b     c     -          970   40   90 
+fabulous  802928203  5  2 Bf  -     -     -         1020   10    0 
+fabulous  802928270  6  1 Bc  kc    kc    kc        1010   60    0 Ks Ah
+fabulous  802928345  6  6 c   k     c     r          950   70  160 
+fabulous  802928426  6  5 fQ  -     -     -         1040    0    0 
+fabulous  802929255  7  7 c   bc    c     c         1040   70    0 Tc Th
+fabulous  802929365  8  7 cc  k     b     b          970   60  135 
+fabulous  802929435  7  6 c   f     -     -         1045   10    0 
+fabulous  802929520  6  5 f   -     -     -         1035    0    0 
+fabulous  802929601  7  4 r   k     c     k         1035   40    0 4d 4s
+fabulous  802929655  6  2 Bf  -     -     -          995   10    0 
+fabulous  802929724  6  1 Bc  kc    kc    kr         985   80  160 4d 4h
+fabulous  802929785  6  6 f   -     -     -         1065    0    0 
+fabulous  802929844  5  4 f   -     -     -         1065    0    0 
+fabulous  802929911  4  3 cf  -     -     -         1065   10    0 
+fabulous  802929939  4  2 Bc  k     b     k         1055   40    0 7c 6d
+fabulous  802929988  6  1 Bf  -     -     -         1015    5    0 
+fabulous  802930074  6  6 f   -     -     -         1010    0    0 
+fabulous  802930115  7  6 c   c     b     b         1010   60  165 Jd Kh
+fabulous  802930181  7  5 f   -     -     -         1115    0    0 
+fabulous  802930256  7  4 c   krr   kc    kf        1115   70    0 
+fabulous  802930370  7  3 cf  -     -     -         1045   10    0 
+fabulous  802930454  7  2 Bf  -     -     -         1035   10    0 
+fabulous  802930487  7  1 Bc  f     -     -         1025   20    0 
+fabulous  802930552  7  7 f   -     -     -         1005    0    0 
+fabulous  802930671  7  6 c   c     r     b         1005   80  205 Ac 3c
+fabulous  802930760  6  5 f   -     -     -         1130    0    0 
+fabulous  802930775  6  5 c   c     r     c         1130  100    0 Td 9s
+fabulous  802930886  6  4 c   c     f     -         1030   20    0 
+fabulous  802930940  6  3 f   -     -     -         1010    0    0 
+fabulous  802930993  6  2 Bk  k     k     kf        1010   10    0 
+fabulous  802931080  6  1 Bf  -     -     -         1000    5    0 
+fabulous  802931114  6  6 c   c     f     -          995   20    0 
+fabulous  802931217  6  5 f   -     -     -          975    0    0 
+fabulous  802931255  6  4 cf  -     -     -          975   10    0 
+fabulous  802931346  6  3 cc  f     -     -          965   20    0 
+fabulous  802931437  6  2 Bf  -     -     -          945   10    0 
+fabulous  802931477  6  1 Bc  kc    kr    b          935   90  190 Ac 2s
+fabulous  802931535  6  6 c   c     f     -         1035   20    0 
+fabulous  802931613  6  5 c   c     c     k         1015   40    0 7h Ah
+fabulous  802931679  7  4 cc  c     c     f          975   50    0 
+fabulous  802931802  7  3 f   -     -     -          925    0    0 
+fabulous  802931875  6  2 Bc  kc    bc    kc         925   90  215 8c 7s
+fabulous  802931942  6  1 Bf  Q     -     -         1050    5    0 
+fabulous  803143303  7  3 cc  kf    -     -         1045   20    0 
+fabulous  803143372  7  2 Bk  cf    -     -         1025   20    0 
+fabulous  803143525  6  1 Bf  -     -     -         1005    5    0 
+fabulous  803143527  5  5 f   -     -     -         1000    0    0 
+fabulous  803143548  5  4 c   b     k     k         1000   20    0 Ac 7h
+fabulous  803143592  5  3 cc  kf    -     -          980   20    0 
+fabulous  803143661  5  2 Bc  kf    -     -          960   20    0 
+fabulous  803143695  5  1 Bf  -     -     -          940    5    0 
+fabulous  803143737  5  5 f   -     -     -          935    0    0 
+fabulous  803143777  5  4 f   -     -     -          935    0    0 
+fabulous  803143817  5  3 f   -     -     -          935    0    0 
+fabulous  803143856  5  2 Bk  k     k     k          935   10   20 6h 7h
+fabulous  803143897  5  1 Bf  -     -     -          945    5    0 
+fabulous  803143933  5  5 c   c     c     b          940   70    0 Kd Qh
+fabulous  803143978  4  3 f   -     -     -          870    0    0 
+fabulous  803144013  4  3 c   b     b     -          870   40   70 
+fabulous  803144057  4  2 Bf  -     -     -          900   10    0 
+fabulous  803144084  5  1 Bf  -     -     -          890    5    0 
+fabulous  803144117  5  5 c   c     f     -          885   20    0 
+fabulous  803144199  5  4 f   -     -     -          865    0    0 
+fabulous  803144218  5  3 c   bc    kr    -          865   70  140 
+fabulous  803144310  4  2 Bk  k     bc    k          935   50    0 6s Ac
+fabulous  803144374  4  1 Bc  k     bc    b          885   70  140 2d Ah
+fabulous  803144470  4  3 f   -     -     -          955    0    0 
+fabulous  803144515  4  2 B   -     -     -          955   10   15 
+fabulous  803144526  3  1 Bcc kc    kc    kr         960   90  180 3h Qh
+fabulous  803144620  4  4 cc  f     -     -         1050   20    0 
+fabulous  803144668  4  3 f   -     -     -         1030    0    0 
+fabulous  803144724  4  2 Bf  -     Q     -         1030   10    0 
+fabulous  803201915  5  3 cc  kc    kc    k         1020   50    0 Kh Js
+fabulous  803202002  5  2 Bf  -     -     -          970   10    0 
+fabulous  803202027  4  1 Bc  kc    kc    bc         960   80    0 3d 2d
+fabulous  803202090  3  3 f   -     -     -          880    0    0 
+fabulous  803202134  3  2 Bc  kf    -     -          880   20    0 
+fabulous  803202165  3  1 Bf  -     -     -          860    5    0 
+fabulous  803202175  4  3 c   b     b     -          855   40   80 
+fabulous  803202226  4  2 Bc  kc    b     bc         895   90  215 As Ah
+fabulous  803202300  3  1 Bf  -     -     -         1020    5    0 
+fabulous  803202335  3  3 c   k     b     -         1015   30   50 
+fabulous  803202387  3  2 Bc  f     -     -         1035   20    0 
+fabulous  803202417  3  1 Bc  kr    br    b         1015  120  130 Kd Td
+fabulous  803202470  3  3 cc  r     b     b         1025   80  180 As 3s
+fabulous  803202596  3  2 B   -     -     -         1125   10   15 
+fabulous  803202608  3  1 Bf  -     -     -         1130    5    0 
+fabulous  803202622  3  3 cr  c     c     c         1125   90    0 Th Ah
+fabulous  803202700  3  2 Bc  k     kf    -         1035   20    0 
+fabulous  803202763  3  1 Bc  kc    kc    k         1015   50  110 5h Kh
+fabulous  803202818  3  3 c   f     -     -         1075   10    0 
+fabulous  803202882  3  2 Bk  k     f     -         1065   10    0 
+fabulous  803202946  3  1 Bc  kc    kc    kc        1055   70    0 4h Ah
+fabulous  803203021  3  3 c   bf    -     -          985   20    0 
+fabulous  803203074  3  2 Bc  c     f     -          965   30    0 
+fabulous  803203106  3  1 Bc  bf    -     -          935   30    0 
+fabulous  803203165  3  3 f   -     -     -          905    0    0 
+fabulous  803203211  3  2 Bc  kc    bc    c          905  110    0 Ac Th
+fabulous  803203299  3  1 Bc  b     -     -          795   20   30 
+fabulous  803203350  3  3 f   -     -     -          805    0    0 
+fabulous  803203384  3  2 Bk  kf    -     -          805   10    0 
+fabulous  803203438  3  1 Bf  -     -     -          795    5    0 
+fabulous  803203459  3  3 c   c     f     -          790   20    0 
+fabulous  803203513  3  2 Bk  k     kf    -          770   10    0 
+fabulous  803203550  3  1 Bc  k     k     k          760   10   20 Jd 2c
+fabulous  803203647  2  2 Bk  b     -     -          770   20   30 
+fabulous  803203672  2  1 Bcc kf    -     -          780   20    0 
+fabulous  803203694  2  2 Bf  -     -     -          760   10    0 
+fabulous  803203706  2  1 Bcc kf    -     -          750   20    0 
+fabulous  803203736  2  2 Bc  c     c     c          730   70    0 2d Qh
+fabulous  803203780  2  1 Bc  kc    kf    -          660   20    0 
+fabulous  803203833  2  2 Bf  -     -     -          640   10    0 
+fabulous  803203848  2  1 Bcc b     b     b          630   70   70 Qh 5h
+fabulous  803203937  2  2 Bk  c     c     r          630   80  160 3d 4d
+fabulous  803204015  2  1 Bf  -     -     -          710    5    0 
+fabulous  803204050  2  2 Bf  -     -     -          705   10    0 
+fabulous  803204062  2  1 Bcc kf    -     -          695   20    0 
+fabulous  803204102  3  3 c   b     b     -          675   40   70 
+fabulous  803204165  3  2 Bc  f     -     -          705   20    0 
+fabulous  803204194  3  1 Bc  kf    -     -          685   10    0 
+fabulous  803204249  3  3 f   -     -     -          675    0    0 
+fabulous  803204270  3  2 Bf  -     -     -          675   10    0 
+fabulous  803204290  3  1 Bc  f     -     -          665   10    0 
+fabulous  803204416  3  3 c   k     b     -          655   30   45 
+fabulous  803204458  3  2 Bk  kc    b     k          670   40    0 Ks Qh
+fabulous  803204521  3  1 Bf  -     -     -          630    5    0 
+fabulous  803204568  3  3 cc  c     cc    f          625   70    0 
+fabulous  803204658  3  2 Bf  -     -     -          555   10    0 
+fabulous  803204746  3  1 Bc  b     b     k          545   40   80 Jh 7h
+fabulous  803204809  3  3 c   c     f     -          585   20    0 
+fabulous  803204904  3  2 Bc  b     k     b          565   50   80 
+fabulous  803205033  3  1 Bf  -     -     -          595    5    0 
+fabulous  803205075  3  3 f   -     -     -          590    0    0 
+fabulous  803205121  3  2 Bk  b     -     -          590   20   40 
+fabulous  803205162  3  1 Bf  -     -     -          610    5    0 
+fabulous  803205238  3  3 f   -     -     -          605    0    0 
+fabulous  803205308  3  2 Bk  cc    f     -          605   30    0 
+fabulous  803205398  3  1 Bc  k     kf    -          575   10    0 
+fabulous  803205516  3  3 c   b     c     b          565   60  130 Qd Kh
+fabulous  803205609  3  2 Bk  k     b     -          635   30   40 
+fabulous  803205679  3  1 Bf  -     -     -          645    5    0 
+fabulous  803205830  3  3 f   -     -     -          640    0    0 
+fabulous  803205875  3  2 Bk  kc    b     -          640   40   65 
+fabulous  803206016  3  1 Bc  k     kf    -          665   10    0 
+fabulous  803206118  3  3 cc  k     c     c          655   60    0 5h Ks
+fabulous  803206240  3  2 Bf  -     -     -          595   10    0 
+fabulous  803206364  3  1 Bf  -     -     -          585    5    0 
+fabulous  803206402  3  3 cf  -     -     -          580   10    0 
+fabulous  803206492  3  2 Bk  c     c     f          570   40    0 
+fabulous  803206591  3  1 Bcc b     b     bf         530   70    0 
+fabulous  803206776  3  3 f   -     -     -          460    0    0 
+fabulous  803206834  3  2 Bk  kc    kf    -          460   20    0 
+fabulous  803206897  3  1 Bf  -     -     -          440    5    0 
+fabulous  803206936  3  3 cc  k     c     k          435   40    0 Qc Jc
+fabulous  803207016  3  2 Bf  -     -     -          395   10    0 
+fabulous  803207038  3  1 Bf  -     -     -          385    5    0 
+fabulous  803207126  3  3 c   cc    k     f          380   40    0 
+fabulous  803207245  3  2 B   -     -     -          340   10   15 
+fabulous  803207315  3  1 Bc  b     b     kc         345   60    0 2h 7c
+fabulous  803207424  3  3 cc  b     b     f          285   50    0 
+fabulous  803207540  3  2 Bc  f     -     -          235   20    0 
+fabulous  803207655  3  1 Bf  -     -     -          215    5    0 
+fabulous  803207690  3  3 c   k     f     -          210   10    0 
+fabulous  803207774  3  2 Bc  kf    -     -          200   20    0 
+fabulous  803207829  3  1 Bcc kc    kr    b          180   90  180 2h Qd
+fabulous  803207973  3  3 f   -     -     -          270    0    0 
+fabulous  803208003  3  2 B   -     -     -          270   10   15 
+fabulous  803208013  3  1 Bf  -     -     -          275    5    0 
+fabulous  803208073  3  3 c   c     k     f          270   20    0 
+fabulous  803208174  3  2 Bc  k     k     f          250   20    0 
+fabulous  803208254  3  1 Bc  kc    kf    -          230   20    0 
+fabulous  803208352  3  3 f   -     -     -          210    0    0 
+fabulous  803208376  3  2 Bk  b     b     kf         210   40    0 
+fabulous  803208446  3  1 Bc  bc    kf    -          170   30    0 
+fabulous  803208522  3  3 cf  -     -     -          140   10    0 
+fabulous  803208647  3  2 Bk  kf    -     -          130   10    0 
+fabulous  803208710  3  1 Bc  br    kc    brA        120  120  240 Ad 3d
+fabulous  803208892  3  3 cc  k     c     f          240   40    0 
+fabulous  803209112  2  1 BQ  -     -     -          200   10    0 
+fabulous  803290603  3  1 Bc  k     k     k          190   10   30 Tc 9h
+fabulous  803313243  3  3 KQ  -     -     -          210    0    0 
+fabulous  803352889  5  5 c   f     -     -          210   10    0 
+fabulous  803352929  5  4 cc  c     k     b          200   50   90 
+fabulous  803352984  5  3 f   -     -     -          240    0    0 
+fabulous  803353006  5  2 Bc  kc    kf    -          240   30    0 
+fabulous  803353085  5  1 Bf  -     -     -          210    5    0 
+fabulous  803353101  5  5 c   k     k     b          205   30   50 
+fabulous  803353148  5  3 f   -     -     -          225    0    0 
+fabulous  803353199  5  2 Bc  kc    kf    -          225   30    0 
+fabulous  803353260  5  1 Bcf -     -     -          195   20    0 
+fabulous  803353332  4  4 c   c     c     b          175   60  125 Jd Ah
+fabulous  803353364  4  3 f   -     -     -          240    0    0 
+fabulous  803353431  4  2 Bk  kf    -     -          240   10    0 
+fabulous  803353466  3  1 Bf  -     -     -          230    5    0 
+fabulous  803353490  3  3 cc  k     f     -          225   20    0 
+fabulous  803353521  3  2 Bk  k     c     f          205   30    0 
+fabulous  803353570  3  1 Bcc kr    b     -          175   60  100 
+fabulous  803353614  3  3 c   c     c     c          215   60    0 Ac 4h
+fabulous  803353654  3  2 Bc  kf    -     -          155   20    0 
+fabulous  803353687  3  1 Bc  bc    kc    k          135   50   50 Td 8c
+fabulous  803353734  3  3 cc  r     -     -          135   40   90 
+fabulous  803353775  3  2 Bk  kf    -     -          185   10    0 
+fabulous  803353810  3  1 Bf  -     -     -          175    5    0 
+fabulous  803353820  3  3 f   -     -     -          170    0    0 
+fabulous  803353850  3  2 Bc  kf    -     -          170   20    0 
+fabulous  803353881  3  1 Bf  -     -     -          150    5    0 
+fabulous  803353896  3  3 c   b     -     -          145   20   40 
+fabulous  803353913  3  2 Bk  kf    -     -          165   10    0 
+fabulous  803353940  3  1 Bf  -     -     -          155    5    0 
+fabulous  803353976  3  3 f   -     -     -          150    0    0 
+fabulous  803354002  4  2 Bk  k     b     -          150   30   45 
+fabulous  803354042  3  1 Bc  kr    k     b          165   50  100 
+fabulous  803354088  3  3 cc  c     b     b          215   70  140 
+fabulous  803354147  3  2 Br  k     k     k          285   20   40 Ad 5h
+fabulous  803354190  3  1 Bf  -     -     -          305    5    0 
+fabulous  803354221  3  3 cc  c     c     f          300   50    0 
+fabulous  803354281  4  3 f   -     -     -          250    0    0 
+fabulous  803354324  4  2 Bk  k     b     -          250   30   55 
+fabulous  803354362  4  1 Bc  kc    kc    k          275   50    0 2c 5c
+fabulous  803354434  4  4 f   -     -     -          225    0    0 
+fabulous  803354478  4  3 f   -     -     -          225    0    0 
+fabulous  803354526  4  2 Bc  kc    kf    -          225   30    0 
+fabulous  803354578  4  1 Bc  kf    -     -          195   20    0 
+fabulous  803354616  4  4 c   k     k     f          175   10    0 
+fabulous  803354674  4  3 cc  f     -     -          165   20    0 
+fabulous  803354723  4  2 Bc  kc    b     -          145   50  140 
+fabulous  803354794  6  1 Bf  -     -     -          235    5    0 
+fabulous  803354845  6  6 f   -     -     -          230    0    0 
+fabulous  803354892  6  5 cc  f     -     -          230   30    0 
+fabulous  803354936  6  4 f   -     -     -          200    0    0 
+fabulous  803355034  6  3 c   b     b     -          200   40   85 
+fabulous  803355079  6  2 Bk  bc    kf    -          245   30    0 
+fabulous  803355166  6  1 Bc  k     kr    b          215   70  140 
+fabulous  803355287  7  7 f   -     -     -          285    0    0 
+fabulous  803355381  7  6 c   b     k     c          285   40   90 Ah 2s
+fabulous  803355471  5  4 f   -     -     -          335    0    0 
+fabulous  803355552  5  3 c   kf    -     -          335   10    0 
+fabulous  803355701  5  2 Bk  kc    kc    kc         325   60  125 3s 8h
+fabulous  803355772  6  1 Bc  bc    kc    kf         390   50    0 
+fabulous  803355924  6  6 c   cf    -     -          340   20    0 
+fabulous  803356028  6  5 f   -     -     -          320    0    0 
+fabulous  803356123  7  4 c   kc    b     b          320   60  115 
+fabulous  803356201  7  3 c   b     bc    kc         375   80    0 3d Ad
+fabulous  803356287  7  2 Bf  -     -     -          295   10    0 
+fabulous  803356350  7  1 Bf  -     -     -          285    5    0 
+fabulous  803356427  7  7 f   -     -     -          280    0    0 
+fabulous  803356506  7  6 c   k     k     f          280   10    0 
+fabulous  803356638  6  5 f   -     -     -          270    0    0 
+fabulous  803356748  7  4 c   b     b     k          270   40  125 Qs Qh
+fabulous  803356861  7  3 c   b     -     -          355   20   35 
+fabulous  803356921  8  2 Bk  b     b     b          370   60    0 7h 7d
+fabulous  803357014  7  1 Bc  k     b     b          310   50  140 Tc 6c
+fabulous  803357120  6  6 c   k     c     f          400   30    0 
+fabulous  803357217  7  6 f   -     -     -          370    0    0 
+fabulous  803357380  7  5 c   c     f     -          370   20    0 
+fabulous  803357515  7  4 c   k     f     -          350   10    0 
+fabulous  803357595  6  2 c   k     kf    -          340   10    0 
+fabulous  803357702  7  2 BQ  -     -     -          330   10    0 
+fabulous  803357922  5  3 c   kc    kf    -          320   20    0 
+fabulous  803358041  6  3 f   -     -     -          300    0    0 
+fabulous  803358106  6  2 Bk  b     b     b          300   60    0 Ks As
+fabulous  803358175  5  1 Bc  k     b     kc         240   60    0 Kd Qs
+fabulous  803358268  6  6 f   -     -     -          180    0    0 
+fabulous  803358402  6  5 cc  k     f     -          180   20    0 
+fabulous  803358473  6  4 cf  -     -     -          160   10    0 
+fabulous  803358561  6  3 f   -     -     -          150    0    0 
+fabulous  803358695  7  2 Bk  kf    -     -          150   10    0 
+fabulous  803358823  7  1 Bf  -     -     -          140    5    0 
+fabulous  803358887  8  8 c   f     -     -          135   30    0 
+fabulous  803359014 10  9 cc  kc    k     kc         105   50  175 Kh 9h
+fabulous  803359158 10  8 f   -     -     -          230    0    0 
+fabulous  803359235  9  7 f   -     -     -          230    0    0 
+fabulous  803359346 10  6 cc  kc    kf    -          230   30    0 
+fabulous  803359509  9  4 f   -     -     -          200    0    0 
+fabulous  803359603 10  4 cc  kf    -     -          200   20    0 
+fabulous  803359760 10  3 f   -     -     -          180    0    0 
+fabulous  803359880 11  3 f   -     -     -          180    0    0 
+fabulous  803360007 11  2 Bcc kc    kc    kc         180   80    0 Qc Qs
+fabulous  803360153  9  1 Bc  kf    -     -          100   10    0 
+fabulous  803360266  7  7 c   f     -     -           90   10    0 
+fabulous  803360335  7  6 c   f     -     -           80   10    0 
+fabulous  803360412  7  5 c   r     b     cA          70   70    0 Qh Qc
+fabulous  803360719  8  2 Bk  kf    -     -         1000   10    0 
+fabulous  803360846  9  1 Bf  -     -     -          990    5    0 
+fabulous  803360941  8  8 f   -     -     -          985    0    0 
+fabulous  803361028  9  8 f   -     -     -          985    0    0 
+fabulous  803361097  9  7 f   -     -     -          985    0    0 
+fabulous  803361185  9  6 c   k     k     f          985   20    0 
+fabulous  803361290  8  4 c   rc    cc    c          965  120    0 Qc Qh
+fabulous  803361460  9  6 c   k     c     c          845   60    0 Qc Qs
+fabulous  803361620  7  4 f   -     -     -          785    0    0 
+fabulous  803361710  9  4 cf  -     -     -          785   10    0 
+fabulous  803361784  8  3 f   -     -     -          775    0    0 
+fabulous  803361890  7  1 Bk  b     b     b          775   60  100 
+fabulous  803362047  4  1 Bf  -     -     -          815    5    0 
+fabulous  803362125  5  4 f   -     -     -          810    0    0 
+fabulous  803362198  5  3 f   -     -     -          810    0    0 
+fabulous  803362279  5  2 Bf  -     -     -          810   10    0 
+fabulous  803362346  5  1 Bc  krc   k     b          800   60  170 Td 2c
+fabulous  803362416  5  5 cf  -     -     -          910   10    0 
+fabulous  803362476  5  4 cc  f     -     -          900   20    0 
+fabulous  803362608  5  3 cf  -     -     -          880   10    0 
+fabulous  803362658  5  2 Bc  kc    k     b          870   50  115 
+fabulous  803362720  5  1 Bf  -     -     -          935    5    0 
+fabulous  803362769  6  6 cc  c     f     -          930   30    0 
+fabulous  803362842  7  6 f   -     -     -          900    0    0 
+fabulous  803362903  6  4 cc  f     -     -          900   20    0 
+fabulous  803362983  6  3 cc  kr    b     k          880   60  200 Kh Ad
+fabulous  803363115  6  2 Bf  -     -     -         1020   10    0 
+fabulous  803363154  6  1 Bf  -     -     -         1010    5    0 
+fabulous  803363236  6  6 cc  f     -     -         1005   20    0 
+fabulous  803363320  6  5 f   -     -     -          985    0    0 
+fabulous  803363356  6  4 cc  cf    -     -          985   40    0 
+fabulous  803363460  7  3 c   b     bc    b          945   80  220 Tc Kd
+fabulous  803363564  7  2 Bf  -     -     -         1085   10    0 
+fabulous  803363598  8  1 Bf  -     -     -         1075    5    0 
+fabulous  803363666  9  9 c   c     f     -         1070   30    0 
+fabulous  803363786 12 11 f   -     -     -         1040    0    0 
+fabulous  803363855 12 10 f   -     -     -         1040    0    0 
+fabulous  803363938 12  9 f   -     -     -         1040    0    0 
+fabulous  803364024 12  8 c   c     c     f         1040   50    0 
+fabulous  803364115  8  5 f   -     -     -          990    0    0 
+fabulous  803364198  4  2 Bc  kf    -     -          990   20    0 
+fabulous  803364231  4  1 Bf  -     -     -          970    5    0 
+fabulous  803364302  4  4 f   -     -     -          965    0    0 
+fabulous  803364324  4  3 c   kc    kf    -          965   20    0 
+fabulous  803364390  4  2 Bf  -     -     -          945   10    0 
+fabulous  803364404  4  1 Bc  f     -     -          935   10    0 
+fabulous  803364416  4  4 c   f     -     -          925   10    0 
+fabulous  803364454  4  3 c   c     f     -          915   20    0 
+fabulous  803364512  4  2 f   -     -     -          895    0    0 
+fabulous  803364583  4  2 Bc  c     rrc   c          895  160  390 2d Td
+fabulous  803364658  4  1 Bc  kc    krr   brc       1125  200  560 2d 2h
+fabulous  803364780  4  4 c   c     f     -         1485   20    0 
+fabulous  803364862  6  6 c   f     -     -         1465   20    0 
+fabulous  803364909  6  5 f   -     -     -         1445    0    0 
+fabulous  803364996  6  4 f   -     -     -         1445    0    0 
+fabulous  803365070  6  3 cc  f     -     -         1445   20    0 
+fabulous  803365181  6  2 Bc  cf    -     -         1425   30    0 
+fabulous  803365262  6  1 Bf  -     -     -         1395    5    0 
+fabulous  803365327  6  6 c   c     k     c         1390   60    0 Ah 6h
+fabulous  803365583  5  4 c   f     -     -         1330   20    0 
+fabulous  803365667  5  4 f   -     -     -         1310    0    0 
+fabulous  803365754  5  2 Bk  kc    kf    -         1310   20    0 
+fabulous  803365845  6  1 BQ  -     -     -         1290    5    0 
+fabulous  803456689  6  2 Bk  b     b     b         1285   60    0 Qs Kd
+fabulous  803456742  6  1 Bf  -     -     -         1225    5    0 
+fabulous  803456830  6  6 f   -     -     -         1220    0    0 
+fabulous  803456868  6  5 cc  kc    c     f         1220   70    0 
+fabulous  803457007  6  4 f   -     -     -         1150    0    0 
+fabulous  803457082  6  3 cc  kf    -     -         1150   20    0 
+fabulous  803457157  6  2 Bc  kf    -     -         1130   20    0 
+fabulous  803457234  6  1 Bf  -     -     -         1110    5    0 
+fabulous  803457252  6  6 c   c     c     k         1105   40    0 As 2h
+fabulous  803457307  6  5 cf  -     -     -         1065   10    0 
+fabulous  803457360  6  4 cc  f     -     -         1055   20    0 
+fabulous  803457448  6  3 cc  kc    k     k         1035   30   95 6c Jc
+fabulous  803457522  6  2 Bc  kc    kc    kc        1100   70    0 Js As
+fabulous  803457597  6  1 Bf  -     -     -         1030    5    0 
+fabulous  803457615  6  6 f   -     -     -         1025    0    0 
+fabulous  803457648  6  5 f   -     -     -         1025    0    0 
+fabulous  803457732  7  4 f   -     -     -         1025    0    0 
+fabulous  803457825  6  3 f   -     -     -         1025    0    0 
+fabulous  803457915  6  2 Bf  -     -     -         1025   10    0 
+fabulous  803457996  6  1 Bc  k     b     -         1015   30   50 
+fabulous  803458053  6  6 f   -     -     -         1035    0    0 
+fabulous  803458075  5  4 c   bc    bc    k         1035   70  160 Ks 5c
+fabulous  803458160  5  4 c   k     b     b         1125   50   95 
+fabulous  803458259  4  2 Bc  k     r     r         1170  100  240 Kc 7c
+fabulous  803458326  3  1 Bf  -     -     -         1310    5    0 
+fabulous  803458337  3  3 f   -     -     -         1305    0    0 
+fabulous  803458361  3  2 Bk  kc    kf    -         1305   20    0 
+fabulous  803458399  4  1 Bc  b     -     -         1285   20   30 
+fabulous  803458456  3  3 f   -     -     -         1295    0    0 
+fabulous  803458472  3  2 Bc  kr    br    r         1295  140  310 Ac Ad
+fabulous  803458533  3  1 Bf  -     -     -         1465    5    0 
+fabulous  803458561  3  3 c   k     k     f         1460   10    0 
+fabulous  803458622  2  1 B   -     -     -         1450   10   10 
+fabulous  803458634  2  1 Bf  -     -     -         1450    5    0 
+fabulous  803458641  2  2 Bf  -     -     -         1445   10    0 
+fabulous  803458668  2  1 Bc  k     b     -         1435   30   40 
+fabulous  803458703  2  2 Bk  k     k     k         1445   10    0 6s 2d
+fabulous  803458738  2  1 Bcc k     k     kf        1435   20    0 
+fabulous  803458787  2  2 Bc  c     c     f         1415   50    0 
+fabulous  803458838  2  1 Bcc kf    -     -         1365   20    0 
+fabulous  803458871  2  2 B   -     -     -         1345   10   15 
+fabulous  803458905  2  1 Bcc kc    k     k         1350   30   60 3h Qc
+fabulous  803458971  2  2 B   -     -     -         1380   10   15 
+fabulous  803458978  2  1 Bc  k     kc    k         1385   30    0 Ac 7s
+fabulous  803459043  2  2 Bk  k     k     b         1355   30   40 
+fabulous  803459140  2  1 Bc  b     -     -         1365   20   30 
+fabulous  803459159  2  2 Bc  k     k     k         1375   20    0 Jc 5h
+fabulous  803459208  2  1 Bc  k     b     -         1355   30   40 
+fabulous  803459250  2  2 Bc  k     k     c         1365   40   80 7d Qh
+fabulous  803459327  2  1 Bc  k     k     k         1405   10   20 7h Js
+fabulous  803459375  2  2 BQ  -     -     -         1415   10    0 
+fabulous  803670991  7  3 f   -     -     -         1405    0    0 
+fabulous  803671029  7  2 Bc  kc    k     b         1405   50   85 
+fabulous  803671088  7  1 Bf  -     -     -         1440    5    0 
+fabulous  803671140  7  7 f   -     -     -         1435    0    0 
+fabulous  803671203  9  6 f   -     -     -         1435    0    0 
+fabulous  803671225  9  5 f   -     -     -         1435    0    0 
+fabulous  803671291  9  4 f   -     -     -         1435    0    0 
+fabulous  803671341  9  3 c   cf    -     -         1435   20    0 
+fabulous  803671398  9  2 BKQ -     -     -         1415   10    0 
+fabulous  803671552  7  7 cc  r     b     b         1405   80  145 
+fabulous  803671652  7  5 f   -     -     -         1470    0    0 
+fabulous  803671764  7  4 c   c     c     c         1470   70    0 Kc Kh
+fabulous  803671847  6  3 c   c     k     c         1400   40   85 Ac 9c
+fabulous  803671907  5  2 Bk  k     b     -         1445   30   50 
+fabulous  803671967  5  1 Bc  k     b     b         1465   50    0 6h 5h
+fabulous  803672016  6  6 c   c     f     -         1415   20    0 
+fabulous  803672088  6  5 f   -     -     -         1395    0    0 
+fabulous  803672145  5  4 c   k     k     f         1395   10    0 
+fabulous  803672185  4  2 B   -     -     -         1385   10   15 
+fabulous  803672214  4  1 Bc  b     b     b         1390   60  100 
+fabulous  803672267  3  3 c   b     k     c         1430   40   50 Ks Qh
+fabulous  803672336  4  2 Bk  k     k     b         1440   30   45 
+fabulous  803672431  4  1 Bc  kc    kc    kf        1455   40    0 
+fabulous  803672517  5  5 c   k     k     c         1415   30    0 As 7d
+fabulous  803672582  6  5 c   c     f     -         1385   20    0 
+fabulous  803672643  6  4 c   c     f     -         1365   20    0 
+fabulous  803672696  5  3 f   -     -     -         1345    0    0 
+fabulous  803672757  5  2 B   -     -     -         1345   10   15 
+fabulous  803672770  5  1 Bf  -     -     -         1350    5    0 
+fabulous  803672828  5  5 c   k     k     b         1345   30    0 Ts Jc
+fabulous  803672898  5  4 c   f     -     -         1315   10    0 
+fabulous  803672950  5  3 f   -     -     -         1305    0    0 
+fabulous  803672985  5  2 Bk  b     b     kf        1305   40    0 
+fabulous  803673042  5  1 Bc  k     Q     -         1265   10    0 
+fabulous  803708080  5  3 f   -     -     -         1255    0    0 
+fabulous  803708179  5  3 c   cc    c     c         1255   70  160 Kh Qs
+fabulous  803708248  5  2 Bc  k     b     k         1345   40  160 Ad 4d
+fabulous  803708323  5  1 Bc  k     b     -         1465   40   70 
+fabulous  803708386  5  5 c   k     k     f         1495   10    0 
+fabulous  803708439  4  3 cc  cc    kc    kc        1485   80    0 Ah 7h
+fabulous  803708515  4  2 Bf  -     -     -         1405   10    0 
+fabulous  803708562  4  1 Bf  -     -     -         1395    5    0 
+fabulous  803708587  4  4 f   -     -     -         1390    0    0 
+fabulous  803708597  4  3 c   k     k     k         1390   10   30 Jc Ah
+fabulous  803708644  4  2 Bk  k     kf    -         1410   10    0 
+fabulous  803708679  4  1 Bf  -     -     -         1400    5    0 
+fabulous  803708690  4  4 f   -     -     -         1395    0    0 
+fabulous  803708701  4  3 c   kc    kc    kr        1395   80  180 Qd 5s
+fabulous  803708808  4  2 Bf  -     -     -         1495   10    0 
+fabulous  803708855  3  1 Bc  k     k     k         1485   10   20 Ks 5s
+fabulous  803708957  3  3 rc  br    r     b         1495  120  230 
+fabulous  803709020  3  2 Bk  c     k     k         1605   20    0 Kc 9c
+fabulous  803709055  3  1 Bc  b     b     -         1585   40   60 
+fabulous  803709097  5  4 f   -     -     -         1605    0    0 
+fabulous  803709125  5  3 f   -     -     -         1605    0    0 
+fabulous  803709144  5  2 Bk  b     kc    krc       1605  100    0 Tc 6c
+fabulous  803709246  6  1 Bc  kf    -     -         1505   10    0 
+fabulous  803709280  6  6 r   cc    c     c         1495  110    0 Jd Js
+fabulous  803709392  7  6 cf  -     -     -         1385   20    0 
+fabulous  803709489  7  6 f   -     -     -         1365    0    0 
+fabulous  803709539  7  5 cc  kc    kc    kf        1365   50    0 
+fabulous  803709594  7  4 c   f     -     -         1315   10    0 
+fabulous  803709624  7  3 rr  bc    kc    kc        1305  100    0 Kd Kh
+fabulous  803709709  8  2 Bc  kf    -     -         1205   20    0 
+fabulous  803709758  9  1 Bc  k     k     kc        1185   40    0 9c 9s
+fabulous  803709854  9  9 c   c     k     k         1145   30  120 Ah Th
+fabulous  803709971  9  8 f   -     -     -         1235    0    0 
+fabulous  803710113  6  6 f   -     -     -         1235    0    0 
+fabulous  803710126  5  5 cf  -     -     -         1235   10    0 
+fabulous  803710164  5  4 r   -     -     -         1225   20   35 
+fabulous  803710205  3  2 Bc  kc    bc    kr        1240  110  205 
+fabulous  803710271  3  1 Bc  kf    -     -         1335   10    0 
+fabulous  803710308  4  4 c   c     b     -         1325   40   65 
+fabulous  803710341  4  3 c   f     -     -         1350   10    0 
+fabulous  803710378  3  2 Bc  k     k     f         1340   20    0 
+fabulous  803710409  3  1 Bc  kc    kc    kc        1320   70    0 Ts Th
+fabulous  803710443  3  3 c   k     c     c         1250   50    0 Qd 6d
+fabulous  803710486  3  2 Bc  k     k     k         1200   20    0 Qs 7h
+fabulous  803710518  4  1 Bf  -     -     -         1180    5    0 
+fabulous  803710573  4  4 c   k     c     k         1175   30    0 Kc 3d
+fabulous  803710620  5  3 f   -     -     -         1145    0    0 
+fabulous  803710664  5  2 Bf  -     -     -         1145   10    0 
+fabulous  803710685  5  1 Bc  k     k     k         1135   10   20 7c Qs
+fabulous  803710733  5  5 c   k     c     f         1145   30    0 
+fabulous  803710827  6  5 f   -     -     -         1115    0    0 
+fabulous  803710896  8  6 c   f     -     -         1115   10    0 
+fabulous  803710987  8  5 c   k     k     kf        1105   10    0 
+fabulous  803711101  9  5 c   kf    -     -         1095   10    0 
+fabulous  803711160 10  5 c   f     -     -         1085   10    0 
+fabulous  803711251 11  5 cc  c     f     -         1075   40    0 
+fabulous  803711355 10  4 f   -     -     -         1035    0    0 
+fabulous  803711460 11  3 ccf -     -     -         1035   20    0 
+fabulous  803711597 11  2 Bc  k     b     b         1015   60  205 3c As
+fabulous  803711701 12  1 Bc  kc    kf    -         1160   20    0 
+fabulous  803711818 10 10 f   -     -     -         1140    0    0 
+fabulous  803711908 11 10 f   -     -     -         1140    0    0 
+fabulous  803711977 11  9 f   -     -     -         1140    0    0 
+fabulous  803712076 11  8 c   f     -     -         1140   10    0 
+fabulous  803712193 10  7 f   -     -     -         1130    0    0 
+fabulous  803712282  8  5 cc  kf    -     -         1130   20    0 
+fabulous  803712419  4  2 c   b     b     -         1110   40   80 
+fabulous  803712471  4  2 Bf  -     -     -         1150   10    0 
+fabulous  803712507  4  1 Bf  -     -     -         1140    5    0 
+fabulous  803712555  3  3 c   c     f     -         1135   20    0 
+fabulous  803712586  3  2 Bf  -     -     -         1115   10    0 
+fabulous  803712657  2  1 Bc  k     k     b         1105   30    0 6d 4s
+fabulous  803712698  2  2 Bc  f     -     -         1075   20    0 
+fabulous  803712724  2  1 Bcc kf    -     -         1055   20    0 
+fabulous  803712745  3  3 cc  c     br    b         1035  110  230 3s Ks
+fabulous  803712793  3  2 Bc  kc    kf    -         1155   30    0 
+fabulous  803712839  3  1 Bf  -     -     -         1125    5    0 
+fabulous  803712859  3  3 f   -     -     -         1120    0    0 
+fabulous  803712875  3  2 Bf  -     -     -         1120   10    0 
+fabulous  803712908  3  1 Bc  kf    -     -         1110   10    0 
+fabulous  803712955  4  4 r   b     -     -         1100   30   80 
+fabulous  803712983  5  3 rr  b     bc    kc        1150  110  235 Qh Qd
+fabulous  803713045  5  2 Bc  k     k     f         1275   20    0 
+fabulous  803713099  5  1 Bf  -     -     -         1255    5    0 
+fabulous  803713144  5  5 c   c     f     -         1250   30    0 
+fabulous  803713219  5  3 Q   -     -     -         1220    0    0 
+fabulous  803714957  4  2 Bcc k     kc    kf        1220   60    0 
+fabulous  803715040  4  1 Bf  -     -     -         1160    5    0 
+fabulous  803715063  4  4 cc  c     c     c         1155   70    0 3c Ah
+fabulous  803715120  4  3 f   -     -     -         1085    0    0 
+fabulous  803715181  5  2 Bc  kc    kf    -         1085   30    0 
+fabulous  803715225  5  1 Bf  -     -     -         1055    5    0 
+fabulous  803715283  5  5 f   -     -     -         1050    0    0 
+fabulous  803715302  5  4 f   -     -     -         1050    0    0 
+fabulous  803715342  6  4 cc  kf    -     -         1050   20    0 
+fabulous  803715385  6  3 f   -     -     -         1030    0    0 
+fabulous  803715523  6  2 Bc  kc    kc    kc        1030   70    0 2c Kd
+fabulous  803715623  4  1 Bc  kc    kc    kf         960   50    0 
+fabulous  803715702  4  4 f   -     -     -          910    0    0 
+fabulous  803715751  4  3 f   -     -     -          910    0    0 
+fabulous  803715828  4  2 Bcc kc    kc    kc         910   90    0 8h 8s
+fabulous  803715913  4  1 Bf  -     -     -          820    5    0 
+fabulous  803715972  4  4 f   -     -     -          815    0    0 
+fabulous  803715989  4  3 f   -     -     -          815    0    0 
+fabulous  803716060  4  2 Bf  -     -     -          815   10    0 
+fabulous  803716162  5  1 Bf  -     -     -          805    5    0 
+fabulous  803716246  6  6 c   f     -     -          800   20    0 
+fabulous  803716280  6  5 f   -     -     -          780    0    0 
+fabulous  803716373  7  5 c   c     f     -          780   20    0 
+fabulous  803716421  7  4 ccf -     -     -          760   20    0 
+fabulous  803716501  7  3 f   -     -     -          740    0    0 
+fabulous  803716630  6  2 BKQ -     -     -          740   10    0 
+fabulous  803717036  3  1 Bf  -     -     -          730   10    0 
+fabulous  803717064  4  1 Bc  kc    b     -          720   40   70 
+fabulous  803717106  3  3 f   -     -     -          750    0    0 
+fabulous  803717146  4  3 c   c     c     r          750   80  190 Ts 7s
+fabulous  803717279  3  1 Bc  kc    kf    -          860   40    0 
+fabulous  803717326  4  1 Bf  -     -     -          820    5    0 
+fabulous  803717384  5  5 c   f     -     -          815   20    0 
+fabulous  803717456  4  3 c   cf    -     -          795   20    0 
+fabulous  803717528  5  3 f   -     -     -          775    0    0 
+fabulous  803717604  5  2 Brr b     b     bc         775  120    0 Kd Ac
+fabulous  803717668  4  1 Bf  -     -     -          655    5    0 
+fabulous  803717705  5  5 cc  c     f     -          650   30    0 
+fabulous  803717787  5  4 f   -     -     -          620    0    0 
+fabulous  803717842  5  3 c   b     -     -          620   20   60 
+fabulous  803717905  5  2 Bf  -     -     -          660   10    0 
+fabulous  803717955  5  1 Bc  kc    kc    kc         650   70    0 Qh 5c
+fabulous  803718052  5  5 r   r     b     b          580   90  330 Jh Jc
+fabulous  803718146  5  4 cc  c     k     f          820   40    0 
+fabulous  803718223  5  3 ccc f     -     -          780   40    0 
+fabulous  803718316  6  2 Bk  k     k     f          740   10    0 
+fabulous  803718385  6  1 Bcc k     b     b          730   60  120 
+fabulous  803718524  3  3 f   -     -     -          790    0    0 
+fabulous  803718541  4  3 f   -     -     -          790    0    0 
+fabulous  803718586  5  2 Bf  -     -     -          790   10    0 
+fabulous  803718621  5  1 Bc  kc    b     b          780   60  130 Kd Jc
+fabulous  803718666  5  5 c   cc    c     f          850   50    0 
+fabulous  803718755  5  4 cc  bc    kf    -          800   40    0 
+fabulous  803718822  5  3 cc  f     -     -          760   20    0 
+fabulous  803718867  5  2 Bk  c     c     c          740   60    0 Kh Js
+fabulous  803718904  5  1 Bf  -     -     -          680    5    0 
+fabulous  803718941  5  5 c   f     -     -          675   10    0 
+fabulous  803718999  5  4 cc  kr    b     b          665   80  155 
+fabulous  803719048  5  3 r   bc    kc    kc         740   80    0 6h 6d
+fabulous  803719109  7  2 Bf  -     -     -          660   10    0 
+fabulous  803719201  7  1 Bcc b     -     -          650   30   50 
+fabulous  803719244  7  7 f   -     -     -          670    0    0 
+fabulous  803719277  7  6 f   -     -     -          670    0    0 
+fabulous  803719332  6  4 c   kc    k     kf         670   20    0 
+fabulous  803719425  7  3 cf  -     -     -          650   10    0 
+fabulous  803719515  7  2 Bf  -     -     -          640   10    0 
+fabulous  803719588  6  1 Bcf -     -     -          630   10    0 
+fabulous  803719626  6  6 f   -     -     -          620    0    0 
+fabulous  803719675  6  5 cc  c     r     b          620  100  340 8d Qc
+fabulous  803719759  6  4 c   c     c     f          860   50    0 
+fabulous  803719813  6  3 cc  b     b     k          810   50  170 Jc Tc
+fabulous  803719905  6  2 Bf  -     -     -          930   10    0 
+fabulous  803719937  6  1 Bc  kc    kc    kc         920   90    0 7s 7h
+fabulous  803720021  6  6 f   -     -     -          830    0    0 
+fabulous  803720111  6  5 f   -     -     -          830    0    0 
+fabulous  803720203  7  4 f   -     -     -          830    0    0 
+fabulous  803720246  6  3 f   -     -     -          830    0    0 
+fabulous  803720298  6  2 Bc  kc    kc    k          830   70    0 Qs Ts
+fabulous  803720424  6  1 Bf  -     -     -          760    5    0 
+fabulous  803720481  6  6 c   f     -     -          755   10    0 
+fabulous  803720554  6  5 cc  c     c     c          745   80    0 Ah 2s
+fabulous  803720625  6  4 c   k     b     k          665   30    0 Qh Kd
+fabulous  803720674  6  4 f   -     -     -          635    0    0 
+fabulous  803720693  5  2 Bf  -     -     Q          635   10    0 
+fabulous  803798577  2  1 Bc  k     kc    k          625   30    0 Ah 5h
+fabulous  803798629  3  3 c   c     brrrrrrrr b          595  380  390 Qc 9c
+fabulous  803798759  3  2 B   -     -     -          605   10   15 
+fabulous  803798950  2  1 Bcc kc    k     b          610   50  100 5s Ks
+fabulous  803799013  2  2 Bc  k     c     r          660   80  140 
+fabulous  803805200  4  1 BKQ -     -     -          720    5    0 
+fabulous  804197845  9  8 c   c     c     b          715   60   75 Ac 6s
+fabulous  804197955  9  7 f   -     -     -          730    0    0 
+fabulous  804198054  9  6 f   -     -     -          730    0    0 
+fabulous  804198091  9  5 f   -     -     -          730    0    0 
+fabulous  804198184 11  5 c   c     c     c          730   60    0 Ac 9s
+fabulous  804198299 10  3 f   -     -     -          670    0    0 
+fabulous  804198345  9  2 Bc  kc    kf    -          670   30    0 
+fabulous  804198407 10  1 Bf  -     -     -          640    5    0 
+fabulous  804198463 10 10 f   -     -     -          635    0    0 
+fabulous  804198526 11 10 f   -     -     -          635    0    0 
+fabulous  804198621  8  8 c   c     k     b          635   40   90 Kh 2h
+fabulous  804198685  7  6 f   -     -     -          685    0    0 
+fabulous  804198724  6  4 f   -     -     -          685    0    0 
+fabulous  804198794  6  3 c   f     -     -          685   10    0 
+fabulous  804198843  5  2 Bc  k     k     k          675   20   23 9s As
+fabulous  804198896  5  1 Bf  -     -     -          678    5    0 
+fabulous  804198968  6  6 f   -     -     -          673    0    0 
+fabulous  804199059  7  6 c   c     c     c          673   70  200 3h 3d
+fabulous  804199203  9  7 c   kc    k     k          803   20    0 5h Ah
+fabulous  804199290  7  5 f   -     -     -          783    0    0 
+fabulous  804199314  7  5 c   k     f     -          783   10    0 
+fabulous  804199390  7  4 f   -     -     -          773    0    0 
+fabulous  804199472  6  2 Bc  k     b     -          773   40   60 
+fabulous  804199533  5  1 Bc  b     k     b          793   40   90 Qh Kc
+fabulous  804199579  5  5 f   -     -     -          843    0    0 
+fabulous  804199601  5  4 f   -     -     -          843    0    0 
+fabulous  804199619  6  3 c   c     c     f          843   40    0 
+fabulous  804199779  8  3 fQ  -     -     -          803    0    0 
+fabulous  804200169  6  5 r   b     -     -          803   30   65 
+fabulous  804200200  6  4 c   c     c     c          838   70    0 Th Qd
+fabulous  804200245  6  3 f   -     -     -          768    0    0 
+fabulous  804200270  6  2 Bf  -     -     -          768   10    0 
+fabulous  804200301  6  1 Bc  kf    -     -          758   10    0 
+fabulous  804200360  6  6 f   -     -     -          748    0    0 
+fabulous  804200462  6  5 f   -     -     -          748    0    0 
+fabulous  804200530  6  5 f   -     -     -          748    0    0 
+fabulous  804200549  6  4 f   -     -     -          748    0    0 
+fabulous  804200693  6  3 c   kc    krc   k          748   80    0 As 8d
+fabulous  804200745  7  2 Br  b     b     -          668   50  105 
+fabulous  804200834  7  1 Bf  Q     -     -          723    5    0 
+fabulous  804238498  2  1 Bf  -     -     -          718    5    0 
+fabulous  804261392  2  1 BKQ -     -     -          718    5    0 
+fabulous  804464132  4  3 c   c     b     brc        713  120    0 9d As
+fabulous  804464212  5  2 Bf  -     -     -          593   10    0 
+fabulous  804464265  5  1 Bf  -     -     -          583    5    0 
+fabulous  804464315  5  5 f   -     -     -          578    0    0 
+fabulous  804464353  5  4 cc  f     -     -          578   20    0 
+fabulous  804464403  5  3 f   -     -     -          558    0    0 
+fabulous  804464438  6  2 Bf  -     -     -          558   10    0 
+fabulous  804464465  7  1 Bcc kc    kf    -          548   50    0 
+fabulous  804464569  8  8 f   -     -     -          498    0    0 
+fabulous  804464680  8  7 f   -     -     -          498    0    0 
+fabulous  804464746  8  6 f   -     -     -          498    0    0 
+fabulous  804464838  9  7 cc  k     f     -          498   20    0 
+fabulous  804464937  9  6 f   -     -     -          478    0    0 
+fabulous  804465052 10  5 c   kf    -     -          478   10    0 
+fabulous  804465125 10  4 ccc kf    -     -          468   40    0 
+fabulous  804465237 10  3 f   -     -     -          428    0    0 
+fabulous  804465336 10  2 Brrc bc    bc    kc         428  140    0 Ac Qc
+fabulous  804465416 11  1 Bf  -     -     -          288    5    0 
+fabulous  804465489 12 12 f   -     -     -          283    0    0 
+fabulous  804465570 10  9 cc  f     -     -          283   30    0 
+fabulous  804465708 10  9 f   -     -     -          253    0    0 
+fabulous  804465785 10  8 c   cc    c     f          253   60    0 
+fabulous  804465905  9  6 f   -     -     -          193    0    0 
+fabulous  804466032 12  6 cf  -     -     -          193   10    0 
+fabulous  804466144 11  4 c   f     -     -          183   10    0 
+fabulous  804466193 12  3 f   -     -     -          173    0    0 
+fabulous  804466331 12  2 Bk  kf    -     -          173   10    0 
+fabulous  804466418 11  1 Bf  -     -     -          163    5    0 
+fabulous  804466501 11 11 f   -     -     -          158    0    0 
+fabulous  804466579 12 11 f   -     -     -          158    0    0 
+fabulous  804466679 12 10 f   -     -     -          158    0    0 
+fabulous  804466769 12  9 f   -     -     -          158    0    0 
+fabulous  804466874 12  9 f   -     -     -          158    0    0 
+fabulous  804466937 10  6 f   -     -     -          158    0    0 
+fabulous  804466995 10  5 f   -     -     -          158    0    0 
+fabulous  804467130 11  4 f   -     -     -          158    0    0 
+fabulous  804467242 11  3 f   -     -     -          158    0    0 
+fabulous  804467361 10  2 Bf  -     -     -          158   10    0 
+fabulous  804467434 12  1 Bf  -     -     -          148    5    0 
+fabulous  804467561 12 12 f   -     -     -          143    0    0 
+fabulous  804467633 11 10 r   r     b     b          143   80  165 
+fabulous  804467740  7  6 f   -     -     -          228    0    0 
+fabulous  804467813  7  5 f   -     -     -          228    0    0 
+fabulous  804467858  6  4 f   -     -     -          228    0    0 
+fabulous  804467939  6  3 f   -     -     -          228    0    0 
+fabulous  804468011  7  2 Bc  k     kf    -          228   20    0 
+fabulous  804468108  7  1 Bf  -     -     -          208    5    0 
+fabulous  804468217  9  9 c   k     f     -          203   10    0 
+fabulous  804468308 10  9 c   c     f     -          193   20    0 
+fabulous  804468390 10  8 f   -     -     -          173    0    0 
+fabulous  804468560 12  9 cc  k     f     -          173   20    0 
+fabulous  804468677 12  8 f   -     -     -          153    0    0 
+fabulous  804468822 12  7 cc  kf    -     -          153   20    0 
+fabulous  804468886 12  6 cc  kf    -     -          133   20    0 
+fabulous  804468956 12  5 f   -     -     -          113    0    0 
+fabulous  804469026 12  5 f   -     -     -          113    0    0 
+fabulous  804469130 12  3 c   c     c     b          113   60   62 3d Kd
+fabulous  804469206 12  2 Bk  bc    b     b          115   70  180 As Jc
+fabulous  804469377 12  1 Bf  -     -     -          225    5    0 
+fabulous  804469461 12 12 f   -     -     -          220    0    0 
+fabulous  804469606 12 11 c   bc    kc    kf         220   50    0 
+fabulous  804469708 11  9 f   -     -     -          170    0    0 
+fabulous  804469806 11  8 c   kc    kf    -          170   20    0 
+fabulous  804469909 12  8 f   -     -     -          150    0    0 
+fabulous  804469986 12  7 f   -     -     -          150    0    0 
+fabulous  804470074 11  5 r   c     b     k          150   50    0 Ts Td
+fabulous  804470191 11  4 cc  f     -     -          100   20    0 
+fabulous  804470276 11  3 c   cc    kc    kcA         80   80    0 As 9h
+fabulous  804491886 12 10 f   -     -     -         1000    0    0 
+fabulous  804491958 12  9 c   f     -     -         1000   10    0 
+fabulous  804492176 11  7 f   -     -     -          990    0    0 
+fabulous  804492265 11  6 f   -     -     -          990    0    0 
+fabulous  804492343 12  7 c   c     kc    kf         990   60    0 
+fabulous  804492454 10  5 f   -     -     -          930    0    0 
+fabulous  804492520  9  3 cc  kf    -     -          930   20    0 
+fabulous  804492650 10  2 Bf  -     -     -          910   10    0 
+fabulous  804492745 10  1 Bf  -     -     -          900    5    0 
+fabulous  804492821  9  9 f   -     -     -          895    0    0 
+fabulous  804492897  7  6 c   c     cc    f          895   60    0 
+fabulous  804493037  7  6 c   c     f     -          835   20    0 
+fabulous  804493125  5  4 f   -     -     -          815    0    0 
+fabulous  804493162  5  3 f   -     -     -          815    0    0 
+fabulous  804493240  6  2 B   -     -     -          815   10   15 
+fabulous  804493255  6  1 Bf  -     -     -          820    5    0 
+fabulous  804493313  6  6 f   -     -     -          815    0    0 
+fabulous  804493419  6  5 c   f     -     -          815   10    0 
+fabulous  804493511  6  4 f   -     -     -          805    0    0 
+fabulous  804493593  6  3 c   c     c     c          805   60    0 9s 9c
+fabulous  804493672  5  2 Bc  bc    kc    kc         745   80  165 Ad 6c
+fabulous  804493754  6  1 Bcc kc    kf    -          830   30    0 
+fabulous  804493829  6  6 f   -     -     -          800    0    0 
+fabulous  804493846  6  5 f   -     -     -          800    0    0 
+fabulous  804493917  7  4 c   c     c     k          800   40    0 9c Kh
+fabulous  804494006  7  3 f   -     -     -          760    0    0 
+fabulous  804494107  7  2 Bc  kf    -     -          760   20    0 
+fabulous  804494157  7  1 Bf  -     -     -          740    5    0 
+fabulous  804494235  7  7 c   c     f     -          735   30    0 
+fabulous  804494343  7  6 f   -     -     -          705    0    0 
+fabulous  804494431  7  5 f   -     -     -          705    0    0 
+fabulous  804494488  7  4 c   k     bc    kc         705   70  155 3s Ah
+fabulous  804494578  6  2 Br  b     -     -          790   30   70 
+fabulous  804494637  6  1 Bc  kf    -     -          830   10    0 
+fabulous  804494683  6  6 c   k     k     k          820   10   17 3c Ad
+fabulous  804494746  7  6 f   -     -     -          827    0    0 
+fabulous  804494816  7  5 f   -     -     -          827    0    0 
+fabulous  804494868  7  4 f   -     -     -          827    0    0 
+fabulous  804494917  8  4 f   -     -     -          827    0    0 
+fabulous  804494958  8  3 f   -     -     -          827    0    0 
+fabulous  804495033  8  2 B   -     -     -          827   10   15 
+fabulous  804495050  8  1 Bf  -     -     -          832    5    0 
+fabulous  804495110  8  8 c   f     -     -          827   20    0 
+fabulous  804495220  8  7 f   -     -     -          807    0    0 
+fabulous  804495298 10  8 f   -     -     -          807    0    0 
+fabulous  804495445 10  7 f   -     -     -          807    0    0 
+fabulous  804495564 10  6 f   -     -     -          807    0    0 
+fabulous  804495674 10  5 c   c     k     c          807   50  190 9h Kd
+fabulous  804495769 11  5 f   -     -     -          947    0    0 
+fabulous  804496011 10  4 cc  kf    -     -          947   20    0 
+fabulous  804496177 11  3 c   f     -     -          927   10    0 
+fabulous  804496294 10  2 Bf  -     -     -          917   10    0 
+fabulous  804496370  9  1 Bc  kf    -     -          907   20    0 
+fabulous  804496468  7  7 f   -     -     -          887    0    0 
+fabulous  804496558  7  7 f   -     -     -          887    0    0 
+fabulous  804496689  7  6 c   c     c     c          887   60    0 3h 3s
+fabulous  804496798  7  5 f   -     -     -          827    0    0 
+fabulous  804496910  7  4 c   b     c     rc         827  100  220 2d Qd
+fabulous  804497002  7  3 c   k     c     r          947   70    0 2h Th
+fabulous  804497077  6  2 Bc  bc    k     k          877   40   85 Qd Tc
+fabulous  804497144  6  1 Bf  -     -     -          922    5    0 
+fabulous  804497335  3  3 c   k     k     r          917   50   85 
+fabulous  804497394  3  2 Bk  k     f     -          952   10    0 
+fabulous  804497473  3  1 Bc  kc    kf    -          942   30    0 
+fabulous  804497537  3  3 c   b     -     -          912   20   35 
+fabulous  804497567  3  2 Bf  -     -     -          927   10    0 
+fabulous  804497600  3  1 Bc  b     bc    brrc       917  180    0 Ac 6s

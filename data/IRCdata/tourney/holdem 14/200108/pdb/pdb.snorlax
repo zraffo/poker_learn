@@ -1,0 +1,503 @@
+snorlax   997998345 10  5 f   -     -     -        10000    0    0 
+snorlax   997998413 10  4 f   -     -     -        10000    0    0 
+snorlax   997998455 10  3 f   -     -     -        10000    0    0 
+snorlax   997998507 10  2 Bf  -     -     -        10000   50    0 
+snorlax   997998533 10  1 Bc  kf    -     -         9950   50    0 
+snorlax   997998619 10 10 f   -     -     -         9900    0    0 
+snorlax   997998682 10  9 c   f     -     -         9900   50    0 
+snorlax   997998795 10  8 f   -     -     -         9850    0    0 
+snorlax   997998875 10  7 c   k     f     -         9850  100    0 
+snorlax   997998981 10  6 cc  k     kf    -         9750  450    0 
+snorlax   997999049  9  4 f   -     -     -         9300    0    0 
+snorlax   997999090  9  4 f   -     -     -         9300    0    0 
+snorlax   997999157  9  3 cf  -     -     -         9300  200    0 
+snorlax   997999215  9  2 Bk  kf    -     -         9100  200    0 
+snorlax   997999257  9  1 Bf  -     -     -         8900  100    0 
+snorlax   997999304  9  9 f   -     -     -         8800    0    0 
+snorlax   997999353  9  8 c   f     -     -         8800  200    0 
+snorlax   997999451  8  6 cc  f     -     -         8600 1100    0 
+snorlax   997999502  8  5 f   -     -     -         7500    0    0 
+snorlax   997999524  8  4 f   -     -     -         7500    0    0 
+snorlax   997999565  8  3 f   -     -     -         7500    0    0 
+snorlax   997999601  8  2 Bk  k     k     k         7500  400 1800 Ac 8c
+snorlax   997999647  8  1 Bf  -     -     -         8900  200    0 
+snorlax   997999695  8  8 f   -     -     -         8700    0    0 
+snorlax   997999705  8  7 f   -     -     -         8700    0    0 
+snorlax   997999765  8  6 c   kf    -     -         8700  400    0 
+snorlax   997999841  8  5 f   -     -     -         8300    0    0 
+snorlax   997999885  7  3 f   -     -     -         8300    0    0 
+snorlax   997999915  7  2 Bk  k     k     f         8300  800    0 
+snorlax   997999978  7  1 Bc  bf    -     -         7500 1600    0 
+snorlax   998000027  7  7 f   -     -     -         5900    0    0 
+snorlax   998000058  7  6 f   -     -     -         5900    0    0 
+snorlax   998000089  7  5 f   -     -     -         5900    0    0 
+snorlax   998000126  7  4 c   k     kf    -         5900  800    0 
+snorlax   998000202  7  3 f   -     -     -         5100    0    0 
+snorlax   998000242  6  2 Bf  -     -     -         5100  800    0 
+snorlax   998000290  6  1 Bf  -     -     -         4300  800    0 
+snorlax   998000311  6  6 f   -     -     -         3500    0    0 
+snorlax   998000371  6  5 rA  -     -     -         3500 3500 8600 8s 8h
+snorlax   998000425  6  4 f   -     -     -         8600    0    0 
+snorlax   998000458  6  3 crA -     -     -         8600 8600 19600 Th Ah
+snorlax   998000504  6  2 Bk  bf    -     -        19600 3600    0 
+snorlax   998000582  5  1 Bf  -     -     -        16000  800    0 
+snorlax   998000628  4  4 c   rA    -     -        15200 15200 23200 
+snorlax   998000670  4  4 f   -     -     -        23200    0    0 
+snorlax   998000690  4  3 crA -     -     -        23200 23200 51200 Ac Ad
+snorlax   998000723  4  2 B   -     -     -        51200 3200 4400 9s Jh
+snorlax   998000739  4  1 B   -     -     -        52400 1600 2200 9h Td
+snorlax   998000753  3  3 f   -     -     -        53000    0    0 
+snorlax   998000779  3  3 c   k     k     b        53000 8150 12950 
+snorlax   998000843  3  2 B   -     -     -        57800 3200 4800 
+snorlax   998000847  3  1 Bc  k     b     -        59400 37250 43950 Jd Kc
+snorlax   998000893  2  2 B   -     -     -        66100 3200 4800 
+snorlax   998000902  2  1 Bc  k     kf    -        67700 3200    0 
+snorlax   998000932  2  2 Bf  -     -     -        64500 3200    0 
+snorlax   998000939  2  1 Bc  kr    -     -        61300 38700    0 Th 8h
+snorlax   998000976  2  2 B   -     -     -        22600 3200 4800 
+snorlax   998000984  2  1 BrA -     -     -        24200 24200 48400 Qd 7s
+snorlax   998001010  2  2 Bc  k     k     f        48400 9600    0 
+snorlax   998001049  2  1 Br  k     k     bA       38800 38800 55199 
+snorlax   998001137  2  2 B   -     -     -        55199 6400 9600 
+snorlax   998001145  2  1 Bf  -     -     -        58399 3200    0 
+snorlax   998001149  2  2 Bf  -     -     -        55199 6400    0 
+snorlax   998001161  2  1 Bcc bA    -     -        48799 48799    0 9d Kc
+snorlax   998001603  8  7 cc  k     kc    k        10000  150    0 8c 9c
+snorlax   998001677  8  6 f   -     -     -         9850    0    0 
+snorlax   998001757  8  5 f   -     -     -         9850    0    0 
+snorlax   998001805  7  3 f   -     -     -         9850    0    0 
+snorlax   998001857  7  2 Bk  c     ccA   -         9850 9850 9873 Td As
+snorlax   998001944  7  1 Bcf -     -     -         9873   20    0 
+snorlax   998002085  7  7 f   -     -     -         9853    0    0 
+snorlax   998002212  7  6 f   -     -     -         9853    0    0 
+snorlax   998002247  7  5 f   -     -     -         9853    0    0 
+snorlax   998002307  7  4 cc  -     -     -         9853 3178    0 Ac Kd
+snorlax   998002337  7  3 f   -     -     -         6675    0    0 
+snorlax   998002385  7  2 Bf  -     -     -         6675   40    0 
+snorlax   998002417  7  1 Bf  -     -     -         6635   20    0 
+snorlax   998002444  7  7 cc  f     -     -         6615  160    0 
+snorlax   998002478  7  6 f   -     -     -         6455    0    0 
+snorlax   998002507  7  5 cc  bA    -     -         6455 6455 7315 
+snorlax   998002553  7  4 f   -     -     -         7315    0    0 
+snorlax   998002574  7  3 c   b     -     -         7315  540  680 
+snorlax   998002623  7  2 Bf  -     -     -         7455   40    0 
+snorlax   998002666  7  1 Br  b     -     -         7415 3280 4140 
+snorlax   998002711  7  7 c   k     f     -         8275   80    0 
+snorlax   998002765  7  6 f   -     -     -         8195    0    0 
+snorlax   998002795  6  4 cc  k     k     bA        8195 8195 8915 
+snorlax   998002867  6  4 f   -     -     -         8915    0    0 
+snorlax   998002969  6  3 c   b     rA    -         8915 8915 18150 2s Ad
+snorlax   998003053  6  2 Bc  k     kr    -        18150 11670 13510 
+snorlax   998003131  6  1 Bc  kf    -     -        19990  160    0 
+snorlax   998003164  6  6 f   -     -     -        19830    0    0 
+snorlax   998003209  6  5 f   -     -     -        19830    0    0 
+snorlax   998003227  6  4 f   -     -     -        19830    0    0 
+snorlax   998003266  6  3 f   -     -     -        19830    0    0 
+snorlax   998003302  6  2 Bk  k     f     -        19830  160    0 
+snorlax   998003364  6  1 Bc  k     k     kf       19670  160    0 
+snorlax   998003419  6  6 f   -     -     -        19510    0    0 
+snorlax   998003432  6  5 f   -     -     -        19510    0    0 
+snorlax   998003460  6  4 c   k     k     b        19510 1320    0 Qd Ac
+snorlax   998003572  6  3 c   kf    -     -        18190  320    0 
+snorlax   998003621  6  2 Bk  k     kf    -        17870  320    0 
+snorlax   998003656  6  1 Bc  kc    bA    -        17550 17550 36220 7s Qs
+snorlax   998003755  6  6 c   f     -     -        36220  320    0 
+snorlax   998003800  6  5 f   -     -     -        35900    0    0 
+snorlax   998003856  4  2 c   kc    kr    -        35900 32090 38170 
+snorlax   998003959  4  2 Bc  k     k     k        41980 1175    0 Ac 4h
+snorlax   998003999  4  1 Bc  k     kc    kc       40805 3330    0 Kc 9s
+snorlax   998004049  3  3 f   -     -     -        37475    0    0 
+snorlax   998004062  3  2 Bk  k     k     k        37475  640 1600 Jh 4d
+snorlax   998004096  3  1 Bf  -     -     -        38435  320    0 
+snorlax   998004107  3  3 c   k     k     k        38115  640    0 4d Kh
+snorlax   998004138  3  2 Bf  -     -     -        37475  640    0 
+snorlax   998004154  3  1 Bc  b     b     -        36835 10250    0 4s Ad
+snorlax   998004202  3  3 c   k     f     -        26585 1280    0 
+snorlax   998004241  3  2 B   -     -     -        25305 1280 1920 
+snorlax   998004249  3  1 Bf  -     -     -        25945  640    0 
+snorlax   998004259  3  3 f   -     -     -        25305    0    0 
+snorlax   998004269  3  2 Bk  k     k     b        25305 24195 26115 
+snorlax   998004310  3  1 Bf  -     -     -        27225  640    0 
+snorlax   998004319  3  3 f   -     -     -        26585    0    0 
+snorlax   998004332  3  2 Bk  k     k     k        26585 1280 3200 9d As
+snorlax   998004356  3  1 Bc  b     b     -        28505 20995    0 Ac Ts
+snorlax   998004419  3  3 f   -     -     -         7510    0    0 
+snorlax   998004456  3  2 B   -     -     -         7510 1280 1920 
+snorlax   998004459  3  1 Bf  -     -     -         8150  640    0 
+snorlax   998004466  3  3 f   -     -     -         7510    0    0 
+snorlax   998004481  3  2 B   -     -     -         7510 1280 1920 
+snorlax   998004485  3  1 Bf  -     -     -         8150  640    0 
+snorlax   998004489  3  3 f   -     -     -         7510    0    0 
+snorlax   998004497  3  2 B   -     -     -         7510 2560 3840 
+snorlax   998004500  3  1 BrA -     -     -         8790 8790    0 8c Qh
+snorlax   998087659 10  6 ccA -     -     -        10000 10000 20250 5d Ad
+snorlax   998087703  9  5 c   k     k     c        20250  350    0 6h Ah
+snorlax   998087788  9  4 f   -     -     -        19900    0    0 
+snorlax   998087816  9  3 cc  f     -     -        19900  188    0 
+snorlax   998087862  9  2 Bk  f     -     -        19712   50    0 
+snorlax   998087905  9  1 Bf  -     -     -        19662   25    0 
+snorlax   998087958  9  9 f   -     -     -        19637    0    0 
+snorlax   998088019  9  8 c   f     -     -        19637  225    0 
+snorlax   998088056  9  7 f   -     -     -        19412    0    0 
+snorlax   998088105  9  6 f   -     -     -        19412    0    0 
+snorlax   998088136  9  5 f   -     -     -        19412    0    0 
+snorlax   998088169  9  4 f   -     -     -        19412    0    0 
+snorlax   998088199  8  2 Bc  kf    -     -        19412  600    0 
+snorlax   998088291  7  1 Bc  kf    -     -        18812  100    0 
+snorlax   998088348  7  7 c   f     -     -        18712  100    0 
+snorlax   998088386  7  6 f   -     -     -        18612    0    0 
+snorlax   998088412  7  5 cc  c     -     -        18612 6000 6800 3d Ah
+snorlax   998088476  7  4 f   -     -     -        19412    0    0 
+snorlax   998088538  7  3 f   -     -     -        19412    0    0 
+snorlax   998088558  7  2 Bk  k     k     c        19412  400    0 Ks Qh
+snorlax   998088608  7  1 Bf  -     -     -        19012  100    0 
+snorlax   998088653  7  7 f   -     -     -        18912    0    0 
+snorlax   998088683  7  6 c   k     k     k        18912  200    0 8c 8d
+snorlax   998088723  7  5 f   -     -     -        18712    0    0 
+snorlax   998088761  7  4 f   -     -     -        18712    0    0 
+snorlax   998088806  7  3 f   -     -     -        18712    0    0 
+snorlax   998088835  7  2 Bf  -     -     -        18712  400    0 
+snorlax   998088865  7  1 Bc  k     k     k        18312  400    0 Td 5d
+snorlax   998088934  7  7 r   c     f     -        17912 1900    0 
+snorlax   998088997  7  6 f   -     -     -        16012    0    0 
+snorlax   998089026  6  4 c   k     b     b        16012 7025 9825 
+snorlax   998089146  6  4 c   f     -     -        18812  800    0 
+snorlax   998089173  6  3 f   -     -     -        18012    0    0 
+snorlax   998089199  6  2 Bk  c     c     k        18012 4400 4800 Th Qd
+snorlax   998089246  6  1 Bc  k     kf    -        18412  800    0 
+snorlax   998089321  6  6 f   -     -     -        17612    0    0 
+snorlax   998089363  6  5 cf  -     -     -        17612  800    0 
+snorlax   998089420  5  3 c   kf    -     -        16812  800    0 
+snorlax   998089510  4  2 Bk  k     kf    -        16012 1600    0 
+snorlax   998089560  4  1 Bf  -     -     -        14412  800    0 
+snorlax   998089568  3  3 f   -     -     -        13612    0    0 
+snorlax   998089578  3  2 Bk  k     k     k        13612 1600    0 9h 8d
+snorlax   998089603  3  1 Bc  krA   -     -        12012 12012    0 Js Qc
+snorlax   998228943 11 10 c   r     -     -        12000  700 1200 
+snorlax   998229233 10 10 c   c     c     k        12000 1300 2700 Qc Qs
+snorlax   998229276 10  9 f   -     -     -        13400    0    0 
+snorlax   998229314 10  8 f   -     -     -        13400    0    0 
+snorlax   998229436 10  7 f   -     -     -        13400    0    0 
+snorlax   998229505 10  6 f   -     -     -        13400    0    0 
+snorlax   998229560 10  5 f   -     -     -        13400    0    0 
+snorlax   998229634 10  4 f   -     -     -        13400    0    0 
+snorlax   998229668 10  3 c   kc    k     b        13400 2213 1000 7h Jh
+snorlax   998229776 10  2 Bf  -     -     -        12187  200    0 
+snorlax   998229859 10  1 Bf  -     -     -        11987  100    0 
+snorlax   998229907 10 10 f   -     -     -        11887    0    0 
+snorlax   998229957 10  9 f   -     -     -        11887    0    0 
+snorlax   998230044  9  7 f   -     -     -        11887    0    0 
+snorlax   998230110  9  6 f   -     -     -        11887    0    0 
+snorlax   998230145  9  5 f   -     -     -        11887    0    0 
+snorlax   998230193  8  3 c   kf    -     -        11887  400    0 
+snorlax   998230276  8  2 Bk  k     r     r        11487 9502 19004 Kc 5d
+snorlax   998230383  7  1 Bc  kf    -     -        20989  400    0 
+snorlax   998230418  7  7 c   f     -     -        20589  400    0 
+snorlax   998230452  7  6 c   k     f     -        20189  800    0 
+snorlax   998230495  7  5 f   -     -     -        19389    0    0 
+snorlax   998230544  7  4 c   f     -     -        19389  800    0 
+snorlax   998230602  7  3 c   k     b     -        18589 1800 3800 
+snorlax   998230662  7  2 Bf  -     -     -        20589  800    0 
+snorlax   998230671  7  1 Bf  -     -     -        19789  400    0 
+snorlax   998230720  7  7 f   -     -     -        19389    0    0 
+snorlax   998230773  7  6 f   -     -     -        19389    0    0 
+snorlax   998230826  7  5 f   -     -     -        19389    0    0 
+snorlax   998230876  7  4 f   -     -     -        19389    0    0 
+snorlax   998230891  7  3 f   -     -     -        19389    0    0 
+snorlax   998230958  7  2 Bf  -     -     -        19389 1600    0 
+snorlax   998231015  7  1 Bc  k     k     b        17789 3600    0 6s Qd
+snorlax   998231104  7  7 f   -     -     -        14189    0    0 
+snorlax   998231192  7  6 f   -     -     -        14189    0    0 
+snorlax   998231229  7  5 f   -     -     -        14189    0    0 
+snorlax   998231266  7  4 c   k     rA    -        14189 14189    0 Qs As
+snorlax   998258513 12  8 c   c     f     -        10000  350    0 
+snorlax   998258598 12  7 f   -     -     -         9650    0    0 
+snorlax   998258642 12  6 f   -     -     -         9650    0    0 
+snorlax   998258701 12  5 c   k     c     k         9650  200  450 7d 7h
+snorlax   998258769 12  4 c   k     c     k         9900  200    0 Jh Kc
+snorlax   998258801 12  3 f   -     -     -         9700    0    0 
+snorlax   998258823 12  2 Bk  kf    -     -         9700   50    0 
+snorlax   998258868 12  1 Bc  kc    k     krA       9650 9650  225 7d 8d
+snorlax   998258941 12 12 c   k     cA    -          225  225    0 Jc 3c
+snorlax   998261547 12  8 f   -     -     -        10000    0    0 
+snorlax   998261608 12  7 f   -     -     -        10000    0    0 
+snorlax   998261690 12  6 f   -     -     -        10000    0    0 
+snorlax   998261758 12  5 c   f     -     -        10000   50    0 
+snorlax   998261829 12  4 cf  -     -     -         9950   50    0 
+snorlax   998261919 12  3 f   -     -     -         9900    0    0 
+snorlax   998261991 12  2 Bf  -     -     -         9900  100    0 
+snorlax   998262047 12  1 Bc  k     k     k         9800 2222    0 Kh Qh
+snorlax   998262100 12 12 f   -     -     -         7578    0    0 
+snorlax   998262187 12 11 c   k     k     c         7578  400    0 4s Kc
+snorlax   998262253 12 10 f   -     -     -         7178    0    0 
+snorlax   998262327 12  9 c   k     k     k         7178  100    0 Th Kc
+snorlax   998262421 12  8 f   -     -     -         7078    0    0 
+snorlax   998262482 12  7 cf  -     -     -         7078  200    0 
+snorlax   998262615 11  5 f   -     -     -         6878    0    0 
+snorlax   998262719 11  4 f   -     -     -         6878    0    0 
+snorlax   998262782 11  3 f   -     -     -         6878    0    0 
+snorlax   998262841 11  2 Bk  kf    -     -         6878  400    0 
+snorlax   998262901 11  1 Bc  kf    -     -         6478  400    0 
+snorlax   998263006 11 11 f   -     -     -         6078    0    0 
+snorlax   998263058 11 10 f   -     -     -         6078    0    0 
+snorlax   998263133 11  9 c   f     -     -         6078  400    0 
+snorlax   998263209  9  7 c   b     b     -         5678 3163 7326 As Jd
+snorlax   998263292  8  5 c   r     -     -         9841 8850    0 3s Ks
+snorlax   998263369  8  4 f   -     -     -          991    0    0 
+snorlax   998263422  8  3 f   -     -     -          991    0    0 
+snorlax   998263465  8  2 Bk  bA    -     -          991  991    0 3h 8c
+snorlax   998688228  9  5 cc  k     k     k        10000  225  900 Td Qc
+snorlax   998688282  9  4 c   k     k     k        10675   50  250 Kh Tc
+snorlax   998688339  9  3 f   -     -     -        10875    0    0 
+snorlax   998688393  9  2 Bf  -     -     -        10875   50    0 
+snorlax   998688412  9  1 Bc  kf    -     -        10825   50    0 
+snorlax   998688487  9  9 f   -     -     -        10775    0    0 
+snorlax   998688561  9  8 c   k     b     -        10775  450  650 
+snorlax   998688627  9  7 f   -     -     -        10975    0    0 
+snorlax   998688663  9  6 f   -     -     -        10975    0    0 
+snorlax   998688707  9  5 cc  f     -     -        10975  650    0 
+snorlax   998688775  9  4 c   kf    -     -        10325  100    0 
+snorlax   998688833  9  3 cf  -     -     -        10225  100    0 
+snorlax   998688873  9  2 Bc  kf    -     -        10125  450    0 
+snorlax   998688917  9  1 Bc  k     kf    -         9675  350    0 
+snorlax   998688961  9  9 c   f     -     -         9325  100    0 
+snorlax   998689002  8  7 c   k     f     -         9225  100    0 
+snorlax   998689067  8  7 f   -     -     -         9125    0    0 
+snorlax   998689150  7  6 f   -     -     -         9125    0    0 
+snorlax   998689197  7  5 cc  k     krcA  -         9125 9125    0 Qs As
+snorlax   998728907  6  2 Bc  f     -     -        10000  400    0 
+snorlax   998728928  6  1 Bc  kf    -     -         9600  100    0 
+snorlax   998728992  6  6 f   -     -     -         9500    0    0 
+snorlax   998729019  6  5 cc  f     -     -         9500  350    0 
+snorlax   998729044  6  4 c   f     -     -         9150  100    0 
+snorlax   998729064  6  3 f   -     -     -         9050    0    0 
+snorlax   998729090  6  2 Bf  -     -     -         9050  100    0 
+snorlax   998729124  6  1 Bf  -     -     -         8950   50    0 
+snorlax   998729142  6  6 f   -     -     -         8900    0    0 
+snorlax   998729173  6  5 c   k     f     -         8900  100    0 
+snorlax   998729227  6  4 f   -     -     -         8800    0    0 
+snorlax   998729268  6  3 f   -     -     -         8800    0    0 
+snorlax   998729329  5  2 Bk  k     k     bf        8800  700    0 
+snorlax   998729384  5  1 Bc  k     k     b         8100  600  800 
+snorlax   998729409  5  5 f   -     -     -         8300    0    0 
+snorlax   998729427  5  4 c   k     k     k         8300  200  600 2d 3d
+snorlax   998729470  5  3 f   -     -     -         8700    0    0 
+snorlax   998729494  5  2 Bk  k     b     b         8700 1700 2400 
+snorlax   998729527  5  1 Bf  -     -     -         9400  100    0 
+snorlax   998729548  5  5 f   -     -     -         9300    0    0 
+snorlax   998729568  5  4 c   f     -     -         9300  200    0 
+snorlax   998729602  5  3 f   -     -     -         9100    0    0 
+snorlax   998729626  5  2 BcA -     -     -         9100 9100    0 Qc Qd
+snorlax   998730055  5  3 f   -     -     -         2000    0    0 
+snorlax   998730072  5  2 Bk  kc    kc    k         2000  160    0 Js 9s
+snorlax   998730133  5  1 Bcf -     -     -         1840   10    0 
+snorlax   998730178  5  5 f   -     -     -         1830    0    0 
+snorlax   998730205  5  4 c   bc    k     k         1830  110    0 7c 7h
+snorlax   998730249  5  3 c   c     f     -         1720   50    0 
+snorlax   998730279  5  2 Bf  -     -     -         1670   10    0 
+snorlax   998730300  5  1 Bf  -     -     -         1660    5    0 
+snorlax   998730339  4  4 c   b     k     b         1655  185  280 
+snorlax   998730378  4  3 f   -     -     -         1750    0    0 
+snorlax   998730385  3  2 Bk  k     k     k         1750   20    0 2c Jh
+snorlax   998730414  3  1 Bc  kc    kf    -         1730  230    0 
+snorlax   998730462  3  3 c   k     k     b         1500   70  100 
+snorlax   998730499  3  2 B   -     -     -         1530   20   30 
+snorlax   998730505  3  1 Br  b     b     b         1540 1539 3078 Jd Jc
+snorlax   998730536  3  3 f   -     -     -         3079    0    0 
+snorlax   998730563  3  2 Bk  k     f     -         3079   20    0 
+snorlax   998730582  3  1 Bf  -     -     -         3059   10    0 
+snorlax   998730587  3  3 cc  c     f     -         3049  320    0 
+snorlax   998730617  3  2 Bk  k     b     -         2729   70  100 
+snorlax   998730637  3  1 Bf  -     -     -         2759   10    0 
+snorlax   998730649  3  3 cf  -     -     -         2749   20    0 
+snorlax   998730668  3  2 Bk  k     b     brA       2729 2729 5458 Ks Ad
+snorlax   998730718  3  1 Bf  -     -     -         5458   20    0 
+snorlax   998730728  3  3 c   f     -     -         5438   40    0 
+snorlax   998730746  3  2 Bf  -     -     -         5398   40    0 
+snorlax   998730755  3  1 Bcf -     -     -         5358   40    0 
+snorlax   998730768  3  3 f   -     -     -         5318    0    0 
+snorlax   998730777  3  2 Bk  k     k     f         5318   40    0 
+snorlax   998730798  3  1 Bc  k     k     kc        5278  160    0 5h Kh
+snorlax   998730837  3  3 f   -     -     -         5118    0    0 
+snorlax   998730849  3  2 Bc  b     -     -         5118  892 1804 Kh Qd
+snorlax   998730868  2  1 Br  kc    kf    -         6030  360    0 
+snorlax   998730906  2  2 Bk  b     -     -         5670  120  160 
+snorlax   998730924  2  1 Bf  -     -     -         5710   20    0 
+snorlax   998730927  2  2 Bk  k     f     -         5690   40    0 
+snorlax   998730945  2  1 Bcc kf    -     -         5650  120    0 
+snorlax   998730967  2  2 Bk  k     b     b         5530  360  480 
+snorlax   998730995  2  1 Bc  k     k     k         5650   40    0 2s 7s
+snorlax   998731018  2  2 Bk  k     f     -         5610   40    0 
+snorlax   998731041  2  1 Bcc b     k     kf        5570  720    0 
+snorlax   998731077  2  2 B   -     -     -         4850   80  120 
+snorlax   998731081  2  1 Bcr b     -     -         4890 2160 2880 
+snorlax   998731102  2  2 Bk  c     f     -         5610  240    0 
+snorlax   998731120  2  1 Br  -     -     -         5370  240  320 
+snorlax   998731127  2  2 Bk  k     k     k         5450   80    0 6d Ts
+snorlax   998731144  2  1 Bf  -     -     -         5370   40    0 
+snorlax   998731151  2  2 B   -     -     -         5330   80  120 
+snorlax   998731154  2  1 Bc  kf    -     -         5370   80    0 
+snorlax   998731168  2  2 B   -     -     -         5290   80  120 
+snorlax   998731171  2  1 Brrc -     -     -         5330 4670    0 As 9s
+snorlax   998731187  2  2 B   -     -     -          660   80  120 
+snorlax   998731195  2  1 BrcA -     -     -          700  700    0 5c Kh
+snorlax   998732231  5  1 Bf  -     -     -        10000   25    0 
+snorlax   998732242  5  5 cc  k     k     f         9975  750    0 
+snorlax   998732297  5  4 cc  b     kf    -         9225  750    0 
+snorlax   998732375  5  3 cr  b     -     -         8475 3575 5400 
+snorlax   998732431  5  2 Bc  c     c     b        10300 8250 12500 
+snorlax   998732515  5  1 Bf  -     -     -        14550   25    0 
+snorlax   998732569  5  5 cc  r     -     -        14525 12200 16800 
+snorlax   998732642  5  4 c   c     f     -        19125  600    0 
+snorlax   998732714  5  3 f   -     -     -        18525    0    0 
+snorlax   998732742  5  2 Bf  -     -     -        18525  100    0 
+snorlax   998732784  5  1 Bc  k     k     k        18425  100    0 As 7d
+snorlax   998732825  5  5 c   k     k     c        18325  400    0 Ac 6d
+snorlax   998732884  5  4 c   kc    b     k        17925 1700 3600 Kc 4c
+snorlax   998733005  5  3 f   -     -     -        19825    0    0 
+snorlax   998733065  5  2 Bk  k     k     k        19825  200    0 Qh 6c
+snorlax   998733134  5  1 Bf  -     -     -        19625  100    0 
+snorlax   998733162  5  5 f   -     -     -        19525    0    0 
+snorlax   998733214  5  4 f   -     -     -        19525    0    0 
+snorlax   998733251  5  3 f   -     -     -        19525    0    0 
+snorlax   998733260  5  2 Bc  kf    -     -        19525  700    0 
+snorlax   998733321  5  1 Bcf -     -     -        18825  200    0 
+snorlax   998733362  5  5 f   -     -     -        18625    0    0 
+snorlax   998733410  4  4 c   k     f     -        18625  400    0 
+snorlax   998733476  4  3 f   -     -     -        18225    0    0 
+snorlax   998733518  4  2 Bk  k     k     cf       18225 1600    0 
+snorlax   998733569  4  1 Bf  -     -     -        16625  200    0 
+snorlax   998733585  4  4 f   -     -     -        16425    0    0 
+snorlax   998733615  4  3 cc  kf    -     -        16425 1400    0 
+snorlax   998733668  4  2 Bk  k     k     rc       15025 9550    0 3s 8d
+snorlax   998733704  4  1 Bf  -     -     -         5475  200    0 
+snorlax   998733736  4  4 f   -     -     -         5275    0    0 
+snorlax   998733752  4  3 f   -     -     -         5275    0    0 
+snorlax   998733778  4  2 Bk  k     kf    -         5275  800    0 
+snorlax   998733812  4  1 Bf  -     -     -         4475  400    0 
+snorlax   998733817  4  4 rA  -     -     -         4075 4075    0 Ad 6s
+snorlax   998946894 10  4 f   -     -     -        10000    0    0 
+snorlax   998946926 10  3 c   kf    -     -        10000   50    0 
+snorlax   998946960 10  2 Bk  kf    -     -         9950   50    0 
+snorlax   998946989 10  1 Bc  kf    -     -         9900   50    0 
+snorlax   998947070 10 10 f   -     -     -         9850    0    0 
+snorlax   998947118 10  9 c   k     k     k         9850   50    0 Kd 8c
+snorlax   998947190  9  8 f   -     -     -         9800    0    0 
+snorlax   998947236  9  7 c   c     f     -         9800  300    0 
+snorlax   998947320  9  6 c   k     b     b         9500 1850 3000 
+snorlax   998947395  9  5 c   kf    -     -        10650  100    0 
+snorlax   998947458  9  4 f   -     -     -        10550    0    0 
+snorlax   998947505  9  3 c   k     k     c        10550  225    0 2d As
+snorlax   998947552  9  2 Bk  k     kf    -        10325  100    0 
+snorlax   998947624  9  1 Bf  -     -     -        10225   50    0 
+snorlax   998947748  8  8 f   -     -     -        10175    0    0 
+snorlax   998947781  8  7 f   -     -     -        10175    0    0 
+snorlax   998947804  8  6 f   -     -     -        10175    0    0 
+snorlax   998947841  8  5 c   k     f     -        10175  800    0 
+snorlax   998947884  8  4 f   -     -     -         9375    0    0 
+snorlax   998947924  8  3 c   k     cf    -         9375 1100    0 
+snorlax   998948007  8  2 Bf  -     -     -         8275  200    0 
+snorlax   998948084  8  1 Bf  -     -     -         8075  100    0 
+snorlax   998948132  8  8 f   -     -     -         7975    0    0 
+snorlax   998948252  7  6 f   -     -     -         7975    0    0 
+snorlax   998948293  7  5 c   b     -     -         7975 2200 3600 
+snorlax   998948334  7  4 c   f     -     -         9375  400    0 
+snorlax   998948414  7  3 f   -     -     -         8975    0    0 
+snorlax   998948457  7  2 Bk  k     kf    -         8975  400    0 
+snorlax   998948516  7  1 Bf  -     -     -         8575  400    0 
+snorlax   998948535  7  7 c   k     b     -         8175 2800 4000 
+snorlax   998948574  7  6 c   k     k     b         9375 3200 4800 
+snorlax   998948612  7  5 c   c     -     -        10975 1400    0 Ah Td
+snorlax   998948641  7  4 c   k     k     b         9575 3600 5600 
+snorlax   998948701  7  3 c   k     f     -        11575  800    0 
+snorlax   998948742  7  2 Bk  kf    -     -        10775  800    0 
+snorlax   998948769  7  1 Bf  -     -     -         9975  400    0 
+snorlax   998948785  7  7 c   k     f     -         9575  800    0 
+snorlax   998948834  7  6 f   -     -     -         8775    0    0 
+snorlax   998948846  7  5 f   -     -     -         8775    0    0 
+snorlax   998948867  7  4 f   -     -     -         8775    0    0 
+snorlax   998948927  7  3 c   kf    -     -         8775 1600    0 
+snorlax   998948998  6  2 Bk  b     -     -         7175 3200 4800 
+snorlax   998949027  6  1 BrA -     -     -         8775 8775    0 Ac 9c
+snorlax   999042903  9  6 c   kf    -     -        10000   50    0 
+snorlax   999043040  8  4 c   kf    -     -         9950   50    0 
+snorlax   999043090  8  3 c   k     f     -         9900   50    0 
+snorlax   999043158  8  2 Bc  kf    -     -         9850  225    0 
+snorlax   999043236  8  1 Bf  -     -     -         9625   25    0 
+snorlax   999043282  8  8 f   -     -     -         9600    0    0 
+snorlax   999043342  8  7 c   c     k     b         9600 5850    0 As Qd
+snorlax   999043402  8  6 f   -     -     -         3750    0    0 
+snorlax   999043442  8  5 c   k     f     -         3750  100    0 
+snorlax   999043497  8  4 f   -     -     -         3650    0    0 
+snorlax   999043545  8  3 f   -     -     -         3650    0    0 
+snorlax   999043601  8  2 Bc  kc    kf    -         3650 1050    0 
+snorlax   999043665  8  1 Bf  -     -     -         2600   50    0 
+snorlax   999043701  8  8 f   -     -     -         2550    0    0 
+snorlax   999043721  8  7 c   rA    -     -         2550 2550    0 6h Qh
+snorlax   999209926  8  2 Bf  -     -     -        10000   50    0 
+snorlax   999209956  8  1 Bc  k     kf    -         9950  225    0 
+snorlax   999210046  8  8 f   -     -     -         9725    0    0 
+snorlax   999210090  8  7 r   b     -     -         9725  925 1400 
+snorlax   999210136  8  6 c   c     k     f        10200  225    0 
+snorlax   999210187  8  5 f   -     -     -         9975    0    0 
+snorlax   999210240  8  4 r   k     k     b         9975  900 1450 
+snorlax   999210300  8  3 cc  k     k     kf       10525  450    0 
+snorlax   999210359  8  2 Bk  b     k     b        10075 1225 2700 9d Jh
+snorlax   999210416  8  1 Bc  k     k     b        11550  300  600 
+snorlax   999210481  8  8 c   k     k     b        11850  600 1500 8s 2s
+snorlax   999210536  8  7 c   f     -     -        12750  100    0 
+snorlax   999210611  7  5 f   -     -     -        12650    0    0 
+snorlax   999210641  7  4 cc  k     b     -        12650 1900 2900 
+snorlax   999210680  7  3 f   -     -     -        13650    0    0 
+snorlax   999210688  7  2 Bk  kf    -     -        13650  200    0 
+snorlax   999210770  7  1 Bc  k     kf    -        13450  200    0 
+snorlax   999210807  7  7 f   -     -     -        13250    0    0 
+snorlax   999210841  7  6 f   -     -     -        13250    0    0 
+snorlax   999210896  6  4 c   k     f     -        13250  200    0 
+snorlax   999210949  6  4 f   -     -     -        13050    0    0 
+snorlax   999210979  6  3 f   -     -     -        13050    0    0 
+snorlax   999211034  6  2 Bf  -     -     -        13050  200    0 
+snorlax   999211054  6  1 Bc  b     -     -        12850 1200 2400 
+snorlax   999211086  6  6 f   -     -     -        14050    0    0 
+snorlax   999211092  6  5 c   c     k     k        14050 1300    0 4h Th
+snorlax   999211133  6  4 c   f     -     -        12750  400    0 
+snorlax   999211167  6  3 c   k     f     -        12350  400    0 
+snorlax   999211199  6  2 Bk  b     b     -        11950 4400 6400 
+snorlax   999211235  6  1 Bf  -     -     -        13950  200    0 
+snorlax   999211283  6  6 c   c     rA    -        13750 13750 25200 Th Jc
+snorlax   999211326  5  4 c   kf    -     -        25200  400    0 
+snorlax   999211361  5  3 c   b     -     -        24800 1000 1800 
+snorlax   999211389  5  2 Bk  k     f     -        25600  400    0 
+snorlax   999211409  5  1 Bf  -     -     -        25200  200    0 
+snorlax   999211439  5  5 c   k     c     -        25000 2025    0 Qh Tc
+snorlax   999211488  5  4 f   -     -     -        22975    0    0 
+snorlax   999211506  5  3 c   k     k     f        22975  800    0 
+snorlax   999211548  5  2 Bk  k     k     k        22175  800 1600 4s Jc
+snorlax   999211569  5  1 Bc  k     kc    k        22975 3200    0 Td Ts
+snorlax   999211620  5  5 c   k     f     -        19775  800    0 
+snorlax   999211669  5  4 f   -     -     -        18975    0    0 
+snorlax   999211694  5  3 f   -     -     -        18975    0    0 
+snorlax   999211715  5  2 B   -     -     -        18975  800 1200 
+snorlax   999211730  5  1 Bf  -     -     -        19375  400    0 
+snorlax   999211750  5  5 c   k     f     -        18975  800    0 
+snorlax   999211782  5  4 f   -     -     -        18175    0    0 
+snorlax   999211789  5  3 c   k     k     k        18175  800    0 Jh Qd
+snorlax   999211811  5  2 B   -     -     -        17375 1600 2400 
+snorlax   999211827  5  1 Bcf -     -     -        18175 1600    0 
+snorlax   999211847  5  5 c   f     -     -        16575 5600    0 
+snorlax   999211883  5  4 c   b     bA    -        10975 10975 1275 Td Kh
+snorlax   999211927  5  3 cA  -     -     -         1275 1275 5100 Qs Td
+snorlax   999211966  5  2 BcA -     -     -         5100 5100 13400 Kd As
+snorlax   999211985  5  1 Bc  b     -     -        13400 4800 6400 
+snorlax   999212009  5  5 r   -     -     -        15000 5600 8000 
+snorlax   999212015  5  4 f   -     -     -        17400    0    0 
+snorlax   999212031  4  3 f   -     -     -        17400    0    0 
+snorlax   999212042  4  2 Bf  -     -     -        17400 1600    0 
+snorlax   999212059  4  1 Bc  bcA   -     -        15800 15800    0 Ah 6d
+snorlax   999291868 11  7 f   -     -     -        12000    0    0 
+snorlax   999291954 11  6 f   -     -     -        12000    0    0 
+snorlax   999292020 11  5 f   -     -     -        12000    0    0 
+snorlax   999292051 11  4 c   r     -     -        12000  725 1375 
+snorlax   999292133 11  3 cf  -     -     -        12650  100    0 
+snorlax   999292170 11  2 Bc  bc    bA    -        12550 12550 2050 Qs Ac
+snorlax   999292239 11  1 BccA -     -     -         2050 2050    0 4c As

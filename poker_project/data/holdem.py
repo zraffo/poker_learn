@@ -30,7 +30,7 @@ class DataSet:
         self.player = player
 
     def player_data(self, player_name, timestamp="all"):
-        idxer = self.player[player_name].loc
+        idxer = self.player.loc[player_name, :].loc
         if timestamp == "all":
             return idxer[:, :]
         else:
@@ -40,22 +40,18 @@ class DataSet:
         h = self.find_hand(timestamp)
         return {"timestamp": timestamp,
                 "num_players": h.dealt_num,
-                "end_phase": h['']
-                }
-        pass
+                "end_phase": h['']}
 
     def find_hand(self, timestamp):
         return self.hands.query('timestamp == ' + timestamp)
 
     def hand_roster(self, timestamp):
-        return self.roster[timestamp]
+        # return self.roster[timestamp]
+        return self.roster.loc[timestamp, :].dropna().tolist()[1:]
 
     def find_hands_cards_shown(self):
-        games_with_shown_hands = defaultdict(lambda: 0)
-        for p in self.player.items():
-            chk = p[1][["card_1", "card_2"]].dropna()
-            for ts in list(chk.index):
-                games_with_shown_hands[ts] = games_with_shown_hands[ts] + 1
+        games_with_shown_hands = self.player.dropna(subset=['card_1', 'card_2'])
+        # then look for timestamps in index of self.hands
         return games_with_shown_hands
 
     def game_history(self, timestamp):
@@ -82,19 +78,8 @@ class DataSet:
         pass
 
     def winning_hands(self):
-        # win = pd.DataFrame()
-        # for p in self.player.items():
-        #     chk = p[1].reset_index()
-        #     chk = chk[['amt', "delta", "card_1", "card_2"]].dropna()
-        #     chk['c1_val'] = chk['card_1'].apply(lambda x: x[0])
-        #     chk['c1_suit'] = chk['card_1'].apply(lambda x: x[1])
-        #     chk['c2_val'] = chk['card_2'].apply(lambda x: x[0])
-        #     chk['c2_suit'] = chk['card_2'].apply(lambda x: x[1])
-        #     chk = chk.drop('card_1', axis=1)
-        #     chk = chk.drop('card_2', axis=1)
-        #     win = win.append(chk)
         chk = self.player.reset_index()
-        chk = chk[['amt', "delta", "card_1", "card_2"]].dropna()
+        chk = chk.dropna(subset=['amt', "delta", "card_1", "card_2"])
         chk['c1_val'] = chk['card_1'].apply(lambda x: x[0])
         chk['c1_suit'] = chk['card_1'].apply(lambda x: x[1])
         chk['c2_val'] = chk['card_2'].apply(lambda x: x[0])
@@ -102,8 +87,6 @@ class DataSet:
         chk = chk.drop('card_1', axis=1)
         chk = chk.drop('card_2', axis=1)
         return chk
-
-
 
     def parse_actions(self, action: str):
         ac = action.split()

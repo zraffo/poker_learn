@@ -1,0 +1,588 @@
+belhodis  939076026 11  4 cc  f     -     -         5000  180    0 
+belhodis  939076137  9  3 f   -     -     -         4820    0    0 
+belhodis  939076242  9  2 Bk  kcf   -     -         4820  210    0 
+belhodis  939076353  9  1 Bf  -     -     -         4610   30    0 
+belhodis  939076427  9  9 f   -     -     -         4580    0    0 
+belhodis  939076517  9  8 f   -     -     -         4580    0    0 
+belhodis  939076615  8  7 f   -     -     -         4580    0    0 
+belhodis  939076689  8  6 f   -     -     -         4580    0    0 
+belhodis  939076748  7  4 f   -     -     -         4580    0    0 
+belhodis  939076758  7  4 c   k     c     c         4580 3000 6480 Ks Ah
+belhodis  939076830  7  3 c   k     k     k         8060  120  420 Qs Td
+belhodis  939076894  7  2 Bk  k     f     -         8360  120    0 
+belhodis  939076941  7  1 Bf  -     -     -         8240   60    0 
+belhodis  939077010  7  7 f   -     -     -         8180    0    0 
+belhodis  939077034  7  6 c   k     r     b         8180 5920 8200 
+belhodis  939077105  7  5 cf  -     -     -        10460  240    0 
+belhodis  939077153  7  4 f   -     -     -        10220    0    0 
+belhodis  939077220  7  3 f   -     -     -        10220    0    0 
+belhodis  939077272  7  2 Bf  -     -     -        10220  240    0 
+belhodis  939077334  6  1 Bc  kc    k     b         9980 3920    0 2c 2s
+belhodis  939077392  6  6 f   -     -     -         6060    0    0 
+belhodis  939077429  6  5 f   -     -     -         6060    0    0 
+belhodis  939077455  5  3 c   k     c     c         6060 4320 8640 Js 3s
+belhodis  939077497  5  3 c   b     -     -        10380 1680 2400 
+belhodis  939077518  5  2 Bk  b     -     -        11100 2280 2760 
+belhodis  939077548  5  1 Bf  -     -     -        11580  240    0 
+belhodis  939077569  5  5 f   -     -     -        11340    0    0 
+belhodis  939077603  5  4 c   b     k     c        11340 3480 7200 4s 4c
+belhodis  939077642  5  3 c   k     k     k        15060  960 1440 9d As
+belhodis  939077679  5  2 Bk  f     -     -        15540  960    0 
+belhodis  939077715  5  1 Bc  k     b     -        14580 2960 3920 
+belhodis  939077754  5  5 c   f     -     -        15540  960    0 
+belhodis  939077786  5  4 c   b     k     c        14580 9360    0 Kd 8s
+belhodis  939077834  5  3 f   -     -     -         5220    0    0 
+belhodis  939077852  5  2 Bk  k     b     -         5220 2960 3920 
+belhodis  939077876  5  1 Bc  k     b     -         6180 2960 4880 
+belhodis  939077900  5  5 f   -     -     -         8100    0    0 
+belhodis  939077910  5  4 f   -     -     -         8100    0    0 
+belhodis  939077919  5  3 f   -     -     -         8100    0    0 
+belhodis  939077935  5  2 Bk  k     kc    k         8100 3840 8640 2s Js
+belhodis  939077980  5  1 Bf  -     -     -        12900  960    0 
+belhodis  939078014  5  5 f   -     -     -        11940    0    0 
+belhodis  939078040  5  4 f   -     -     -        11940    0    0 
+belhodis  939078049  5  3 f   -     -     -        11940    0    0 
+belhodis  939078060  4  1 Bk  k     b     b        11940 7920 17760 4s Ah
+belhodis  939078105  4  1 Bf  -     -     -        21780  960    0 
+belhodis  939078133  4  4 c   -     -     -        20820 1920 3110 3s As
+belhodis  939078140  3  2 f   -     -     -        22010    0    0 
+belhodis  939078153  3  2 Bc  -     -     -        22010 6690 14340 Kh Qh
+belhodis  939078160  2  1 Bc  k     b     k        29660 3920 3920 Tc 5d
+belhodis  939078188  2  2 B   -     -     -        29660 1920 2880 
+belhodis  939078195  2  1 Bc  k     k     b        30620 6920 8840 
+belhodis  939078219  2  2 Br  b     -     -        32540 5920 9840 
+belhodis  939078240  2  1 Bc  k     k     kf       36460 1920    0 
+belhodis  939078265  2  2 Bk  k     b     b        34540 20920 24840 
+belhodis  939078297  2  1 Bc  k     k     b        38460 13840    0 6c 4c
+belhodis  939078332  2  2 Bk  k     f     -        24620 3840    0 
+belhodis  939078351  2  1 Bcc k     b     k        20780 15520    0 5c 2c
+belhodis  939078387  2  2 BcA -     -     -         5260 5260 10520 Kh 5s
+belhodis  939078396  2  1 Bf  -     -     -        10520 1920    0 
+belhodis  939078401  2  2 Bk  bA    -     -         8600 8600 17200 5s 5d
+belhodis  939078415  2  1 Br  -     -     -        17200 11840 15680 
+belhodis  939078428  2  2 B   -     -     -        21040 3840 5760 
+belhodis  939078430  2  1 Bc  b     -     -        22960 11840 15680 
+belhodis  939078447  2  2 B   -     -     -        26800 3840 5760 
+belhodis  939078449  2  1 Bf  -     -     -        28720 1920    0 
+belhodis  939078451  2  2 Bk  f     -     -        26800 3840    0 
+belhodis  939078466  2  1 Bc  b     b     k        22960 22840 45680 Js 9h
+belhodis  939078504  2  2 B   -     -     -        45800 3840 5760 
+belhodis  939078515  2  1 Bcc -     -     -        47720 7280 14560 Jc 2s
+belhodis  939078806 15 12 c   k     k     k         5000  140    0 Ac 3d
+belhodis  939078921 15 11 f   -     -     -         4860    0    0 
+belhodis  939079016 14  9 f   -     -     -         4860    0    0 
+belhodis  939079086 14  8 cc  kf    -     -         4860  260    0 
+belhodis  939079205 13  6 f   -     -     -         4600    0    0 
+belhodis  939079378 12  6 c   f     -     -         4600   80    0 
+belhodis  939079470 12  5 c   kf    -     -         4520   80    0 
+belhodis  939079744 12  4 f   -     -     -         4440    0    0 
+belhodis  939079875 11  3 c   k     b     b         4440 4160 4280 9d Ah
+belhodis  939079944 11  2 Bf  -     -     -         4560  160    0 
+belhodis  939079968 11  1 Bf  -     -     -         4400   80    0 
+belhodis  939080014 11 11 f   -     -     -         4320    0    0 
+belhodis  939080090 10  9 f   -     -     -         4320    0    0 
+belhodis  939080128 10  8 f   -     -     -         4320    0    0 
+belhodis  939080205 10  7 f   -     -     -         4320    0    0 
+belhodis  939080268 10  6 f   -     -     -         4320    0    0 
+belhodis  939080315  9  5 c   kf    -     -         4320  320    0 
+belhodis  939080385  9  4 f   -     -     -         4000    0    0 
+belhodis  939080434  7  3 c   f     -     -         4000  640    0 
+belhodis  939080482  7  2 Bf  -     -     -         3360  640    0 
+belhodis  939080497  7  1 Bf  -     -     -         2720  320    0 
+belhodis  939080525  7  7 c   k     cA    -         2400 2400 8000 Ks 8s
+belhodis  939080550  7  6 f   -     -     -         8000    0    0 
+belhodis  939080601  6  4 c   c     cA    -         8000 8000 8320 Kc 7c
+belhodis  939080658  6  3 f   -     -     -         8320    0    0 
+belhodis  939080698  5  2 Bc  bA    -     -         8320 8320 10880 
+belhodis  939080738  5  1 Bf  -     -     -        10880  640    0 
+belhodis  939080767  5  5 f   -     -     -        10240    0    0 
+belhodis  939080781  5  4 f   -     -     -        10240    0    0 
+belhodis  939080795  5  3 f   -     -     -        10240    0    0 
+belhodis  939080818  4  2 Bc  -     -     -        10240 3800 7600 3h 7h
+belhodis  939080851  3  1 Bf  -     -     -        14040  640    0 
+belhodis  939080866  3  3 f   -     -     -        13400    0    0 
+belhodis  939080874  3  2 Bk  kf    -     -        13400 1280    0 
+belhodis  939080897  3  1 Bc  kcA   -     -        12120 12120    0 6c Ah
+belhodis  939418387 17  2 Bk  k     kc    kc         600  548    0 7d 9d
+belhodis  939418542 17  1 Bf  -     -     -           52    2    0 
+belhodis  939418652 16 16 f   -     -     -           50    0    0 
+belhodis  939418698 15 14 ccA -     -     -           50   50    0 Jd Qs
+belhodis  939421765 13  1 Bc  k     k     b         5000  240  840 Ks Tc
+belhodis  939421908 13 13 f   -     -     -         5600    0    0 
+belhodis  939422060 13 12 f   -     -     -         5600    0    0 
+belhodis  939422178 13 11 f   -     -     -         5600    0    0 
+belhodis  939422312 12  9 cc  kc    kc    -         5600 3960 10040 Kd Kc
+belhodis  939422401 10  8 c   k     k     k        11680  160  640 7s 7c
+belhodis  939422481 10  7 f   -     -     -        12160    0    0 
+belhodis  939422583  8  4 c   kf    -     -        12160  160    0 
+belhodis  939422628  8  4 c   k     c     b        12000 2800    0 Ad Ah
+belhodis  939422685  8  3 f   -     -     -         9200    0    0 
+belhodis  939422709  8  2 Bk  kc    kr    -         9200 4320 6320 9d 6s
+belhodis  939422767  7  1 Bf  -     -     -        11200  160    0 
+belhodis  939422815  7  7 f   -     -     -        11040    0    0 
+belhodis  939422846  7  6 f   -     -     -        11040    0    0 
+belhodis  939422884  7  5 cc  f     -     -        11040 1920    0 
+belhodis  939422920  6  4 f   -     -     -         9120    0    0 
+belhodis  939422952  6  3 f   -     -     -         9120    0    0 
+belhodis  939422975  6  2 Bk  kf    -     -         9120  640    0 
+belhodis  939423027  6  1 Bf  -     -     -         8480  320    0 
+belhodis  939423065  6  6 c   c     cA    -         8160 8160    0 6s Ks
+belhodis  939423915 23 10 f   -     -     -         1200    0    0 
+belhodis  939424074 23  9 f   -     -     -         1200    0    0 
+belhodis  939424155 22  8 f   -     -     -         1200    0    0 
+belhodis  939424223 21  7 cc  kf    -     -         1200  412    0 
+belhodis  939424308 21  6 f   -     -     -          788    0    0 
+belhodis  939424391 19  5 f   -     -     -          788    0    0 
+belhodis  939424462 19  4 c   kc    kcA   -          788  788 3272 3s Ks
+belhodis  939424602 18  3 f   -     -     -         3272    0    0 
+belhodis  939424782 18  2 Br  b     b     -         3272  698 1192 
+belhodis  939424896 18  1 Bf  -     -     -         3766   24    0 
+belhodis  939425049 18 18 f   -     -     -         3742    0    0 
+belhodis  939425125 18 17 f   -     -     -         3742    0    0 
+belhodis  939425209 18 16 cf  -     -     -         3742   96    0 
+belhodis  939425286 17 15 f   -     -     -         3646    0    0 
+belhodis  939425360 16 13 cf  -     -     -         3646   96    0 
+belhodis  939425483 14 11 f   -     -     -         3550    0    0 
+belhodis  939425552 14 10 ccA -     -     -         3550 3550    0 Kd Qh
+belhodis  939759712 15  6 c   k     f     -        10000  100    0 
+belhodis  939759854 15  5 f   -     -     -         9900    0    0 
+belhodis  939759909 15  4 f   -     -     -         9900    0    0 
+belhodis  939760001 15  3 f   -     -     -         9900    0    0 
+belhodis  939760119 15  2 Bk  kf    -     -         9900  200    0 
+belhodis  939760201 15  1 Bf  -     -     -         9700  100    0 
+belhodis  939760266 15 15 f   -     -     -         9600    0    0 
+belhodis  939760341 15 14 f   -     -     -         9600    0    0 
+belhodis  939760397 15 13 f   -     -     -         9600    0    0 
+belhodis  939760489 15 12 c   c     c     c         9600 7950 17000 9d 8h
+belhodis  939760558 14 10 f   -     -     -        18650    0    0 
+belhodis  939760620 14  9 f   -     -     -        18650    0    0 
+belhodis  939760691 13  8 c   k     f     -        18650  400    0 
+belhodis  939760740 13  7 cf  -     -     -        18250  400    0 
+belhodis  939760780 12  6 f   -     -     -        17850    0    0 
+belhodis  939760797 12  5 c   k     kf    -        17850  400    0 
+belhodis  939760868 12  4 c   k     kc    k        17450 2800 7200 8h Kh
+belhodis  939760997 12  3 c   kf    -     -        21850  800    0 
+belhodis  939761114 12  2 Bk  k     kf    -        21050  800    0 
+belhodis  939761167 12  1 Bf  -     -     -        20250  400    0 
+belhodis  939761189 11 11 f   -     -     -        19850    0    0 
+belhodis  939761220 11 10 f   -     -     -        19850    0    0 
+belhodis  939761274 11  9 c   b     b     bA       19850 19850 40900 Jd As
+belhodis  939761321 11  8 c   k     kf    -        40900  800    0 
+belhodis  939761382 11  7 f   -     -     -        40100    0    0 
+belhodis  939761393 11  6 f   -     -     -        40100    0    0 
+belhodis  939761421 10  4 f   -     -     -        40100    0    0 
+belhodis  939761453 10  3 f   -     -     -        40100    0    0 
+belhodis  939761464 10  2 Bf  -     -     -        40100 1600    0 
+belhodis  939761503  9  1 Bc  k     b     -        38500 6600 8200 
+belhodis  939761533  9  9 f   -     -     -        40100    0    0 
+belhodis  939761554  9  8 f   -     -     -        40100    0    0 
+belhodis  939761585  9  7 f   -     -     -        40100    0    0 
+belhodis  939761616  8  5 f   -     -     -        40100    0    0 
+belhodis  939761640  8  4 f   -     -     -        40100    0    0 
+belhodis  939761657  8  3 f   -     -     -        40100    0    0 
+belhodis  939761679  8  2 Bf  -     -     -        40100 1600    0 
+belhodis  939761698  8  1 Bc  b     -     -        38500 17200 2300 Ah Jh
+belhodis  939761747  8  8 c   k     f     -        23600 1600    0 
+belhodis  939761808  8  7 f   -     -     -        22000    0    0 
+belhodis  939761836  8  6 f   -     -     -        22000    0    0 
+belhodis  939761854  7  4 f   -     -     -        22000    0    0 
+belhodis  939761893  6  3 c   b     b     cA       22000 22000    0 Kh Qc
+belhodis  939762719  8  6 f   -     -     -         3500    0    0 
+belhodis  939762751  8  5 f   -     -     -         3500    0    0 
+belhodis  939762799  8  4 f   -     -     -         3500    0    0 
+belhodis  939762842  8  3 cc  f     -     -         3500  260    0 
+belhodis  939762902  8  2 Bf  -     -     -         3240   40    0 
+belhodis  939762974  7  1 Bf  -     -     -         3200   20    0 
+belhodis  939763091  6  6 f   -     -     -         3180    0    0 
+belhodis  939763136  6  5 f   -     -     -         3180    0    0 
+belhodis  939763224  5  4 cf  -     -     -         3180   80    0 
+belhodis  939763273  5  3 f   -     -     -         3100    0    0 
+belhodis  939763317  5  2 Bk  k     k     k         3100   80    0 9h 2c
+belhodis  939763401  5  1 Bc  kc    kc    kf        3020 1440    0 
+belhodis  939763452  5  5 c   c     cA    -         1580 1580    0 6h 4h
+belhodis  939851140  9  6 f   -     -     -         5000    0    0 
+belhodis  939851244  9  5 c   f     -     -         5000   50    0 
+belhodis  939851279  9  4 f   -     -     -         4950    0    0 
+belhodis  939851376  9  3 ccf -     -     -         4950  375    0 
+belhodis  939851470  8  2 Bk  kc    k     k         4575  138  439 2c 9c
+belhodis  939851551  8  1 Bc  k     kc    k         4876  300  600 Kd 6d
+belhodis  939851597  8  8 f   -     -     -         5176    0    0 
+belhodis  939851644  8  7 c   k     k     b         5176 1100 1400 
+belhodis  939851729  8  6 c   k     f     -         5476  100    0 
+belhodis  939851783  8  5 cr  k     b     b         5376 5375 8200 
+belhodis  939851837  8  4 f   -     -     -         8201    0    0 
+belhodis  939851896  8  3 f   -     -     -         8201    0    0 
+belhodis  939851941  8  2 Bk  k     k     krc       8201 4550    0 4h 7d
+belhodis  939852017  8  1 Bf  -     -     -         3651  100    0 
+belhodis  939852050  8  8 f   -     -     -         3551    0    0 
+belhodis  939852092  8  7 f   -     -     -         3551    0    0 
+belhodis  939852154  8  6 cf  -     -     -         3551  200    0 
+belhodis  939852227  7  5 c   kf    -     -         3351  200    0 
+belhodis  939852274  7  4 f   -     -     -         3151    0    0 
+belhodis  939852318  7  3 c   k     k     kc        3151 1800    0 Kh Jc
+belhodis  939852371  7  2 Bk  kf    -     -         1351  400    0 
+belhodis  939852402  7  1 Bf  -     -     -          951  200    0 
+belhodis  939852438  7  7 f   -     -     -          751    0    0 
+belhodis  939852461  7  6 f   -     -     -          751    0    0 
+belhodis  939852486  7  5 f   -     -     -          751    0    0 
+belhodis  939852507  7  4 c   kc    k     k          751  450    0 Ks 4d
+belhodis  939852549  7  3 cA  -     -     -          301  301    0 Qs Kh
+belhodis  939853447 19 11 f   -     -     -        10000    0    0 
+belhodis  939853561 16  8 f   -     -     -        10000    0    0 
+belhodis  939853702 16  7 c   kf    -     -        10000   80    0 
+belhodis  939853830 14  5 c   ccA   -     -         9920 9920 30400 5c Ah
+belhodis  939853917 12  4 c   k     kc    k        30400  880 2160 Js 9s
+belhodis  939853991 12  3 c   k     k     k        31680  160    0 Qd Jd
+belhodis  939854078 12  2 Bc  f     -     -        31520  960    0 
+belhodis  939854142 12  1 Bf  -     -     -        30560   80    0 
+belhodis  939854204 10 10 c   k     b     -        30480 5160 5640 
+belhodis  939854259 10 10 f   -     -     -        30960    0    0 
+belhodis  939854312 10  9 c   k     kc    k        30960 1440    0 Kd 4d
+belhodis  939854370 10  8 cf  -     -     -        29520  320    0 
+belhodis  939854437  8  5 f   -     -     -        29200    0    0 
+belhodis  939854465  8  5 f   -     -     -        29200    0    0 
+belhodis  939854495  8  4 c   k     k     kf       29200  320    0 
+belhodis  939854568  8  3 f   -     -     -        28880    0    0 
+belhodis  939854577  8  2 Bk  k     kc    krA      28880 28880 58560 Kd 9d
+belhodis  939854658  8  1 Bf  -     -     -        58560  320    0 
+belhodis  939854713  8  8 c   k     k     f        58240  640    0 
+belhodis  939854791  8  7 f   -     -     -        57600    0    0 
+belhodis  939854832  8  6 f   -     -     -        57600    0    0 
+belhodis  939854880  8  5 c   k     f     -        57600  640    0 
+belhodis  939854942  8  4 f   -     -     -        56960    0    0 
+belhodis  939854995  7  3 f   -     -     -        56960    0    0 
+belhodis  939855043  7  2 Bk  k     kf    -        56960 1280    0 
+belhodis  939934491 15  8 f   -     -     -         5000    0    0 
+belhodis  939934613 15  7 cf  -     -     -         5000   40    0 
+belhodis  939934668 15  6 f   -     -     -         4960    0    0 
+belhodis  939934792 15  5 f   -     -     -         4960    0    0 
+belhodis  939934858 14  4 f   -     -     -         4960    0    0 
+belhodis  939934988 14  3 f   -     -     -         4960    0    0 
+belhodis  939935084 14  2 Bc  kf    -     -         4960  720    0 
+belhodis  939935130 14  1 Bf  -     -     -         4240   80    0 
+belhodis  939935188 14 14 f   -     -     -         4160    0    0 
+belhodis  939935231 14 13 f   -     -     -         4160    0    0 
+belhodis  939935294 14 12 f   -     -     -         4160    0    0 
+belhodis  939935362 13 11 f   -     -     -         4160    0    0 
+belhodis  939935420 12  9 f   -     -     -         4160    0    0 
+belhodis  939935511 11  7 c   c     c     cA        4160 4160 2240 As 8h
+belhodis  939935647 11  6 f   -     -     -         2240    0    0 
+belhodis  939935676 11  5 f   -     -     -         2240    0    0 
+belhodis  939935739 11  4 c   f     -     -         2240  640    0 
+belhodis  939935784 11  3 f   -     -     -         1600    0    0 
+belhodis  939935835 10  2 BcA -     -     -         1600 1600 3520 2c Ad
+belhodis  939935855 10  1 Bf  -     -     -         3520  320    0 
+belhodis  939935914 10 10 c   -     -     -         3200 1280 2420 Tc Kh
+belhodis  939935939  9  8 f   -     -     -         4340    0    0 
+belhodis  939935982  9  8 f   -     -     -         4340    0    0 
+belhodis  939936033  8  7 cA  -     -     -         4340 4340    0 Qd Ad
+belhodis  940022900 18  9 f   -     -     -         5000    0    0 
+belhodis  940022996 18  8 f   -     -     -         5000    0    0 
+belhodis  940023107 17  6 f   -     -     -         5000    0    0 
+belhodis  940023213 17  5 cf  -     -     -         5000   40    0 
+belhodis  940023307 16  4 f   -     -     -         4960    0    0 
+belhodis  940023389 16  3 cf  -     -     -         4960   80    0 
+belhodis  940023470 14  2 Bf  -     -     -         4880   80    0 
+belhodis  940023592 10  1 Bf  -     -     -         4800   40    0 
+belhodis  940023669 10 10 c   k     c     c         4760 3700    0 Js Jh
+belhodis  940023744 10  9 f   -     -     -         1060    0    0 
+belhodis  940023785 10  8 f   -     -     -         1060    0    0 
+belhodis  940023819 10  7 c   k     f     -         1060  160    0 
+belhodis  940023868 10  6 f   -     -     -          900    0    0 
+belhodis  940023927 10  5 f   -     -     -          900    0    0 
+belhodis  940024002 10  4 c   cA    -     -          900  900 2920 7h Jh
+belhodis  940024044 10  3 f   -     -     -         2920    0    0 
+belhodis  940024071  9  2 Bk  kf    -     -         2920  320    0 
+belhodis  940024127  9  1 Bc  kf    -     -         2600  320    0 
+belhodis  940024176  9  9 f   -     -     -         2280    0    0 
+belhodis  940024219  9  8 f   -     -     -         2280    0    0 
+belhodis  940024271  9  7 f   -     -     -         2280    0    0 
+belhodis  940024337  8  5 c   f     -     -         2280  640    0 
+belhodis  940024397  7  4 f   -     -     -         1640    0    0 
+belhodis  940024457  7  3 c   k     kf    -         1640  640    0 
+belhodis  940024524  7  2 Bf  -     -     -         1000  640    0 
+belhodis  940024568  7  1 BcA -     -     -          360  360    0 Kh 7s
+belhodis  940025589 15 14 c   r     c     k        10000 5360    0 Qc Tc
+belhodis  940025712 15 13 c   cA    -     -         4640 4640    0 As 4c
+belhodis  940181290 14 10 f   -     -     -         4000    0    0 
+belhodis  940181445 14  9 f   -     -     -         4000    0    0 
+belhodis  940181577 14  8 c   kc    k     kr        4000 2500 3660 9c 9s
+belhodis  940181691 13  7 c   k     kc    b         5160 2060 4440 Kc Kh
+belhodis  940181879 13  6 c   f     -     -         7540   80    0 
+belhodis  940181992 12  4 c   k     kc    k         7460  640    0 9h Jh
+belhodis  940182089 12  3 c   kf    -     -         6820  160    0 
+belhodis  940182210 12  2 Bf  -     -     -         6660  160    0 
+belhodis  940182301 11  1 Bc  kf    -     -         6500  320    0 
+belhodis  940182375 11 11 f   -     -     -         6180    0    0 
+belhodis  940182409 10  9 f   -     -     -         6180    0    0 
+belhodis  940182451  9  8 f   -     -     -         6180    0    0 
+belhodis  940182483  9  7 f   -     -     -         6180    0    0 
+belhodis  940182526  9  6 f   -     -     -         6180    0    0 
+belhodis  940182594  9  5 f   -     -     -         6180    0    0 
+belhodis  940182679  9  4 f   -     -     -         6180    0    0 
+belhodis  940182739  9  3 f   -     -     -         6180    0    0 
+belhodis  940182763  9  2 Bc  kc    -     -         6180 5440 11200 9c Ts
+belhodis  940182797  8  1 Bf  -     -     -        11940  320    0 
+belhodis  940182835  8  8 cc  k     k     k        11620 3200    0 4s 4d
+belhodis  940182898  7  6 c   k     b     -         8420 2240 3200 
+belhodis  940182929  7  5 f   -     -     -         9380    0    0 
+belhodis  940182940  7  4 f   -     -     -         9380    0    0 
+belhodis  940182959  7  3 f   -     -     -         9380    0    0 
+belhodis  940183011  7  2 B   -     -     -         9380 1280 1920 
+belhodis  940183031  7  1 Bc  b     -     -        10020 3840 5120 
+belhodis  940183051  7  7 f   -     -     -        11300    0    0 
+belhodis  940183072  6  6 f   -     -     -        11300    0    0 
+belhodis  940183092  6  5 c   r     -     -        11300 7150 11940 Kc Qh
+belhodis  940183120  5  3 f   -     -     -        16090    0    0 
+belhodis  940183154  5  3 c   c     c     cA       16090 16090    0 Jh Kc
+belhodis  940183786 23  9 ccA -     -     -         5000 5000    0 Qc Kh
+belhodis  940281575 17 17 f   -     -     -         5000    0    0 
+belhodis  940281668 15 14 c   f     -     -         5000   50    0 
+belhodis  940281784 15 13 c   k     k     c         4950  225    0 4h 4s
+belhodis  940281831 15 12 f   -     -     -         4725    0    0 
+belhodis  940281892 15 11 c   f     -     -         4725   50    0 
+belhodis  940281981 15 10 f   -     -     -         4675    0    0 
+belhodis  940282057 15  9 f   -     -     -         4675    0    0 
+belhodis  940282109 15  8 f   -     -     -         4675    0    0 
+belhodis  940282156 15  7 f   -     -     -         4675    0    0 
+belhodis  940282217 15  6 f   -     -     -         4675    0    0 
+belhodis  940282266 15  5 c   f     -     -         4675  100    0 
+belhodis  940282324 14  4 f   -     -     -         4575    0    0 
+belhodis  940282389 14  3 f   -     -     -         4575    0    0 
+belhodis  940282488 14  2 Bc  kc    -     -         4575 1888 3876 8d Qd
+belhodis  940282532 13  1 Bc  kf    -     -         6563  200    0 
+belhodis  940282660 13 13 c   f     -     -         6363  200    0 
+belhodis  940282739 13 12 f   -     -     -         6163    0    0 
+belhodis  940282789 12 10 f   -     -     -         6163    0    0 
+belhodis  940282819 12  9 f   -     -     -         6163    0    0 
+belhodis  940282877 10  8 f   -     -     -         6163    0    0 
+belhodis  940282937 10  7 f   -     -     -         6163    0    0 
+belhodis  940283012 10  6 f   -     -     -         6163    0    0 
+belhodis  940283066 10  5 f   -     -     -         6163    0    0 
+belhodis  940283125 10  4 f   -     -     -         6163    0    0 
+belhodis  940283158 10  3 c   k     k     k         6163  800    0 Kc Js
+belhodis  940283214 10  2 Bf  -     -     -         5363  800    0 
+belhodis  940283233 10  1 Bf  -     -     -         4563  400    0 
+belhodis  940283261 10 10 f   -     -     -         4163    0    0 
+belhodis  940283302 10  9 f   -     -     -         4163    0    0 
+belhodis  940283361  8  7 f   -     -     -         4163    0    0 
+belhodis  940283395  7  6 c   cA    -     -         4163 4163    0 4h Ac
+belhodis  940368386 23 13 f   -     -     -        10000    0    0 
+belhodis  940368537 22 11 f   -     -     -        10000    0    0 
+belhodis  940368709 21 10 cc  kf    -     -        10000  900    0 
+belhodis  940368828 20  9 f   -     -     -         9100    0    0 
+belhodis  940368944 20  8 ccA -     -     -         9100 9100 4500 Ah Ac
+belhodis  940369008 19  6 f   -     -     -         4500    0    0 
+belhodis  940369126 19  5 cc  kcA   -     -         4500 4500    0 Qh Kc
+belhodis  940618288 10  8 f   -     -     -         5000    0    0 
+belhodis  940618350 10  7 c   k     b     -         5000  500  800 
+belhodis  940618417 10  6 c   kc    kc    kc        5300 3600 8000 Qc Qs
+belhodis  940618515 10  5 cc  k     k     k         9700 1200    0 Jh Qh
+belhodis  940618613  9  4 f   -     -     -         8500    0    0 
+belhodis  940618699  9  3 f   -     -     -         8500    0    0 
+belhodis  940618725  9  2 Bc  k     k     bc        8500 4700    0 4h 5h
+belhodis  940618795  9  1 Bc  k     k     kr        3800 2000 3100 
+belhodis  940618908  9  9 f   -     -     -         4900    0    0 
+belhodis  940618958  9  8 f   -     -     -         4900    0    0 
+belhodis  940618992  9  7 c   f     -     -         4900  200    0 
+belhodis  940619016  9  6 f   -     -     -         4700    0    0 
+belhodis  940619040  9  5 f   -     -     -         4700    0    0 
+belhodis  940619105  8  4 cr  k     b     bA        4700 4700 11300 Jh 9h
+belhodis  940619175  7  3 f   -     -     -        11300    0    0 
+belhodis  940619203  7  2 Bk  b     -     -        11300 2000 3200 
+belhodis  940619242  7  1 Bc  k     kf    -        12500  400    0 
+belhodis  940619270  7  7 f   -     -     -        12100    0    0 
+belhodis  940619298  7  6 f   -     -     -        12100    0    0 
+belhodis  940619317  7  5 cc  kc    -     -        12100 2700 6000 8h 8c
+belhodis  940619339  6  4 cf  -     -     -        15400  400    0 
+belhodis  940619411  6  3 c   f     -     -        15000  800    0 
+belhodis  940619451  6  2 Bc  k     f     -        14200 2000    0 
+belhodis  940619479  6  1 Bc  kf    -     -        12200  800    0 
+belhodis  940619525  6  6 f   -     -     -        11400    0    0 
+belhodis  940619546  6  5 f   -     -     -        11400    0    0 
+belhodis  940619585  5  4 f   -     -     -        11400    0    0 
+belhodis  940619699  5  3 f   -     -     -        11400    0    0 
+belhodis  940619706  5  2 Bf  -     -     -        11400  800    0 
+belhodis  940619720  5  1 Bf  -     -     -        10600  400    0 
+belhodis  940619728  5  5 c   k     c     c        10200 7800    0 4c 5c
+belhodis  940619760  5  4 f   -     -     -         2400    0    0 
+belhodis  940619773  5  3 f   -     -     -         2400    0    0 
+belhodis  940619787  5  2 Bk  k     k     k         2400 1600 4800 4h 3d
+belhodis  940619820  5  1 Bc  b     -     -         5600 4800 6400 
+belhodis  940619841  5  5 f   -     -     -         7200    0    0 
+belhodis  940619872  5  4 f   -     -     -         7200    0    0 
+belhodis  940619913  5  3 cc  bA    -     -         7200 7200 14400 As 7d
+belhodis  940619947  4  1 Bf  -     -     -        14400 1600    0 
+belhodis  940619964  4  1 Bf  -     -     -        12800  800    0 
+belhodis  940619972  4  4 f   -     -     -        12000    0    0 
+belhodis  940619981  4  3 c   k     b     -        12000 5600 8000 
+belhodis  940620005  4  2 Bf  -     -     -        14400 1600    0 
+belhodis  940620020  4  1 Bf  -     -     -        12800  800    0 
+belhodis  940620029  4  4 cc  bA    -     -        12000 12000 17600 
+belhodis  940620053  4  3 f   -     -     -        17600    0    0 
+belhodis  940620089  3  2 Bk  f     -     -        17600 1600    0 
+belhodis  940620126  3  1 Br  bA    -     -        16000 16000 25600 
+belhodis  940620156  3  3 c   k     k     k        25600 3200    0 7c 5c
+belhodis  940620188  3  2 B   -     -     -        22400 3200 4800 
+belhodis  940620201  3  1 Bcc -     -     -        24000 7200 14400 8c Kd
+belhodis  940620221  2  2 r   -     -     -        31200 6400 9600 
+belhodis  940620235  2  2 B   -     -     -        34400 3200 4800 
+belhodis  940620239  2  1 Bc  b     -     -        36000 14200 17400 
+belhodis  940620256  2  2 B   -     -     -        39200 3200 4800 
+belhodis  940620259  2  1 Br  -     -     -        40800 6400 9600 
+belhodis  940620270  2  2 B   -     -     -        44000 3200 4800 
+belhodis  940620273  2  1 Bc  k     b     -        45600 6400 9600 
+belhodis  940620305  2  2 B   -     -     -        48800 3200 4400 Jd 9c
+belhodis  940620404 13  6 crA -     -     -        10000 10000    0 Jh Kc
+belhodis  940628980 22 20 f   -     -     -         5000    0    0 
+belhodis  940629049 21 18 c   f     -     -         5000   50    0 
+belhodis  940629162 20 16 cc  f     -     -         4950  550    0 
+belhodis  940629304 20 16 cc  f     -     -         4400  475    0 
+belhodis  940629386 20 15 cc  cA    -     -         3925 3925    0 Jd Qh
+belhodis  940875757 15 12 c   kf    -     -        10000  100    0 
+belhodis  940875879 13 10 f   -     -     -         9900    0    0 
+belhodis  940875945 11  8 c   k     k     k         9900  100    0 9h 7h
+belhodis  940876009 11  7 f   -     -     -         9800    0    0 
+belhodis  940876059 11  6 c   k     b     -         9800  450  700 
+belhodis  940876100 11  5 c   k     b     -        10050  500  800 
+belhodis  940876165 11  4 c   k     c     bA       10350 10350    0 As Qh
+belhodis  940960651 15 15 f   -     -     -         5000    0    0 
+belhodis  940960771 14 13 c   k     b     -         5000  540  800 
+belhodis  940960963 14 12 c   f     -     -         5260   40    0 
+belhodis  940961068 14 11 f   -     -     -         5220    0    0 
+belhodis  940961133 14 10 cf  -     -     -         5220   80    0 
+belhodis  940961237 14  9 f   -     -     -         5140    0    0 
+belhodis  940961286 14  8 cc  c     -     -         5140 4960 6440 Kh Kd
+belhodis  940961393 13  6 f   -     -     -         6620    0    0 
+belhodis  940961451 12  6 c   kc    kc    -         6620 4240 4690 8h Jc
+belhodis  940961540 12  5 c   kf    -     -         7070  160    0 
+belhodis  940961589 12  4 c   k     bc    bA        6910 6910 9530 
+belhodis  940961678 12  3 c   k     k     k         9530  160    0 Kd 4s
+belhodis  940961736 12  2 Bk  k     k     c         9370  640    0 7d Kh
+belhodis  940961820 12  1 Bf  -     -     -         8730  160    0 
+belhodis  940961865 12 12 f   -     -     -         8570    0    0 
+belhodis  940961894 12 11 f   -     -     -         8570    0    0 
+belhodis  940961925 12 10 c   b     k     f         8570 1320    0 
+belhodis  940961979 12  9 f   -     -     -         7250    0    0 
+belhodis  940961999 12  8 f   -     -     -         7250    0    0 
+belhodis  940962013 12  7 f   -     -     -         7250    0    0 
+belhodis  940962057 12  6 f   -     -     -         7250    0    0 
+belhodis  940962098 12  5 f   -     -     -         7250    0    0 
+belhodis  940962358 12  4 f   -     -     -         7250    0    0 
+belhodis  940962391 12  3 f   -     -     -         7250    0    0 
+belhodis  940962432 12  2 Bf  -     -     -         7250  640    0 
+belhodis  940962447 12  1 Bf  -     -     -         6610  320    0 
+belhodis  940962497 12 12 f   -     -     -         6290    0    0 
+belhodis  940962537 12 11 f   -     -     -         6290    0    0 
+belhodis  940962568 12 10 f   -     -     -         6290    0    0 
+belhodis  940962612 11  9 f   -     -     -         6290    0    0 
+belhodis  940962693 10  8 f   -     -     -         6290    0    0 
+belhodis  940962730  9  7 f   -     -     -         6290    0    0 
+belhodis  940962804  9  6 f   -     -     -         6290    0    0 
+belhodis  940962821  9  5 f   -     -     -         6290    0    0 
+belhodis  940962847  8  3 f   -     -     -         6290    0    0 
+belhodis  940962881  8  3 f   -     -     -         6290    0    0 
+belhodis  940962915  8  2 Bf  -     -     -         6290 1280    0 
+belhodis  940962931  8  1 Bf  -     -     -         5010  640    0 
+belhodis  940962953  8  8 f   -     -     -         4370    0    0 
+belhodis  940962973  8  7 f   -     -     -         4370    0    0 
+belhodis  940963011  8  6 f   -     -     -         4370    0    0 
+belhodis  940963042  8  5 f   -     -     -         4370    0    0 
+belhodis  940963057  8  4 f   -     -     -         4370    0    0 
+belhodis  940963082  8  3 f   -     -     -         4370    0    0 
+belhodis  940963122  8  2 Bf  -     -     -         4370 2560    0 
+belhodis  940963150  6  1 Bf  -     -     -         1810 1280    0 
+belhodis  940963169  6  6 f   -     -     -          530    0    0 
+belhodis  940963201  6  5 f   -     -     -          530    0    0 
+belhodis  940963233  6  4 f   -     -     -          530    0    0 
+belhodis  940963250  6  3 f   -     -     -          530    0    0 
+belhodis  940963255  6  2 BA  -     -     -          530  530    0 5c As
+belhodis  941058232 13  7 f   -     -     -         5000    0    0 
+belhodis  941058285 13  6 f   -     -     -         5000    0    0 
+belhodis  941058331 13  5 c   k     b     -         5000  300  500 
+belhodis  941058386 13  4 cf  -     -     -         5200  300    0 
+belhodis  941058435 13  3 cc  kcA   -     -         4900 4900 5863 Jd Kd
+belhodis  941058474 13  2 Bc  kf    -     -         5863  175    0 
+belhodis  941058532 12  1 Bf  -     -     -         5688   25    0 
+belhodis  941058614 12 12 c   c     c     k         5663 1600    0 Ad 8d
+belhodis  941058727 12 11 f   -     -     -         4063    0    0 
+belhodis  941058799 11  9 f   -     -     -         4063    0    0 
+belhodis  941058842 11  9 f   -     -     -         4063    0    0 
+belhodis  941058886 11  8 c   k     r     b         4063 1200 2600 As 5h
+belhodis  941058998 11  7 f   -     -     -         5463    0    0 
+belhodis  941059069 11  6 f   -     -     -         5463    0    0 
+belhodis  941059129 11  5 f   -     -     -         5463    0    0 
+belhodis  941059196 11  4 f   -     -     -         5463    0    0 
+belhodis  941059267 11  3 c   k     f     -         5463  200    0 
+belhodis  941059317 11  2 Bf  -     -     -         5263  400    0 
+belhodis  941059409  9  1 Bc  k     k     k         4863  400    0 9c 7s
+belhodis  941059498  9  9 c   c     cA    -         4463 4463    0 Js Ac
+belhodis  941141768 13  5 c   k     k     k        10000  100    0 Ts Qd
+belhodis  941141896 13  4 c   kf    -     -         9900  100    0 
+belhodis  941142045 13  3 f   -     -     -         9800    0    0 
+belhodis  941142161 13  2 Bf  -     -     -         9800  200    0 
+belhodis  941142304 13  1 Bc  kf    -     -         9600  200    0 
+belhodis  941142410 13 13 f   -     -     -         9400    0    0 
+belhodis  941142474 13 12 f   -     -     -         9400    0    0 
+belhodis  941142536 13 11 f   -     -     -         9400    0    0 
+belhodis  941142679 13 10 f   -     -     -         9400    0    0 
+belhodis  941142749 13  9 f   -     -     -         9400    0    0 
+belhodis  941142876 13  8 f   -     -     -         9400    0    0 
+belhodis  941142962 10  6 c   b     kf    -         9400 1400    0 
+belhodis  941143082 10  5 c   c     bA    -         8000 8000 18300 Qd Ad
+belhodis  941143160  9  3 c   k     f     -        18300  800    0 
+belhodis  941143239  9  2 Bf  -     -     -        17500  800    0 
+belhodis  941143284  8  1 Bf  -     -     -        16700  400    0 
+belhodis  941143326  8  8 c   k     k     k        16300  800    0 Ah 6s
+belhodis  941143481  8  7 c   k     k     k        15500 1600    0 Qs 6s
+belhodis  941143546  8  6 c   f     -     -        13900 3200    0 
+belhodis  941143598  8  5 f   -     -     -        10700    0    0 
+belhodis  941143685  8  4 f   -     -     -        10700    0    0 
+belhodis  941143786  8  3 f   -     -     -        10700    0    0 
+belhodis  941143840  8  2 Bk  k     b     -        10700 8000 12800 
+belhodis  941143924  8  1 Bf  -     -     -        15500 1600    0 
+belhodis  941143946  8  8 f   -     -     -        13900    0    0 
+belhodis  941143989  6  5 f   -     -     -        13900    0    0 
+belhodis  941144019  6  4 f   -     -     -        13900    0    0 
+belhodis  941144080  6  3 c   c     cA    -        13900 13900 29400 Ks Jc
+belhodis  941144106  6  2 Bk  kf    -     -        29400 3200    0 
+belhodis  941144157  6  1 Bf  -     -     -        26200 1600    0 
+belhodis  941144180  5  5 f   -     -     -        24600    0    0 
+belhodis  941144271  5  4 c   b     k     k        24600 11200 13600 2s Kd
+belhodis  941144324  5  3 f   -     -     -        27000    0    0 
+belhodis  941144343  5  2 Bc  cA    -     -        27000 27000 60400 2c 2s
+belhodis  941144367  5  1 Bc  b     -     -        60400 20800 24650 Qd 5s
+belhodis  941144409  4  4 f   -     -     -        64250    0    0 
+belhodis  941144444  4  3 r   b     -     -        64250 23400 51000 Qs 4d
+belhodis  941144468  3  2 B   -     -     -        91850 6400 9600 
+belhodis  941144477  3  1 Bc  b     -     -        95050 26400 44200 2s 9s
+belhodis  941144494  2  2 Bf  -     -     -       112850 6400    0 
+belhodis  941144504  2  1 Bc  kc    b     -       106450 29200 5650 8h 7h
+belhodis  941144536  2  2 Bk  k     k     k        82900 6400 12800 9d 5h
+belhodis  941144564  2  1 Br  -     -     -        89300 12800 19200 
+belhodis  941144583  2  2 B   -     -     -        95700 6400 9600 
+belhodis  941144587  2  1 Bc  b     kf    -        98900 12800    0 
+belhodis  941144625  2  2 Bk  k     b     -        86100 19200 25600 
+belhodis  941144645  2  1 Bcf -     -     -        92500 6400    0 
+belhodis  941144663  2  2 B   -     -     -        86100 6400 9600 
+belhodis  941144666  2  1 Br  b     -     -        89300 42800 55600 
+belhodis  941144701  2  2 Bk  b     b     -       102100 29200 1300 4d 3h
+belhodis  941144741  2  1 Bf  -     -     -        74200 6400    0 
+belhodis  941144756  2  2 Bk  b     -     -        67800 38400 51200 
+belhodis  941144772  2  1 Bf  -     -     -        80600 6400    0 
+belhodis  941144776  2  2 Bk  f     -     -        74200 12800    0 
+belhodis  941144787  2  1 Bc  b     -     -        61400 38400 51200 
+belhodis  941144802  2  2 Bk  k     k     k        74200 12800    0 3c Td
+belhodis  941144823  2  1 Bc  b     -     -        61400 38400 51200 
+belhodis  941144848  2  2 Br  f     -     -        74200 38400    0 
+belhodis  941144885  2  1 BrA -     -     -        35800 35800 71600 2c Qs
+belhodis  941144896  2  2 B   -     -     -        71600 12800 19200 
+belhodis  941144904  2  1 Bc  k     k     k        78000 12800    0 9h 8c
+belhodis  941144934  2  2 Bk  rA    -     -        65200 65200  400 Qs 5h
+belhodis  941144957  2  1 BA  -     -     -          400  400    0 2c Jc
+belhodis  941145154 20  3 f   -     -     -         5000    0    0 
+belhodis  941145273 20  2 Bk  kf    -     -         5000   40    0 
+belhodis  941145422 17  1 Bc  k     kf    -         4960   40    0 
+belhodis  941145524 17 17 c   f     -     -         4920   80    0 
+belhodis  941145604 17 16 c   f     -     -         4840  280    0 
+belhodis  941145742 17 15 c   c     b     cA        4560 4560    0 Jd Ts

@@ -1,0 +1,439 @@
+prufrock  907615789 10  9 f   -     -     -        10000    0    0 
+prufrock  907615829 10  8 f   -     -     -        10000    0    0 
+prufrock  907615841 10  7 f   -     -     -        10000    0    0 
+prufrock  907615900 10  6 cf  -     -     -        10000   50    0 
+prufrock  907615952 10  5 f   -     -     -         9950    0    0 
+prufrock  907616010 10  4 f   -     -     -         9950    0    0 
+prufrock  907616039 10  3 f   -     -     -         9950    0    0 
+prufrock  907616086 10  2 Bk  kf    -     -         9950   50    0 
+prufrock  907616110 10  1 Bf  -     -     -         9900   25    0 
+prufrock  907616152 10 10 f   -     -     -         9875    0    0 
+prufrock  907616185 10  9 f   -     -     -         9875    0    0 
+prufrock  907616220 10  8 f   -     -     -         9875    0    0 
+prufrock  907616259 10  7 f   -     -     -         9875    0    0 
+prufrock  907616318 10  6 f   -     -     -         9875    0    0 
+prufrock  907616350 10  5 f   -     -     -         9875    0    0 
+prufrock  907616379 10  4 f   -     -     -         9875    0    0 
+prufrock  907616401 10  3 f   -     -     -         9875    0    0 
+prufrock  907616447 10  2 Bk  b     -     -         9875  350  500 
+prufrock  907616467 10  1 Bf  -     -     -        10025   50    0 
+prufrock  907616490 10 10 f   -     -     -         9975    0    0 
+prufrock  907616535 10  9 c   f     -     -         9975  200    0 
+prufrock  907616567 10  8 c   k     k     k         9775  200    0 8c Qc
+prufrock  907616642 10  7 f   -     -     -         9575    0    0 
+prufrock  907616680 10  6 f   -     -     -         9575    0    0 
+prufrock  907616712 10  5 f   -     -     -         9575    0    0 
+prufrock  907616730 10  4 c   k     c     c         9575 2600 5400 9c Tc
+prufrock  907616761 10  3 f   -     -     -        12375    0    0 
+prufrock  907616853 10  2 Bk  kf    -     -        12375  400    0 
+prufrock  907616907  9  1 Bf  -     -     -        11975  200    0 
+prufrock  907616928  9  9 f   -     -     -        11775    0    0 
+prufrock  907616947  9  8 f   -     -     -        11775    0    0 
+prufrock  907616973  9  7 f   -     -     -        11775    0    0 
+prufrock  907617008  9  6 f   -     -     -        11775    0    0 
+prufrock  907617042  9  5 c   f     -     -        11775  400    0 
+prufrock  907617104  9  4 f   -     -     -        11375    0    0 
+prufrock  907617138  8  3 c   kf    -     -        11375  400    0 
+prufrock  907617189  8  2 Bk  b     -     -        10975 4800 8000 
+prufrock  907617234  8  1 Bf  -     -     -        14175  400    0 
+prufrock  907617272  8  8 f   -     -     -        13775    0    0 
+prufrock  907617294  8  7 f   -     -     -        13775    0    0 
+prufrock  907617313  7  5 c   c     b     -        13775 13400 19200 
+prufrock  907617373  7  4 f   -     -     -        19575    0    0 
+prufrock  907617400  7  3 c   k     k     k        19575  800 2800 2h 2c
+prufrock  907617447  7  2 Bf  -     -     -        21575  800    0 
+prufrock  907617505  7  1 Bc  k     k     kf       20775  800    0 
+prufrock  907617552  7  7 r   c     -     -        19975 10550    0 Qc 9c
+prufrock  907617575  7  6 c   f     -     -         9425 1600    0 
+prufrock  907617605  7  5 c   b     -     -         7825 6400 9600 
+prufrock  907617631  7  4 f   -     -     -        11025    0    0 
+prufrock  907617638  7  3 f   -     -     -        11025    0    0 
+prufrock  907617652  7  2 Bf  -     -     -        11025 1600    0 
+prufrock  907617660  7  1 Br  -     -     -         9425 4800 6400 
+prufrock  907617675  7  7 f   -     -     -        11025    0    0 
+prufrock  907617695  7  6 f   -     -     -        11025    0    0 
+prufrock  907617706  7  5 c   k     c     f        11025 6400    0 
+prufrock  907617743  7  4 c   cA    -     -         4625 4625 10850 Th 7h
+prufrock  907617762  7  3 c   k     bcA   -        10850 10850 12050 7d Ad
+prufrock  907617820  7  2 B   -     -     -        12050 1600 2400 
+prufrock  907617834  7  1 Bc  b     -     -        12850 3200 4800 
+prufrock  907617860  7  7 c   k     k     k        14450 1600    0 7h 8h
+prufrock  907617924  7  6 f   -     -     -        12850    0    0 
+prufrock  907617940  7  5 f   -     -     -        12850    0    0 
+prufrock  907617955  7  4 f   -     -     -        12850    0    0 
+prufrock  907617981  6  3 f   -     -     -        12850    0    0 
+prufrock  907617996  6  2 B   -     -     -        12850 3200 4800 
+prufrock  907618012  6  1 Bf  -     -     -        14450 1600    0 
+prufrock  907618026  6  6 r   -     -     -        12850 10900 19475 8h Ad
+prufrock  907618046  4  4 f   -     -     -        21425    0    0 
+prufrock  907618070  3  3 f   -     -     -        21425    0    0 
+prufrock  907618080  3  2 Bk  f     -     -        21425 3200    0 
+prufrock  907618097  3  1 BcA -     -     -        18225 18225    0 3c Ah
+prufrock  908732662 13 11 f   -     -     -        10000    0    0 
+prufrock  908732750 13 10 f   -     -     -        10000    0    0 
+prufrock  908732817 13  9 c   f     -     -        10000   80    0 
+prufrock  908732869 13  8 c   b     b     k         9920 2000 4800 Jd Tc
+prufrock  908732954 13  7 f   -     -     -        12720    0    0 
+prufrock  908733027 13  6 f   -     -     -        12720    0    0 
+prufrock  908733075 13  5 f   -     -     -        12720    0    0 
+prufrock  908733110 13  4 f   -     -     -        12720    0    0 
+prufrock  908733160 13  3 f   -     -     -        12720    0    0 
+prufrock  908733217 13  2 Bk  kf    -     -        12720   80    0 
+prufrock  908733272 13  1 Bc  kf    -     -        12640   80    0 
+prufrock  908733334 13 13 f   -     -     -        12560    0    0 
+prufrock  908733432 12 11 c   k     c     b        12560 1680 3600 Jc Qd
+prufrock  908733515 12 10 f   -     -     -        14480    0    0 
+prufrock  908733540 12  9 c   b     k     k        14480 1200 3120 8h Th
+prufrock  908733606 12  8 f   -     -     -        16400    0    0 
+prufrock  908733679 11  6 f   -     -     -        16400    0    0 
+prufrock  908733769 11  5 f   -     -     -        16400    0    0 
+prufrock  908733852 11  4 f   -     -     -        16400    0    0 
+prufrock  908733933 10  2 B   -     -     -        16400  160  240 
+prufrock  908733952 10  1 Bc  k     kc    kf       16480  800    0 
+prufrock  908734016 10 10 f   -     -     -        15680    0    0 
+prufrock  908734068 10  9 r   b     b     -        15680 5680 7680 
+prufrock  908734116 10  8 f   -     -     -        17680    0    0 
+prufrock  908734218 10  7 f   -     -     -        17680    0    0 
+prufrock  908734253 10  6 f   -     -     -        17680    0    0 
+prufrock  908734317 10  5 f   -     -     -        17680    0    0 
+prufrock  908734353 10  4 f   -     -     -        17680    0    0 
+prufrock  908734399  9  3 cc  kf    -     -        17680  640    0 
+prufrock  908734454  8  2 Bk  k     k     k        17040  320    0 Ad 6s
+prufrock  908734496  8  1 Bc  b     kf    -        16720 1280    0 
+prufrock  908734542  8  8 c   b     -     -        15440 1600 2560 
+prufrock  908734578  8  7 rrA -     -     -        16400 16400 31000 Ad Ah
+prufrock  908734610  7  5 c   f     -     -        31000  320    0 
+prufrock  908734702  7  4 c   k     b     -        30680 1280 1920 
+prufrock  908734749  7  3 f   -     -     -        31320    0    0 
+prufrock  908734780  7  2 Bk  k     b     -        31320  800 1440 
+prufrock  908734820  7  1 Bc  kc    k     k        31960 1760    0 Ts Kh
+prufrock  908734874  7  7 r   -     -     -        30200 1120 1600 
+prufrock  908734893  7  6 f   -     -     -        30680    0    0 
+prufrock  908734918  7  5 f   -     -     -        30680    0    0 
+prufrock  908734939  7  4 f   -     -     -        30680    0    0 
+prufrock  908734967  7  3 f   -     -     -        30680    0    0 
+prufrock  908735003  7  2 Bk  f     -     -        30680  640    0 
+prufrock  908735029  7  1 Br  b     k     k        30040 5760    0 Ts 9c
+prufrock  908735054  7  7 f   -     -     -        24280    0    0 
+prufrock  908735087  7  6 f   -     -     -        24280    0    0 
+prufrock  908735106  7  5 f   -     -     -        24280    0    0 
+prufrock  908735133  7  4 f   -     -     -        24280    0    0 
+prufrock  908735161  7  3 f   -     -     -        24280    0    0 
+prufrock  908735190  6  2 Bk  k     k     k        24280  640    0 2d 6s
+prufrock  908735246  6  1 Bf  -     -     -        23640  320    0 
+prufrock  908735287  6  6 f   -     -     -        23320    0    0 
+prufrock  908735317  6  5 c   f     -     -        23320  640    0 
+prufrock  908735338  6  4 f   -     -     -        22680    0    0 
+prufrock  908735363  6  3 f   -     -     -        22680    0    0 
+prufrock  908735404  6  2 Bc  b     -     -        22680 14080 19200 
+prufrock  908735435  6  1 Bf  -     -     -        27800  640    0 
+prufrock  908735459  6  6 f   -     -     -        27160    0    0 
+prufrock  908735490  6  5 f   -     -     -        27160    0    0 
+prufrock  908735504  6  4 c   k     f     -        27160 1280    0 
+prufrock  908735538  6  3 f   -     -     -        25880    0    0 
+prufrock  908735547  6  2 Bk  b     -     -        25880 5120 7680 
+prufrock  908735574  6  1 Bf  -     -     -        28440  640    0 
+prufrock  908735578  6  6 f   -     -     -        27800    0    0 
+prufrock  908735594  6  5 f   -     -     -        27800    0    0 
+prufrock  908735608  6  4 f   -     -     -        27800    0    0 
+prufrock  908735640  6  3 r   k     b     -        27800 18560 28160 
+prufrock  908735687  6  2 Bk  k     k     k        37400 1280 2560 Qd 7c
+prufrock  908735729  6  1 Bf  -     -     -        38680  640    0 
+prufrock  908735740  6  6 f   -     -     -        38040    0    0 
+prufrock  908735757  6  5 f   -     -     -        38040    0    0 
+prufrock  908735790  6  4 f   -     -     -        38040    0    0 
+prufrock  908735879  6  3 f   -     -     -        38040    0    0 
+prufrock  908735890  6  2 Bf  -     -     -        38040 2560    0 
+prufrock  908735911  6  1 Bf  -     -     -        35480 1280    0 
+prufrock  908735929  5  5 f   -     -     -        34200    0    0 
+prufrock  908735953  5  5 r   -     -     -        34200 8960 12800 
+prufrock  908735968  5  4 cf  -     -     -        38040 2560    0 
+prufrock  908735997  5  3 f   -     -     -        35480    0    0 
+prufrock  908736054  4  2 Bf  -     -     -        35480 2560    0 
+prufrock  908736075  4  1 Bf  -     -     -        32920 1280    0 
+prufrock  908736087  4  4 f   -     -     -        31640    0    0 
+prufrock  908736104  4  3 r   -     -     -        31640 8960 12800 
+prufrock  908736115  4  2 Bf  -     -     -        35480 5120    0 
+prufrock  908736133  4  1 BrA -     -     -        30360 30360 46840 Td Th
+prufrock  908736146  3  3 c   b     -     -        46840 12800 23040 
+prufrock  908736189  3  2 Bf  -     -     -        57080 5120    0 
+prufrock  908736202  3  1 Br  -     -     -        51960 15360 20480 
+prufrock  908736211  3  3 f   -     -     -        57080    0    0 
+prufrock  908736217  3  2 Bk  k     k     b        57080 15360 20480 
+prufrock  908736248  3  1 Brc -     -     -        62200 50680 101360 Qc Ah
+prufrock  908736263  2  2 r   c     -     -       112880 17120 34240 Ac 8c
+prufrock  909070866 10  8 c   kf    -     -        10000   80    0 
+prufrock  909070924 10  7 f   -     -     -         9920    0    0 
+prufrock  909070968 10  6 f   -     -     -         9920    0    0 
+prufrock  909071026 10  5 f   -     -     -         9920    0    0 
+prufrock  909071088 10  4 c   kf    -     -         9920   80    0 
+prufrock  909071134 10  3 f   -     -     -         9840    0    0 
+prufrock  909071193 10  2 Bk  b     bc    kf        9840 5360    0 
+prufrock  909071228 10  1 Bf  -     -     -         4480   80    0 
+prufrock  909071295 10 10 f   -     -     -         4400    0    0 
+prufrock  909071311 10  9 cc  k     f     -         4400  440    0 
+prufrock  909071388 10  8 f   -     -     -         3960    0    0 
+prufrock  909071466 10  7 f   -     -     -         3960    0    0 
+prufrock  909071516 10  6 r   bA    -     -         3960 3960 5880 
+prufrock  909071546 10  5 f   -     -     -         5880    0    0 
+prufrock  909071585 10  4 f   -     -     -         5880    0    0 
+prufrock  909071620 10  3 f   -     -     -         5880    0    0 
+prufrock  909071692 10  2 Bk  kf    -     -         5880  320    0 
+prufrock  909071773 10  1 Br  -     -     -         5560 2560 4900 Qh Qs
+prufrock  909071815  9  9 f   -     -     -         7900    0    0 
+prufrock  909071843  9  9 f   -     -     -         7900    0    0 
+prufrock  909071873  9  8 c   c     rA    -         7900 7900 16440 Ts Qh
+prufrock  909071936  9  7 f   -     -     -        16440    0    0 
+prufrock  909071993  9  6 f   -     -     -        16440    0    0 
+prufrock  909072020  9  5 f   -     -     -        16440    0    0 
+prufrock  909072056  8  3 f   -     -     -        16440    0    0 
+prufrock  909072080  8  2 Bk  b     -     -        16440 4480 6400 
+prufrock  909072108  8  1 Bf  -     -     -        18360  640    0 
+prufrock  909072135  7  7 f   -     -     -        17720    0    0 
+prufrock  909072170  7  6 f   -     -     -        17720    0    0 
+prufrock  909072211  7  5 f   -     -     -        17720    0    0 
+prufrock  909072251  7  4 f   -     -     -        17720    0    0 
+prufrock  909072297  7  3 f   -     -     -        17720    0    0 
+prufrock  909072335  6  2 Bk  b     bA    -        17720 17720 36720 Qd Jd
+prufrock  909072383  6  1 Bc  k     k     kf       36720 2560    0 
+prufrock  909072439  6  6 f   -     -     -        34160    0    0 
+prufrock  909072455  5  4 cc  rA    -     -        34160 34160 58440 4d 4c
+prufrock  909072491  4  3 f   -     -     -        58440    0    0 
+prufrock  909072524  4  3 f   -     -     -        58440    0    0 
+prufrock  909072568  4  2 Bf  -     -     -        58440 2560    0 
+prufrock  909072594  4  1 Bf  -     -     -        55880 1280    0 
+prufrock  909072607  4  4 f   -     -     -        54600    0    0 
+prufrock  909072631  3  2 B   -     -     -        54600 5120 7680 
+prufrock  909072638  3  1 Bf  -     -     -        57160 2560    0 
+prufrock  909072649  3  3 f   -     -     -        54600    0    0 
+prufrock  909072653  3  2 Bf  -     -     -        54600 5120    0 
+prufrock  909072661  3  1 Br  -     -     -        49480 15360 20480 
+prufrock  909072669  3  3 f   -     -     -        54600    0    0 
+prufrock  909072673  3  2 B   -     -     -        54600 5120 7680 
+prufrock  909072676  3  1 Br  -     -     -        57160 15360 20480 
+prufrock  909072682  3  3 r   -     -     -        62280 17920 25600 
+prufrock  909072686  3  2 Bf  -     -     -        69960 5120    0 
+prufrock  909072692  3  1 Bf  -     -     -        64840 2560    0 
+prufrock  909072708  3  3 f   -     -     -        62280    0    0 
+prufrock  909072730  3  2 Bk  k     b     -        62280 16760 19080 Jc 5h
+prufrock  909072750  3  1 Bc  -     -     -        64600 4200 8400 Tc Qh
+prufrock  909072762  2  2 rc  -     -     -        68800 31200 62400 6h As
+prufrock  909073138 14  2 Bf  -     -     -          200    2    0 
+prufrock  909073263 14  1 Bf  -     -     -          198    1    0 
+prufrock  909073413 14 14 f   -     -     -          197    0    0 
+prufrock  909073506 12 11 f   -     -     -          197    0    0 
+prufrock  909073564 12 10 f   -     -     -          197    0    0 
+prufrock  909073621 12  9 f   -     -     -          197    0    0 
+prufrock  909073701 11  8 f   -     -     -          197    0    0 
+prufrock  909073743 11  7 f   -     -     -          197    0    0 
+prufrock  909073802 11  6 f   -     -     -          197    0    0 
+prufrock  909073848 11  5 f   -     -     -          197    0    0 
+prufrock  909073897 11  4 f   -     -     -          197    0    0 
+prufrock  909073938 11  3 f   -     -     -          197    0    0 
+prufrock  909073997 11  2 Br  k     k     b          197   88  120 
+prufrock  909074106 11  1 Bf  -     -     -          229    4    0 
+prufrock  909074122 11 11 c   f     -     -          225    8    0 
+prufrock  909074211 10  9 f   -     -     -          217    0    0 
+prufrock  909074259 10  8 r   b     -     -          217  192  398 Jh Jd
+prufrock  909074306  9  7 f   -     -     -          423    0    0 
+prufrock  909074373  9  6 cc  k     kf    -          423  104    0 
+prufrock  909074412  8  4 f   -     -     -          319    0    0 
+prufrock  909074528  8  3 f   -     -     -          319    0    0 
+prufrock  909074576  8  2 Bk  kf    -     -          319   32    0 
+prufrock  909074613  8  1 Bc  k     k     bA         287  287    0 Ac 5c
+prufrock  909078334  9  3 f   -     -     -         5000    0    0 
+prufrock  909078429  8  2 Bk  k     b     -         5000  180  280 
+prufrock  909078481  8  1 Bf  -     -     -         5100   20    0 
+prufrock  909078534  8  8 c   b     -     -         5080  180  280 
+prufrock  909078590  8  7 f   -     -     -         5180    0    0 
+prufrock  909078649  8  6 c   k     f     -         5180   80    0 
+prufrock  909078703  8  5 f   -     -     -         5100    0    0 
+prufrock  909078760  8  4 f   -     -     -         5100    0    0 
+prufrock  909078785  8  3 f   -     -     -         5100    0    0 
+prufrock  909078838  7  2 Bf  -     -     -         5100   80    0 
+prufrock  909078854  7  1 Bf  -     -     -         5020   40    0 
+prufrock  909078888  7  7 f   -     -     -         4980    0    0 
+prufrock  909078927  7  6 f   -     -     -         4980    0    0 
+prufrock  909078949  7  5 f   -     -     -         4980    0    0 
+prufrock  909078974  7  4 c   rf    -     -         4980  960    0 
+prufrock  909079030  7  3 cc  kc    kc    bA        4020 4020 8280 Ad 4d
+prufrock  909079084  7  2 Bk  kf    -     -         8280  160    0 
+prufrock  909079112  7  1 Bc  k     k     b         8120  800 1280 
+prufrock  909079172  7  7 f   -     -     -         8600    0    0 
+prufrock  909079211  7  6 f   -     -     -         8600    0    0 
+prufrock  909079254  7  5 f   -     -     -         8600    0    0 
+prufrock  909079287  7  4 f   -     -     -         8600    0    0 
+prufrock  909079330  6  3 f   -     -     -         8600    0    0 
+prufrock  909079365  6  2 Bk  brA   -     -         8600 8600 9000 As Js
+prufrock  909079400  6  1 Bf  -     -     -         9000  160    0 
+prufrock  909079456  6  6 f   -     -     -         8840    0    0 
+prufrock  909079520  6  5 c   k     k     k         8840  320  800 Kh 6h
+prufrock  909079551  6  4 f   -     -     -         9320    0    0 
+prufrock  909079571  6  3 f   -     -     -         9320    0    0 
+prufrock  909079581  6  2 Bk  kf    -     -         9320  320    0 
+prufrock  909079619  6  1 Bf  -     -     -         9000  320    0 
+prufrock  909079656  6  6 f   -     -     -         8680    0    0 
+prufrock  909079683  6  5 f   -     -     -         8680    0    0 
+prufrock  909079717  6  4 f   -     -     -         8680    0    0 
+prufrock  909079737  5  2 cf  -     -     -         8680  640    0 
+prufrock  909079760  5  2 Bk  kc    k     kc        8040 4820 9960 Js Ah
+prufrock  909079811  4  1 Bf  -     -     -        13180  320    0 
+prufrock  909079845  4  4 r   b     -     -        12860 7360 10240 
+prufrock  909079890  4  3 f   -     -     -        15740    0    0 
+prufrock  909079911  4  2 Bf  -     -     -        15740  640    0 
+prufrock  909079918  4  1 Bf  -     -     -        15100  320    0 
+prufrock  909079922  4  4 r   c     -     -        14780 6720    0 9h Ac
+prufrock  909079945  4  3 cc  c     -     -         8060 4620    0 8s Kc
+prufrock  909079976  4  2 Bf  -     -     -         3440 1280    0 
+prufrock  909079988  4  1 Bf  -     -     -         2160  640    0 
+prufrock  909080028  4  4 f   -     -     -         1520    0    0 
+prufrock  909080057  4  3 f   -     -     -         1520    0    0 
+prufrock  909080086  4  2 Bf  -     -     -         1520 1280    0 
+prufrock  909080097  4  1 BA  -     -     -          240  240    0 9h Qc
+prufrock  909080806 14  1 Bc  k     kf    -         1500   45    0 
+prufrock  909080922 14 14 f   -     -     -         1455    0    0 
+prufrock  909081033 13 12 f   -     -     -         1455    0    0 
+prufrock  909081113 13 11 f   -     -     -         1455    0    0 
+prufrock  909081154 13 10 f   -     -     -         1455    0    0 
+prufrock  909081198 13  9 f   -     -     -         1455    0    0 
+prufrock  909081256 13  8 c   f     -     -         1455   20    0 
+prufrock  909081336 12  6 f   -     -     -         1435    0    0 
+prufrock  909081440 11  6 f   -     -     -         1435    0    0 
+prufrock  909081515 11  5 f   -     -     -         1435    0    0 
+prufrock  909081547 10  4 f   -     -     -         1435    0    0 
+prufrock  909081594  9  3 f   -     -     -         1435    0    0 
+prufrock  909081726  9  2 Bf  -     -     -         1435   40    0 
+prufrock  909081778  9  1 Br  k     b     -         1395  520  720 
+prufrock  909081833  9  9 f   -     -     -         1595    0    0 
+prufrock  909081865  9  8 f   -     -     -         1595    0    0 
+prufrock  909081924  9  7 f   -     -     -         1595    0    0 
+prufrock  909081988  8  5 f   -     -     -         1595    0    0 
+prufrock  909082028  8  4 f   -     -     -         1595    0    0 
+prufrock  909082048  8  3 cc  cA    -     -         1595 1595 3990 Qh Kd
+prufrock  909082100  8  2 Bk  kc    k     b         3990 1520 2690 2d 3h
+prufrock  909082146  7  1 Bc  kf    -     -         5160  360    0 
+prufrock  909082174  7  7 c   c     f     -         4800  615    0 
+prufrock  909082221  6  5 f   -     -     -         4185    0    0 
+prufrock  909082250  6  5 r   -     -     -         4185  560   40 Qh 9h
+prufrock  909082272  6  4 f   -     -     -         3665    0    0 
+prufrock  909082322  6  3 c   k     k     c         3665  720 1680 7d 6d
+prufrock  909082377  6  2 Bf  -     -     -         4625  160    0 
+prufrock  909082404  6  1 Bc  k     k     bcA       4465 4465    0 3c 3s
+prufrock  909173699 17 13 cf  -     -     -         5000   50    0 
+prufrock  909173785 16 12 f   -     -     -         4950    0    0 
+prufrock  909173823 15 11 f   -     -     -         4950    0    0 
+prufrock  909173870 14  9 f   -     -     -         4950    0    0 
+prufrock  909173918 14  8 f   -     -     -         4950    0    0 
+prufrock  909173997 14  7 f   -     -     -         4950    0    0 
+prufrock  909174045 13  6 c   k     c     k         4950  325    0 9h Td
+prufrock  909174127 13  5 f   -     -     -         4625    0    0 
+prufrock  909174166 13  4 f   -     -     -         4625    0    0 
+prufrock  909174215 13  3 f   -     -     -         4625    0    0 
+prufrock  909174249 13  2 Bk  kf    -     -         4625  100    0 
+prufrock  909174302 12  1 Bc  b     kc    kf        4525 1100    0 
+prufrock  909174354 12 12 f   -     -     -         3425    0    0 
+prufrock  909174425 12 11 f   -     -     -         3425    0    0 
+prufrock  909174515 12 10 cc  f     -     -         3425  800    0 
+prufrock  909174551 12  9 f   -     -     -         2625    0    0 
+prufrock  909174582 12  8 c   kcA   -     -         2625 2625    0 Ts Jd
+prufrock  909176256 11 10 f   -     -     -        10000    0    0 
+prufrock  909176262 11  9 f   -     -     -        10000    0    0 
+prufrock  909176268 11  8 f   -     -     -        10000    0    0 
+prufrock  909176287 11  7 f   -     -     -        10000    0    0 
+prufrock  909176308 11  6 f   -     -     -        10000    0    0 
+prufrock  909176355 10  4 f   -     -     -        10000    0    0 
+prufrock  909176382 10  4 f   -     -     -        10000    0    0 
+prufrock  909176418 10  3 f   -     -     -        10000    0    0 
+prufrock  909176484  9  2 Bf  -     -     -        10000  100    0 
+prufrock  909176510  9  1 Bf  -     -     -         9900   50    0 
+prufrock  909176555  9  9 f   -     -     -         9850    0    0 
+prufrock  909176582  9  8 c   r     cA    -         9850 9850 23100 Ad Qc
+prufrock  909176615  9  7 f   -     -     -        23100    0    0 
+prufrock  909176670  9  6 f   -     -     -        23100    0    0 
+prufrock  909176713  9  5 f   -     -     -        23100    0    0 
+prufrock  909176737  9  4 f   -     -     -        23100    0    0 
+prufrock  909176771  9  3 c   kf    -     -        23100  200    0 
+prufrock  909176823  8  1 Bk  k     k     k        22900  200    0 4d 9s
+prufrock  909176871  8  1 Bf  -     -     -        22700  100    0 
+prufrock  909176915  8  8 f   -     -     -        22600    0    0 
+prufrock  909176950  8  7 f   -     -     -        22600    0    0 
+prufrock  909176990  8  6 f   -     -     -        22600    0    0 
+prufrock  909177034  8  5 c   kf    -     -        22600  400    0 
+prufrock  909177070  8  4 f   -     -     -        22200    0    0 
+prufrock  909177129  8  3 f   -     -     -        22200    0    0 
+prufrock  909177215  8  2 Br  -     -     -        22200 4400 8550 Qc Qd
+prufrock  909177230  7  1 Bf  -     -     -        26350  200    0 
+prufrock  909177259  7  7 f   -     -     -        26150    0    0 
+prufrock  909177275  7  6 f   -     -     -        26150    0    0 
+prufrock  909177309  7  5 f   -     -     -        26150    0    0 
+prufrock  909177345  7  4 c   f     -     -        26150  400    0 
+prufrock  909177370  7  3 f   -     -     -        25750    0    0 
+prufrock  909177396  7  2 Bk  kf    -     -        25750  800    0 
+prufrock  909177426  7  1 Bc  kc    kc    kf       24950 7200    0 
+prufrock  909177470  7  7 f   -     -     -        17750    0    0 
+prufrock  909177506  7  6 f   -     -     -        17750    0    0 
+prufrock  909177546  7  5 f   -     -     -        17750    0    0 
+prufrock  909177576  7  4 f   -     -     -        17750    0    0 
+prufrock  909177620  7  3 f   -     -     -        17750    0    0 
+prufrock  909177657  7  2 Bc  kf    -     -        17750 2800    0 
+prufrock  909177686  7  1 Bc  kf    -     -        14950 3600    0 
+prufrock  909177720  6  6 c   rA    -     -        11350 11350 23500 5h 6h
+prufrock  909177761  6  6 c   b     b     -        23500 17600 28800 
+prufrock  909177810  6  5 c   b     -     -        34700 6400 9600 
+prufrock  909177843  6  4 c   kf    -     -        37900 1600    0 
+prufrock  909177886  6  3 f   -     -     -        36300    0    0 
+prufrock  909177902  6  2 Bk  k     b     -        36300 7200 11200 
+prufrock  909177921  6  1 Bf  -     -     -        40300  800    0 
+prufrock  909177928  6  6 f   -     -     -        39500    0    0 
+prufrock  909177943  6  5 f   -     -     -        39500    0    0 
+prufrock  909177962  6  4 c   b     kc    kc       39500 18350    0 Ad 8d
+prufrock  909178012  6  3 f   -     -     -        21150    0    0 
+prufrock  909178028  6  2 Bf  -     -     -        21150 1600    0 
+prufrock  909178055  5  1 Bf  -     -     -        19550  800    0 
+prufrock  909178075  5  5 f   -     -     -        18750    0    0 
+prufrock  909178110  4  3 f   -     -     -        18750    0    0 
+prufrock  909178137  3  2 Bf  -     -     -        18750 3200    0 
+prufrock  909178149  3  1 Bf  -     -     -        15550 1600    0 
+prufrock  909178151  3  3 r   -     -     -        13950 11200 16000 
+prufrock  909178157  3  2 Bf  -     -     -        18750 3200    0 
+prufrock  909178166  3  1 Bf  -     -     -        15550 1600    0 
+prufrock  909178168  2  2 Bf  -     -     -        13950 3200    0 
+prufrock  909178177  2  1 Bf  -     -     -        10750 1600    0 
+prufrock  909178179  2  2 BcA -     -     -         9150 9150 18300 5d As
+prufrock  909178186  2  1 Bc  k     k     k        18300 3200 6400 9h Ks
+prufrock  909178218  2  2 Bf  -     -     -        21500 3200    0 
+prufrock  909178225  2  1 Bf  -     -     -        18300 1600    0 
+prufrock  909178227  2  2 B   -     -     -        16700 3200 4800 
+prufrock  909178229  2  1 Br  -     -     -        18300 9600 12800 
+prufrock  909178234  2  2 Bf  -     -     -        21500 3200    0 
+prufrock  909178237  2  1 Bf  -     -     -        18300 1600    0 
+prufrock  909178240  2  2 B   -     -     -        16700 3200 4800 
+prufrock  909178243  2  1 Br  -     -     -        18300 9600 12800 
+prufrock  909178250  2  2 B   -     -     -        21500 3200 4800 
+prufrock  909178252  2  1 Bf  -     -     -        23100 1600    0 
+prufrock  909178254  2  2 B   -     -     -        21500 3200 4800 
+prufrock  909178257  2  1 Bf  -     -     -        23100 1600    0 
+prufrock  909178259  2  2 Bf  -     -     -        21500 3200    0 
+prufrock  909178262  2  1 Bf  -     -     -        18300 1600    0 
+prufrock  909178264  2  2 Br  -     -     -        16700 9600 12800 
+prufrock  909178271  2  1 Br  -     -     -        19900 9600 12800 
+prufrock  909178275  2  2 Bf  -     -     -        23100 3200    0 
+prufrock  909178278  2  1 Bf  -     -     -        19900 1600    0 
+prufrock  909178283  2  2 B   -     -     -        18300 3200 4800 
+prufrock  909178286  2  1 Bf  -     -     -        19900 1600    0 
+prufrock  909178294  2  2 Bf  -     -     -        18300 3200    0 
+prufrock  909178300  2  1 Bf  -     -     -        15100 1600    0 
+prufrock  909178308  2  2 Bk  b     bA    -        13500 13500 27000 Js 4h
+prufrock  909178325  2  1 Br  -     -     -        27000 9600 12800 
+prufrock  909178332  2  2 B   -     -     -        30200 3200 4800 
+prufrock  909178334  2  1 Br  -     -     -        31800 9600 12800 
+prufrock  909178338  2  2 B   -     -     -        35000 3200 4800 
+prufrock  909178341  2  1 Br  -     -     -        36600 9600 12800 
+prufrock  909178345  2  2 Bf  -     -     -        39800 3200    0 
+prufrock  909178349  2  1 Bf  -     -     -        36600 1600    0 
+prufrock  909178351  2  2 B   -     -     -        35000 3200 4800 
+prufrock  909178354  2  1 Bf  -     -     -        36600 1600    0 
+prufrock  909178356  2  2 Bf  -     -     -        35000 3200    0 
+prufrock  909178359  2  1 Bf  -     -     -        31800 1600    0 
+prufrock  909178361  2  2 Bc  f     -     -        30200 9600    0 
+prufrock  909178380  2  1 BrcA -     -     -        20600 20600    0 5c Kd

@@ -1,0 +1,148 @@
+^OldSpice 860133203  6  5 f   -     -     -         2000    0    0 
+^OldSpice 860133258  6  4 f   -     -     -         2000    0    0 
+^OldSpice 860133304  6  3 c   r     b     b         2000  410 1135 Qc 4c
+^OldSpice 860133372  6  2 Bk  b     b     c         2725  810    0 9c Jd
+^OldSpice 860133431  6  1 Bc  k     kc    kf        1915  121    0 
+^OldSpice 860133486  6  6 c   k     f     -         1794   10    0 
+^OldSpice 860133544  6  5 c   cc    f     -         1784   60    0 
+^OldSpice 860133609  6  4 c   b     b     b         1724  910 1860 9d Ah
+^OldSpice 860133681  6  3 c   b     b     -         2674  420  590 
+^OldSpice 860133738  6  2 Bk  kc    kf    -         2844  120    0 
+^OldSpice 860133789  6  1 Bc  kc    kc    kf        2724  110    0 
+^OldSpice 860133858  6  6 c   c     c     f         2614  260    0 
+^OldSpice 860133910  6  5 c   c     b     b         2354 1110 1950 
+^OldSpice 860133992  6  4 r   bc    b     bA        3194 3194 8219 8c 8h
+^OldSpice 860134088  4  1 Bk  k     b     b         8219  620    0 2s 3c
+^OldSpice 860134132  4  1 Bc  kc    kf    -         7599   70    0 
+^OldSpice 860134173  4  4 c   c     k     k         7529   90    0 Js 6c
+^OldSpice 860134217  4  3 c   kf    -     -         7439   40    0 
+^OldSpice 860134250  4  2 Bf  -     -     -         7399   40    0 
+^OldSpice 860134310  4  1 Bcc kf    -     -         7359  140    0 
+^OldSpice 860134359  4  4 f   -     -     -         7219    0    0 
+^OldSpice 860134419  4  3 c   c     k     b         7219  380  420 9d Qs
+^OldSpice 860134462  4  2 Bk  kc    kc    kf        7259  201    0 
+^OldSpice 860134521  4  1 Bf  -     -     -         7058   20    0 
+^OldSpice 860134593  4  4 f   -     -     -         7038    0    0 
+^OldSpice 860134612  4  3 f   -     -     -         7038    0    0 
+^OldSpice 860134628  4  2 Bk  c     k     k         7038  160  160 As 7h
+^OldSpice 860134662  4  1 Bc  b     -     -         7038  280  558 Ac Th
+^OldSpice 860134683  3  3 f   -     -     -         7316    0    0 
+^OldSpice 860134696  3  3 cc  f     -     -         7316  480    0 
+^OldSpice 860134719  3  2 Bk  kc    bc    kc        6836 2354    0 7c 2h
+^OldSpice 860134780  3  1 Bc  k     k     k         4482   80  160 3s Kc
+^OldSpice 860134808  3  3 c   f     -     -         4562  160    0 
+^OldSpice 860134830  3  2 Bc  k     k     k         4402  320    0 8s 6h
+^OldSpice 860134851  3  1 Bcc kc    k     k         4082  760  760 2c Jc
+^OldSpice 860134886  3  3 cf  -     -     -         4082  160    0 
+^OldSpice 860134903  3  2 Bk  c     f     -         3922 1160    0 
+^OldSpice 860134931  3  1 Bc  k     k     kf        2762  160    0 
+^OldSpice 860134963  3  3 c   c     c     k         2602 1060    0 5d 5h
+^OldSpice 860134996  3  2 Bk  k     c     bA        1542 1542    0 7s 9h
+^OldSpice 860469226 12  4 cf  -     -     -         2500   20    0 
+^OldSpice 860469272 12  3 cc  kc    bc    kc        2480  360    0 4d 5h
+^OldSpice 860469328 12  2 Bk  c     k     c         2120  220    0 Kc Jh
+^OldSpice 860469401 12  1 Bc  kc    kc    k         1900  890 1820 Ah As
+^OldSpice 860469472 12 12 c   c     c     k         2830  670    0 9h 9d
+^OldSpice 860469555 12 11 c   f     -     -         2160   90    0 
+^OldSpice 860469651 12 10 c   f     -     -         2070   40    0 
+^OldSpice 860469759 11  8 c   k     kc    kf        2030  240    0 
+^OldSpice 860469948 10  6 f   -     -     -         1790    0    0 
+^OldSpice 860470011 10  5 c   c     f     -         1790  240    0 
+^OldSpice 860470068 10  4 f   -     -     -         1550    0    0 
+^OldSpice 860470111 10  3 f   -     -     -         1550    0    0 
+^OldSpice 860470187 10  2 Bf  -     -     -         1550   80    0 
+^OldSpice 860470235 10  1 Bf  -     -     -         1470   40    0 
+^OldSpice 860470346 10 10 c   c     cA    -         1430 1430    0 7s Ts
+^OldSpice 860708418  7  1 Bf  -     -     -         2500   10    0 
+^OldSpice 860708462  7  7 f   -     -     -         2490    0    0 
+^OldSpice 860708503  7  6 f   -     -     -         2490    0    0 
+^OldSpice 860708559  7  5 f   -     -     -         2490    0    0 
+^OldSpice 860708596  7  4 f   -     -     -         2490    0    0 
+^OldSpice 860708626  7  3 f   -     -     -         2490    0    0 
+^OldSpice 860708644  7  2 Bf  -     -     -         2490   20    0 
+^OldSpice 860708659  7  1 Bf  -     -     -         2470   10    0 
+^OldSpice 860708730  7  7 f   -     -     -         2460    0    0 
+^OldSpice 860708763  7  6 f   -     -     -         2460    0    0 
+^OldSpice 860708836  7  5 f   -     -     -         2460    0    0 
+^OldSpice 860708916  7  4 f   -     -     -         2460    0    0 
+^OldSpice 860708922  7  3 f   -     -     -         2460    0    0 
+^OldSpice 860708961  7  2 Bf  -     -     -         2460   40    0 
+^OldSpice 860708979  7  1 Bf  -     -     -         2420   20    0 
+^OldSpice 860709064  7  7 f   -     -     -         2400    0    0 
+^OldSpice 860709093  7  6 f   -     -     -         2400    0    0 
+^OldSpice 860709103  7  5 f   -     -     -         2400    0    0 
+^OldSpice 860709145  7  4 f   -     -     -         2400    0    0 
+^OldSpice 860709174  7  3 f   -     -     -         2400    0    0 
+^OldSpice 860709189  6  2 Bk  kf    -     -         2400   80    0 
+^OldSpice 860709389  6  1 Bf  -     -     -         2320   80    0 
+^OldSpice 860709422  6  6 f   -     -     -         2240    0    0 
+^OldSpice 860709451  6  5 f   -     -     -         2240    0    0 
+^OldSpice 860709483  6  4 f   -     -     -         2240    0    0 
+^OldSpice 860709514  6  3 f   -     -     -         2240    0    0 
+^OldSpice 860709580  6  2 Bk  kf    -     -         2240  160    0 
+^OldSpice 860709638  6  1 Bf  -     -     -         2080   80    0 
+^OldSpice 860709658  6  6 f   -     -     -         2000    0    0 
+^OldSpice 860709709  6  5 f   -     -     -         2000    0    0 
+^OldSpice 860709771  6  4 f   -     -     -         2000    0    0 
+^OldSpice 860709808  6  3 f   -     -     -         2000    0    0 
+^OldSpice 860709821  6  2 Bf  -     -     -         2000  320    0 
+^OldSpice 860709834  6  1 Bf  -     -     -         1680  160    0 
+^OldSpice 860709899  6  6 f   -     -     -         1520    0    0 
+^OldSpice 860709932  6  5 f   -     -     -         1520    0    0 
+^OldSpice 860709953  6  4 f   -     -     -         1520    0    0 
+^OldSpice 860709970  6  3 f   -     -     -         1520    0    0 
+^OldSpice 860710010  6  2 Bf  -     -     -         1520  320    0 
+^OldSpice 860710027  6  1 Bf  -     -     -         1200  320    0 
+^OldSpice 860710085  6  6 f   -     -     -          880    0    0 
+^OldSpice 860710125  6  5 f   -     -     -          880    0    0 
+^OldSpice 860710161  6  4 f   -     -     -          880    0    0 
+^OldSpice 860710184  6  3 f   -     -     -          880    0    0 
+^OldSpice 860710210  5  2 B   -     -     -          880  640  960 
+^OldSpice 860710294  5  1 Bf  -     -     -         1200  320    0 
+^OldSpice 860710333  5  5 f   -     -     -          880    0    0 
+^OldSpice 860710349  5  4 f   -     -     -          880    0    0 
+^OldSpice 860710407  5  3 f   -     -     -          880    0    0 
+^OldSpice 860710460  4  1 BA  -     -     -          880  880    0 9c 9s
+^OldSpice 860719398  7  1 Bc  kf    -     -         2500   10    0 
+^OldSpice 860719469  6  6 c   b     k     b         2490  210  340 
+^OldSpice 860719529  6  5 c   c     c     c         2620  160    0 6c 5d
+^OldSpice 860719612  6  4 c   f     -     -         2460   10    0 
+^OldSpice 860719705  6  3 f   -     -     -         2450    0    0 
+^OldSpice 860719765  6  2 Br  cf    -     -         2450  220    0 
+^OldSpice 860719831  6  1 Bc  k     k     b         2230  120  180 
+^OldSpice 860719893  6  6 c   c     b     bA        2290 2290 2800 
+^OldSpice 860719952  6  5 c   f     -     -         2800   20    0 
+^OldSpice 860720011  6  4 c   kf    -     -         2780   40    0 
+^OldSpice 860720059  6  3 cc  f     -     -         2740  120    0 
+^OldSpice 860720142  6  2 Bk  kc    kf    -         2620  190    0 
+^OldSpice 860720218  6  1 Bf  -     -     -         2430   20    0 
+^OldSpice 860720259  6  6 c   b     c     k         2410  190    0 4c Qh
+^OldSpice 860720333  6  5 f   -     -     -         2220    0    0 
+^OldSpice 860720361  5  3 c   bc    f     -         2220  580    0 
+^OldSpice 860720405  5  3 f   -     -     -         1640    0    0 
+^OldSpice 860720435  5  2 Bf  -     -     -         1640   80    0 
+^OldSpice 860720451  5  1 Bf  -     -     -         1560   40    0 
+^OldSpice 860720471  5  5 c   f     -     -         1520   80    0 
+^OldSpice 860720510  5  4 f   -     -     -         1440    0    0 
+^OldSpice 860720548  5  3 f   -     -     -         1440    0    0 
+^OldSpice 860720568  5  2 Bk  c     k     kf        1440  160    0 
+^OldSpice 860720635  5  1 Bc  kc    kcA   -         1280 1280    0 9h 8h
+^OldSpice 860729823  6  2 Bc  kf    -     -         3500   24    0 
+^OldSpice 860729880  6  1 Bc  kf    -     -         3476   12    0 
+^OldSpice 860729929  6  6 c   k     r     -         3464  212  272 
+^OldSpice 860729993  6  5 c   f     -     -         3524   12    0 
+^OldSpice 860730081  6  4 cc  f     -     -         3512   60    0 
+^OldSpice 860730159  6  3 c   kf    -     -         3452   24    0 
+^OldSpice 860730249  6  2 Bk  k     k     k         3428   24    0 2d Qd
+^OldSpice 860730325  6  1 Bcc kf    -     -         3404  120    0 
+^OldSpice 860730456  6  6 c   k     k     b         3284  124    0 Th As
+^OldSpice 860730501  6  5 f   -     -     -         3160    0    0 
+^OldSpice 860730545  6  4 f   -     -     -         3160    0    0 
+^OldSpice 860730618  6  3 c   b     k     k         3160   98  268 8h Js
+^OldSpice 860730662  6  2 Bk  b     b     bA        3330 3330 3702 
+^OldSpice 860730705  6  1 Bc  bc    bc    kc        3702 2976    0 6d 2d
+^OldSpice 860730835  6  6 f   -     -     -          726    0    0 
+^OldSpice 860730884  6  5 c   k     bA    -          726  726 1158 
+^OldSpice 860730954  6  4 f   -     -     -         1158    0    0 
+^OldSpice 860730991  6  3 f   -     -     -         1158    0    0 
+^OldSpice 860731023  6  2 Bc  kc    kc    kcA       1158 1158    0 Ks Qd

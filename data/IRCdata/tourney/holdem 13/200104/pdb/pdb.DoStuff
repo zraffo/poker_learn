@@ -1,0 +1,926 @@
+DoStuff   986101706  9  3 c   k     b     -        10000  225  350 
+DoStuff   986101752  9  2 Bk  kf    -     -        10125   50    0 
+DoStuff   986101830  9  1 Bf  -     -     -        10075   25    0 
+DoStuff   986101856  5  5 f   -     -     -        10050    0    0 
+DoStuff   986101872  5  4 c   f     -     -        10050   50    0 
+DoStuff   986101916  5  3 f   -     -     -        10000    0    0 
+DoStuff   986101942  5  2 Bf  -     -     -        10000   50    0 
+DoStuff   986101974  5  1 Br  b     b     -         9950 5375 7200 
+DoStuff   986101996  5  5 c   c     k     k        11775  275    0 5h 5s
+DoStuff   986102032  5  4 c   c     bc    k        11500 2600 5400 Ah Jc
+DoStuff   986102084  5  3 f   -     -     -        14300    0    0 
+DoStuff   986102104  5  2 Bc  b     k     brA      14300 14300 31075 9s As
+DoStuff   986102164  4  1 Bf  -     -     -        31075   50    0 
+DoStuff   986102187  4  4 f   -     -     -        31025    0    0 
+DoStuff   986102211  3  2 c   f     -     -        31025  100    0 
+DoStuff   986102227  3  2 Bc  k     c     c        30925 2700 5400 Td 8h
+DoStuff   986102251  2  1 Bc  b     -     -        33625  300  400 
+DoStuff   986102266  2  2 Bk  k     k     b        33725  300  600 9d Jd
+DoStuff   986102284  2  1 Bf  -     -     -        34025   50    0 
+DoStuff   986102289  2  2 Bk  -     -     -        33975  100  200 
+DoStuff   986102298  2  1 Bc  bf    -     -        34075  300    0 
+DoStuff   986102318  2  2 Bf  -     -     -        33775  100    0 
+DoStuff   986102325  2  1 Bc  k     b     -        33675  300  400 
+DoStuff   986102339  2  2 Bk  k     k     bc       33775 2300    0 6c Kd
+DoStuff   986102360  2  1 Bc  k     k     b        31475  300  600 Kh Kc
+DoStuff   986102377  2  2 Bc  b     k     k        31775  900    0 2d 3d
+DoStuff   986102402  2  1 Bf  -     -     -        30875   50    0 
+DoStuff   986102407  2  2 Bk  k     b     k        30825  300    0 7d 4d
+DoStuff   986102421  2  1 Bf  -     -     -        30525   50    0 
+DoStuff   986102427  2  2 Bc  c     f     -        30475  900    0 
+DoStuff   986102444  2  1 Bc  b     -     -        29575  300  400 
+DoStuff   986102458  2  2 Bc  k     k     f        29675  600    0 
+DoStuff   986102478  2  1 Bc  k     k     kf       29075  200    0 
+DoStuff   986102499  2  2 Bk  b     -     -        28875  600  800 
+DoStuff   986102515  2  1 Bc  k     -     -        29075  200  400 
+DoStuff   986102523  2  2 B   -     -     -        29275  200  300 
+DoStuff   986102525  2  1 Bc  b     b     -        29375 1800 2400 
+DoStuff   986102542  2  2 Bf  -     -     -        29975  200    0 
+DoStuff   986102545  2  1 Bf  -     -     -        29775  100    0 
+DoStuff   986102547  2  2 Bk  k     b     -        29675  600  800 
+DoStuff   986102561  2  1 Bc  k     k     -        29875  200  400 
+DoStuff   986102575  2  2 Bk  b     k     b        30075 1800 2400 
+DoStuff   986102596  2  1 Bc  k     k     k        30675  200    0 5h Th
+DoStuff   986102615  2  2 B   -     -     -        30475  200  300 
+DoStuff   986102620  2  1 Bf  -     -     -        30575  100    0 
+DoStuff   986102623  2  2 Bf  -     -     -        30475  200    0 
+DoStuff   986102628  2  1 Bf  -     -     -        30275  100    0 
+DoStuff   986102631  2  2 Bk  b     -     -        30175  600  800 
+DoStuff   986102642  2  1 Bc  b     -     -        30375  600  800 
+DoStuff   986102650  2  2 B   -     -     -        30575  200  300 
+DoStuff   986102654  2  1 Bc  k     k     -        30675  200  400 
+DoStuff   986102670  2  2 Bc  b     -     -        30875 1800 2400 
+DoStuff   986102684  2  1 Bf  -     -     -        31475  100    0 
+DoStuff   986102687  2  2 Bk  k     k     c        31375  600    0 9h Ad
+DoStuff   986102701  2  1 Bc  k     kc    kf       30775  600    0 
+DoStuff   986102724  2  2 Bc  f     -     -        30175  600    0 
+DoStuff   986102737  2  1 Bc  k     b     b        29575 1800 3600 9s 8s
+DoStuff   986102753  2  2 B   -     -     -        31375  200  300 
+DoStuff   986102760  2  1 Bc  b     b     k        31475 1800    0 9h Qh
+DoStuff   986102779  2  2 Bk  k     b     -        29675  600  800 
+DoStuff   986102792  2  1 Bc  kc    kc    k        29875 1800 3600 9s Qs
+DoStuff   986102811  2  2 Bf  -     -     -        31675  200    0 
+DoStuff   986102816  2  1 Bc  k     b     b        31475 1800 2400 
+DoStuff   986102832  2  2 B   -     -     -        32075  400  600 
+DoStuff   986102834  2  1 Bcc b     -     -        32275 3600 4800 
+DoStuff   986102849  2  2 Bk  k     b     -        33475 1200 1600 
+DoStuff   986102862  2  1 Bc  k     k     k        33875  400    0 8h 5s
+DoStuff   986102880  2  2 Bk  k     c     k        33475 1200    0 8s 7s
+DoStuff   986102899  2  1 Bf  -     -     -        32275  200    0 
+DoStuff   986102904  2  2 Bk  b     b     k        32075 3600 7200 Td Kh
+DoStuff   986102924  2  1 Bc  k     k     -        35675  400  800 
+DoStuff   986102941  2  2 Bc  c     b     k        36075 10800    0 9d 6c
+DoStuff   986102962  2  1 Bf  -     -     -        25275  200    0 
+DoStuff   986102968  2  2 B   -     -     -        25075  400  600 
+DoStuff   986102971  2  1 Bc  k     k     b        25275 1200 1600 
+DoStuff   986102988  2  2 B   -     -     -        25675  400  600 
+DoStuff   986102990  2  1 Bc  k     kf    -        25875  400    0 
+DoStuff   986103003  2  2 Bk  b     b     b        25475 10800    0 9d 5d
+DoStuff   986103022  2  1 Bc  b     -     -        14675 1200 1600 
+DoStuff   986103038  2  2 Bk  k     b     -        15075 1200 1600 
+DoStuff   986103050  2  1 Bc  k     bc    kf       15475 3600    0 
+DoStuff   986103072  2  2 Bk  b     -     -        11875 1200 1600 
+DoStuff   986103084  2  1 Bc  k     b     -        12275 1200 1600 
+DoStuff   986103097  2  2 Bk  k     k     -        12675  400  800 
+DoStuff   986103111  2  1 Bf  -     -     -        13075  200    0 
+DoStuff   986103115  2  2 Bk  b     k     k        12875 1200 2400 4c 4d
+DoStuff   986103133  2  1 Bc  b     -     -        14075 1200 1600 
+DoStuff   986103144  2  2 B   -     -     -        14475  400  600 
+DoStuff   986103146  2  1 Bf  -     -     -        14675  200    0 
+DoStuff   986103148  2  2 Bk  k     b     -        14475 1200 1600 
+DoStuff   986103160  2  1 Bc  b     k     b        14875 3600 4800 
+DoStuff   986103177  2  2 B   -     -     -        16075  400  600 
+DoStuff   986103179  2  1 Bf  -     -     -        16275  200    0 
+DoStuff   986103180  2  2 Bc  c     f     -        16075 3600    0 
+DoStuff   986103190  2  1 Bf  -     -     -        12475  200    0 
+DoStuff   986103193  2  2 B   -     -     -        12275  800 1200 
+DoStuff   986103201  2  1 Bc  k     k     k        12675  800    0 7c Ks
+DoStuff   986103214  2  2 Bk  k     k     k        11875  800 1600 Ad Js
+DoStuff   986103232  2  1 Bc  k     bcA   -        12675 12675    0 2h Kh
+DoStuff   986103662 10  6 f   -     -     -        10000    0    0 
+DoStuff   986103745 10  5 c   b     k     b        10000 1300 2000 
+DoStuff   986103830 10  4 cc  k     k     k        10700  275  900 Td Ks
+DoStuff   986103876 10  3 f   -     -     -        11325    0    0 
+DoStuff   986103913 10  2 Bk  kc    f     -        11325  300    0 
+DoStuff   986104022 10  1 Bc  b     k     b        11025 2100 3200 
+DoStuff   986104082 10 10 c   c     f     -        12125  600    0 
+DoStuff   986104156 10  9 f   -     -     -        11525    0    0 
+DoStuff   986104256 10  8 c   k     k     f        11525  100    0 
+DoStuff   986104367 10  7 c   k     k     kf       11425  100    0 
+DoStuff   986104490 10  6 f   -     -     -        11325    0    0 
+DoStuff   986104587 10  5 c   k     kf    -        11325  200    0 
+DoStuff   986104628 10  4 f   -     -     -        11125    0    0 
+DoStuff   986104661 10  3 c   k     k     k        11125  200  350 Kc 2c
+DoStuff   986104741 10  2 Bk  k     kf    -        11275  200    0 
+DoStuff   986104826 10  1 Bc  k     k     k        11075  200    0 Tc Ad
+DoStuff   986104952 10 10 f   -     -     -        10875    0    0 
+DoStuff   986105005 10  9 c   k     k     f        10875  400    0 
+DoStuff   986105101 10  8 c   b     f     -        10475 2800    0 
+DoStuff   986105211 10  7 f   -     -     -         7675    0    0 
+DoStuff   986105282  9  5 f   -     -     -         7675    0    0 
+DoStuff   986105382  9  4 c   k     k     kf        7675  800    0 
+DoStuff   986105476  8  3 f   -     -     -         6875    0    0 
+DoStuff   986105508  7  2 Bk  k     kf    -         6875  800    0 
+DoStuff   986105593  7  1 Bc  k     k     k         6075  800    0 7s 6h
+DoStuff   986105661  7  7 f   -     -     -         5275    0    0 
+DoStuff   986105702  7  6 f   -     -     -         5275    0    0 
+DoStuff   986105730  7  5 f   -     -     -         5275    0    0 
+DoStuff   986105774  7  4 f   -     -     -         5275    0    0 
+DoStuff   986105811  7  3 f   -     -     -         5275    0    0 
+DoStuff   986105844  7  2 Bf  -     -     -         5275 1600    0 
+DoStuff   986105870  7  1 Bf  -     -     -         3675  800    0 
+DoStuff   986105914  7  7 f   -     -     -         2875    0    0 
+DoStuff   986105954  7  6 rA  -     -     -         2875 2875 1350 Ac Kh
+DoStuff   986105985  7  5 cA  -     -     -         1350 1350    0 8c Jc
+DoStuff   986251039 12 12 f   -     -     -        10000    0    0 
+DoStuff   986251159 12 11 f   -     -     -        10000    0    0 
+DoStuff   986251243 12 10 c   b     k     k        10000  275    0 Ah Ks
+DoStuff   986251313 12  9 cf  -     -     -         9725   50    0 
+DoStuff   986251399 12  8 cf  -     -     -         9675  100    0 
+DoStuff   986251461 12  7 cf  -     -     -         9575  100    0 
+DoStuff   986251534 12  6 f   -     -     -         9475    0    0 
+DoStuff   986251597 12  5 f   -     -     -         9475    0    0 
+DoStuff   986251641 12  4 c   k     f     -         9475  100    0 
+DoStuff   986251714 12  3 cc  kc    k     k         9375 1175 2900 Ad 5d
+DoStuff   986251771 12  2 Bk  b     b     k        11100 4700    0 9s Qd
+DoStuff   986251825 11  1 Bf  -     -     -         6400  100    0 
+DoStuff   986251885  9  9 c   c     f     -         6300  900    0 
+DoStuff   986251929  9  8 cc  k     k     b         5400 3400 4800 
+DoStuff   986252008  9  7 f   -     -     -         6800    0    0 
+DoStuff   986252033  8  6 f   -     -     -         6800    0    0 
+DoStuff   986252080  8  5 f   -     -     -         6800    0    0 
+DoStuff   986252128  8  4 f   -     -     -         6800    0    0 
+DoStuff   986252178  8  3 f   -     -     -         6800    0    0 
+DoStuff   986252210  7  2 Bk  k     kf    -         6800  400    0 
+DoStuff   986252249  7  1 Bf  -     -     -         6400  200    0 
+DoStuff   986252296  7  7 f   -     -     -         6200    0    0 
+DoStuff   986252340  7  6 f   -     -     -         6200    0    0 
+DoStuff   986252391  7  5 f   -     -     -         6200    0    0 
+DoStuff   986252451  7  4 f   -     -     -         6200    0    0 
+DoStuff   986252465  7  3 cc  cA    -     -         6200 6200 13200 Kh Ts
+DoStuff   986252488  7  2 Bk  k     k     k        13200  800    0 Ts 6d
+DoStuff   986252546  7  1 Bc  k     k     k        12400  800 2400 Tc Jc
+DoStuff   986252601  7  7 f   -     -     -        14000    0    0 
+DoStuff   986252649  7  6 c   c     cA    -        14000 14000 29600 3h Ac
+DoStuff   986252701  7  5 f   -     -     -        29600    0    0 
+DoStuff   986252718  7  4 c   b     -     -        29600 4800 2850 Js Ac
+DoStuff   986252805  7  3 f   -     -     -        27650    0    0 
+DoStuff   986252909  7  2 Bc  kc    k     kf       27650 7100    0 
+DoStuff   986252959  6  1 Bf  -     -     -        20550 1600    0 
+DoStuff   986253021  6  6 f   -     -     -        18950    0    0 
+DoStuff   986253059  6  5 f   -     -     -        18950    0    0 
+DoStuff   986253078  6  4 f   -     -     -        18950    0    0 
+DoStuff   986253125  6  3 f   -     -     -        18950    0    0 
+DoStuff   986253181  6  2 Bc  -     -     -        18950 10500    0 4s Ts
+DoStuff   986253208  6  1 Bc  k     bA    -         8450 8450 20100 Td Qd
+DoStuff   986253268  6  6 ccA -     -     -        20100 20100    0 9d Td
+DoStuff   986266131 18  9 f   -     -     -        10000    0    0 
+DoStuff   986266262 17  7 c   f     -     -        10000   50    0 
+DoStuff   986266388 15  5 f   -     -     -         9950    0    0 
+DoStuff   986266500 15  4 c   kc    kc    kf        9950  750    0 
+DoStuff   986266642 15  3 f   -     -     -         9200    0    0 
+DoStuff   986266664 15  2 Bcc kf    -     -         9200 2050    0 
+DoStuff   986266777 15  1 Bc  kf    -     -         7150  450    0 
+DoStuff   986266866 15 15 f   -     -     -         6700    0    0 
+DoStuff   986266918 15 14 f   -     -     -         6700    0    0 
+DoStuff   986267025 14 12 f   -     -     -         6700    0    0 
+DoStuff   986267147 14 11 f   -     -     -         6700    0    0 
+DoStuff   986267260 14 10 f   -     -     -         6700    0    0 
+DoStuff   986267294 14  9 c   f     -     -         6700  200    0 
+DoStuff   986267377 13  7 c   b     k     c         6500 3800    0 Tc Td
+DoStuff   986267481 13  6 ccA -     -     -         2700 2700 12200 9h Qs
+DoStuff   986267591 13  5 f   -     -     -        12200    0    0 
+DoStuff   986267676 13  4 c   kf    -     -        12200  400    0 
+DoStuff   986267763 13  3 c   kf    -     -        11800  400    0 
+DoStuff   986267848 13  2 Bk  b     -     -        11400 1800 2800 
+DoStuff   986267914 13  1 Bf  -     -     -        12400  200    0 
+DoStuff   986268016 12 12 f   -     -     -        12200    0    0 
+DoStuff   986268117 12 11 f   -     -     -        12200    0    0 
+DoStuff   986268178 11  9 f   -     -     -        12200    0    0 
+DoStuff   986268266 10  8 f   -     -     -        12200    0    0 
+DoStuff   986268378 10  7 f   -     -     -        12200    0    0 
+DoStuff   986268418 10  6 c   c     k     k        12200 2000    0 4s Ts
+DoStuff   986268528 10  5 cc  kcA   -     -        10200 10200 21600 7h As
+DoStuff   986268593 10  4 f   -     -     -        21600    0    0 
+DoStuff   986268630 10  3 f   -     -     -        21600    0    0 
+DoStuff   986268710 10  2 B   -     -     -        21600 1600  225 Td 2c
+DoStuff   986268744 10  1 Bc  b     -     -        20225 7750 6900 Qs Qd
+DoStuff   986268797 10 10 c   k     k     k        19375 1600 2800 Ks 6c
+DoStuff   986268893 10  9 c   k     c     -        20575 3550    0 As 9c
+DoStuff   986268987 10  8 c   f     -     -        17025 1600    0 
+DoStuff   986269040 10  7 f   -     -     -        15425    0    0 
+DoStuff   986269112 10  6 cc  krA   -     -        15425 15425    0 Jc 7c
+DoStuff   986333563  7  1 Bf  -     -     -        10000   25    0 
+DoStuff   986333739  7  7 f   -     -     -         9975    0    0 
+DoStuff   986333766  7  6 c   k     k     f         9975  225    0 
+DoStuff   986333808  7  5 f   -     -     -         9750    0    0 
+DoStuff   986333834  7  4 f   -     -     -         9750    0    0 
+DoStuff   986333855  7  3 cc  k     k     k         9750  225    0 Qs 9c
+DoStuff   986333910  7  2 Bc  c     f     -         9525 1600    0 
+DoStuff   986333948  7  1 Bc  k     k     k         7925  100  300 As Qh
+DoStuff   986333988  7  7 f   -     -     -         8125    0    0 
+DoStuff   986334027  7  6 f   -     -     -         8125    0    0 
+DoStuff   986334063  7  5 f   -     -     -         8125    0    0 
+DoStuff   986334115  7  4 f   -     -     -         8125    0    0 
+DoStuff   986334152  7  3 f   -     -     -         8125    0    0 
+DoStuff   986334182  7  2 Bk  c     k     b         8125  900 1200 
+DoStuff   986334219  7  1 Bf  -     -     -         8425   50    0 
+DoStuff   986334258  6  6 f   -     -     -         8375    0    0 
+DoStuff   986334293  6  5 f   -     -     -         8375    0    0 
+DoStuff   986334337  6  4 c   k     k     k         8375  700    0 8c Js
+DoStuff   986334376  6  3 crA -     -     -         7675 7675    0 Ah 2h
+DoStuff   986369133 18 17 f   -     -     -        10000    0    0 
+DoStuff   986369228 18 16 c   f     -     -        10000  225    0 
+DoStuff   986369378 18 15 f   -     -     -         9775    0    0 
+DoStuff   986369418 18 14 c   b     k     k         9775 4325 11175 Th Tc
+DoStuff   986369538 18 13 c   c     c     f        16625  700    0 
+DoStuff   986369667 18 12 rc  -     -     -        15925 10000 39575 Qc Qh
+DoStuff   986369711 15  9 f   -     -     -        45500    0    0 
+DoStuff   986369773 15  8 f   -     -     -        45500    0    0 
+DoStuff   986369858 15  7 f   -     -     -        45500    0    0 
+DoStuff   986369946 14  5 cc  b     -     -        45500 31928 58529 Ad 9d
+DoStuff   986370099 11  3 c   k     c     f        72101  300    0 
+DoStuff   986370200 10  1 Bk  k     b     b        71801 1800 2400 
+DoStuff   986370259 10  1 Bc  b     b     -        72401 4200  338 Ks 6h
+DoStuff   986370293 10 10 cc  k     f     -        68539 5200    0 
+DoStuff   986370355 10  9 c   kc    kf    -        63339 1600    0 
+DoStuff   986370447  9  8 f   -     -     -        61739    0    0 
+DoStuff   986370497  9  7 f   -     -     -        61739    0    0 
+DoStuff   986370540  9  6 f   -     -     -        61739    0    0 
+DoStuff   986370584  9  5 c   k     k     k        61739  400    0 Qc Kh
+DoStuff   986370628  9  4 f   -     -     -        61339    0    0 
+DoStuff   986370650  9  3 cc  c     c     -        61339 6050    0 Qd Kc
+DoStuff   986370686  9  2 Bc  kc    kc    -        55289 13250    0 Kh As
+DoStuff   986370726  9  1 Bf  -     -     -        42039  200    0 
+DoStuff   986370765  9  9 c   k     k     f        41839  400    0 
+DoStuff   986370856  9  8 f   -     -     -        41439    0    0 
+DoStuff   986370891  9  7 c   b     kc    -        41439 8825    0 8d Ac
+DoStuff   986370968  9  6 f   -     -     -        32614    0    0 
+DoStuff   986371039  9  5 f   -     -     -        32614    0    0 
+DoStuff   986371091  9  4 c   k     f     -        32614  800    0 
+DoStuff   986371144  9  3 c   kf    -     -        31814  800    0 
+DoStuff   986371184  9  2 Bc  kc    k     k        31014 3400 7200 4s 4h
+DoStuff   986371237  9  1 Bc  kf    -     -        34814 1600    0 
+DoStuff   986371280  9  9 c   b     -     -        33214 4800 8000 
+DoStuff   986371330  9  8 cf  -     -     -        36414  800    0 
+DoStuff   986371367  9  7 f   -     -     -        35614    0    0 
+DoStuff   986371419  9  6 c   bc    -     -        35614 9850 22100 Kc Ts
+DoStuff   986371465  8  5 c   k     kcc   kf       47864 10400    0 
+DoStuff   986371600  8  4 c   r     -     -        37464 17600 11325 7c Ah
+DoStuff   986371626  8  3 cc  k     kf    -        31189 3600    0 
+DoStuff   986371680  8  2 Br  b     -     -        27589 14400 19200 
+DoStuff   986371707  8  1 Bc  k     kc    kf       32389 8000    0 
+DoStuff   986371787  8  8 f   -     -     -        24389    0    0 
+DoStuff   986371827  8  7 f   -     -     -        24389    0    0 
+DoStuff   986371892  7  5 f   -     -     -        24389    0    0 
+DoStuff   986371939  7  5 f   -     -     -        24389    0    0 
+DoStuff   986371978  7  4 f   -     -     -        24389    0    0 
+DoStuff   986372022  6  3 f   -     -     -        24389    0    0 
+DoStuff   986372054  6  2 Bk  kc    k     bA       24389 24389 55178 Tc Ts
+DoStuff   986372122  6  1 Bf  -     -     -        55178 1600    0 
+DoStuff   986372143  5  5 f   -     -     -        53578    0    0 
+DoStuff   986372193  3  2 cc  krA   -     -        53578 53578 110356 Jc Ac
+DoStuff   986372234  3  2 Bk  k     k     k       110356 3200 6400 Kc 7d
+DoStuff   986372268  3  1 Bc  kf    -     -       113556 3200    0 
+DoStuff   986372306  3  3 c   f     -     -       110356 3200    0 
+DoStuff   986372335  3  2 Bk  k     f     -       107156 3200    0 
+DoStuff   986372367  3  1 Bc  k     b     -       103956 9600 12800 
+DoStuff   986372392  3  3 c   k     k     k       107156 3200 9600 Ad 6d
+DoStuff   986372426  3  2 Bc  f     -     -       113556 11200    0 
+DoStuff   986372464  3  1 Bc  k     kf    -       102356 3200    0 
+DoStuff   986372507  3  3 f   -     -     -        99156    0    0 
+DoStuff   986372513  3  2 B   -     -     -        99156 6400 9600 
+DoStuff   986372518  3  1 Bf  -     -     -       102356 3200    0 
+DoStuff   986372557  3  3 f   -     -     -        99156    0    0 
+DoStuff   986372588  3  2 Bf  -     -     -        99156 6400    0 
+DoStuff   986372607  3  1 Bf  -     -     -        92756 3200    0 
+DoStuff   986372629  3  3 c   k     r     -        89556 70600 98400 
+DoStuff   986372670  3  2 B   -     -     -       117356 6400 9600 
+DoStuff   986372676  3  1 Bcc kc    -     -       120556 48374 96748 Qd Qc
+DoStuff   986372708  2  2 f   -     -     -       168930    0    0 
+DoStuff   986372720  2  2 Bk  b     -     -       168930 19200 8130 Td Tc
+DoStuff   986372737  2  1 Bf  -     -     -       157860 3200    0 
+DoStuff   986372746  2  2 Bk  k     k     k       154660 6400    0 7c 3s
+DoStuff   986372773  2  1 Bf  -     -     -       148260 3200    0 
+DoStuff   986372780  2  2 Bc  k     k     f       145060 19200    0 
+DoStuff   986372809  2  1 Bf  -     -     -       125860 3200    0 
+DoStuff   986372815  2  2 Bk  f     -     -       122660 6400    0 
+DoStuff   986372835  2  1 Bf  -     -     -       116260 3200    0 
+DoStuff   986372840  2  2 Bk  b     b     -       113060 57600 76800 
+DoStuff   986372874  2  1 Bcc k     k     k       132260 19200 38400 4h 5h
+DoStuff   986372922  2  2 Br  c     -     -       151460 28540 57080 Kd Ad
+DoStuff   986440913 19  4 f   -     -     -        10000    0    0 
+DoStuff   986441139 19  3 f   -     -     -        10000    0    0 
+DoStuff   986441391 18  2 Bk  kf    -     -        10000  100    0 
+DoStuff   986441484 18  1 Bc  kf    -     -         9900  100    0 
+DoStuff   986441614 17 17 c   b     -     -         9800  600 1000 
+DoStuff   986441668 17 16 c   c     k     k        10200  950 2675 3s 5s
+DoStuff   986441732 16 14 f   -     -     -        11925    0    0 
+DoStuff   986441790 16 13 f   -     -     -        11925    0    0 
+DoStuff   986441828 16 12 c   b     -     -        11925 1000 1600 
+DoStuff   986441865 16 11 c   b     b     k        12525 3800    0 Ad 5h
+DoStuff   986441922 16 10 f   -     -     -         8725    0    0 
+DoStuff   986441975 16  9 cf  -     -     -         8725  200    0 
+DoStuff   986442019 15  8 f   -     -     -         8525    0    0 
+DoStuff   986442066 14  7 f   -     -     -         8525    0    0 
+DoStuff   986442106 14  6 c   b     -     -         8525 1000 1600 
+DoStuff   986442140 14  5 c   k     k     f         9125  200    0 
+DoStuff   986442219 14  4 c   c     k     k         8925 2000    0 Ac Tc
+DoStuff   986442285 14  3 cc  k     kf    -         6925 1400    0 
+DoStuff   986442328 14  2 Bc  kcA   -     -         5525 5525    0 Ah 3h
+DoStuff   986541567  7  1 Bc  b     -     -        10000  150  200 
+DoStuff   986541595  7  7 f   -     -     -        10050    0    0 
+DoStuff   986541626  7  6 c   c     f     -        10050  225    0 
+DoStuff   986541673  7  5 cc  k     f     -         9825  162    0 
+DoStuff   986541744  7  4 c   k     bf    -         9663  250    0 
+DoStuff   986541788  7  3 c   k     k     b         9413  175  250 
+DoStuff   986541805  7  2 Bk  kf    -     -         9488   50    0 
+DoStuff   986541830  7  1 Bc  b     k     bc        9438 1800    0 6h 4h
+DoStuff   986541877  7  7 c   c     k     k         7638  300  800 Jc 8c
+DoStuff   986541925  7  6 f   -     -     -         8138    0    0 
+DoStuff   986541950  7  5 c   b     k     k         8138  600    0 9d 7h
+DoStuff   986542002  7  4 f   -     -     -         7538    0    0 
+DoStuff   986542014  7  3 f   -     -     -         7538    0    0 
+DoStuff   986542052  7  2 Bk  k     b     -         7538  350  500 
+DoStuff   986542073  7  1 Bf  -     -     -         7688   50    0 
+DoStuff   986542132  7  7 f   -     -     -         7638    0    0 
+DoStuff   986542159  7  6 f   -     -     -         7638    0    0 
+DoStuff   986542202  7  5 f   -     -     -         7638    0    0 
+DoStuff   986542245  7  4 f   -     -     -         7638    0    0 
+DoStuff   986542286  7  3 c   b     -     -         7638 1100 1800 
+DoStuff   986542305  7  2 Bf  -     -     -         8338  200    0 
+DoStuff   986542323  7  1 Bc  kf    -     -         8138  200    0 
+DoStuff   986542352  7  7 f   -     -     -         7938    0    0 
+DoStuff   986542371  7  6 c   k     f     -         7938  200    0 
+DoStuff   986542406  7  5 f   -     -     -         7738    0    0 
+DoStuff   986542437  7  4 f   -     -     -         7738    0    0 
+DoStuff   986542484  7  3 f   -     -     -         7738    0    0 
+DoStuff   986542548  7  2 Bk  kc    kf    -         7738 2000    0 
+DoStuff   986542621  7  1 Bf  -     -     -         5738  200    0 
+DoStuff   986542646  7  7 f   -     -     -         5538    0    0 
+DoStuff   986542686  7  6 f   -     -     -         5538    0    0 
+DoStuff   986542718  7  5 c   kc    k     k         5538 2000    0 Th 6h
+DoStuff   986542772  7  4 c   c     f     -         3538 1000    0 
+DoStuff   986542860  7  3 f   -     -     -         2538    0    0 
+DoStuff   986542886  7  2 Bk  kf    -     -         2538  800    0 
+DoStuff   986542926  7  1 Bc  kf    -     -         1738  800    0 
+DoStuff   986542949  7  7 f   -     -     -          938    0    0 
+DoStuff   986542992  7  6 f   -     -     -          938    0    0 
+DoStuff   986543063  7  5 rA  -     -     -          938  938 2814 Qc Ac
+DoStuff   986543104  7  4 f   -     -     -         2814    0    0 
+DoStuff   986543148  6  2 f   -     -     -         2814    0    0 
+DoStuff   986543166  6  2 B   -     -     -         2814 1600 2400 
+DoStuff   986543175  6  1 Bc  bA    -     -         3614 3614 5421 Ts Ks
+DoStuff   986543242  6  6 c   bA    -     -         5421 5421 8621 
+DoStuff   986543306  6  5 c   k     c     k         8621 3600    0 7h Kc
+DoStuff   986543347  6  4 f   -     -     -         5021    0    0 
+DoStuff   986543383  6  3 f   -     -     -         5021    0    0 
+DoStuff   986543401  6  2 Bk  k     k     k         5021 1600    0 Jd Kh
+DoStuff   986543465  6  1 Bc  bA    -     -         3421 3421 6621 
+DoStuff   986543496  6  6 f   -     -     -         6621    0    0 
+DoStuff   986543530  6  5 f   -     -     -         6621    0    0 
+DoStuff   986543558  5  3 f   -     -     -         6621    0    0 
+DoStuff   986543606  5  3 f   -     -     -         6621    0    0 
+DoStuff   986543619  5  2 Bk  f     -     -         6621 3200    0 
+DoStuff   986543648  5  1 Bc  bA    -     -         3421 3421    0 Qd Kh
+DoStuff   986624400  5  2 Bk  b     k     k        10000  225    0 6s 6h
+DoStuff   986624486  5  1 Bcc kf    -     -         9775  250    0 
+DoStuff   986624546  5  5 c   f     -     -         9525   50    0 
+DoStuff   986624625  5  4 c   k     k     k         9475   50    0 6c Tc
+DoStuff   986624696  5  3 f   -     -     -         9425    0    0 
+DoStuff   986624742  5  2 Bk  k     k     k         9425   50    0 Jc 6s
+DoStuff   986624767  5  1 Bc  k     k     b         9375  400  600 
+DoStuff   986624809  5  5 c   b     bc    f         9575 2900    0 
+DoStuff   986624927  5  4 c   k     kc    k         6675  275    0 Ah Jd
+DoStuff   986624965  5  3 c   k     kc    kf        6400  275    0 
+DoStuff   986625014  5  2 Bk  kf    -     -         6125  100    0 
+DoStuff   986625055  5  1 Bc  b     -     -         6025  400  600 
+DoStuff   986625080  5  5 f   -     -     -         6225    0    0 
+DoStuff   986625110  5  4 f   -     -     -         6225    0    0 
+DoStuff   986625149  5  3 f   -     -     -         6225    0    0 
+DoStuff   986625176  5  2 Bk  k     kf    -         6225  200    0 
+DoStuff   986625203  5  1 BQ  -     -     -         6025  100    0 
+DoStuff   986971390  7  3 f   -     -     -         8000    0    0 
+DoStuff   986971441  7  2 Bf  -     -     -         8000   50    0 
+DoStuff   986971498  7  1 Bc  kf    -     -         7950  300    0 
+DoStuff   986971542  7  7 r   b     b     -         7650 3125 4350 
+DoStuff   986971580  7  6 c   cc    kf    -         8875 1550    0 
+DoStuff   986971654  7  5 f   -     -     -         7325    0    0 
+DoStuff   986971689  7  4 f   -     -     -         7325    0    0 
+DoStuff   986971731  6  3 f   -     -     -         7325    0    0 
+DoStuff   986971777  6  2 Bk  k     k     k         7325  100  350 Th 2c
+DoStuff   986971838  6  1 Bcc k     kf    -         7575  500    0 
+DoStuff   986971910  6  6 f   -     -     -         7075    0    0 
+DoStuff   986971958  5  4 f   -     -     -         7075    0    0 
+DoStuff   986971986  5  4 f   -     -     -         7075    0    0 
+DoStuff   986972025  5  3 f   -     -     -         7075    0    0 
+DoStuff   986972040  5  2 Bc  kcc   kcA   -         7075 7075 15350 2c Kh
+DoStuff   986972075  5  1 Bc  kc    k     kf       15350 1350    0 
+DoStuff   986972145  4  4 c   k     k     r        14000 1700 2400 
+DoStuff   986972186  4  4 f   -     -     -        14700    0    0 
+DoStuff   986972196  4  3 f   -     -     -        14700    0    0 
+DoStuff   986972201  4  2 Bk  k     b     -        14700  800 1200 
+DoStuff   986972234  4  1 Bc  k     b     -        15100 1000 1600 
+DoStuff   986972259  4  4 c   b     b     -        15700 3000 4200 
+DoStuff   986972287  4  3 c   k     f     -        16900  200    0 
+DoStuff   986972325  4  2 Bk  b     -     -        16700  700 1000 
+DoStuff   986972343  4  1 Bc  k     k     k        17000  200    0 5h 6d
+DoStuff   986972368  4  4 cc  c     k     k        16800 2300    0 Kc 5h
+DoStuff   986972419  4  3 c   k     k     k        14500  400 1200 Kh 6h
+DoStuff   986972444  4  2 B   -     -     -        15300  400  600 
+DoStuff   986972452  4  1 Bf  -     -     -        15500  200    0 
+DoStuff   986972470  4  4 c   k     c     f        15300 1600    0 
+DoStuff   986972507  4  3 c   k     b     b        13700 4400 6000 
+DoStuff   986972529  4  2 Bf  -     -     -        15300  400    0 
+DoStuff   986972551  4  1 Bc  k     b     -        14900 1600 2400 
+DoStuff   986972589  4  4 c   b     b     -        15700 5200 7200 
+DoStuff   986972619  4  3 cc  kc    k     k        17700 4800    0 3s Ah
+DoStuff   986972656  4  2 Bk  k     kf    -        12900  400    0 
+DoStuff   986972684  4  1 Br  -     -     -        12500 1200 1600 
+DoStuff   986972694  4  4 f   -     -     -        12900    0    0 
+DoStuff   986972718  4  3 c   k     kc    k        12900 1800    0 4c Qc
+DoStuff   986972759  4  2 Bf  -     -     -        11100  800    0 
+DoStuff   986972770  4  1 Bf  -     -     -        10300  400    0 
+DoStuff   986972787  4  4 c   c     f     -         9900 3200    0 
+DoStuff   986972811  4  3 f   -     -     -         6700    0    0 
+DoStuff   986972838  4  2 Bk  k     f     -         6700  800    0 
+DoStuff   986972864  4  1 Bf  -     -     -         5900  400    0 
+DoStuff   986972867  4  4 c   k     k     k         5500  800    0 7h Th
+DoStuff   986972886  4  3 f   -     -     -         4700    0    0 
+DoStuff   986972895  4  2 Bc  kf    -     -         4700 2000    0 
+DoStuff   986972909  4  1 Bf  -     -     -         2700  400    0 
+DoStuff   986972911  4  4 c   k     f     -         2300  800    0 
+DoStuff   986972930  4  3 f   -     -     -         1500    0    0 
+DoStuff   986972945  4  2 Bk  bA    -     -         1500 1500    0 5c 9d
+DoStuff   987020645 10  3 f   -     -     -        10000    0    0 
+DoStuff   987020679 10  2 Bk  kf    -     -        10000  200    0 
+DoStuff   987020754 10  1 Bc  bc    kc    kc        9800 5300 7150 Th 3h
+DoStuff   987020842 10 10 f   -     -     -        11650    0    0 
+DoStuff   987020940 10  9 f   -     -     -        11650    0    0 
+DoStuff   987020991 10  8 c   kc    k     kf       11650 1400    0 
+DoStuff   987021085 10  7 f   -     -     -        10250    0    0 
+DoStuff   987021135 10  6 f   -     -     -        10250    0    0 
+DoStuff   987021197 10  5 f   -     -     -        10250    0    0 
+DoStuff   987021242 10  4 f   -     -     -        10250    0    0 
+DoStuff   987021364  9  3 c   f     -     -        10250  400    0 
+DoStuff   987021416  9  2 Bf  -     -     -         9850  400    0 
+DoStuff   987021524  9  1 Bc  b     bA    -         9450 9450    0 7d Kd
+DoStuff   987023237 13  3 f   -     -     -        10000    0    0 
+DoStuff   987023291 13  2 Bk  b     b     k        10000 1425    0 Kc Ad
+DoStuff   987023389 13  1 Bc  b     bf    -         8575 1300    0 
+DoStuff   987023462 13 13 f   -     -     -         7275    0    0 
+DoStuff   987023545 13 12 f   -     -     -         7275    0    0 
+DoStuff   987023600 12 10 f   -     -     -         7275    0    0 
+DoStuff   987023648 12  9 c   f     -     -         7275  100    0 
+DoStuff   987023761 11  8 f   -     -     -         7175    0    0 
+DoStuff   987023800 11  7 cf  -     -     -         7175  100    0 
+DoStuff   987023855 11  6 f   -     -     -         7075    0    0 
+DoStuff   987023923 11  5 f   -     -     -         7075    0    0 
+DoStuff   987023994 10  3 c   kf    -     -         7075  100    0 
+DoStuff   987024064 10  2 Bf  -     -     -         6975  200    0 
+DoStuff   987024099 10  1 Bf  -     -     -         6775  100    0 
+DoStuff   987024164 10 10 f   -     -     -         6675    0    0 
+DoStuff   987024250 10  9 c   c     cA    -         6675 6675    0 Jd Qd
+DoStuff   987048510 19 19 f   -     -     -        10000    0    0 
+DoStuff   987048600 19 18 f   -     -     -        10000    0    0 
+DoStuff   987048716 19 17 f   -     -     -        10000    0    0 
+DoStuff   987048804 19 16 f   -     -     -        10000    0    0 
+DoStuff   987048892 19 15 c   r     bA    -        10000 10000 23350 9s Jh
+DoStuff   987048962 18 13 f   -     -     -        23350    0    0 
+DoStuff   987049007 18 12 cc  f     -     -        23350  750    0 
+DoStuff   987049074 17 11 f   -     -     -        22600    0    0 
+DoStuff   987049151 16 10 cc  kc    kf    -        22600 4150    0 
+DoStuff   987049239 15  9 f   -     -     -        18450    0    0 
+DoStuff   987049296 15  8 f   -     -     -        18450    0    0 
+DoStuff   987049343 15  7 c   b     b     k        18450 6200 14400 Ac Ks
+DoStuff   987049409 15  6 f   -     -     -        26650    0    0 
+DoStuff   987049454 15  5 f   -     -     -        26650    0    0 
+DoStuff   987049492 15  4 f   -     -     -        26650    0    0 
+DoStuff   987049560 15  3 f   -     -     -        26650    0    0 
+DoStuff   987049626 15  2 Bk  f     -     -        26650  200    0 
+DoStuff   987049689 15  1 Br  kc    -     -        26450 10150    0 Ac Jc
+DoStuff   987049738 14 14 c   c     f     -        16300 2800    0 
+DoStuff   987049836 14 13 c   k     f     -        13500  400    0 
+DoStuff   987049886 14 12 cc  rA    -     -        13100 13100 32598 Qd Qh
+DoStuff   987049979 14 11 f   -     -     -        32598    0    0 
+DoStuff   987050064 14 10 c   k     k     k        32598  800 2800 Tc As
+DoStuff   987050118 14  9 f   -     -     -        34598    0    0 
+DoStuff   987050173 14  8 f   -     -     -        34598    0    0 
+DoStuff   987050206 14  7 f   -     -     -        34598    0    0 
+DoStuff   987050242 14  6 c   k     k     k        34598  800    0 8s Ah
+DoStuff   987050324 14  5 f   -     -     -        33798    0    0 
+DoStuff   987050370 14  4 f   -     -     -        33798    0    0 
+DoStuff   987050401 13  3 cc  -     -     -        33798 2525    0 8c Jc
+DoStuff   987050434 13  2 Bf  -     -     -        31273 1600    0 
+DoStuff   987050470 11  1 Bc  b     k     k        29673 6400    0 Qc Qs
+DoStuff   987050533 11 11 c   f     -     -        23273 5600    0 
+DoStuff   987050572 11 10 f   -     -     -        17673    0    0 
+DoStuff   987050616 11  9 f   -     -     -        17673    0    0 
+DoStuff   987050666 11  8 c   k     c     bA       17673 17673 33673 
+DoStuff   987050744 11  7 f   -     -     -        33673    0    0 
+DoStuff   987050762 11  6 f   -     -     -        33673    0    0 
+DoStuff   987050793 11  5 f   -     -     -        33673    0    0 
+DoStuff   987050822 11  4 f   -     -     -        33673    0    0 
+DoStuff   987050834 11  3 f   -     -     -        33673    0    0 
+DoStuff   987050860 11  2 Bf  -     -     -        33673 3200    0 
+DoStuff   987050885  9  1 Bc  kf    -     -        30473 6450    0 
+DoStuff   987050938  8  8 f   -     -     -        24023    0    0 
+DoStuff   987050968  8  7 f   -     -     -        24023    0    0 
+DoStuff   987050989  7  5 f   -     -     -        24023    0    0 
+DoStuff   987051008  7  4 c   b     -     -        24023 11200 16000 
+DoStuff   987051025  7  3 f   -     -     -        28823    0    0 
+DoStuff   987051039  7  2 B   -     -     -        28823 3200 4800 
+DoStuff   987051058  7  1 Bf  -     -     -        30423 1600    0 
+DoStuff   987051068  7  7 f   -     -     -        28823    0    0 
+DoStuff   987051081  7  6 f   -     -     -        28823    0    0 
+DoStuff   987051122  7  5 c   k     k     f        28823 3200    0 
+DoStuff   987051181  6  3 f   -     -     -        25623    0    0 
+DoStuff   987051203  6  3 f   -     -     -        25623    0    0 
+DoStuff   987051216  6  2 B   -     -     -        25623 6400 9600 
+DoStuff   987051233  6  1 Bc  k     k     b        28823 19200 25600 
+DoStuff   987051260  6  6 cc  cA    -     -        35223 35223    0 6h 7h
+DoStuff   987134908 13  3 c   kf    -     -        10000   50    0 
+DoStuff   987135040 13  2 Bc  b     -     -         9950 5375 11872 8s 6s
+DoStuff   987135120 12  1 Bf  -     -     -        16447   25    0 
+DoStuff   987135216 12 12 f   -     -     -        16422    0    0 
+DoStuff   987135293 12 11 f   -     -     -        16422    0    0 
+DoStuff   987135369 11 10 c   k     b     k        16422 1200    0 Kd Qd
+DoStuff   987135422 11  9 c   b     k     f        15222  600    0 
+DoStuff   987135500 11  8 f   -     -     -        14622    0    0 
+DoStuff   987135569 11  7 c   c     f     -        14622  700    0 
+DoStuff   987135679 11  6 c   k     kc    b        13922 3400 7200 8c Ac
+DoStuff   987135761 10  4 f   -     -     -        17722    0    0 
+DoStuff   987135823 10  3 c   k     kf    -        17722  200    0 
+DoStuff   987135930 10  2 Bc  kc    k     kf       17522 2900    0 
+DoStuff   987136027 10  1 Bc  k     b     kf       14622 3250    0 
+DoStuff   987136144 10 10 c   f     -     -        11372  400    0 
+DoStuff   987136189 10  9 c   c     k     f        10972 3237    0 
+DoStuff   987136309 10  8 c   f     -     -         7735  400    0 
+DoStuff   987136392  9  7 f   -     -     -         7335    0    0 
+DoStuff   987136459  9  6 f   -     -     -         7335    0    0 
+DoStuff   987136539  9  5 c   k     bcA   -         7335 7335    0 7d Td
+DoStuff   987138522 11 11 c   f     -     -        10000   50    0 
+DoStuff   987138648 11 10 c   k     k     k         9950   50    0 Kc Th
+DoStuff   987138707 11  9 c   f     -     -         9900  175    0 
+DoStuff   987138790 11  8 f   -     -     -         9725    0    0 
+DoStuff   987138853 11  7 f   -     -     -         9725    0    0 
+DoStuff   987138976 11  6 f   -     -     -         9725    0    0 
+DoStuff   987139044 11  5 f   -     -     -         9725    0    0 
+DoStuff   987139089 11  4 f   -     -     -         9725    0    0 
+DoStuff   987139159 11  3 c   b     b     bA        9725 9725 20900 6d 6c
+DoStuff   987139240 11  2 Bk  b     b     b        20900 10600 15000 
+DoStuff   987139315 11  1 Bf  -     -     -        25300   50    0 
+DoStuff   987139369 11 11 c   f     -     -        25250  200    0 
+DoStuff   987139444 11 10 f   -     -     -        25050    0    0 
+DoStuff   987139497 11  9 f   -     -     -        25050    0    0 
+DoStuff   987139563 11  8 c   c     f     -        25050 3100    0 
+DoStuff   987139614 10  6 c   k     f     -        21950  700    0 
+DoStuff   987139692 10  5 cc  k     kf    -        21250 3200    0 
+DoStuff   987139767  9  4 f   -     -     -        18050    0    0 
+DoStuff   987139836  8  3 f   -     -     -        18050    0    0 
+DoStuff   987139888  7  2 Bk  k     k     k        18050  400    0 Td 3h
+DoStuff   987139945  7  1 Bc  k     k     kf       17650  400    0 
+DoStuff   987140021  7  7 c   c     k     k        17250 2600    0 Ad 6h
+DoStuff   987140084  7  6 c   b     b     -        14650 5200 7200 Td Tc
+DoStuff   987140121  6  4 f   -     -     -        16650    0    0 
+DoStuff   987140164  5  2 f   -     -     -        16650    0    0 
+DoStuff   987140216  5  2 Bk  kc    k     bcA      16650 16650    0 7h Ac
+DoStuff   987224979 16 16 f   -     -     -        10000    0    0 
+DoStuff   987225097 16 15 f   -     -     -        10000    0    0 
+DoStuff   987225151 16 14 f   -     -     -        10000    0    0 
+DoStuff   987225214 16 13 f   -     -     -        10000    0    0 
+DoStuff   987225336 16 12 f   -     -     -        10000    0    0 
+DoStuff   987225441 15 10 f   -     -     -        10000    0    0 
+DoStuff   987225539 15  9 c   f     -     -        10000  100    0 
+DoStuff   987225623 14  7 f   -     -     -         9900    0    0 
+DoStuff   987225702 14  6 c   f     -     -         9900  100    0 
+DoStuff   987225783 14  5 ccA -     -     -         9800 9800    0 4d 4c
+DoStuff   987390780 13  9 c   k     f     -        10000   50    0 
+DoStuff   987390903 13  8 f   -     -     -         9950    0    0 
+DoStuff   987390954 13  7 f   -     -     -         9950    0    0 
+DoStuff   987391014 13  6 f   -     -     -         9950    0    0 
+DoStuff   987391122 11  4 c   k     b     kf        9950  375    0 
+DoStuff   987391206 11  3 c   f     -     -         9575   50    0 
+DoStuff   987391267 11  2 Bf  -     -     -         9525   50    0 
+DoStuff   987391328 11  1 Bc  kc    kc    kf        9475 3425    0 
+DoStuff   987391413 10 10 f   -     -     -         6050    0    0 
+DoStuff   987391477 10  9 f   -     -     -         6050    0    0 
+DoStuff   987391532  9  7 c   c     f     -         6050 3900    0 
+DoStuff   987391625  8  5 c   f     -     -         2150  400    0 
+DoStuff   987391663  8  5 f   -     -     -         1750    0    0 
+DoStuff   987391718  7  3 cccA -     -     -         1750 1750    0 8h 6h
+DoStuff   987543597 12  3 cf  -     -     -        10000  100    0 
+DoStuff   987543707 10  1 Bk  kf    -     -         9900  100    0 
+DoStuff   987543787 10  1 Bf  -     -     -         9800   50    0 
+DoStuff   987543796 10 10 c   b     -     -         9750 1600 2300 
+DoStuff   987543844 10  9 f   -     -     -        10450    0    0 
+DoStuff   987543924 10  8 r   b     b     -        10450 4650 6300 
+DoStuff   987543977 10  7 c   b     rrA   -        12100 12100 21700 Ah 2s
+DoStuff   987544038  9  5 c   k     f     -        21700  200    0 
+DoStuff   987544105  9  4 c   k     k     f        21500  200    0 
+DoStuff   987544196  7  2 f   -     -     -        21300    0    0 
+DoStuff   987544260  7  2 Bk  k     kf    -        21300  200    0 
+DoStuff   987544314  7  1 Br  b     -     -        21100 9200 13800 
+DoStuff   987544341  7  7 c   c     rcA   -        25700 25700    0 7d Ad
+DoStuff   987578197  6  4 c   k     f     -        10000  100    0 
+DoStuff   987578265  6  3 f   -     -     -         9900    0    0 
+DoStuff   987578279  6  2 Bc  kf    -     -         9900  400    0 
+DoStuff   987578312  6  1 Bf  -     -     -         9500   50    0 
+DoStuff   987578354  6  6 cc  b     -     -         9450 1850 2800 
+DoStuff   987578400  6  5 c   c     b     b        10400 3500 4800 
+DoStuff   987578458  6  4 c   kf    -     -        11700  100    0 
+DoStuff   987578504  6  3 cc  k     k     kf       11600  450    0 
+DoStuff   987578616  6  2 Brc kc    kc    -        11150 9750    0 Kc Ad
+DoStuff   987578689  6  1 Bf  -     -     -         1400  100    0 
+DoStuff   987578716  6  6 c   k     k     k         1300  200    0 Jd 6d
+DoStuff   987578765  6  5 f   -     -     -         1100    0    0 
+DoStuff   987578802  6  4 c   f     -     -         1100  200    0 
+DoStuff   987578854  6  3 c   f     -     -          900  200    0 
+DoStuff   987578890  6  2 Bk  bA    -     -          700  700 2300 2c Ks
+DoStuff   987578921  6  1 Bc  k     kf    -         2300  200    0 
+DoStuff   987578969  6  6 f   -     -     -         2100    0    0 
+DoStuff   987578984  6  5 f   -     -     -         2100    0    0 
+DoStuff   987579018  6  4 c   k     k     k         2100  400    0 Kd Jd
+DoStuff   987579077  6  3 f   -     -     -         1700    0    0 
+DoStuff   987579116  6  2 Bk  k     c     k         1700 1200 2400 Kh 8d
+DoStuff   987579153  6  1 Bc  kf    -     -         2900 1400    0 
+DoStuff   987579190  6  6 f   -     -     -         1500    0    0 
+DoStuff   987579212  6  5 c   k     f     -         1500  400    0 
+DoStuff   987579271  6  4 f   -     -     -         1100    0    0 
+DoStuff   987579312  6  3 f   -     -     -         1100    0    0 
+DoStuff   987579360  6  2 Bk  bA    -     -         1100 1100 3300 9c 7d
+DoStuff   987579426  6  1 Bf  -     -     -         3300  400    0 
+DoStuff   987579453  6  6 f   -     -     -         2900    0    0 
+DoStuff   987579460  6  5 f   -     -     -         2900    0    0 
+DoStuff   987579490  6  4 f   -     -     -         2900    0    0 
+DoStuff   987579512  5  3 f   -     -     -         2900    0    0 
+DoStuff   987579564  5  2 BrA -     -     -         2900 2900 5800 Kd Qc
+DoStuff   987579587  5  1 Bc  k     k     k         5800  800 1600 Ks 4s
+DoStuff   987579620  5  5 f   -     -     -         6600    0    0 
+DoStuff   987579645  5  4 f   -     -     -         6600    0    0 
+DoStuff   987579662  5  3 f   -     -     -         6600    0    0 
+DoStuff   987579683  5  2 B   -     -     -         6600  800 1200 
+DoStuff   987579711  5  1 Bf  -     -     -         7000  400    0 
+DoStuff   987579718  5  5 f   -     -     -         6600    0    0 
+DoStuff   987579736  4  3 f   -     -     -         6600    0    0 
+DoStuff   987579762  4  2 BrA -     -     -         6600 6600    0 6d 6s
+DoStuff   988145113 10  3 f   -     -     -        10000    0    0 
+DoStuff   988145193  9  1 Bk  k     k     k        10000   50  100 6h 5s
+DoStuff   988145278  9  1 Bf  -     -     -        10050   25    0 
+DoStuff   988145316  8  8 c   f     -     -        10025   50    0 
+DoStuff   988145395  8  7 f   -     -     -         9975    0    0 
+DoStuff   988145426  8  6 f   -     -     -         9975    0    0 
+DoStuff   988145455  8  5 c   b     k     kf        9975  375    0 
+DoStuff   988145534  8  4 c   b     b     c         9600 3500 3575 Kh 8h
+DoStuff   988145580  8  3 cc  c     k     b         9675 6300 9200 
+DoStuff   988145675  8  2 Bk  k     b     k        12575  500    0 Qs 3s
+DoStuff   988145710  8  1 Bc  k     k     br       12075 4000 8100 Ks Tc
+DoStuff   988145760  8  8 cc  f     -     -        16175  400    0 
+DoStuff   988145785  8  7 c   k     k     k        15775  100    0 5d 4c
+DoStuff   988145821  8  6 c   k     f     -        15675  100    0 
+DoStuff   988145913  8  5 f   -     -     -        15575    0    0 
+DoStuff   988145956  8  4 cc  f     -     -        15575 1100    0 
+DoStuff   988146024  8  3 f   -     -     -        14475    0    0 
+DoStuff   988146063  8  2 Bf  -     -     -        14475  200    0 
+DoStuff   988146087  8  1 Bc  kf    -     -        14275  200    0 
+DoStuff   988146160  8  8 c   c     b     -        14075 3400 3600 9s Tc
+DoStuff   988146203  8  7 c   kf    -     -        14275  200    0 
+DoStuff   988146253  8  6 c   k     b     bf       14075 3800    0 
+DoStuff   988146341  8  5 f   -     -     -        10275    0    0 
+DoStuff   988146373  8  4 f   -     -     -        10275    0    0 
+DoStuff   988146387  8  3 f   -     -     -        10275    0    0 
+DoStuff   988146417  8  2 Bc  -     -     -        10275  450 1100 9d 4c
+DoStuff   988146437  7  1 Bc  kc    k     kf       10925 2000    0 
+DoStuff   988146540  7  7 c   f     -     -         8925  400    0 
+DoStuff   988146570  7  6 f   -     -     -         8525    0    0 
+DoStuff   988146591  7  5 f   -     -     -         8525    0    0 
+DoStuff   988146605  7  4 f   -     -     -         8525    0    0 
+DoStuff   988146631  7  3 f   -     -     -         8525    0    0 
+DoStuff   988146639  7  2 Bk  kf    -     -         8525  400    0 
+DoStuff   988146681  7  1 Bc  kf    -     -         8125 1000    0 
+DoStuff   988146722  7  7 f   -     -     -         7125    0    0 
+DoStuff   988146765  7  6 c   k     f     -         7125  800    0 
+DoStuff   988146806  7  5 f   -     -     -         6325    0    0 
+DoStuff   988146852  5  3 cc  kcA   -     -         6325 6325 13850 Ad 5d
+DoStuff   988146890  5  2 Bk  b     k     b        13850 8800 12000 
+DoStuff   988146944  5  1 Bc  k     k     kf       17050  800    0 
+DoStuff   988146998  5  5 f   -     -     -        16250    0    0 
+DoStuff   988147049  5  4 cc  f     -     -        16250 2800    0 
+DoStuff   988147081  5  3 f   -     -     -        13450    0    0 
+DoStuff   988147147  5  2 B   -     -     -        13450 1600 2400 
+DoStuff   988147158  5  1 Bf  -     -     -        14250  800    0 
+DoStuff   988147185  5  5 c   rA    -     -        13450 13450 13850 Th Ks
+DoStuff   988147220  5  4 f   -     -     -        13850    0    0 
+DoStuff   988147259  5  3 crA -     -     -        13850 13850 30100 Ah Ks
+DoStuff   988147273  5  2 Bc  b     -     -        30100 12800 25975 5h 8d
+DoStuff   988147299  4  1 Bf  -     -     -        43275  800    0 
+DoStuff   988147311  4  4 f   -     -     -        42475    0    0 
+DoStuff   988147319  4  3 f   -     -     -        42475    0    0 
+DoStuff   988147339  4  2 Bk  b     k     kf       42475 5600    0 
+DoStuff   988147379  4  1 Bc  k     br    -        36875 15075 20100 Th 8d
+DoStuff   988147416  3  3 f   -     -     -        41900    0    0 
+DoStuff   988147433  3  3 f   -     -     -        41900    0    0 
+DoStuff   988147441  3  2 Br  -     -     -        41900 14400 7500 9d Ac
+DoStuff   988147454  3  1 Bc  k     b     -        35000 6400 9600 
+DoStuff   988147487  3  3 f   -     -     -        38200    0    0 
+DoStuff   988147495  3  2 Bk  k     c     k        38200 6400    0 Qc Kc
+DoStuff   988147536  3  1 Bf  -     -     -        31800 1600    0 
+DoStuff   988147555  3  3 f   -     -     -        30200    0    0 
+DoStuff   988147571  3  2 Bk  c     -     -        30200 8200    0 4h 7s
+DoStuff   988147588  3  1 Bf  -     -     -        22000 1600    0 
+DoStuff   988147602  3  3 cc  cA    -     -        20400 20400    0 4h As
+DoStuff   988147874  8  6 f   -     -     -         5000    0    0 
+DoStuff   988147901  8  5 c   k     f     -         5000  100    0 
+DoStuff   988147926  8  4 f   -     -     -         4900    0    0 
+DoStuff   988147949  8  3 c   b     -     -         4900  450  700 
+DoStuff   988147983  8  2 Bk  b     k     c         5150  900    0 6d 8d
+DoStuff   988148010  8  1 Bf  -     -     -         4250   50    0 
+DoStuff   988148017  8  8 f   -     -     -         4200    0    0 
+DoStuff   988148024  8  7 f   -     -     -         4200    0    0 
+DoStuff   988148058  8  6 f   -     -     -         4200    0    0 
+DoStuff   988148073  8  5 c   k     k     b         4200 1550 3600 5d Qd
+DoStuff   988148109  8  4 c   kc    kf    -         6250  500    0 
+DoStuff   988148152  8  3 f   -     -     -         5750    0    0 
+DoStuff   988148164  8  2 Bk  kc    k     k         5750  450    0 Th Ts
+DoStuff   988148207  8  1 Bf  -     -     -         5300   50    0 
+DoStuff   988148233  8  8 f   -     -     -         5250    0    0 
+DoStuff   988148269  8  7 f   -     -     -         5250    0    0 
+DoStuff   988148299  7  5 cc  kc    kc    -         5250 4500    0 8h 6h
+DoStuff   988148342  7  4 f   -     -     -          750    0    0 
+DoStuff   988148380  7  3 f   -     -     -          750    0    0 
+DoStuff   988148421  7  2 BcA -     -     -          750  750    0 3d As
+DoStuff   988233279 12  8 f   -     -     -         5000    0    0 
+DoStuff   988233313 11  6 f   -     -     -         5000    0    0 
+DoStuff   988233340 11  5 f   -     -     -         5000    0    0 
+DoStuff   988233467 11  4 f   -     -     -         5000    0    0 
+DoStuff   988233543 11  3 cc  k     k     k         5000   65    0 5c Kc
+DoStuff   988233639 11  2 Bc  kc    kf    -         4935  670    0 
+DoStuff   988233738 11  1 Bc  kf    -     -         4265  700    0 
+DoStuff   988233809  9  9 c   c     b     b         3565 3440 4800 
+DoStuff   988233894  9  8 f   -     -     -         4925    0    0 
+DoStuff   988233935  9  7 c   cf    -     -         4925  160    0 
+DoStuff   988234024  9  6 f   -     -     -         4765    0    0 
+DoStuff   988234143  9  5 f   -     -     -         4765    0    0 
+DoStuff   988234229  9  4 c   c     f     -         4765  320    0 
+DoStuff   988234329  9  3 cc  bA    -     -         4445 4445    0 7h 9h
+DoStuff   988426501 17 11 f   -     -     -        10000    0    0 
+DoStuff   988426594 17 10 f   -     -     -        10000    0    0 
+DoStuff   988426632 16  8 f   -     -     -        10000    0    0 
+DoStuff   988426733 16  7 f   -     -     -        10000    0    0 
+DoStuff   988426813 16  6 cc  kc    k     kf       10000  975    0 
+DoStuff   988426875 16  5 f   -     -     -         9025    0    0 
+DoStuff   988426961 16  4 cc  k     kf    -         9025  850    0 
+DoStuff   988427066 16  3 f   -     -     -         8175    0    0 
+DoStuff   988427101 16  2 Bk  b     k     kf        8175  650    0 
+DoStuff   988427217 16  1 Bc  k     k     kf        7525  100    0 
+DoStuff   988427307 16 16 f   -     -     -         7425    0    0 
+DoStuff   988427391 16 15 f   -     -     -         7425    0    0 
+DoStuff   988427442 15 14 f   -     -     -         7425    0    0 
+DoStuff   988427523 15 13 f   -     -     -         7425    0    0 
+DoStuff   988427628 15 12 f   -     -     -         7425    0    0 
+DoStuff   988427707 15 11 c   kf    -     -         7425  200    0 
+DoStuff   988427809 13  9 f   -     -     -         7225    0    0 
+DoStuff   988427875 13  8 c   k     k     r         7225 4400 6000 
+DoStuff   988427941 13  7 c   f     -     -         8825  400    0 
+DoStuff   988428007 13  6 cc  kc    k     kf        8425 2900    0 
+DoStuff   988428100 13  5 cc  kf    -     -         5525 1900    0 
+DoStuff   988428162 12  4 cf  -     -     -         3625  400    0 
+DoStuff   988428222 11  3 c   k     k     bA        3225 3225 7650 Jc Ac
+DoStuff   988428282 11  2 Bk  k     kf    -         7650  800    0 
+DoStuff   988428325 11  1 Bc  kf    -     -         6850  800    0 
+DoStuff   988428493 10 10 f   -     -     -         6050    0    0 
+DoStuff   988428564 10  9 c   b     cA    -         6050 6050    0 4h 3h
+DoStuff   988430195 18 17 f   -     -     -        10000    0    0 
+DoStuff   988430257 18 16 f   -     -     -        10000    0    0 
+DoStuff   988430401 18 15 c   k     k     kf       10000  225    0 
+DoStuff   988430530 18 14 f   -     -     -         9775    0    0 
+DoStuff   988430670 18 13 f   -     -     -         9775    0    0 
+DoStuff   988430760 18 12 f   -     -     -         9775    0    0 
+DoStuff   988430833 17 10 f   -     -     -         9775    0    0 
+DoStuff   988430902 17  9 f   -     -     -         9775    0    0 
+DoStuff   988430974 17  8 f   -     -     -         9775    0    0 
+DoStuff   988431086 17  7 f   -     -     -         9775    0    0 
+DoStuff   988431166 17  6 f   -     -     -         9775    0    0 
+DoStuff   988431252 17  5 f   -     -     -         9775    0    0 
+DoStuff   988431364 16  4 c   b     b     -         9775 6200 9000 
+DoStuff   988431468 16  3 c   k     b     bA       12575 12575 2725 Ks Qh
+DoStuff   988431617 16  2 BrA -     -     -         2725 2725    0 5d Ac
+DoStuff   988665342 15  8 f   -     -     -        10000    0    0 
+DoStuff   988665457 15  7 f   -     -     -        10000    0    0 
+DoStuff   988665516 15  6 cc  b     cA    -        10000 10000 33000 Kd Qc
+DoStuff   988665597 15  5 cc  kf    -     -        33000  275    0 
+DoStuff   988665701 13  4 f   -     -     -        32725    0    0 
+DoStuff   988665743 13  3 c   b     bf    -        32725 2100    0 
+DoStuff   988665824 13  2 Bf  -     -     -        30625  100    0 
+DoStuff   988665914 12  1 Bcc kcc   -     -        30525 10000 29656 Js Jd
+DoStuff   988666029 10 10 c   c     b     b        50181 4000 5400 
+DoStuff   988666093 10 10 c   b     c     k        51581 1600    0 7h Qh
+DoStuff   988666161 10  9 c   c     f     -        49981 1600    0 
+DoStuff   988666228 10  8 f   -     -     -        48381    0    0 
+DoStuff   988666291 10  7 f   -     -     -        48381    0    0 
+DoStuff   988666419  9  5 f   -     -     -        48381    0    0 
+DoStuff   988666489  9  4 c   b     k     k        48381 1200 3000 8s 7s
+DoStuff   988666574  9  3 f   -     -     -        50181    0    0 
+DoStuff   988666615  9  2 Bc  k     k     bf       50181 4400    0 
+DoStuff   988666709  9  1 Bc  k     k     b        45781 2000 3200 
+DoStuff   988666772  9  9 c   f     -     -        46981  400    0 
+DoStuff   988666856  9  8 c   b     -     -        46581 2350 2150 5s 5d
+DoStuff   988666918  9  7 f   -     -     -        46381    0    0 
+DoStuff   988666971  8  5 c   b     -     -        46381 4800 8000 
+DoStuff   988667016  8  4 cc  -     -     -        49581 23652 65804 4h 4s
+DoStuff   988667068  6  2 B   -     -     -        91733  800 1200 
+DoStuff   988667095  6  1 Bc  kc    k     b        92133 6200 8800 
+DoStuff   988667198  6  6 c   k     k     r        94733 15293 23324 5c 5d
+DoStuff   988667277  5  4 f   -     -     -       102764    0    0 
+DoStuff   988667365  4  3 f   -     -     -       102764    0    0 
+DoStuff   988667388  4  2 Bk  kf    -     -       102764 1600    0 
+DoStuff   988667412  4  1 Bf  -     -     -       101164  800    0 
+DoStuff   988667452  4  4 f   -     -     -       100364    0    0 
+DoStuff   988667490  4  3 f   -     -     -       100364    0    0 
+DoStuff   988667531  4  2 Bf  -     -     -       100364 1600    0 
+DoStuff   988667552  4  1 Bf  -     -     -        98764  800    0 
+DoStuff   988667582  4  4 f   -     -     -        97964    0    0 
+DoStuff   988667616  4  3 f   -     -     -        97964    0    0 
+DoStuff   988667650  4  2 Bf  -     -     -        97964 1600    0 
+DoStuff   988667673  4  1 Bf  -     -     -        96364  800    0 
+DoStuff   988667682  4  4 f   -     -     -        95564    0    0 
+DoStuff   988667723  3  3 f   -     -     -        95564    0    0 
+DoStuff   988667736  3  2 Bk  k     k     k        95564 3200    0 Ah Qs
+DoStuff   988667768  3  1 Bf  -     -     -        92364 1600    0 
+DoStuff   988667803  3  3 f   -     -     -        90764    0    0 
+DoStuff   988667817  3  2 Bf  -     -     -        90764 3200    0 
+DoStuff   988667837  3  1 Bf  -     -     -        87564 1600    0 
+DoStuff   988667843  3  3 f   -     -     -        85964    0    0 
+DoStuff   988667848  3  2 Bf  -     -     -        85964 3200    0 
+DoStuff   988667891  3  1 Bf  -     -     -        82764 1600    0 
+DoStuff   988667899  3  3 f   -     -     -        81164    0    0 
+DoStuff   988667944  3  2 Bf  -     -     -        81164 3200    0 
+DoStuff   988667955  3  1 Bf  -     -     -        77964 1600    0 
+DoStuff   988667962  3  3 c   k     k     f        76364 3200    0 
+DoStuff   988668009  3  2 Bc  kc    bA    -        73164 73164 48324 Th Jd
+DoStuff   988668056  3  1 Bcf -     -     -        48324 3200    0 
+DoStuff   988668083  3  3 c   b     k     k        45124 12800    0 Qh 3h
+DoStuff   988668125  3  2 B   -     -     -        32324 6400 9600 
+DoStuff   988668134  3  1 BrcA -     -     -        35524 35524    0 7d 7c
+DoStuff   988668835 11  8 f   -     -     -        10000    0    0 
+DoStuff   988668899 11  7 f   -     -     -        10000    0    0 
+DoStuff   988668974 11  7 c   c     k     k        10000  700    0 Ah Jh
+DoStuff   988669059 10  5 f   -     -     -         9300    0    0 
+DoStuff   988669169 10  4 f   -     -     -         9300    0    0 
+DoStuff   988669252 10  3 cc  kf    -     -         9300 1300    0 
+DoStuff   988669325 10  2 Bk  b     kc    kf        8000 4200    0 
+DoStuff   988669402 10  1 Br  k     k     kc        3800 2600    0 Ad Jd
+DoStuff   988669450 10 10 c   c     cA    -         1200 1200 2900 7s 6s
+DoStuff   988669517 10  9 f   -     -     -         2900    0    0 
+DoStuff   988669552 10  8 f   -     -     -         2900    0    0 
+DoStuff   988669649  9  7 f   -     -     -         2900    0    0 
+DoStuff   988669714  8  5 f   -     -     -         2900    0    0 
+DoStuff   988669760  8  5 c   k     k     f         2900  400    0 
+DoStuff   988669812  8  4 c   k     k     k         2500  400    0 3h Qh
+DoStuff   988669905  8  3 f   -     -     -         2100    0    0 
+DoStuff   988669999  8  2 Bk  kf    -     -         2100  400    0 
+DoStuff   988670072  8  1 Bc  kf    -     -         1700  400    0 
+DoStuff   988670186  8  8 c   bA    -     -         1300 1300    0 Qs Kd
+DoStuff   988684092 14 10 f   -     -     -        10000    0    0 
+DoStuff   988684221 14  9 f   -     -     -        10000    0    0 
+DoStuff   988684301 14  8 f   -     -     -        10000    0    0 
+DoStuff   988684375 14  7 f   -     -     -        10000    0    0 
+DoStuff   988684425 14  6 f   -     -     -        10000    0    0 
+DoStuff   988684474 14  5 f   -     -     -        10000    0    0 
+DoStuff   988684623 14  4 f   -     -     -        10000    0    0 
+DoStuff   988684683 14  3 f   -     -     -        10000    0    0 
+DoStuff   988684737 14  2 Bk  c     f     -        10000  700    0 
+DoStuff   988684809 14  1 Bc  kf    -     -         9300  350    0 
+DoStuff   988684870 14 14 f   -     -     -         8950    0    0 
+DoStuff   988684922 14 13 f   -     -     -         8950    0    0 
+DoStuff   988684953 14 12 c   c     k     f         8950 1200    0 
+DoStuff   988685025 14 11 f   -     -     -         7750    0    0 
+DoStuff   988685119 14 10 f   -     -     -         7750    0    0 
+DoStuff   988685189 14  9 f   -     -     -         7750    0    0 
+DoStuff   988685228 14  8 f   -     -     -         7750    0    0 
+DoStuff   988685312 14  7 cf  -     -     -         7750  400    0 
+DoStuff   988685383 13  5 f   -     -     -         7350    0    0 
+DoStuff   988685454 11  5 f   -     -     -         7350    0    0 
+DoStuff   988685542 11  4 f   -     -     -         7350    0    0 
+DoStuff   988685574 10  3 c   c     k     k         7350 1600    0 9c 8c
+DoStuff   988685625 10  2 Bf  -     -     -         5750  800    0 
+DoStuff   988685691 10  1 Bc  k     k     b         4950 4000 9600 Kd Td
+DoStuff   988685825 10 10 f   -     -     -        10550    0    0 
+DoStuff   988685847 10  9 c   k     k     k        10550  800    0 7s Qd
+DoStuff   988685893 10  8 c   k     k     k         9750  800    0 6c 8h
+DoStuff   988685924 10  7 f   -     -     -         8950    0    0 
+DoStuff   988685940 10  6 f   -     -     -         8950    0    0 
+DoStuff   988686009 10  5 c   rA    -     -         8950 8950 21100 Td Tc
+DoStuff   988686069 10  4 f   -     -     -        21100    0    0 
+DoStuff   988686102 10  3 f   -     -     -        21100    0    0 
+DoStuff   988686136  9  2 Bf  -     -     -        21100 1600    0 
+DoStuff   988686176  8  1 Bf  -     -     -        19500  800    0 
+DoStuff   988686205  8  8 f   -     -     -        18700    0    0 
+DoStuff   988686223  8  7 c   k     f     -        18700 1600    0 
+DoStuff   988686257  8  6 f   -     -     -        17100    0    0 
+DoStuff   988686272  8  5 cc  k     k     k        17100 1725    0 3h 3d
+DoStuff   988686297  8  4 f   -     -     -        15375    0    0 
+DoStuff   988686337  8  3 f   -     -     -        15375    0    0 
+DoStuff   988686382  8  2 Bf  -     -     -        15375 3200    0 
+DoStuff   988686403  8  1 Bc  k     kf    -        12175 4000    0 
+DoStuff   988686484  8  8 ccA -     -     -         8175 8175    0 2h Ah

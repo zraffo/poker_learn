@@ -1,0 +1,618 @@
+Dimmer    828451623  2  1 Bc  br    b     b         1155   80  160 8h Qc
+Dimmer    828451678  2  2 Bc  r     b     b         1235   80  140 
+Dimmer    828451758  2  1 Bf  -     -     -         1295    5    0 
+Dimmer    828451766  2  2 Bk  rr    b     b         1290   90  180 5s As
+Dimmer    828451811  2  1 Brc b     b     b         1380   80    0 Ks Ts
+Dimmer    828451849  2  2 Bk  b     -     -         1300   20   30 
+Dimmer    828451868  2  1 Bcc kf    -     -         1310   20    0 
+Dimmer    828451893  2  2 Br  brc   k     c         1290   80    0 Qs 9s
+Dimmer    828451940  2  1 Bf  -     -     -         1210    5    0 
+Dimmer    828451948  2  2 Br  c     c     c         1205   80  160 Qs Jd
+Dimmer    828451985  2  1 Br  brr   br    b         1285  150  300 Td Th
+Dimmer    828452025  2  2 Bk  f     -     -         1435   10    0 
+Dimmer    828452078  2  1 Br  -     -     -         1425   20   30 
+Dimmer    828452094  2  2 Bk  b     b     b         1435   60  120 2d 7c
+Dimmer    828452243  2  1 Bcc kc    kc    kc        1495   70  140 8h 3h
+Dimmer    828452300  2  2 Brc rc    b     b         1565  110  220 Ad Jc
+Dimmer    828452366  2  1 Bf  -     -     -         1675    5    0 
+Dimmer    828452372  2  2 B   -     -     -         1670   10   15 
+Dimmer    828452382  2  1 Bf  -     -     -         1675    5    0 
+Dimmer    828452391  2  2 Bf  -     -     -         1670   10    0 
+Dimmer    828452408  2  1 Brc kc    kc    kc        1660   80    0 2s 3c
+Dimmer    828452457  2  2 Bf  -     -     -         1580   10    0 
+Dimmer    828452477  2  1 Brc br    bc    kc        1570  120    0 Jd 3d
+Dimmer    828452528  2  2 Br  b     b     bc        1450   90  180 Qs Qc
+Dimmer    828452563  2  1 Bc  kf    -     -         1540   10    0 
+Dimmer    828452588  2  2 Bf  -     -     -         1530   10    0 
+Dimmer    828452595  2  1 Bc  -     -     -         1520   10   20 
+Dimmer    828452602  2  2 Brc b     c     f         1530   70    0 
+Dimmer    828452644  2  1 Bf  -     -     -         1460    5    0 
+Dimmer    828452654  2  2 Bk  bc    c     f         1455   50    0 
+Dimmer    828452696  2  1 Br  bc    kc    bf        1405   80    0 
+Dimmer    828452761  2  2 Br  b     b     b         1325   70  140 Jd Ah
+Dimmer    828452803  2  1 Brrc k     b     b         1395   90  180 Js Ad
+Dimmer    828452927  2  2 Bc  f     -     -         1485   20    0 
+Dimmer    828452960  2  1 Br  -     -     -         1465   20   30 
+Dimmer    828454215  2  1 Bc  k     b     b         1475   50  100 5d Ks
+Dimmer    828454249  3  3 c   rc    b     b         1525   80  165 Ad Jd
+Dimmer    828454310  3  2 B   -     -     -         1610   10   15 
+Dimmer    828454322  3  1 Bf  -     -     -         1615    5    0 
+Dimmer    828454343  3  3 cc  c     r     b         1610   90  210 Td 9h
+Dimmer    828454389  3  2 Br  -     -     -         1730   20   35 
+Dimmer    828454407  3  1 Bc  bc    k     b         1745   50  100 Ah 3h
+Dimmer    828454450  3  3 cc  rc    rrrr  b         1795  230  480 Td Ks
+Dimmer    828454554  4  3 c   r     b     b         2045   70  145 Td Th
+Dimmer    828454595  4  2 Bk  k     c     c         2120   50    0 8h 4s
+Dimmer    828454652  4  1 Bc  k     k     k         2070   10    0 9c 7d
+Dimmer    828454690  4  4 c   b     -     -         2060   20   35 
+Dimmer    828454710  4  3 c   b     b     bc        2075   80    0 7c Ad
+Dimmer    828454750  4  2 Bk  k     kf    -         1995   10    0 
+Dimmer    828454790  4  1 Br  -     -     -         1985   20   30 
+Dimmer    828454803  4  4 c   b     -     -         1995   20   45 
+Dimmer    828454842  4  3 c   kf    -     -         2020   10    0 
+Dimmer    828454882  4  2 Bk  k     b     -         2010   30   50 
+Dimmer    828454986  4  1 Bf  -     -     -         2030    5    0 
+Dimmer    828454997  4  4 c   b     b     b         2025   60  105 
+Dimmer    828455056  4  3 r   -     -     -         2070   20   35 
+Dimmer    828455069  4  2 Bk  k     b     f         2085   30    0 
+Dimmer    828455132  4  1 Bf  -     -     -         2055    5    0 
+Dimmer    828455151  4  4 c   b     -     -         2050   20   35 
+Dimmer    828455194  5  4 f   -     -     -         2065    0    0 
+Dimmer    828455205  5  3 r   b     b     b         2065   70    0 Ac 9c
+Dimmer    828455270  5  2 Bk  b     b     -         1995   40   65 
+Dimmer    828455317  5  1 Bc  kf    -     -         2020   10    0 
+Dimmer    828455352  5  5 r   k     k     f         2010   20    0 
+Dimmer    828455401  5  4 f   -     -     -         1990    0    0 
+Dimmer    828455424  5  3 c   c     f     -         1990   20    0 
+Dimmer    828455470  5  2 Br  b     b     -         1970   50  120 
+Dimmer    828455539  5  1 Br  kc    kf    -         2040   30    0 
+Dimmer    828455593  4  4 f   -     -     -         2010    0    0 
+Dimmer    828455621  4  3 c   b     -     -         2010   20   40 
+Dimmer    828455645  4  2 Br  kc    kc    kf        2030   50    0 
+Dimmer    828455714  4  1 Br  b     -     -         1980   30   60 
+Dimmer    828455743  4  4 c   b     -     -         2010   20   35 
+Dimmer    828455774  4  3 rc  b     b     b         2025   80  155 
+Dimmer    828455815  4  2 Br  c     f     -         2100   30    0 
+Dimmer    828455905  4  1 Bcc bc    k     b         2070   60    0 9c 9s
+Dimmer    828455963  4  4 f   -     -     -         2010    0    0 
+Dimmer    828455992  4  3 f   -     -     -         2010    0    0 
+Dimmer    828456004  4  2 Bk  k     b     b         2010   50   80 
+Dimmer    828456044  4  1 Br  -     -     -         2040   20   30 
+Dimmer    828456065  4  4 f   -     -     -         2050    0    0 
+Dimmer    828456073  4  3 r   b     bf    -         2050   50    0 
+Dimmer    828456114  4  2 Bk  k     b     -         2000   30   50 
+Dimmer    828456184  5  1 Bc  k     b     -         2020   30   50 
+Dimmer    828456216  6  6 f   -     -     -         2040    0    0 
+Dimmer    828456251  6  5 f   -     -     -         2040    0    0 
+Dimmer    828456287  6  4 f   -     -     -         2040    0    0 
+Dimmer    828456332  6  3 c   k     k     k         2040   10   30 Jd 4d
+Dimmer    828456399  6  2 Bk  f     -     -         2060   10    0 
+Dimmer    828456426  6  1 Br  b     b     -         2050   50   80 
+Dimmer    828456461  6  6 f   -     -     -         2080    0    0 
+Dimmer    828456480  6  5 c   c     r     b         2080   80  175 9c 8c
+Dimmer    828456531  6  4 f   -     -     -         2175    0    0 
+Dimmer    828456614  5  2 r   -     -     -         2175   20   30 
+Dimmer    828456636  6  2 Br  bc    kc    k         2185   60    0 Kc Qc
+Dimmer    828456686  6  1 Bf  -     -     -         2125    5    0 
+Dimmer    828456708  6  6 f   -     -     -         2120    0    0 
+Dimmer    828456768  6  5 c   b     -     -         2120   20   35 
+Dimmer    828456820  7  5 f   -     -     -         2135    0    0 
+Dimmer    828456857  8  5 c   kc    kc    kc        2135   60  175 Qh Ah
+Dimmer    828456938  8  4 f   -     -     -         2250    0    0 
+Dimmer    828456974  7  3 cc  kf    -     -         2250   20    0 
+Dimmer    828457025  7  2 Bk  b     k     kf        2230   20    0 
+Dimmer    828457085  7  1 Bf  -     -     -         2210    5    0 
+Dimmer    828457114  7  7 c   k     b     -         2205   30   55 
+Dimmer    828457172  7  6 c   b     b     -         2230   40   65 
+Dimmer    828457250  7  5 f   -     -     -         2255    0    0 
+Dimmer    828457311  6  4 r   b     -     -         2255   30   65 
+Dimmer    828457339  6  3 c   b     b     b         2290   60  120 
+Dimmer    828457392  6  2 Bk  kf    -     -         2350   10    0 
+Dimmer    828457423  6  1 Bc  k     b     -         2340   30   50 
+Dimmer    828457471  6  6 c   f     -     -         2360   10    0 
+Dimmer    828457510  6  5 f   -     -     -         2350    0    0 
+Dimmer    828457564  6  4 f   -     -     -         2350    0    0 
+Dimmer    828457631  6  3 c   b     bc    kc        2350   80    0 8s 9h
+Dimmer    828457680  6  2 Bf  -     -     -         2270   10    0 
+Dimmer    828457703  6  1 Bc  kc    b     b         2260   60    0 Ad Kh
+Dimmer    828457775  6  3 Q   -     -     -         2200    0    0 
+Dimmer    828465827  6  5 c   -     -     -         2200   10   30 
+Dimmer    828465922  5  4 r   -     -     -         2220   20   30 
+Dimmer    828465944  5  4 r   b     b     b         2230   70    0 Qs Js
+Dimmer    828466032  7  3 c   k     b     -         2160   30   55 
+Dimmer    828466163  5  2 BQ  -     -     -         2185   10    0 
+Dimmer    828466617  9  5 r   bc    kf    -         2175   40    0 
+Dimmer    828466698  9  4 c   b     k     k         2135   20    0 4h 9h
+Dimmer    828466775  9  3 cc  rr    b     b         2115  100  400 2c 2d
+Dimmer    828466934  9  2 Bk  k     k     b         2415   30   65 
+Dimmer    828467110  9  1 Bcc kQ    -     -         2450   20    0 
+Dimmer    828469695 11  9 c   f     -     -         2070   20    0 
+Dimmer    828469804 10  8 c   b     b     b         2050   60  195 2s Ts
+Dimmer    828469886 10  6 c   r     b     bc        2185   90    0 9d Th
+Dimmer    828469998  9  5 c   kf    -     -         2095   10    0 
+Dimmer    828470157 10  4 r   b     -     -         2085   30   55 
+Dimmer    828470240  9  3 c   kc    kc    k         2110   40    0 Ac 4s
+Dimmer    828470364 10  2 Bk  bc    bc    bc        2070  110    0 Kd 4c
+Dimmer    828470501  9  1 Bc  b     b     b         1960   60    0 Ts 6s
+Dimmer    828470577  9  9 rr  b     r     b         1900  110    0 Ad Ts
+Dimmer    828470781 11  8 f   -     -     -         1790    0    0 
+Dimmer    828470934 11  8 c   Q     -     -         1790   10    0 
+Dimmer    828471366  7  4 f   -     -     -         1780    0    0 
+Dimmer    828471415  7  4 c   bc    bc    k         1780   70    0 Jh Tc
+Dimmer    828471488  7  2 Bk  f     -     -         1710   10    0 
+Dimmer    828471620  8  1 Bf  -     -     -         1700    5    0 
+Dimmer    828471771  8  8 f   -     -     -         1695    0    0 
+Dimmer    828471826  9  8 f   -     -     -         1695    0    0 
+Dimmer    828471923  9  7 rc  b     b     c         1695   90    0 4s 4c
+Dimmer    828472068 10  7 f   -     -     -         1605    0    0 
+Dimmer    828472170  9  5 f   -     -     -         1605    0    0 
+Dimmer    828472263  9  4 fQ  -     -     -         1605    0    0 
+Dimmer    828473651 12 12 f   -     -     -         1605    0    0 
+Dimmer    828473690 12 11 c   b     b     -         1605   40   85 
+Dimmer    828473740 12 10 f   -     -     -         1650    0    0 
+Dimmer    828473806 12  9 c   f     -     -         1650   20    0 
+Dimmer    828473884 12  8 rc  kc    kc    kf        1630   70    0 
+Dimmer    828473978 12  7 r   r     b     br        1560  120  300 Td Ac
+Dimmer    828474085 12  6 cc  bc    kc    kc        1740   80    0 Td 8d
+Dimmer    828474174 12  6 c   c     Q     -         1660   30    0 
+Dimmer    828476157 11  1 Bf  -     -     -         1630    5    0 
+Dimmer    828476325 10 10 f   -     -     -         1625    0    0 
+Dimmer    828476411 11 11 c   b     brc   rr        1625  200    0 9d Ks
+Dimmer    828476544 12 10 rr  r     b     b         1425  100    0 Kd Th
+Dimmer    828476719 12  9 rr  b     b     -         1325   70  205 
+Dimmer    828476845 10  6 r   br    b     b         1460   90    0 Kd 2c
+Dimmer    828476928 11  6 r   b     b     r         1370   90    0 Kd 2c
+Dimmer    828477057 11  3 Q   -     -     -         1280    0    0 
+Dimmer    828535512  2  2 Bf  -     -     -         1280   10    0 
+Dimmer    828535538  2  1 Bc  bc    k     kf        1270   30    0 
+Dimmer    828535603  2  2 Br  b     b     b         1240   70    0 3s As
+Dimmer    828535631  2  1 Bf  -     -     -         1170    5    0 
+Dimmer    828535638  2  2 Bk  b     c     f         1165   40    0 
+Dimmer    828535692  2  1 Bf  -     -     -         1125    5    0 
+Dimmer    828535698  2  2 Br  k     k     k         1120   20   20 5h Kh
+Dimmer    828535724  2  1 Bf  -     -     -         1120    5    0 
+Dimmer    828535734  2  2 Br  k     k     k         1115   20   40 Js Ts
+Dimmer    828535774  2  1 Bc  k     b     -         1135   30   40 
+Dimmer    828535823  2  2 Br  rc    b     b         1145   90    0 Tc Ts
+Dimmer    828535877  2  1 Br  b     b     b         1055   70  140 Kc Td
+Dimmer    828535901  2  2 Bk  k     k     k         1125   10    0 3d 3h
+Dimmer    828535923  2  1 Bc  b     b     b         1115   60    0 8c Qs
+Dimmer    828535951  2  2 Bk  c     k     b         1055   40    0 8h Ac
+Dimmer    828535981  2  1 Bf  -     -     -         1015    5    0 
+Dimmer    828535988  2  2 Br  b     -     -         1010   30   50 
+Dimmer    828536008  2  1 Bf  -     -     -         1030    5    0 
+Dimmer    828536015  2  2 Br  b     -     -         1025   30   50 
+Dimmer    828536030  2  1 Br  -     -     -         1045   20   30 
+Dimmer    828536037  2  2 Bc  c     b     b         1055   70    0 3d 3s
+Dimmer    828536073  2  1 Br  b     b     b          985   70  120 
+Dimmer    828536100  2  2 Bk  k     k     b         1035   30   40 
+Dimmer    828536126  2  1 Bcc kf    -     -         1045   20    0 
+Dimmer    828536142  2  2 Bc  k     c     k         1025   40    0 Qd 5h
+Dimmer    828536163  2  1 Bc  b     br    b          985  100    0 5c Kc
+Dimmer    828536206  2  2 Bk  f     -     -          885   10    0 
+Dimmer    828536236  2  1 Bf  -     -     -          875    5    0 
+Dimmer    828536244  2  2 Bk  c     c     c          870   60    0 Th 6d
+Dimmer    828536273  2  1 Br  b     b     b          810   70  120 
+Dimmer    828536316  2  2 Bk  b     -     -          860   20   30 
+Dimmer    828536330  2  1 Br  k     k     k          870   20   40 Qd 5d
+Dimmer    828536348  2  2 Bk  c     k     k          890   20   40 8h 7d
+Dimmer    828536376  2  1 Br  kc    k     k          910   30    0 7h 9h
+Dimmer    828536401  2  2 Bk  b     b     -          880   40   60 
+Dimmer    828536436  2  1 Bcc b     b     b          900   70  140 9h Ac
+Dimmer    828536457  2  2 Br  b     -     -          970   30   50 
+Dimmer    828536474  2  1 Brrc kc    k     b          990   80  140 
+Dimmer    828536553  2  2 Br  -     -     -         1050   20   30 
+Dimmer    828536565  2  1 Bf  -     -     -         1060    5    0 
+Dimmer    828536569  2  2 Bc  b     c     c         1055   70  140 9h 8d
+Dimmer    828536605  2  1 Bf  -     -     -         1125    5    0 
+Dimmer    828536611  2  2 Bc  k     f     -         1120   20    0 
+Dimmer    828536632  2  1 Bf  -     -     -         1100    5    0 
+Dimmer    828536636  2  2 Bk  k     k     k         1095   10   20 5s Th
+Dimmer    828536702  2  1 Bc  kc    kc    krc       1105  100    0 6d Kh
+Dimmer    828536750  2  2 Bc  k     k     k         1005   20    0 7s 3s
+Dimmer    828536794  2  1 Bf  -     -     -          985    5    0 
+Dimmer    828536801  2  2 Bk  b     b     b          980   60  100 
+Dimmer    828536853  3  1 Bcc kc    kc    kf        1020   50    0 
+Dimmer    828536903  3  3 r   c     r     b          970   90  250 Td 7d
+Dimmer    828536976  2  1 Br  bc    bc    b         1130  100  200 As Js
+Dimmer    828537010  2  1 Bcc kc    kf    -         1230   30    0 
+Dimmer    828537032  2  2 Br  k     c     c         1200   60    0 6s 6d
+Dimmer    828537056  2  1 Brr bc    k     k         1140   60  120 Kd 5h
+Dimmer    828537088  3  3 cc  r     rr    b         1200  140  290 Ad 9s
+Dimmer    828537148  3  2 Bk  ccc   kc    k         1350   70    0 2d 8s
+Dimmer    828537246  3  1 Bf  -     -     -         1280    5    0 
+Dimmer    828537307  3  3 c   k     b     -         1275   30   50 
+Dimmer    828537332  2  1 B   -     -     -         1295   10   10 
+Dimmer    828537338  2  1 Bcc kf    -     -         1295   20    0 
+Dimmer    828537392  2  2 Bc  f     -     -         1275   20    0 
+Dimmer    828537415  2  1 Bf  -     -     -         1255    5    0 
+Dimmer    828537421  2  2 Bf  -     -     -         1250   10    0 
+Dimmer    828537438  2  1 Bf  -     -     -         1240    5    0 
+Dimmer    828537445  2  2 Bc  c     c     c         1235   70    0 Kd 8d
+Dimmer    828537480  2  1 Brc kc    kc    kc        1165   80    0 Qd 5s
+Dimmer    828537505  2  2 Bc  c     c     r         1085   90  180 7d Ks
+Dimmer    828537542  2  1 Bf  -     -     -         1175    5    0 
+Dimmer    828537550  2  2 Bc  rc    c     c         1170   90  180 4h Jc
+Dimmer    828537582  2  1 Bf  -     -     -         1260    5    0 
+Dimmer    828537590  2  2 Bc  rc    c     c         1255   90    0 2h 6d
+Dimmer    828537615  2  1 Bf  -     -     -         1165    5    0 
+Dimmer    828537638  3  3 cc  c     c     c         1160   70  150 As Kc
+Dimmer    828537676  3  2 Bf  -     -     -         1240   10    0 
+Dimmer    828537698  3  1 Bcc kc    kc    kc        1230   70    0 5d 6h
+Dimmer    828537753  3  3 cc  c     c     b         1160   70  150 9d 7c
+Dimmer    828537799  3  2 Bk  kc    k     kc        1240   40   90 Ts Jd
+Dimmer    828537828  3  1 Bcc kc    kc    kc        1290   70    0 9d Qs
+Dimmer    828537857  3  3 cc  c     f     -         1220   30    0 
+Dimmer    828537904  2  1 Bc  kc    kc    kc        1190   70    0 Ts 3d
+Dimmer    828537932  2  1 Bcc kf    -     -         1120   20    0 
+Dimmer    828537946  2  2 Br  k     f     -         1100   30    0 
+Dimmer    828537966  2  1 Brrrc krc   kc    kc        1070  140    0 Kh Ad
+Dimmer    828537997  2  2 Brrrc c     c     c          930  130    0 7s Kh
+Dimmer    828538043  2  1 Brr b     br    b          800  130  260 Kc Ad
+Dimmer    828538082  2  2 Bk  f     -     -          930   10    0 
+Dimmer    828538092  2  1 Brc br    br    b          920  140  280 7s Ac
+Dimmer    828538121  2  2 Bf  -     -     -         1060   10    0 
+Dimmer    828538130  2  1 Bcc kf    -     -         1050   20    0 
+Dimmer    828538146  2  2 Brrc rr    r     brc       1030  220  440 Qc Ks
+Dimmer    828538191  2  1 Bc  kc    kc    kc        1250   60    0 Ah 2h
+Dimmer    828538217  2  2 Bc  c     c     c         1190   70    0 Kh 6s
+Dimmer    828538238  2  1 Brc kc    kc    kf        1120   60    0 
+Dimmer    828538266  2  2 Bc  k     b     -         1060   40   60 
+Dimmer    828538290  2  1 Bf  -     -     -         1080    5    0 
+Dimmer    828538297  2  2 Brc c     c     c         1075   80    0 6d Ks
+Dimmer    828538317  2  1 Bf  -     -     -          995    5    0 
+Dimmer    828538323  2  2 Bc  f     -     -          990   20    0 
+Dimmer    828538332  2  1 Bc  k     k     b          970   30   60 2s Ts
+Dimmer    828538362  3  3 cc  f     -     -         1000   20    0 
+Dimmer    828538400  3  2 Bc  k     c     f          980   40    0 
+Dimmer    828538431  3  1 Bcc brc   bc    bc         940  140  140 9d 2c
+Dimmer    828538481  3  3 f   -     -     -          940    0    0 
+Dimmer    828538509  3  2 Bc  bc    krr   b          940  140  400 3c Jd
+Dimmer    828538584  3  1 Bf  -     -     -         1200    5    0 
+Dimmer    828538611  3  3 cc  f     -     -         1195   20    0 
+Dimmer    828538726  3  2 Bk  kf    -     -         1175   10    0 
+Dimmer    828538782  3  1 Bf  -     -     -         1165    5    0 
+Dimmer    828538803  3  3 r   c     c     c         1160   70    0 7h 7s
+Dimmer    828538849  3  2 Br  c     c     rrrc      1090  190    0 2s 5s
+Dimmer    828538939  3  1 Bf  -     -     -          900    5    0 
+Dimmer    828538973  3  3 rc  r     b     b          895   90  190 2d Qs
+Dimmer    828539013  3  2 Bf  -     -     -          995   10    0 
+Dimmer    828539048  3  1 Bc  b     br    b          985  100  210 6c 4c
+Dimmer    828539095  4  4 r   rc    c     r         1095  110  400 Th Kh
+Dimmer    828539195  4  3 c   c     c     c         1385   60  180 Th Kc
+Dimmer    828539271  4  2 Bk  k     kf    -         1505   10    0 
+Dimmer    828539323  4  1 Bcc kf    -     -         1495   20    0 
+Dimmer    828539402  5  5 f   -     -     -         1475    0    0 
+Dimmer    828539444  5  4 c   k     f     -         1475   10    0 
+Dimmer    828539507  5  3 f   -     -     -         1465    0    0 
+Dimmer    828539569  5  2 Brc bc    bc    kc        1465  120    0 Kd Ad
+Dimmer    828539697  5  1 Bf  -     -     -         1345    5    0 
+Dimmer    828539738  4  4 rc  c     f     -         1340   40    0 
+Dimmer    828539795  4  3 cc  kc    kf    -         1300   30    0 
+Dimmer    828539926  4  2 Bc  brc   br    -         1270  120  240 
+Dimmer    828539994  4  1 Bf  -     -     -         1390    5    0 
+Dimmer    828540094  3  3 f   -     -     -         1385    0    0 
+Dimmer    828540153  4  3 cc  kcc   cc    b         1385  120  420 6h 8h
+Dimmer    828540306  4  2 Bc  kcc   f     -         1685   60    0 
+Dimmer    828540421  4  1 Bf  -     -     -         1625    5    0 
+Dimmer    828540493  4  4 f   -     -     -         1620    0    0 
+Dimmer    828540557  4  3 ccc kf    -     -         1620   40    0 
+Dimmer    828540648  4  2 Bf  -     -     -         1580   10    0 
+Dimmer    828540740  4  1 Bf  -     -     -         1570    5    0 
+Dimmer    828540795  4  4 cc  c     f     -         1565   30    0 
+Dimmer    828540860  5  3 c   kf    -     -         1535   10    0 
+Dimmer    828540932  5  2 Bf  -     -     -         1525   10    0 
+Dimmer    828540975  5  1 Bcc kc    kf    -         1515   30    0 
+Dimmer    828541067  5  5 cc  c     c     rrrrrr    1485  290  655 5c Kh
+Dimmer    828541256  5  5 f   -     -     -         1850    0    0 
+Dimmer    828541336  6  4 rc  r     rr    b         1850  150  510 Jd Js
+Dimmer    828541462  6  4 c   k     b     -         2210   30   75 
+Dimmer    828541672  6  2 c   k     kf    -         2255   10    0 
+Dimmer    828541775  7  2 Bk  k     b     b         2245   50  110 
+Dimmer    828541844  7  1 Bf  -     -     -         2305    5    0 
+Dimmer    828541912  7  7 f   -     -     -         2300    0    0 
+Dimmer    828541966  7  6 cc  kc    kc    br        2300  110  315 Qc 4s
+Dimmer    828542104  6  4 f   -     -     -         2505    0    0 
+Dimmer    828542213  5  2 c   b     b     b         2505   60  120 
+Dimmer    828542275  5  2 Bk  ccc   f     -         2565   50    0 
+Dimmer    828542365  5  1 Bf  -     -     -         2515    5    0 
+Dimmer    828542410  5  5 c   b     b     b         2510   60  150 5s Ad
+Dimmer    828542491  6  5 c   b     b     b         2600   60  190 7c Kc
+Dimmer    828542574  8  6 f   -     -     -         2730    0    0 
+Dimmer    828542620  8  5 f   -     -     -         2730    0    0 
+Dimmer    828542671  8  4 f   -     -     -         2730    0    0 
+Dimmer    828542760  8  3 f   -     -     -         2730    0    0 
+Dimmer    828542870  8  2 Bk  kf    -     -         2730   10    0 
+Dimmer    828542945  8  1 Bc  bc    kc    kf        2720   60    0 
+Dimmer    828543023  8  8 cc  c     c     c         2660   70  250 As 6h
+Dimmer    828543085  8  7 f   -     -     -         2840    0    0 
+Dimmer    828543180  7  6 cc  f     -     -         2840   20    0 
+Dimmer    828543304  7  5 c   b     b     f         2820   40    0 
+Dimmer    828543443  5  3 r   b     b     -         2780   50  120 
+Dimmer    828543548  4  2 Bk  cc    k     k         2850   30    0 8s Td
+Dimmer    828543628  4  1 Bf  -     -     -         2820    5    0 
+Dimmer    828543675  3  3 c   k     k     b         2815   30   50 
+Dimmer    828543837  3  2 Bc  c     b     -         2835   50   80 
+Dimmer    828543885  3  1 Bc  k     bc    b         2865   70  150 9d 9s
+Dimmer    828543970  3  3 c   b     b     -         2945   40   70 
+Dimmer    828544046  3  2 Bc  f     -     -         2975   20    0 
+Dimmer    828544081  2  1 Bcc k     kf    -         2955   20    0 
+Dimmer    828544137  2  2 B   -     -     -         2935   10   15 
+Dimmer    828544143  2  1 Bc  b     -     -         2940   20   30 
+Dimmer    828544190  2  2 Bc  c     c     c         2950   70  140 5d Kc
+Dimmer    828544222  2  1 Bc  b     -     -         3020   20   30 
+Dimmer    828544251  2  2 B   -     -     -         3030   10   15 
+Dimmer    828544259  2  1 Bcc krc   krc   b         3035  130  260 Jc 2c
+Dimmer    828544331  2  2 Bc  r     b     b         3165   80    0 7s 5s
+Dimmer    828544404  2  1 BQ  -     -     -         3085    5    0 
+Dimmer    828544813  2  1 Bc  kc    k     kf        3080   20    0 
+Dimmer    828544863  2  2 Bk  k     b     -         3060   30   40 
+Dimmer    828544884  2  1 Bc  k     b     -         3070   30   40 
+Dimmer    828544909  2  2 Br  c     c     f         3080   50    0 
+Dimmer    828544937  2  1 Bf  -     -     -         3030    5    0 
+Dimmer    828544946  2  2 Bk  k     k     k         3025   10   20 3d 8d
+Dimmer    828544968  2  1 Bc  b     -     -         3035   20   30 
+Dimmer    828544987  2  2 Bc  c     b     b         3045   70  140 Kh 4h
+Dimmer    828545019  3  1 Bc  k     b     b         3115   50   90 
+Dimmer    828545095  3  3 f   -     -     -         3155    0    0 
+Dimmer    828545110  3  2 Bc  kc    kc    k         3155   50    0 Qc 3c
+Dimmer    828545158  3  1 Bcc kc    kf    -         3105   30    0 
+Dimmer    828545279  2  2 Bc  c     c     c         3075   70  140 Ah 3s
+Dimmer    828545313  2  1 Bc  k     k     k         3145   10    0 7d 4d
+Dimmer    828545335  2  2 Bc  f     -     -         3135   20    0 
+Dimmer    828545350  2  1 Br  b     -     -         3115   30   50 
+Dimmer    828545371  2  2 Bc  c     c     c         3135   70    0 2d 4d
+Dimmer    828545402  2  1 Br  b     -     -         3065   30   50 
+Dimmer    828545416  2  2 Bc  k     bc    c         3085   80    0 Qc Td
+Dimmer    828545453  2  1 Br  bc    kc    k         3005   60   60 8c Kh
+Dimmer    828545494  2  2 Bf  -     -     -         3005   10    0 
+Dimmer    828545504  2  1 Br  bc    kc    k         2995   60    0 6c 5d
+Dimmer    828545534  2  2 Bc  c     f     -         2935   30    0 
+Dimmer    828545558  2  1 Br  b     b     -         2905   50   80 
+Dimmer    828545577  2  2 Br  b     -     -         2935   40   70 
+Dimmer    828545593  2  1 Br  b     -     -         2965   30   50 
+Dimmer    828545609  2  2 B   -     -     -         2985   10   15 
+Dimmer    828545615  2  1 Bc  k     b     -         2990   30   40 
+Dimmer    828545636  2  2 Bc  k     k     k         3000   20   40 Ah 7d
+Dimmer    828545693  2  1 Br  k     k     k         3020   20   20 4s Ks
+Dimmer    828545726  2  2 Br  b     bc    c         3020  100    0 Kd As
+Dimmer    828545786  2  1 Bf  -     -     -         2920    5    0 
+Dimmer    828545794  2  2 Bc  c     c     c         2915   70    0 Kd 5s
+Dimmer    828545815  2  1 Br  b     -     -         2845   30   50 
+Dimmer    828545832  2  2 Br  b     b     b         2865   80  140 
+Dimmer    828545872  2  1 Bcc kf    -     -         2925   20    0 
+Dimmer    828545896  2  2 Bc  c     c     k         2905   50    0 4c Ad
+Dimmer    828545921  2  1 Br  b     b     -         2855   50   80 
+Dimmer    828545949  2  2 Bc  c     b     b         2885   70  140 Jc 5c
+Dimmer    828545992  2  1 Br  kc    kc    kc        2955   70    0 6h 5h
+Dimmer    828546029  2  2 Bc  c     f     -         2885   30    0 
+Dimmer    828546050  2  1 Bf  -     -     -         2855    5    0 
+Dimmer    828546055  2  2 Br  b     b     b         2850   80  160 7h As
+Dimmer    828546081  2  1 Bf  -     -     -         2930    5    0 
+Dimmer    828546090  2  2 Bc  c     f     -         2925   30    0 
+Dimmer    828546121  2  1 Br  b     bf    -         2895   50    0 
+Dimmer    828546168  2  2 Br  k     k     k         2845   30   60 Td Qh
+Dimmer    828546193  2  1 Br  bc    b     b         2875   80    0 Ad 7s
+Dimmer    828546240  2  2 Br  b     b     b         2795   80  160 5h Kh
+Dimmer    828546265  2  1 Br  -     -     -         2875   20   30 
+Dimmer    828546275  2  2 Bc  b     -     -         2885   30   50 
+Dimmer    828546293  2  1 Br  b     b     bc        2905   90    0 7d Jd
+Dimmer    828546340  2  2 Bc  f     -     -         2815   20    0 
+Dimmer    828546353  2  1 Bf  -     -     -         2795    5    0 
+Dimmer    828546365  2  2 Br  b     -     -         2790   40   70 
+Dimmer    828546396  2  1 Br  b     -     -         2820   30   50 
+Dimmer    828546421  2  2 Br  k     b     -         2840   50   80 
+Dimmer    828546490  2  1 Br  b     b     -         2870   50   80 
+Dimmer    828546514  2  2 Bc  r     b     b         2900   80  160 7s Qh
+Dimmer    828546573  2  1 Br  b     b     bc        2980   90    0 9c 8d
+Dimmer    828546654  2  2 Bc  c     b     -         2890   50   80 
+Dimmer    828546680  2  1 Brc kf    -     -         2920   30    0 
+Dimmer    828546806  2  2 Bc  c     k     k         2890   30   60 Ac 2s
+Dimmer    828546892  2  1 Br  b     -     -         2920   30   50 
+Dimmer    828546973  2  2 Bk  Q     -     -         2940   10   20 
+Dimmer    828561115  7  7 c   f     -     -         2950   20    0 
+Dimmer    828561152  7  6 c   b     b     b         2930   60  120 
+Dimmer    828561204  7  4 c   bc    kc    k         2990   50  140 8c Kc
+Dimmer    828561251  7  3 r   b     b     b         3080   70  165 
+Dimmer    828561290  7  2 Bk  kQ    -     -         3175   10    0 
+Dimmer    828562205  8  5 c   k     f     -         2745   10    0 
+Dimmer    828562278  8  4 f   -     -     -         2735    0    0 
+Dimmer    828562355  7  3 Q   -     -     -         2735    0    0 
+Dimmer    828562823  9  6 f   -     -     -         2735    0    0 
+Dimmer    828562891  9  5 r   b     b     b         2735   80  155 
+Dimmer    828563032  9  3 f   -     -     -         2810    0    0 
+Dimmer    828563144  9  3 f   -     -     -         2810    0    0 
+Dimmer    828563218  9  2 Bc  kf    -     -         2810   20    0 
+Dimmer    828563304  9  1 Br  br    b     br        2790  140  330 Qc Ac
+Dimmer    828563487 11 11 cc  c     rc    c         2980  110  300 6s Ks
+Dimmer    828563587 12 11 f   -     -     -         3170    0    0 
+Dimmer    828563758 11  9 Q   -     -     -         3170    0    0 
+Dimmer    828564157 10  8 c   r     c     b         3170   80  185 6s 6d
+Dimmer    828564216 10  3 Q   -     -     -         3275    0    0 
+Dimmer    829060983  2  1 Bc  k     k     k         3275   10   20 7h 6d
+Dimmer    829061019  2  2 Bk  k     b     b         3285   50    0 Ks 9h
+Dimmer    829061073  2  1 Br  -     -     -         3235   20   30 
+Dimmer    829061081  2  2 B   -     -     -         3245   10   15 
+Dimmer    829061086  2  1 Bc  -     -     -         3250   10   20 
+Dimmer    829061101  2  2 Br  -     -     -         3260   20   30 
+Dimmer    829061116  2  1 Br  -     -     -         3270   20   30 
+Dimmer    829061129  2  2 B   -     -     -         3280   10   15 
+Dimmer    829061137  2  1 Bf  -     -     -         3285    5    0 
+Dimmer    829061142  2  2 Br  c     c     f         3280   50    0 
+Dimmer    829061171  2  1 Br  -     -     -         3230   20   30 
+Dimmer    829061177  2  2 B   -     -     -         3240   10   15 
+Dimmer    829061186  2  1 Br  -     -     -         3245   20   30 
+Dimmer    829061193  2  2 B   -     -     -         3255   10   15 
+Dimmer    829061203  2  1 Br  -     -     -         3260   20   30 
+Dimmer    829061207  2  2 Br  b     b     b         3270   70  120 
+Dimmer    829061250  2  1 Br  -     -     -         3320   20   30 
+Dimmer    829061259  2  2 Br  b     -     -         3330   30   50 
+Dimmer    829061358  2  1 Bf  -     -     -         3350    5    0 
+Dimmer    829061375  2  2 Bc  b     b     b         3345   70  140 5d Td
+Dimmer    829061413  2  1 Bc  k     k     b         3415   30   40 
+Dimmer    829061443  3  3 c   b     -     -         3425   20   35 
+Dimmer    829061467  3  2 Bf  -     -     -         3440   10    0 
+Dimmer    829061480  3  1 Br  b     b     b         3430   70    0 Kc Qd
+Dimmer    829061515  3  3 c   c     c     f         3360   50    0 
+Dimmer    829061573  3  2 Bk  k     b     b         3310   50    0 9s Qh
+Dimmer    829061614  3  1 Br  b     -     -         3260   30   70 
+Dimmer    829061653  3  3 f   -     -     -         3300    0    0 
+Dimmer    829061658  3  2 Brc c     c     c         3300   90    0 Jc Qc
+Dimmer    829061710  3  1 Br  b     -     -         3210   30   60 
+Dimmer    829061731  4  4 f   -     -     -         3240    0    0 
+Dimmer    829061771  6  5 f   -     -     -         3240    0    0 
+Dimmer    829061969  5  3 cc  f     -     -         3240   20    0 
+Dimmer    829062052  5  2 Bc  kc    kc    kf        3220   50    0 
+Dimmer    829062168  6  1 Bf  -     -     -         3170    5    0 
+Dimmer    829062212  6  6 r   c     c     c         3165   70    0 Jh Ah
+Dimmer    829062276  6  5 f   -     -     -         3095    0    0 
+Dimmer    829062296  6  4 r   r     c     f         3095   60    0 
+Dimmer    829062354  5  3 c   k     b     -         3035   30   60 
+Dimmer    829062412  5  2 Bk  kc    kf    -         3065   20    0 
+Dimmer    829062456  4  1 Br  b     -     -         3045   30   50 
+Dimmer    829062473  5  4 f   -     -     -         3065    0    0 
+Dimmer    829062483  5  3 r   -     -     -         3065   20   35 
+Dimmer    829062506  5  2 Bc  kf    -     -         3080   20    0 
+Dimmer    829062529  5  1 Bf  -     -     -         3060    5    0 
+Dimmer    829062557  5  5 c   r     b     b         3055   70    0 7d Tc
+Dimmer    829062614  5  4 r   b     b     bc        2985   90  200 Kd Jh
+Dimmer    829062649  5  3 f   -     -     -         3095    0    0 
+Dimmer    829062667  5  2 Brc b     bc    kc        3095  110    0 Jc Kh
+Dimmer    829062722  6  1 Br  b     -     -         2985   30   70 
+Dimmer    829062753  6  6 f   -     -     -         3025    0    0 
+Dimmer    829062786  6  5 f   -     -     -         3025    0    0 
+Dimmer    829062815  6  4 f   -     -     -         3025    0    0 
+Dimmer    829062859  6  3 cc  br    b     b         3025   90    0 5d As
+Dimmer    829062916  6  2 Br  kc    kr    brc       2935  150    0 5s 8s
+Dimmer    829063059  6  1 Bf  -     -     -         2785    5    0 
+Dimmer    829063060  6  6 f   -     -     -         2780    0    0 
+Dimmer    829063091  6  5 r   b     b     b         2780   70    0 Kh 8h
+Dimmer    829063229  3  2 r   -     -     -         2710   20   30 
+Dimmer    829063248  3  1 Bc  kf    -     -         2720   20    0 
+Dimmer    829063330  3  1 Br  b     bc    k         2700   70    0 9c 7c
+Dimmer    829063363  3  3 r   k     k     k         2630   20   45 7d Qd
+Dimmer    829063402  3  2 Brc kc    kf    -         2655   40    0 
+Dimmer    829063468  3  1 Bc  k     b     b         2615   50   80 
+Dimmer    829063532  3  3 r   -     -     -         2645   20   35 
+Dimmer    829063564  3  2 Br  b     b     -         2660   50   80 
+Dimmer    829063629  3  1 Bf  -     -     -         2690    5    0 
+Dimmer    829063651  3  3 r   rc    b     -         2685   70  130 
+Dimmer    829063726  3  2 Br  k     b     -         2745   40   60 
+Dimmer    829063779  3  1 Bf  -     -     -         2765    5    0 
+Dimmer    829063886  4  4 f   -     -     -         2760    0    0 
+Dimmer    829063928  4  3 f   -     -     -         2760    0    0 
+Dimmer    829063976  4  2 B   -     -     -         2760   10   15 
+Dimmer    829063997  4  1 Bf  -     -     -         2765    5    0 
+Dimmer    829064055  5  5 c   r     b     b         2760   80  175 9d Jh
+Dimmer    829064141  5  5 cc  k     b     b         2855   60  110 
+Dimmer    829064196  5  4 f   -     -     -         2905    0    0 
+Dimmer    829064220  5  3 r   -     -     -         2905   20   35 
+Dimmer    829064234  5  2 Br  b     -     -         2920   40  100 
+Dimmer    829064267  5  1 Bf  -     -     -         2980    5    0 
+Dimmer    829064364  4  4 f   -     -     -         2975    0    0 
+Dimmer    829064392  4  3 r   bc    kf    -         2975   40    0 
+Dimmer    829064430  5  2 Bc  b     b     b         2935   70    0 2c 9s
+Dimmer    829064473  4  1 Br  b     -     -         2865   30   60 
+Dimmer    829064493  4  4 rc  rr    b     b         2895  120    0 9s As
+Dimmer    829064534  6  4 r   -     -     -         2775   20   35 
+Dimmer    829064551  7  4 c   b     b     -         2790   40  100 
+Dimmer    829064603  7  3 f   -     -     -         2850    0    0 
+Dimmer    829064655  6  1 Bk  kf    -     -         2850   10    0 
+Dimmer    829064702  8  1 Br  b     bc    kc        2840   90  210 Ks Kd
+Dimmer    829064760  8  8 f   -     -     -         2960    0    0 
+Dimmer    829064807  9  8 r   b     c     f         2960   50    0 
+Dimmer    829064881  8  6 f   -     -     -         2910    0    0 
+Dimmer    829064981  9  5 r   bc    kf    -         2910   40    0 
+Dimmer    829065059 10  5 r   b     b     br        2870  110  265 Th 6h
+Dimmer    829065216  9  3 c   kc    kf    -         3025   20    0 
+Dimmer    829065358 10  4 c   kQ    -     -         3005   10    0 
+Dimmer    829065747  9  7 c   c     f     -         2995   30    0 
+Dimmer    829065869 10  7 f   -     -     -         2965    0    0 
+Dimmer    829065971 10  6 r   b     brc   kc        2965  130  315 8h 7h
+Dimmer    829066098  9  4 cc  kc    k     k         3150   30    0 9c Qc
+Dimmer    829066185  9  3 r   c     f     -         3120   30    0 
+Dimmer    829066241  8  2 Bc  kc    bc    k         3090   70    0 3h Jc
+Dimmer    829066368  7  1 Br  bc    b     b         3020   80  210 As Ah
+Dimmer    829066456  6  6 r   r     b     b         3150   90  270 
+Dimmer    829066576  8  6 c   kc    kf    -         3330   20    0 
+Dimmer    829066626  8  5 c   f     -     -         3310   10    0 
+Dimmer    829066700  8  4 f   -     -     -         3300    0    0 
+Dimmer    829066748  8  3 c   Q     -     -         3300   10    0 
+Dimmer    829068636 10  4 c   kf    -     -         3290   10    0 
+Dimmer    829068774  9  3 r   b     b     -         3280   50  105 
+Dimmer    829068873  9  2 Bk  kf    -     -         3335   10    0 
+Dimmer    829068971  8  1 Bc  kc    k     kf        3325   40    0 
+Dimmer    829069083  9  9 f   -     -     -         3285    0    0 
+Dimmer    829069215 10  8 c   k     c     rc        3285   90  210 2d 8d
+Dimmer    829069351 12  7 f   -     -     -         3405    0    0 
+Dimmer    829069436 12  6 f   -     -     -         3405    0    0 
+Dimmer    829069614 12  5 c   r     -     -         3405   40    2 8s Td
+Dimmer    829069701 12  5 r   b     c     bc        3367   90    0 Kh Td
+Dimmer    829069785  9  2 Br  bc    kQ    -         3277   40    0 
+Dimmer    829070307  9  3 r   b     b     -         3237   50  125 
+Dimmer    829070347  9  2 Bk  b     b     b         3312   60  190 9h 7h
+Dimmer    829070435  9  1 Bf  -     -     -         3442    5    0 
+Dimmer    829070525  9  9 c   b     b     b         3437   60    0 Qs 5c
+Dimmer    829071061  6  2 Bc  kf    -     -         3422   20    0 
+Dimmer    829071122  6  1 Br  b     b     -         3402   50  110 
+Dimmer    829071186  6  6 f   -     -     -         3462    0    0 
+Dimmer    829071223  6  5 r   -     -     -         3462   20   35 
+Dimmer    829071254  6  4 f   -     -     -         3477    0    0 
+Dimmer    829071295  6  3 r   bc    f     -         3477   40    0 
+Dimmer    829071350  6  2 Bk  f     -     -         3437   10    0 
+Dimmer    829071448  6  1 Br  br    b     b         3427   90  180 
+Dimmer    829071455  8  8 r   c     c     c         3517   70    0 Ts Th
+Dimmer    829071491  9  7 rc  k     b     -         3447   50  155 
+Dimmer    829071571  9  6 f   -     -     -         3552    0    0 
+Dimmer    829071613  9  5 rc  cc    kf    -         3552   50    0 
+Dimmer    829071701  8  4 f   -     -     -         3502    0    0 
+Dimmer    829071765  8  3 cc  r     bc    r         3502  120    0 Kc 4h
+Dimmer    829071914 10  2 Bc  kc    bc    c         3382  130  285 6h Qc
+Dimmer    829072088 12  1 Bc  kc    kf    -         3537   30    0 
+Dimmer    829072370  6  6 r   b     b     -         3507   60  180 
+Dimmer    829072471  5  4 f   -     -     -         3627    0    0 
+Dimmer    829072508  5  3 f   -     -     -         3627    0    0 
+Dimmer    829072571  5  2 Bc  br    b     -         3627   70  125 
+Dimmer    829072573  6  1 Bf  -     -     -         3682    5    0 
+Dimmer    829072653  6  6 cc  f     -     -         3677   20    0 
+Dimmer    829072704  6  5 f   -     -     -         3657    0    0 
+Dimmer    829072768  6  4 r   b     -     -         3657   30   55 
+Dimmer    829072817  6  3 f   -     -     -         3682    0    0 
+Dimmer    829072901  7  3 r   b     b     b         3682   70    0 Td 6d
+Dimmer    829072975  7  2 Bc  b     b     -         3612   50  120 
+Dimmer    829073051  8  1 BQ  -     -     -         3682    5    0 
+Dimmer    829076892 11  6 r   kr    b     b         3442   80    0 4s 5s
+Dimmer    829076984 11  4 r   c     f     -         3362   30    0 
+Dimmer    829077062 12  3 r   b     -     -         3332   30   65 
+Dimmer    829077194 12  2 Bc  kc    kc    kf        3367   50    0 
+Dimmer    829077359 12  1 Bc  kc    bc    k         3317   70    0 Tc Js
+Dimmer    829077493 12  4 Q   -     -     -         3247    0    0 
+Dimmer    829723686  7  7 f   -     -     -         3247    0    0 
+Dimmer    829723901  6  5 c   k     f     -         3247   20    0 
+Dimmer    829723951  6  4 cQ  Q     -     -         3227   20    0 
+Dimmer    829726884  5  4 r   b     b     -         3207   50  115 
+Dimmer    829726931  5  3 cc  kf    -     -         3272   20    0 
+Dimmer    829727001  6  2 Bk  kc    kc    kf        3252   40    0 
+Dimmer    829727115  6  1 Bc  b     b     kf        3212   40    0 
+Dimmer    829727251  6  6 rc  c     k     c         3172   70    0 8c Qc
+Dimmer    829727354  6  5 c   f     -     -         3102   10    0 
+Dimmer    829727423  6  4 f   -     -     -         3092    0    0 
+Dimmer    829727456  6  3 f   -     -     -         3092    0    0 
+Dimmer    829727517  6  2 Bk  kf    -     -         3092   10    0 
+Dimmer    829727636  6  1 Bf  -     -     -         3082    5    0 
+Dimmer    829727688  6  6 cc  c     bc    r         3077  140    0 Kc 2d
+Dimmer    829727826  6  5 Q   -     -     -         2937    0    0 
+Dimmer    829845269 10  2 Bc  kf    -     -         2697   20    0 
+Dimmer    829845382 10  1 Bc  bc    kf    -         2677   40    0 
+Dimmer    829845520 11 11 r   rc    r     b         2637  110    0 3c 7c
+Dimmer    829845739 10 10 r   Q     -     -         2527   20    0 
+Dimmer    830000138  4  2 Bc  c     bc    kc        2507  100    0 Tc Js
+Dimmer    830000273  3  1 Bf  -     -     -         2407    5    0 
+Dimmer    830000300  4  3 f   -     -     -         2402    0    0 
+Dimmer    830000340  4  2 Bc  kf    -     -         2402   20    0 
+Dimmer    830000404  4  1 BQ  -     -     -         2382    5    0 
+Dimmer    830466188  4  4 c   k     c     f         1000   30    0 
+Dimmer    830466356  5  4 r   b     b     b          970   70    0 Qh Kd
+Dimmer    830466425  3  3 r   -     -     -          900   20   35 
+Dimmer    830466475  3  1 Bc  br    b     b          915   90  160 
+Dimmer    830466559  3  1 BQ  -     -     -          985    5    0 

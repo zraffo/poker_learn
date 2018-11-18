@@ -1,0 +1,113 @@
+BusDriver 966114154 11  3 f   -     -     -        25000    0    0 
+BusDriver 966114236 11  2 Bk  kf    -     -        25000  200    0 
+BusDriver 966114293 11  1 Bc  kf    -     -        24800  200    0 
+BusDriver 966114329 11 11 f   -     -     -        24600    0    0 
+BusDriver 966114370 11 10 f   -     -     -        24600    0    0 
+BusDriver 966114408 11  9 f   -     -     -        24600    0    0 
+BusDriver 966114496 11  8 c   k     b     k        24600 1500 4400 Tc Jd
+BusDriver 966114542 11  7 r   b     -     -        27500 4700 9600 
+BusDriver 966114634 11  6 f   -     -     -        32400    0    0 
+BusDriver 966114688 11  5 f   -     -     -        32400    0    0 
+BusDriver 966114782 11  4 f   -     -     -        32400    0    0 
+BusDriver 966114841 11  3 f   -     -     -        32400    0    0 
+BusDriver 966114905 10  2 Bk  kf    -     -        32400  800    0 
+BusDriver 966114975 10  1 Bf  -     -     -        31600  400    0 
+BusDriver 966115014 10 10 f   -     -     -        31200    0    0 
+BusDriver 966115052  9  8 f   -     -     -        31200    0    0 
+BusDriver 966115082  9  7 c   kf    -     -        31200  800    0 
+BusDriver 966115112  9  6 cf  -     -     -        30400  800    0 
+BusDriver 966115145  9  5 f   -     -     -        29600    0    0 
+BusDriver 966115191  8  4 f   -     -     -        29600    0    0 
+BusDriver 966115243  8  3 f   -     -     -        29600    0    0 
+BusDriver 966115257  8  2 Bk  kf    -     -        29600 1600    0 
+BusDriver 966115280  8  1 Bf  -     -     -        28000  800    0 
+BusDriver 966115316  7  7 f   -     -     -        27200    0    0 
+BusDriver 966115334  7  7 f   -     -     -        27200    0    0 
+BusDriver 966115344  7  6 rA  -     -     -        27200 27200 29600 
+BusDriver 966115360  7  5 f   -     -     -        29600    0    0 
+BusDriver 966115399  7  4 f   -     -     -        29600    0    0 
+BusDriver 966115411  7  3 f   -     -     -        29600    0    0 
+BusDriver 966115460  7  2 Bf  -     -     -        29600 1600    0 
+BusDriver 966115479  7  1 Bf  -     -     -        28000  800    0 
+BusDriver 966115500  7  7 c   b     -     -        27200 9600 16000 
+BusDriver 966115535  7  6 f   -     -     -        33600    0    0 
+BusDriver 966115568  7  5 c   b     -     -        33600 12800 19200 
+BusDriver 966115591  7  4 f   -     -     -        40000    0    0 
+BusDriver 966115614  7  3 r   b     -     -        40000 24200 34400 
+BusDriver 966115640  7  2 Br  -     -     -        50200 25600 35200 
+BusDriver 966115664  7  1 Bf  -     -     -        59800 1600    0 
+BusDriver 966115681  7  7 f   -     -     -        58200    0    0 
+BusDriver 966115700  7  6 c   k     k     k        58200 3200    0 Qh 9d
+BusDriver 966115733  7  5 f   -     -     -        55000    0    0 
+BusDriver 966115760  7  4 f   -     -     -        55000    0    0 
+BusDriver 966115801  7  3 f   -     -     -        55000    0    0 
+BusDriver 966115825  7  2 Bf  -     -     -        55000 3200    0 
+BusDriver 966115856  7  1 Bc  k     k     k        51800 3200 6400 Jh Ah
+BusDriver 966115884  7  7 f   -     -     -        55000    0    0 
+BusDriver 966115898  7  6 f   -     -     -        55000    0    0 
+BusDriver 966115924  7  5 r   -     -     -        55000 22400 32000 
+BusDriver 966115935  7  4 f   -     -     -        64600    0    0 
+BusDriver 966115952  5  2 Bf  -     -     -        64600 6400    0 
+BusDriver 966115973  5  1 Bc  kf    -     -        58200 6400    0 
+BusDriver 966116012  5  5 f   -     -     -        51800    0    0 
+BusDriver 966116031  5  4 f   -     -     -        51800    0    0 
+BusDriver 966116060  5  3 f   -     -     -        51800    0    0 
+BusDriver 966116071  5  2 Bk  b     -     -        51800 22400 32000 
+BusDriver 966116088  5  1 Bc  krA   -     -        61400 61400 93400 
+BusDriver 966116107  5  5 f   -     -     -        93400    0    0 
+BusDriver 966116114  5  4 cf  -     -     -        93400 6400    0 
+BusDriver 966116128  4  3 f   -     -     -        87000    0    0 
+BusDriver 966116140  4  2 Bk  k     k     k        87000 6400    0 5c 5s
+BusDriver 966116170  4  1 Bf  -     -     -        80600 3200    0 
+BusDriver 966116196  4  4 c   b     k     f        77400 28800    0 
+BusDriver 966116234  4  3 f   -     -     -        48600    0    0 
+BusDriver 966116238  4  2 BrA -     -     -        48600 48600    0 7c 7d
+BusDriver 966116633 15  2 Bf  -     -     -         2000   10    0 
+BusDriver 966116731 15  1 Bf  -     -     -         1990    5    0 
+BusDriver 966116795 15 15 f   -     -     -         1985    0    0 
+BusDriver 966116869 15 14 c   c     k     k         1985   85    0 7h 4h
+BusDriver 966116964 15 13 f   -     -     -         1900    0    0 
+BusDriver 966117033 15 12 f   -     -     -         1900    0    0 
+BusDriver 966117065 15 11 f   -     -     -         1900    0    0 
+BusDriver 966117174 15 10 c   f     -     -         1900   50    0 
+BusDriver 966117262 15  9 f   -     -     -         1850    0    0 
+BusDriver 966117314 15  8 f   -     -     -         1850    0    0 
+BusDriver 966117409 15  7 f   -     -     -         1850    0    0 
+BusDriver 966117472 14  5 f   -     -     -         1850    0    0 
+BusDriver 966117523 13  4 f   -     -     -         1850    0    0 
+BusDriver 966117567 13  3 f   -     -     -         1850    0    0 
+BusDriver 966117650 13  2 Bf  -     -     -         1850   80    0 
+BusDriver 966117707 13  1 Bf  -     -     -         1770   40    0 
+BusDriver 966117735 12 12 f   -     -     -         1730    0    0 
+BusDriver 966117787 11 10 f   -     -     -         1730    0    0 
+BusDriver 966117827 11 10 f   -     -     -         1730    0    0 
+BusDriver 966117864 10  9 f   -     -     -         1730    0    0 
+BusDriver 966117893  9  8 f   -     -     -         1730    0    0 
+BusDriver 966117926  9  7 c   b     -     -         1730  400  640 
+BusDriver 966117969  9  6 f   -     -     -         1970    0    0 
+BusDriver 966118002  9  5 f   -     -     -         1970    0    0 
+BusDriver 966118044  9  4 f   -     -     -         1970    0    0 
+BusDriver 966118066  9  3 f   -     -     -         1970    0    0 
+BusDriver 966118092  9  2 Br  -     -     -         1970  800 1040 
+BusDriver 966118125  9  1 Bf  -     -     -         2210   80    0 
+BusDriver 966118156  8  8 rf  -     -     -         2130  560    0 
+BusDriver 966118189  8  7 f   -     -     -         1570    0    0 
+BusDriver 966118220  8  6 f   -     -     -         1570    0    0 
+BusDriver 966118252  7  4 f   -     -     -         1570    0    0 
+BusDriver 966118285  6  3 c   b     -     -         1570 1120 1600 
+BusDriver 966118298  6  2 Bk  k     kf    -         2050  320    0 
+BusDriver 966118326  6  1 Bc  krA   -     -         1730 1730 3460 6h 5d
+BusDriver 966118355  6  6 f   -     -     -         3460    0    0 
+BusDriver 966118400  6  5 f   -     -     -         3460    0    0 
+BusDriver 966118409  6  4 f   -     -     -         3460    0    0 
+BusDriver 966118423  6  3 c   b     -     -         3460 1120 1600 
+BusDriver 966118435  6  2 Bk  kf    -     -         3940  320    0 
+BusDriver 966118451  6  1 Br  b     -     -         3620 2880 3840 
+BusDriver 966118469  6  6 cf  -     -     -         4580  320    0 
+BusDriver 966118495  5  5 f   -     -     -         4260    0    0 
+BusDriver 966118517  5  4 r   k     k     k         4260 1120 2560 4s 4d
+BusDriver 966118542  5  3 f   -     -     -         5700    0    0 
+BusDriver 966118556  5  2 B   -     -     -         5700  320  480 
+BusDriver 966118565  5  1 Bc  k     k     k         5860  320    0 2c 2h
+BusDriver 966118587  5  5 r   -     -     -         5540 2240 3200 
+BusDriver 966118594  5  4 rA  -     -     -         6500 6500    0 9h 9s

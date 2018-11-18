@@ -1,0 +1,1297 @@
+PktRkts   811651005  9  5 cc  crc   bc    b         1000  130  475 6c 9c
+PktRkts   811651106 10  5 f   -     -     -         1345    0    0 
+PktRkts   811651229 11  4 f   -     -     -         1345    0    0 
+PktRkts   811651291 11  3 r   bc    br    b         1345  120  265 Qc Kc
+PktRkts   811651446 10  2 Bf  -     -     -         1490   10    0 
+PktRkts   811651537 12  1 BKQ -     -     -         1480    5    0 
+PktRkts   811651901 12  8 f   -     -     -         1475    0    0 
+PktRkts   811652026 12  7 rr  bc    b     b         1475  100  275 
+PktRkts   811652116 12  6 f   -     -     -         1650    0    0 
+PktRkts   811652226 11  5 f   -     -     -         1650    0    0 
+PktRkts   811652298 12  4 cc  f     -     -         1650   20    0 
+PktRkts   811652496 10  1 Bc  kc    kf    -         1630   30    0 
+PktRkts   811652581 11  1 Bc  k     kf    -         1600   10    0 
+PktRkts   811652713  7  7 f   -     -     -         1590    0    0 
+PktRkts   811652768  7  7 f   -     -     -         1590    0    0 
+PktRkts   811652852  7  6 f   -     -     -         1590    0    0 
+PktRkts   811652953  8  4 Q   -     -     -         1590    0    0 
+PktRkts   811735333  8  5 f   -     -     -         1590    0    0 
+PktRkts   811735400  8  3 r   f     -     -         1590   20    0 
+PktRkts   811735481  9  3 f   -     -     -         1570    0    0 
+PktRkts   811735554  7  1 Bk  k     kf    -         1570   10    0 
+PktRkts   811735621  7  1 BQ  -     -     -         1560    5    0 
+PktRkts   811872753  2  1 Bc  kf    -     -         1555   10    0 
+PktRkts   811872771  2  2 Bk  k     k     f         1545   10    0 
+PktRkts   811872794  2  1 Br  -     -     -         1535   20   30 
+PktRkts   811872800  2  2 B   -     -     -         1545   10   15 
+PktRkts   811872804  2  1 Bc  k     kc    k         1550   30   60 5s 2d
+PktRkts   811872828  2  2 Bk  k     k     r         1580   50  100 Jd Ac
+PktRkts   811872863  2  1 Bc  k     kf    -         1630   10    0 
+PktRkts   811872891  2  2 B   -     -     -         1620   10   15 
+PktRkts   811872898  2  1 Br  -     -     -         1625   20   30 
+PktRkts   811872904  2  2 Bc  r     b     -         1635   60  100 
+PktRkts   811872936  2  1 Bc  k     kf    -         1675   10    0 
+PktRkts   811872960  2  2 Bk  r     b     k         1665   50  100 3d Jc
+PktRkts   811872988  2  1 Bc  b     -     -         1715   20   30 
+PktRkts   811873005  2  2 Bk  k     k     k         1725   10    0 3s 9c
+PktRkts   811873025  2  1 Bc  b     k     kf        1715   20    0 
+PktRkts   811873054  2  2 B   -     -     -         1695   10   15 
+PktRkts   811873058  2  1 Bc  kc    k     k         1700   20    0 Td 7d
+PktRkts   811873086  2  2 Bf  -     -     -         1680   10    0 
+PktRkts   811873098  2  1 Bcc kf    -     -         1670   20    0 
+PktRkts   811873116  2  2 Bc  b     k     k         1650   30    0 4h Ad
+PktRkts   811873138  2  1 Bc  kf    -     -         1620   10    0 
+PktRkts   811873159  2  2 B   -     -     -         1610   10   15 
+PktRkts   811873162  2  1 Bf  -     -     -         1615    5    0 
+PktRkts   811873166  2  2 Bk  b     bc    c         1610   80    0 5d 8d
+PktRkts   811873203  2  1 Bc  b     -     -         1530   20   30 
+PktRkts   811873253  2  2 Bc  k     b     b         1540   60  120 6h 3h
+PktRkts   811873278  2  1 Bf  -     -     -         1600    5    0 
+PktRkts   811873298  2  2 Bf  -     -     -         1595   10    0 
+PktRkts   811873311  3  1 Bf  -     -     -         1585    5    0 
+PktRkts   811873355  3  3 f   -     -     -         1580    0    0 
+PktRkts   811873367  3  2 Bk  f     -     -         1580   10    0 
+PktRkts   811873391  3  1 Bcc kf    -     -         1570   20    0 
+PktRkts   811873413  3  3 f   -     -     -         1550    0    0 
+PktRkts   811873452  3  2 Bk  f     -     -         1550   10    0 
+PktRkts   811873469  3  1 Bc  k     k     k         1540   10   30 7c 6d
+PktRkts   811873510  3  3 f   -     -     -         1560    0    0 
+PktRkts   811873539  3  2 Bk  k     c     k         1560   30    0 Ts 2s
+PktRkts   811873584  3  1 Bf  -     -     -         1530    5    0 
+PktRkts   811873615  3  3 f   -     -     -         1525    0    0 
+PktRkts   811873633  3  2 Bf  -     -     -         1525   10    0 
+PktRkts   811873648  3  1 Br  b     -     -         1515   30   50 
+PktRkts   811873684  3  3 f   -     -     -         1535    0    0 
+PktRkts   811873702  3  2 Bk  k     k     k         1535   10   20 Ah 5d
+PktRkts   811873759  3  1 Bc  k     k     k         1545   10   20 Td Ah
+PktRkts   811873794  3  3 f   -     -     -         1555    0    0 
+PktRkts   811873816  3  2 Bk  b     b     -         1555   40   60 
+PktRkts   811873860  3  1 Bc  kf    -     -         1575   10    0 
+PktRkts   811873887  3  3 r   b     -     -         1565   30   55 
+PktRkts   811873910  3  2 Bk  b     -     -         1590   20   30 
+PktRkts   811873929  3  1 Bc  kf    -     -         1600   10    0 
+PktRkts   811873952  3  3 f   -     -     -         1590    0    0 
+PktRkts   811873994  3  2 Bk  f     -     -         1590   10    0 
+PktRkts   811874023  4  1 Bc  b     b     k         1580   50    0 5s 6s
+PktRkts   811874056  4  4 cc  f     -     -         1530   20    0 
+PktRkts   811874132  4  3 f   -     -     -         1510    0    0 
+PktRkts   811874147  4  2 Bc  f     -     -         1510   20    0 
+PktRkts   811874182  4  1 Bf  -     -     -         1490    5    0 
+PktRkts   811874218  5  5 c   f     -     -         1485   10    0 
+PktRkts   811874256  5  4 f   -     -     -         1475    0    0 
+PktRkts   811874274  5  3 r   f     -     -         1475   20    0 
+PktRkts   811874314  5  2 Bf  -     -     -         1455   10    0 
+PktRkts   811874359  5  1 Bc  bc    kf    -         1445   40    0 
+PktRkts   811874412  5  5 f   -     -     -         1405    0    0 
+PktRkts   811874451  5  4 f   -     -     -         1405    0    0 
+PktRkts   811874487  5  4 rc  rc    rc    rr        1405  200  410 6d 6c
+PktRkts   811874534  5  3 f   -     -     -         1615    0    0 
+PktRkts   811874555  5  2 Bk  k     k     kf        1615   10    0 
+PktRkts   811874590  5  1 Bf  -     -     -         1605    5    0 
+PktRkts   811874634  5  5 f   -     -     -         1600    0    0 
+PktRkts   811874670  5  4 f   -     -     -         1600    0    0 
+PktRkts   811874692  5  3 f   -     -     -         1600    0    0 
+PktRkts   811874714  5  2 Bk  k     c     c         1600   50    0 Qc 5s
+PktRkts   811874750  5  1 Bc  b     k     kf        1550   30    0 
+PktRkts   811874797  5  5 f   -     -     -         1520    0    0 
+PktRkts   811874809  5  4 f   -     -     -         1520    0    0 
+PktRkts   811874841  5  3 f   -     -     -         1520    0    0 
+PktRkts   811874864  5  2 Bc  b     b     b         1520   70    0 7c Kd
+PktRkts   811874898  5  1 Bc  kf    -     -         1450   10    0 
+PktRkts   811874941  5  5 f   -     -     -         1440    0    0 
+PktRkts   811874981  5  4 f   -     -     -         1440    0    0 
+PktRkts   811875021  5  3 f   -     -     -         1440    0    0 
+PktRkts   811875054  5  2 Bc  k     b     b         1440   60  125 Ac 6h
+PktRkts   811875086  5  1 Bc  bc    kc    k         1505   50    0 6d 3c
+PktRkts   811875158  5  5 f   -     -     -         1455    0    0 
+PktRkts   811875206  5  4 f   -     -     -         1455    0    0 
+PktRkts   811875247  6  3 c   rc    b     k         1455   60  160 Jh Qs
+PktRkts   811875295  6  2 Bc  bf    -     -         1555   30    0 
+PktRkts   811875327  6  1 Bc  kf    -     -         1525   10    0 
+PktRkts   811875352  6  6 f   -     -     -         1515    0    0 
+PktRkts   811875370  6  5 f   -     -     -         1515    0    0 
+PktRkts   811875414  6  4 f   -     -     -         1515    0    0 
+PktRkts   811875463  6  3 f   -     -     -         1515    0    0 
+PktRkts   811875509  6  2 Bk  b     b     kc        1515   60    0 2c Ac
+PktRkts   811875556  6  1 Bc  b     b     b         1455   60  120 
+PktRkts   811875633  6  6 c   f     -     -         1515   20    0 
+PktRkts   811875678  5  4 f   -     -     -         1495    0    0 
+PktRkts   811875690  5  3 fQ  -     -     -         1495    0    0 
+PktRkts   811875854  5  4 f   -     -     -         1495    0    0 
+PktRkts   811875901  5  3 f   -     -     -         1495    0    0 
+PktRkts   811875932  5  2 Bcc kf    -     -         1495   30    0 
+PktRkts   811875998  5  1 Bf  -     -     -         1465    5    0 
+PktRkts   811876037  4  4 f   -     -     -         1460    0    0 
+PktRkts   811876061  4  4 f   -     -     -         1460    0    0 
+PktRkts   811876098  4  3 f   -     -     -         1460    0    0 
+PktRkts   811876108  4  2 Bf  -     -     -         1460   10    0 
+PktRkts   811876135  4  1 Bf  -     -     -         1450    5    0 
+PktRkts   811876166  5  4 f   -     -     -         1445    0    0 
+PktRkts   811876255  5  4 f   -     -     -         1445    0    0 
+PktRkts   811876298  5  3 f   -     -     -         1445    0    0 
+PktRkts   811876324  5  2 Bcc kc    kf    -         1445   50    0 
+PktRkts   811876386  6  1 Bf  -     -     -         1395    5    0 
+PktRkts   811876463  6  6 f   -     -     -         1390    0    0 
+PktRkts   811876553  6  5 f   -     -     -         1390    0    0 
+PktRkts   811876631  5  3 f   -     -     -         1390    0    0 
+PktRkts   811876646  5  3 f   -     -     -         1390    0    0 
+PktRkts   811876669  5  2 Bk  k     k     kf        1390   10    0 
+PktRkts   811876727  6  1 Bf  -     -     -         1380    5    0 
+PktRkts   811876797  7  7 r   -     -     -         1375   20   35 
+PktRkts   811876817  7  6 f   -     -     -         1390    0    0 
+PktRkts   811876892  6  4 f   -     -     -         1390    0    0 
+PktRkts   811876942  7  4 f   -     -     -         1390    0    0 
+PktRkts   811876987  6  3 Q   -     -     -         1390    0    0 
+PktRkts   811879739  8  7 cc  f     -     -         1390   20    0 
+PktRkts   811879808  7  5 f   -     -     -         1370    0    0 
+PktRkts   811879862  7  4 f   -     -     -         1370    0    0 
+PktRkts   811879915  7  3 r   bc    kc    kc        1370   80    0 As Ts
+PktRkts   811879979  7  2 Bc  f     -     -         1290   20    0 
+PktRkts   811880046  6  1 Bf  -     -     -         1270    5    0 
+PktRkts   811880065  5  5 f   -     -     -         1265    0    0 
+PktRkts   811880112  5  4 f   -     -     -         1265    0    0 
+PktRkts   811880147  5  3 f   -     -     -         1265    0    0 
+PktRkts   811880195  5  2 Bc  b     b     -         1265   50  100 
+PktRkts   811880229  5  1 Bc  bc    b     b         1315   70  180 8d 7s
+PktRkts   811880287  5  5 f   -     -     -         1425    0    0 
+PktRkts   811880316  6  4 f   -     -     -         1425    0    0 
+PktRkts   811880350  6  3 f   -     -     -         1425    0    0 
+PktRkts   811880375  6  2 Bk  k     k     k         1425   10   40 2h Ac
+PktRkts   811880420  6  1 Bc  b     bc    kc        1455   80  180 Qd Ks
+PktRkts   811880475  5  5 f   -     -     -         1555    0    0 
+PktRkts   811880508  5  4 cc  kf    -     -         1555   20    0 
+PktRkts   811880570  5  3 f   -     -     -         1535    0    0 
+PktRkts   811880588  5  2 Bk  kf    -     -         1535   10    0 
+PktRkts   811880617  6  1 Bcc kf    -     -         1525   20    0 
+PktRkts   811880680  6  6 f   -     -     -         1505    0    0 
+PktRkts   811880746  6  5 f   -     -     -         1505    0    0 
+PktRkts   811880761  6  4 f   -     -     -         1505    0    0 
+PktRkts   811880844  7  3 r   b     b     k         1505   50  220 6c 6d
+PktRkts   811880914  8  2 Bc  bc    kc    kc        1675   73    0 Qs Ks
+PktRkts   811881007  7  1 Bcc bf    -     -         1602   30    0 
+PktRkts   811881049  5  5 f   -     -     -         1572    0    0 
+PktRkts   811881076  4  4 f   -     -     -         1572    0    0 
+PktRkts   811881084  4  3 cc  kf    -     -         1572   20    0 
+PktRkts   811881113  4  2 Bk  kf    -     -         1552   10    0 
+PktRkts   811881137  3  1 Bf  -     -     -         1542    5    0 
+PktRkts   811881145  3  3 r   c     b     -         1537   50   90 
+PktRkts   811881164  3  2 Bk  b     -     -         1577   20   40 
+PktRkts   811881181  3  1 Bc  b     -     -         1597   30   60 
+PktRkts   811881194  3  3 rc  c     c     k         1627   60    0 6s 6c
+PktRkts   811881215  3  2 Bf  -     -     -         1567   10    0 
+PktRkts   811881247  3  1 Br  b     bc    k         1557   70    0 Js Ks
+PktRkts   811881275  3  3 f   -     -     -         1487    0    0 
+PktRkts   811881289  3  2 B   -     -     -         1487   10   15 
+PktRkts   811881294  3  1 Bf  -     -     -         1492    5    0 
+PktRkts   811881299  3  3 f   -     -     -         1487    0    0 
+PktRkts   811881303  3  2 Bc  c     c     c         1487   70  190 Qh 5h
+PktRkts   811881338  3  1 Bc  b     -     -         1607   20   30 
+PktRkts   811881356  3  3 cc  c     f     -         1617   30    0 
+PktRkts   811881384  3  2 Bk  kc    k     b         1587   40   65 
+PktRkts   811881410  3  1 Bf  -     -     -         1612    5    0 
+PktRkts   811881417  3  3 f   -     -     -         1607    0    0 
+PktRkts   811881435  4  2 Bf  -     -     -         1607   10    0 
+PktRkts   811881460  4  1 Bf  -     -     -         1597    5    0 
+PktRkts   811881486  4  4 f   -     -     -         1592    0    0 
+PktRkts   811881513  4  3 f   -     -     -         1592    0    0 
+PktRkts   811881546  4  2 Bk  kc    k     b         1592   40   80 
+PktRkts   811881587  4  1 Bf  -     -     -         1632    5    0 
+PktRkts   811881608  4  4 f   -     -     -         1627    0    0 
+PktRkts   811881616  4  3 f   -     -     -         1627    0    0 
+PktRkts   811881647  4  2 Bc  b     c     r         1627   90  200 Qd Jc
+PktRkts   811881694  5  1 Bc  kf    -     -         1737   10    0 
+PktRkts   811881744  6  6 f   -     -     -         1727    0    0 
+PktRkts   811881817  5  5 f   -     -     -         1727    0    0 
+PktRkts   811881865  7  5 f   -     -     -         1727    0    0 
+PktRkts   811881906  6  3 fQ  -     -     -         1727    0    0 
+PktRkts   811882038  7  5 f   -     -     -         1727    0    0 
+PktRkts   811882146  7  4 f   -     -     -         1727    0    0 
+PktRkts   811882196  7  3 r   b     b     -         1727   50  130 
+PktRkts   811882238  7  2 Bc  br    b     b         1807   90  205 Ts Th
+PktRkts   811882282  7  1 Bf  -     -     -         1922    5    0 
+PktRkts   811882316  7  7 f   -     -     -         1917    0    0 
+PktRkts   811882359  6  5 f   -     -     -         1917    0    0 
+PktRkts   811882431  7  5 f   -     -     -         1917    0    0 
+PktRkts   811882471  7  4 f   -     -     -         1917    0    0 
+PktRkts   811882537  7  3 f   -     -     -         1917    0    0 
+PktRkts   811882595  7  2 Bk  k     k     k         1917   10   20 9h 8h
+PktRkts   811882648  7  1 Bc  bc    kc    krc       1927  110  240 9h 8h
+PktRkts   811882706  7  7 f   -     -     -         2057    0    0 
+PktRkts   811882772  6  5 f   -     -     -         2057    0    0 
+PktRkts   811882812  6  4 f   -     -     -         2057    0    0 
+PktRkts   811882869  7  3 f   -     -     -         2057    0    0 
+PktRkts   811882901  6  2 Bc  bc    kc    k         2057   60    0 Ah 2c
+PktRkts   811882953  6  1 Bf  -     -     -         1997    5    0 
+PktRkts   811883009  6  6 cc  c     c     k         1992   50  140 Js Ac
+PktRkts   811883070  6  5 c   r     -     -         2082   30   75 
+PktRkts   811883109  5  3 c   kc    b     k         2127   40  120 Jc Qh
+PktRkts   811883175  5  2 Bk  k     k     b         2207   30   40 
+PktRkts   811883214  5  1 Bf  -     -     -         2217    5    0 
+PktRkts   811883254  5  5 f   -     -     -         2212    0    0 
+PktRkts   811883266  6  4 f   -     -     -         2212    0    0 
+PktRkts   811883288  6  3 f   -     -     -         2212    0    0 
+PktRkts   811883340  6  2 Bk  k     k     k         2212   10    0 2c 8s
+PktRkts   811883400  6  1 Bc  k     kf    -         2202   10    0 
+PktRkts   811883495  5  5 f   -     -     -         2192    0    0 
+PktRkts   811883551  5  5 f   -     -     -         2192    0    0 
+PktRkts   811883563  5  4 f   -     -     -         2192    0    0 
+PktRkts   811883597  5  3 f   -     -     -         2192    0    0 
+PktRkts   811883611  5  2 Br  b     -     -         2192   30   50 
+PktRkts   811883646  5  1 Bf  -     -     -         2212    5    0 
+PktRkts   811883679  5  5 c   k     c     f         2207   30    0 
+PktRkts   811883744  5  4 f   -     -     -         2177    0    0 
+PktRkts   811883786  5  3 f   -     -     -         2177    0    0 
+PktRkts   811883795  5  2 Bc  kf    -     -         2177   20    0 
+PktRkts   811883895  5  1 Bc  kf    -     -         2157   10    0 
+PktRkts   811883923  5  5 f   -     -     -         2147    0    0 
+PktRkts   811883950  5  4 f   -     -     -         2147    0    0 
+PktRkts   811883964  5  3 f   -     -     -         2147    0    0 
+PktRkts   811884008  5  2 B   -     -     -         2147   10   15 
+PktRkts   811884023  5  1 Br  -     -     -         2152   20   30 
+PktRkts   811884042  5  5 f   -     -     -         2162    0    0 
+PktRkts   811884080  5  4 f   -     -     -         2162    0    0 
+PktRkts   811884090  5  3 f   -     -     -         2162    0    0 
+PktRkts   811884139  5  2 Br  bc    c     c         2162   80    0 Ks Kd
+PktRkts   811884191  5  1 Bf  -     -     -         2082    5    0 
+PktRkts   811884284  5  5 f   -     -     -         2077    0    0 
+PktRkts   811884321  5  4 f   -     -     -         2077    0    0 
+PktRkts   811884364  5  3 f   -     -     -         2077    0    0 
+PktRkts   811884370  5  2 Bk  k     b     -         2077   30   40 
+PktRkts   811884399  5  1 Bc  b     b     kc        2087   70    0 6d 6s
+PktRkts   811884434  5  5 f   -     -     -         2017    0    0 
+PktRkts   811884483  5  4 f   -     -     -         2017    0    0 
+PktRkts   811884506  5  3 f   -     -     -         2017    0    0 
+PktRkts   811884549  5  2 Bk  k     k     f         2017   10    0 
+PktRkts   811884588  5  1 Bf  -     -     -         2007    5    0 
+PktRkts   811884602  5  5 f   -     -     -         2002    0    0 
+PktRkts   811884632  5  4 f   -     -     -         2002    0    0 
+PktRkts   811884670  5  3 f   -     -     -         2002    0    0 
+PktRkts   811884718  5  2 Bk  b     -     -         2002   20   50 
+PktRkts   811884755  5  1 Br  b     b     -         2032   50  110 
+PktRkts   811884791  4  4 c   c     c     f         2092   50    0 
+PktRkts   811884847  3  2 f   -     -     -         2042    0    0 
+PktRkts   811884869  3  2 Bk  b     k     k         2042   20    0 Ad Tc
+PktRkts   811884910  2  1 Bcc kf    -     -         2022   20    0 
+PktRkts   811884968  2  2 Bf  -     -     -         2002   10    0 
+PktRkts   811885030  2  1 Bf  -     -     -         1992    5    0 
+PktRkts   811885037  2  2 B   -     -     -         1987   10   15 
+PktRkts   811885039  2  1 Bc  b     -     -         1992   20   30 
+PktRkts   811885051  2  2 Bc  c     k     k         2002   30   60 5h 6s
+PktRkts   811885074  2  1 Bc  kf    -     -         2032   10    0 
+PktRkts   811885093  2  2 Bf  -     -     -         2022   10    0 
+PktRkts   811885100  2  1 Br  -     -     -         2012   20   30 
+PktRkts   811885105  2  2 Bc  b     k     k         2022   30    0 Ah Qs
+PktRkts   811885130  2  1 Bc  k     kf    -         1992   10    0 
+PktRkts   811885154  2  2 Bk  b     -     -         1982   20   30 
+PktRkts   811885170  2  1 Br  -     -     -         1992   20   30 
+PktRkts   811885177  2  2 Bk  b     k     k         2002   20   40 Qc 6c
+PktRkts   811885202  2  1 Bf  -     -     -         2022    5    0 
+PktRkts   811885215  2  2 Bc  b     k     k         2017   30    0 7h 7d
+PktRkts   811885246  2  1 Bf  -     -     -         1987    5    0 
+PktRkts   811885259  2  2 B   -     -     -         1982   10   15 
+PktRkts   811885263  2  1 Br  -     -     -         1987   20   30 
+PktRkts   811885269  2  2 B   -     -     -         1997   10   15 
+PktRkts   811885272  2  1 Bc  kf    -     -         2002   10    0 
+PktRkts   811885292  2  2 B   -     -     -         1992   10   15 
+PktRkts   811885299  2  1 Bf  -     -     -         1997    5    0 
+PktRkts   811885304  2  2 B   -     -     -         1992   10   15 
+PktRkts   811885306  2  1 Bc  kf    -     -         1997   10    0 
+PktRkts   811885318  2  2 Bk  b     -     -         1987   20   30 
+PktRkts   811885333  2  1 Bc  b     -     -         1997   20   30 
+PktRkts   811885346  2  2 B   -     -     -         2007   10   15 
+PktRkts   811885352  2  1 Bc  kf    -     -         2012   10    0 
+PktRkts   811885367  2  2 Bk  c     k     c         2002   40    0 8s 6s
+PktRkts   811885410  3  1 Bf  -     -     -         1962    5    0 
+PktRkts   811885453  3  3 r   c     b     k         1957   50  105 Ad Js
+PktRkts   811885473  3  2 Bc  b     k     k         2012   30   60 Qh 9h
+PktRkts   811885500  3  1 Bf  -     -     -         2042    5    0 
+PktRkts   811885509  3  3 f   -     -     -         2037    0    0 
+PktRkts   811885516  3  2 Bk  k     c     b         2037   50   80 
+PktRkts   811885550  3  1 Br  -     -     -         2067   20   30 
+PktRkts   811885556  3  3 f   -     -     -         2077    0    0 
+PktRkts   811885560  3  2 Bc  k     kf    -         2077   30    0 
+PktRkts   811885600  3  1 Bf  -     -     -         2047    5    0 
+PktRkts   811885608  3  3 f   -     -     -         2042    0    0 
+PktRkts   811885614  3  2 Bc  c     b     k         2042   50   50 7h 9s
+PktRkts   811885642  3  1 Bf  -     -     -         2042    5    0 
+PktRkts   811885663  3  3 f   -     -     -         2037    0    0 
+PktRkts   811885679  3  2 B   -     -     -         2037   10   15 
+PktRkts   811885699  2  1 Bf  -     -     -         2042    5    0 
+PktRkts   811885714  2  2 B   -     -     -         2037   10   15 
+PktRkts   811885717  2  1 Bc  kf    -     -         2042   10    0 
+PktRkts   811885738  2  2 BQQ -     -     -         2032   10    0 
+PktRkts   811889058  2  1 Bc  b     -     -         2022   20   30 
+PktRkts   811889094  2  2 Bf  -     -     -         2032   10    0 
+PktRkts   811889102  2  1 Bc  b     b     -         2022   40   60 
+PktRkts   811889118  2  2 Bc  c     c     c         2042   70    0 8c Ts
+PktRkts   811889137  2  1 Brc b     b     -         1972   60  100 
+PktRkts   811889169  2  2 B   -     -     -         2012   10   15 
+PktRkts   811889171  2  1 Bf  -     -     -         2017    5    0 
+PktRkts   811889175  2  2 B   -     -     -         2012   10   15 
+PktRkts   811889179  2  1 Bc  b     b     b         2017   60  120 4s Qs
+PktRkts   811889193  2  2 B   -     -     -         2077   10   15 
+PktRkts   811889197  2  1 Br  bf    -     -         2082   30    0 
+PktRkts   811889216  2  2 Bk  r     b     -         2052   50   80 
+PktRkts   811889236  2  1 Bc  kf    -     -         2082   10    0 
+PktRkts   811889250  2  2 Bf  -     -     -         2072   10    0 
+PktRkts   811889255  2  1 Br  -     -     -         2062   20   30 
+PktRkts   811889260  2  2 B   -     -     -         2072   10   15 
+PktRkts   811889262  2  1 Bc  b     -     -         2077   20   30 
+PktRkts   811889268  2  2 B   -     -     -         2087   10   15 
+PktRkts   811889271  2  1 Bcc b     b     k         2092   50  100 As 2c
+PktRkts   811889293  2  2 Bk  b     b     b         2142   60  120 3c 3s
+PktRkts   811889323  2  1 Bc  k     k     kf        2202   10    0 
+PktRkts   811889350  2  2 B   -     -     -         2192   10   15 
+PktRkts   811889356  2  1 Bf  -     -     -         2197    5    0 
+PktRkts   811889361  2  2 Bc  k     k     k         2192   20    0 3h 4s
+PktRkts   811889428  2  1 Br  b     kf    -         2172   30    0 
+PktRkts   811889451  2  2 Bf  -     -     -         2142   10    0 
+PktRkts   811889483  2  1 Bc  k     b     bc        2132   70    0 Jd 5d
+PktRkts   811889503  2  2 Bc  c     k     k         2062   30    0 Kd 2c
+PktRkts   811889552  2  1 Bf  -     -     -         2032    5    0 
+PktRkts   811889563  2  2 B   -     -     -         2027   10   15 
+PktRkts   811889566  2  1 Br  -     -     -         2032   20   30 
+PktRkts   811889573  2  2 Bc  c     r     k         2042   70    0 5d 3d
+PktRkts   811889593  2  1 Bcc kc    kf    -         1972   30    0 
+PktRkts   811889620  2  2 B   -     -     -         1942   10   15 
+PktRkts   811889628  2  1 Bc  k     k     k         1947   10    0 Tc 6c
+PktRkts   811889654  2  2 B   -     -     -         1937   10   15 
+PktRkts   811889659  2  1 Br  bf    -     -         1942   30    0 
+PktRkts   811889670  2  2 B   -     -     -         1912   10   15 
+PktRkts   811889673  2  1 Bc  k     kf    -         1917   10    0 
+PktRkts   811889691  2  2 Bk  c     r     b         1907   80  160 Qh 5d
+PktRkts   811889719  3  1 Bc  kf    -     -         1987   10    0 
+PktRkts   811889757  3  3 r   b     b     b         1977   70  150 Kc Kd
+PktRkts   811889810  3  2 Bc  b     -     -         2057   30   50 
+PktRkts   811889832  3  1 Bf  -     -     -         2077    5    0 
+PktRkts   811889838  3  3 f   -     -     -         2072    0    0 
+PktRkts   811889848  3  2 Bc  b     -     -         2072   30   70 
+PktRkts   811889873  3  1 Bc  b     -     -         2112   20   30 
+PktRkts   811889912  4  4 f   -     -     -         2122    0    0 
+PktRkts   811889948  5  4 r   c     f     -         2122   30    0 
+PktRkts   811889987  5  4 f   -     -     -         2092    0    0 
+PktRkts   811890000  5  2 Bk  kf    -     -         2092   10    0 
+PktRkts   811890049  5  1 Bc  kf    -     -         2082   10    0 
+PktRkts   811890077  5  5 f   -     -     -         2072    0    0 
+PktRkts   811890125  5  4 Q   -     -     -         2072    0    0 
+PktRkts   811890467  6  5 r   -     -     -         2072   20   35 
+PktRkts   811890490  6  4 f   -     -     -         2087    0    0 
+PktRkts   811890563  5  3 f   -     -     -         2087    0    0 
+PktRkts   811890625  5  2 Bf  -     -     -         2087   10    0 
+PktRkts   811890645  5  1 Bc  bc    k     b         2077   50  150 8s Qs
+PktRkts   811890705  5  5 f   -     -     -         2177    0    0 
+PktRkts   811890751  6  5 f   -     -     -         2177    0    0 
+PktRkts   811890797  6  4 f   -     -     -         2177    0    0 
+PktRkts   811890844  6  4 cc  b     f     -         2177   30    0 
+PktRkts   811890912  5  2 Bc  bc    kf    -         2147   40    0 
+PktRkts   811890979  5  1 Bf  -     -     -         2107    5    0 
+PktRkts   811891033  5  5 c   f     -     -         2102   10    0 
+PktRkts   811891055  5  4 f   -     -     -         2092    0    0 
+PktRkts   811891102  5  3 f   -     -     -         2092    0    0 
+PktRkts   811891121  5  2 Bk  kf    -     -         2092   10    0 
+PktRkts   811891166  5  1 Bf  -     -     -         2082    5    0 
+PktRkts   811891197  4  4 f   -     -     -         2077    0    0 
+PktRkts   811891215  4  3 f   -     -     -         2077    0    0 
+PktRkts   811891258  4  2 Bf  -     -     -         2077   10    0 
+PktRkts   811891305  3  1 Br  b     bc    k         2067   70    0 Qs Ad
+PktRkts   811891355  3  3 f   -     -     -         1997    0    0 
+PktRkts   811891397  5  2 Bc  bc    k     k         1997   40  105 Qh 9h
+PktRkts   811891444  5  1 Bc  kf    -     -         2062   20    0 
+PktRkts   811891473  5  5 f   -     -     -         2042    0    0 
+PktRkts   811891501  5  4 f   -     -     -         2042    0    0 
+PktRkts   811891535  5  3 r   b     bc    b         2042   90  175 
+PktRkts   811891568  5  2 Bc  kf    -     -         2127   20    0 
+PktRkts   811891631  4  1 Bc  b     -     -         2107   20   40 
+PktRkts   811891659  4  4 f   -     -     -         2127    0    0 
+PktRkts   811891666  5  3 r   bc    f     -         2127   40    0 
+PktRkts   811891704  5  2 Bc  b     b     k         2087   50  125 7c 6h
+PktRkts   811891740  5  1 Bf  -     -     -         2162    5    0 
+PktRkts   811891773  5  5 f   -     -     -         2157    0    0 
+PktRkts   811891804  5  4 f   -     -     -         2157    0    0 
+PktRkts   811891835  4  2 f   -     -     -         2157    0    0 
+PktRkts   811891839  4  2 Bk  brc   kc    kc        2157   90    0 Qd Js
+PktRkts   811891877  4  1 Bc  kf    -     -         2067   10    0 
+PktRkts   811891915  4  4 r   c     f     -         2057   30    0 
+PktRkts   811891936  4  3 r   -     -     -         2027   20   35 
+PktRkts   811891943  4  2 Bf  -     -     -         2042   10    0 
+PktRkts   811891956  4  1 Br  b     -     -         2032   30   50 
+PktRkts   811891970  3  3 f   -     -     -         2052    0    0 
+PktRkts   811891981  3  2 Bf  -     -     -         2052   10    0 
+PktRkts   811891989  3  1 Bc  k     k     br        2042   70  120 
+PktRkts   811892026  3  3 cc  k     k     f         2092   20    0 
+PktRkts   811892069  4  2 Bc  c     k     b         2072   50   80 
+PktRkts   811892100  4  1 Bf  -     -     -         2102    5    0 
+PktRkts   811892106  4  4 cc  f     -     -         2097   20    0 
+PktRkts   811892135  4  3 f   -     -     -         2077    0    0 
+PktRkts   811892143  4  2 Bk  bf    -     -         2077   20    0 
+PktRkts   811892165  4  1 Bf  -     -     -         2057    5    0 
+PktRkts   811892172  4  4 f   -     -     -         2052    0    0 
+PktRkts   811892200  4  3 r   -     -     -         2052   20   35 
+PktRkts   811892228  4  2 Bk  kf    -     -         2067   10    0 
+PktRkts   811892251  4  1 Bf  -     -     -         2057    5    0 
+PktRkts   811892276  4  4 f   -     -     -         2052    0    0 
+PktRkts   811892296  4  3 f   -     -     -         2052    0    0 
+PktRkts   811892303  4  2 B   -     -     -         2052   10   15 
+PktRkts   811892309  4  1 Bc  k     kf    -         2057   10    0 
+PktRkts   811892344  4  4 c   c     r     r         2047  100    0 Td As
+PktRkts   811892379  4  3 f   -     -     -         1947    0    0 
+PktRkts   811892428  4  2 Bf  -     -     -         1947   10    0 
+PktRkts   811892458  4  1 Br  b     bc    k         1937   70  140 Kh 9d
+PktRkts   811892485  4  4 c   f     -     -         2007   10    0 
+PktRkts   811892509  4  3 f   -     -     -         1997    0    0 
+PktRkts   811892552  4  2 Bc  c     c     c         1997   70    0 9s Jd
+PktRkts   811892596  4  1 Bc  kf    -     -         1927   10    0 
+PktRkts   811892622  4  4 r   -     -     -         1917   20   35 
+PktRkts   811892635  4  3 f   -     -     -         1932    0    0 
+PktRkts   811892644  4  2 B   -     -     -         1932   10   15 
+PktRkts   811892650  4  1 Bc  b     -     -         1937   20   30 
+PktRkts   811892664  4  4 f   -     -     -         1947    0    0 
+PktRkts   811892695  4  3 f   -     -     -         1947    0    0 
+PktRkts   811892739  4  2 Bf  -     -     -         1947   10    0 
+PktRkts   811892749  4  1 Bc  kf    -     -         1937   10    0 
+PktRkts   811892763  4  4 f   -     -     -         1927    0    0 
+PktRkts   811892791  4  3 f   -     -     -         1927    0    0 
+PktRkts   811892801  4  2 Bc  k     f     -         1927   20    0 
+PktRkts   811892817  4  1 Bf  -     -     -         1907    5    0 
+PktRkts   811892823  4  4 f   -     -     -         1902    0    0 
+PktRkts   811892834  4  3 f   -     -     -         1902    0    0 
+PktRkts   811892846  4  2 Bf  -     -     -         1902   10    0 
+PktRkts   811892856  4  1 Bc  k     k     k         1892   10   20 Ts 7h
+PktRkts   811892882  4  4 f   -     -     -         1902    0    0 
+PktRkts   811892901  4  3 f   -     -     -         1902    0    0 
+PktRkts   811892918  4  2 Bc  bc    kc    kc        1902   80    0 Qd Jd
+PktRkts   811892954  4  1 Bc  k     k     k         1822   10    0 3d Jd
+PktRkts   811892991  4  4 r   -     -     -         1812   20   35 
+PktRkts   811893005  4  3 f   -     -     -         1827    0    0 
+PktRkts   811893017  4  2 Bk  b     kc    kc        1827   60    0 2d Ts
+PktRkts   811893055  4  1 Bf  -     -     -         1767    5    0 
+PktRkts   811893066  4  4 c   c     r     b         1762   90  195 Ah Jd
+PktRkts   811893092  5  4 c   kf    -     -         1867   10    0 
+PktRkts   811893130  5  3 f   -     -     -         1857    0    0 
+PktRkts   811893172  5  2 Bk  kf    -     -         1857   10    0 
+PktRkts   811893201  5  1 Bcc bc    b     b         1847   80  160 7d Kh
+PktRkts   811893251  5  5 f   -     -     -         1927    0    0 
+PktRkts   811893297  5  4 f   -     -     -         1927    0    0 
+PktRkts   811893333  6  3 f   -     -     -         1927    0    0 
+PktRkts   811893404  6  2 Bk  kc    k     b         1927   40   80 
+PktRkts   811893458  5  1 Bc  k     k     k         1967   10   20 Qc Jh
+PktRkts   811893487  5  5 f   -     -     -         1977    0    0 
+PktRkts   811893509  5  4 f   -     -     -         1977    0    0 
+PktRkts   811893530  5  3 f   -     -     -         1977    0    0 
+PktRkts   811893562  5  2 Bk  k     r     k         1977   50  100 Jh 4d
+PktRkts   811893609  5  1 Bc  b     -     -         2027   20   40 
+PktRkts   811893631  5  5 f   -     -     -         2047    0    0 
+PktRkts   811893658  5  4 r   k     b     -         2047   40   75 
+PktRkts   811893683  5  3 f   -     -     -         2082    0    0 
+PktRkts   811893692  5  2 Bk  k     k     kc        2082   30   33 8c Ac
+PktRkts   811893720  5  1 Bc  kf    -     -         2085   10    0 
+PktRkts   811893772  5  5 f   -     -     -         2075    0    0 
+PktRkts   811893778  5  4 f   -     -     -         2075    0    0 
+PktRkts   811893802  5  3 f   -     -     -         2075    0    0 
+PktRkts   811893816  4  2 Bc  b     c     k         2075   50  100 3s Ks
+PktRkts   811893843  4  1 Bc  b     -     -         2125   20   30 
+PktRkts   811893860  4  4 f   -     -     -         2135    0    0 
+PktRkts   811893872  4  3 f   -     -     -         2135    0    0 
+PktRkts   811893876  4  2 Bf  -     -     -         2135   10    0 
+PktRkts   811893903  4  1 Bf  -     -     -         2125    5    0 
+PktRkts   811893912  4  4 rc  b     b     c         2120   80    0 Qs Qd
+PktRkts   811893937  4  3 r   b     -     -         2040   30   60 
+PktRkts   811893960  4  2 Bk  k     kf    -         2070   10    0 
+PktRkts   811893994  4  1 Bf  -     -     -         2060    5    0 
+PktRkts   811894003  4  4 f   -     -     -         2055    0    0 
+PktRkts   811894008  4  3 f   -     -     -         2055    0    0 
+PktRkts   811894013  4  2 BQ  -     -     -         2055   10    0 
+PktRkts   811894171  6  6 f   -     -     -         2045    0    0 
+PktRkts   811894182  6  5 r   -     -     -         2045   20   35 
+PktRkts   811894201  6  4 f   -     -     -         2060    0    0 
+PktRkts   811894255  6  3 f   -     -     -         2060    0    0 
+PktRkts   811894285  6  2 Bc  bf    -     -         2060   30    0 
+PktRkts   811894327  6  1 Bf  -     -     -         2030    5    0 
+PktRkts   811894369  5  5 f   -     -     -         2025    0    0 
+PktRkts   811894406  5  4 f   -     -     -         2025    0    0 
+PktRkts   811894456  6  4 c   f     -     -         2025   10    0 
+PktRkts   811894492  5  2 f   -     -     -         2015    0    0 
+PktRkts   811894523  4  2 Bc  kc    k     k         2015   30   65 9c Ac
+PktRkts   811894553  4  1 Bf  -     -     -         2050    5    0 
+PktRkts   811894567  5  4 f   -     -     -         2045    0    0 
+PktRkts   811894586  5  3 f   -     -     -         2045    0    0 
+PktRkts   811894622  5  2 Bc  bf    -     -         2045   30    0 
+PktRkts   811894645  5  1 Bf  -     -     -         2015    5    0 
+PktRkts   811894681  5  5 f   -     -     -         2010    0    0 
+PktRkts   811894690  5  4 r   -     -     -         2010   20   35 
+PktRkts   811894710  5  3 fQ  -     -     -         2025    0    0 
+PktRkts   811895734  5  5 f   -     -     -         2025    0    0 
+PktRkts   811895767  5  4 f   -     -     -         2025    0    0 
+PktRkts   811895843  5  3 f   -     -     -         2025    0    0 
+PktRkts   811895858  5  2 Bc  f     -     -         2025   20    0 
+PktRkts   811895950  5  1 Bf  -     -     -         2005    5    0 
+PktRkts   811895968  4  4 f   -     -     -         2000    0    0 
+PktRkts   811896011  4  3 f   -     -     -         2000    0    0 
+PktRkts   811896019  4  2 Bc  kf    -     -         2000   20    0 
+PktRkts   811896041  4  1 Bf  -     -     -         1980    5    0 
+PktRkts   811896053  4  4 f   -     -     -         1975    0    0 
+PktRkts   811896072  4  3 rc  rc    c     c         1975  100  115 Jd Kd
+PktRkts   811896116  4  2 Bc  c     k     f         1990   30    0 
+PktRkts   811896157  4  1 Bf  -     -     -         1960    5    0 
+PktRkts   811896165  4  4 f   -     -     -         1955    0    0 
+PktRkts   811896173  4  3 rc  c     k     c         1955   60  130 Ah Qs
+PktRkts   811896222  4  2 Br  bc    b     -         2025   70  125 
+PktRkts   811896263  4  1 Bf  -     -     -         2080    5    0 
+PktRkts   811896304  4  4 f   -     -     -         2075    0    0 
+PktRkts   811896352  4  3 c   f     -     -         2075   10    0 
+PktRkts   811896375  4  2 Bf  -     -     -         2065   10    0 
+PktRkts   811896397  4  1 Bc  bc    br    kc        2055  120    0 Ks Ah
+PktRkts   811896446  4  4 f   -     -     -         1935    0    0 
+PktRkts   811896461  4  3 c   f     -     -         1935   10    0 
+PktRkts   811896513  4  2 B   -     -     -         1925   10   15 
+PktRkts   811896521  4  1 Bf  -     -     -         1930    5    0 
+PktRkts   811896530  4  4 f   -     -     -         1925    0    0 
+PktRkts   811896554  4  3 r   -     -     -         1925   20   35 
+PktRkts   811896562  4  2 Bf  -     -     -         1940   10    0 
+PktRkts   811896575  4  1 Bf  -     -     -         1930    5    0 
+PktRkts   811896583  4  4 f   -     -     -         1925    0    0 
+PktRkts   811896646  4  3 f   -     -     -         1925    0    0 
+PktRkts   811896671  4  2 BQ  -     -     -         1925   10    0 
+PktRkts   811904543  8  8 c   c     f     -         1915   20    0 
+PktRkts   811904606  8  7 f   -     -     -         1895    0    0 
+PktRkts   811904745  8  6 r   b     -     -         1895   30   65 
+PktRkts   811904782  8  5 f   -     -     -         1930    0    0 
+PktRkts   811904847  8  4 f   -     -     -         1930    0    0 
+PktRkts   811904881  8  3 f   -     -     -         1930    0    0 
+PktRkts   811904963  8  2 Bc  kf    -     -         1930   20    0 
+PktRkts   811905027  7  1 Bc  k     kf    -         1910   10    0 
+PktRkts   811905081  5  5 r   b     b     k         1900   50  110 Kc Qc
+PktRkts   811905116  5  5 f   -     -     -         1960    0    0 
+PktRkts   811905162  5  3 f   -     -     -         1960    0    0 
+PktRkts   811905209  5  2 Bk  cc    kc    k         1960   50    0 8d 7d
+PktRkts   811905255  5  1 Bc  bc    kc    kc        1910   70    0 7s Ks
+PktRkts   811905307  5  5 f   -     -     -         1840    0    0 
+PktRkts   811905350  5  4 f   -     -     -         1840    0    0 
+PktRkts   811905402  5  3 f   -     -     -         1840    0    0 
+PktRkts   811905446  5  2 Bc  kf    -     -         1840   20    0 
+PktRkts   811905478  5  1 Bc  k     kf    -         1820   10    0 
+PktRkts   811905511  6  5 f   -     -     -         1810    0    0 
+PktRkts   811905547  6  4 f   -     -     -         1810    0    0 
+PktRkts   811905608  6  3 f   -     -     -         1810    0    0 
+PktRkts   811905627  6  2 Bk  bc    kc    kf        1810   50    0 
+PktRkts   811905692  6  1 Bc  b     -     -         1760   20   50 
+PktRkts   811905735  6  6 f   -     -     -         1790    0    0 
+PktRkts   811905787  6  5 f   -     -     -         1790    0    0 
+PktRkts   811905851  7  4 f   -     -     -         1790    0    0 
+PktRkts   811905894  7  3 f   -     -     -         1790    0    0 
+PktRkts   811905956  6  2 Bk  kf    -     -         1790   10    0 
+PktRkts   811906039  7  1 Bc  k     k     kf        1780   10    0 
+PktRkts   811906123  7  7 f   -     -     -         1770    0    0 
+PktRkts   811906183  7  6 f   -     -     -         1770    0    0 
+PktRkts   811906232  7  5 f   -     -     -         1770    0    0 
+PktRkts   811906302  7  4 f   -     -     -         1770    0    0 
+PktRkts   811906354  7  3 f   -     -     -         1770    0    0 
+PktRkts   811906397  7  2 Bk  b     k     k         1770   20   65 2c Kd
+PktRkts   811906443  7  1 Bf  -     -     -         1815    5    0 
+PktRkts   811906504  7  7 f   -     -     -         1810    0    0 
+PktRkts   811906554  8  7 f   -     -     -         1810    0    0 
+PktRkts   811906591  8  6 f   -     -     -         1810    0    0 
+PktRkts   811906644  9  5 f   -     -     -         1810    0    0 
+PktRkts   811906658  9  4 f   -     -     -         1810    0    0 
+PktRkts   811906683  9  3 f   -     -     -         1810    0    0 
+PktRkts   811906716  9  2 Bk  f     -     -         1810   10    0 
+PktRkts   811906784  9  1 Br  b     b     k         1800   60  130 Ac Ah
+PktRkts   811906843  9  9 f   -     -     -         1870    0    0 
+PktRkts   811906903  8  7 f   -     -     -         1870    0    0 
+PktRkts   811906945  7  5 Q   -     -     -         1870    0    0 
+PktRkts   811912764  5  4 f   -     -     -         1870    0    0 
+PktRkts   811912822  6  4 c   c     f     -         1870   30    0 
+PktRkts   811912901  5  3 f   -     -     -         1840    0    0 
+PktRkts   811912940  7  2 Bk  bc    bc    k         1840   70  210 Kd 4c
+PktRkts   811913005  7  1 Bf  -     -     -         1980    5    0 
+PktRkts   811913054  7  7 f   -     -     -         1975    0    0 
+PktRkts   811913133  6  5 f   -     -     -         1975    0    0 
+PktRkts   811913163  6  4 f   -     -     -         1975    0    0 
+PktRkts   811913228  7  4 f   -     -     -         1975    0    0 
+PktRkts   811913318  6  2 Bk  k     kc    k         1975   30   80 4c 6s
+PktRkts   811913417  6  1 Bc  b     kf    -         2025   20    0 
+PktRkts   811913459  5  5 f   -     -     -         2005    0    0 
+PktRkts   811913493  5  4 f   -     -     -         2005    0    0 
+PktRkts   811913534  4  3 f   -     -     -         2005    0    0 
+PktRkts   811913555  4  2 Bc  b     b     kc        2005   70    0 Ah 6d
+PktRkts   811913588  4  1 Bc  bf    -     -         1935   30    0 
+PktRkts   811913611  5  5 f   -     -     -         1905    0    0 
+PktRkts   811913660  5  4 cc  f     -     -         1905   20    0 
+PktRkts   811913746  4  3 f   -     -     -         1885    0    0 
+PktRkts   811913757  4  2 Bcc bc    kr    -         1885  100  225 
+PktRkts   811913791  4  1 Bf  -     -     -         2010    5    0 
+PktRkts   811913822  4  4 r   b     -     -         2005   30   80 
+PktRkts   811913854  4  3 cf  -     -     -         2055   10    0 
+PktRkts   811913901  4  2 Bk  b     b     -         2045   40   70 
+PktRkts   811913952  4  1 Bf  -     -     -         2075    5    0 
+PktRkts   811913983  4  4 f   -     -     -         2070    0    0 
+PktRkts   811914031  4  3 f   -     -     -         2070    0    0 
+PktRkts   811914083  4  2 Bk  kr    -     -         2070   30    5 8s Kd
+PktRkts   811914136  5  1 Bc  brc   b     -         2045   70    0 Tc Ah
+PktRkts   811914182  5  5 f   -     -     -         1975    0    0 
+PktRkts   811914240  5  4 r   b     -     -         1975   30   55 
+PktRkts   811914274  5  3 f   -     -     -         2000    0    0 
+PktRkts   811914318  4  2 Bf  -     -     -         2000   10    0 
+PktRkts   811914335  6  1 Bf  -     -     -         1990    5    0 
+PktRkts   811914373  6  6 f   -     -     -         1985    0    0 
+PktRkts   811914413  7  6 c   r     b     k         1985   50  130 Jd Qh
+PktRkts   811914466  6  4 f   -     -     -         2065    0    0 
+PktRkts   811914509  6  3 f   -     -     -         2065    0    0 
+PktRkts   811914547  5  2 Bk  k     k     f         2065   10    0 
+PktRkts   811914590  6  1 Bf  -     -     -         2055    5    0 
+PktRkts   811914608  6  6 f   -     -     -         2050    0    0 
+PktRkts   811914657  6  5 f   -     -     -         2050    0    0 
+PktRkts   811914701  7  5 f   -     -     -         2050    0    0 
+PktRkts   811914759  7  4 f   -     -     -         2050    0    0 
+PktRkts   811914796  7  3 f   -     -     -         2050    0    0 
+PktRkts   811914852  8  2 Bf  -     -     -         2050   10    0 
+PktRkts   811914892  8  1 Bf  -     -     -         2040    5    0 
+PktRkts   811914935  9  9 f   -     -     -         2035    0    0 
+PktRkts   811915003  9  8 f   -     -     -         2035    0    0 
+PktRkts   811915040  9  7 f   -     -     -         2035    0    0 
+PktRkts   811915188  9  6 f   -     -     -         2035    0    0 
+PktRkts   811915284  6  4 f   -     -     -         2035    0    0 
+PktRkts   811915337  4  2 f   -     -     -         2035    0    0 
+PktRkts   811915357  4  2 Bc  b     k     k         2035   30   60 4h Ac
+PktRkts   811915386  3  1 Bcc bf    -     -         2065   30    0 
+PktRkts   811915425  4  4 c   -     -     -         2035   10   25 
+PktRkts   811915436  3  2 rc  f     -     -         2050   30    0 
+PktRkts   811915459  3  2 Bc  bc    bc    kc        2020  100    0 3s Js
+PktRkts   811915501  3  1 Bf  -     -     -         1920    5    0 
+PktRkts   811915523  3  3 r   r     b     k         1915   60  150 Qs Qd
+PktRkts   811915567  3  2 Bk  k     b     -         2005   30   60 
+PktRkts   811915591  3  1 Brc bf    -     -         2035   40    0 
+PktRkts   811915606  3  3 f   -     -     -         1995    0    0 
+PktRkts   811915646  3  2 Bk  c     k     k         1995   20    0 5h 5d
+PktRkts   811915676  3  1 Bf  -     -     -         1975    5    0 
+PktRkts   811915713  3  3 f   -     -     -         1970    0    0 
+PktRkts   811915740  3  2 Bc  bc    bc    k         1970   90  230 Ts Kh
+PktRkts   811915780  3  1 Br  bc    kf    -         2110   40    0 
+PktRkts   811915816  3  3 f   -     -     -         2070    0    0 
+PktRkts   811915830  3  2 Bc  b     k     b         2070   50  120 Kc 5h
+PktRkts   811915875  4  1 Bf  -     -     -         2140    5    0 
+PktRkts   811915914  4  4 c   c     c     f         2135   50    0 
+PktRkts   811915972  4  3 f   -     -     -         2085    0    0 
+PktRkts   811915998  4  2 Bc  c     c     b         2085   70  140 5s As
+PktRkts   811916032  4  1 Bc  k     kf    -         2155   10    0 
+PktRkts   811916066  4  4 c   f     -     -         2145   10    0 
+PktRkts   811916126  4  3 f   -     -     -         2135    0    0 
+PktRkts   811916194  4  2 Bk  kf    -     -         2135   10    0 
+PktRkts   811916248  3  1 Bc  b     bf    -         2125   50    0 
+PktRkts   811916275  2  2 c   b     k     k         2075   20    0 2s 2d
+PktRkts   811916301  2  2 Bc  f     -     -         2055   20    0 
+PktRkts   811916321  2  1 Br  -     -     -         2035   20   30 
+PktRkts   811916326  2  2 Bf  -     -     -         2045   10    0 
+PktRkts   811916331  2  1 Bc  br    b     b         2035   80  160 7s Th
+PktRkts   811916355  2  2 Bc  k     c     b         2115   60  120 6d 7s
+PktRkts   811916386  2  1 Bf  -     -     -         2175    5    0 
+PktRkts   811916399  2  2 Bc  c     k     b         2170   50   80 
+PktRkts   811916423  2  1 Bf  -     -     -         2200    5    0 
+PktRkts   811916431  2  2 Bf  -     -     -         2195   10    0 
+PktRkts   811916440  2  1 Br  bc    kc    k         2185   60  120 5s Kh
+PktRkts   811916463  2  2 B   -     -     -         2245   10   15 
+PktRkts   811916469  2  1 Bc  k     k     k         2250   10    0 5d 8c
+PktRkts   811916489  2  2 Bc  b     -     -         2240   30   50 
+PktRkts   811916505  2  1 Bc  b     b     -         2260   40   60 
+PktRkts   811916523  2  2 B   -     -     -         2280   10   15 
+PktRkts   811916526  2  1 Bc  bc    kc    kc        2285   70    0 9d Qd
+PktRkts   811916557  2  2 B   -     -     -         2215   10   15 
+PktRkts   811916563  2  1 Br  bf    -     -         2220   30    0 
+PktRkts   811916575  2  2 Bc  b     b     -         2190   50   80 
+PktRkts   811916593  2  1 Bc  b     -     -         2220   20   30 
+PktRkts   811916603  2  2 Bf  -     -     -         2230   10    0 
+PktRkts   811916609  2  1 Bcc kf    -     -         2220   20    0 
+PktRkts   811916624  2  2 B   -     -     -         2200   10   15 
+PktRkts   811916628  2  1 Bc  b     b     -         2205   40   60 
+PktRkts   811916644  2  2 B   -     -     -         2225   10   15 
+PktRkts   811916647  2  1 Bc  k     k     k         2230   10   20 Ts 2s
+PktRkts   811916673  2  2 Bc  f     -     -         2240   20    0 
+PktRkts   811916692  2  1 Br  -     -     -         2220   20   30 
+PktRkts   811916705  2  2 Bc  b     b     -         2230   50   80 
+PktRkts   811916726  2  1 Bc  k     k     k         2260   10    0 8c 7d
+PktRkts   811916744  2  2 B   -     -     -         2250   10   15 
+PktRkts   811916751  2  1 Bc  kf    -     -         2255   10    0 
+PktRkts   811916770  2  2 B   -     -     -         2245   10   15 
+PktRkts   811916774  2  1 Brc b     b     k         2250   60  120 5s 5c
+PktRkts   811916795  2  2 Bf  -     -     -         2310   10    0 
+PktRkts   811916811  2  1 Br  b     -     -         2300   30   50 
+PktRkts   811916824  2  2 B   -     -     -         2320   10   15 
+PktRkts   811916831  3  1 Bf  -     -     -         2325    5    0 
+PktRkts   811916855  3  3 c   b     b     -         2320   40   70 
+PktRkts   811916894  3  2 Bc  c     b     b         2350   70  120 
+PktRkts   811916928  3  1 Bc  bf    -     -         2400   20    0 
+PktRkts   811916973  5  5 c   rc    c     k         2380   60    0 9s Qs
+PktRkts   811917011  5  4 f   -     -     -         2320    0    0 
+PktRkts   811917056  4  2 Bk  c     c     r         2320   80  160 9s Ad
+PktRkts   811917097  4  1 Bc  kf    -     -         2400   10    0 
+PktRkts   811917122  4  4 f   -     -     -         2390    0    0 
+PktRkts   811917156  4  3 f   -     -     -         2390    0    0 
+PktRkts   811917166  4  2 Bc  b     k     k         2390   30    0 4d Kh
+PktRkts   811917197  4  1 Bc  k     kc    k         2360   40   90 Kh Qs
+PktRkts   811917229  4  4 rc  c     f     -         2410   40    0 
+PktRkts   811917264  4  3 cc  bc    kc    k         2370   60   68 Ts 9h
+PktRkts   811917307  5  3 f   -     -     -         2378    0    0 
+PktRkts   811917347  4  2 Bk  b     -     -         2378   20   30 
+PktRkts   811917367  3  1 BQ  -     -     -         2388    5    0 
+PktRkts   811975670  5  2 Bk  kf    -     -         2383   10    0 
+PktRkts   811975711  5  1 Bc  br    b     b         2373   80  190 7c 7s
+PktRkts   811975759  5  5 f   -     -     -         2483    0    0 
+PktRkts   811975809  5  4 f   -     -     -         2483    0    0 
+PktRkts   811975851  5  3 f   -     -     -         2483    0    0 
+PktRkts   811975886  5  2 Bk  k     kf    -         2483   10    0 
+PktRkts   811975927  4  1 Bc  b     -     -         2473   20   40 
+PktRkts   811975951  5  5 f   -     -     -         2493    0    0 
+PktRkts   811975992  4  3 f   -     -     -         2493    0    0 
+PktRkts   811976026  5  3 r   b     -     -         2493   30   60 
+PktRkts   811976059  5  2 Bk  r     c     f         2523   50    0 
+PktRkts   811976112  6  1 Bc  b     b     k         2473   40  120 8c 8h
+PktRkts   811976158  6  6 f   -     -     -         2553    0    0 
+PktRkts   811976200  5  4 f   -     -     -         2553    0    0 
+PktRkts   811976238  5  3 c   r     b     k         2553   50    0 9h Ah
+PktRkts   811976277  6  2 Bf  -     -     -         2503   10    0 
+PktRkts   811976333  6  1 Bf  -     -     -         2493    5    0 
+PktRkts   811976419  7  6 f   -     -     -         2488    0    0 
+PktRkts   811976481  7  5 c   c     cc    kf        2488   60    0 
+PktRkts   811976578  7  4 f   -     Q     -         2428    0    0 
+PktRkts   811977069  5  4 f   -     -     -         2428    0    0 
+PktRkts   811977123  5  3 f   -     -     -         2428    0    0 
+PktRkts   811977152  5  2 Bk  kc    kf    -         2428   20    0 
+PktRkts   811977209  5  1 Bf  -     -     -         2408    5    0 
+PktRkts   811977235  5  5 f   -     -     -         2403    0    0 
+PktRkts   811977278  5  4 f   -     -     -         2403    0    0 
+PktRkts   811977316  7  3 cc  k     kf    -         2403   20    0 
+PktRkts   811977390  7  2 Bf  -     -     -         2383   10    0 
+PktRkts   811977470  7  1 Bc  kf    -     -         2373   10    0 
+PktRkts   811977534  8  8 f   -     -     -         2363    0    0 
+PktRkts   811977569  9  8 r   bc    k     k         2363   40    0 Kh As
+PktRkts   811977619 10  8 f   -     -     -         2323    0    0 
+PktRkts   811977720 12  9 f   -     -     -         2323    0    0 
+PktRkts   811977804 12  8 f   -     -     -         2323    0    0 
+PktRkts   811977859 11  6 f   -     -     -         2323    0    0 
+PktRkts   811977920 11  5 f   -     -     -         2323    0    0 
+PktRkts   811978014 11  4 f   -     -     -         2323    0    0 
+PktRkts   811978074 11  3 r   bc    kc    k         2323   60    0 Ac Kh
+PktRkts   811978149 10  2 Bk  kf    -     -         2263   10    0 
+PktRkts   811978262 11  1 Bc  bc    kcc   b         2253  120  500 Ad 4d
+PktRkts   811978352 12 12 f   -     -     -         2633    0    0 
+PktRkts   811978442 12 11 c   f     -     -         2633   10    0 
+PktRkts   811978534 12 10 f   -     -     -         2623    0    0 
+PktRkts   811978597 12  9 f   -     -     -         2623    0    0 
+PktRkts   811978678 11  7 f   -     -     -         2623    0    0 
+PktRkts   811978745 11  6 f   -     -     -         2623    0    0 
+PktRkts   811978853 11  5 f   -     -     -         2623    0    0 
+PktRkts   811978906 11  4 f   -     -     -         2623    0    0 
+PktRkts   811979020 11  3 c   bc    kf    -         2623   30    0 
+PktRkts   811979131  9  1 Bf  -     -     -         2593   10    0 
+PktRkts   811979207  9  1 Bf  -     -     -         2583    5    0 
+PktRkts   811979307 10 10 f   -     -     -         2578    0    0 
+PktRkts   811979392 11 10 f   -     -     -         2578    0    0 
+PktRkts   811979528  8  6 f   -     -     -         2578    0    0 
+PktRkts   811979586 10  5 f   -     -     -         2578    0    0 
+PktRkts   811979724  9  4 cc  f     -     -         2578   20    0 
+PktRkts   811979787 10  2 Bk  krc   b     bc        2558  110  385 7c 3d
+PktRkts   811979887 11  1 Bf  -     -     -         2833    5    0 
+PktRkts   811980066 10 10 f   -     -     -         2828    0    0 
+PktRkts   811980128 10  9 f   -     -     -         2828    0    0 
+PktRkts   811980233 11  9 f   -     -     -         2828    0    0 
+PktRkts   811980328 11  8 f   -     -     -         2828    0    0 
+PktRkts   811980402 10  6 r   b     b     c         2828   70    0 Ac Kd
+PktRkts   811980468 10  5 f   -     -     -         2758    0    0 
+PktRkts   811980540 10  4 f   -     -     -         2758    0    0 
+PktRkts   811980607 10  3 r   bf    -     -         2758   30    0 
+PktRkts   811980649 10  2 Bk  k     k     b         2728   30   80 
+PktRkts   811980730 10  1 Bc  kf    -     -         2778   10    0 
+PktRkts   811980787 10 10 f   -     -     -         2768    0    0 
+PktRkts   811980851 10  9 r   b     c     f         2768   50    0 
+PktRkts   811980922 10  8 f   -     -     -         2718    0    0 
+PktRkts   811980989 10  7 f   -     -     -         2718    0    0 
+PktRkts   811981070 10  6 f   -     -     -         2718    0    0 
+PktRkts   811981136 10  5 f   -     -     -         2718    0    0 
+PktRkts   811981216 10  5 r   bcf   -     -         2718   40    0 
+PktRkts   811981353  9  3 cc  kf    -     -         2678   20    0 
+PktRkts   811981519  8  2 Bk  bc    kc    kc        2658  100    0 Ks As
+PktRkts   811981610  8  1 Bc  b     kf    -         2558   20    0 
+PktRkts   811981724  7  7 f   -     -     -         2538    0    0 
+PktRkts   811981764  9  7 f   -     -     -         2538    0    0 
+PktRkts   811981806  9  6 f   -     -     -         2538    0    0 
+PktRkts   811981891  9  5 f   -     -     -         2538    0    0 
+PktRkts   811981963 10  4 f   -     -     -         2538    0    0 
+PktRkts   811982052 10  3 f   -     -     -         2538    0    0 
+PktRkts   811982129 10  2 Bk  kf    -     -         2538   10    0 
+PktRkts   811982282  7  1 Bc  kc    k     kf        2528   20    0 
+PktRkts   811982364  7  7 f   -     -     -         2508    0    0 
+PktRkts   811982384  7  6 c   b     b     -         2508   40   70 
+PktRkts   811982479  6  4 cc  r     bc    k         2538   80    0 Qs Kd
+PktRkts   811982546  6  3 c   b     -     -         2458   20   40 
+PktRkts   811982589  6  2 Bf  -     -     -         2478   10    0 
+PktRkts   811982684  6  1 Bf  -     -     -         2468    5    0 
+PktRkts   811982712  6  6 f   -     -     -         2463    0    0 
+PktRkts   811982764  6  5 f   -     -     -         2463    0    0 
+PktRkts   811982797  7  5 f   -     Q     -         2463    0    0 
+PktRkts   811983122  8  2 Bk  kf    -     -         2463   10    0 
+PktRkts   811983189  7  1 Bc  kc    kr    bc        2453  120  330 2s 3h
+PktRkts   811983259  7  7 f   -     -     -         2663    0    0 
+PktRkts   811983304  7  6 f   -     -     -         2663    0    0 
+PktRkts   811983352  7  5 f   -     -     -         2663    0    0 
+PktRkts   811983396  7  4 f   -     -     -         2663    0    0 
+PktRkts   811983446  7  3 f   -     -     -         2663    0    0 
+PktRkts   811983512  7  2 Bk  kf    -     -         2663   10    0 
+PktRkts   811983587  8  1 Bc  b     b     k         2653   40  100 Qd Kd
+PktRkts   811983632  8  8 f   -     -     -         2713    0    0 
+PktRkts   811983674  8  7 f   -     -     -         2713    0    0 
+PktRkts   811983750  8  6 f   -     -     -         2713    0    0 
+PktRkts   811983806  8  5 f   -     -     -         2713    0    0 
+PktRkts   811983845  8  4 rc  cf    -     -         2713   60    0 
+PktRkts   811983942  9  3 r   b     k     k         2653   30    0 Ah Qs
+PktRkts   811984008  8  2 Bk  kc    kf    -         2623   20    0 
+PktRkts   811984074  8  1 Bf  -     -     -         2603    5    0 
+PktRkts   811984092  8  8 f   -     -     -         2598    0    0 
+PktRkts   811984125  8  7 f   -     -     -         2598    0    0 
+PktRkts   811984185  8  6 f   -     -     -         2598    0    0 
+PktRkts   811984287  9  6 c   c     k     k         2598   30  105 Tc Td
+PktRkts   811984343  9  5 f   -     -     -         2673    0    0 
+PktRkts   811984397 10  4 f   -     -     -         2673    0    0 
+PktRkts   811984467  9  2 Bc  kf    -     -         2673   20    0 
+PktRkts   811984543  9  1 Bc  k     kf    -         2653   10    0 
+PktRkts   811984617 12 12 c   c     c     f         2643   40    0 
+PktRkts   811984723 11 10 f   -     -     -         2603    0    0 
+PktRkts   811984832 10  8 f   -     -     -         2603    0    0 
+PktRkts   811984890 10  7 c   k     k     f         2603   20    0 
+PktRkts   811984970 10  6 c   bc    kf    -         2583   40    0 
+PktRkts   811985030  9  5 f   -     -     -         2543    0    0 
+PktRkts   811985095  8  3 f   -     -     -         2543    0    0 
+PktRkts   811985154  8  2 Bc  k     kf    -         2543   20    0 
+PktRkts   811985217  8  1 Bc  kc    kf    -         2523   30    0 
+PktRkts   811985268  8  8 f   -     -     -         2493    0    0 
+PktRkts   811985332 10  9 c   r     b     c         2493   80  225 Js Ts
+PktRkts   811985399 10  8 f   -     -     -         2638    0    0 
+PktRkts   811985495 10  7 f   -     -     -         2638    0    0 
+PktRkts   811985565 10  6 f   -     -     -         2638    0    0 
+PktRkts   811985644 10  5 cc  c     bc    kc        2638   90    0 5c Ac
+PktRkts   811985741  8  3 f   -     -     -         2548    0    0 
+PktRkts   811985821  9  2 Bc  b     br    b         2548  110  300 3c 8d
+PktRkts   811985915  8  1 Bf  -     -     -         2738    5    0 
+PktRkts   811986031  8  8 c   b     b     k         2733   50  125 As Ks
+PktRkts   811986123  8  7 f   -     -     -         2808    0    0 
+PktRkts   811986171  8  6 f   -     -     -         2808    0    0 
+PktRkts   811986217  8  5 f   -     -     -         2808    0    0 
+PktRkts   811986250  9  5 f   -     -     -         2808    0    0 
+PktRkts   811986353  9  4 f   -     -     -         2808    0    0 
+PktRkts   811986411  7  2 f   -     -     -         2808    0    0 
+PktRkts   811986442  7  2 Bk  kf    -     -         2808   10    0 
+PktRkts   811986476  6  1 Bc  k     kf    -         2798   10    0 
+PktRkts   811986520  4  4 f   -     -     -         2788    0    0 
+PktRkts   811986537  4  3 f   -     -     -         2788    0    0 
+PktRkts   811986597  4  2 Bf  -     -     -         2788   10    0 
+PktRkts   811986660  4  1 Bf  -     -     -         2778    5    0 
+PktRkts   811986673  4  4 f   -     -     -         2773    0    0 
+PktRkts   811986692  4  3 f   -     -     -         2773    0    0 
+PktRkts   811986754  4  2 Bk  kf    -     -         2773   10    0 
+PktRkts   811986794  4  1 Bc  k     k     k         2763   10   10 Ts 5s
+PktRkts   811986820  4  4 c   bc    f     -         2763   40    0 
+PktRkts   811986874  4  3 f   -     -     -         2723    0    0 
+PktRkts   811986881  4  2 Bk  b     b     -         2723   40   60 
+PktRkts   811986910  4  1 Bc  b     -     -         2743   20   30 
+PktRkts   811986923  4  4 f   -     -     -         2753    0    0 
+PktRkts   811986991  5  4 r   b     b     k         2753   50    0 Th Qd
+PktRkts   811987038  5  3 cc  rc    c     c         2703   90    0 Tc Qc
+PktRkts   811987106  5  2 Bc  c     f     -         2613   40    0 
+PktRkts   811987165  5  1 Bc  bc    b     k         2573   50  110 Kh Qs
+PktRkts   811987221  5  5 c   c     k     c         2633   40    0 7d 7h
+PktRkts   811987308  5  4 f   -     -     -         2593    0    0 
+PktRkts   811987329  6  4 c   c     b     -         2593   40   90 
+PktRkts   811987383  6  3 rc  f     -     -         2643   30    0 
+PktRkts   811987449  6  2 Bf  -     -     -         2613   10    0 
+PktRkts   811987496  6  1 Bc  b     -     -         2603   20   40 
+PktRkts   811987537  6  6 f   -     -     -         2623    0    0 
+PktRkts   811987572  6  5 f   -     -     -         2623    0    0 
+PktRkts   811987631  6  4 f   -     -     -         2623    0    0 
+PktRkts   811987685  6  3 f   -     -     -         2623    0    0 
+PktRkts   811987747  6  2 Bk  b     -     -         2623   20   40 
+PktRkts   811987775  6  1 Bc  b     kf    -         2643   20    0 
+PktRkts   811987825  7  7 c   f     -     -         2623   10    0 
+PktRkts   811987876  8  6 f   -     -     -         2613    0    0 
+PktRkts   811987933  8  5 f   -     -     -         2613    0    0 
+PktRkts   811987975  8  4 f   -     -     -         2613    0    0 
+PktRkts   811988047  8  3 r   -     -     -         2613   20   35 
+PktRkts   811988069  8  2 Bc  kf    -     -         2628   20    0 
+PktRkts   811988157  8  1 Bf  -     -     -         2608    5    0 
+PktRkts   811988228  8  8 cc  f     -     -         2603   20    0 
+PktRkts   811988318  8  7 f   -     -     -         2583    0    0 
+PktRkts   811988376  8  6 f   -     -     -         2583    0    0 
+PktRkts   811988428  8  5 f   -     -     -         2583    0    0 
+PktRkts   811988489  8  4 f   -     -     -         2583    0    0 
+PktRkts   811988557  8  3 f   -     -     -         2583    0    0 
+PktRkts   811988683  8  2 Bk  c     r     b         2583   80  180 9s 5s
+PktRkts   811988874  8  8 f   -     -     -         2678    0    0 
+PktRkts   811988916  7  6 f   -     -     Q         2678    0    0 
+PktRkts   812065375  6  3 f   -     -     -         2678    0    0 
+PktRkts   812065395  6  2 Bc  kc    kf    -         2678   30    0 
+PktRkts   812065430  6  1 Bf  -     -     -         2648    5    0 
+PktRkts   812065485  6  6 c   c     c     k         2643   40    0 Jc Qh
+PktRkts   812065555  6  5 f   -     -     -         2603    0    0 
+PktRkts   812065608  8  4 f   -     -     -         2603    0    0 
+PktRkts   812065629  8  3 f   -     -     -         2603    0    0 
+PktRkts   812065669  8  2 Bc  bf    -     -         2603   30    0 
+PktRkts   812065757  8  1 Bc  bf    -     -         2573   20    0 
+PktRkts   812065906  8  8 f   -     -     -         2553    0    0 
+PktRkts   812065975  8  7 f   -     -     -         2553    0    0 
+PktRkts   812066059  7  5 f   -     -     -         2553    0    0 
+PktRkts   812066124  7  4 c   c     cc    f         2553   60    0 
+PktRkts   812066185  8  3 f   -     -     -         2493    0    0 
+PktRkts   812066219  8  2 Bk  b     b     kc        2493   60  145 9c 5d
+PktRkts   812066273  8  1 Bc  bc    b     b         2578   80    0 8h As
+PktRkts   812066330  8  8 f   -     -     -         2498    0    0 
+PktRkts   812066361  7  6 f   -     -     -         2498    0    0 
+PktRkts   812066396  8  6 f   -     -     -         2498    0    0 
+PktRkts   812066435  8  6 c   cc    k     k         2498   40    0 Jd Ad
+PktRkts   812066517  7  4 f   -     -     -         2458    0    0 
+PktRkts   812066582  7  3 f   -     -     -         2458    0    0 
+PktRkts   812066664  7  2 Bc  kf    -     -         2458   20    0 
+PktRkts   812066697  7  1 Bf  -     -     -         2438    5    0 
+PktRkts   812066724  7  7 f   -     -     -         2433    0    0 
+PktRkts   812066772  7  6 f   -     -     -         2433    0    0 
+PktRkts   812066815  7  5 f   -     -     -         2433    0    0 
+PktRkts   812066861  7  4 f   -     -     -         2433    0    0 
+PktRkts   812066918  8  3 f   Q     -     -         2433    0    0 
+PktRkts   812068614  9  4 f   -     -     -         2433    0    0 
+PktRkts   812068678 10  3 f   -     -     -         2433    0    0 
+PktRkts   812068775 10  2 Bc  kc    k     b         2433   50  125 
+PktRkts   812068832 10  1 Bf  -     -     -         2508    5    0 
+PktRkts   812068970 10 10 f   -     -     -         2503    0    0 
+PktRkts   812069039 11  3 Q   -     -     -         2503    0    0 
+PktRkts   812071325  8  6 f   -     -     -         2503    0    0 
+PktRkts   812071395  8  5 fQ  -     -     -         2503    0    0 
+PktRkts   812081282  7  3 f   -     -     -         2503    0    0 
+PktRkts   812081372 10  2 Bc  b     b     kc        2503   70    0 Qh Qc
+PktRkts   812081452 11  1 Bc  b     kcf   -         2433   40    0 
+PktRkts   812081524 10 10 f   -     -     -         2393    0    0 
+PktRkts   812081632 10  9 f   -     -     -         2393    0    0 
+PktRkts   812081680 10  9 f   -     -     -         2393    0    0 
+PktRkts   812081806 10  8 f   -     -     -         2393    0    0 
+PktRkts   812081975  6  4 f   -     -     -         2393    0    0 
+PktRkts   812082031  4  1 Bf  -     -     -         2393   10    0 
+PktRkts   812082047  3  1 Bc  k     kf    -         2383   20    0 
+PktRkts   812082087  3  3 rc  c     c     c         2363   80  165 6s 6h
+PktRkts   812082112  3  2 Bc  f     -     -         2448   20    0 
+PktRkts   812082132  3  1 Brc bc    bc    br        2428  160  330 9d 9h
+PktRkts   812082167  3  3 f   -     -     -         2598    0    0 
+PktRkts   812082180  3  2 Bc  c     c     c         2598   70    0 4c 8c
+PktRkts   812082206  4  1 Bf  -     -     -         2528    5    0 
+PktRkts   812082243  4  4 f   -     -     -         2523    0    0 
+PktRkts   812082274  4  3 f   -     -     -         2523    0    0 
+PktRkts   812082294  3  2 Bc  k     k     -         2523   20   45 
+PktRkts   812082340  3  1 Bc  kf    -     -         2548   20    0 
+PktRkts   812082364  2  2 rc  r     b     b         2528   90  180 As 9d
+PktRkts   812082385  2  2 B   -     -     -         2618   10   15 
+PktRkts   812082392  2  1 Bf  -     -     -         2623    5    0 
+PktRkts   812082396  2  2 B   -     -     -         2618   10   15 
+PktRkts   812082406  2  1 Bcc k     k     b         2623   40   60 
+PktRkts   812082440  2  2 B   -     -     -         2643   10   15 
+PktRkts   812082442  3  1 Bc  b     b     kc        2648   60    0 3d Jd
+PktRkts   812082479  3  3 f   -     -     -         2588    0    0 
+PktRkts   812082521  3  2 Bk  k     f     -         2588   10    0 
+PktRkts   812082568  3  1 Bc  k     b     -         2578   40   70 
+PktRkts   812082598  3  3 c   c     f     -         2608   20    0 
+PktRkts   812082639  3  2 Bc  f     -     -         2588   20    0 
+PktRkts   812082676  3  1 Bf  -     -     -         2568    5    0 
+PktRkts   812082709  4  4 f   -     -     -         2563    0    0 
+PktRkts   812082754  4  3 f   -     -     -         2563    0    0 
+PktRkts   812082819  4  2 Bc  f     -     -         2563   20    0 
+PktRkts   812082859  4  1 Bf  -     -     -         2543    5    0 
+PktRkts   812082871  4  4 c   c     c     c         2538   70    0 Ah Jd
+PktRkts   812082917  5  4 f   Q     -     -         2468    0    0 
+PktRkts   812134967  6  4 f   -     -     -         2468    0    0 
+PktRkts   812135035  4  2 Bc  b     kf    -         2468   30    0 
+PktRkts   812135097  4  1 Br  b     b     kc        2438   70  150 Ks Ac
+PktRkts   812135141  4  4 f   -     -     -         2518    0    0 
+PktRkts   812135208  5  3 f   -     -     -         2518    0    0 
+PktRkts   812135242  5  2 Bc  kf    -     -         2518   20    0 
+PktRkts   812135325  5  1 Bf  -     -     -         2498    5    0 
+PktRkts   812135393  4  4 r   b     k     k         2493   30    0 3s As
+PktRkts   812135424  4  3 c   c     k     c         2463   40  120 As 9s
+PktRkts   812135487  4  2 Bk  k     kf    -         2543   10    0 
+PktRkts   812135524  4  1 Bc  k     b     k         2533   30   70 9c Ah
+PktRkts   812135562  4  4 f   -     -     -         2573    0    0 
+PktRkts   812135628  4  3 f   -     -     -         2573    0    0 
+PktRkts   812135695  6  3 f   -     -     -         2573    0    0 
+PktRkts   812135748  6  2 Bk  br    b     k         2573   60  170 Kd Js
+PktRkts   812135812  6  1 Bf  -     -     -         2683    5    0 
+PktRkts   812135832  6  6 r   b     k     b         2678   50  125 Ad Kc
+PktRkts   812135892  6  5 f   -     -     -         2753    0    0 
+PktRkts   812135927  6  4 f   -     -     -         2753    0    0 
+PktRkts   812135960  6  3 f   -     -     -         2753    0    0 
+PktRkts   812135993  7  2 Bk  k     k     kc        2753   30    0 8h 9s
+PktRkts   812136082  6  1 Bcc kf    -     -         2723   20    0 
+PktRkts   812136135  6  6 f   -     -     -         2703    0    0 
+PktRkts   812136174  6  5 f   -     -     -         2703    0    0 
+PktRkts   812136214  5  3 f   -     -     -         2703    0    0 
+PktRkts   812136224  5  2 Bc  bc    kc    k         2703   60  125 Ad 5d
+PktRkts   812136265  5  1 Bc  k     k     k         2768   10   20 6c 7s
+PktRkts   812136294  4  4 f   -     -     -         2778    0    0 
+PktRkts   812136318  4  3 f   -     -     -         2778    0    0 
+PktRkts   812136329  4  2 Bk  f     -     -         2778   10    0 
+PktRkts   812136348  3  1 Bf  -     -     -         2768    5    0 
+PktRkts   812136358  3  3 r   b     b     -         2763   50   85 
+PktRkts   812136386  2  2 BQ  -     -     -         2798   10   15 
+PktRkts   812151101  5  3 f   -     -     -         2203    0    0 
+PktRkts   812151118  5  2 Bc  f     -     -         2203   20    0 
+PktRkts   812151137  5  1 Bf  -     -     -         2183    5    0 
+PktRkts   812151147  5  5 f   -     -     -         2178    0    0 
+PktRkts   812151159  5  4 f   -     -     -         2178    0    0 
+PktRkts   812151165  5  3 f   -     -     -         2178    0    0 
+PktRkts   812151201  5  2 B   -     -     -         2178   10   15 
+PktRkts   812151209  5  1 Bc  kc    kc    kf        2183   40    0 
+PktRkts   812151250  6  6 c   b     bc    f         2143   70    0 
+PktRkts   812151299  7  6 f   -     -     -         2073    0    0 
+PktRkts   812151375  6  5 r   b     k     f         2073   30    0 
+PktRkts   812151428  6  4 f   -     -     -         2043    0    0 
+PktRkts   812151450  5  3 f   -     -     -         2043    0    0 
+PktRkts   812151514  5  2 Bf  -     -     -         2043   10    0 
+PktRkts   812151562  6  1 Bf  -     -     -         2033    5    0 
+PktRkts   812151601  7  7 f   -     -     -         2028    0    0 
+PktRkts   812151639  7  6 f   -     -     -         2028    0    0 
+PktRkts   812151674  7  5 f   -     -     -         2028    0    0 
+PktRkts   812151724  7  4 f   -     -     -         2028    0    0 
+PktRkts   812151775  7  3 f   -     -     -         2028    0    0 
+PktRkts   812151809  5  2 B   -     -     -         2028   10   15 
+PktRkts   812151829  5  1 Bc  kf    -     -         2033   10    0 
+PktRkts   812151870  5  5 f   -     -     -         2023    0    0 
+PktRkts   812151909  6  5 f   -     -     -         2023    0    0 
+PktRkts   812151942  6  4 r   -     -     -         2023   20   35 
+PktRkts   812152023  6  2 f   -     -     -         2038    0    0 
+PktRkts   812152045  6  2 Bk  kf    -     -         2038   10    0 
+PktRkts   812152089  6  1 Bc  k     b     -         2028   30   50 
+PktRkts   812152133  7  7 f   -     -     -         2048    0    0 
+PktRkts   812152178  6  5 f   -     -     -         2048    0    0 
+PktRkts   812152194  6  4 f   -     -     -         2048    0    0 
+PktRkts   812152215  6  3 f   -     -     -         2048    0    0 
+PktRkts   812152247  6  2 Bk  b     b     -         2048   40   65 
+PktRkts   812152274  4  1 Bc  k     k     k         2073   10   30 2c 3c
+PktRkts   812152453  2  2 Bk  b     -     -         2093   20   30 
+PktRkts   812152504  3  1 BQ  -     -     -         2103    5    0 
+PktRkts   812173897  2  1 Bcc kf    -     -         1628   20    0 
+PktRkts   812173927  2  2 B   -     -     -         1608   10   15 
+PktRkts   812173935  3  1 Bc  kf    -     -         1613   10    0 
+PktRkts   812173998  4  4 f   -     -     -         1603    0    0 
+PktRkts   812174057  4  3 f   -     -     -         1603    0    0 
+PktRkts   812174104  4  2 Bk  kf    -     -         1603   10    0 
+PktRkts   812174130  4  1 Bf  -     -     -         1593    5    0 
+PktRkts   812174142  4  4 c   k     f     -         1588   10    0 
+PktRkts   812174203  4  3 f   -     -     -         1578    0    0 
+PktRkts   812174247  5  3 f   -     -     -         1578    0    0 
+PktRkts   812174259  5  2 B   -     -     -         1578   10   15 
+PktRkts   812174274  5  1 Bf  -     -     -         1583    5    0 
+PktRkts   812174304  5  5 f   -     -     -         1578    0    0 
+PktRkts   812174381  5  4 f   Q     -     -         1578    0    0 
+PktRkts   812221231  7  5 f   -     -     -         1578    0    0 
+PktRkts   812221301  9  5 f   -     -     -         1578    0    0 
+PktRkts   812221363  9  4 f   -     -     -         1578    0    0 
+PktRkts   812221554 10  5 f   -     -     -         1578    0    0 
+PktRkts   812221656  8  4 f   -     -     -         1578    0    0 
+PktRkts   812221672  7  3 cc  c     c     c         1578   70  145 9d Ad
+PktRkts   812221730  7  2 Bf  -     -     -         1653   10    0 
+PktRkts   812221800  7  1 Bf  -     -     -         1643    5    0 
+PktRkts   812221914  7  7 KQ  -     -     -         1638    0    0 
+PktRkts   812222254  3  3 f   -     -     -         1638    0    0 
+PktRkts   812222272  3  2 B   -     -     -         1638   10   15 
+PktRkts   812222281  3  1 Bf  -     -     -         1643    5    0 
+PktRkts   812222288  3  3 f   -     -     -         1638    0    0 
+PktRkts   812222298  3  2 Bk  kf    -     -         1638   10    0 
+PktRkts   812222321  3  1 Bf  -     -     -         1628    5    0 
+PktRkts   812222329  3  3 r   b     b     k         1623   50  105 8h 9h
+PktRkts   812222373  4  2 Bc  c     k     f         1678   30    0 
+PktRkts   812222426  3  1 Bf  -     -     -         1648    5    0 
+PktRkts   812222471  4  3 f   -     -     -         1643    0    0 
+PktRkts   812222498  3  1 Bc  b     b     k         1643   50  120 
+PktRkts   812222540  3  1 Bc  kf    -     -         1713   20    0 
+PktRkts   812222588  3  3 f   -     -     -         1693    0    0 
+PktRkts   812222616  3  2 B   -     -     -         1693   10   15 
+PktRkts   812222624  3  1 Bc  kf    -     -         1698   20    0 
+PktRkts   812222648  3  3 r   r     b     b         1678   80  145 
+PktRkts   812222687  3  2 Bc  k     f     -         1743   20    0 
+PktRkts   812222727  4  1 Bf  -     -     -         1723    5    0 
+PktRkts   812222755  4  4 r   c     r     b         1718   90  185 5d 5s
+PktRkts   812222794  4  3 f   -     -     -         1813    0    0 
+PktRkts   812222814  4  2 Bk  f     -     -         1813   10    0 
+PktRkts   812222840  4  1 Bf  -     -     -         1803    5    0 
+PktRkts   812222886  4  4 f   -     -     -         1798    0    0 
+PktRkts   812222913  4  3 f   -     -     -         1798    0    0 
+PktRkts   812222955  4  2 B   -     -     -         1798   10   15 
+PktRkts   812222966  4  1 Bc  kf    -     -         1803   10    0 
+PktRkts   812222998  4  4 c   k     k     k         1793   10    0 8d 7d
+PktRkts   812223031  4  3 c   b     -     -         1783   20   35 
+PktRkts   812223065  4  2 Bk  b     -     -         1798   20   30 
+PktRkts   812223089  4  1 Bf  -     -     -         1808    5    0 
+PktRkts   812223096  4  4 f   -     -     -         1803    0    0 
+PktRkts   812223138  5  4 f   -     -     -         1803    0    0 
+PktRkts   812223162  5  3 f   -     -     -         1803    0    0 
+PktRkts   812223199  5  2 B   -     -     -         1803   10   15 
+PktRkts   812223214  5  1 Bcc kf    -     -         1808   30    0 
+PktRkts   812223322  6  6 f   -     -     -         1778    0    0 
+PktRkts   812223354  6  5 f   -     -     -         1778    0    0 
+PktRkts   812223424  6  4 f   -     -     -         1778    0    0 
+PktRkts   812223471  6  3 rc  kc    kr    -         1778   80  155 
+PktRkts   812223530  6  2 Bk  b     -     -         1853   20   35 
+PktRkts   812223562  6  1 Bc  k     kf    -         1868   10    0 
+PktRkts   812223620  6  6 c   k     k     f         1858   10    0 
+PktRkts   812223697  6  5 f   -     -     -         1848    0    0 
+PktRkts   812223783  7  5 f   -     -     -         1848    0    0 
+PktRkts   812223843  6  4 f   -     -     -         1848    0    0 
+PktRkts   812223862  5  2 Bk  f     -     -         1848   10    0 
+PktRkts   812223920  5  1 Bc  kf    -     -         1838   10    0 
+PktRkts   812223995  6  6 f   -     -     -         1828    0    0 
+PktRkts   812224121  6  5 f   -     -     -         1828    0    0 
+PktRkts   812224175  6  4 f   -     -     -         1828    0    0 
+PktRkts   812224226  6  3 r   bf    -     -         1828   30    0 
+PktRkts   812224253  6  2 Bf  -     -     -         1798   10    0 
+PktRkts   812224274  6  1 Bc  k     k     k         1788   10   20 
+PktRkts   812224321  6  6 Q   -     -     -         1798    0    0 
+PktRkts   812237590  2  1 Bc  k     k     kf        1798   10    0 
+PktRkts   812237630  3  2 Bf  -     -     -         1788   10    0 
+PktRkts   812237658  4  1 Bc  k     kf    -         1778   10    0 
+PktRkts   812237715  6  6 f   -     -     -         1768    0    0 
+PktRkts   812237803  6  5 c   k     f     -         1768   10    0 
+PktRkts   812237897  8  6 f   -     -     -         1758    0    0 
+PktRkts   812238016  9  7 f   -     -     -         1758    0    0 
+PktRkts   812238096  9  6 rc  bc    kc    k         1758   70    0 Jh Ad
+PktRkts   812238259  5  3 Q   -     -     -         1688    0    0 
+PktRkts   812239783  7  5 f   -     -     -         1688    0    0 
+PktRkts   812239812  7  4 f   -     -     -         1688    0    0 
+PktRkts   812239967  6  3 f   -     -     -         1688    0    0 
+PktRkts   812240020  6  2 Bk  kf    -     -         1688   10    0 
+PktRkts   812240131  6  1 Bf  -     -     -         1678    5    0 
+PktRkts   812240162  6  6 f   -     -     -         1673    0    0 
+PktRkts   812240195  6  5 Q   -     -     -         1673    0    0 
+PktRkts   812245843  7  5 f   -     -     -         1673    0    0 
+PktRkts   812245911  8  5 f   -     -     -         1673    0    0 
+PktRkts   812245976  6  2 Bc  f     -     -         1673   20    0 
+PktRkts   812245994  6  1 Bc  k     b     -         1653   30   50 
+PktRkts   812246035  6  6 f   -     -     -         1673    0    0 
+PktRkts   812246049  6  5 f   -     -     -         1673    0    0 
+PktRkts   812246086  7  5 f   -     -     -         1673    0    0 
+PktRkts   812246140  7  4 c   c     c     k         1673   40   90 9s Ks
+PktRkts   812246173  7  3 r   -     -     -         1723   20   35 
+PktRkts   812246193  7  2 Bc  k     k     kf        1738   20    0 
+PktRkts   812246233  7  1 Bf  -     -     -         1718    5    0 
+PktRkts   812246291  7  7 f   -     -     -         1713    0    0 
+PktRkts   812246328  7  6 f   -     -     -         1713    0    0 
+PktRkts   812246396  7  4 f   -     -     -         1713    0    0 
+PktRkts   812246469  7  3 f   -     -     -         1713    0    0 
+PktRkts   812246504  7  2 Bk  k     f     -         1713   10    0 
+PktRkts   812246577  6  1 Bf  -     Q     -         1703    5    0 
+PktRkts   812329534  4  2 Bk  k     kf    -         1698   10    0 
+PktRkts   812329576  3  1 Bc  k     b     k         1688   30    0 8d 2d
+PktRkts   812329616  4  4 c   f     -     -         1658   10    0 
+PktRkts   812329635  4  3 r   bc    bc    kc        1648  100    0 Qs Kd
+PktRkts   812329701  4  2 Bc  kf    -     -         1548   20    0 
+PktRkts   812329756  4  1 Bc  kc    k     k         1528   20    0 4d 3c
+PktRkts   812329816  5  5 f   -     -     -         1508    0    0 
+PktRkts   812329859  4  4 f   -     -     -         1508    0    0 
+PktRkts   812329904  3  3 c   b     k     k         1508   20    0 3h 3d
+PktRkts   812329929  3  2 Bk  b     b     -         1488   40   80 
+PktRkts   812329958  4  1 Bf  -     -     -         1528    5    0 
+PktRkts   812329981  4  4 r   r     k     k         1523   40    0 9d Kh
+PktRkts   812330010  4  3 f   -     -     -         1483    0    0 
+PktRkts   812330028  4  2 Brc bc    k     k         1483   50    0 As Qc
+PktRkts   812330053  4  1 Bf  -     -     -         1433    5    0 
+PktRkts   812330088  4  4 cc  r     b     b         1428   80  145 
+PktRkts   812330126  5  3 rc  bc    kc    krr       1493  150  315 Ac Qd
+PktRkts   812330169  5  2 Bf  -     -     -         1658   10    0 
+PktRkts   812330242  5  1 Bc  kf    -     -         1648   10    0 
+PktRkts   812330274  6  6 f   -     -     -         1638    0    0 
+PktRkts   812330291  6  5 f   -     -     -         1638    0    0 
+PktRkts   812330316  5  3 c   f     -     -         1638   10    0 
+PktRkts   812330364  7  4 c   kf    -     -         1628   10    0 
+PktRkts   812330412  7  3 f   -     -     -         1618    0    0 
+PktRkts   812330441  7  2 Bk  k     k     b         1618   30   65 Qs 7c
+PktRkts   812330486  8  1 Bf  -     -     -         1653    5    0 
+PktRkts   812330544  9  9 f   -     -     -         1648    0    0 
+PktRkts   812330593  9  8 f   -     -     -         1648    0    0 
+PktRkts   812330607  8  6 f   -     -     -         1648    0    0 
+PktRkts   812330649  9  6 f   -     -     -         1648    0    0 
+PktRkts   812330738  9  5 f   -     -     -         1648    0    0 
+PktRkts   812330790  9  4 f   -     -     -         1648    0    0 
+PktRkts   812330857  9  3 f   -     -     -         1648    0    0 
+PktRkts   812330914  8  1 Bc  kf    -     -         1648   20    0 
+PktRkts   812330968  9  1 Bc  kf    -     -         1628   10    0 
+PktRkts   812331045  8  8 c   k     f     -         1618   20    0 
+PktRkts   812331113  9  8 f   -     -     -         1598    0    0 
+PktRkts   812331162  6  6 r   bc    k     c         1598   60    0 Qh Ac
+PktRkts   812331213  3  2 Q   -     -     -         1538    0    0 
+PktRkts   812333087  6  3 ccc cc    f     -         1538   60    0 
+PktRkts   812333174  6  2 Bc  k     k     kf        1478   20    0 
+PktRkts   812333240  6  1 Bc  kc    kc    kc        1458   90  195 Ad Kc
+PktRkts   812333334  6  6 f   -     -     -         1563    0    0 
+PktRkts   812333402  7  5 f   -     -     -         1563    0    0 
+PktRkts   812333440  7  4 f   -     -     -         1563    0    0 
+PktRkts   812333500  7  3 f   -     -     -         1563    0    0 
+PktRkts   812333604  6  2 Bk  f     -     -         1563   10    0 
+PktRkts   812333642  6  1 Bf  -     -     -         1553    5    0 
+PktRkts   812333681  7  7 f   -     -     -         1548    0    0 
+PktRkts   812333728  7  6 f   -     -     -         1548    0    0 
+PktRkts   812333763  7  5 f   -     -     -         1548    0    0 
+PktRkts   812333778  7  4 f   -     -     -         1548    0    0 
+PktRkts   812333866  7  3 cc  kf    -     -         1548   20    0 
+PktRkts   812333941  7  2 Bk  c     c     f         1528   40    0 
+PktRkts   812333987  7  1 Bf  -     -     -         1488    5    0 
+PktRkts   812334021  7  7 rc  c     r     b         1483  110  235 Qc Qs
+PktRkts   812334058  7  6 f   -     -     -         1608    0    0 
+PktRkts   812334135  5  3 f   -     -     -         1608    0    0 
+PktRkts   812334152  3  2 Bk  kf    -     -         1608   10    0 
+PktRkts   812334169  3  1 Bc  b     b     k         1598   40    0 4s Ks
+PktRkts   812334192  3  3 c   k     k     k         1558   10   12 Tc Qc
+PktRkts   812334226  3  2 Bk  b     b     -         1560   40   60 
+PktRkts   812334264  3  1 Bcc b     kc    k         1580   50    0 Tc Kc
+PktRkts   812334301  3  3 cc  r     bc    c         1530  100    0 7d 9d
+PktRkts   812334375  3  2 Bk  k     kf    -         1430   10    0 
+PktRkts   812334458  4  1 Bf  -     -     -         1420    5    0 
+PktRkts   812334493  4  4 f   -     -     -         1415    0    0 
+PktRkts   812334521  4  3 c   k     f     -         1415   10    0 
+PktRkts   812334561  5  2 Bk  b     b     b         1405   60  110 
+PktRkts   812334604  5  1 Bc  b     -     -         1455   20   40 
+PktRkts   812334630  5  5 f   -     -     -         1475    0    0 
+PktRkts   812334641  5  4 f   -     -     -         1475    0    0 
+PktRkts   812334665  5  3 f   -     -     -         1475    0    0 
+PktRkts   812334678  5  2 Bc  k     kc    rr        1475  120  378 3s 4h
+PktRkts   812334751  4  1 Bc  kc    b     k         1733   40   80 Ts Qd
+PktRkts   812334814  5  5 f   -     -     -         1773    0    0 
+PktRkts   812334846  5  4 cc  f     -     -         1773   20    0 
+PktRkts   812334881  5  3 f   -     -     -         1753    0    0 
+PktRkts   812334912  5  2 B   -     -     -         1753   10   15 
+PktRkts   812334930  5  1 Bc  k     kf    -         1758   10    0 
+PktRkts   812335012  5  5 f   -     -     -         1748    0    0 
+PktRkts   812335050  5  4 f   -     -     -         1748    0    0 
+PktRkts   812335118  5  3 f   -     -     -         1748    0    0 
+PktRkts   812335155  6  3 c   kc    r     b         1748   80  185 
+PktRkts   812335224  6  2 Bk  k     k     kf        1853   10    0 
+PktRkts   812335288  7  1 Bf  -     -     -         1843    5    0 
+PktRkts   812335328  7  7 f   -     -     -         1838    0    0 
+PktRkts   812335381  8  8 r   b     b     k         1838   50  125 Qc Kc
+PktRkts   812335491  9  7 f   -     -     -         1913    0    0 
+PktRkts   812335586  9  6 f   -     -     -         1913    0    0 
+PktRkts   812335672  9  5 f   -     -     -         1913    0    0 
+PktRkts   812335734  9  4 cc  b     -     -         1913   30   75 
+PktRkts   812335772  9  3 f   -     -     -         1958    0    0 
+PktRkts   812335877  9  2 Bk  k     k     kf        1958   10    0 
+PktRkts   812335966  8  1 Bf  -     -     -         1948    5    0 
+PktRkts   812336041  7  7 f   -     -     -         1943    0    0 
+PktRkts   812336108  7  7 f   -     -     -         1943    0    0 
+PktRkts   812336177  7  6 f   -     -     -         1943    0    0 
+PktRkts   812336217  7  5 f   -     -     -         1943    0    0 
+PktRkts   812336267  6  4 f   -     -     -         1943    0    0 
+PktRkts   812336309  6  3 f   -     -     -         1943    0    0 
+PktRkts   812336329  6  2 Bk  kf    -     -         1943   10    0 
+PktRkts   812336357  5  1 Bcc kf    -     -         1933   20    0 
+PktRkts   812336402  5  5 f   -     -     -         1913    0    0 
+PktRkts   812336450  5  4 f   -     -     -         1913    0    0 
+PktRkts   812336476  5  3 f   -     -     -         1913    0    0 
+PktRkts   812336520  5  2 Bc  kf    -     -         1913   20    0 
+PktRkts   812336605  5  1 Bc  k     k     kf        1893   10    0 
+PktRkts   812336692  6  6 c   k     b     r         1883   70  160 2d 2h
+PktRkts   812336763  6  5 cc  c     c     b         1973   70  180 Ts Ks
+PktRkts   812336838  7  4 f   -     -     -         2083    0    0 
+PktRkts   812336867  7  3 f   -     -     -         2083    0    0 
+PktRkts   812336936  7  2 Bf  -     -     -         2083   10    0 
+PktRkts   812336952  7  1 Bc  k     kf    -         2073   20    0 
+PktRkts   812337029  7  7 Q   -     -     -         2053    0    0 

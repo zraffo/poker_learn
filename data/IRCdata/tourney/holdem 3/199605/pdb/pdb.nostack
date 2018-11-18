@@ -1,0 +1,263 @@
+nostack   830993073 11  4 f   -     -     -         1000    0    0 
+nostack   830993120 11  3 f   -     -     -         1000    0    0 
+nostack   830993255 12 11 f   -     -     -         5000    0    0 
+nostack   830993283 12 10 f   -     -     -         5000    0    0 
+nostack   830993333 11  8 f   -     -     -         5000    0    0 
+nostack   830993384 11  7 f   -     -     -         5000    0    0 
+nostack   830993458 11  6 f   -     -     -         5000    0    0 
+nostack   830993486 11  5 f   -     -     -         5000    0    0 
+nostack   830993545 11  4 f   -     -     -         5000    0    0 
+nostack   830993599 11  3 f   -     -     -         5000    0    0 
+nostack   830993638 11  2 Bf  -     -     -         5000  100    0 
+nostack   830993691 10  1 Bf  -     -     -         4900   50    0 
+nostack   830993737 10 10 f   -     -     -         4850    0    0 
+nostack   830993782 10  9 c   c     f     -         4850  200    0 
+nostack   830993841 10  8 f   -     -     -         4650    0    0 
+nostack   830993906 10  7 f   -     -     -         4650    0    0 
+nostack   830993948  9  6 c   f     -     -         4650  300    0 
+nostack   830994008  9  5 ccA -     -     -         4350 4350    0 Qd Ac
+nostack   831084937 11  3 f   -     -     -          256    0    0 
+nostack   831084973 11  2 Bf  -     -     -          256    2    0 
+nostack   831085070 11  1 Bf  -     -     -          254    1    0 
+nostack   831085182 11  4 c   rcA   -     -          256  256    0 Tc Qd
+nostack   831093223 10  5 f   -     -     -         1000    0    0 
+nostack   831093331 10  4 f   -     -     -         1000    0    0 
+nostack   831093386 10  3 f   -     -     -         1000    0    0 
+nostack   831093502 10  2 Bf  -     -     -         1000   10    0 
+nostack   831093574 10  1 Bf  -     -     -          990   10    0 
+nostack   831093624 10 10 f   -     -     -          980    0    0 
+nostack   831093684 10  9 f   -     -     -          980    0    0 
+nostack   831093729 10  8 f   -     -     -          980    0    0 
+nostack   831093788  9  6 f   -     -     -          980    0    0 
+nostack   831093874  9  6 f   -     -     -          980    0    0 
+nostack   831093900  9  5 f   -     -     -          980    0    0 
+nostack   831093949  9  4 f   -     -     -          980    0    0 
+nostack   831094003  9  3 f   -     -     -          980    0    0 
+nostack   831094028  9  2 Bk  f     -     -          980   40    0 
+nostack   831094107  8  1 Bc  b     b     bA         940  940    0 5h Kc
+nostack   831271579  8  7 f   -     -     -         5000    0    0 
+nostack   831271659  8  6 f   -     -     -         5000    0    0 
+nostack   831271801  8  5 f   -     -     -         5000    0    0 
+nostack   831271880  8  4 c   r     bc    -         5000 4910    0 Ad Ah
+nostack   831272045  8  3 f   -     -     -           90    0    0 
+nostack   831272148  8  2 Bk  k     k     kf          90   60    0 
+nostack   831272242  8  1 BA  -     -     -           30   30   90 2d Ts
+nostack   831272304  8  8 f   -     -     -           90    0    0 
+nostack   831272381  8  7 f   -     -     -           90    0    0 
+nostack   831272463  8  6 f   -     -     -           90    0    0 
+nostack   831272511  8  5 cA  -     -     -           90   90  360 Ks Ad
+nostack   831272698  8  4 ccA -     -     -          360  360    0 Qd Ts
+nostack   831337423  8  8 f   -     -     -         1000    0    0 
+nostack   831337473  8  7 f   -     -     -         1000    0    0 
+nostack   831337489  8  6 f   -     -     -         1000    0    0 
+nostack   831337508  8  5 f   -     -     -         1000    0    0 
+nostack   831337554  8  4 f   -     -     -         1000    0    0 
+nostack   831337575  8  3 f   -     -     -         1000    0    0 
+nostack   831337634  8  2 Bk  kc    kf    -         1000   26    0 
+nostack   831337685  8  1 Br  b     b     -          974  115  189 
+nostack   831337737  8  8 f   -     -     -         1048    0    0 
+nostack   831337790  8  7 c   f     -     -         1048  137    0 
+nostack   831337837  8  6 f   -     -     -          911    0    0 
+nostack   831337884  8  5 f   -     -     -          911    0    0 
+nostack   831337945  8  4 ccc f     -     -          911  162    0 
+nostack   831338008  8  3 f   -     -     -          749    0    0 
+nostack   831338046  8  2 Bk  kf    -     -          749   12    0 
+nostack   831338097  8  1 Bf  -     -     -          737    6    0 
+nostack   831338156  8  8 c   bf    -     -          731   96    0 
+nostack   831338203  8  7 c   f     -     -          635   24    0 
+nostack   831338268  8  6 f   -     -     -          611    0    0 
+nostack   831338332  8  5 f   -     -     -          611    0    0 
+nostack   831338383  7  3 cr  bA    -     -          611  611 1881 As Ac
+nostack   831338463  6  3 f   -     -     -         1881    0    0 
+nostack   831338494  6  2 Bk  kf    -     -         1881   48    0 
+nostack   831338513  6  1 Bc  b     -     -         1833  223  271 
+nostack   831338530  6  6 r   -     -     -         1881  498  618 
+nostack   831338548  6  5 f   -     -     -         2001    0    0 
+nostack   831338581  5  3 cc  c     f     -         2001  398    0 
+nostack   831338638  5  3 c   b     -     -         1603  498  570 
+nostack   831338653  5  2 Bf  -     -     -         1675   48    0 
+nostack   831338695  4  1 Bc  kf    -     -         1627   48    0 
+nostack   831338734  4  4 f   -     -     -         1579    0    0 
+nostack   831338747  4  3 f   -     -     -         1579    0    0 
+nostack   831338780  4  2 Bk  k     k     kf        1579   48    0 
+nostack   831338825  4  1 Bc  kf    -     -         1531   96    0 
+nostack   831338846  4  4 f   -     -     -         1435    0    0 
+nostack   831338875  4  3 f   -     -     -         1435    0    0 
+nostack   831338912  4  2 B   -     -     -         1435   96  144 
+nostack   831338921  4  1 Bf  -     -     -         1483   48    0 
+nostack   831338944  4  4 r   c     -     -         1435  734    0 Ts Ad
+nostack   831338972  4  3 f   -     -     -          701    0    0 
+nostack   831338986  4  2 Bf  -     -     -          701   96    0 
+nostack   831339003  4  1 Bf  -     -     -          605   48    0 
+nostack   831339008  4  4 f   -     -     -          557    0    0 
+nostack   831339015  4  3 c   b     -     -          557  546  738 
+nostack   831339031  4  2 B   -     -     -          749   96  144 
+nostack   831339036  4  1 Bc  b     -     -          797  746  842 
+nostack   831339052  4  4 c   b     -     -          893  596  788 
+nostack   831339082  4  3 f   -     -     -         1085    0    0 
+nostack   831339101  4  2 Bf  -     -     -         1085   96    0 
+nostack   831339131  4  1 Bc  k     k     k          989   96  192 Jd Qs
+nostack   831339154  4  4 f   -     -     -         1085    0    0 
+nostack   831339165  4  3 c   b     -     -         1085  642  930 
+nostack   831339183  4  2 B   -     -     -         1373  192  288 
+nostack   831339189  4  1 Bcf -     -     -         1469  192    0 
+nostack   831339216  4  4 cf  -     -     -         1277  192    0 
+nostack   831339253  4  3 f   -     -     -         1085    0    0 
+nostack   831339292  4  2 Bk  kf    -     -         1085  192    0 
+nostack   831339319  3  1 Bcc kcA   -     -          893  893 1786 Kh Ac
+nostack   831339364  3  3 c   f     -     -         1786  192    0 
+nostack   831339406  3  2 B   -     -     -         1594  192  288 
+nostack   831339414  3  1 Bc  kcA   -     -         1690 1690 1786 4s 4c
+nostack   831339446  3  3 c   k     f     -         1786  192    0 
+nostack   831339479  3  2 Bk  kf    -     -         1594  192    0 
+nostack   831339513  3  1 Bf  -     -     -         1402  192    0 
+nostack   831339521  3  3 f   -     -     -         1210    0    0 
+nostack   831339542  3  2 Bk  k     f     -         1210  384    0 
+nostack   831339567  3  1 BccA -     -     -          826  826    0 Ts Kd
+nostack   831513904  8  4 r   b     cA    -          500  500  758 6h Ah
+nostack   831514027  7  2 Bf  -     -     -          758   10    0 
+nostack   831514071  7  1 Bf  -     -     -          748    5    0 
+nostack   831514117  6  6 f   -     -     -          743    0    0 
+nostack   831514209  6  5 f   -     -     -          743    0    0 
+nostack   831514242  6  4 f   -     -     -          743    0    0 
+nostack   831514292  6  3 f   -     -     -          743    0    0 
+nostack   831514373  5  2 Bf  -     -     -          743   20    0 
+nostack   831514412  5  1 Bf  -     -     -          723   10    0 
+nostack   831514440  5  5 f   -     -     -          713    0    0 
+nostack   831514483  5  4 c   kf    -     -          713   20    0 
+nostack   831514566  5  3 f   -     -     -          693    0    0 
+nostack   831514599  5  2 Bf  -     -     -          693   40    0 
+nostack   831514631  5  1 Bf  -     -     -          653   20    0 
+nostack   831514638  5  5 f   -     -     -          633    0    0 
+nostack   831514663  5  4 f   -     -     -          633    0    0 
+nostack   831514675  5  3 c   k     kc    -          633  492 1064 7s 5s
+nostack   831514731  4  2 Bk  k     k     k         1205   40    0 6d 9c
+nostack   831514778  4  1 Bc  k     b     -         1165  390  430 
+nostack   831514811  4  4 c   b     -     -         1205  290  350 
+nostack   831514836  4  3 f   -     -     -         1265    0    0 
+nostack   831514875  4  2 Bf  -     -     -         1265   80    0 
+nostack   831514906  4  1 Bc  kc    k     b         1185  515  755 
+nostack   831514957  4  4 f   -     -     -         1425    0    0 
+nostack   831514965  4  3 f   -     -     -         1425    0    0 
+nostack   831514980  4  2 Br  -     -     -         1425  615  895 
+nostack   831515002  4  1 Bf  -     -     -         1705   40    0 
+nostack   831515018  3  3 r   -     -     -         1665  240  320 
+nostack   831515041  3  3 f   -     -     -         1745    0    0 
+nostack   831515053  3  2 Br  -     -     -         1745  600  880 
+nostack   831515070  3  1 Bc  bc    -     -         2025  930    0 4d Ah
+nostack   831515112  3  3 c   k     k     k         1095   80    0 Qs 7s
+nostack   831515148  3  2 Bf  -     -     -         1015   80    0 
+nostack   831515173  3  1 Bf  -     -     -          935   40    0 
+nostack   831515183  3  3 c   b     -     -          895  610  850 
+nostack   831515204  3  2 Bf  -     -     -         1135  160    0 
+nostack   831515224  3  1 Bf  -     -     -          975   80    0 
+nostack   831515243  3  3 c   f     -     -          895  160    0 
+nostack   831515269  3  2 B   -     -     -          735  160  240 
+nostack   831515274  3  1 Bf  -     -     -          815   80    0 
+nostack   831515287  3  3 f   -     -     -          735    0    0 
+nostack   831515308  3  2 B   -     -     -          735  160  240 
+nostack   831515326  3  1 Bc  kf    -     -          815  560    0 
+nostack   831515389  3  3 f   -     -     -          255    0    0 
+nostack   831515401  3  2 BcA -     -     -          255  255    0 8h Ac
+nostack   831597355 13  2 Bk  f     -     -          201    2    0 
+nostack   831597518 13  1 Bf  -     -     -          199    1    0 
+nostack   831597589 13 13 f   -     -     -          198    0    0 
+nostack   831597633 13 12 f   -     -     -          198    0    0 
+nostack   831597679 13 11 f   -     -     -          198    0    0 
+nostack   831597821 13 10 f   -     -     -          198    0    0 
+nostack   831597845 13  9 f   -     -     -          198    0    0 
+nostack   831597884 13  8 f   -     -     -          198    0    0 
+nostack   831597921 13  7 f   -     -     -          198    0    0 
+nostack   831598098 13  6 f   -     -     -          198    0    0 
+nostack   831598140 13  5 f   -     -     -          198    0    0 
+nostack   831598206 12  3 f   -     -     -          198    0    0 
+nostack   831598295 12  2 Bk  kf    -     -          198    8    0 
+nostack   831598382 11  1 Bf  -     -     -          190    4    0 
+nostack   831598470 11 11 f   -     -     -          186    0    0 
+nostack   831598497 11 10 f   -     -     -          186    0    0 
+nostack   831598511 11  9 f   -     -     -          186    0    0 
+nostack   831598529 11  8 f   -     -     -          186    0    0 
+nostack   831598535 11  7 c   b     -     -          186   33   61 
+nostack   831598566 11  6 f   -     -     -          214    0    0 
+nostack   831598574 11  5 f   -     -     -          214    0    0 
+nostack   831598624 11  4 cc  kf    -     -          214   48    0 
+nostack   831598666 11  3 f   -     -     -          166    0    0 
+nostack   831598696 11  2 Bc  kf    -     -          166   72    0 
+nostack   831598748 11  1 Bf  -     -     -           94    8    0 
+nostack   831598771 11 11 rcA -     -     -           86   86  196 Qc Qh
+nostack   831598805 11 10 f   -     -     -          196    0    0 
+nostack   831598837 10  8 f   -     -     -          196    0    0 
+nostack   831598876 10  7 f   -     -     -          196    0    0 
+nostack   831598915 10  6 f   -     -     -          196    0    0 
+nostack   831598964 10  5 f   -     -     -          196    0    0 
+nostack   831598998  9  4 f   -     -     -          196    0    0 
+nostack   831599101  9  3 f   -     -     -          196    0    0 
+nostack   831599206  8  2 Bc  k     k     k          196  192    0 Ac Td
+nostack   831599246  8  1 BA  -     -     -            4    4    8 7d Ks
+nostack   831599255  8  8 f   -     -     -            8    0    0 
+nostack   831599302  8  7 cA  -     -     -            8    8    0 6h Ac
+nostack   831682196  9  4 f   -     -     -         1000    0    0 
+nostack   831682235  9  3 f   -     -     -         1000    0    0 
+nostack   831682279  9  2 Bk  kf    -     -         1000   10    0 
+nostack   831682326  9  1 Bf  -     -     -          990    5    0 
+nostack   831682358  9  9 f   -     -     -          985    0    0 
+nostack   831682415  8  8 f   -     -     -          985    0    0 
+nostack   831682445  8  7 f   -     -     -          985    0    0 
+nostack   831682470  8  6 f   -     -     -          985    0    0 
+nostack   831682510  8  5 f   -     -     -          985    0    0 
+nostack   831682538  8  4 f   -     -     -          985    0    0 
+nostack   831682564  8  3 f   -     -     -          985    0    0 
+nostack   831682624  8  2 Bk  k     k     kf         985   20    0 
+nostack   831682693  8  1 Bc  kf    -     -          965   20    0 
+nostack   831682725  8  8 f   -     -     -          945    0    0 
+nostack   831682753  8  7 f   -     -     -          945    0    0 
+nostack   831682766  8  6 f   -     -     -          945    0    0 
+nostack   831682835  8  5 f   -     -     -          945    0    0 
+nostack   831682874  8  4 c   k     k     k          945   40    0 6h 6s
+nostack   831683030  8  3 c   k     kf    -          905   40    0 
+nostack   831683113  8  2 Bk  k     b     -          865  180  240 
+nostack   831683158  8  1 Bf  -     -     -          925   40    0 
+nostack   831683173  8  8 f   -     -     -          885    0    0 
+nostack   831683225  8  7 f   -     -     -          885    0    0 
+nostack   831683258  8  6 f   -     -     -          885    0    0 
+nostack   831683314  8  5 f   -     -     -          885    0    0 
+nostack   831683374  6  3 f   -     -     -          885    0    0 
+nostack   831683463  5  1 Bc  kc    k     bA         885  885 1770 Td Kd
+nostack   831683534  5  1 Bc  k     b     -         1770  480  640 
+nostack   831683594  5  5 f   -     -     -         1930    0    0 
+nostack   831683608  5  4 cc  -     -     -         1930  341    0 Ts Qc
+nostack   831683625  5  3 f   -     -     -         1589    0    0 
+nostack   831683657  5  2 Bf  -     -     -         1589  160    0 
+nostack   831683697  5  1 Bf  -     -     -         1429   80    0 
+nostack   831683763  5  5 f   -     -     -         1349    0    0 
+nostack   831683777  5  4 c   k     k     f         1349  320    0 
+nostack   831683855  5  3 f   -     -     -         1029    0    0 
+nostack   831683860  5  2 Bc  k     k     k         1029  442    0 7s 6h
+nostack   831683899  5  1 BcA -     -     -          587  587    0 Kh 4c
+nostack   832891488 12  7 f   -     -     -          500    0    0 
+nostack   832891615 12  6 c   b     -     -          500   30   75 
+nostack   832891674 12  5 cf  -     -     -          545   10    0 
+nostack   832891783 12  4 r   bf    -     -          535   80    0 
+nostack   832891872 12  3 f   -     -     -          455    0    0 
+nostack   832891917 12  2 Bf  -     -     -          455   20    0 
+nostack   832891952 12  1 Bc  k     k     b          435   90  150 
+nostack   832892029 12 12 f   -     -     -          495    0    0 
+nostack   832892094 11 10 c   r     b     -          495  360  580 
+nostack   832892177 11 10 f   -     -     -          715    0    0 
+nostack   832892205 11  9 f   -     -     -          715    0    0 
+nostack   832892281 10  7 f   -     -     -          715    0    0 
+nostack   832892335 10  6 f   -     -     -          715    0    0 
+nostack   832892397 10  5 f   -     -     -          715    0    0 
+nostack   832892418 10  4 f   -     -     -          715    0    0 
+nostack   832892496 10  3 c   k     b     b          715  440    0 Th Ah
+nostack   832892575 10  2 Bc  -     -     -          275  170    0 Ac Qc
+nostack   832892655 10  1 Bf  -     -     -          105   40    0 
+nostack   832892712 10 10 cA  -     -     -           65   65  235 Ah Qs
+nostack   832892751 10  9 f   -     -     -          235    0    0 
+nostack   832892773 10  8 f   -     -     -          235    0    0 
+nostack   832892803 10  7 f   -     -     -          235    0    0 
+nostack   832892836 10  6 f   -     -     -          235    0    0 
+nostack   832892888 10  5 f   -     -     -          235    0    0 
+nostack   832892959 10  4 f   -     -     -          235    0    0 
+nostack   832893042 10  3 f   -     -     -          235    0    0 
+nostack   832893124  9  2 BA  -     -     -          235  235    0 Ac 3h

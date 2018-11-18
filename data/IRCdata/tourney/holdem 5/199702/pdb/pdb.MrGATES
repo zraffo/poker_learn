@@ -1,0 +1,327 @@
+MrGATES   855014023 11  2 BrrA -     -     -         5000 5000 15000 Ac Ad
+MrGATES   855014159  9  1 Bc  kf    -     -        15000  250    0 
+MrGATES   855014249  8  8 f   -     -     -        14750    0    0 
+MrGATES   855014289  8  7 r   k     k     k        14750  100    0 Kc Tc
+MrGATES   855014321  8  6 c   b     k     k        14650  100  250 7h Qc
+MrGATES   855014355  8  5 c   b     r     b        14800  381  876 
+MrGATES   855014509  8  4 cc  f     -     -        15295  300    0 
+MrGATES   855014589  8  3 c   kf    -     -        14995  100    0 
+MrGATES   855014636  8  2 Br  b     kc    k        14895  900 3050 Kc Tc
+MrGATES   855014698  8  1 Bf  -     -     -        17045   50    0 
+MrGATES   855014753  7  7 f   -     -     -        16995    0    0 
+MrGATES   855014781  7  6 c   k     k     kf       16995  100    0 
+MrGATES   855014827  7  5 f   -     -     -        16895    0    0 
+MrGATES   855014871  7  4 c   b     b     b        16895  800 1900 Ks Jc
+MrGATES   855014917  7  3 f   -     -     -        17995    0    0 
+MrGATES   855014967  7  2 Bk  k     kc    b        17995 2100 3300 
+MrGATES   855015000  7  1 Bc  k     k     kf       19195  200    0 
+MrGATES   855015047  7  7 f   -     -     -        18995    0    0 
+MrGATES   855015072  6  5 f   -     -     -        18995    0    0 
+MrGATES   855015112  6  4 c   k     kf    -        18995  200    0 
+MrGATES   855015157  6  3 f   -     -     -        18795    0    0 
+MrGATES   855015172  6  2 Bk  k     kf    -        18795  200    0 
+MrGATES   855015218  6  1 Bc  k     k     k        18595  200    0 5s 4c
+MrGATES   855015246  6  6 c   k     f     -        18395  400    0 
+MrGATES   855015290  6  5 r   c     -     -        17995 6359 12918 4h Ac
+MrGATES   855015319  5  3 c   k     kf    -        24554  400    0 
+MrGATES   855015368  5  3 f   -     -     -        24154    0    0 
+MrGATES   855015406  5  2 Bk  k     kc    kc       24154 1200    0 7s 8d
+MrGATES   855015446  5  1 Bc  k     k     kf       22954  400    0 
+MrGATES   855015508  5  5 f   -     -     -        22554    0    0 
+MrGATES   855015520  5  4 c   k     k     k        22554  400 1400 Jd Ks
+MrGATES   855015552  5  3 c   k     b     -        23554 1399 1999 
+MrGATES   855015571  5  2 Bk  k     b     k        24154  855    0 3h Jh
+MrGATES   855015607  5  1 Bc  b     -     -        23299 1690 2490 
+MrGATES   855015632  5  5 c   b     -     -        24099 1600 2800 
+MrGATES   855015653  5  4 c   b     k     b        25299 2400    0 9s 9d
+MrGATES   855015690  5  3 c   k     k     k        22899  800    0 Qd 2s
+MrGATES   855015782  5  2 Bk  k     k     k        22099  800    0 7s Jh
+MrGATES   855015816  5  1 Bc  b     -     -        21299 1600 2400 
+MrGATES   855015843  5  5 f   -     -     -        22099    0    0 
+MrGATES   855015876  4  3 cc  c     k     k        22099 2400    0 Kd 3d
+MrGATES   855015920  4  2 Bc  c     kf    -        19699 2699    0 
+MrGATES   855015972  3  1 Bc  k     k     k        17000 1600    0 9c 7h
+MrGATES   855016011  3  3 c   c     c     -        15400 8328    0 As 9h
+MrGATES   855016052  3  2 B   -     -     -         7072 1600 2400 
+MrGATES   855016064  3  1 Bc  k     k     k         7872 1600 3200 6s Kc
+MrGATES   855016083  3  3 f   -     -     -         9472    0    0 
+MrGATES   855016089  3  2 Bk  k     k     b         9472 3200 5600 
+MrGATES   855016125  3  1 Brf -     -     -        11872 3200    0 
+MrGATES   855016142  3  3 f   -     -     -         8672    0    0 
+MrGATES   855016148  3  2 BrA -     -     -         8672 8672 18144 Ks Qs
+MrGATES   855016160  3  1 Bcc kf    -     -        18144 3200    0 
+MrGATES   855016202  3  3 c   k     c     k        14944 5000    0 Qs Ks
+MrGATES   855016237  3  2 Bk  k     k     bA        9944 9944 12344 
+MrGATES   855016274  3  1 Bc  k     k     k        12344 1600    0 Tc 4s
+MrGATES   855016299  3  3 f   -     -     -        10744    0    0 
+MrGATES   855016312  3  2 Bf  -     -     -        10744 1600    0 
+MrGATES   855016324  3  1 Bf  -     -     -         9144  800    0 
+MrGATES   855016337  3  3 c   bA    -     -         8344 8344    0 Qc Ac
+MrGATES   855115056 13  9 f   -     -     -          300    0    0 
+MrGATES   855115113 12  7 f   -     -     -          300    0    0 
+MrGATES   855115156 12  7 f   -     -     -          300    0    0 
+MrGATES   855115196 11  5 c   k     b     b          300   13   48 3d 3c
+MrGATES   855115316 10  4 f   -     -     -          335    0    0 
+MrGATES   855115359 10  3 cf  -     -     -          335    2    0 
+MrGATES   855115421  9  2 Bf  -     -     -          333    2    0 
+MrGATES   855115477  9  1 Bc  kf    -     -          331    4    0 
+MrGATES   855115556  7  7 c   f     -     -          327    4    0 
+MrGATES   855115640  7  6 f   -     -     -          323    0    0 
+MrGATES   855115666  7  5 c   k     b     kf         323   18    0 
+MrGATES   855115758  7  4 c   bc    kf    -          305   60    0 
+MrGATES   855115823  7  3 f   -     -     -          245    0    0 
+MrGATES   855115905  7  2 Bf  -     -     -          245    8    0 
+MrGATES   855115944  7  1 Bf  -     -     -          237    4    0 
+MrGATES   855116016  7  7 c   b     -     -          233   16   28 
+MrGATES   855116055  7  6 cc  krA   -     -          245  245  534 8c Ac
+MrGATES   855116122  7  5 c   f     -     -          534    8    0 
+MrGATES   855116168  7  4 c   k     bc    kf         526   58    0 
+MrGATES   855116239  7  3 cf  -     -     -          468    8    0 
+MrGATES   855116269  7  2 B   -     -     -          460    8   12 
+MrGATES   855116286  7  1 Bf  -     -     -          464    4    0 
+MrGATES   855116340  6  6 f   -     -     -          460    0    0 
+MrGATES   855116384  6  5 cc  k     k     k          460   80    0 6d Kc
+MrGATES   855116424  5  3 f   -     -     -          380    0    0 
+MrGATES   855116438  5  3 f   -     -     -          380    0    0 
+MrGATES   855116456  5  2 BrA -     -     -          380  380  444 
+MrGATES   855116480  5  1 Bc  k     kf    -          444   16    0 
+MrGATES   855116512  5  5 c   k     c     cA         428  428    0 Ah 4h
+MrGATES   855184342  6  1 Br  b     b     k         5000  900    0 Kd Td
+MrGATES   855184420  6  6 f   -     -     -         4100    0    0 
+MrGATES   855184467  6  5 cf  -     -     -         4100  200    0 
+MrGATES   855184501  5  3 f   -     -     -         3900    0    0 
+MrGATES   855184697  5  2 Bcf -     -     -         3900 1000    0 
+MrGATES   855184700  5  1 Bc  bA    -     -         2900 2900 3800 
+MrGATES   855184705  5  5 f   -     -     -         3800    0    0 
+MrGATES   855184715  5  4 c   f     -     -         3800  200    0 
+MrGATES   855184723  5  3 cc  kf    -     -         3600 1000    0 
+MrGATES   855184747  5  2 Bk  bc    kcA   -         2600 2600    0 6h Th
+MrGATES   855603716  8  3 cf  -     -     -         5000   40    0 
+MrGATES   855603757  8  2 Bk  k     kf    -         4960   40    0 
+MrGATES   855603807  8  1 Bcf -     -     -         4920   40    0 
+MrGATES   855603841  8  8 c   b     -     -         4880   85  185 
+MrGATES   855603877  8  7 f   -     -     -         4980    0    0 
+MrGATES   855603921  8  6 r   b     b     b         4980  493  968 
+MrGATES   855603985  8  5 c   b     b     b         5455  190    0 8c 8h
+MrGATES   855604049  8  4 cf  -     -     -         5265   40    0 
+MrGATES   855604123  8  3 c   f     -     -         5225   80    0 
+MrGATES   855604170  8  2 Bf  -     -     -         5145   80    0 
+MrGATES   855604212  8  1 Bc  k     kf    -         5065   80    0 
+MrGATES   855604247  8  8 f   -     -     -         4985    0    0 
+MrGATES   855604299  7  6 c   b     b     b         4985  361  782 
+MrGATES   855604392  7  6 f   -     -     -         5406    0    0 
+MrGATES   855604436  7  5 f   -     -     -         5406    0    0 
+MrGATES   855604458  7  4 f   -     -     -         5406    0    0 
+MrGATES   855604517  6  2 Bk  kr    b     b         5406 1220 2520 9c 5d
+MrGATES   855604609  6  1 Bc  k     k     k         6706  160    0 9s Td
+MrGATES   855604658  6  6 c   k     rc    rA        6546 6546 6706 Kc 6h
+MrGATES   855604750  6  5 c   f     -     -         6706  560    0 
+MrGATES   855604801  6  4 c   kc    kf    -         6146  460    0 
+MrGATES   855604862  6  3 f   -     -     -         5686    0    0 
+MrGATES   855604895  6  2 Bc  kc    kf    -         5686  660    0 
+MrGATES   855605008  6  1 Bc  k     b     b         5026  640  960 
+MrGATES   855605073  6  6 f   -     -     -         5346    0    0 
+MrGATES   855605147  6  5 c   b     -     -         5346  960 1760 
+MrGATES   855605191  6  4 f   -     -     -         6146    0    0 
+MrGATES   855605203  6  3 cf  -     -     -         6146  320    0 
+MrGATES   855605234  6  2 Bf  -     -     -         5826  320    0 
+MrGATES   855605294  5  1 Bf  -     -     -         5506  160    0 
+MrGATES   855605333  4  4 f   -     -     -         5346    0    0 
+MrGATES   855605364  4  3 f   -     -     -         5346    0    0 
+MrGATES   855605370  4  2 Bf  -     -     -         5346  640    0 
+MrGATES   855605382  4  1 Bc  k     k     k         4706  640 1280 6c 9d
+MrGATES   855605415  4  4 c   k     rA    -         5346 5346 7426 
+MrGATES   855605466  4  3 f   -     -     -         7426    0    0 
+MrGATES   855605481  4  2 Bf  -     -     -         7426  640    0 
+MrGATES   855605492  4  1 Bc  kf    -     -         6786  640    0 
+MrGATES   855605512  4  4 c   k     k     c         6146 1640 3920 7s Kd
+MrGATES   855605549  4  3 cf  -     -     -         8426  640    0 
+MrGATES   855605582  4  2 B   -     -     -         7786 1280 1920 
+MrGATES   855605590  4  1 Bc  kf    -     -         8426 1280    0 
+MrGATES   855605620  4  4 f   -     -     -         7146    0    0 
+MrGATES   855605658  4  3 rc  kcA   -     -         7146 7146 16212 Ts Jc
+MrGATES   855605690  4  2 B   -     -     -        16212 1280 1920 
+MrGATES   855605717  4  1 Br  -     -     -        16852 3140 4420 
+MrGATES   855605730  4  4 c   k     k     k        18132 1280  760 2h 7h
+MrGATES   855605760  4  3 c   kc    b     -        17612 8300 18510 Ah Tc
+MrGATES   855605802  3  2 B   -     -     -        27822 2560 3840 
+MrGATES   855605811  3  1 Bc  kc    -     -        29102 8838    0 Ad 5d
+MrGATES   855605828  3  3 f   -     -     -        20264    0    0 
+MrGATES   855605836  3  2 Bf  -     -     -        20264 2560    0 
+MrGATES   855605845  3  1 Bc  bA    -     -        17704 17704 20264 
+MrGATES   855605859  3  3 c   b     -     -        20264 6560 10400 
+MrGATES   855605877  3  2 Bf  -     -     -        24104 2560    0 
+MrGATES   855605886  3  1 B   -     -     -        21544 1280  220 6s Kd
+MrGATES   855605894  3  3 f   -     -     -        20484    0    0 
+MrGATES   855605901  2  2 B   -     -     -        20484 5120 7680 
+MrGATES   855605910  2  1 Bc  bc    -     -        23044 16956 33912 Kd 6h
+MrGATES   855606674  6  2 Bk  k     k     k         5000   50    0 7h 2c
+MrGATES   855606793  6  1 Bc  b     b     b         4950  250    0 Kh 3c
+MrGATES   855606852  6  6 c   k     k     k         4700   50    0 2d 8d
+MrGATES   855606905  6  5 f   -     -     -         4650    0    0 
+MrGATES   855606952  6  4 c   b     b     k         4650  160  635 Td 3c
+MrGATES   855607003  6  3 c   f     -     -         5125   50    0 
+MrGATES   855607049  6  2 Br  b     b     b         5075  483    0 4d Ad
+MrGATES   855607102  6  1 Bf  -     -     -         4592   50    0 
+MrGATES   855607150  4  4 c   b     b     b         4542  544  944 
+MrGATES   855607226  4  3 f   -     -     -         4942    0    0 
+MrGATES   855607263  4  2 Bf  -     -     -         4942  100    0 
+MrGATES   855607302  4  1 Bc  b     -     -         4842  200  300 
+MrGATES   855607319  4  4 r   bf    -     -         4942  311    0 
+MrGATES   855607374  4  3 f   -     -     -         4631    0    0 
+MrGATES   855607380  4  2 Bc  k     b     b         4631 1400 2400 
+MrGATES   855607429  4  1 Bc  k     b     k         5631  400 1000 7d 9d
+MrGATES   855607482  4  4 c   bc    f     -         6231 1300    0 
+MrGATES   855607536  4  3 f   -     -     -         4931    0    0 
+MrGATES   855607544  4  2 Bc  b     bcA   -         4931 4931 9962 Kh Jh
+MrGATES   855607594  4  1 Bc  k     k     k         9962  200    0 Ad 2d
+MrGATES   855607626  4  4 c   k     bc    -         9762 1370 2940 3h Kc
+MrGATES   855607673  3  3 c   k     k     b        11332  800 1400 
+MrGATES   855607733  3  2 Bk  k     k     b        11932  800 1200 
+MrGATES   855607782  3  1 Bc  k     kf    -        12332  400    0 
+MrGATES   855607808  3  3 c   b     -     -        11932  800 1400 
+MrGATES   855607840  3  2 B   -     -     -        12532  400  600 
+MrGATES   855607849  3  1 Bc  k     b     b        12732 1600 1600 Kd 2c
+MrGATES   855607880  3  3 f   -     -     -        12732    0    0 
+MrGATES   855607887  3  2 Bc  -     -     -        12732 1325    0 Qh Ac
+MrGATES   855607898  3  1 Bc  b     -     -        11407 1600 2400 
+MrGATES   855607918  3  3 f   -     -     -        12207    0    0 
+MrGATES   855607927  3  2 Bf  -     -     -        12207  800    0 
+MrGATES   855607941  3  1 Bc  k     b     -        11407 1600 2400 
+MrGATES   855607964  3  3 c   b     -     -        12207 1600 2800 
+MrGATES   855607998  3  2 B   -     -     -        13407  800 1200 
+MrGATES   855608010  3  1 Bc  kf    -     -        13807 1600    0 
+MrGATES   855608030  3  3 f   -     -     -        12207    0    0 
+MrGATES   855608036  2  1 B   -     -     -        12207 1600 1600 
+MrGATES   855608041  2  1 Bf  -     -     -        12207  800    0 
+MrGATES   855608044  2  2 B   -     -     -        11407 1600 2400 
+MrGATES   855608047  2  1 Bc  b     -     -        12207 3200 4800 
+MrGATES   855608061  2  2 B   -     -     -        13807 1600 2400 
+MrGATES   855608064  2  1 Bf  -     -     -        14607 1600    0 
+MrGATES   855608066  2  2 B   -     -     -        13007 3200 4800 
+MrGATES   855608071  2  1 Bc  kc    kcA   -        14607 14607    0 Jh 5d
+MrGATES   855973951 11  6 cf  -     -     -         5000    2    0 
+MrGATES   855974089 11  5 f   -     -     -         4998    0    0 
+MrGATES   855974128 11  4 f   -     -     -         4998    0    0 
+MrGATES   855974186 10  3 f   -     -     -         4998    0    0 
+MrGATES   855974234 10  2 Bc  c     b     b         4998 1733 2565 
+MrGATES   855974315 10  1 Bc  bf    -     -         5830  238    0 
+MrGATES   855974420 10 10 f   -     -     -         5592    0    0 
+MrGATES   855974489 10  9 f   -     -     -         5592    0    0 
+MrGATES   855974546 10  8 f   -     -     -         5592    0    0 
+MrGATES   855974629 10  7 f   -     -     -         5592    0    0 
+MrGATES   855974682  9  5 c   b     b     b         5592  400    0 5s Qh
+MrGATES   855974798  9  4 r   b     b     -         5192   57  125 
+MrGATES   855974856  9  3 c   k     f     -         5260    8    0 
+MrGATES   855974905  9  2 Bf  -     -     -         5252    8    0 
+MrGATES   855974952  8  1 Br  bf    -     -         5244   88    0 
+MrGATES   855975068  8  8 f   -     -     -         5156    0    0 
+MrGATES   855975133  8  7 c   b     b     b         5156  882 1782 
+MrGATES   855975201  8  6 cr  k     k     kf        6056  116    0 
+MrGATES   855975291  8  5 f   -     -     -         5940    0    0 
+MrGATES   855975366  8  4 c   b     b     b         5940  176    0 Ad Tc
+MrGATES   855975447  8  3 cc  cc    b     bf        5764 1975    0 
+MrGATES   855975565  8  2 Bk  kf    -     -         3789   32    0 
+MrGATES   855975621  8  1 Bf  -     -     -         3757   32    0 
+MrGATES   855975688  8  8 r   b     b     b         3725 2200 3560 
+MrGATES   855975761  8  7 f   -     -     -         5085    0    0 
+MrGATES   855975802  8  6 c   b     b     b         5085  852 1556 
+MrGATES   855975881  8  5 f   -     -     -         5789    0    0 
+MrGATES   855975967  8  4 c   c     b     b         5789 2195 3646 
+MrGATES   855976040  8  3 c   kf    -     -         7240  128    0 
+MrGATES   855976076  8  2 Bk  kf    -     -         7112  128    0 
+MrGATES   855976134  8  1 Bc  krf   -     -         6984  478    0 
+MrGATES   855976196  8  8 c   k     k     f         6506  128    0 
+MrGATES   855976284  8  7 c   f     -     -         6378  512    0 
+MrGATES   855976346  7  5 f   -     -     -         5866    0    0 
+MrGATES   855976395  7  4 c   b     bc    kf        5866 2086    0 
+MrGATES   855976509  7  3 f   -     -     -         3780    0    0 
+MrGATES   855976557  7  2 Bk  b     b     b         3780 1024    0 3d 5h
+MrGATES   855976599  7  1 Bc  kcA   -     -         2756 2756 6536 5h Ah
+MrGATES   855976667  7  7 c   k     f     -         6536  512    0 
+MrGATES   855976743  7  6 f   -     -     -         6024    0    0 
+MrGATES   855976776  7  5 cc  k     f     -         6024 2048    0 
+MrGATES   855976845  7  4 f   -     -     -         3976    0    0 
+MrGATES   855976862  7  3 f   -     -     -         3976    0    0 
+MrGATES   855976906  6  2 Bf  -     -     -         3976 1024    0 
+MrGATES   855976940  6  1 BrA -     -     -         2952 2952 6928 Js Ts
+MrGATES   855976967  6  6 c   f     -     -         6928 1024    0 
+MrGATES   855977009  6  5 f   -     -     -         5904    0    0 
+MrGATES   855977021  6  4 cc  cA    -     -         5904 5904    0 3d Kd
+MrGATES   856031438  6  2 Bk  bc    k     k         5000 1300    0 2d Ts
+MrGATES   856031598  6  1 Bc  kf    -     -         3700  400    0 
+MrGATES   856031631  6  6 c   c     f     -         3300  600    0 
+MrGATES   856031701  6  5 f   -     -     -         2700    0    0 
+MrGATES   856031718  6  4 c   f     -     -         2700  200    0 
+MrGATES   856031751  6  3 cc  kc    k     b         2500 1500 3300 Js Qc
+MrGATES   856031820  6  2 Bc  kf    -     -         4300  400    0 
+MrGATES   856031854  6  1 Bc  kf    -     -         3900  200    0 
+MrGATES   856031907  6  6 f   -     -     -         3700    0    0 
+MrGATES   856031947  6  5 c   kf    -     -         3700  400    0 
+MrGATES   856032006  6  4 f   -     -     -         3300    0    0 
+MrGATES   856032115  6  3 f   -     -     -         3300    0    0 
+MrGATES   856032240  6  2 BrA -     -     -         3300 3300 4100 
+MrGATES   856032282  6  1 Bc  b     b     -         4100 1200 2400 
+MrGATES   856032384  6  6 f   -     -     -         5300    0    0 
+MrGATES   856032469  6  5 f   -     -     -         5300    0    0 
+MrGATES   856032522  6  4 c   b     k     k         5300 1600    0 Ks 6s
+MrGATES   856032709  6  3 f   -     -     -         3700    0    0 
+MrGATES   856032735  6  2 Bf  -     -     -         3700  800    0 
+MrGATES   856032770  5  1 BcA -     -     -         2900 2900 7600 Qc Js
+MrGATES   856032797  4  4 f   -     -     -         7600    0    0 
+MrGATES   856032898  4  3 cc  -     -     -         7600 2100    0 8s Ad
+MrGATES   856032913  4  2 Bf  -     -     -         5500  800    0 
+MrGATES   856032936  4  1 Bf  -     -     -         4700  400    0 
+MrGATES   856032959  4  4 f   -     -     -         4300    0    0 
+MrGATES   856032989  4  3 f   -     -     -         4300    0    0 
+MrGATES   856032995  4  2 Bf  -     -     -         4300 1600    0 
+MrGATES   856033032  4  1 BrA -     -     -         2700 2700    0 5d 2d
+MrGATES   856111218  7  4 f   -     -     -         5000    0    0 
+MrGATES   856111282  7  3 f   -     -     -         5000    0    0 
+MrGATES   856111290  7  2 B   -     -     -         5000   50   75 
+MrGATES   856111299  7  1 Bc  kc    kc    krA       5025 5025  200 Kd Qc
+MrGATES   856111369  7  7 f   -     -     -          200    0    0 
+MrGATES   856111415  7  6 c   k     bA    -          200  200  275 
+MrGATES   856111450  7  5 c   bA    -     -          275  275  350 
+MrGATES   856111477  7  4 c   k     b     k          350  100    0 5s As
+MrGATES   856111532  7  3 f   -     -     -          250    0    0 
+MrGATES   856111556  7  2 B   -     -     -          250  100  150 
+MrGATES   856111570  7  1 Bc  k     kf    -          300  100    0 
+MrGATES   856111599  7  7 f   -     -     -          200    0    0 
+MrGATES   856111640  7  6 f   -     -     -          200    0    0 
+MrGATES   856111678  7  5 c   k     cA    -          200  200  650 Qd 5d
+MrGATES   856111712  7  4 f   -     -     -          650    0    0 
+MrGATES   856111725  7  3 cf  -     -     -          650  100    0 
+MrGATES   856111774  7  2 BrA -     -     -          550  550    0 Kc As
+MrGATES   856205042  7  2 Bk  c     k     b         5000  300  600 9c 8s
+MrGATES   856205123  7  1 Bc  kf    -     -         5300  100    0 
+MrGATES   856205175  7  7 f   -     -     -         5200    0    0 
+MrGATES   856205227  7  6 f   -     -     -         5200    0    0 
+MrGATES   856205281  7  5 r   b     f     -         5200  300    0 
+MrGATES   856205386  7  4 f   -     -     -         4900    0    0 
+MrGATES   856205494  7  3 c   k     k     k         4900  200    0 As Jc
+MrGATES   856205532  7  2 Bk  kf    -     -         4700  200    0 
+MrGATES   856205590  7  1 Bc  kf    -     -         4500  200    0 
+MrGATES   856205641  7  7 c   b     b     f         4300  609    0 
+MrGATES   856205788  7  6 f   -     -     -         3691    0    0 
+MrGATES   856205816  7  5 r   b     b     k         3691 1606 5014 Jc Ad
+MrGATES   856206189  6  3 f   -     -     -         7099    0    0 
+MrGATES   856573456 20  7 c   c     b     b         4000  940 2400 
+MrGATES   856573564 20  6 f   -     -     -         5460    0    0 
+MrGATES   856573684 18  4 f   -     -     -         5460    0    0 
+MrGATES   856573798 18  3 f   -     -     -         5460    0    0 
+MrGATES   856573873 15  2 Bf  -     -     -         5460   40    0 
+MrGATES   856574001 14  1 Bf  -     -     -         5420   20    0 
+MrGATES   856574064 14 14 c   c     k     f         5400  320    0 
+MrGATES   856574228 14 13 f   -     -     -         5080    0    0 
+MrGATES   856574318 14 12 f   -     -     -         5080    0    0 
+MrGATES   856574397 13 10 f   -     -     -         5080    0    0 
+MrGATES   856574439 13  9 c   k     f     -         5080   80    0 
+MrGATES   856574562 13  8 c   kf    -     -         5000   80    0 
+MrGATES   856574637 13  7 f   -     -     -         4920    0    0 
+MrGATES   856574849 12  6 f   -     -     -         4920    0    0 
+MrGATES   856575052 12  5 f   -     -     -         4920    0    0 
+MrGATES   856575137 12  4 f   -     -     -         4920    0    0 
+MrGATES   856575256 12  3 cf  -     -     -         4920  160    0 
+MrGATES   856575331 12  2 Bk  kc    kf    -         4760  460    0 
+MrGATES   856575437 12  1 Bc  kc    kcA   -         4300 4300    0 5s 5h

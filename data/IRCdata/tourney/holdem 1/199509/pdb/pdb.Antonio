@@ -1,0 +1,553 @@
+Antonio   811123641 12  1 Bf  -     -     -          500    5    0 
+Antonio   811123778 12 12 f   -     -     -          495    0    0 
+Antonio   811123828 12 11 r   bA    -     -          495  495  620 
+Antonio   811123892 12 10 f   -     -     -          620    0    0 
+Antonio   811123937 12  9 c   f     -     -          620   30    0 
+Antonio   811124023 10  6 cc  k     kc    bA         590  590  810 
+Antonio   811124135 10  5 f   -     -     -          810    0    0 
+Antonio   811124168  9  3 f   -     -     -          810    0    0 
+Antonio   811124234  9  2 Bk  kf    -     -          810   20    0 
+Antonio   811124324  9  1 Bc  bA    -     -          790  790 1863 4h Qd
+Antonio   811124397  8  8 c   f     -     -         1863   40    0 
+Antonio   811124463  8  7 f   -     -     -         1823    0    0 
+Antonio   811124528  8  6 c   r     -     -         1823  739 1281 9h Kd
+Antonio   811124608  7  4 cf  -     -     -         2365   40    0 
+Antonio   811124679  7  3 f   -     -     -         2325    0    0 
+Antonio   811124776  7  2 Br  -     -     -         2325  380  725 6s Ah
+Antonio   811124829  6  1 Bf  -     -     -         2670   40    0 
+Antonio   811124854  5  5 c   -     -     -         2630   80  200 
+Antonio   811124869  5  4 cr  -     -     -         2750  780   67 Ac 7d
+Antonio   811124908  5  3 c   b     -     -         2037 1080 2311 Js 3s
+Antonio   811124955  4  1 Bc  kf    -     -         3268  230    0 
+Antonio   811124997  4  1 Br  b     -     -         3038 1660  566 7d Ad
+Antonio   811125036  4  4 r   k     k     f         1944  320    0 
+Antonio   811125083  4  3 rA  -     -     -         1624 1624 1462 Ks Tc
+Antonio   811125102  4  2 Bc  c     -     -         1462 1306 2772 Th Qd
+Antonio   811125140  3  1 Bc  k     k     k         2928  660    0 Tc 8c
+Antonio   811125183  3  3 f   -     -     -         2268    0    0 
+Antonio   811125237  3  2 Bf  -     -     -         2268  160    0 
+Antonio   811125251  3  1 Br  b     -     -         2108 1360 1720 
+Antonio   811125284  3  3 f   -     -     -         2468    0    0 
+Antonio   811125307  3  2 B   -     -     -         2468  320  480 
+Antonio   811125323  3  1 Bf  -     -     -         2628  160    0 
+Antonio   811125338  3  3 f   -     -     -         2468    0    0 
+Antonio   811125360  3  2 Bk  k     k     c         2468  820    0 Kd 3s
+Antonio   811125405  3  1 Bf  -     -     -         1648  160    0 
+Antonio   811125414  3  3 r   -     -     -         1488 1320 1800 
+Antonio   811125426  3  2 Bk  bA    -     -         1968 1968 2608 
+Antonio   811125463  3  1 Br  -     -     -         2608  820 1140 
+Antonio   811125474  3  3 r   -     -     -         2928 1320 1800 
+Antonio   811125487  3  2 B   -     -     -         3408  320  480 
+Antonio   811125494  3  1 Bc  kc    -     -         3568  744 1488 5d 7c
+Antonio   811125512  2  2 f   -     -     -         4312    0    0 
+Antonio   811125524  2  2 B   -     -     -         4312  320  480 
+Antonio   811125531  2  1 Br  -     -     -         4472  820 1140 
+Antonio   811125541  2  2 Bc  -     -     -         4792 1208 2416 Ks 6c
+Antonio   811375072  9  5 cc  kr    bA    -         1000 1000 2133 9d Ts
+Antonio   811375144  8  4 r   -     -     -         2133   52   57 
+Antonio   811375177  8  3 cc  k     kf    -         2138   32    0 
+Antonio   811375241  8  2 Br  b     b     -         2106 1052 1926 Tc Th
+Antonio   811375322  7  1 Bc  kf    -     -         2980   14    0 
+Antonio   811375365  7  7 c   f     -     -         2966   54    0 
+Antonio   811375390  7  6 f   -     -     -         2912    0    0 
+Antonio   811375428  7  5 cc  b     k     f         2912   74    0 
+Antonio   811375515  7  4 c   k     f     -         2838    4    0 
+Antonio   811375559  7  3 r   -     -     -         2834   33   45 
+Antonio   811375604  7  2 Bc  b     -     -         2846  183  286 
+Antonio   811375669  7  1 Bc  kf    -     -         2949   28    0 
+Antonio   811375695  7  7 c   r     b     -         2921  508  728 
+Antonio   811375738  7  6 cc  k     k     c         3141   88    0 Qh Ks
+Antonio   811375794  7  5 f   -     -     -         3053    0    0 
+Antonio   811375811  7  4 c   k     k     k         3053   16    0 3d 8d
+Antonio   811375851  7  3 rc  k     kr    -         3037 1200 1424 
+Antonio   811375898  7  2 Br  b     -     -         3261  172  268 
+Antonio   811375925  7  1 Bc  kr    b     -         3357  966 1348 
+Antonio   811375980  7  7 c   k     k     k         3739   16   40 6d Ac
+Antonio   811376010  7  6 f   -     -     -         3763    0    0 
+Antonio   811376026  7  5 f   -     -     -         3763    0    0 
+Antonio   811376075  6  4 rc  -     -     -         3763  238    0 8s 8d
+Antonio   811376109  6  3 c   bc    kc    -         3525  931    0 9h 9d
+Antonio   811376165  6  2 Br  b     -     -         2594  596  692 
+Antonio   811376212  6  1 Bf  -     -     -         2690   32    0 
+Antonio   811376232  6  6 f   -     -     -         2658    0    0 
+Antonio   811376259  6  5 cc  k     c     -         2658  460    0 9c 2c
+Antonio   811376297  6  4 cc  k     k     f         2198  175    0 
+Antonio   811376340  6  3 cc  -     -     -         2023  862    0 7d 9h
+Antonio   811376382  5  1 Bcf -     -     -         1161  320    0 
+Antonio   811376434  4  1 Bc  -     -     -          841  128  256 
+Antonio   811376455  4  4 f   -     -     -          969    0    0 
+Antonio   811376471  4  3 c   k     b     bA         969  969    0 Kd 3d
+Antonio   811384113 11  3 c   k     kf    -         1000   10    0 
+Antonio   811384175 11  2 Bk  k     r     -          990  200  270 
+Antonio   811384232 11  1 Bc  k     b     b         1060  135  205 
+Antonio   811384280 11 11 r   b     b     bA        1130 1130 2220 Ah 7h
+Antonio   811384347 10  9 c   k     k     k         2220   30    0 4h 7s
+Antonio   811384397 10  8 c   k     r     k         2190  120    0 4c Kh
+Antonio   811384465 10  7 c   c     f     -         2070   70    0 
+Antonio   811384527 10  6 c   f     -     -         2000   20    0 
+Antonio   811384555 10  5 f   -     -     -         1980    0    0 
+Antonio   811384641 10  4 r   -     -     -         1980   40   70 
+Antonio   811384654 10  3 rc  kc    k     kf        2010  110    0 
+Antonio   811384719 10  2 Bk  f     -     -         1900   20    0 
+Antonio   811384759 10  1 Bc  k     k     kf        1880   20    0 
+Antonio   811384848 10 10 f   -     -     -         1860    0    0 
+Antonio   811384879 10  9 c   k     b     b         1860  190  340 
+Antonio   811384928 10  8 f   -     -     -         2010    0    0 
+Antonio   811384963 10  7 r   b     -     -         2010  400  560 
+Antonio   811385008 10  6 r   -     -     -         2170  120  180 
+Antonio   811385023 10  5 f   -     -     -         2230    0    0 
+Antonio   811385068 10  4 c   f     -     -         2230   40    0 
+Antonio   811385114 10  3 f   -     -     -         2190    0    0 
+Antonio   811385156 10  2 Bk  kr    b     -         2190  940  150 2s 6d
+Antonio   811385206 10  1 Bc  kf    -     -         1400   80    0 
+Antonio   811385280 10 10 r   rA    -     -         1320 1320  450 7c Kc
+Antonio   811385355 10  9 c   bA    -     -          450  450  650 
+Antonio   811385390 10  8 c   b     -     -          650  360  560 
+Antonio   811385442 10  7 c   f     -     -          850   80    0 
+Antonio   811385518 10  6 c   bA    -     -          770  770 1320 Jh 4h
+Antonio   811385567  9  5 c   k     b     -         1320  460  700 
+Antonio   811385628  9  4 r   bcA   -     -         1560 1560 3280 9d 8d
+Antonio   811385668  9  3 f   -     -     -         3280    0    0 
+Antonio   811385730  8  2 Bc  b     -     -         3280 1040 1440 
+Antonio   811385775  8  1 Bf  -     -     -         3680   80    0 
+Antonio   811385805  7  7 r   rA    -     -         3600 3600 5430 3c Ac
+Antonio   811385848  6  5 f   -     -     -         5430    0    0 
+Antonio   811385860  6  4 f   -     -     -         5430    0    0 
+Antonio   811385876  6  3 r   b     -     -         5430 2140 2940 
+Antonio   811385909  6  2 Bk  kc    kc    -         6230 1720    0 4s 7h
+Antonio   811385951  6  1 Bc  b     -     -         4510  960 1365 7h Ts
+Antonio   811385985  5  5 f   -     -     -         4915    0    0 
+Antonio   811386003  5  5 f   -     -     -         4915    0    0 
+Antonio   811386014  5  4 f   -     -     -         4915    0    0 
+Antonio   811386029  5  3 rc  -     -     -         4915 1215    0 Kd 4d
+Antonio   811386049  5  2 Bk  bA    -     -         3700 3700 4180 
+Antonio   811386081  5  1 Bf  -     -     -         4180  160    0 
+Antonio   811386094  5  5 f   -     -     -         4020    0    0 
+Antonio   811386107  4  4 f   -     -     -         4020    0    0 
+Antonio   811386149  4  3 rA  -     -     -         4020 4020 4500 Ac Jh
+Antonio   811386168  4  2 BrA -     -     -         4500 4500 3240 Ks 4d
+Antonio   811386199  4  1 Br  bA    -     -         3240 3240   80 6s Ts
+Antonio   811386239  4  4 f   -     -     -           80    0    0 
+Antonio   811386254  4  3 cA  -     -     -           80   80  240 Kh 3h
+Antonio   811386285  4  2 BA  -     -     -          240  240  720 9c 7h
+Antonio   811386306  3  1 Bf  -     -     -          720  320    0 
+Antonio   811386368  3  3 cA  -     -     -          400  400    0 9d Ah
+Antonio   811472451 11  1 Bc  kf    -     -         1024   20    0 
+Antonio   811472593 11 11 f   -     -     -         1004    0    0 
+Antonio   811472622 11 10 f   -     -     -         1004    0    0 
+Antonio   811472694 11  9 r   b     -     -         1004  370  680 
+Antonio   811472775 11  8 f   -     -     -         1314    0    0 
+Antonio   811472943 10  6 cc  kf    -     -         1314  140    0 
+Antonio   811473025 10  5 rc  -     -     -         1174 1144 3342 Qc Qh
+Antonio   811473067  8  3 c   b     -     -         3372  160  400 
+Antonio   811473157  8  2 Bc  kc    b     -         3612 1660  696 Td Kc
+Antonio   811473225  8  1 Br  b     -     -         2648 1240 1720 
+Antonio   811473271  8  8 r   -     -     -         3128 2280 2680 
+Antonio   811473303  8  7 f   -     -     -         3528    0    0 
+Antonio   811473340  7  6 f   -     -     -         3528    0    0 
+Antonio   811473395  7  5 rr  -     -     -         3528 2804 1560 Jh 3h
+Antonio   811473425  7  4 r   c     -     -         2284  904    0 Th Jc
+Antonio   811473457  7  3 cc  k     rA    -         1380 1380    0 6s 5h
+Antonio   811557585 18 10 c   rA    -     -         1000 1000 3035 Jh Qh
+Antonio   811557695 16  8 r   b     -     -         3035  310  650 
+Antonio   811557776 16  7 cc  kc    kr    -         3375 1365  365 4c As
+Antonio   811557878 16  6 cc  k     b     b         2375  105  330 
+Antonio   811557970 16  5 r   bc    kc    b         2600 1420 2960 Jh Ac
+Antonio   811558089 16  4 cf  -     -     -         4140   20    0 
+Antonio   811558169 16  3 f   -     -     -         4120    0    0 
+Antonio   811558224 16  2 BrA -     -     -         4120 4120 3120 Qc Ac
+Antonio   811558274 13  1 Bc  b     -     -         3120  120  200 
+Antonio   811558326 13 13 c   f     -     -         3200   40    0 
+Antonio   811558414 13 12 c   f     -     -         3160   40    0 
+Antonio   811558477 13 11 c   b     b     f         3120  640    0 
+Antonio   811558559 13 10 r   c     k     k         2480 1030    0 Jh 8s
+Antonio   811558629 12  8 c   k     b     -         1450   90  190 
+Antonio   811558674 12  7 r   c     -     -         1550  550    0 2d 2c
+Antonio   811558731 11  6 c   k     c     c         1000  880    0 6h 7s
+Antonio   811558802 11  5 rA  -     -     -          120  120    0 Kc Th
+Antonio   811724045  9  4 c   k     k     f         1000   20    0 
+Antonio   811724140  9  3 c   bc    kr    bA         980  980 2040 Qh Qd
+Antonio   811724233  9  2 Bk  kc    b     k         2040  140  220 5c Ac
+Antonio   811724346  8  1 Bc  k     kc    kc        2120  320  980 Kc 6s
+Antonio   811724468  8  8 f   -     -     -         2780    0    0 
+Antonio   811724570  8  7 f   -     -     -         2780    0    0 
+Antonio   811724636  8  6 f   -     -     -         2780    0    0 
+Antonio   811724693  6  4 c   f     -     -         2780   40    0 
+Antonio   811724755  6  3 c   kf    -     -         2740   40    0 
+Antonio   811724829  6  2 Bk  k     f     -         2700   80    0 
+Antonio   811724903  6  1 Br  -     -     -         2620  160  240 
+Antonio   811724920  6  6 c   f     -     -         2700   80    0 
+Antonio   811724961  6  5 f   -     -     -         2620    0    0 
+Antonio   811725001  6  4 cc  -     -     -         2620  630 1380 2h Ac
+Antonio   811725048  5  2 f   -     -     -         3370    0    0 
+Antonio   811725078  5  2 Bf  -     -     -         3370   80    0 
+Antonio   811725117  5  1 Bc  kf    -     -         3290   80    0 
+Antonio   811725208  5  5 f   -     -     -         3210    0    0 
+Antonio   811725257  5  4 r   -     -     -         3210  360  600 
+Antonio   811725277  5  3 f   -     -     -         3450    0    0 
+Antonio   811725297  5  2 Bf  -     -     -         3450  160    0 
+Antonio   811725324  5  1 Bf  -     -     -         3290   80    0 
+Antonio   811725344  4  4 f   -     -     -         3210    0    0 
+Antonio   811725365  4  3 f   -     -     -         3210    0    0 
+Antonio   811725410  4  2 Br  b     -     -         3210 1660 2480 
+Antonio   811725476  4  1 Bc  k     k     k         4030  160    0 Qs 4d
+Antonio   811725508  4  4 f   -     -     -         3870    0    0 
+Antonio   811725519  4  3 f   -     -     -         3870    0    0 
+Antonio   811725543  4  2 Bc  -     -     -         3870 1020    0 3c As
+Antonio   811725558  4  1 Bc  b     -     -         2850  820 1140 
+Antonio   811725586  4  4 c   c     -     -         3170 1490 3460 Tc Ad
+Antonio   811725610  3  2 B   -     -     -         5140  320  480 
+Antonio   811725627  3  1 Bc  kf    -     -         5300  640    0 
+Antonio   811725656  3  3 f   -     -     -         4660    0    0 
+Antonio   811725666  3  2 B   -     -     -         4660  320  480 
+Antonio   811725674  3  1 Bc  b     -     -         4820  820 1140 
+Antonio   811725691  3  3 f   -     -     -         5140    0    0 
+Antonio   811725709  3  2 Br  bA    -     -         5140 5140 7220 8h Ad
+Antonio   811725750  2  1 Br  -     -     -         7220 2320 2640 
+Antonio   811725764  2  2 Br  -     -     -         7540 2320  860 Qc Jh
+Antonio   811725775  2  1 Brc -     -     -         6080 2920    0 4h Qh
+Antonio   811725793  2  2 Bc  k     c     c         3160 1920    0 5h 7h
+Antonio   811725827  2  1 BrA -     -     -         1240 1240 1880 
+Antonio   811725859  2  2 B   -     -     -         1880  640  960 
+Antonio   811725863  2  1 BccA -     -     -         2200 2200    0 8d 9c
+Antonio   811727755  8  7 f   -     -     -         1000    0    0 
+Antonio   811727903  8  5 f   -     -     -         1000    0    0 
+Antonio   811727931  8  4 f   -     -     -         1000    0    0 
+Antonio   811728021  8  3 cf  -     -     -         1000   20    0 
+Antonio   811728053  8  2 Bf  -     -     -          980   20    0 
+Antonio   811728129  8  1 Bc  kf    -     -          960   20    0 
+Antonio   811728194  7  7 f   -     -     -          940    0    0 
+Antonio   811728257  6  5 c   b     -     -          940  220  360 
+Antonio   811728308  6  4 c   c     c     k         1080  380    0 3d 2s
+Antonio   811728378  6  3 r   -     -     -          700  120  180 
+Antonio   811728400  6  2 Bk  b     b     b          760  265  470 
+Antonio   811728461  6  1 Bc  kf    -     -          965   40    0 
+Antonio   811728538  6  6 cf  -     -     -          925   40    0 
+Antonio   811728574  6  5 r   -     -     -          885  160  280 
+Antonio   811728589  6  4 f   -     -     -         1005    0    0 
+Antonio   811728621  6  3 r   b     -     -         1005  680 1040 
+Antonio   811728655  6  2 Bk  kf    -     -         1365   80    0 
+Antonio   811728694  6  1 Bc  kf    -     -         1285   80    0 
+Antonio   811728762  6  6 r   b     -     -         1205  430  650 
+Antonio   811728792  6  5 f   -     -     -         1425    0    0 
+Antonio   811728809  6  4 f   -     -     -         1425    0    0 
+Antonio   811728870  6  3 cc  b     -     -         1425 1320 2905 Tc Kd
+Antonio   811728924  5  2 Bc  f     -     -         3010  400    0 
+Antonio   811728977  5  1 Bf  -     -     -         2610   80    0 
+Antonio   811728998  5  5 f   -     -     -         2530    0    0 
+Antonio   811729041  5  4 c   c     c     -         2530 1490    0 Td Jd
+Antonio   811729087  5  3 rccA -     -     -         1040 1040  450 As Tc
+Antonio   811729132  4  2 Bf  -     -     -          450  160    0 
+Antonio   811729170  4  1 Bf  -     -     -          290   80    0 
+Antonio   811729230  4  4 f   -     -     -          210    0    0 
+Antonio   811729245  4  3 f   -     -     -          210    0    0 
+Antonio   811729254  4  2 BA  -     -     -          210  210  630 9s Kd
+Antonio   811729285  4  1 Bc  kf    -     -          630  320    0 
+Antonio   811729334  3  3 cA  -     -     -          310  310    0 8c Ah
+Antonio   811729719  7  4 f   -     -     -          200    0    0 
+Antonio   811729778  7  3 cf  -     -     -          200   16    0 
+Antonio   811729813  6  2 Bk  k     k     k          184   16    0 7d 4c
+Antonio   811729857  6  1 Bc  bcA   -     -          168  168  368 7c Ad
+Antonio   811729892  6  6 c   bc    -     -          368  292  608 Ts Jd
+Antonio   811729946  5  4 c   f     -     -          684   16    0 
+Antonio   811729976  5  3 cr  -     -     -          668  160  314 Ad Ac
+Antonio   811730005  4  2 Bc  k     c     -          822  314    0 Jh Jd
+Antonio   811730045  4  1 Bf  -     -     -          508   16    0 
+Antonio   811730062  4  4 cf  -     -     -          492   32    0 
+Antonio   811730087  4  3 c   kc    -     -          460   72    0 7c 8s
+Antonio   811730123  4  2 Bk  f     -     -          388   32    0 
+Antonio   811730160  4  1 Bc  k     k     kf         356  112    0 
+Antonio   811730193  4  4 c   k     f     -          244   32    0 
+Antonio   811730234  4  3 f   -     -     -          212    0    0 
+Antonio   811730266  4  2 Bc  f     -     -          212  122    0 
+Antonio   811730285  4  1 Bf  -     -     -           90   16    0 
+Antonio   811730298  4  4 f   -     -     -           74    0    0 
+Antonio   811730330  4  3 c   cA    -     -           74   74  212 8s 7c
+Antonio   811730361  4  2 BrA -     -     -          212  212  276 2d Ah
+Antonio   811730401  4  1 BrA -     -     -          276  276  692 Tc Ks
+Antonio   811730424  2  2 rA  -     -     -          692  692  756 
+Antonio   811730441  2  2 B   -     -     -          756   64   96 
+Antonio   811730444  2  1 Bf  -     -     -          788   32    0 
+Antonio   811730455  2  2 B   -     -     -          756   64   96 
+Antonio   811730458  2  1 Br  bA    -     -          788  788  916 
+Antonio   811730481  2  2 Bf  -     -     -          916   64    0 
+Antonio   811730489  2  1 BrA -     -     -          852  852  916 
+Antonio   811730499  2  2 B   -     -     -          916   64   96 
+Antonio   811730501  2  1 Bf  -     -     -          948   32    0 
+Antonio   811730514  2  2 Bf  -     -     -          916   64    0 
+Antonio   811730521  2  1 Bf  -     -     -          852   32    0 
+Antonio   811730527  2  2 B   -     -     -          820   64   96 
+Antonio   811730530  2  1 Br  -     -     -          852  164  228 
+Antonio   811730542  2  2 Bf  -     -     -          916   64    0 
+Antonio   811730550  2  1 Bf  -     -     -          852   32    0 
+Antonio   811730558  2  2 B   -     -     -          820   64   96 
+Antonio   811730560  2  1 Br  -     -     -          852  364  428 
+Antonio   811730574  2  2 B   -     -     -          916   64   96 
+Antonio   811730576  2  1 Br  -     -     -          948  364  428 
+Antonio   811730588  2  2 B   -     -     -         1012  128  192 
+Antonio   811730590  2  1 Br  -     -     -         1076  428  556 
+Antonio   811730602  2  2 B   -     -     -         1204  128  192 
+Antonio   811730606  2  1 Bf  -     -     -         1268   64    0 
+Antonio   811730617  2  2 B   -     -     -         1204  128  192 
+Antonio   811730620  2  1 Br  -     -     -         1268  328  196 2h Jc
+Antonio   811730642  2  2 B   -     -     -         1136  128  192 
+Antonio   811730643  2  1 Br  -     -     -         1200  328  456 
+Antonio   811730673  2  2 B   -     -     -         1328  128   56 Qh 2d
+Antonio   811730676  2  1 Br  -     -     -         1256  256  112 6s 2h
+Antonio   811730694  2  2 B   -     -     -         1112  128  192 
+Antonio   811730697  2  1 Br  -     -     -         1176  256   32 Qs 6s
+Antonio   811730712  2  2 Bf  -     -     -          952  128    0 
+Antonio   811730723  2  1 Br  -     -     -          824  728  856 
+Antonio   811730733  2  2 B   -     -     -          952  128  192 
+Antonio   811730736  2  1 Br  -     -     -         1016  728 1112 Ah 3s
+Antonio   811813578  9  8 f   -     -     -          500    0    0 
+Antonio   811813640  9  7 c   f     -     -          500   10    0 
+Antonio   811813679  9  6 cc  cA    -     -          490  490    0 7d 6h
+Antonio   811815941 11  9 cf  -     -     -         1000   10    0 
+Antonio   811815996 11  8 cc  b     -     -          990  490  770 
+Antonio   811816065 11  7 c   k     kf    -         1270   10    0 
+Antonio   811816144 11  6 c   k     k     f         1260   10    0 
+Antonio   811816217 11  5 c   b     b     -         1250  435  680 
+Antonio   811816295 11  4 c   f     -     -         1495   20    0 
+Antonio   811816380 11  3 cc  kf    -     -         1475  140    0 
+Antonio   811816455 11  2 BrA -     -     -         1335 1335  575 Ac Kh
+Antonio   811816490 11  1 Bc  b     bf    -          575  145    0 
+Antonio   811816582 11 11 c   rA    -     -          430  430    0 Jh 7h
+Antonio   811881092  6  5 c   f     -     -         1000   10    0 
+Antonio   811881139  6  4 r   -     -     -          990   30   45 
+Antonio   811881159  6  3 cc  f     -     -         1005   40    0 
+Antonio   811881208  6  2 Bk  f     -     -          965   10    0 
+Antonio   811881287  6  1 Bc  kf    -     -          955   10    0 
+Antonio   811881346  6  6 r   rcA   -     -          945  945    0 5s Kh
+Antonio   811883085  4  1 Bc  kf    -     -         1000   10    0 
+Antonio   811883107  4  4 r   -     -     -          990   60   75 
+Antonio   811883126  4  3 cc  k     c     c         1005  310    0 3d 5d
+Antonio   811883165  4  2 Bf  -     -     -          695   10    0 
+Antonio   811883259  4  1 Br  bcA   -     -          685  685    0 Qs Ac
+Antonio   811905121  7  5 f   -     -     -          500    0    0 
+Antonio   811905140  7  4 f   -     -     -          500    0    0 
+Antonio   811905201  7  3 f   -     -     -          500    0    0 
+Antonio   811905236  7  2 Bf  -     -     -          500   10    0 
+Antonio   811905268  7  1 Bf  -     -     -          490    5    0 
+Antonio   811905293  7  7 f   -     -     -          485    0    0 
+Antonio   811905312  7  6 f   -     -     -          485    0    0 
+Antonio   811905355  7  5 f   -     -     -          485    0    0 
+Antonio   811905394  7  4 f   -     -     -          485    0    0 
+Antonio   811905411  7  3 f   -     -     -          485    0    0 
+Antonio   811905461  7  2 Bk  k     kf    -          485   20    0 
+Antonio   811905486  7  1 Bf  -     -     -          465   10    0 
+Antonio   811905509  7  7 f   -     -     -          455    0    0 
+Antonio   811905563  7  6 f   -     -     -          455    0    0 
+Antonio   811905596  7  5 f   -     -     -          455    0    0 
+Antonio   811905632  7  4 f   -     -     -          455    0    0 
+Antonio   811905651  7  3 f   -     -     -          455    0    0 
+Antonio   811905721  7  2 Bf  -     -     -          455   20    0 
+Antonio   811905778  7  1 Bf  -     -     -          435   20    0 
+Antonio   811905806  7  7 f   -     -     -          415    0    0 
+Antonio   811905861  7  6 f   -     -     -          415    0    0 
+Antonio   811905905  7  5 f   -     -     -          415    0    0 
+Antonio   811905948  7  4 f   -     -     -          415    0    0 
+Antonio   811905980  6  2 f   -     -     -          415    0    0 
+Antonio   811906008  6  2 Bf  -     -     -          415   40    0 
+Antonio   811906024  6  1 Bf  -     -     -          375   20    0 
+Antonio   811906033  6  6 f   -     -     -          355    0    0 
+Antonio   811906046  6  5 f   -     -     -          355    0    0 
+Antonio   811906073  6  4 f   -     -     -          355    0    0 
+Antonio   811906096  6  3 f   -     -     -          355    0    0 
+Antonio   811906104  6  2 Bf  -     -     -          355   80    0 
+Antonio   811906117  6  1 Bf  -     -     -          275   40    0 
+Antonio   811906135  6  6 f   -     -     -          235    0    0 
+Antonio   811906175  6  5 f   -     -     -          235    0    0 
+Antonio   811906195  6  4 f   -     -     -          235    0    0 
+Antonio   811906225  5  2 f   -     -     -          235    0    0 
+Antonio   811906252  5  2 Bf  -     -     -          235   80    0 
+Antonio   811906261  5  1 Bf  -     -     -          155   40    0 
+Antonio   811906266  5  5 f   -     -     -          115    0    0 
+Antonio   811906278  5  4 f   -     -     -          115    0    0 
+Antonio   811906301  5  3 f   -     -     -          115    0    0 
+Antonio   811906339  5  2 Bf  -     -     -          115   80    0 
+Antonio   811906349  5  1 BA  -     -     -           35   35    0 2h 3c
+Antonio   811959268  3  1 Bc  b     -     -          500  100  200 
+Antonio   811959335  3  3 f   -     -     -          600    0    0 
+Antonio   811959342  3  2 Bk  k     c     c          600  200  400 3c 6d
+Antonio   811959482  3  1 Bc  b     -     -          800  100  200 
+Antonio   811959514  3  3 f   -     -     -          900    0    0 
+Antonio   811959521  3  2 B   -     -     -          900   50   75 
+Antonio   811959528  3  1 Br  -     -     -          925  100  150 
+Antonio   811959536  3  3 c   k     k     k          975   50  125 6c 5h
+Antonio   811959580  3  2 B   -     -     -         1050   50   75 
+Antonio   811959592  3  1 Bc  bc    -     -         1075  150    0 3c Ac
+Antonio   811959654  3  3 c   k     k     k          925   50  125 Jc 8s
+Antonio   811959700  3  2 B   -     -     -         1000  100  150 
+Antonio   811959713  3  1 Bcc -     -     -         1050  200    0 6c 7c
+Antonio   811959739  3  3 r   -     -     -          850  200  350 
+Antonio   811959765  3  2 Bk  k     kc    -         1000  450  475 2s Ad
+Antonio   811959791  2  1 Bf  -     -     -         1025   50    0 
+Antonio   811959805  2  2 B   -     -     -          975  100  150 
+Antonio   811959809  2  1 Bc  b     -     -         1025  300  400 
+Antonio   811959841  2  2 Bf  -     -     -         1125  100    0 
+Antonio   811959849  2  1 Bf  -     -     -         1025   50    0 
+Antonio   811959857  2  2 Bk  c     -     -          975  525    0 5c Qs
+Antonio   811959873  2  1 BrcA -     -     -          450  450  900 Ad Js
+Antonio   811959892  2  2 B   -     -     -          900  100  150 
+Antonio   811959900  2  1 Br  -     -     -          950  300  400 
+Antonio   811959909  2  2 B   -     -     -         1050  100  150 
+Antonio   811959912  2  1 Brc -     -     -         1100  400    0 2d 2c
+Antonio   811959934  2  2 Bk  f     -     -          700  100    0 
+Antonio   811959965  2  1 Bc  k     bA    -          600  600  700 
+Antonio   811959991  2  2 Bk  cA    -     -          700  700 1400 2c Qs
+Antonio   811960013  2  1 Br  -     -     -         1400  300  400 Td As
+Antonio   811960077  3  2 B   -     -     -         1000   20   30 
+Antonio   811960108  3  1 Bc  kf    -     -         1010   20    0 
+Antonio   811960152  3  3 f   -     -     -          990    0    0 
+Antonio   811960159  3  2 Bk  k     k     k          990   20   40 2s Ah
+Antonio   811960185  3  1 Bc  k     k     b         1010   70   70 5c 3h
+Antonio   811960227  3  3 rc  c     c     b         1010  290  590 Qc Ah
+Antonio   811960363  3  2 Bk  kf    -     -         1310   20    0 
+Antonio   811960392  3  1 Bc  k     k     k         1290   20   40 Ts Js
+Antonio   811960416  3  3 c   k     k     k         1310   20    0 7d Jc
+Antonio   811960451  3  2 Bc  kc    k     k         1290   81  172 9h 9d
+Antonio   811960485  3  1 Bc  k     k     k         1381   40   80 4h 4d
+Antonio   811960524  3  3 c   k     k     r         1421  140  250 
+Antonio   811960578  3  2 Bc  kc    kc    kc        1531  640    0 Kd Th
+Antonio   811960613  3  1 Bc  bc    b     -          891  790 1120 
+Antonio   811960650  3  3 c   c     b     k         1221  365  750 Kc 6d
+Antonio   811960721  3  2 Bc  b     -     -         1606  180  280 
+Antonio   811960747  3  1 Bc  k     kc    k         1706  140    0 Jd Ah
+Antonio   811960784  3  3 c   k     k     k         1566   40  100 Kh 6d
+Antonio   811960819  3  2 B   -     -     -         1626   40   60 
+Antonio   811960829  3  1 Bc  b     -     -         1646  160  255 7h 7d
+Antonio   811960872  2  2 Bc  c     c     -         1741 1259    0 3s Ks
+Antonio   811960901  2  1 Br  bA    -     -          482  482  762 
+Antonio   811960929  2  2 Bk  k     k     b          762  200  280 
+Antonio   811960953  2  1 Br  -     -     -          842  180  260 
+Antonio   811960970  2  2 Bk  f     -     -          922   80    0 
+Antonio   811960985  2  1 Br  -     -     -          842  240  320 
+Antonio   811961000  2  2 Bf  -     -     -          922   80    0 
+Antonio   811961007  2  1 BrcA -     -     -          842  842    0 2h Ac
+Antonio   811961062  3  1 Bc  k     k     k         1000   20   40 Qs 9h
+Antonio   811961097  3  3 c   k     k     k         1020   20   60 Qs 4c
+Antonio   811961120  3  2 B   -     -     -         1060   20   30 
+Antonio   811961125  3  1 Bc  b     -     -         1070  120  140 
+Antonio   811961168  3  3 f   -     -     -         1090    0    0 
+Antonio   811961175  3  2 Bc  k     kc    -         1090  930  935 9d Kc
+Antonio   811961200  3  1 Bc  k     k     kc        1095  120    0 Ah 7c
+Antonio   811961232  3  3 c   k     f     -          975   20    0 
+Antonio   811961267  3  2 B   -     -     -          955   20   30 
+Antonio   811961273  3  1 Bc  bc    kc    b          965  720    0 Td Jh
+Antonio   811961323  3  3 c   b     -     -          245   70  110 
+Antonio   811961364  3  2 Bf  -     -     -          285   20    0 
+Antonio   811961376  3  1 Bf  -     -     -          265   10    0 
+Antonio   811961389  3  3 cc  k     bA    -          255  255  395 
+Antonio   811961443  3  2 B   -     -     -          395   20   30 
+Antonio   811961453  3  1 Bc  k     k     k          405   20   40 Qd 5d
+Antonio   811961480  3  3 c   k     k     k          425   40    0 8s Td
+Antonio   811961513  3  2 Bf  -     -     -          385   40    0 
+Antonio   811961590  3  1 Bc  kf    -     -          345   40    0 
+Antonio   811961614  3  3 ccA -     -     -          305  305    0 8c 2c
+Antonio   811989152 11 11 c   c     k     b         1000  710  835 
+Antonio   811989263 11 10 c   f     -     -         1125   10    0 
+Antonio   811989306 11  9 c   f     -     -         1115   10    0 
+Antonio   811989359 11  8 f   -     -     -         1105    0    0 
+Antonio   811989433 11  7 rrA -     -     -         1105 1105  115 Kd Jd
+Antonio   811989482 11  6 c   f     -     -          115   20    0 
+Antonio   811989569 11  5 rA  -     -     -           95   95    0 6s Ad
+Antonio   812075805 10  9 cf  -     -     -          500   10    0 
+Antonio   812075927 10  8 c   rA    -     -          490  490 1175 6d 8h
+Antonio   812075977  9  6 cf  -     -     -         1175   10    0 
+Antonio   812076011  9  5 f   -     -     -         1165    0    0 
+Antonio   812076050  9  4 f   -     -     -         1165    0    0 
+Antonio   812076120  9  3 f   -     -     -         1165    0    0 
+Antonio   812076200  7  2 Bk  bc    b     -         1165  620  155 Kc 5c
+Antonio   812076271  7  1 Bc  bf    -     -          700   40    0 
+Antonio   812076326  6  6 c   f     -     -          660   20    0 
+Antonio   812076357  6  6 c   k     f     -          640   20    0 
+Antonio   812076394  6  5 f   -     -     -          620    0    0 
+Antonio   812076438  6  4 c   f     -     -          620   40    0 
+Antonio   812076482  6  3 f   -     -     -          580    0    0 
+Antonio   812076522  6  2 Bk  r     bA    -          580  580 1280 Kc 7d
+Antonio   812076565  6  1 Bf  -     -     -         1280   20    0 
+Antonio   812076594  6  6 c   f     -     -         1260   40    0 
+Antonio   812076636  6  5 cc  r     -     -         1220  740  235 Qs 9d
+Antonio   812076677  6  4 c   rA    -     -          715  715  100 Th 2h
+Antonio   812076712  5  3 ccA -     -     -          100  100  320 Ts 6s
+Antonio   812076754  5  2 Bk  k     cA    -          320  320  320 Ad 7h
+Antonio   812076795  5  1 Bc  bA    -     -          320  320  560 
+Antonio   812076831  5  5 f   -     -     -          560    0    0 
+Antonio   812076855  5  4 c   f     -     -          560   80    0 
+Antonio   812076879  5  3 c   b     -     -          480  320  480 
+Antonio   812076906  5  2 Bk  f     -     -          640   80    0 
+Antonio   812076925  5  1 Bc  b     -     -          560  380  540 
+Antonio   812076947  5  5 c   c     cA    -          720  720    0 Qh As
+Antonio   812077472 10  1 Bc  kc    kf    -          200    5    0 
+Antonio   812077571 10 10 c   c     r     -          195   43   76 
+Antonio   812077639 10  9 r   f     -     -          228    7    0 
+Antonio   812077675 10  8 c   k     k     k          221    2    0 9d 6d
+Antonio   812077723 10  7 c   f     -     -          219    2    0 
+Antonio   812077782 10  6 c   c     -     -          217  200   64 9h Tc
+Antonio   812077835  9  4 c   b     k     f           81   22    0 
+Antonio   812077946  9  3 ccA -     -     -           59   59    0 6s 7d
+Antonio   812331229 15  3 f   -     -     -         2000    0    0 
+Antonio   812331317 15  2 Bf  -     -     -         2000   40    0 
+Antonio   812331357 15  1 Bf  -     -     -         1960   20    0 
+Antonio   812331389 14 14 f   -     -     -         1940    0    0 
+Antonio   812331494 13 12 c   cc    bA    -         1940 1940 2700 
+Antonio   812331657 13 12 c   k     k     f         2700   80    0 
+Antonio   812331768 13 11 c   k     f     -         2620   80    0 
+Antonio   812331870 13 10 c   f     -     -         2540   80    0 
+Antonio   812331959 13  9 f   -     -     -         2460    0    0 
+Antonio   812332002 13  8 rr  -     -     -         2460 2440 1005 9h Ac
+Antonio   812332066 13  7 rA  -     -     -         1025 1025    0 3c Ad
+Antonio   812334193 17  7 f   -     -     -         1000    0    0 
+Antonio   812334343 16  6 cc  bc    kc    -         1000  996    0 7d Ks
+Antonio   812334475 15  5 ccA -     -     -            4    4    0 As 6s
+Antonio   812412497 12  3 f   -     -     -          150    0    0 
+Antonio   812412659 12  2 Bc  bcA   -     -          150  150    0 7c 8s
+Antonio   812414985 17  4 cc  bA    -     -         1000 1000 1253 
+Antonio   812415079 17  3 r   b     kf    -         1253   80    0 
+Antonio   812415184 16  2 Bf  -     -     -         1173   10    0 
+Antonio   812415274 16  1 Bc  bf    -     -         1163  270    0 
+Antonio   812415437 16 16 f   -     -     -          893    0    0 
+Antonio   812415503 16 15 c   k     b     -          893  273  384 
+Antonio   812415559 16 14 f   -     -     -         1004    0    0 
+Antonio   812415664 16 13 f   -     -     -         1004    0    0 
+Antonio   812415799 16 12 f   -     -     -         1004    0    0 
+Antonio   812415842 16 11 f   -     -     -         1004    0    0 
+Antonio   812415908 16 10 f   -     -     -         1004    0    0 
+Antonio   812415954 16  9 f   -     -     -         1004    0    0 
+Antonio   812415989 16  8 f   -     -     -         1004    0    0 
+Antonio   812416065 16  7 f   -     -     -         1004    0    0 
+Antonio   812416140 15  5 c   kf    -     -         1004   80    0 
+Antonio   812416244 15  4 rc  kf    -     -          924  320    0 
+Antonio   812416385 15  3 f   -     -     -          604    0    0 
+Antonio   812416445 15  2 BccA -     -     -          604  604 1281 8d Kh
+Antonio   812416507 14  1 Bf  -     -     -         1281   80    0 
+Antonio   812416607 13 13 rA  -     -     -         1201 1201 2642 Ah Qh
+Antonio   812416659 13 12 f   -     -     -         2642    0    0 
+Antonio   812416684 12 10 f   -     -     -         2642    0    0 
+Antonio   812416747 10  7 f   -     -     -         2642    0    0 
+Antonio   812416803  8  6 c   b     -     -         2642  660 1060 
+Antonio   812416848  8  5 f   -     -     -         3042    0    0 
+Antonio   812416906  8  4 f   -     -     -         3042    0    0 
+Antonio   812416951  8  3 r   -     -     -         3042  640 1120 
+Antonio   812416977  8  2 Bf  -     -     -         3522  320    0 
+Antonio   812417012  8  1 Bf  -     -     -         3202  160    0 
+Antonio   812417057  8  8 f   -     -     -         3042    0    0 
+Antonio   812417090  8  7 f   -     -     -         3042    0    0 
+Antonio   812417112  8  6 f   -     -     -         3042    0    0 
+Antonio   812417162  7  4 f   -     -     -         3042    0    0 
+Antonio   812417210  7  3 r   bcA   -     -         3042 3042    0 Jh Kc
+Antonio   812511273 10 10 f   -     -     -          500    0    0 
+Antonio   812511331 11  5 f   -     -     -          500    0    0 
+Antonio   812511361 10  4 f   -     -     -          500    0    0 
+Antonio   812511387 10  3 f   -     -     -          500    0    0 
+Antonio   812511455 10  2 Bf  -     -     -          500   10    0 
+Antonio   812511513 10  1 Bf  -     -     -          490    5    0 
+Antonio   812511649 10 10 f   -     -     -          485    0    0 
+Antonio   812511728 10  9 f   -     -     -          485    0    0 
+Antonio   812511785 10  8 f   -     -     -          485    0    0 
+Antonio   812511835 10  7 f   -     -     -          485    0    0 
+Antonio   812511884  9  5 c   f     -     -          485   20    0 
+Antonio   812511924  9  4 f   -     -     -          465    0    0 
+Antonio   812511972  9  3 c   c     k     k          465  140  300 Ts Qs
+Antonio   812512025  9  2 Bk  brA   -     -          625  625    0 7h 8h

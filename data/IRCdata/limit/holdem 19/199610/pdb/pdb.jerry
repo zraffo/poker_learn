@@ -1,0 +1,526 @@
+jerry     844241627 10  5 c   kf    -     -          715   10    0 
+jerry     844241731 10  3 c   kc    kf    -          705   20    0 
+jerry     844241860 10  2 Bf  -     -     -          685   10    0 
+jerry     844241929 10  1 Bf  -     -     -          675    5    0 
+jerry     844241990 10 10 f   -     -     -          670    0    0 
+jerry     844242064 11 10 c   c     f     -          670   30    0 
+jerry     844242163  8  7 c   k     b     b          640   50   90 
+jerry     844242229  8  7 c   k     f     -          680   10    0 
+jerry     844242312  7  5 c   c     c     c          670   60    0 5s Qs
+jerry     844242384  7  3 Q   -     -     -          610    0    0 
+jerry     844245775 10  2 Bk  kc    kf    -          610   20    0 
+jerry     844245977  9  1 Bc  kf    -     -          590   20    0 
+jerry     844246113  9  9 f   -     -     -          570    0    0 
+jerry     844246209  9  8 r   r     rc    c          570  120    0 Td 7d
+jerry     844246307  9  7 f   -     -     -          450    0    0 
+jerry     844246427  9  6 f   -     -     -          450    0    0 
+jerry     844246529  9  5 f   -     -     -          450    0    0 
+jerry     844246635  8  3 r   bc    k     bf         450   60    0 
+jerry     844246737  8  2 Br  b     bc    kcc        390  130    0 2d As
+jerry     844246893  8  1 Br  k     kf    -          260   20    0 
+jerry     844246979  8  8 c   k     f     -          240   10    0 
+jerry     844247100  7  6 c   k     k     k          230   10    0 Qs 3d
+jerry     844247225  6  5 c   f     -     -          220   10    0 
+jerry     844247313  6  4 cc  k     c     k          210   40  125 7h 8c
+jerry     844247415  6  3 cc  k     k     f          295   20    0 
+jerry     844247833  5  1 Bcc kc    kc    kc         275   90    0 2d 9s
+jerry     844248075  3  1 Bc  b     -     -          185   20   40 
+jerry     844248128  3  3 f   -     -     -          205    0    0 
+jerry     844248149  3  2 B   -     -     -          205   10   15 
+jerry     844248159  3  1 Bc  kf    -     -          210   10    0 
+jerry     844248267  4  3 cc  b     kc    k          200   50  115 Qs 9d
+jerry     844248334  4  2 Br  b     br    b          265  110  250 9c Ac
+jerry     844248419  4  1 Br  b     b     b          405   70  140 
+jerry     844248492  4  4 f   -     -     -          475    0    0 
+jerry     844248516  4  3 cc  f     -     -          475   20    0 
+jerry     844248641  5  2 Bk  bc    b     b          455   70  160 9s 8c
+jerry     844248748  4  1 Bc  k     b     bc         545   70    0 7c Qs
+jerry     844248809  3  3 f   -     -     -          475    0    0 
+jerry     844248844  3  3 f   -     -     -          475    0    0 
+jerry     844248899  3  2 Bc  krr   b     bc         475  120  123 Ts Kd
+jerry     844248969  3  1 Br  -     -     -          478   20   30 
+jerry     844248989  3  3 r   -     -     -          488   20   35 
+jerry     844249008  3  2 Bc  kc    k     k          503   30   65 7s Ad
+jerry     844249079  3  1 Bf  -     -     -          538    5    0 
+jerry     844249095  3  3 cr  k     c     c          533   70    0 Ac 8c
+jerry     844249158  3  2 Brc c     c     c          463   90    0 Js Qs
+jerry     844249265  5  1 Bc  kcf   -     -          373   40    0 
+jerry     844249440  4  4 f   -     -     -          333    0    0 
+jerry     844249515  3  2 Br  k     c     c          333   60    0 9s Qs
+jerry     844249582  3  1 Br  -     -     -          273   20   30 
+jerry     844249607  3  3 f   -     -     -          283    0    0 
+jerry     844249659  3  2 Bc  f     -     -          283   20    0 
+jerry     844249681  3  1 Bf  -     -     -          263    5    0 
+jerry     844249698  3  3 Q   -     -     -          258    0    0 
+jerry     844254431  5  2 Brc kcf   -     -          258   60    0 
+jerry     844254487  5  1 Brc k     kf    -          198   30    0 
+jerry     844254564  5  5 f   -     -     -          168    0    0 
+jerry     844254632  5  4 r   kc    bc    k          168   70    0 9d Ah
+jerry     844254695  5  3 cc  bc    c     k           98   80    0 Jc 2c
+jerry     844254801  5  2 BcA -     -     -           18   18    0 Td Jh
+jerry     844254914  5  4 cc  kf    -     -         1000   20    0 
+jerry     844254980  5  3 ccc krc   kc    kc         980  120  370 5c Kc
+jerry     844255058  5  2 Bf  -     -     -         1230   10    0 
+jerry     844255112  5  1 Bf  -     -     -         1220    5    0 
+jerry     844255162  4  4 f   -     -     -         1215    0    0 
+jerry     844255232  4  3 f   -     -     -         1215    0    0 
+jerry     844255258  4  2 Bk  b     kc    b         1215   60  130 Kc 6s
+jerry     844255334  4  1 Bf  -     -     -         1285    5    0 
+jerry     844255429  4  4 r   bc    cf    -         1280   60    0 
+jerry     844255578  5  3 cc  k     b     b         1220   70  160 
+jerry     844255667  5  2 Bk  kf    -     -         1310   10    0 
+jerry     844255790  5  1 Br  bc    kc    kr        1300  100  220 Ac 6c
+jerry     844255862  5  5 f   -     -     -         1420    0    0 
+jerry     844255944  5  4 r   c     f     -         1420   30    0 
+jerry     844256009  5  3 f   -     -     -         1390    0    0 
+jerry     844256045  4  1 Bf  -     -     -         1390   10    0 
+jerry     844256062  4  1 Bf  -     -     -         1380    5    0 
+jerry     844256120  5  5 cc  rc    c     c         1375  110    0 Ad 6s
+jerry     844256198  5  4 c   kc    kc    b         1265   60    0 5s Kd
+jerry     844256309  5  3 f   -     -     -         1205    0    0 
+jerry     844256417  6  2 Bc  kf    -     -         1205   20    0 
+jerry     844256535  6  1 Bc  kcc   kc    kc        1185   70    0 2s 2c
+jerry     844256624  6  6 f   -     -     -         1115    0    0 
+jerry     844256720  6  5 f   -     -     -         1115    0    0 
+jerry     844256833  7  5 f   -     -     -         1115    0    0 
+jerry     844256882  7  4 c   rc    b     c         1115   80    0 Ts Kd
+jerry     844257002  8  3 f   -     -     -         1035    0    0 
+jerry     844257109  7  2 Bc  bc    kc    brf       1035  120    0 
+jerry     844257236  6  1 Br  kc    kc    b          915   70    0 Th Ks
+jerry     844257310  6  6 r   c     c     f          845   60    0 
+jerry     844257389  6  5 f   -     -     -          785    0    0 
+jerry     844257450  6  4 r   cc    kc    b          785  100    0 Ah Th
+jerry     844257559  7  4 rr  rr    bc    brf        685  180    0 
+jerry     844257716  7  3 f   -     -     -          505    0    0 
+jerry     844257790  7  2 Bk  k     br    k          505   70    0 2d 9s
+jerry     844257946  6  1 Br  k     b     b          435   60  150 4s 6s
+jerry     844258036  6  6 c   f     -     -          525   20    0 
+jerry     844258095  6  5 f   -     -     -          505    0    0 
+jerry     844258182  5  3 cr  c     f     -          505   40    0 
+jerry     844258244  4  2 Brrc br    kc    kc         465  130    0 Js Jd
+jerry     844258472  7  1 Bc  kc    b     b          335   70  300 6s 5c
+jerry     844258749  6  6 r   b     k     k          565   30   75 Ac 3h
+jerry     844258813  7  6 f   -     -     -          610    0    0 
+jerry     844258909  7  5 f   -     -     -          610    0    0 
+jerry     844258995  5  2 Br  b     bc    kc         610  100    0 Qh Qc
+jerry     844259051  6  1 Bf  -     -     -          510    5    0 
+jerry     844259219  5  5 fQ  -     -     -          505    0    0 
+jerry     844260015  6  2 Bc  kf    -     -          505   20    0 
+jerry     844260106  6  1 Brc kc    kc    kf         485   60    0 
+jerry     844260279  6  6 r   b     -     -          425   30   65 
+jerry     844260319  6  5 r   k     bc    k          460   60    0 3d 3s
+jerry     844260441  7  4 f   -     -     -          400    0    0 
+jerry     844260556  7  3 crc bc    k     k          400   60  225 5d As
+jerry     844260749  7  2 Bc  kc    kc    krf        565   90    0 
+jerry     844260962  7  1 Bf  -     -     -          475    5    0 
+jerry     844261084  7  7 r   b     -     -          470   30   60 
+jerry     844261158  7  5 rr  b     bc    k          500   90    0 Qs Qc
+jerry     844261322  7  4 f   -     -     -          410    0    0 
+jerry     844261699  5  2 Brc kc    kc    kr         410  110  250 
+jerry     844261837  5  1 Bf  -     -     -          550    5    0 
+jerry     844261875  5  5 rc  b     r     b          545  100  285 Kc 5c
+jerry     844261969  5  4 r   k     k     b          730   40    0 5h Qh
+jerry     844262031  5  3 f   -     -     -          690    0    0 
+jerry     844262186  3  1 Bc  kc    k     b          690   50  100 8s Ah
+jerry     844262235  3  1 Brr b     k     b          740   80  170 9d Ad
+jerry     844262288  3  3 c   k     f     -          830   10    0 
+jerry     844262323  4  3 f   -     -     -          820    0    0 
+jerry     844262390  4  2 Bc  c     c     c          820   70   70 Td 7s
+jerry     844262451  3  1 Bf  -     -     -          820    5    0 
+jerry     844262498  3  3 rrc c     c     c          815  100  205 2c 2d
+jerry     844262552  3  2 Bc  c     f     -          920   30    0 
+jerry     844262603  3  1 Brc bc    kc    krrr       890  200  410 Qc 5c
+jerry     844262715  3  3 rc  c     c     rf        1100  100    0 
+jerry     844262773  3  2 Bc  c     c     f         1000   50    0 
+jerry     844262809  3  1 Brc krrrrrc bc    kc         950  210  460 Js 9s
+jerry     844262929  4  4 f   -     -     -         1200    0    0 
+jerry     844262973  5  4 ccc ccc   kf    -         1200   80    0 
+jerry     844263143  6  4 cc  c     c     rc        1120  110  280 5h Ad
+jerry     844263259  7  4 f   -     -     -         1290    0    0 
+jerry     844263340  6  2 cc  kc    kf    -         1290   30    0 
+jerry     844263467  4  2 Bcc kc    kf    -         1260   50    0 
+jerry     844263566  4  1 Bc  kc    kc    -         1210   40  120 2c 6c
+jerry     844263627  3  3 r   k     c     c         1290   60    0 4d As
+jerry     844263686  3  2 Bk  b     -     -         1230   20   30 
+jerry     844263719  3  1 Br  b     -     -         1240   30   70 
+jerry     844263748  3  3 cc  c     r     -         1280   70  130 
+jerry     844263787  4  2 Br  k     b     -         1340   40   65 
+jerry     844263858  4  1 Bc  k     kc    bf        1365   50    0 
+jerry     844263948  4  4 r   b     -     -         1315   30   55 
+jerry     844263999  4  3 cc  r     b     b         1340   80  185 5d 9d
+jerry     844264058  3  2 B   -     -     -         1445   10   15 
+jerry     844264067  3  1 Br  -     -     -         1450   20   30 
+jerry     844264088  3  3 f   -     -     -         1460    0    0 
+jerry     844264143  3  2 B   -     -     -         1460   10   15 
+jerry     844264158  3  1 Bcc b     -     -         1465   30   50 
+jerry     844264216  4  4 r   b     c     f         1485   50    0 
+jerry     844264307  5  4 c   b     -     -         1435   20   50 
+jerry     844264343  5  3 crc c     c     c         1465   90    0 4s As
+jerry     844264455  5  2 Bk  kf    -     -         1375   10    0 
+jerry     844264511  5  1 Bf  -     -     -         1365    5    0 
+jerry     844264598  5  5 f   -     -     -         1360    0    0 
+jerry     844264672  5  4 r   b     b     k         1360   50    0 Ac Ks
+jerry     844264721  5  3 fQ  -     -     -         1310    0    0 
+jerry     844673025  7  7 c   f     -     -         1310   10    0 
+jerry     844673105  7  5 c   r     b     -         1300   50  110 
+jerry     844673173  8  4 cc  cc    k     b         1360   70  290 
+jerry     844673324  9  3 f   -     -     -         1580    0    0 
+jerry     844673511  8  2 Bk  k     c     f         1580   30    0 
+jerry     844673767  9  1 Bc  k     kc    k         1550   30   80 Qs 6s
+jerry     844674033  5  5 c   c     c     f         1600   40    0 
+jerry     844674104  5  4 f   -     -     -         1560    0    0 
+jerry     844674193  4  3 c   c     f     -         1560   20    0 
+jerry     844674279  3  2 Br  k     k     f         1540   20    0 
+jerry     844674327  3  1 Bc  k     k     k         1520   10    0 3d 4c
+jerry     844674471  3  3 c   f     -     -         1510   10    0 
+jerry     844674537  3  3 r   -     -     -         1500   20   35 
+jerry     844674551  3  2 B   -     -     -         1515   10   15 
+jerry     844674565  3  1 Bc  k     kf    -         1520   10    0 
+jerry     844674596  3  3 c   f     -     -         1510   10    0 
+jerry     844674643  3  2 Br  b     k     k         1500   30    0 Ah 2s
+jerry     844674709  3  1 Br  -     -     -         1470   20   30 
+jerry     844674721  3  3 c   b     k     k         1480   20    0 Kc 7h
+jerry     844674758  3  2 Bf  -     -     -         1460   10    0 
+jerry     844674772  3  1 Bc  k     k     kf        1450   10    0 
+jerry     844674815  3  3 f   -     -     -         1440    0    0 
+jerry     844674820  3  2 Br  bc    k     b         1440   70  125 
+jerry     844674863  3  1 Bc  b     -     -         1495   20   30 
+jerry     844674886  3  3 c   b     bc    k         1505   60    0 4c Kc
+jerry     844674941  3  2 B   -     -     -         1445   10   15 
+jerry     844674953  3  1 Bc  kf    -     -         1450   10    0 
+jerry     844674996  3  3 f   -     -     -         1440    0    0 
+jerry     844675061  3  2 Br  k     k     k         1440   20   40 Ad Jh
+jerry     844675107  3  1 Br  k     b     -         1460   40   70 
+jerry     844675138  3  3 c   f     -     -         1490   10    0 
+jerry     844675175  3  2 Bc  b     -     -         1480   30   70 
+jerry     844675208  3  1 Bcc kf    -     -         1520   20    0 
+jerry     844675237  3  3 c   k     c     f         1500   30    0 
+jerry     844675275  3  2 B   -     -     -         1470   10   15 
+jerry     844675281  3  1 Br  brc   brc   k         1475  140  290 Qs Js
+jerry     844675350  4  4 cc  b     brc   b         1625  130  280 Qs Js
+jerry     844675432  3  2 c   b     b     b         1775   60  100 
+jerry     844675502  3  2 Bc  bc    k     k         1815   40    0 3d Ah
+jerry     844675542  3  1 Bc  kc    k     br        1775  100    0 Kh 7h
+jerry     844675627  3  3 f   -     -     -         1675    0    0 
+jerry     844675655  3  2 Br  k     k     k         1675   20    0 Qh Ts
+jerry     844675713  3  1 Br  brc   k     k         1655   60  130 Kc Kh
+jerry     844675775  3  3 c   k     f     -         1725   10    0 
+jerry     844675820  3  2 B   -     -     -         1715   10   15 
+jerry     844675842  3  1 Bf  -     -     -         1720    5    0 
+jerry     844675858  3  3 c   b     -     -         1715   20   35 
+jerry     844675885  3  2 Bc  k     brc   k         1730  100    0 9c 8h
+jerry     844675926  3  1 Bc  k     kf    -         1630   10    0 
+jerry     844675957  3  3 f   -     -     -         1620    0    0 
+jerry     844676001  3  2 Br  b     k     c         1620   50  100 6d 6c
+jerry     844676176  2  1 Bc  b     k     bc        1670   60  120 5h Kh
+jerry     844676249  2  2 B   -     -     -         1730   10   15 
+jerry     844676258  2  1 Bc  kf    -     -         1735   10    0 
+jerry     844676286  2  2 Br  b     -     -         1725   30   50 
+jerry     844676336  2  1 Bc  b     b     kc        1745   60  120 9h 5h
+jerry     844676379  2  2 Br  c     bc    c         1805   90    0 5c Ah
+jerry     844676420  2  1 Bcc k     k     k         1715   20    0 5h 3d
+jerry     844676467  2  2 Br  k     k     k         1695   20   40 3c 3d
+jerry     844676509  2  1 Bc  k     k     k         1715   10   20 8c Ks
+jerry     844676547  2  2 Bk  k     b     -         1725   30   40 
+jerry     844676580  2  1 Bc  k     k     k         1735   10    0 4c Qc
+jerry     844676601  2  2 Bk  f     -     -         1725   10    0 
+jerry     844676627  3  1 Bc  b     k     kc        1715   40    0 5s Jh
+jerry     844677072  4  3 f   -     -     -         1675    0    0 
+jerry     844677082  4  3 c   k     k     b         1675   30   70 9d As
+jerry     844677180  4  2 Bc  c     f     -         1715   30    0 
+jerry     844677219  6  1 Bc  kc    kf    -         1685   20    0 
+jerry     844677340  6  6 c   f     -     -         1665   10    0 
+jerry     844677408  5  4 cc  k     c     c         1655   60  155 7s Kd
+jerry     844677458  5  3 f   -     -     -         1750    0    0 
+jerry     844677497  6  2 Bcc br    b     c         1750  110    0 9d 4d
+jerry     844677596  6  1 Bf  -     -     -         1640    5    0 
+jerry     844677761  6  6 rr  c     c     rf        1635  110    0 
+jerry     844677824  6  5 f   -     -     -         1525    0    0 
+jerry     844677886  6  4 cc  kc    kf    -         1525   40    0 
+jerry     844677989  6  3 crc br    k     b         1485   90  340 
+jerry     844678105  6  2 Bk  kc    kf    -         1735   20    0 
+jerry     844678162  5  1 Bc  kf    Q     -         1715   10    0 
+jerry     844684106  5  4 f   -     -     -         1705    0    0 
+jerry     844684180  5  3 cc  kc    kc    b         1705   70  160 
+jerry     844684256  6  2 Bc  bc    b     kc        1795   80    0 7s Jd
+jerry     844684338  6  1 Bc  kc    kf    -         1715   40    0 
+jerry     844684479  6  6 c   c     c     rc        1675  110  122 8d 9d
+jerry     844684583  6  5 f   -     -     -         1687    0    0 
+jerry     844684685  6  4 cr  b     b     c         1687   80  250 Js Jc
+jerry     844684780  6  3 ccc kc    kc    kc        1857   90    0 8s 7c
+jerry     844684900  5  2 Brc b     brrrrr -         1767  270  610 
+jerry     844685043  5  1 Bcc kf    -     -         2107   20    0 
+jerry     844685115  8  6 f   -     -     -         2087    0    0 
+jerry     844685263  6  4 c   f     -     -         2087   10    0 
+jerry     844685362  8  5 cc  k     c     c         2077   60    0 Jh 4h
+jerry     844685488  6  2 f   -     -     -         2017    0    0 
+jerry     844685582  8  4 f   -     -     -         2017    0    0 
+jerry     844685680 10  3 f   -     -     -         2017    0    0 
+jerry     844685795  9  2 Bk  k     kf    -         2017   10    0 
+jerry     844685916  9  1 Bcc kf    -     -         2007   40    0 
+jerry     844686093  9  9 c   f     -     -         1967   10    0 
+jerry     844686203  8  7 f   -     -     -         1957    0    0 
+jerry     844686285  6  5 cc  f     -     -         1957   20    0 
+jerry     844686394  7  6 c   kf    -     -         1937   10    0 
+jerry     844686474  5  3 f   -     -     -         1927    0    0 
+jerry     844686562  7  2 Bk  kf    -     -         1927   10    0 
+jerry     844686831  6  1 Bcc kc    kf    -         1917   30    0 
+jerry     844686955  6  6 fQ  -     -     -         1887    0    0 
+jerry     844687891  4  4 f   -     -     -         1887    0    0 
+jerry     844687925  4  3 c   c     f     -         1887   20    0 
+jerry     844687971  4  2 Br  k     f     -         1867   20    0 
+jerry     844688063  4  1 Bc  kc    k     kf        1847   30    0 
+jerry     844688142  4  4 cc  c     r     c         1817  110  280 6h Ks
+jerry     844688222  4  3 f   -     -     -         1987    0    0 
+jerry     844688288  5  2 Bcc kc    b     b         1987   90    0 Ks 3h
+jerry     844688459  4  1 Br  b     b     kc        1897   70    0 Ac Kc
+jerry     844688527  4  4 c   k     f     -         1827   10    0 
+jerry     844688566  4  3 f   -     -     -         1817    0    0 
+jerry     844688619  4  2 Br  b     -     -         1817   30   55 
+jerry     844688638  4  1 Bc  b     kr    b         1842   80    0 4s Ts
+jerry     844688686  4  4 ccc c     c     f         1762   60    0 
+jerry     844688745  4  3 cc  c     bc    kc        1702   90  270 Ts Jd
+jerry     844688804  4  2 Bk  kf    -     -         1882   10    0 
+jerry     844688854  4  1 Bf  -     -     -         1872    5    0 
+jerry     844688894  4  4 f   -     -     -         1867    0    0 
+jerry     844688921  4  3 f   -     -     -         1867    0    0 
+jerry     844688949  4  2 Bc  kc    kc    bf        1867   70    0 
+jerry     844689029  4  1 Bc  br    k     k         1797   40   80 6s Ad
+jerry     844689079  3  3 cc  brr   b     r         1837  130  280 5c 9c
+jerry     844689150  3  2 Bc  c     k     k         1987   40  120 8s 7c
+jerry     844689248  3  1 Brrc kc    kc    bc        2067  120    0 Kh Th
+jerry     844689301  3  3 cc  c     c     f         1947   50    0 
+jerry     844689345  3  2 Bk  k     f     -         1897   10    0 
+jerry     844689373  3  1 Bc  kr    b     b         1887   70  150 9d Td
+jerry     844689409  3  3 c   k     k     k         1967   10   25 9d Kh
+jerry     844689447  3  2 Br  b     b     k         1982   50  100 Ah Ks
+jerry     844689484  3  1 Bc  -     -     -         2032   10   20 
+jerry     844689494  3  3 ccc c     f     -         2042   50    0 
+jerry     844689577  3  2 Br  b     b     k         1992   50  105 Ah 8d
+jerry     844689629  3  1 Bf  -     -     -         2047    5    0 
+jerry     844689641  3  3 f   -     -     -         2042    0    0 
+jerry     844689667  3  2 Bf  -     -     -         2042   10    0 
+jerry     844689683  3  1 Bf  -     -     -         2032    5    0 
+jerry     844689695  3  3 rr  r     -     -         2027   60  120 
+jerry     844689733  3  2 Bc  k     kf    -         2087   20    0 
+jerry     844689795  3  1 Bc  kf    -     -         2067   10    0 
+jerry     844689840  3  3 c   k     k     f         2057   10    0 
+jerry     844689880  3  2 Bf  -     -     -         2047   10    0 
+jerry     844689913  3  1 Bf  -     -     -         2037    5    0 
+jerry     844689957  3  3 rrr c     c     c         2032  110  230 7h 7c
+jerry     844690003  3  2 Br  b     b     b         2152   70  140 Js Ac
+jerry     844690053  3  1 Bcc kc    kc    kc        2222   70    0 Kc 4h
+jerry     844690122  3  3 f   -     -     -         2152    0    0 
+jerry     844690173  3  2 B   -     -     -         2152   10   15 
+jerry     844690183  3  1 Bcc kc    kc    bf        2157   70    0 
+jerry     844690284  3  3 r   b     -     -         2087   30   55 
+jerry     844690325  3  2 Bk  k     b     -         2112   30   50 
+jerry     844690362  3  1 Bc  bc    kr    b         2132   90  180 2d 8s
+jerry     844690402  3  3 f   -     -     -         2222    0    0 
+jerry     844690417  3  2 Bc  br    b     -         2222   70  125 
+jerry     844690469  3  1 Bc  -     -     -         2277   10   20 
+jerry     844690488  3  3 f   -     -     -         2287    0    0 
+jerry     844690500  2  2 B   -     -     -         2287   10   15 
+jerry     844690509  2  1 Bc  kc    k     k         2292   20    0 5s Qc
+jerry     844690550  2  2 Bk  k     k     k         2272   10    0 9d 8s
+jerry     844690575  2  1 Bcc kc    k     b         2262   50  100 8s 4s
+jerry     844690611  2  2 Bk  c     k     r         2312   60  120 9d Qh
+jerry     844690648  2  1 Bc  -     -     -         2372   10   20 
+jerry     844690657  2  2 Br  rc    c     k         2382   70  140 Kc Td
+jerry     844690693  3  1 Bc  kf    -     -         2452   10    0 
+jerry     844690724  3  3 r   b     -     -         2442   30   70 
+jerry     844690755  3  2 Bk  k     b     -         2482   30   50 
+jerry     844690783  3  1 Br  -     -     -         2502   20   30 
+jerry     844690797  3  3 c   rr    k     r         2512   90  190 Kh Ks
+jerry     844690845  3  2 Bk  kf    -     -         2612   10    0 
+jerry     844690866  3  1 Bc  -     -     -         2602   10   20 
+jerry     844690878  3  3 c   k     f     -         2612   10    0 
+jerry     844690917  3  3 c   c     f     -         2602   20    0 
+jerry     844690957  2  2 Br  b     -     -         2582   30   50 
+jerry     844690978  2  1 Bcc kc    b     b         2602   70  140 4s Jh
+jerry     844691020  2  2 Bk  k     k     k         2672   10    0 6s 7s
+jerry     844691045  3  1 Bcc kf    -     -         2662   20    0 
+jerry     844691101  3  3 c   r     b     k         2642   50    0 Th 9c
+jerry     844691158  3  2 Bk  b     -     -         2592   20   30 
+jerry     844691179  3  1 Bc  b     k     b         2602   50  110 8d Qd
+jerry     844691220  2  2 r   k     k     c         2662   40    0 Th Ah
+jerry     844691264  2  2 BQ  -     -     -         2622   10    0 
+jerry     844691641  3  2 Bk  kf    -     -         2612   10    0 
+jerry     844691679  3  1 Bc  k     k     k         2602   10    0 5h Js
+jerry     844691721  3  3 f   -     -     -         2592    0    0 
+jerry     844691740  3  2 Br  k     k     c         2592   40   80 Ah 3c
+jerry     844691844  3  1 Bc  k     k     k         2632   10    0 7c 4s
+jerry     844691882  3  3 c   k     c     b         2622   50  110 
+jerry     844691929  3  2 Br  c     c     c         2682   70    0 4d Kh
+jerry     844691961  3  1 Bc  k     k     kf        2612   10    0 
+jerry     844692018  3  3 f   -     -     -         2602    0    0 
+jerry     844692031  4  2 Bk  kc    k     b         2602   40   80 
+jerry     844692092  4  1 Bc  k     k     k         2642   10   20 Js 5h
+jerry     844692136  4  4 f   -     -     -         2652    0    0 
+jerry     844692165  4  3 f   -     -     -         2652    0    0 
+jerry     844692179  4  2 Br  -     -     -         2652   20   30 
+jerry     844692191  4  1 Bc  kf    -     -         2662   20    0 
+jerry     844692220  4  4 f   -     -     -         2642    0    0 
+jerry     844692231  3  3 c   k     k     f         2642   10    0 
+jerry     844692263  3  2 Bk  c     r     b         2632   80  150 
+jerry     844692312  3  1 Bc  k     k     k         2702   10    0 6s 9c
+jerry     844692376  3  3 f   -     -     -         2692    0    0 
+jerry     844692394  3  2 Brc c     f     -         2692   50    0 
+jerry     844692459  4  1 Bc  k     kf    -         2642   10    0 
+jerry     844692546  4  4 f   -     -     -         2632    0    0 
+jerry     844692610  4  3 f   -     -     -         2632    0    0 
+jerry     844692664  4  2 Bk  b     k     k         2632   20   60 Kh 3c
+jerry     844692710  4  1 Br  b     b     k         2672   50  130 Qc Ac
+jerry     844692762  4  4 c   b     -     -         2752   20   35 
+jerry     844692784  4  3 f   -     -     -         2767    0    0 
+jerry     844692815  4  2 Bk  rc    b     k         2767   60  120 6c 5h
+jerry     844692858  4  1 Br  bc    kc    kc        2827   80    0 9s 9d
+jerry     844692896  4  4 r   b     b     bc        2747   90  120 Kc Jd
+jerry     844692968  4  3 c   k     k     c         2777   30   65 8c 5c
+jerry     844693011  4  2 Br  b     -     -         2812   30   70 
+jerry     844693044  4  1 Bc  k     k     k         2852   10    0 6c 9d
+jerry     844693074  4  4 f   -     -     -         2842    0    0 
+jerry     844693100  4  3 f   -     -     -         2842    0    0 
+jerry     844693114  4  2 Bk  b     -     -         2842   20   40 
+jerry     844693135  4  1 Bf  -     -     -         2862    5    0 
+jerry     844693168  4  4 c   c     c     f         2857   40    0 
+jerry     844693221  4  3 c   kc    f     -         2817   20    0 
+jerry     844693294  4  2 Bk  k     k     b         2797   30    0 7c 2s
+jerry     844693364  4  1 Bc  kc    kf    -         2767   20    0 
+jerry     844693440  5  5 f   -     -     -         2747    0    0 
+jerry     844693506  5  4 c   k     f     -         2747   10    0 
+jerry     844693571  6  3 cc  ccc   kc    kc        2737  140  520 Tc Jc
+jerry     844693693  7  2 Bf  -     -     -         3117   10    0 
+jerry     844693759  7  1 Bc  k     k     kf        3107   10    0 
+jerry     844693877  5  5 r   b     b     b         3097   70  160 
+jerry     844693956  6  5 c   k     c     f         3187   30    0 
+jerry     844694020  5  4 rc  bc    cc    c         3157  130    0 Ad Js
+jerry     844694170  5  3 c   k     k     kc        3027   30    0 7h 6s
+jerry     844694254  5  2 Bk  bc    k     kc        2997   50    0 9s 4h
+jerry     844694331  5  1 Bf  -     -     -         2947    5    0 
+jerry     844694390  5  5 f   -     -     -         2942    0    0 
+jerry     844694506  5  4 c   c     c     f         2942   40    0 
+jerry     844694572  4  2 f   -     -     -         2902    0    0 
+jerry     844694586  5  2 Bf  -     -     -         2902   10    0 
+jerry     844694646  4  1 Bc  k     b     b         2892   60  130 Td 7d
+jerry     844694707  4  4 c   b     b     rr        2962  120  250 Qc 6h
+jerry     844694804  5  4 f   -     -     -         3092    0    0 
+jerry     844694832  5  3 cc  kc    k     k         3092   30   95 5c 2s
+jerry     844694905  5  2 Br  b     r     c         3157   90    0 2d As
+jerry     844694972  5  1 Bc  b     k     k         3067   30  120 5s 3c
+jerry     844695021  5  5 r   c     f     -         3157   30    0 
+jerry     844695121  6  5 c   r     k     k         3127   30   65 5s Kc
+jerry     844695184  6  4 cc  c     b     b         3162   80  205 7d Qh
+jerry     844695256  6  3 cc  kc    kc    kc        3287   70    0 6d 5h
+jerry     844695329  6  2 Brc rc    br    rc        3217  190    0 9h Ac
+jerry     844695449  6  1 Bcc kc    bc    k         3027   70  200 Qh 2s
+jerry     844695558  7  7 c   b     b     b         3157   60    0 Js Qh
+jerry     844695613  7  6 f   -     -     -         3097    0    0 
+jerry     844695645  7  5 f   -     -     -         3097    0    0 
+jerry     844695696  7  4 cc  c     c     f         3097   50    0 
+jerry     844695758  5  2 Bk  k     b     k         3047   30    0 3s Kh
+jerry     844695800  7  1 Br  bc    kc    kc        3017   80    0 6d 6c
+jerry     844695899  6  6 f   -     -     -         2937    0    0 
+jerry     844695983  6  5 c   -     -     -         2937   10   25 
+jerry     844696002  5  3 cc  r     b     b         2952   80  140 
+jerry     844696076  6  4 c   c     b     b         3012   70  190 Ac Kc
+jerry     844696140  7  3 f   -     -     -         3132    0    0 
+jerry     844696213  7  2 Bc  kc    kf    -         3132   30    0 
+jerry     844696314  7  1 Bc  b     -     -         3102   20   40 
+jerry     844696338  7  7 c   -     -     -         3122   20   75 
+jerry     844696666  5  4 cc  kc    f     -         3177   30    0 
+jerry     844696736  5  4 c   b     -     -         3147   20   50 
+jerry     844696788  5  3 f   -     -     -         3177    0    0 
+jerry     844696836  6  3 c   b     bc    f         3177   60    0 
+jerry     844696893  6  2 Bk  k     kf    -         3117   10    0 
+jerry     844696952  6  1 Bf  -     -     -         3107    5    0 
+jerry     844696993  6  6 f   -     -     -         3102    0    0 
+jerry     844697038  8  6 c   kc    c     bf        3102   70    0 
+jerry     844697138  8  5 cc  br    b     k         3032   70    0 Ah 7c
+jerry     844697224  7  4 c   cc    k     k         2962   30    0 As Jc
+jerry     844697311  7  3 cc  krc   k     b         2932   80  215 
+jerry     844697452  8  2 Bk  cf    -     -         3067   20    0 
+jerry     844697506  6  1 Bc  kfQ   -     -         3047   20    0 
+jerry     844700187  4  4 f   -     -     -         3027    0    0 
+jerry     844700240  5  3 c   k     f     -         3027   10    0 
+jerry     844700285  5  2 Bc  kf    -     -         3017   30    0 
+jerry     844700338  5  1 Bc  kf    -     -         2987   10    0 
+jerry     844700382  5  5 r   b     b     -         2977   50   85 
+jerry     844700421  4  3 c   b     k     k         3012   20    0 Ad 9h
+jerry     844700461  4  2 Bk  kf    -     -         2992   10    0 
+jerry     844700514  4  1 Bc  kc    k     k         2982   30    0 Kd 4c
+jerry     844700560  5  5 c   b     -     -         2952   20   45 
+jerry     844700590  6  4 c   k     k     k         2977   10    0 8c Th
+jerry     844700639  5  2 f   -     -     -         2967    0    0 
+jerry     844700684  6  2 Bc  k     k     f         2967   20    0 
+jerry     844700749  6  1 Bc  b     b     -         2947   40   60 
+jerry     844700785  6  6 c   b     -     -         2967   20   45 
+jerry     844700827  7  6 c   bc    kc    k         2992   50  130 Qs Ts
+jerry     844700923  7  5 f   -     -     -         3072    0    0 
+jerry     844700996  9  4 cc  b     b     kc        3072   70    0 6s Js
+jerry     844701062 10  3 f   -     -     -         3002    0    0 
+jerry     844701194 11  2 Bk  k     b     b         3002   50  125 Qh 8h
+jerry     844701310 11  1 Bcc kc    kf    -         3077   40    0 
+jerry     844701401 11 11 f   -     -     -         3037    0    0 
+jerry     844701531  9  8 c   f     -     -         3037   10    0 
+jerry     844701618  9  7 r   b     b     -         3027   50  135 
+jerry     844701851 10  5 f   -     -     -         3112    0    0 
+jerry     844701877  9  4 c   kc    k     c         3112   40    0 2d Ac
+jerry     844701937  9  3 c   c     c     kc        3072   60    0 7h 6s
+jerry     844702019 10  3 c   r     b     k         3012   50  130 7d 4d
+jerry     844702099  8  2 Br  r     -     -         3092   50   90 
+jerry     844702126  7  1 Bcc kc    kc    kc        3132   80    0 9h 8c
+jerry     844702191  7  7 f   -     -     -         3052    0    0 
+jerry     844702247  7  6 f   -     -     -         3052    0    0 
+jerry     844702338  6  4 c   kc    kc    b         3052   60    0 2s 4s
+jerry     844702390  6  3 c   b     -     -         2992   20   35 
+jerry     844702422  6  2 Bk  b     k     k         3007   20   65 3h 6d
+jerry     844702466  8  1 Bc  kf    -     -         3052   10    0 
+jerry     844702541  8  8 c   cc    c     b         3042   80    0 Kc 2d
+jerry     844702640 11  8 cc  bf    -     -         2962   30    0 
+jerry     844702735 10  7 c   r     b     b         2932   70  155 Ks As
+jerry     844702796 10  6 r   -     -     -         3017   20   35 
+jerry     844702817 10  5 r   r     b     b         3032   80    0 Jd Kc
+jerry     844702908 10  4 cc  k     kf    -         2952   20    0 
+jerry     844702958  9  3 cc  f     -     -         2932   20    0 
+jerry     844703038  9  2 Bk  brc   kc    kc        2912   90    0 8c Kd
+jerry     844703111 10  1 Bf  -     -     -         2822    5    0 
+jerry     844703199 11 11 rc  rc    f     -         2817   80    0 
+jerry     844703344 12 11 c   c     rc    c         2737  100    0 8d Jd
+jerry     844703498 12 10 c   r     f     -         2637   30    0 
+jerry     844703663 12  9 f   -     -     -         2607    0    0 
+jerry     844703813 12  8 r   b     b     b         2607   70  250 5h 5d
+jerry     844704028 12  7 f   -     -     -         2787    0    0 
+jerry     844704125 12  6 rc  b     k     bf        2787   70    0 
+jerry     844704288 12  5 f   -     Q     -         2717    0    0 
+jerry     844757802  3  2 Bc  c     k     b         2717   50    0 8s 7c
+jerry     844757831  3  1 Bf  -     -     -         2667    5    0 
+jerry     844757851  4  3 cc  bcc   kc    kc        2662  100  270 2h Th
+jerry     844757907  3  2 Bf  -     -     -         2832   10    0 
+jerry     844757927  4  1 Bf  -     -     -         2822    5    0 
+jerry     844757963  4  4 f   -     -     -         2817    0    0 
+jerry     844758028  4  3 cc  k     kc    k         2817   40   95 9d 7d
+jerry     844758065  4  1 Brrc kc    bc    kc        2872  130    0 Jh Ah
+jerry     844758124  4  1 Bf  -     -     -         2742    5    0 
+jerry     844758151  4  4 c   k     c     c         2737   50  110 9s Qs
+jerry     844758195  4  3 r   b     b     b         2797   70  155 Js Jd
+jerry     844758226  4  2 Bc  kc    kc    b         2882   90    0 Kc Tc
+jerry     844758280  4  1 Bf  -     -     -         2792    5    0 
+jerry     844758299  4  4 c   b     b     -         2787   40   70 
+jerry     844758327  5  4 c   b     -     -         2817   20   40 
+jerry     844758385  4  2 Bk  k     c     k         2837   30   80 6s Js
+jerry     844758420  4  1 BKQ -     -     -         2887    5    0 
+jerry     844758611  4  3 cc  k     kc    b         2882   60    0 4d 3d
+jerry     844758667  4  2 Bc  c     f     -         2822   30    0 
+jerry     844758701  4  1 Br  b     kc    kc        2792   80   85 Ah 7h
+jerry     844758739  5  5 c   c     c     b         2797   70    0 Kd 3s
+jerry     844758783  5  4 cc  kc    kc    kc        2727   80    0 Kd Jh
+jerry     844758832  5  3 f   -     -     -         2647    0    0 
+jerry     844758881  6  2 Bf  -     -     -         2647   10    0 
+jerry     844758921  6  1 Bf  -     -     -         2637    5    0 
+jerry     844758951  6  6 f   -     -     -         2632    0    0 
+jerry     844759007  6  5 c   c     c     c         2632   70    0 Kc Qh
+jerry     844759039  6  4 cc  r     c     c         2562   80    0 Jh 7s
+jerry     844759080  6  3 f   -     -     -         2482    0    0 
+jerry     844759108  6  2 Bf  -     -     -         2482   10    0 
+jerry     844759121  6  1 Bc  b     b     k         2472   60  210 5s Ad

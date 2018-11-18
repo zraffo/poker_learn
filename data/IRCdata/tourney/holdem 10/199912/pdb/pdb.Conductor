@@ -1,0 +1,1532 @@
+Conductor 944042634  8  7 f   -     -     -         6000    0    0 
+Conductor 944042671  7  6 f   -     -     -         6000    0    0 
+Conductor 944042693  7  5 f   -     -     -         6000    0    0 
+Conductor 944042715  7  4 f   -     -     -         6000    0    0 
+Conductor 944042735  7  3 f   -     -     -         6000    0    0 
+Conductor 944042769  7  2 Bf  -     -     -         6000   60    0 
+Conductor 944042805  7  1 Bf  -     -     -         5940   30    0 
+Conductor 944042818  7  7 f   -     -     -         5910    0    0 
+Conductor 944042826  7  6 c   f     -     -         5910   60    0 
+Conductor 944042864  7  5 f   -     -     -         5850    0    0 
+Conductor 944042896  7  4 cf  -     -     -         5850   60    0 
+Conductor 944042929  7  3 f   -     -     -         5790    0    0 
+Conductor 944042966  7  2 Bk  k     k     f         5790  120    0 
+Conductor 944043028  7  1 Bc  b     b     -         5670 2040 2880 
+Conductor 944043066  7  7 f   -     -     -         6510    0    0 
+Conductor 944043105  7  6 f   -     -     -         6510    0    0 
+Conductor 944043132  7  5 f   -     -     -         6510    0    0 
+Conductor 944043171  7  4 f   -     -     -         6510    0    0 
+Conductor 944043204  7  3 c   br    -     -         6510 4230 3060 5h 5d
+Conductor 944043257  7  2 Bf  -     -     -         5340  120    0 
+Conductor 944043277  7  1 Bf  -     -     -         5220  120    0 
+Conductor 944043315  7  7 f   -     -     -         5100    0    0 
+Conductor 944043339  6  5 f   -     -     -         5100    0    0 
+Conductor 944043374  5  4 f   -     -     -         5100    0    0 
+Conductor 944043388  5  3 cc  rcA   -     -         5100 5100 10440 As 9c
+Conductor 944043421  5  2 Bk  k     k     k        10440  240  600 Kh Js
+Conductor 944043455  5  1 Bf  -     -     -        10800  120    0 
+Conductor 944043478  5  5 f   -     -     -        10680    0    0 
+Conductor 944043504  5  4 f   -     -     -        10680    0    0 
+Conductor 944043541  5  3 f   -     -     -        10680    0    0 
+Conductor 944043578  5  2 BrrA -     -     -        10680 10680    0 Ks Kc
+Conductor 944044530  9  2 Bf  -     -     -         5000   10    0 
+Conductor 944044613  9  1 Bf  -     -     -         4990    5    0 
+Conductor 944044663  9  9 f   -     -     -         4985    0    0 
+Conductor 944044719  9  8 f   -     -     -         4985    0    0 
+Conductor 944044744  9  7 f   -     -     -         4985    0    0 
+Conductor 944044811  9  6 f   -     -     -         4985    0    0 
+Conductor 944044881  8  4 f   -     -     -         4985    0    0 
+Conductor 944044925  8  3 f   -     -     -         4985    0    0 
+Conductor 944044968  8  2 Bf  -     -     -         4985   20    0 
+Conductor 944045050  8  1 Bf  -     -     -         4965   10    0 
+Conductor 944045097  8  8 f   -     -     -         4955    0    0 
+Conductor 944045153  7  6 f   -     -     -         4955    0    0 
+Conductor 944045219  7  5 f   -     -     -         4955    0    0 
+Conductor 944045257  7  4 f   -     -     -         4955    0    0 
+Conductor 944045300  7  3 cc  k     b     b         4955 3880 4320 Ks 5s
+Conductor 944045352  7  2 Bk  kf    -     -         5395   40    0 
+Conductor 944045403  7  1 Bf  -     -     -         5355   20    0 
+Conductor 944045432  7  7 f   -     -     -         5335    0    0 
+Conductor 944045470  7  6 f   -     -     -         5335    0    0 
+Conductor 944045505  7  5 f   -     -     -         5335    0    0 
+Conductor 944045564  7  4 f   -     -     -         5335    0    0 
+Conductor 944045631  7  3 f   -     -     -         5335    0    0 
+Conductor 944045701  7  2 Bk  kf    -     -         5335   80    0 
+Conductor 944045725  7  1 Bcf -     -     -         5255   80    0 
+Conductor 944045772  7  7 f   -     -     -         5175    0    0 
+Conductor 944045789  7  6 f   -     -     -         5175    0    0 
+Conductor 944045834  7  5 f   -     -     -         5175    0    0 
+Conductor 944045868  7  4 f   -     -     -         5175    0    0 
+Conductor 944045901  7  3 cc  f     -     -         5175  960    0 
+Conductor 944045941  6  2 Bk  kf    -     -         4215  160    0 
+Conductor 944045976  6  1 Bc  kf    -     -         4055  560    0 
+Conductor 944046018  6  6 f   -     -     -         3495    0    0 
+Conductor 944046053  6  5 c   k     f     -         3495  160    0 
+Conductor 944046120  6  4 f   -     -     -         3335    0    0 
+Conductor 944046159  6  3 f   -     -     -         3335    0    0 
+Conductor 944046177  6  2 Bk  kf    -     -         3335  320    0 
+Conductor 944046207  6  1 Bc  k     bcA   -         3015 3015 6350 4d Ts
+Conductor 944046266  6  6 c   c     -     -         6350 5210 10900 Kd Kh
+Conductor 944046299  5  4 c   rc    -     -        12040 9650 9970 9c 9h
+Conductor 944046340  5  3 cc  kf    -     -        12360  940    0 
+Conductor 944046376  5  2 Bk  k     k     k        11420  320  960 9s 7d
+Conductor 944046434  5  1 Bc  b     -     -        12060  960 1280 
+Conductor 944046457  5  5 c   f     -     -        12380  320    0 
+Conductor 944046485  5  4 f   -     -     -        12060    0    0 
+Conductor 944046533  5  3 c   k     k     k        12060  640    0 As 6h
+Conductor 944046589  5  2 Bk  f     -     -        11420  640    0 
+Conductor 944046613  5  1 Bc  k     k     kf       10780  640    0 
+Conductor 944046661  5  5 f   -     -     -        10140    0    0 
+Conductor 944046697  5  4 c   b     b     -        10140 7040 10240 
+Conductor 944046737  5  3 c   k     b     -        13340 2240 3200 
+Conductor 944046774  5  2 Bk  f     -     -        14300  640    0 
+Conductor 944046792  5  1 Bc  kf    -     -        13660 1280    0 
+Conductor 944046818  5  5 f   -     -     -        12380    0    0 
+Conductor 944046825  5  4 f   -     -     -        12380    0    0 
+Conductor 944046849  4  2 f   -     -     -        12380    0    0 
+Conductor 944046887  4  2 Bk  k     k     kf       12380 1280    0 
+Conductor 944046933  4  1 Bf  -     -     -        11100  640    0 
+Conductor 944046948  4  4 f   -     -     -        10460    0    0 
+Conductor 944046963  4  3 c   b     -     -        10460 3200 5760 
+Conductor 944046982  4  2 Bf  -     -     -        13020 1280    0 
+Conductor 944046998  3  1 Bc  b     -     -        11740 9600 15360 
+Conductor 944047022  3  3 f   -     -     -        17500    0    0 
+Conductor 944047035  3  2 B   -     -     -        17500 1280 1920 
+Conductor 944047046  3  1 Bc  b     -     -        18140 2560 3840 
+Conductor 944047062  3  3 cf  -     -     -        19420 1280    0 
+Conductor 944047110  2  1 B   -     -     -        18140 2560 2560 
+Conductor 944047137  2  1 Bc  b     b     -        18140 10240 15360 
+Conductor 944047181  2  2 B   -     -     -        23260 2560 3840 
+Conductor 944047187  2  1 Bf  -     -     -        24540 1280    0 
+Conductor 944047197  2  2 B   -     -     -        23260 2560 3840 
+Conductor 944047204  2  1 Bf  -     -     -        24540 1280    0 
+Conductor 944047213  2  2 Bk  b     -     -        23260 5120 7680 
+Conductor 944047235  2  1 Bc  kf    -     -        25820 2560    0 
+Conductor 944047265  2  2 B   -     -     -        23260 2560 3840 
+Conductor 944047268  2  1 Bc  k     k     k        24540 2560 5120 9d Kd
+Conductor 944047301  2  2 B   -     -     -        27100 2560 3840 
+Conductor 944047308  2  1 Bf  -     -     -        28380 1280    0 
+Conductor 944047319  2  2 B   -     -     -        27100 2560 3840 
+Conductor 944047325  2  1 Bc  b     -     -        28380 5120 7680 
+Conductor 944047341  2  2 B   -     -     -        30940 2560 3840 
+Conductor 944047346  2  1 Bf  -     -     -        32220 1280    0 
+Conductor 944047350  2  2 B   -     -     -        30940 2560 3840 
+Conductor 944047354  2  1 Bc  kf    -     -        32220 2560    0 
+Conductor 944047372  2  2 Bk  r     -     -        29660 23040 7700 8d Th
+Conductor 944047394  2  1 Bf  -     -     -        14320 1280    0 
+Conductor 944047408  2  2 Bk  k     f     -        13040 2560    0 
+Conductor 944047429  2  1 Bc  k     k     k        10480 5120 10240 Jh Kd
+Conductor 944047451  2  2 Bk  b     -     -        15600 10240 15360 
+Conductor 944047473  2  1 Bf  -     -     -        20720 2560    0 
+Conductor 944047479  2  2 B   -     -     -        18160 5120 7680 
+Conductor 944047485  2  1 Bf  -     -     -        20720 2560    0 
+Conductor 944047489  2  2 B   -     -     -        18160 5120 7680 
+Conductor 944047495  2  1 Bf  -     -     -        20720 2560    0 
+Conductor 944047501  2  2 Bk  cA    -     -        18160 18160 36320 6c As
+Conductor 944047522  2  1 Bf  -     -     -        36320 2560    0 
+Conductor 944047541  2  2 Bk  b     -     -        33760 10240 15360 
+Conductor 944047570  2  1 Bf  -     -     -        38880 2560    0 
+Conductor 944047587  2  2 Bk  r     -     -        36320 26040 34720 Ad 9s
+Conductor 944047848 12  3 f   -     -     -         1000    0    0 
+Conductor 944047995 12  2 Bk  kf    -     -         1000   10    0 
+Conductor 944048070 12  1 Bf  -     -     -          990    5    0 
+Conductor 944048108 11 11 c   k     f     -          985   35    0 
+Conductor 944048182 11 10 c   f     -     -          950   20    0 
+Conductor 944048226 11  9 c   k     k     kc         930  140    0 Jd Ad
+Conductor 944048300 11  8 f   -     -     -          790    0    0 
+Conductor 944048342 11  7 f   -     -     -          790    0    0 
+Conductor 944048398 11  6 cc  -     -     -          790  255    0 5h Th
+Conductor 944048422 11  5 c   c     c     c          535  405    0 Th Js
+Conductor 944048474 11  4 c   b     bA    -          130  130  340 Jh Tc
+Conductor 944048543 11  3 f   -     -     -          340    0    0 
+Conductor 944048596 10  2 BcA -     -     -          340  340    0 5d 5s
+Conductor 944079628 16 15 f   -     -     -         5000    0    0 
+Conductor 944079699 16 14 f   -     -     -         5000    0    0 
+Conductor 944079782 16 13 f   -     -     -         5000    0    0 
+Conductor 944079863 15 12 f   -     -     -         5000    0    0 
+Conductor 944079972 15 11 cc  b     kc    -         5000 4640 11100 Tc Kc
+Conductor 944080076 13  9 cf  -     -     -        11460   80    0 
+Conductor 944080111 13  8 cc  f     -     -        11380  240    0 
+Conductor 944080204 13  7 f   -     -     -        11140    0    0 
+Conductor 944080357 13  6 f   -     -     -        11140    0    0 
+Conductor 944080476 12  5 f   -     -     -        11140    0    0 
+Conductor 944080527 12  4 f   -     -     -        11140    0    0 
+Conductor 944080580 12  3 cc  kf    -     -        11140  720    0 
+Conductor 944080640 11  2 Bc  kf    -     -        10420  720    0 
+Conductor 944080684 11  1 Bf  -     -     -         9700   80    0 
+Conductor 944080733 11 11 f   -     -     -         9620    0    0 
+Conductor 944080785 11 10 f   -     -     -         9620    0    0 
+Conductor 944080833 11  9 f   -     -     -         9620    0    0 
+Conductor 944080884 11  8 f   -     -     -         9620    0    0 
+Conductor 944080913 11  7 f   -     -     -         9620    0    0 
+Conductor 944080927 11  6 f   -     -     -         9620    0    0 
+Conductor 944080959 11  5 cf  -     -     -         9620  320    0 
+Conductor 944080996 11  4 c   b     r     bA        9300 9300    0 Th Qc
+Conductor 944100382 18  3 cf  -     -     -         5000   50    0 
+Conductor 944100548 18  2 Bf  -     -     -         4950   50    0 
+Conductor 944100688 16  1 Bc  b     k     b         4900  675    0 5c Ts
+Conductor 944100827 16 16 c   b     b     k         4225 3100    0 As 4h
+Conductor 944101086 16 15 f   -     -     -         1125    0    0 
+Conductor 944101193 16 14 f   -     -     -         1125    0    0 
+Conductor 944101257 15 12 f   -     -     -         1125    0    0 
+Conductor 944101354 14 11 f   -     -     -         1125    0    0 
+Conductor 944101456 14 10 f   -     -     -         1125    0    0 
+Conductor 944101584 13  8 f   -     -     -         1125    0    0 
+Conductor 944101623 13  7 f   -     -     -         1125    0    0 
+Conductor 944101689 12  6 f   -     -     -         1125    0    0 
+Conductor 944101751 12  5 f   -     -     -         1125    0    0 
+Conductor 944101802 12  4 f   -     -     -         1125    0    0 
+Conductor 944101891 11  3 ccA -     -     -         1125 1125    0 Ts Ks
+Conductor 944115261 13  3 f   -     -     -         1000    0    0 
+Conductor 944115323 12  2 Bk  kf    -     -         1000   10    0 
+Conductor 944115397 11  1 Bcf -     -     -          990   10    0 
+Conductor 944115459 11 11 f   -     -     -          980    0    0 
+Conductor 944115539 11 10 f   -     -     -          980    0    0 
+Conductor 944115635 11  9 f   -     -     -          980    0    0 
+Conductor 944115719  9  6 f   -     -     -          980    0    0 
+Conductor 944115782  9  6 f   -     -     -          980    0    0 
+Conductor 944115823  8  4 c   kf    -     -          980   20    0 
+Conductor 944115877  8  3 f   -     -     -          960    0    0 
+Conductor 944115913  8  2 Bf  -     -     -          960   20    0 
+Conductor 944115943  8  1 Bc  k     k     kf         940  140    0 
+Conductor 944116013  8  8 f   -     -     -          800    0    0 
+Conductor 944116045  8  7 c   f     -     -          800   40    0 
+Conductor 944116096  7  5 f   -     -     -          760    0    0 
+Conductor 944116127  7  4 f   -     -     -          760    0    0 
+Conductor 944116158  7  3 f   -     -     -          760    0    0 
+Conductor 944116251  6  2 Bf  -     -     -          760   80    0 
+Conductor 944116273  6  1 Bf  -     -     -          680   40    0 
+Conductor 944116320  6  6 f   -     -     -          640    0    0 
+Conductor 944116361  5  4 f   -     -     -          640    0    0 
+Conductor 944116405  5  3 f   -     -     -          640    0    0 
+Conductor 944116426  5  2 Bk  kf    -     -          640   80    0 
+Conductor 944116465  5  1 Bc  k     k     k          560   80    0 4s 9h
+Conductor 944116509  5  5 c   k     k     f          480   80    0 
+Conductor 944116548  5  4 f   -     -     -          400    0    0 
+Conductor 944116557  5  3 c   k     bA    -          400  400  640 
+Conductor 944116579  5  2 Bk  k     k     k          640  160    0 6d Ts
+Conductor 944116636  5  1 BcA -     -     -          480  480 1120 6c Qc
+Conductor 944116661  5  5 f   -     -     -         1120    0    0 
+Conductor 944116689  5  4 f   -     -     -         1120    0    0 
+Conductor 944116726  5  3 f   -     -     -         1120    0    0 
+Conductor 944116749  5  2 Bf  -     -     -         1120  160    0 
+Conductor 944116761  5  1 Bc  kf    -     -          960  160    0 
+Conductor 944116818  5  5 c   cA    -     -          800  800 1920 Ks Ad
+Conductor 944116851  5  4 c   b     -     -         1920  360  600 
+Conductor 944116875  5  3 f   -     -     -         2160    0    0 
+Conductor 944116935  5  2 Bk  k     k     b         2160 1120 1600 
+Conductor 944116984  5  1 Bc  k     k     k         2640  320    0 3s 6h
+Conductor 944117011  5  5 f   -     -     -         2320    0    0 
+Conductor 944117022  5  4 f   -     -     -         2320    0    0 
+Conductor 944117088  4  2 f   -     -     -         2320    0    0 
+Conductor 944117119  4  2 B   -     -     -         2320  320  140 5h Qh
+Conductor 944117131  4  1 Bf  -     -     -         2140  160    0 
+Conductor 944117148  4  4 c   b     cA    -         1980 1980    0 Ac Kc
+Conductor 944120055 14  7 f   -     -     -         1000    0    0 
+Conductor 944120157 14  6 c   kf    -     -         1000   20    0 
+Conductor 944120248 13  5 f   -     -     -          980    0    0 
+Conductor 944120294 12  4 f   -     -     -          980    0    0 
+Conductor 944120327 12  3 f   -     -     -          980    0    0 
+Conductor 944120361 12  2 Bf  -     -     -          980   20    0 
+Conductor 944120396 12  1 Bf  -     -     -          960   20    0 
+Conductor 944120447 12 12 f   -     -     -          940    0    0 
+Conductor 944120500 12 11 f   -     -     -          940    0    0 
+Conductor 944120558 12 10 f   -     -     -          940    0    0 
+Conductor 944120586 12  9 f   -     -     -          940    0    0 
+Conductor 944120637 12  8 f   -     -     -          940    0    0 
+Conductor 944120667 12  7 f   -     -     -          940    0    0 
+Conductor 944120705 12  6 f   -     -     -          940    0    0 
+Conductor 944120765 10  4 f   -     -     -          940    0    0 
+Conductor 944120839 10  4 f   -     -     -          940    0    0 
+Conductor 944120925 10  3 f   -     -     -          940    0    0 
+Conductor 944121007 10  2 Bk  k     k     b          940  440  720 
+Conductor 944121048 10  1 Bf  -     -     -         1220   40    0 
+Conductor 944121085  9  9 c   f     -     -         1180   80    0 
+Conductor 944121123  9  8 f   -     -     -         1100    0    0 
+Conductor 944121164  9  7 c   k     k     k         1100  160  480 9s Qs
+Conductor 944121214  9  6 f   -     -     -         1420    0    0 
+Conductor 944121244  9  5 f   -     -     -         1420    0    0 
+Conductor 944121264  9  4 f   -     -     -         1420    0    0 
+Conductor 944121310  8  2 Br  bA    -     -         1420 1420 2920 Ac Ad
+Conductor 944121346  8  1 Bf  -     -     -         2920   80    0 
+Conductor 944121385  8  8 f   -     -     -         2840    0    0 
+Conductor 944121430  8  7 f   -     -     -         2840    0    0 
+Conductor 944121476  8  6 f   -     -     -         2840    0    0 
+Conductor 944121507  8  5 f   -     -     -         2840    0    0 
+Conductor 944121543  7  3 f   -     -     -         2840    0    0 
+Conductor 944121582  6  3 f   -     -     -         2840    0    0 
+Conductor 944121602  6  2 Bf  -     -     -         2840  320    0 
+Conductor 944121618  6  1 Bf  -     -     -         2520  160    0 
+Conductor 944121662  5  5 f   -     -     -         2360    0    0 
+Conductor 944121685  5  4 f   -     -     -         2360    0    0 
+Conductor 944121699  5  3 f   -     -     -         2360    0    0 
+Conductor 944121725  5  2 Bf  -     -     -         2360  320    0 
+Conductor 944121740  5  1 Bf  -     -     -         2040  160    0 
+Conductor 944121751  5  5 f   -     -     -         1880    0    0 
+Conductor 944121769  5  4 f   -     -     -         1880    0    0 
+Conductor 944121787  5  3 c   f     -     -         1880  320    0 
+Conductor 944121818  5  2 B   -     -     -         1560  640  960 
+Conductor 944121827  5  1 B   -     -     -         1880  320  600 Ad 8d
+Conductor 944121832  4  4 f   -     -     -         2160    0    0 
+Conductor 944121844  4  4 c   b     -     -         2160 1440 2400 
+Conductor 944121865  4  3 f   -     -     -         3120    0    0 
+Conductor 944121879  4  2 B   -     -     -         3120  640  960 
+Conductor 944121885  4  1 Bc  k     b     -         3440 1280 1920 
+Conductor 944121923  4  4 f   -     -     -         4080    0    0 
+Conductor 944121940  4  3 c   b     -     -         4080 1440 2400 
+Conductor 944121974  4  2 Bf  -     -     -         5040  640    0 
+Conductor 944121987  4  1 Bcc -     -     -         4400 1760    0 As Kh
+Conductor 944122001  4  4 f   -     -     -         2640    0    0 
+Conductor 944122057  4  3 f   -     -     -         2640    0    0 
+Conductor 944122068  4  2 Bf  -     -     -         2640  640    0 
+Conductor 944122088  4  1 Bf  -     -     -         2000  320    0 
+Conductor 944122102  4  4 f   -     -     -         1680    0    0 
+Conductor 944122108  4  3 f   -     -     -         1680    0    0 
+Conductor 944122120  4  2 B   -     -     -         1680  640  960 
+Conductor 944122125  4  1 Bf  -     -     -         2000  320    0 
+Conductor 944122132  4  4 f   -     -     -         1680    0    0 
+Conductor 944122143  4  3 f   -     -     -         1680    0    0 
+Conductor 944122161  4  2 BcA -     -     -         1680 1680    0 Jc 4d
+Conductor 944171738 10  5 f   -     -     -         5000    0    0 
+Conductor 944171796  9  4 f   -     -     -         5000    0    0 
+Conductor 944171839  9  3 f   -     -     -         5000    0    0 
+Conductor 944171909  9  2 Bk  kf    -     -         5000   40    0 
+Conductor 944171964  9  1 Bf  -     -     -         4960   20    0 
+Conductor 944172000  9  9 f   -     -     -         4940    0    0 
+Conductor 944172038  9  8 f   -     -     -         4940    0    0 
+Conductor 944172112  7  6 f   -     -     -         4940    0    0 
+Conductor 944172193  6  5 f   -     -     -         4940    0    0 
+Conductor 944172240  6  4 f   -     -     -         4940    0    0 
+Conductor 944172293  6  3 f   -     -     -         4940    0    0 
+Conductor 944172331  6  2 Bk  br    bA    -         4940 4940    0 8c 7s
+Conductor 944195430 21  5 f   -     -     -         5000    0    0 
+Conductor 944195656 21  4 f   -     -     -         5000    0    0 
+Conductor 944195764 21  3 f   -     -     -         5000    0    0 
+Conductor 944195856 21  2 Bk  kf    -     -         5000   30    0 
+Conductor 944195988 21  1 Bf  -     -     -         4970   15    0 
+Conductor 944196096 21 21 f   -     -     -         4955    0    0 
+Conductor 944196222 21 20 f   -     -     -         4955    0    0 
+Conductor 944196385 19 17 f   -     -     -         4955    0    0 
+Conductor 944196470 16 14 f   -     -     -         4955    0    0 
+Conductor 944196609 16 13 f   -     -     -         4955    0    0 
+Conductor 944196732 15 11 f   -     -     -         4955    0    0 
+Conductor 944196846 15 10 f   -     -     -         4955    0    0 
+Conductor 944196961 15  9 f   -     -     -         4955    0    0 
+Conductor 944197082 15  8 f   -     -     -         4955    0    0 
+Conductor 944197160 15  7 f   -     -     -         4955    0    0 
+Conductor 944197221 15  6 f   -     -     -         4955    0    0 
+Conductor 944197279 15  5 f   -     -     -         4955    0    0 
+Conductor 944197325 15  4 f   -     -     -         4955    0    0 
+Conductor 944197350 15  3 f   -     -     -         4955    0    0 
+Conductor 944197450 15  2 Bc  k     kf    -         4955  660    0 
+Conductor 944197557 14  1 Bc  kf    -     -         4295  120    0 
+Conductor 944197605 14 14 f   -     -     -         4175    0    0 
+Conductor 944197687 14 13 f   -     -     -         4175    0    0 
+Conductor 944197747 13 11 f   -     -     -         4175    0    0 
+Conductor 944197806 13 10 f   -     -     -         4175    0    0 
+Conductor 944197875 13  9 f   -     -     -         4175    0    0 
+Conductor 944197920 13  8 f   -     -     -         4175    0    0 
+Conductor 944197989 12  6 f   -     -     -         4175    0    0 
+Conductor 944198045 12  5 f   -     -     -         4175    0    0 
+Conductor 944198068 12  4 cf  -     -     -         4175  480    0 
+Conductor 944198143 10  3 f   -     -     -         3695    0    0 
+Conductor 944198172  9  2 Bc  kf    -     -         3695 1680    0 
+Conductor 944198209  9  1 Bcc k     k     k         2015 1440    0 Jc 9d
+Conductor 944198253  9  9 f   -     -     -          575    0    0 
+Conductor 944198287  9  8 f   -     -     -          575    0    0 
+Conductor 944198306  9  7 f   -     -     -          575    0    0 
+Conductor 944198341  9  6 cA  -     -     -          575  575    0 Qd Jd
+Conductor 944199374 21 13 f   -     -     -         5000    0    0 
+Conductor 944199546 20 11 f   -     -     -         5000    0    0 
+Conductor 944199710 20 10 cc  kf    -     -         5000  375    0 
+Conductor 944199817 20  9 f   -     -     -         4625    0    0 
+Conductor 944199889 20  8 f   -     -     -         4625    0    0 
+Conductor 944199993 19  6 c   f     -     -         4625  100    0 
+Conductor 944200130 19  5 f   -     -     -         4525    0    0 
+Conductor 944200228 19  4 f   -     -     -         4525    0    0 
+Conductor 944200278 19  3 f   -     -     -         4525    0    0 
+Conductor 944200349 19  2 Bk  kf    -     -         4525  200    0 
+Conductor 944200492 19  1 Bf  -     -     -         4325  100    0 
+Conductor 944200575 19 19 f   -     -     -         4225    0    0 
+Conductor 944200657 19 18 c   f     -     -         4225  400    0 
+Conductor 944200745 18 16 c   k     k     k         3825  400    0 8h 8s
+Conductor 944200816 18 15 f   -     -     -         3425    0    0 
+Conductor 944200854 16 13 f   -     -     -         3425    0    0 
+Conductor 944200907 15 11 f   -     -     -         3425    0    0 
+Conductor 944200972 15 10 f   -     -     -         3425    0    0 
+Conductor 944201016 14  9 f   -     -     -         3425    0    0 
+Conductor 944201094 14  8 f   -     -     -         3425    0    0 
+Conductor 944201178 14  7 f   -     -     -         3425    0    0 
+Conductor 944201272 14  6 c   k     bA    -         3425 3425 13075 Kd Qs
+Conductor 944201370 14  5 f   -     -     -        13075    0    0 
+Conductor 944201408 14  4 f   -     -     -        13075    0    0 
+Conductor 944201450 14  3 f   -     -     -        13075    0    0 
+Conductor 944201498 14  2 Bc  k     k     kc       13075 9125    0 8d Ad
+Conductor 944201614 13  1 Bf  -     -     -         3950  800    0 
+Conductor 944201709 13 13 f   -     -     -         3150    0    0 
+Conductor 944201786 13 12 f   -     -     -         3150    0    0 
+Conductor 944201824 11  9 f   -     -     -         3150    0    0 
+Conductor 944201844 11  9 f   -     -     -         3150    0    0 
+Conductor 944201887 11  8 f   -     -     -         3150    0    0 
+Conductor 944201916 10  7 cA  -     -     -         3150 3150 11050 Ah 3h
+Conductor 944201965 10  6 f   -     -     -        11050    0    0 
+Conductor 944201996 10  5 f   -     -     -        11050    0    0 
+Conductor 944202039  9  4 f   -     -     -        11050    0    0 
+Conductor 944202110  8  2 f   -     -     -        11050    0    0 
+Conductor 944202143  8  2 Bf  -     -     -        11050 3200    0 
+Conductor 944202165  8  1 Bf  -     -     -         7850 1600    0 
+Conductor 944202181  8  8 f   -     -     -         6250    0    0 
+Conductor 944202208  7  6 f   -     -     -         6250    0    0 
+Conductor 944202245  7  5 f   -     -     -         6250    0    0 
+Conductor 944202269  5  3 f   -     -     -         6250    0    0 
+Conductor 944202301  4  2 cA  -     -     -         6250 6250    0 As 4d
+Conductor 944207547  9  5 f   -     -     -         7000    0    0 
+Conductor 944207613  9  4 f   -     -     -         7000    0    0 
+Conductor 944207648  9  3 f   -     -     -         7000    0    0 
+Conductor 944207685  9  2 Bf  -     -     -         7000   70    0 
+Conductor 944207758  9  1 Bcf -     -     -         6930   70    0 
+Conductor 944207815  9  9 f   -     -     -         6860    0    0 
+Conductor 944207882  9  8 f   -     -     -         6860    0    0 
+Conductor 944207973  9  7 f   -     -     -         6860    0    0 
+Conductor 944208035  9  6 f   -     -     -         6860    0    0 
+Conductor 944208091  9  5 f   -     -     -         6860    0    0 
+Conductor 944208128  9  4 f   -     -     -         6860    0    0 
+Conductor 944208186  9  3 f   -     -     -         6860    0    0 
+Conductor 944208237  9  2 Bf  -     -     -         6860  140    0 
+Conductor 944208295  9  1 Bf  -     -     -         6720   70    0 
+Conductor 944208342  8  8 f   -     -     -         6650    0    0 
+Conductor 944208417  8  7 f   -     -     -         6650    0    0 
+Conductor 944208455  8  6 f   -     -     -         6650    0    0 
+Conductor 944208504  8  5 f   -     -     -         6650    0    0 
+Conductor 944208540  7  3 f   -     -     -         6650    0    0 
+Conductor 944208564  7  3 cc  kf    -     -         6650 1260    0 
+Conductor 944208608  7  2 Bk  k     kf    -         5390  280    0 
+Conductor 944208652  7  1 Bc  b     b     bA        5110 5110    0 Qs Js
+Conductor 944536017 23 17 f   -     -     -         5000    0    0 
+Conductor 944536128 20 13 f   -     -     -         5000    0    0 
+Conductor 944536187 18 11 f   -     -     -         5000    0    0 
+Conductor 944536288 18 11 f   -     -     -         5000    0    0 
+Conductor 944536371 17  9 f   -     -     -         5000    0    0 
+Conductor 944536435 17  8 f   -     -     -         5000    0    0 
+Conductor 944536535 17  7 f   -     -     -         5000    0    0 
+Conductor 944536603 17  6 f   -     -     -         5000    0    0 
+Conductor 944536664 17  5 f   -     -     -         5000    0    0 
+Conductor 944536718 17  4 f   -     -     -         5000    0    0 
+Conductor 944536821 16  3 c   f     -     -         5000  200    0 
+Conductor 944536917 16  2 Bf  -     -     -         4800  200    0 
+Conductor 944536998 16  1 Bf  -     -     -         4600  100    0 
+Conductor 944537047 16 16 f   -     -     -         4500    0    0 
+Conductor 944537131 16 15 f   -     -     -         4500    0    0 
+Conductor 944537245 16 14 f   -     -     -         4500    0    0 
+Conductor 944537393 16 13 f   -     -     -         4500    0    0 
+Conductor 944537492 16 12 f   -     -     -         4500    0    0 
+Conductor 944537560 16 11 f   -     -     -         4500    0    0 
+Conductor 944537632 16 10 f   -     -     -         4500    0    0 
+Conductor 944537696 15  8 c   f     -     -         4500 1000    0 
+Conductor 944537759 14  6 f   -     -     -         3500    0    0 
+Conductor 944537833 14  5 f   -     -     -         3500    0    0 
+Conductor 944537883 14  4 f   -     -     -         3500    0    0 
+Conductor 944537967 13  2 f   -     -     -         3500    0    0 
+Conductor 944538029 12  2 Bk  f     -     -         3500 1600    0 
+Conductor 944538067 12  1 Bf  -     -     -         1900  800    0 
+Conductor 944538116 12 12 f   -     -     -         1100    0    0 
+Conductor 944538190 12 11 cA  -     -     -         1100 1100    0 7d 6d
+Conductor 944637829 12  9 f   -     -     -        10000    0    0 
+Conductor 944637999 12  8 f   -     -     -        10000    0    0 
+Conductor 944638054 12  7 f   -     -     -        10000    0    0 
+Conductor 944638120 11  5 f   -     -     -        10000    0    0 
+Conductor 944638200 11  4 f   -     -     -        10000    0    0 
+Conductor 944638251  8  2 cc  k     kc    kc       10000 3200    0 Jd Kd
+Conductor 944638331  8  2 Bc  kf    -     -         6800  360    0 
+Conductor 944638389  8  1 Bf  -     -     -         6440   40    0 
+Conductor 944638411  8  8 f   -     -     -         6400    0    0 
+Conductor 944638493  8  7 f   -     -     -         6400    0    0 
+Conductor 944638531  8  6 f   -     -     -         6400    0    0 
+Conductor 944638574  7  4 f   -     -     -         6400    0    0 
+Conductor 944638628  7  3 f   -     -     -         6400    0    0 
+Conductor 944638669  7  2 Bf  -     -     -         6400  160    0 
+Conductor 944638747  7  1 Bf  -     -     -         6240   80    0 
+Conductor 944638789  7  7 f   -     -     -         6160    0    0 
+Conductor 944638867  6  5 f   -     -     -         6160    0    0 
+Conductor 944638898  6  4 c   b     -     -         6160 1280 1920 
+Conductor 944638932  6  3 f   -     -     -         6800    0    0 
+Conductor 944638967  6  2 B   -     -     -         6800  320  480 
+Conductor 944638975  6  1 Bc  kf    -     -         6960 1120    0 
+Conductor 944639033  6  6 f   -     -     -         5840    0    0 
+Conductor 944639101  6  5 f   -     -     -         5840    0    0 
+Conductor 944639115  6  4 f   -     -     -         5840    0    0 
+Conductor 944639158  6  3 f   -     -     -         5840    0    0 
+Conductor 944639186  6  2 Bk  kf    -     -         5840  640    0 
+Conductor 944639250  6  1 Bf  -     -     -         5200  320    0 
+Conductor 944639269  6  6 c   b     bA    -         4880 4880 10080 7c Ac
+Conductor 944639302  6  5 f   -     -     -        10080    0    0 
+Conductor 944639341  6  4 f   -     -     -        10080    0    0 
+Conductor 944639391  4  2 f   -     -     -        10080    0    0 
+Conductor 944639420  4  2 Br  k     bcA   -        10080 10080 20480 8h Th
+Conductor 944639466  4  1 Bf  -     -     -        20480  320    0 
+Conductor 944639479  4  4 c   b     -     -        20160 2560 3840 
+Conductor 944639504  4  3 f   -     -     -        21440    0    0 
+Conductor 944639517  4  2 B   -     -     -        21440 1280 1920 
+Conductor 944639522  4  1 Bf  -     -     -        22080  640    0 
+Conductor 944639528  4  4 c   f     -     -        21440 1280    0 
+Conductor 944639548  4  3 c   b     -     -        20160 4480 6400 
+Conductor 944639562  4  2 B   -     -     -        22080 1280 1920 
+Conductor 944639566  4  1 Bf  -     -     -        22720  640    0 
+Conductor 944639574  4  4 f   -     -     -        22080    0    0 
+Conductor 944639588  4  3 f   -     -     -        22080    0    0 
+Conductor 944639595  4  2 B   -     -     -        22080 1280 1920 
+Conductor 944639605  4  1 Bc  b     b     -        22720 7680 10240 
+Conductor 944639644  4  4 f   -     -     -        25280    0    0 
+Conductor 944639651  4  3 f   -     -     -        25280    0    0 
+Conductor 944639669  4  2 Bk  kf    -     -        25280 1280    0 
+Conductor 944639692  4  1 Bc  b     b     bcA      24000 24000    0 Kc Qh
+Conductor 944648487  8  3 f   -     -     -        10000    0    0 
+Conductor 944648545  8  2 Bk  kf    -     -        10000   50    0 
+Conductor 944648598  8  1 Bc  b     -     -         9950  375  600 
+Conductor 944648642  8  8 f   -     -     -        10175    0    0 
+Conductor 944648676  8  7 f   -     -     -        10175    0    0 
+Conductor 944648737  8  6 f   -     -     -        10175    0    0 
+Conductor 944648782  8  5 f   -     -     -        10175    0    0 
+Conductor 944648821  8  4 f   -     -     -        10175    0    0 
+Conductor 944648870  8  3 f   -     -     -        10175    0    0 
+Conductor 944648896  8  2 Bk  k     k     f        10175  100    0 
+Conductor 944648955  8  1 Bcc kf    -     -        10075  200    0 
+Conductor 944649034  8  8 f   -     -     -         9875    0    0 
+Conductor 944649057  8  7 cf  -     -     -         9875  100    0 
+Conductor 944649151  8  6 f   -     -     -         9775    0    0 
+Conductor 944649170  8  5 f   -     -     -         9775    0    0 
+Conductor 944649233  8  4 f   -     -     -         9775    0    0 
+Conductor 944649272  8  3 f   -     -     -         9775    0    0 
+Conductor 944649317  8  2 Bk  k     k     k         9775  200    0 3s 6h
+Conductor 944649357  8  1 Bf  -     -     -         9575  100    0 
+Conductor 944649385  8  8 c   f     -     -         9475  200    0 
+Conductor 944649446  8  7 c   f     -     -         9275  200    0 
+Conductor 944649518  8  6 cf  -     -     -         9075  400    0 
+Conductor 944649541  8  5 f   -     -     -         8675    0    0 
+Conductor 944649602  8  4 cf  -     -     -         8675  400    0 
+Conductor 944649634  8  3 f   -     -     -         8275    0    0 
+Conductor 944649657  8  2 Bk  k     f     -         8275  400    0 
+Conductor 944649717  8  1 Bc  kf    -     -         7875  400    0 
+Conductor 944649771  8  8 f   -     -     -         7475    0    0 
+Conductor 944649809  8  7 f   -     -     -         7475    0    0 
+Conductor 944649857  8  6 f   -     -     -         7475    0    0 
+Conductor 944649885  7  4 f   -     -     -         7475    0    0 
+Conductor 944649935  7  3 c   k     f     -         7475  800    0 
+Conductor 944649989  7  2 Bk  b     bA    -         6675 6675 7475 8h 7d
+Conductor 944650026  7  1 Bf  -     -     -         7475  400    0 
+Conductor 944650051  7  7 f   -     -     -         7075    0    0 
+Conductor 944650075  7  6 c   kf    -     -         7075  800    0 
+Conductor 944650123  7  5 f   -     -     -         6275    0    0 
+Conductor 944650158  7  4 f   -     -     -         6275    0    0 
+Conductor 944650188  7  3 cf  -     -     -         6275 1600    0 
+Conductor 944650215  6  2 Bk  k     f     -         4675 1600    0 
+Conductor 944650265  6  1 Bc  k     k     kf        3075 1600    0 
+Conductor 944650320  6  6 f   -     -     -         1475    0    0 
+Conductor 944650356  6  5 cA  -     -     -         1475 1475    0 Jc Qd
+Conductor 944813469  6  2 Bf  -     -     -         5000   50    0 
+Conductor 944813483  6  1 Bc  krcA  -     -         4950 4950 10075 Ah Ks
+Conductor 944813544  6  6 f   -     -     -        10075    0    0 
+Conductor 944813560  6  5 c   f     -     -        10075   50    0 
+Conductor 944813589  6  4 f   -     -     -        10025    0    0 
+Conductor 944813638  6  3 f   -     -     -        10025    0    0 
+Conductor 944813657  6  2 Bf  -     -     -        10025   50    0 
+Conductor 944813675  6  1 Bc  k     kf    -         9975   50    0 
+Conductor 944813705  6  6 f   -     -     -         9925    0    0 
+Conductor 944813714  6  5 f   -     -     -         9925    0    0 
+Conductor 944813723  6  4 f   -     -     -         9925    0    0 
+Conductor 944813745  6  3 c   b     -     -         9925  125  225 
+Conductor 944813765  6  2 Bf  -     -     -        10025   50    0 
+Conductor 944813802  6  1 Bf  -     -     -         9975   50    0 
+Conductor 944813829  6  6 f   -     -     -         9925    0    0 
+Conductor 944813847  6  5 c   kf    -     -         9925  100    0 
+Conductor 944813880  6  4 f   -     -     -         9825    0    0 
+Conductor 944813889  6  3 f   -     -     -         9825    0    0 
+Conductor 944813936  6  2 Bf  -     -     -         9825  100    0 
+Conductor 944813952  6  1 Bf  -     -     -         9725   50    0 
+Conductor 944813973  6  6 f   -     -     -         9675    0    0 
+Conductor 944813987  6  5 f   -     -     -         9675    0    0 
+Conductor 944814015  6  4 c   k     f     -         9675  100    0 
+Conductor 944814053  6  3 cf  -     -     -         9575  100    0 
+Conductor 944814079  6  2 Bf  -     -     -         9475  100    0 
+Conductor 944814099  6  1 Bc  kf    -     -         9375  100    0 
+Conductor 944814139  6  6 f   -     -     -         9275    0    0 
+Conductor 944814156  6  5 f   -     -     -         9275    0    0 
+Conductor 944814171  6  4 f   -     -     -         9275    0    0 
+Conductor 944814194  6  3 cc  -     -     -         9275 4825 3550 Kh As
+Conductor 944814218  5  2 Bf  -     -     -         8000  200    0 
+Conductor 944814243  5  1 Bf  -     -     -         7800  100    0 
+Conductor 944814277  5  5 c   k     k     b         7700  700 1000 
+Conductor 944814333  5  4 c   kf    -     -         8000  200    0 
+Conductor 944814380  5  3 f   -     -     -         7800    0    0 
+Conductor 944814416  5  2 Bc  k     b     bcA       7800 7800    0 9c 9d
+Conductor 944815412  6  1 Bc  k     b     -         5000  150  200 
+Conductor 944815443  6  6 f   -     -     -         5050    0    0 
+Conductor 944815460  6  5 f   -     -     -         5050    0    0 
+Conductor 944815494  6  4 f   -     -     -         5050    0    0 
+Conductor 944815531  6  3 f   -     -     -         5050    0    0 
+Conductor 944815558  6  2 Bk  kf    -     -         5050   50    0 
+Conductor 944815600  6  1 Bf  -     -     -         5000   25    0 
+Conductor 944815627  6  6 f   -     -     -         4975    0    0 
+Conductor 944815661  6  5 f   -     -     -         4975    0    0 
+Conductor 944815677  6  4 c   kf    -     -         4975   50    0 
+Conductor 944815723  6  3 cc  b     -     -         4925 1175 2175 
+Conductor 944815763  6  2 Bk  kf    -     -         5925  100    0 
+Conductor 944815800  6  1 Bf  -     -     -         5825   50    0 
+Conductor 944815827  6  6 f   -     -     -         5775    0    0 
+Conductor 944815841  6  5 c   c     c     bA        5775 5775 4700 Kc 7c
+Conductor 944815892  6  4 cc  kf    -     -         4700  125    0 
+Conductor 944815953  5  2 cc  kr    -     -         4575 4000 5400 
+Conductor 944816002  5  2 Bf  -     -     -         5975  100    0 
+Conductor 944816024  4  1 Bc  b     -     -         5875  600  800 
+Conductor 944816051  4  4 f   -     -     -         6075    0    0 
+Conductor 944816083  4  3 c   k     f     -         6075  200    0 
+Conductor 944816111  4  2 Bk  k     b     -         5875  700 1000 
+Conductor 944816139  4  1 Bf  -     -     -         6175  100    0 
+Conductor 944816165  3  3 f   -     -     -         6075    0    0 
+Conductor 944816182  3  3 f   -     -     -         6075    0    0 
+Conductor 944816194  3  2 Bf  -     -     -         6075  200    0 
+Conductor 944816225  3  1 Bf  -     -     -         5875  100    0 
+Conductor 944816238  3  3 cf  -     -     -         5775  200    0 
+Conductor 944816256  3  2 Bc  kf    -     -         5575  700    0 
+Conductor 944816278  3  1 Bf  -     -     -         4875  100    0 
+Conductor 944816284  3  3 f   -     -     -         4775    0    0 
+Conductor 944816287  3  2 Bk  k     k     k         4775  200  500 6d 5d
+Conductor 944816306  3  1 Bc  kf    -     -         5075  200    0 
+Conductor 944816324  3  3 c   r     -     -         4875 2200 3000 
+Conductor 944816344  3  2 Bf  -     -     -         5675  400    0 
+Conductor 944816356  3  1 Bf  -     -     -         5275  200    0 
+Conductor 944816361  3  3 f   -     -     -         5075    0    0 
+Conductor 944816377  3  2 Bk  kf    -     -         5075  400    0 
+Conductor 944816398  3  1 Bf  -     -     -         4675  200    0 
+Conductor 944816425  3  3 f   -     -     -         4475    0    0 
+Conductor 944816443  3  2 Bf  -     -     -         4475  400    0 
+Conductor 944816458  3  1 Bf  -     -     -         4075  200    0 
+Conductor 944816468  3  3 f   -     -     -         3875    0    0 
+Conductor 944816484  3  2 Bk  c     cA    -         3875 3875    0 3h Jh
+Conductor 945184748 11  5 f   -     -     -         5000    0    0 
+Conductor 945184875 10  3 f   -     -     -         5000    0    0 
+Conductor 945184995 10  2 Bf  -     -     -         5000   20    0 
+Conductor 945185079 10  1 Bf  -     -     -         4980   10    0 
+Conductor 945185179 10 10 f   -     -     -         4970    0    0 
+Conductor 945185338  9  8 f   -     -     -         4970    0    0 
+Conductor 945185391  9  7 f   -     -     -         4970    0    0 
+Conductor 945185451  9  6 f   -     -     -         4970    0    0 
+Conductor 945185523  9  5 f   -     -     -         4970    0    0 
+Conductor 945185560  9  4 f   -     -     -         4970    0    0 
+Conductor 945185629  9  3 f   -     -     -         4970    0    0 
+Conductor 945185673  9  2 Bf  -     -     -         4970   80    0 
+Conductor 945185773  9  1 Bf  -     -     -         4890   40    0 
+Conductor 945185802  9  9 f   -     -     -         4850    0    0 
+Conductor 945185914  9  8 f   -     -     -         4850    0    0 
+Conductor 945185939  9  7 f   -     -     -         4850    0    0 
+Conductor 945186002  9  6 f   -     -     -         4850    0    0 
+Conductor 945186081  9  5 f   -     -     -         4850    0    0 
+Conductor 945186139  9  4 f   -     -     -         4850    0    0 
+Conductor 945186205  9  3 f   -     -     -         4850    0    0 
+Conductor 945186283  8  1 Bf  -     -     -         4850  320    0 
+Conductor 945186347  7  1 Bf  -     -     -         4530  160    0 
+Conductor 945186410  7  7 f   -     -     -         4370    0    0 
+Conductor 945186506  7  6 c   b     b     -         4370 2560 4800 
+Conductor 945186573  7  5 f   -     -     -         6610    0    0 
+Conductor 945186614  7  4 f   -     -     -         6610    0    0 
+Conductor 945186740  7  3 f   -     -     -         6610    0    0 
+Conductor 945186777  7  2 Bk  k     kf    -         6610  640    0 
+Conductor 945186845  7  1 Bf  -     -     -         5970  320    0 
+Conductor 945186876  6  6 f   -     -     -         5650    0    0 
+Conductor 945186914  6  5 f   -     -     -         5650    0    0 
+Conductor 945187003  6  4 f   -     -     -         5650    0    0 
+Conductor 945187034  6  3 f   -     -     -         5650    0    0 
+Conductor 945187049  6  2 Br  f     -     -         5650 1280    0 
+Conductor 945187092  6  1 Bf  -     -     -         4370  640    0 
+Conductor 945187121  5  5 c   bA    -     -         3730 3730 5010 
+Conductor 945187152  5  5 f   -     -     -         5010    0    0 
+Conductor 945187181  4  3 c   b     -     -         5010 3840 5120 
+Conductor 945187214  4  3 f   -     -     -         6290    0    0 
+Conductor 945187253  4  2 B   -     -     -         6290 1280 1920 
+Conductor 945187265  4  1 Bf  -     -     -         6930  640    0 
+Conductor 945187281  4  4 c   b     -     -         6290 5120 7680 
+Conductor 945187316  4  3 f   -     -     -         8850    0    0 
+Conductor 945187324  4  2 Bk  k     k     k         8850 1280    0 Qh 7c
+Conductor 945187359  4  1 Bc  bA    -     -         7570 7570    0 8d Kd
+Conductor 945188256  8  2 Br  k     bf    -         5000  540    0 
+Conductor 945188326  8  1 Bf  -     -     -         4460   20    0 
+Conductor 945188371  8  8 c   k     c     b         4440  600  630 Kc Jh
+Conductor 945188426  7  6 f   -     -     -         4470    0    0 
+Conductor 945188445  7  6 f   -     -     -         4470    0    0 
+Conductor 945188487  7  5 f   -     -     -         4470    0    0 
+Conductor 945188525  7  4 f   -     -     -         4470    0    0 
+Conductor 945188561  7  3 c   b     b     -         4470 1120 1800 
+Conductor 945188635  7  2 Br  b     -     -         5150 1280 1920 
+Conductor 945188677  7  1 Bf  -     -     -         5790   40    0 
+Conductor 945188714  7  7 r   b     -     -         5750  610 1170 
+Conductor 945188758  7  6 f   -     -     -         6310    0    0 
+Conductor 945188806  7  5 f   -     -     -         6310    0    0 
+Conductor 945188845  7  4 f   -     -     -         6310    0    0 
+Conductor 945188891  7  3 f   -     -     -         6310    0    0 
+Conductor 945188943  7  2 Bf  -     -     -         6310   80    0 
+Conductor 945188970  7  1 Bc  b     -     -         6230  200  360 
+Conductor 945188998  7  7 f   -     -     -         6390    0    0 
+Conductor 945189024  7  6 f   -     -     -         6390    0    0 
+Conductor 945189083  7  5 f   -     -     -         6390    0    0 
+Conductor 945189113  7  4 f   -     -     -         6390    0    0 
+Conductor 945189155  7  3 f   -     -     -         6390    0    0 
+Conductor 945189240  7  2 Bk  k     kf    -         6390  160    0 
+Conductor 945189315  7  1 Bf  -     -     -         6230   80    0 
+Conductor 945189371  6  6 f   -     -     -         6150    0    0 
+Conductor 945189420  6  5 f   -     -     -         6150    0    0 
+Conductor 945189449  6  4 f   -     -     -         6150    0    0 
+Conductor 945189506  6  3 f   -     -     -         6150    0    0 
+Conductor 945189545  6  2 Bf  -     -     -         6150  320    0 
+Conductor 945189572  6  1 Bc  kf    -     -         5830  320    0 
+Conductor 945189614  6  6 f   -     -     -         5510    0    0 
+Conductor 945189635  6  5 f   -     -     -         5510    0    0 
+Conductor 945189693  6  4 f   -     -     -         5510    0    0 
+Conductor 945189751  6  3 f   -     -     -         5510    0    0 
+Conductor 945189798  4  2 Bf  -     -     -         5510  640    0 
+Conductor 945189825  4  1 Bf  -     -     -         4870  320    0 
+Conductor 945189837  4  4 f   -     -     -         4550    0    0 
+Conductor 945189853  3  2 f   -     -     -         4550    0    0 
+Conductor 945189875  3  2 Bf  -     -     -         4550  640    0 
+Conductor 945189883  3  1 Bf  -     -     -         3910  320    0 
+Conductor 945189900  3  3 c   b     -     -         3590 2240 3200 
+Conductor 945189937  3  2 B   -     -     -         4550  640  960 
+Conductor 945189951  3  1 Bc  bcA   -     -         4870 4870 4870 Jc 9h
+Conductor 945189980  3  3 f   -     -     -         4870    0    0 
+Conductor 945190019  3  2 B   -     -     -         4870  640  960 
+Conductor 945190033  3  1 Bc  b     -     -         5190 1920 2560 
+Conductor 945190064  3  3 f   -     -     -         5830    0    0 
+Conductor 945190091  3  2 B   -     -     -         5830  640  960 
+Conductor 945190097  3  1 Bf  -     -     -         6150  320    0 
+Conductor 945190137  3  3 cf  -     -     -         5830 1280    0 
+Conductor 945190173  3  2 B   -     -     -         4550 1280 1920 
+Conductor 945190190  3  1 Bf  -     -     -         5190  640    0 
+Conductor 945190205  3  3 f   -     -     -         4550    0    0 
+Conductor 945190223  3  2 B   -     -     -         4550 1280 1920 
+Conductor 945190227  3  1 Bf  -     -     -         5190  640    0 
+Conductor 945190250  3  3 c   rA    -     -         4550 4550    0 Qd Qs
+Conductor 945190790  6  6 f   -     -     -        10000    0    0 
+Conductor 945190863  6  5 f   -     -     -        10000    0    0 
+Conductor 945190943  6  4 f   -     -     -        10000    0    0 
+Conductor 945190988  6  3 rc  b     -     -        10000 1525 2775 
+Conductor 945191021  6  2 Bf  -     -     -        11250   50    0 
+Conductor 945191047  6  1 Bc  b     -     -        11200  200  300 
+Conductor 945191081  6  6 f   -     -     -        11300    0    0 
+Conductor 945191110  6  5 r   b     -     -        11300  800 1150 
+Conductor 945191145  6  4 f   -     -     -        11650    0    0 
+Conductor 945191180  5  3 r   b     b     k        11650 4750 9900 Ac Js
+Conductor 945191235  5  2 Bf  -     -     -        16800  100    0 
+Conductor 945191274  5  1 Bf  -     -     -        16700   50    0 
+Conductor 945191311  5  5 c   b     b     -        16650 1700 2400 
+Conductor 945191372  5  4 f   -     -     -        17350    0    0 
+Conductor 945191417  5  3 r   bc    c     c        17350 16750    0 8c 8s
+Conductor 945191498  5  2 Bk  kcA   -     -          600  600 1300 7s 4s
+Conductor 945191559  5  1 BccA -     -     -         1300 1300 5200 2d 2h
+Conductor 945191595  5  5 f   -     -     -         5200    0    0 
+Conductor 945191669  5  4 cc  kf    -     -         5200  900    0 
+Conductor 945191737  5  3 r   f     -     -         4300  700    0 
+Conductor 945191770  5  2 Bf  -     -     -         3600  200    0 
+Conductor 945191786  5  1 Bf  -     -     -         3400  100    0 
+Conductor 945191827  5  5 f   -     -     -         3300    0    0 
+Conductor 945191846  5  4 f   -     -     -         3300    0    0 
+Conductor 945191866  5  3 r   bcA   -     -         3300 3300 7400 6d 6s
+Conductor 945191897  5  2 Bf  -     -     -         7400  200    0 
+Conductor 945191928  4  1 Bf  -     -     -         7200  200    0 
+Conductor 945191946  4  4 f   -     -     -         7000    0    0 
+Conductor 945191963  4  3 rrA -     -     -         7000 7000 14600 8h 8d
+Conductor 945192002  4  2 Bk  kf    -     -        14600  400    0 
+Conductor 945192038  4  1 Bf  -     -     -        14200  200    0 
+Conductor 945192054  4  4 f   -     -     -        14000    0    0 
+Conductor 945192089  4  3 f   -     -     -        14000    0    0 
+Conductor 945192102  4  2 Bf  -     -     -        14000  400    0 
+Conductor 945192118  4  1 Bf  -     -     -        13600  200    0 
+Conductor 945192140  4  4 f   -     -     -        13400    0    0 
+Conductor 945192159  3  3 f   -     -     -        13400    0    0 
+Conductor 945192180  3  2 Bf  -     -     -        13400  400    0 
+Conductor 945192194  3  1 Bf  -     -     -        13000  200    0 
+Conductor 945192239  3  3 f   -     -     -        12800    0    0 
+Conductor 945192250  3  2 Bf  -     -     -        12800  400    0 
+Conductor 945192261  3  1 Bf  -     -     -        12400  200    0 
+Conductor 945192268  3  3 f   -     -     -        12200    0    0 
+Conductor 945192298  3  2 Bf  -     -     -        12200  800    0 
+Conductor 945192310  3  1 Bf  -     -     -        11400  400    0 
+Conductor 945192326  3  3 f   -     -     -        11000    0    0 
+Conductor 945192340  3  2 Bf  -     -     -        11000  800    0 
+Conductor 945192349  3  1 Bf  -     -     -        10200  400    0 
+Conductor 945192365  3  3 f   -     -     -         9800    0    0 
+Conductor 945192380  3  2 BrcA -     -     -         9800 9800    0 Ad 5d
+Conductor 945193477  8  6 r   b     b     -        10000 8050 11400 
+Conductor 945193546  7  4 f   -     -     -        13350    0    0 
+Conductor 945193576  7  3 f   -     -     -        13350    0    0 
+Conductor 945193635  7  2 Bf  -     -     -        13350  100    0 
+Conductor 945193657  6  1 Bf  -     -     -        13250   50    0 
+Conductor 945193800  6  6 f   -     -     -        13200    0    0 
+Conductor 945193822  6  5 f   -     -     -        13200    0    0 
+Conductor 945193960  6  4 f   -     -     -        13200    0    0 
+Conductor 945194007  5  3 f   -     -     -        13200    0    0 
+Conductor 945194059  5  2 Bk  k     k     kf       13200  200    0 
+Conductor 945194098  5  1 Bc  kf    -     -        13000  200    0 
+Conductor 945194143  5  5 rc  f     -     -        12800 1600    0 
+Conductor 945194207  5  4 f   -     -     -        11200    0    0 
+Conductor 945194220  5  3 f   -     -     -        11200    0    0 
+Conductor 945194257  5  2 Bf  -     -     -        11200  200    0 
+Conductor 945194336  5  1 Bc  kf    -     -        11000  400    0 
+Conductor 945194389  5  5 r   b     -     -        10600 2900 4500 
+Conductor 945194428  5  4 rrA -     -     -        12200 12200 25200 As Ad
+Conductor 945194500  5  3 f   -     -     -        25200    0    0 
+Conductor 945194557  5  2 Bk  b     -     -        25200 1600 2400 
+Conductor 945194601  5  1 Br  kf    -     -        26000 1600    0 
+Conductor 945194635  5  5 f   -     -     -        24400    0    0 
+Conductor 945194643  5  4 r   -     -     -        24400 1800 2800 
+Conductor 945194657  5  3 f   -     -     -        25400    0    0 
+Conductor 945194686  5  2 Bk  k     kf    -        25400  400    0 
+Conductor 945194748  5  1 Bc  k     k     k        25000  800    0 Jh Kd
+Conductor 945194780  5  5 r   b     -     -        24200 8800 12000 
+Conductor 945194855  5  4 f   -     -     -        27400    0    0 
+Conductor 945194911  5  3 f   -     -     -        27400    0    0 
+Conductor 945194924  5  2 Bk  k     k     kf       27400  800    0 
+Conductor 945194967  5  1 Bf  -     -     -        26600  400    0 
+Conductor 945194981  5  5 f   -     -     -        26200    0    0 
+Conductor 945195004  5  4 cc  f     -     -        26200 2800    0 
+Conductor 945195046  5  3 f   -     -     -        23400    0    0 
+Conductor 945195070  5  2 Bk  k     f     -        23400  800    0 
+Conductor 945195107  5  1 Bc  bc    -     -        22600 8150    0 Td Qh
+Conductor 945195207  5  5 f   -     -     -        14450    0    0 
+Conductor 945195252  5  4 f   -     -     -        14450    0    0 
+Conductor 945195286  5  3 f   -     -     -        14450    0    0 
+Conductor 945195315  5  2 Bf  -     -     -        14450 1600    0 
+Conductor 945195328  5  1 Bf  -     -     -        12850  800    0 
+Conductor 945195346  5  5 r   -     -     -        12050 8800 20350 Tc Qs
+Conductor 945195368  4  3 f   -     -     -        23600    0    0 
+Conductor 945195427  4  2 Bf  -     -     -        23600 1600    0 
+Conductor 945195438  4  1 Bcf -     -     -        22000 1600    0 
+Conductor 945195455  4  4 r   b     -     -        20400 17600 4250 9s 9h
+Conductor 945195473  4  3 rcA -     -     -         7050 7050 16500 8d 8h
+Conductor 945195518  4  2 Bf  -     -     -        16500 1600    0 
+Conductor 945195564  4  1 Bc  k     b     -        14900 4800 6400 
+Conductor 945195591  4  4 f   -     -     -        16500    0    0 
+Conductor 945195598  4  3 f   -     -     -        16500    0    0 
+Conductor 945195641  4  2 Bk  k     k     kf       16500 3200    0 
+Conductor 945195691  4  1 Bc  kf    -     -        13300 3200    0 
+Conductor 945195716  4  4 f   -     -     -        10100    0    0 
+Conductor 945195738  4  3 f   -     -     -        10100    0    0 
+Conductor 945195753  4  2 B   -     -     -        10100 3200 4800 
+Conductor 945195762  4  1 BrcA -     -     -        11700 11700    0 Js Ts
+Conductor 945196529 10  6 f   -     -     -         7777    0    0 
+Conductor 945196637 10  5 f   -     -     -         7777    0    0 
+Conductor 945196658 10  4 f   -     -     -         7777    0    0 
+Conductor 945196708 10  3 f   -     -     -         7777    0    0 
+Conductor 945196758 10  2 Bk  kf    -     -         7777   70    0 
+Conductor 945196846 10  1 Bf  -     -     -         7707   35    0 
+Conductor 945196900 10 10 f   -     -     -         7672    0    0 
+Conductor 945196991 10  9 f   -     -     -         7672    0    0 
+Conductor 945197110 10  8 c   k     k     k         7672  140  630 9d 7d
+Conductor 945197175 10  7 f   -     -     -         8162    0    0 
+Conductor 945197222 10  6 f   -     -     -         8162    0    0 
+Conductor 945197300 10  5 f   -     -     -         8162    0    0 
+Conductor 945197347 10  4 f   -     -     -         8162    0    0 
+Conductor 945197419 10  3 f   -     -     -         8162    0    0 
+Conductor 945197488 10  2 Bk  kf    -     -         8162  280    0 
+Conductor 945197586  8  1 Bf  -     -     -         7882  280    0 
+Conductor 945197665  7  7 cf  -     -     -         7602  560    0 
+Conductor 945197703  7  6 f   -     -     -         7042    0    0 
+Conductor 945197770  7  5 f   -     -     -         7042    0    0 
+Conductor 945197816  6  4 f   -     -     -         7042    0    0 
+Conductor 945197883  6  3 f   -     -     -         7042    0    0 
+Conductor 945197957  6  2 Bk  kf    -     -         7042 1120    0 
+Conductor 945197986  6  1 Bc  b     -     -         5922 4480 6720 
+Conductor 945198023  6  6 f   -     -     -         8162    0    0 
+Conductor 945198081  6  5 f   -     -     -         8162    0    0 
+Conductor 945198114  6  4 f   -     -     -         8162    0    0 
+Conductor 945198186  6  3 r   -     -     -         8162 3920 5600 
+Conductor 945198202  6  2 Bf  -     -     -         9842 1120    0 
+Conductor 945198240  6  1 Bc  b     -     -         8722 4480 6720 
+Conductor 945198284  6  6 f   -     -     -        10962    0    0 
+Conductor 945198300  6  5 f   -     -     -        10962    0    0 
+Conductor 945198353  5  3 f   -     -     -        10962    0    0 
+Conductor 945198385  5  3 f   -     -     -        10962    0    0 
+Conductor 945198411  5  2 Bf  -     -     -        10962 2240    0 
+Conductor 945198435  5  1 Bc  b     -     -         8722 6720 8960 
+Conductor 945198458  5  5 f   -     -     -        10962    0    0 
+Conductor 945198514  5  4 f   -     -     -        10962    0    0 
+Conductor 945198528  5  3 f   -     -     -        10962    0    0 
+Conductor 945198538  5  2 B   -     -     -        10962 2240 3360 
+Conductor 945198550  5  1 Bf  -     -     -        12082 1120    0 
+Conductor 945198576  5  5 rcA -     -     -        10962 10962    0 Js Qs
+Conductor 945206566  9  9 f   -     -     -         5000    0    0 
+Conductor 945206599  9  8 f   -     -     -         5000    0    0 
+Conductor 945206651  8  6 r   rcA   -     -         5000 5000    0 Th 9h
+Conductor 945208159  9  2 Bk  b     -     -           15    7   10 
+Conductor 945208214  9  1 Bf  -     -     -           18    1    0 
+Conductor 945208248  9  9 f   -     -     -           17    0    0 
+Conductor 945208301  8  7 f   -     -     -           17    0    0 
+Conductor 945208346  6  6 f   -     -     -           17    0    0 
+Conductor 945208408  6  5 f   -     -     -           17    0    0 
+Conductor 945208462  6  4 f   -     -     -           17    0    0 
+Conductor 945208502  5  2 Bk  f     -     -           17    4    0 
+Conductor 945208557  5  1 Bf  -     -     -           13    2    0 
+Conductor 945208577  5  5 f   -     -     -           11    0    0 
+Conductor 945208617  4  3 f   -     -     -           11    0    0 
+Conductor 945208677  4  3 f   -     -     -           11    0    0 
+Conductor 945208747  4  2 Bk  k     f     -           11    8    0 
+Conductor 945208816  4  1 BA  -     -     -            3    3    9 7s 8d
+Conductor 945208853  4  4 Q   -     -     -            9    0    0 
+Conductor 945259326 10  7 f   -     -     -        10000    0    0 
+Conductor 945259372 10  6 f   -     -     -        10000    0    0 
+Conductor 945259451 10  5 f   -     -     -        10000    0    0 
+Conductor 945259548  9  4 f   -     -     -        10000    0    0 
+Conductor 945259587  9  3 f   -     -     -        10000    0    0 
+Conductor 945259677  9  2 Bf  -     -     -        10000  200    0 
+Conductor 945259724  9  1 Bf  -     -     -         9800  100    0 
+Conductor 945259773  9  9 f   -     -     -         9700    0    0 
+Conductor 945259836  9  8 c   b     b     b         9700 3600    0 Ts Qc
+Conductor 945259901  9  7 f   -     -     -         6100    0    0 
+Conductor 945259967  8  6 f   -     -     -         6100    0    0 
+Conductor 945260038  8  5 f   -     -     -         6100    0    0 
+Conductor 945260066  7  3 f   -     -     -         6100    0    0 
+Conductor 945260114  7  3 f   -     -     -         6100    0    0 
+Conductor 945260127  7  2 Bk  k     b     -         6100 1200 1600 
+Conductor 945260155  7  1 BrcA -     -     -         6500 6500 6700 Kd Ac
+Conductor 945260193  7  7 f   -     -     -         6700    0    0 
+Conductor 945260242  7  6 f   -     -     -         6700    0    0 
+Conductor 945260298  7  5 f   -     -     -         6700    0    0 
+Conductor 945260331  7  4 r   bcA   -     -         6700 6700    0 Js Qd
+Conductor 945262014  8  8 f   -     -     -          100    0    0 
+Conductor 945262068  7  6 r   b     -     -          100   98  152 
+Conductor 945262115  7  5 f   -     -     -          154    0    0 
+Conductor 945262189  5  4 rrA -     -     -          154  154    0 Jh 3c
+Conductor 945262517 11  9 f   -     -     -        10000    0    0 
+Conductor 945262565 11  8 f   -     -     -        10000    0    0 
+Conductor 945262635 11  7 f   -     -     -        10000    0    0 
+Conductor 945262676 11  6 rf  -     -     -        10000  138    0 
+Conductor 945262761 11  5 f   -     -     -         9862    0    0 
+Conductor 945262859 11  4 f   -     -     -         9862    0    0 
+Conductor 945262940 11  3 f   -     -     -         9862    0    0 
+Conductor 945262975 11  2 Bk  b     -     -         9862  350  750 
+Conductor 945263036 11  1 Bf  -     -     -        10262   50    0 
+Conductor 945263124 11 11 f   -     -     -        10212    0    0 
+Conductor 945263191 11 10 c   b     b     -        10212 7950 11400 
+Conductor 945263308 11  9 f   -     -     -        13662    0    0 
+Conductor 945263378 11  8 f   -     -     -        13662    0    0 
+Conductor 945263426 11  7 f   -     -     -        13662    0    0 
+Conductor 945263479 11  6 rc  f     -     -        13662 2200    0 
+Conductor 945263573 11  5 f   -     -     -        11462    0    0 
+Conductor 945263611 11  4 f   -     -     -        11462    0    0 
+Conductor 945263660 11  3 f   -     -     -        11462    0    0 
+Conductor 945263803 11  2 Bc  c     -     -        11462 9275    0 9s Ts
+Conductor 945263876 11  1 Bc  kf    -     -         2187  400    0 
+Conductor 945263991 11 11 f   -     -     -         1787    0    0 
+Conductor 945264057 11 10 f   -     -     -         1787    0    0 
+Conductor 945264165 11  9 f   -     -     -         1787    0    0 
+Conductor 945264234 11  8 f   -     -     -         1787    0    0 
+Conductor 945264274 11  7 rA  -     -     -         1787 1787 9335 Ah Ad
+Conductor 945264365 11  6 f   -     -     -         9335    0    0 
+Conductor 945264448 11  5 f   -     -     -         9335    0    0 
+Conductor 945264509 11  4 f   -     -     -         9335    0    0 
+Conductor 945264591 11  3 f   -     -     -         9335    0    0 
+Conductor 945264642  9  2 Bf  -     -     -         9335 1600    0 
+Conductor 945264687  9  1 Bc  bA    -     -         7735 7735    0 As Ts
+Conductor 945266212  8  5 f   -     -     -        10000    0    0 
+Conductor 945266321  7  3 f   -     -     -        10000    0    0 
+Conductor 945266361  7  3 f   -     -     -        10000    0    0 
+Conductor 945266382  7  2 Bk  k     kf    -        10000  100    0 
+Conductor 945266398  7  1 Bf  -     -     -         9900   50    0 
+Conductor 945266424  7  7 f   -     -     -         9850    0    0 
+Conductor 945266445  7  6 f   -     -     -         9850    0    0 
+Conductor 945266482  7  5 cf  -     -     -         9850  100    0 
+Conductor 945266513  6  3 f   -     -     -         9750    0    0 
+Conductor 945266534  6  3 r   -     -     -         9750  700 1000 
+Conductor 945266549  6  2 B   -     -     -        10050  200  300 
+Conductor 945266566  6  1 Bf  -     -     -        10150  100    0 
+Conductor 945266572  6  6 f   -     -     -        10050    0    0 
+Conductor 945266608  6  5 f   -     -     -        10050    0    0 
+Conductor 945266626  5  3 f   -     -     -        10050    0    0 
+Conductor 945266665  4  2 Bf  -     -     -        10050  200    0 
+Conductor 945266679  4  1 Bf  -     -     -         9850  100    0 
+Conductor 945266683  4  4 f   -     -     -         9750    0    0 
+Conductor 945266690  4  3 f   -     -     -         9750    0    0 
+Conductor 945266698  4  2 Br  bcA   -     -         9750 9750 19600 Qs Ad
+Conductor 945266717  4  1 Br  k     k     b        19600 1800 2400 
+Conductor 945266758  4  4 f   -     -     -        20200    0    0 
+Conductor 945266765  4  3 f   -     -     -        20200    0    0 
+Conductor 945266772  4  2 Bk  k     k     k        20200  200  500 5d Qh
+Conductor 945266795  4  1 Brc b     b     bA       20500 20500 41000 3h 3c
+Conductor 945266846  4  4 f   -     -     -        41000    0    0 
+Conductor 945266861  4  3 f   -     -     -        41000    0    0 
+Conductor 945266869  4  2 Bf  -     -     -        41000  400    0 
+Conductor 945266875  4  1 Br  -     -     -        40600 1200 1600 
+Conductor 945266883  4  4 f   -     -     -        41000    0    0 
+Conductor 945266893  4  3 c   k     kf    -        41000  400    0 
+Conductor 945266918  4  2 Bf  -     -     -        40600  400    0 
+Conductor 945266924  4  1 Bf  -     -     -        40200  200    0 
+Conductor 945266928  4  4 f   -     -     -        40000    0    0 
+Conductor 945266934  4  3 f   -     -     -        40000    0    0 
+Conductor 945266938  4  2 Bf  -     -     -        40000  400    0 
+Conductor 945266943  4  1 Bf  -     -     -        39600  200    0 
+Conductor 945266947  4  4 r   k     b     c        39400 14200    0 9d 7d
+Conductor 945266979  4  3 r   k     k     b        25200 4800 6800 
+Conductor 945267016  4  2 Bf  -     -     -        27200  400    0 
+Conductor 945267022  4  1 Bf  -     -     -        26800  200    0 
+Conductor 945267024  4  4 f   -     -     -        26600    0    0 
+Conductor 945267029  4  3 f   -     -     -        26600    0    0 
+Conductor 945267037  4  2 Bc  bf    -     -        26600 4400    0 
+Conductor 945267058  4  1 Bf  -     -     -        22200  200    0 
+Conductor 945267063  4  4 f   -     -     -        22000    0    0 
+Conductor 945267068  4  3 rrcA -     -     -        22000 22000    0 3h 3c
+Conductor 945281133  9  5 f   -     -     -         4000    0    0 
+Conductor 945281146  9  4 f   -     -     -         4000    0    0 
+Conductor 945281179  9  3 f   -     -     -         4000    0    0 
+Conductor 945281237  8  2 B   -     -     -         4000   50   75 
+Conductor 945281258  8  1 Bf  -     -     -         4025   25    0 
+Conductor 945281300  8  8 f   -     -     -         4000    0    0 
+Conductor 945281354  8  7 c   k     k     k         4000   50    0 9d Ts
+Conductor 945281386  8  6 f   -     -     -         3950    0    0 
+Conductor 945281407  8  5 r   f     -     -         3950  175    0 
+Conductor 945281472  8  4 r   b     bcA   -         3775 3775    0 8c 8d
+Conductor 945283418  7  1 Bf  -     -     -         5000   25    0 
+Conductor 945283456  6  6 f   -     -     -         4975    0    0 
+Conductor 945283496  5  5 f   -     -     -         4975    0    0 
+Conductor 945283557  5  4 f   -     -     -         4975    0    0 
+Conductor 945283609  5  3 f   -     -     -         4975    0    0 
+Conductor 945283623  5  2 Bf  -     -     -         4975   50    0 
+Conductor 945283660  5  1 Bc  b     -     -         4925  200  300 
+Conductor 945283675  5  5 f   -     -     -         5025    0    0 
+Conductor 945283698  5  4 f   -     -     -         5025    0    0 
+Conductor 945283702  5  3 f   -     -     -         5025    0    0 
+Conductor 945283719  5  2 Bc  kf    -     -         5025  175    0 
+Conductor 945283733  5  1 Bf  -     -     -         4850   25    0 
+Conductor 945283778  5  5 f   -     -     -         4825    0    0 
+Conductor 945283814  5  4 f   -     -     -         4825    0    0 
+Conductor 945283827  5  3 f   -     -     -         4825    0    0 
+Conductor 945283840  5  2 Bf  -     -     -         4825  100    0 
+Conductor 945283848  5  1 Bf  -     -     -         4725   50    0 
+Conductor 945283877  5  5 f   -     -     -         4675    0    0 
+Conductor 945283905  5  4 f   -     -     -         4675    0    0 
+Conductor 945283936  5  3 f   -     -     -         4675    0    0 
+Conductor 945283948  5  2 Bf  -     -     -         4675  100    0 
+Conductor 945283960  5  1 Bf  -     -     -         4575   50    0 
+Conductor 945283974  5  5 f   -     -     -         4525    0    0 
+Conductor 945283993  5  4 f   -     -     -         4525    0    0 
+Conductor 945284015  4  3 cc  kf    -     -         4525  450    0 
+Conductor 945284053  4  2 Bf  -     -     -         4075  100    0 
+Conductor 945284064  4  1 Bc  kf    -     -         3975  100    0 
+Conductor 945284093  4  4 f   -     -     -         3875    0    0 
+Conductor 945284120  4  3 cc  f     -     -         3875  400    0 
+Conductor 945284160  4  2 Br  bA    -     -         3475 3475    0 7d 7s
+Conductor 945285386  8  2 B   -     -     -         3000   30   45 
+Conductor 945285394  8  1 Bf  -     -     -         3015   15    0 
+Conductor 945285399  8  8 f   -     -     -         3000    0    0 
+Conductor 945285427  8  7 f   -     -     -         3000    0    0 
+Conductor 945285463  8  6 f   -     -     -         3000    0    0 
+Conductor 945285499  8  5 f   -     -     -         3000    0    0 
+Conductor 945285512  8  4 f   -     -     -         3000    0    0 
+Conductor 945285546  8  3 f   -     -     -         3000    0    0 
+Conductor 945285562  8  2 Br  brA   -     -         3000 3000 6300 Qh Kc
+Conductor 945285625  7  1 Bf  -     -     -         6300   15    0 
+Conductor 945285688  7  7 f   -     -     -         6285    0    0 
+Conductor 945285728  7  6 f   -     -     -         6285    0    0 
+Conductor 945285744  7  5 f   -     -     -         6285    0    0 
+Conductor 945285786  7  4 f   -     -     -         6285    0    0 
+Conductor 945285815  7  3 f   -     -     -         6285    0    0 
+Conductor 945285850  7  2 Bf  -     -     -         6285   60    0 
+Conductor 945285880  7  1 Bf  -     -     -         6225   30    0 
+Conductor 945285919  6  6 f   -     -     -         6195    0    0 
+Conductor 945286002  6  5 f   -     -     -         6195    0    0 
+Conductor 945286042  6  4 c   b     b     -         6195 1800 2520 
+Conductor 945286104  6  3 f   -     -     -         6915    0    0 
+Conductor 945286170  6  2 Bf  -     -     -         6915  120    0 
+Conductor 945286219  6  1 Bcc -     -     -         6795  360    0 Ks Th
+Conductor 945286246  6  6 f   -     -     -         6435    0    0 
+Conductor 945286289  6  5 f   -     -     -         6435    0    0 
+Conductor 945286323  6  4 c   k     c     k         6435  720    0 Tc Ad
+Conductor 945286410  6  3 cc  kf    -     -         5715 1080    0 
+Conductor 945286461  6  2 Bk  k     f     -         4635  240    0 
+Conductor 945286489  6  1 Bf  -     -     -         4395  120    0 
+Conductor 945286514  5  5 f   -     -     -         4275    0    0 
+Conductor 945286546  5  5 f   -     -     -         4275    0    0 
+Conductor 945286552  5  4 f   -     -     -         4275    0    0 
+Conductor 945286577  4  2 Bf  -     -     -         4275  240    0 
+Conductor 945286604  4  1 Bc  b     -     -         4035  960 1440 
+Conductor 945286632  4  4 c   k     k     c         4515 1680    0 8c 8s
+Conductor 945286661  4  3 f   -     -     -         2835    0    0 
+Conductor 945286688  4  2 Bk  kf    -     -         2835  480    0 
+Conductor 945286711  4  1 Bc  kf    -     -         2355  480    0 
+Conductor 945286737  4  4 f   -     -     -         1875    0    0 
+Conductor 945286751  4  3 c   k     k     k         1875  480 1440 Ah 7h
+Conductor 945286780  4  2 Bf  -     -     -         2835  480    0 
+Conductor 945286805  4  1 Bf  -     -     -         2355  240    0 
+Conductor 945286820  4  4 f   -     -     -         2115    0    0 
+Conductor 945286832  4  3 f   -     -     -         2115    0    0 
+Conductor 945286876  4  2 Bk  kf    -     -         2115  480    0 
+Conductor 945286915  3  1 BcA -     -     -         1635 1635 3750 Kh Qs
+Conductor 945286929  3  3 rcA -     -     -         3750 3750    0 Ac Ks
+Conductor 945290430  9  6 f   -     -     -         5000    0    0 
+Conductor 945290472  9  5 f   -     -     -         5000    0    0 
+Conductor 945290525  9  4 f   -     -     -         5000    0    0 
+Conductor 945290583  9  3 c   k     b     -         5000  220  360 
+Conductor 945290660  9  2 Bk  k     kf    -         5140   40    0 
+Conductor 945290734  9  1 Bf  -     -     -         5100   40    0 
+Conductor 945290780  8  8 r   f     -     -         5060  400    0 
+Conductor 945290837  8  8 f   -     -     -         4660    0    0 
+Conductor 945290921  7  6 f   -     -     -         4660    0    0 
+Conductor 945290962  7  5 f   -     -     -         4660    0    0 
+Conductor 945291009  7  4 f   -     -     -         4660    0    0 
+Conductor 945291035  7  3 f   -     -     -         4660    0    0 
+Conductor 945291089  7  2 Bf  -     -     -         4660  160    0 
+Conductor 945291142  7  1 Bf  -     -     -         4500   80    0 
+Conductor 945291214  7  7 c   k     f     -         4420  160    0 
+Conductor 945291303  7  6 f   -     -     -         4260    0    0 
+Conductor 945291331  7  5 f   -     -     -         4260    0    0 
+Conductor 945291356  7  4 c   k     f     -         4260 1120    0 
+Conductor 945291412  7  3 f   -     -     -         3140    0    0 
+Conductor 945291495  7  2 Bk  k     kf    -         3140  320    0 
+Conductor 945291543  7  1 Bc  b     bA    -         2820 2820 5640 Kh 7c
+Conductor 945291583  7  7 f   -     -     -         5640    0    0 
+Conductor 945291614  7  6 f   -     -     -         5640    0    0 
+Conductor 945291682  7  5 f   -     -     -         5640    0    0 
+Conductor 945291743  7  4 f   -     -     -         5640    0    0 
+Conductor 945291783  7  3 f   -     -     -         5640    0    0 
+Conductor 945291803  7  2 Br  bc    -     -         5640 5440    0 Kd Qc
+Conductor 945291837  7  1 BA  -     -     -          200  200    0 9h 6s
+Conductor 945292820 14 10 f   -     -     -           50    0    0 
+Conductor 945292967 14  9 f   -     -     -           50    0    0 
+Conductor 945293108 13  7 f   -     -     -           50    0    0 
+Conductor 945293186 13  7 c   kf    -     -           50    4    0 
+Conductor 945293256 13  6 f   -     -     -           46    0    0 
+Conductor 945293380 13  5 cf  -     -     -           46    4    0 
+Conductor 945293472 11  3 f   -     -     -           42    0    0 
+Conductor 945293518 10  2 Bk  k     kf    -           42    8    0 
+Conductor 945293584 10  1 Bc  kf    -     -           34    8    0 
+Conductor 945293686 10 10 f   -     -     -           26    0    0 
+Conductor 945293744  9  9 r   cA    -     -           26   26    0 Js Jh
+Conductor 945296004 12  2 Bf  -     -     -         5000  100    0 
+Conductor 945296143 12  1 Bf  -     -     -         4900   50    0 
+Conductor 945296185 12 12 c   k     k     k         4850  350    0 Ks Qh
+Conductor 945296253 12 11 f   -     -     -         4500    0    0 
+Conductor 945296371 12 10 f   -     -     -         4500    0    0 
+Conductor 945296442 12  9 f   -     -     -         4500    0    0 
+Conductor 945296512 12  8 f   -     -     -         4500    0    0 
+Conductor 945296615 11  6 f   -     -     -         4500    0    0 
+Conductor 945296644 11  5 f   -     -     -         4500    0    0 
+Conductor 945296690 11  4 f   -     -     -         4500    0    0 
+Conductor 945296725 10  3 f   -     -     -         4500    0    0 
+Conductor 945296784 10  2 Bf  -     -     -         4500  400    0 
+Conductor 945296835 10  1 Bf  -     -     -         4100  200    0 
+Conductor 945296921  8  8 r   k     f     -         3900 1300    0 
+Conductor 945296983  7  6 c   k     k     k         2600  400    0 Kh Jh
+Conductor 945297034  7  5 f   -     -     -         2200    0    0 
+Conductor 945297048  7  4 f   -     -     -         2200    0    0 
+Conductor 945297098  7  3 f   -     -     -         2200    0    0 
+Conductor 945297121  7  2 Bf  -     -     -         2200  800    0 
+Conductor 945297160  7  1 Bc  kf    -     -         1400  800    0 
+Conductor 945297193  7  7 f   -     -     -          600    0    0 
+Conductor 945297210  7  6 f   -     -     -          600    0    0 
+Conductor 945297278  7  5 cA  -     -     -          600  600 2200 Kc Js
+Conductor 945297325  7  4 f   -     -     -         2200    0    0 
+Conductor 945297368  7  3 c   kf    -     -         2200 1600    0 
+Conductor 945297427  7  2 BA  -     -     -          600  600    0 2h 2c
+Conductor 945300756 12  3 f   -     -     -          666    0    0 
+Conductor 945300804 12  2 Bk  f     -     -          666    6    0 
+Conductor 945300873 12  1 Bf  -     -     -          660    3    0 
+Conductor 945300934 12 12 r   brA   -     -          657  657 1365 Ks Kd
+Conductor 945300998 11 10 f   -     -     -         1365    0    0 
+Conductor 945301067 11 10 f   -     -     -         1365    0    0 
+Conductor 945301104 10  8 f   -     -     -         1365    0    0 
+Conductor 945301138  9  6 f   -     -     -         1365    0    0 
+Conductor 945301211  9  5 f   -     -     -         1365    0    0 
+Conductor 945301277  9  4 f   -     -     -         1365    0    0 
+Conductor 945301326  9  3 f   -     -     -         1365    0    0 
+Conductor 945301407  9  2 Bk  kf    -     -         1365   12    0 
+Conductor 945301478  9  1 Bc  k     k     kc        1353   60    0 4d Ac
+Conductor 945301536  9  9 f   -     -     -         1293    0    0 
+Conductor 945301600  9  8 f   -     -     -         1293    0    0 
+Conductor 945301634  9  7 f   -     -     -         1293    0    0 
+Conductor 945301678  9  6 f   -     -     -         1293    0    0 
+Conductor 945301720  8  5 f   -     -     -         1293    0    0 
+Conductor 945301794  8  4 f   -     -     -         1293    0    0 
+Conductor 945301822  8  3 f   -     -     -         1293    0    0 
+Conductor 945301867  8  2 Bk  k     k     f         1293   24    0 
+Conductor 945301908  8  1 Bf  -     -     -         1269   24    0 
+Conductor 945301939  8  8 f   -     -     -         1245    0    0 
+Conductor 945302006  7  6 f   -     -     -         1245    0    0 
+Conductor 945302074  7  6 f   -     -     -         1245    0    0 
+Conductor 945302129  7  5 f   -     -     -         1245    0    0 
+Conductor 945302174  6  3 f   -     -     -         1245    0    0 
+Conductor 945302222  6  2 Bk  k     k     k         1245   48    0 Jd Kh
+Conductor 945302257  6  1 Bf  -     -     -         1197   24    0 
+Conductor 945302275  6  6 c   k     k     k         1173   96    0 Kd 4d
+Conductor 945302322  6  5 f   -     -     -         1077    0    0 
+Conductor 945302351  6  4 c   b     -     -         1077  216  360 
+Conductor 945302375  6  3 f   -     -     -         1221    0    0 
+Conductor 945302430  6  2 Bk  k     k     k         1221   96  240 5h Ad
+Conductor 945302468  6  1 Bc  kf    -     -         1365   96    0 
+Conductor 945302518  6  6 f   -     -     -         1269    0    0 
+Conductor 945302562  6  5 r   b     -     -         1269 1152 1632 
+Conductor 945302592  6  4 f   -     -     -         1749    0    0 
+Conductor 945302631  6  3 f   -     -     -         1749    0    0 
+Conductor 945302664  6  2 Bf  -     -     -         1749  192    0 
+Conductor 945302682  6  1 Bc  kf    -     -         1557  192    0 
+Conductor 945302717  6  6 f   -     -     -         1365    0    0 
+Conductor 945302725  6  5 c   b     kcA   -         1365 1365    0 Kd Ac
+Conductor 945355796  7  6 r   -     -     -        12000  350  500 
+Conductor 945355838  7  5 f   -     -     -        12150    0    0 
+Conductor 945355888  7  4 f   -     -     -        12150    0    0 
+Conductor 945355906  7  3 f   -     -     -        12150    0    0 
+Conductor 945355962  7  2 Bf  -     -     -        12150  100    0 
+Conductor 945356026  7  1 Br  b     b     -        12050 6600 10000 
+Conductor 945356120  7  7 c   f     -     -        15450  100    0 
+Conductor 945356175  7  6 f   -     -     -        15350    0    0 
+Conductor 945356210  7  5 f   -     -     -        15350    0    0 
+Conductor 945356252  7  4 f   -     -     -        15350    0    0 
+Conductor 945356321  7  3 f   -     -     -        15350    0    0 
+Conductor 945356376  7  2 Bk  kf    -     -        15350  200    0 
+Conductor 945356556  7  1 Bf  -     -     -        15150  100    0 
+Conductor 945356602  7  7 rc  bc    -     -        15050 12650    0 5c 5d
+Conductor 945356667  7  6 f   -     -     -         2400    0    0 
+Conductor 945356745  7  5 f   -     -     -         2400    0    0 
+Conductor 945356793  7  4 f   -     -     -         2400    0    0 
+Conductor 945356859  7  3 f   -     -     -         2400    0    0 
+Conductor 945356873  7  2 Bk  k     b     k         2400 1600 3600 Qh 9s
+Conductor 945356921  7  1 Bf  -     -     -         4400  200    0 
+Conductor 945356989  7  7 f   -     -     -         4200    0    0 
+Conductor 945357026  7  6 rA  -     -     -         4200 4200    0 Jd As
+Conductor 945358013 11  7 f   -     -     -         3000    0    0 
+Conductor 945358088  9  5 f   -     -     -         3000    0    0 
+Conductor 945358152  9  4 c   kf    -     -         3000   10    0 
+Conductor 945358221  9  3 f   -     -     -         2990    0    0 
+Conductor 945358295  9  2 Bk  kf    -     -         2990   10    0 
+Conductor 945358349  9  1 Bc  k     kf    -         2980   20    0 
+Conductor 945358404  9  9 f   -     -     -         2960    0    0 
+Conductor 945358452  9  8 c   f     -     -         2960   20    0 
+Conductor 945358507  9  7 c   f     -     -         2940   20    0 
+Conductor 945358549  9  6 f   -     -     -         2920    0    0 
+Conductor 945358597  9  5 f   -     -     -         2920    0    0 
+Conductor 945358649  9  4 cf  -     -     -         2920   20    0 
+Conductor 945358678  8  3 f   -     -     -         2900    0    0 
+Conductor 945358732  8  2 Bk  k     f     -         2900   40    0 
+Conductor 945358768  8  1 Bf  -     -     -         2860   20    0 
+Conductor 945358796  8  8 f   -     -     -         2840    0    0 
+Conductor 945358833  8  7 f   -     -     -         2840    0    0 
+Conductor 945358874  7  5 f   -     -     -         2840    0    0 
+Conductor 945358930  7  4 f   -     -     -         2840    0    0 
+Conductor 945358944  7  3 f   -     -     -         2840    0    0 
+Conductor 945358956  7  2 Bk  kf    -     -         2840   40    0 
+Conductor 945358986  7  1 Bf  -     -     -         2800   40    0 
+Conductor 945359121  7  7 f   -     -     -         2760    0    0 
+Conductor 945359190  7  6 f   -     -     -         2760    0    0 
+Conductor 945359198  7  5 f   -     -     -         2760    0    0 
+Conductor 945359232  7  4 f   -     -     -         2760    0    0 
+Conductor 945359251  7  3 c   kf    -     -         2760   80    0 
+Conductor 945359283  7  2 Bk  k     kf    -         2680   80    0 
+Conductor 945359326  7  1 Bf  -     -     -         2600   80    0 
+Conductor 945359352  7  7 f   -     -     -         2520    0    0 
+Conductor 945359386  7  6 f   -     -     -         2520    0    0 
+Conductor 945359415  7  5 cf  -     -     -         2520  160    0 
+Conductor 945359443  7  4 f   -     -     -         2360    0    0 
+Conductor 945359480  7  3 f   -     -     -         2360    0    0 
+Conductor 945359503  7  2 Bk  rA    -     -         2360 2360 5040 Qs 6h
+Conductor 945359538  7  1 Bc  k     b     -         5040  400  720 
+Conductor 945359587  7  7 f   -     -     -         5360    0    0 
+Conductor 945359612  7  6 c   k     b     b         5360 2060 2700 
+Conductor 945359658  7  5 f   -     -     -         6000    0    0 
+Conductor 945359682  7  4 f   -     -     -         6000    0    0 
+Conductor 945359713  7  3 f   -     -     -         6000    0    0 
+Conductor 945359738  7  2 Bf  -     -     -         6000  320    0 
+Conductor 945359760  7  1 Bf  -     -     -         5680  160    0 
+Conductor 945359768  7  7 f   -     -     -         5520    0    0 
+Conductor 945359806  6  6 c   b     -     -         5520 1280 1920 
+Conductor 945359844  6  5 f   -     -     -         6160    0    0 
+Conductor 945359862  6  4 f   -     -     -         6160    0    0 
+Conductor 945359887  4  3 f   -     -     -         6160    0    0 
+Conductor 945359909  4  2 Bf  -     -     -         6160  320    0 
+Conductor 945359936  4  1 Bc  b     b     -         5840 4160 5760 
+Conductor 945359964  4  4 c   f     -     -         7440  640    0 
+Conductor 945359982  4  3 c   kf    -     -         6800  640    0 
+Conductor 945360003  4  2 Bk  k     f     -         6160  640    0 
+Conductor 945360019  4  1 Bf  -     -     -         5520  320    0 
+Conductor 945360025  4  4 f   -     -     -         5200    0    0 
+Conductor 945360032  4  3 c   bA    -     -         5200 5200 6800 
+Conductor 945360065  4  2 B   -     -     -         6800  640  960 
+Conductor 945360072  4  1 Br  bA    -     -         7120 7120 10320 
+Conductor 945360090  4  4 f   -     -     -        10320    0    0 
+Conductor 945360100  4  3 f   -     -     -        10320    0    0 
+Conductor 945360112  4  2 Bk  f     -     -        10320  640    0 
+Conductor 945360127  4  1 Bc  kf    -     -         9680  640    0 
+Conductor 945360148  4  4 f   -     -     -         9040    0    0 
+Conductor 945360171  4  3 f   -     -     -         9040    0    0 
+Conductor 945360176  4  2 Bk  f     -     -         9040  640    0 
+Conductor 945360187  4  1 Bf  -     -     -         8400  320    0 
+Conductor 945360203  4  4 f   -     -     -         8080    0    0 
+Conductor 945360208  4  3 f   -     -     -         8080    0    0 
+Conductor 945360221  4  2 B   -     -     -         8080  640  960 
+Conductor 945360225  4  1 Bf  -     -     -         8400  320    0 
+Conductor 945360243  4  4 f   -     -     -         8080    0    0 
+Conductor 945360255  4  3 f   -     -     -         8080    0    0 
+Conductor 945360267  3  2 Bk  f     -     -         8080 1280    0 
+Conductor 945360288  3  1 Bc  k     kf    -         6800 1280    0 
+Conductor 945360309  3  3 c   b     -     -         5520 4480 6400 
+Conductor 945360334  3  2 B   -     -     -         7440 1280 1920 
+Conductor 945360340  3  1 Bf  -     -     -         8080  640    0 
+Conductor 945360352  2  2 Bf  -     -     -         7440 1280    0 
+Conductor 945360366  2  1 Bf  -     -     -         6160  640    0 
+Conductor 945360371  2  2 Bc  bA    -     -         5520 5520 11040 Qd As
+Conductor 945360388  2  1 Bc  k     k     k        11040 1280 2560 Ad 4h
+Conductor 945360420  2  2 B   -     -     -        12320 1280 1920 
+Conductor 945360426  2  1 Bc  k     kf    -        12960 1280    0 
+Conductor 945360473  2  2 Br  cA    -     -        11680 11680 23360 Ac 2c
+Conductor 945360496  2  1 Bc  kf    -     -        23360 1280    0 
+Conductor 945360529  2  2 B   -     -     -        22080 1280 1920 
+Conductor 945360531  2  1 Bf  -     -     -        22720  640    0 
+Conductor 945360536  2  2 Bc  f     -     -        22080 3840    0 
+Conductor 945360550  2  1 Bcf -     -     -        18240 1280    0 
+Conductor 945360561  2  2 Bf  -     -     -        16960 1280    0 
+Conductor 945360572  2  1 Bf  -     -     -        15680 1280    0 
+Conductor 945360576  2  2 B   -     -     -        14400 2560 3840 
+Conductor 945360580  2  1 Bc  bcA   -     -        15680 15680    0 9h Ad
+Conductor 945360870  9  6 f   -     -     -         1000    0    0 
+Conductor 945360946  9  5 f   -     -     -         1000    0    0 
+Conductor 945361002  9  4 f   -     -     -         1000    0    0 
+Conductor 945361018  9  3 f   -     -     -         1000    0    0 
+Conductor 945361057  9  2 Bk  kf    -     -         1000   10    0 
+Conductor 945361117  9  1 Bf  -     -     -          990    5    0 
+Conductor 945361189  9  9 c   f     -     -          985   20    0 
+Conductor 945361262  9  8 f   -     -     -          965    0    0 
+Conductor 945361330  9  7 f   -     -     -          965    0    0 
+Conductor 945361388  9  6 f   -     -     -          965    0    0 
+Conductor 945361451  8  4 f   -     -     -          965    0    0 
+Conductor 945361485  8  3 f   -     -     -          965    0    0 
+Conductor 945361566  8  2 Bf  -     -     -          965   40    0 
+Conductor 945361606  8  1 Bf  -     -     -          925   20    0 
+Conductor 945361651  8  8 c   k     k     f          905   40    0 
+Conductor 945361708  8  7 f   -     -     -          865    0    0 
+Conductor 945361730  8  6 f   -     -     -          865    0    0 
+Conductor 945361821  8  5 c   b     b     bA         865  865 1810 5h 5d
+Conductor 945361910  8  4 c   b     b     -         1810  680 1440 Th Ad
+Conductor 945362004  7  2 cf  -     -     -         2570   80    0 
+Conductor 945362047  7  2 Bf  -     -     -         2490   80    0 
+Conductor 945362069  6  1 Bf  -     -     -         2410   40    0 
+Conductor 945362114  5  5 f   -     -     -         2370    0    0 
+Conductor 945362154  5  5 c   b     k     k         2370  440    0 Ad Kh
+Conductor 945362227  5  4 f   -     -     -         1930    0    0 
+Conductor 945362251  5  3 f   -     -     -         1930    0    0 
+Conductor 945362279  5  2 Bk  k     kf    -         1930  160    0 
+Conductor 945362340  5  1 Bf  -     -     -         1770   80    0 
+Conductor 945362398  5  5 r   -     -     -         1690  560  840 Kd Ac
+Conductor 945362422  4  3 f   -     -     -         1970    0    0 
+Conductor 945362458  4  3 f   -     -     -         1970    0    0 
+Conductor 945362473  4  2 Bk  k     kf    -         1970  160    0 
+Conductor 945362544  4  1 Bc  k     k     k         1810  320    0 Th 2h
+Conductor 945362590  4  4 f   -     -     -         1490    0    0 
+Conductor 945362629  3  2 Bk  k     k     k         1490  320    0 7h 3s
+Conductor 945362676  3  1 Bc  b     -     -         1170  960 1280 
+Conductor 945362716  3  3 f   -     -     -         1490    0    0 
+Conductor 945362728  3  2 Bk  f     -     -         1490  320    0 
+Conductor 945362751  3  1 Bc  kf    -     -         1170  320    0 
+Conductor 945362778  3  3 f   -     -     -          850    0    0 
+Conductor 945362784  3  2 Bk  f     -     -          850  320    0 
+Conductor 945362797  3  1 Bf  -     -     -          530  160    0 
+Conductor 945362812  3  3 rA  -     -     -          370  370  900 Js Ad
+Conductor 945362823  3  2 Bk  k     k     cA         900  900 1800 5d Qd
+Conductor 945362874  3  1 Bf  -     -     -         1800  320    0 
+Conductor 945362897  3  3 c   f     -     -         1480  640    0 
+Conductor 945362937  3  2 Bk  k     cA    -          840  840    0 9h 5s
+Conductor 945363928  9  4 f   -     -     -         1000    0    0 
+Conductor 945364006  9  3 f   -     -     -         1000    0    0 
+Conductor 945364070  7  1 Bf  -     -     -         1000   20    0 
+Conductor 945364127  7  1 Bf  -     -     -          980   10    0 
+Conductor 945364204  7  7 f   -     -     -          970    0    0 
+Conductor 945364239  7  6 f   -     -     -          970    0    0 
+Conductor 945364308  5  4 c   r     bA    -          970  970  980 Ad Tc
+Conductor 945364425  5  3 f   -     -     -          980    0    0 
+Conductor 945364489  4  1 Bk  k     k     k          980   40    0 Tc 2s
+Conductor 945364550  4  1 Bf  -     -     -          940   20    0 
+Conductor 945364589  4  4 f   -     -     -          920    0    0 
+Conductor 945364604  4  3 f   -     -     -          920    0    0 
+Conductor 945364618  4  2 Bk  b     -     -          920  540  600 
+Conductor 945364656  4  1 Bc  kf    -     -          980   40    0 
+Conductor 945364714  4  4 f   -     -     -          940    0    0 
+Conductor 945364734  4  3 cf  -     -     -          940   40    0 
+Conductor 945364746  4  2 Bk  kf    -     -          900   40    0 
+Conductor 945364767  4  1 Bc  b     -     -          860  120  160 
+Conductor 945364795  4  4 f   -     -     -          900    0    0 
+Conductor 945364837  4  3 f   -     -     -          900    0    0 
+Conductor 945364855  4  2 B   -     -     -          900   80  120 
+Conductor 945364863  4  1 Bc  b     bcA   -          940  940    0 As 7s
+Conductor 945370745  6  1 Bf  -     -     -         5000   20    0 
+Conductor 945370780  6  6 f   -     -     -         4980    0    0 
+Conductor 945370797  6  5 c   k     k     k         4980   40    0 Jh Qc
+Conductor 945370861  6  4 cf  -     -     -         4940   40    0 
+Conductor 945370917  6  3 f   -     -     -         4900    0    0 
+Conductor 945370968  6  2 Bk  k     k     kf        4900   40    0 
+Conductor 945371040  6  1 Bf  -     -     -         4860   20    0 
+Conductor 945371104  6  6 f   -     -     -         4840    0    0 
+Conductor 945371163  6  5 f   -     -     -         4840    0    0 
+Conductor 945371228  4  3 f   -     -     -         4840    0    0 
+Conductor 945371248  4  3 f   -     -     -         4840    0    0 
+Conductor 945371288  4  2 Bf  -     -     -         4840   80    0 
+Conductor 945371304  4  1 Bf  -     -     -         4760   40    0 
+Conductor 945371325  4  4 c   k     bA    -         4720 4720 4880 
+Conductor 945371373  4  3 f   -     -     -         4880    0    0 
+Conductor 945371415  4  2 Bf  -     -     -         4880   80    0 
+Conductor 945371449  4  1 Bf  -     -     -         4800   40    0 
+Conductor 945371505  3  3 c   k     k     r         4760 2080 2880 
+Conductor 945371598  3  2 Bk  k     kf    -         5560  160    0 
+Conductor 945371637  3  1 Bf  -     -     -         5400   80    0 
+Conductor 945371666  3  3 r   -     -     -         5320  560  800 
+Conductor 945371680  3  2 Bf  -     -     -         5560  160    0 
+Conductor 945371691  3  1 Bc  b     b     -         5400 2080 2880 
+Conductor 945371731  3  3 c   k     b     -         6200  640  960 
+Conductor 945371782  3  2 Bk  k     b     brA       6520 6520    0 2c Qd
+Conductor 945372813  9  1 Bf  -     -     -        10000   50    0 
+Conductor 945372938  9  9 f   -     -     -         9950    0    0 
+Conductor 945373073  9  8 f   -     -     -         9950    0    0 
+Conductor 945373115  9  7 r   b     b     -         9950 6050 8400 
+Conductor 945373193  9  6 f   -     -     -        12300    0    0 
+Conductor 945373251  9  5 f   -     -     -        12300    0    0 
+Conductor 945373309  9  4 f   -     -     -        12300    0    0 
+Conductor 945373369  9  3 f   -     -     -        12300    0    0 
+Conductor 945373405  8  2 Bc  b     kf    -        12300 4700    0 
+Conductor 945373515  8  1 Bf  -     -     -         7600  100    0 
+Conductor 945373545  8  8 c   c     k     b         7500 6200    0 Jc Td
+Conductor 945373621  8  7 f   -     -     -         1300    0    0 
+Conductor 945373647  8  6 c   f     -     -         1300  400    0 
+Conductor 945373749  8  5 f   -     -     -          900    0    0 
+Conductor 945373797  8  4 f   -     -     -          900    0    0 
+Conductor 945373870  8  3 f   -     -     -          900    0    0 
+Conductor 945373925  8  2 Bk  k     k     kf         900  400    0 
+Conductor 945373988  8  1 BcA -     -     -          500  500    0 9h 6d
+Conductor 945379037 12 10 f   -     -     -         5000    0    0 
+Conductor 945379169 12  9 c   f     -     -         5000   50    0 
+Conductor 945379234 12  8 f   -     -     -         4950    0    0 
+Conductor 945379295 12  7 f   -     -     -         4950    0    0 
+Conductor 945379335 10  6 f   -     -     -         4950    0    0 
+Conductor 945379397  9  5 r   brA   -     -         4950 4950    0 Ac Ah
+Conductor 945398619 16  6 f   -     -     -         5000    0    0 
+Conductor 945398748 16  5 f   -     -     -         5000    0    0 
+Conductor 945398835 16  4 f   -     -     -         5000    0    0 
+Conductor 945398925 16  3 f   -     -     -         5000    0    0 
+Conductor 945399063 16  2 Bk  b     -     -         5000  600 1000 
+Conductor 945399133 16  1 Bc  kf    -     -         5400  350    0 
+Conductor 945399206 16 16 f   -     -     -         5050    0    0 
+Conductor 945399330 15 14 f   -     -     -         5050    0    0 
+Conductor 945399397 15 13 f   -     -     -         5050    0    0 
+Conductor 945399546 15 12 f   -     -     -         5050    0    0 
+Conductor 945399638 15 11 f   -     -     -         5050    0    0 
+Conductor 945399752 15 10 f   -     -     -         5050    0    0 
+Conductor 945399798 15  9 c   kf    -     -         5050  900    0 
+Conductor 945399886 14  8 f   -     -     -         4150    0    0 
+Conductor 945399945 14  7 f   -     -     -         4150    0    0 
+Conductor 945399975 12  4 f   -     -     -         4150    0    0 
+Conductor 945400077 12  4 c   b     kcA   -         4150 4150    0 7s 8s
+Conductor 945401526 11  5 c   f     -     -        10000  175    0 
+Conductor 945401630 11  4 f   -     -     -         9825    0    0 
+Conductor 945401775 11  3 c   kf    -     -         9825   50    0 
+Conductor 945401941 10  2 Bk  b     b     k         9775 2100    0 6s 7d
+Conductor 945402027 10  1 Bc  k     kf    -         7675  100    0 
+Conductor 945402102 10 10 f   -     -     -         7575    0    0 
+Conductor 945402166 10  9 r   k     f     -         7575 1200    0 
+Conductor 945402225 10  8 rc  kf    -     -         6375 4100    0 
+Conductor 945402330 10  7 c   k     k     k         2275  900    0 Qs Kc
+Conductor 945402409 10  6 f   -     -     -         1375    0    0 
+Conductor 945402487 10  5 f   -     -     -         1375    0    0 
+Conductor 945402576 10  4 f   -     -     -         1375    0    0 
+Conductor 945402619 10  3 f   -     -     -         1375    0    0 
+Conductor 945402674  9  1 Bk  kcA   -     -         1375 1375 2063 Qh Js
+Conductor 945402789  9  1 Bf  -     -     -         2063  200    0 
+Conductor 945402860  9  9 f   -     -     -         1863    0    0 
+Conductor 945402944  9  8 c   k     cA    -         1863 1863 5326 Ad 6d
+Conductor 945403009  9  7 f   -     -     -         5326    0    0 
+Conductor 945403090  9  6 f   -     -     -         5326    0    0 
+Conductor 945403120  9  5 f   -     -     -         5326    0    0 
+Conductor 945403191  9  4 f   -     -     -         5326    0    0 
+Conductor 945403267  9  3 f   -     -     -         5326    0    0 
+Conductor 945403300  9  2 Bc  k     b     -         5326 4200 6600 
+Conductor 945403334  9  1 Bc  krA   -     -         7726 7726 2852 Jd Kh
+Conductor 945403398  9  9 ccA -     -     -         2852 2852 6504 2h 2d
+Conductor 945403430  9  8 f   -     -     -         6504    0    0 
+Conductor 945403475  9  7 f   -     -     -         6504    0    0 
+Conductor 945403525  8  6 f   -     -     -         6504    0    0 
+Conductor 945403576  7  4 f   -     -     -         6504    0    0 
+Conductor 945403622  7  3 f   -     -     -         6504    0    0 
+Conductor 945403638  7  2 Bf  -     -     -         6504 3200    0 
+Conductor 945403680  7  1 BcA -     -     -         3304 3304 9912 6c 7d
+Conductor 945403718  6  6 f   -     -     -         9912    0    0 
+Conductor 945403746  6  6 f   -     -     -         9912    0    0 
+Conductor 945403774  6  5 f   -     -     -         9912    0    0 
+Conductor 945403794  6  4 f   -     -     -         9912    0    0 
+Conductor 945403830  6  3 f   -     -     -         9912    0    0 
+Conductor 945403886  6  2 Bf  -     -     -         9912 3200    0 
+Conductor 945403906  6  1 Bf  -     -     -         6712 1600    0 
+Conductor 945403931  5  5 f   -     -     -         5112    0    0 
+Conductor 945403947  5  5 f   -     -     -         5112    0    0 
+Conductor 945403963  5  4 f   -     -     -         5112    0    0 
+Conductor 945403969  5  3 f   -     -     -         5112    0    0 
+Conductor 945403997  5  2 BA  -     -     -         5112 5112 8312 
+Conductor 945404017  5  1 Bf  -     -     -         8312 3200    0 
+Conductor 945404025  5  5 cA  -     -     -         5112 5112 13424 Jd Kh
+Conductor 945404051  5  4 f   -     -     -        13424    0    0 
+Conductor 945404083  5  3 f   -     -     -        13424    0    0 
+Conductor 945404128  5  2 Bk  f     -     -        13424 6400    0 
+Conductor 945404163  5  1 BccA -     -     -         7024 7024    0 Js 8d
+Conductor 945404818 18  1 Bf  -     -     -        10000   25    0 
+Conductor 945404885 18 18 f   -     -     -         9975    0    0 
+Conductor 945404927 18 17 f   -     -     -         9975    0    0 
+Conductor 945404992 18 16 f   -     -     -         9975    0    0 
+Conductor 945405061 17 14 rc  c     cA    -         9975 9975    0 8d 8c
+Conductor 945433673  8  3 f   -     -     -        10000    0    0 
+Conductor 945433757  7  2 Bk  k     b     -        10000  400  600 
+Conductor 945433812  7  1 Bf  -     -     -        10200   50    0 
+Conductor 945433857  7  7 f   -     -     -        10150    0    0 
+Conductor 945433915  7  6 c   f     -     -        10150  100    0 
+Conductor 945434021  7  5 f   -     -     -        10050    0    0 
+Conductor 945434057  7  4 cf  -     -     -        10050  200    0 
+Conductor 945434101  7  3 f   -     -     -         9850    0    0 
+Conductor 945434136  7  2 Bf  -     -     -         9850  200    0 
+Conductor 945434187  7  1 Bf  -     -     -         9650  100    0 
+Conductor 945434214  7  7 f   -     -     -         9550    0    0 
+Conductor 945434254  7  6 f   -     -     -         9550    0    0 
+Conductor 945434312  7  5 r   b     -     -         9550 4600 7400 
+Conductor 945434347  7  4 f   -     -     -        12350    0    0 
+Conductor 945434373  7  3 f   -     -     -        12350    0    0 
+Conductor 945434391  7  2 Bf  -     -     -        12350  200    0 
+Conductor 945434430  7  1 Bf  -     -     -        12150  200    0 
+Conductor 945434445  7  7 c   f     -     -        11950  400    0 
+Conductor 945434493  7  6 c   c     b     -        11550 3900 6300 
+Conductor 945434541  7  5 f   -     -     -        13950    0    0 
+Conductor 945434661  6  3 f   -     -     -        13950    0    0 
+Conductor 945434688  6  2 Bk  kf    -     -        13950  400    0 
+Conductor 945434733  6  1 Bc  bc    kc    kf       13550 10600    0 
+Conductor 945434821  6  6 c   cA    -     -         2950 2950 7100 4c 4h
+Conductor 945434852  6  5 f   -     -     -         7100    0    0 
+Conductor 945434882  6  4 cf  -     -     -         7100  800    0 
+Conductor 945434941  4  2 f   -     -     -         6300    0    0 
+Conductor 945434989  4  2 BrcA -     -     -         6300 6300 13000 Qs Ks
+Conductor 945435029  4  1 Brc bA    -     -        13000 13000 23287 9s 9h
+Conductor 945435078  3  3 f   -     -     -        23287    0    0 
+Conductor 945435097  3  3 f   -     -     -        23287    0    0 
+Conductor 945435106  3  2 Bf  -     -     -        23287  800    0 
+Conductor 945435121  3  1 Bc  k     b     -        22487 1600 2400 
+Conductor 945435149  3  3 f   -     -     -        23287    0    0 
+Conductor 945435159  3  2 B   -     -     -        23287  800 1200 
+Conductor 945435170  3  1 Bf  -     -     -        23687  400    0 
+Conductor 945435181  3  3 f   -     -     -        23287    0    0 
+Conductor 945435195  3  2 B   -     -     -        23287 1600 2400 
+Conductor 945435207  3  1 Bf  -     -     -        24087  800    0 
+Conductor 945435233  3  3 f   -     -     -        23287    0    0 
+Conductor 945435244  3  2 Bk  k     f     -        23287 1600    0 
+Conductor 945435304  3  1 Bf  -     -     -        21687  800    0 
+Conductor 945435311  3  3 f   -     -     -        20887    0    0 
+Conductor 945435319  3  2 Bf  -     -     -        20887 1600    0 
+Conductor 945435340  3  1 Bf  -     -     -        19287  800    0 
+Conductor 945435344  3  3 c   k     k     k        18487 1600 4000 9c Ac
+Conductor 945435381  3  2 B   -     -     -        20887 1600 2400 
+Conductor 945435397  3  1 Bf  -     -     -        21687  800    0 
+Conductor 945435405  3  3 f   -     -     -        20887    0    0 
+Conductor 945435417  2  2 Bf  -     -     -        20887 1600    0 
+Conductor 945435433  2  1 Bf  -     -     -        19287  800    0 
+Conductor 945435442  2  2 Bk  k     k     k        18487 1600    0 2d 4d
+Conductor 945435475  2  1 Bcf -     -     -        16887 1600    0 
+Conductor 945435496  2  2 Bk  k     k     b        15287 4800 6400 
+Conductor 945435525  2  1 Bf  -     -     -        16887  800    0 
+Conductor 945435536  2  2 Bk  b     -     -        16087 4800 6400 
+Conductor 945435550  2  1 Bc  bcA   -     -        17687 17687 35374 3h Ad
+Conductor 945435581  2  2 BrcA -     -     -        35374 35374    0 Td Jd

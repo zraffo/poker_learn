@@ -1,0 +1,930 @@
+spyderhal 949537091 14  9 c   b     -     -         5000  800 1400 
+spyderhal 949537255 14  8 f   -     -     -         5600    0    0 
+spyderhal 949537322 13  7 c   c     k     f         5600  700    0 
+spyderhal 949537389 13  6 f   -     -     -         4900    0    0 
+spyderhal 949537437 13  5 f   -     -     -         4900    0    0 
+spyderhal 949537509 13  4 c   b     -     -         4900 1000 1600 
+spyderhal 949537545 13  3 r   b     bA    -         5500 5500 1800 Qc 2s
+spyderhal 949537596 13  2 Bk  kf    -     -         1800  200    0 
+spyderhal 949537675 13  1 Bc  kf    -     -         1600  700    0 
+spyderhal 949537697 13 13 f   -     -     -          900    0    0 
+spyderhal 949537760 13 12 f   -     -     -          900    0    0 
+spyderhal 949537807 13 11 f   -     -     -          900    0    0 
+spyderhal 949537835 13 10 c   f     -     -          900  400    0 
+spyderhal 949537935 12  8 f   -     -     -          500    0    0 
+spyderhal 949537981 12  7 f   -     -     -          500    0    0 
+spyderhal 949538041 11  6 f   -     -     -          500    0    0 
+spyderhal 949538102 11  5 f   -     -     -          500    0    0 
+spyderhal 949538132 11  4 ccA -     -     -          500  500    0 As Qs
+spyderhal 949539435 23  1 Bf  -     -     -         2500   10    0 
+spyderhal 949539548 22 22 f   -     -     -         2490    0    0 
+spyderhal 949539609 22 21 c   c     f     -         2490  150    0 
+spyderhal 949539737 22 20 f   -     -     -         2340    0    0 
+spyderhal 949539838 22 19 f   -     -     -         2340    0    0 
+spyderhal 949539924 21 17 f   -     -     -         2340    0    0 
+spyderhal 949540078 20 16 c   k     k     f         2340   80    0 
+spyderhal 949540298 19 14 f   -     -     -         2260    0    0 
+spyderhal 949540339 19 13 f   -     -     -         2260    0    0 
+spyderhal 949540423 18 11 f   -     -     -         2260    0    0 
+spyderhal 949540490 18 10 f   -     -     -         2260    0    0 
+spyderhal 949540536 17  9 f   -     -     -         2260    0    0 
+spyderhal 949540580 16  7 c   k     k     k         2260  160  440 7s 8s
+spyderhal 949540699 16  6 f   -     -     -         2540    0    0 
+spyderhal 949540757 15  5 f   -     -     -         2540    0    0 
+spyderhal 949540796 15  4 f   -     -     -         2540    0    0 
+spyderhal 949540855 15  3 r   bA    -     -         2540 2540    0 Td Ad
+spyderhal 949541291 17  2 Bk  k     kf    -         2000   20    0 
+spyderhal 949541438 17  1 Bc  kf    -     -         1980   20    0 
+spyderhal 949541503 17 17 rA  -     -     -         1960 1960    0 9d 9c
+spyderhal 949598897 10  7 f   -     -     -         5000    0    0 
+spyderhal 949598994 10  6 f   -     -     -         5000    0    0 
+spyderhal 949599139 10  5 c   c     c     c         5000 4800    0 Qs Jc
+spyderhal 949599242 10  4 rA  -     -     -          200  200    0 7d Ac
+spyderhal 949607271 10  3 c   b     kr    b        10000 5350 7200 
+spyderhal 949607405 10  2 Bc  cc    -     -        11850 10000 25063 Js Ad
+spyderhal 949607527  7  1 Bc  k     kc    k        26913  300 1000 Kc 5h
+spyderhal 949607678  7  7 f   -     -     -        27613    0    0 
+spyderhal 949607701  7  6 c   k     k     b        27613  350  500 
+spyderhal 949607742  7  5 c   c     f     -        27763 1450    0 
+spyderhal 949607784  7  4 f   -     -     -        26313    0    0 
+spyderhal 949607850  7  3 f   -     -     -        26313    0    0 
+spyderhal 949607876  6  2 Brc -     -     -        26313 1150    0 Ah Qh
+spyderhal 949607932  6  1 Bcf -     -     -        25163  100    0 
+spyderhal 949607983  5  5 c   b     k     b        25063 1600 2400 
+spyderhal 949608067  5  5 c   k     k     b        25863  800 1200 
+spyderhal 949608178  5  4 c   b     -     -        26263 1200    0 6s 5s
+spyderhal 949608221  5  3 f   -     -     -        25063    0    0 
+spyderhal 949608245  4  2 Br  b     -     -        25063 1800 2400 
+spyderhal 949608285  4  1 Bc  k     k     k        25663  200    0 Qd Tc
+spyderhal 949608339  4  4 f   -     -     -        25463    0    0 
+spyderhal 949608388  4  3 f   -     -     -        25463    0    0 
+spyderhal 949608392  4  2 Bk  b     -     -        25463  800 1200 
+spyderhal 949608411  4  1 Bc  kc    k     b        25863 1800 3600 9d Ts
+spyderhal 949608459  4  4 c   b     -     -        27663 1600 2400 
+spyderhal 949608496  4  3 c   b     b     b        28463 13400 18000 
+spyderhal 949608529  4  2 Bk  k     k     k        33063  400    0 4d Th
+spyderhal 949608568  4  1 Bf  -     -     -        32663  200    0 
+spyderhal 949608609  4  4 f   -     -     -        32463    0    0 
+spyderhal 949608624  4  3 f   -     -     -        32463    0    0 
+spyderhal 949608647  4  2 Bc  kf    -     -        32463 1400    0 
+spyderhal 949608673  4  1 Br  b     -     -        31063 3600 4800 
+spyderhal 949608694  4  4 cf  -     -     -        32263 1400    0 
+spyderhal 949608733  4  3 f   -     -     -        30863    0    0 
+spyderhal 949608757  4  2 Bk  k     k     f        30863  400    0 
+spyderhal 949608791  4  1 Bc  k     k     k        30463  400    0 7s 6d
+spyderhal 949608834  4  4 c   c     f     -        30063 2200    0 
+spyderhal 949608871  4  3 c   k     b     b        27863 8800    0 Kd Kh
+spyderhal 949608893  4  2 Bk  k     k     k        19063  800    0 Tc 8d
+spyderhal 949608921  4  1 Bc  k     kf    -        18263  800    0 
+spyderhal 949608949  4  4 c   b     -     -        17463 2800 4000 
+spyderhal 949608978  4  3 f   -     -     -        18663    0    0 
+spyderhal 949609004  4  2 Bk  k     b     -        18663 4000 6400 
+spyderhal 949609040  4  1 Bc  k     b     -        21063 4000 6400 
+spyderhal 949609073  4  4 c   k     b     b        23463 13600 19200 
+spyderhal 949609117  4  3 c   k     k     k        29063  800    0 Td Ad
+spyderhal 949609135  4  2 Bk  b     b     b        28263 21600 28800 
+spyderhal 949609166  4  1 Bc  kf    -     -        35463  800    0 
+spyderhal 949609242  4  4 f   -     -     -        34663    0    0 
+spyderhal 949609248  4  3 f   -     -     -        34663    0    0 
+spyderhal 949609256  4  2 B   -     -     -        34663 1600 2400 
+spyderhal 949609261  4  1 Bc  k     k     kf       35463 1600    0 
+spyderhal 949609290  4  4 f   -     -     -        33863    0    0 
+spyderhal 949609296  4  3 cc  k     b     -        33863 24000 33600 
+spyderhal 949609320  4  2 Bk  k     k     k        43463 1600 4000 9c Qd
+spyderhal 949609344  4  1 Bf  -     -     -        45863  800    0 
+spyderhal 949609366  4  4 f   -     -     -        45063    0    0 
+spyderhal 949609373  4  3 c   f     -     -        45063 1600    0 
+spyderhal 949609388  4  2 Bk  k     k     b        43463 7200 11200 
+spyderhal 949609418  4  1 Bf  -     -     -        47463  800    0 
+spyderhal 949609424  4  4 c   k     k     b        46663 6400 7200 3s Ah
+spyderhal 949609455  4  3 f   -     -     -        47463    0    0 
+spyderhal 949609468  4  2 B   -     -     -        47463 1600 2400 
+spyderhal 949609472  4  1 Bc  kf    -     -        48263 1600    0 
+spyderhal 949609499  4  4 f   -     -     -        46663    0    0 
+spyderhal 949609503  4  3 f   -     -     -        46663    0    0 
+spyderhal 949609512  4  2 B   -     -     -        46663 1600 2400 
+spyderhal 949609515  4  1 Bc  kf    -     -        47463 1600    0 
+spyderhal 949609533  4  4 f   -     -     -        45863    0    0 
+spyderhal 949609552  4  3 f   -     -     -        45863    0    0 
+spyderhal 949609562  4  2 Bk  k     b     -        45863 5600 8000 
+spyderhal 949609587  4  1 Bc  b     -     -        48263 4800 6400 
+spyderhal 949609602  4  4 f   -     -     -        49863    0    0 
+spyderhal 949609617  4  3 f   -     -     -        49863    0    0 
+spyderhal 949609623  4  2 Bf  -     -     -        49863 3200    0 
+spyderhal 949609630  4  1 Bf  -     -     -        46663 1600    0 
+spyderhal 949609646  4  4 f   -     -     -        45063    0    0 
+spyderhal 949609652  4  3 c   k     b     -        45063 12800 19200 
+spyderhal 949609673  4  2 Bf  -     -     -        51463 3200    0 
+spyderhal 949609682  4  1 Bc  k     k     kf       48263 3200    0 
+spyderhal 949609719  4  4 f   -     -     -        45063    0    0 
+spyderhal 949609725  4  3 c   b     -     -        45063 14400 22400 
+spyderhal 949609742  4  2 B   -     -     -        53063 3200 4800 
+spyderhal 949609747  4  1 Bc  k     k     bc       54663 10237    0 5h 5d
+spyderhal 949609774  4  4 f   -     -     -        44426    0    0 
+spyderhal 949609781  4  3 f   -     -     -        44426    0    0 
+spyderhal 949609807  4  2 Bk  k     b     -        44426 11150 15900 8s As
+spyderhal 949609827  3  1 Bc  kf    -     -        49176 3200    0 
+spyderhal 949609855  3  3 f   -     -     -        45976    0    0 
+spyderhal 949609866  3  2 B   -     -     -        45976 3200 3752 Jc 5h
+spyderhal 949609871  2  1 Bc  k     kc    bcA      46528 46528    0 5s 6h
+spyderhal 949610334 10  7 c   f     -     -         5000   50    0 
+spyderhal 949610472 10  6 c   k     k     k         4950   50    0 Jh Tc
+spyderhal 949610539 10  5 f   -     -     -         4900    0    0 
+spyderhal 949610555 10  4 cc  k     c     f         4900 1025    0 
+spyderhal 949610609 10  3 f   -     -     -         3875    0    0 
+spyderhal 949610649 10  2 Bf  -     -     -         3875   50    0 
+spyderhal 949610702 10  1 Bf  -     -     -         3825   50    0 
+spyderhal 949610757 10 10 f   -     -     -         3775    0    0 
+spyderhal 949610796 10  9 f   -     -     -         3775    0    0 
+spyderhal 949610906 10  8 f   -     -     -         3775    0    0 
+spyderhal 949610954  9  6 f   -     -     -         3775    0    0 
+spyderhal 949611007  9  5 f   -     -     -         3775    0    0 
+spyderhal 949611058  9  4 f   -     -     -         3775    0    0 
+spyderhal 949611113  8  3 f   -     -     -         3775    0    0 
+spyderhal 949611157  7  1 Bk  k     k     k         3775  200    0 4h 3c
+spyderhal 949611199  7  1 Bc  kf    -     -         3575  700    0 
+spyderhal 949611231  7  7 c   k     f     -         2875  200    0 
+spyderhal 949611260  7  6 f   -     -     -         2675    0    0 
+spyderhal 949611289  7  5 f   -     -     -         2675    0    0 
+spyderhal 949611298  7  4 f   -     -     -         2675    0    0 
+spyderhal 949611309  7  3 f   -     -     -         2675    0    0 
+spyderhal 949611377  7  2 Bc  kf    -     -         2675  700    0 
+spyderhal 949611413  7  1 Bc  kf    -     -         1975  400    0 
+spyderhal 949611440  7  7 f   -     -     -         1575    0    0 
+spyderhal 949611459  7  6 c   k     f     -         1575  400    0 
+spyderhal 949611504  7  5 f   -     -     -         1175    0    0 
+spyderhal 949611537  7  4 f   -     -     -         1175    0    0 
+spyderhal 949611591  7  3 c   bA    -     -         1175 1175 2175 
+spyderhal 949611618  7  2 Bk  k     k     k         2175  400    0 Jc 5d
+spyderhal 949611651  7  1 Bc  k     kf    -         1775  400    0 
+spyderhal 949611708  7  7 f   -     -     -         1375    0    0 
+spyderhal 949611740  6  5 f   -     -     -         1375    0    0 
+spyderhal 949611784  6  5 f   -     -     -         1375    0    0 
+spyderhal 949611804  5  4 f   -     -     -         1375    0    0 
+spyderhal 949611846  5  3 f   -     -     -         1375    0    0 
+spyderhal 949611874  5  2 BcA -     -     -         1375 1375 4125 2s Jh
+spyderhal 949611918  5  1 Bc  bA    -     -         4125 4125 9050 Kc Ad
+spyderhal 949611955  5  5 f   -     -     -         9050    0    0 
+spyderhal 949611980  5  4 c   b     -     -         9050 3200 4800 
+spyderhal 949612018  5  3 f   -     -     -        10650    0    0 
+spyderhal 949612043  5  2 Bc  k     c     -        10650 5025 10050 6d 8d
+spyderhal 949612097  4  1 Bc  k     k     k        15675 1600    0 4c 3c
+spyderhal 949612139  4  4 f   -     -     -        14075    0    0 
+spyderhal 949612154  3  3 f   -     -     -        14075    0    0 
+spyderhal 949612166  3  2 Bf  -     -     -        14075 1600    0 
+spyderhal 949612175  3  1 Bc  k     k     k        12475 3800    0 Kc Qh
+spyderhal 949612208  3  3 c   f     -     -         8675 1600    0 
+spyderhal 949612231  3  2 Bf  -     -     -         7075 1600    0 
+spyderhal 949612243  3  1 Bc  kf    -     -         5475 1600    0 
+spyderhal 949612261  3  3 c   cA    -     -         3875 3875    0 Kc 3c
+spyderhal 949613022 11  1 Bcc b     b     b          900  486  648 
+spyderhal 949613084 11 11 c   f     -     -         1062    6    0 
+spyderhal 949613159 11 10 f   -     -     -         1056    0    0 
+spyderhal 949613231 11  9 f   -     -     -         1056    0    0 
+spyderhal 949613266 11  8 f   -     -     -         1056    0    0 
+spyderhal 949613300 11  7 f   -     -     -         1056    0    0 
+spyderhal 949613412 10  5 f   -     -     -         1056    0    0 
+spyderhal 949613478 10  4 c   bc    kc    k         1056  636 1296 9c Jc
+spyderhal 949613543 10  3 f   -     -     -         1716    0    0 
+spyderhal 949613582 10  2 Bk  b     -     -         1716   72  120 
+spyderhal 949613630 10  1 Bc  k     k     b         1764   48   72 
+spyderhal 949613680 10 10 cc  f     -     -         1788   72    0 
+spyderhal 949613747 10  9 f   -     -     -         1716    0    0 
+spyderhal 949613784  9  8 f   -     -     -         1716    0    0 
+spyderhal 949613953  9  7 f   -     -     -         1716    0    0 
+spyderhal 949613986  9  6 f   -     -     -         1716    0    0 
+spyderhal 949614009  9  5 f   -     -     -         1716    0    0 
+spyderhal 949614060  9  4 c   k     k     k         1716   48  144 Qd Ad
+spyderhal 949614104  9  3 f   -     -     -         1812    0    0 
+spyderhal 949614132  9  2 Brc k     k     k         1812  816 2448 Kd Ad
+spyderhal 949614175  8  1 Bc  kf    -     -         3444   48    0 
+spyderhal 949614218  8  8 f   -     -     -         3396    0    0 
+spyderhal 949614263  8  7 f   -     -     -         3396    0    0 
+spyderhal 949614323  8  6 f   -     -     -         3396    0    0 
+spyderhal 949614368  8  5 c   b     c     b         3396 3240  546 Tc Qc
+spyderhal 949614432  8  4 f   -     -     -          702    0    0 
+spyderhal 949614494  8  3 c   kc    kcA   -          702  702 1644 9c Ad
+spyderhal 949614550  8  2 Bk  k     k     bc        1644  678 1452 9c Js
+spyderhal 949614611  7  1 Bc  k     k     k         2418   96   96 2d Qc
+spyderhal 949614681  7  7 f   -     -     -         2418    0    0 
+spyderhal 949614696  6  5 f   -     -     -         2418    0    0 
+spyderhal 949614718  6  5 f   -     -     -         2418    0    0 
+spyderhal 949614767  6  4 cc  -     -     -         2418  240    0 Ad 2d
+spyderhal 949614786  5  3 f   -     -     -         2178    0    0 
+spyderhal 949614816  5  2 Bk  bf    -     -         2178  864    0 
+spyderhal 949614854  5  1 Bf  -     -     -         1314   96    0 
+spyderhal 949614863  5  5 f   -     -     -         1218    0    0 
+spyderhal 949614878  5  4 c   cA    -     -         1218 1218 3252 Kd Jh
+spyderhal 949614921  4  3 c   c     c     c         3252 1986    0 Qd Th
+spyderhal 949614949  3  2 B   -     -     -         1266  192  288 
+spyderhal 949614958  3  1 Bc  k     k     k         1362  672    0 3d Ts
+spyderhal 949614997  3  3 f   -     -     -          690    0    0 
+spyderhal 949615007  3  2 B   -     -     -          690  384  576 
+spyderhal 949615010  3  1 Bc  bA    -     -          882  882 1266 
+spyderhal 949615023  3  3 f   -     -     -         1266    0    0 
+spyderhal 949615029  3  2 Bk  k     cA    -         1266 1266    0 Ts 7d
+spyderhal 949615546 18  6 r   b     bA    -         5000 5000 12300 Ac Kc
+spyderhal 949615748 17  5 f   -     -     -        12300    0    0 
+spyderhal 949615890 15  4 f   -     -     -        12300    0    0 
+spyderhal 949615988 15  3 c   k     c     f        12300 1100    0 
+spyderhal 949616090 15  2 Bk  b     kf    -        11200  800    0 
+spyderhal 949616219 15  1 Bc  kf    -     -        10400  100    0 
+spyderhal 949616290 14 14 f   -     -     -        10300    0    0 
+spyderhal 949616349 14 13 f   -     -     -        10300    0    0 
+spyderhal 949616478 13 11 f   -     -     -        10300    0    0 
+spyderhal 949616558 13 10 f   -     -     -        10300    0    0 
+spyderhal 949616595 12  8 r   rA    -     -        10300 10300    0 Jd Jh
+spyderhal 949618479 14  6 f   -     -     -        10000    0    0 
+spyderhal 949618578 14  5 f   -     -     -        10000    0    0 
+spyderhal 949618615 13  3 f   -     -     -        10000    0    0 
+spyderhal 949618710 13  2 Bc  f     -     -        10000  160    0 
+spyderhal 949618771 13  1 Br  b     b     -         9840 4240 6000 
+spyderhal 949618838 13 13 c   k     f     -        11600   80    0 
+spyderhal 949618909 13 12 c   f     -     -        11520   80    0 
+spyderhal 949618993 13 11 f   -     -     -        11440    0    0 
+spyderhal 949619147 12  9 cc  f     -     -        11440  280    0 
+spyderhal 949619229 12  9 f   -     -     -        11160    0    0 
+spyderhal 949619276 12  8 f   -     -     -        11160    0    0 
+spyderhal 949619370 12  7 f   -     -     -        11160    0    0 
+spyderhal 949619436 12  6 c   f     -     -        11160 1000    0 
+spyderhal 949619484 12  5 f   -     -     -        10160    0    0 
+spyderhal 949619548 12  4 c   k     b     b        10160 8240    0 7s 7h
+spyderhal 949619613 12  3 r   bA    -     -         1920 1920    0 8h Qs
+spyderhal 949621535 11  8 f   -     -     -        10000    0    0 
+spyderhal 949621680 11  7 c   f     -     -        10000   50    0 
+spyderhal 949621754 11  6 c   f     -     -         9950   50    0 
+spyderhal 949621821 11  5 f   -     -     -         9900    0    0 
+spyderhal 949621913 11  4 c   b     -     -         9900  400  600 
+spyderhal 949621959 11  3 c   f     -     -        10100  100    0 
+spyderhal 949622048 10  2 Bk  kf    -     -        10000  100    0 
+spyderhal 949622113 10  1 Bc  kf    -     -         9900  100    0 
+spyderhal 949622204 10 10 f   -     -     -         9800    0    0 
+spyderhal 949622264 10  9 c   b     b     -         9800 4200 6000 
+spyderhal 949622409 10  8 f   -     -     -        11600    0    0 
+spyderhal 949622534 10  7 f   -     -     -        11600    0    0 
+spyderhal 949622576 10  6 c   kf    -     -        11600  400    0 
+spyderhal 949622668 10  5 cc  f     -     -        11200 1600    0 
+spyderhal 949622712 10  4 f   -     -     -         9600    0    0 
+spyderhal 949622815 10  3 f   -     -     -         9600    0    0 
+spyderhal 949622890 10  2 Bk  k     k     f         9600  800    0 
+spyderhal 949622945 10  1 Bc  kf    -     -         8800  800    0 
+spyderhal 949623036  9  9 c   c     k     bA        8000 8000    0 Ks Kd
+spyderhal 949681134 16  5 f   -     -     -         5000    0    0 
+spyderhal 949681241 16  4 f   -     -     -         5000    0    0 
+spyderhal 949681338 16  3 f   -     -     -         5000    0    0 
+spyderhal 949681560 16  2 Bc  kf    -     -         5000  450    0 
+spyderhal 949681633 15  1 Bf  -     -     -         4550   50    0 
+spyderhal 949681721 15 15 f   -     -     -         4500    0    0 
+spyderhal 949681795 15 14 f   -     -     -         4500    0    0 
+spyderhal 949681870 15 13 f   -     -     -         4500    0    0 
+spyderhal 949681974 15 12 f   -     -     -         4500    0    0 
+spyderhal 949682052 15 11 f   -     -     -         4500    0    0 
+spyderhal 949682110 13  8 f   -     -     -         4500    0    0 
+spyderhal 949682205 13  7 f   -     -     -         4500    0    0 
+spyderhal 949682289 13  6 f   -     -     -         4500    0    0 
+spyderhal 949682352 13  5 f   -     -     -         4500    0    0 
+spyderhal 949682404 13  4 f   -     -     -         4500    0    0 
+spyderhal 949682442 13  3 f   -     -     -         4500    0    0 
+spyderhal 949682513 13  2 Bf  -     -     -         4500  400    0 
+spyderhal 949682579 13  1 Bf  -     -     -         4100  200    0 
+spyderhal 949682651 13 13 f   -     -     -         3900    0    0 
+spyderhal 949682685 13 12 f   -     -     -         3900    0    0 
+spyderhal 949682724 13 11 c   rA    -     -         3900 3900 9400 Kh Ts
+spyderhal 949682773 13 10 c   k     f     -         9400  800    0 
+spyderhal 949682833 13  9 f   -     -     -         8600    0    0 
+spyderhal 949682872 13  8 f   -     -     -         8600    0    0 
+spyderhal 949682976 13  7 f   -     -     -         8600    0    0 
+spyderhal 949683039 13  6 f   -     -     -         8600    0    0 
+spyderhal 949683092 13  5 f   -     -     -         8600    0    0 
+spyderhal 949683151 11  4 c   b     -     -         8600 8000 14872 Jd Qh
+spyderhal 949683208 10  2 f   -     -     -        15472    0    0 
+spyderhal 949683261  9  2 Bf  -     -     -        15472 1600    0 
+spyderhal 949683284  8  1 Bc  k     k     b        13872 6400    0 Qs Kd
+spyderhal 949683351  8  8 f   -     -     -         7472    0    0 
+spyderhal 949683395  8  7 f   -     -     -         7472    0    0 
+spyderhal 949683427  8  6 f   -     -     -         7472    0    0 
+spyderhal 949683450  7  5 f   -     -     -         7472    0    0 
+spyderhal 949683500  7  4 c   bA    -     -         7472 7472    0 Ac Td
+spyderhal 949686635 18 12 f   -     -     -         5000    0    0 
+spyderhal 949686724 18 11 f   -     -     -         5000    0    0 
+spyderhal 949686801 18 10 f   -     -     -         5000    0    0 
+spyderhal 949686870 18  9 f   -     -     -         5000    0    0 
+spyderhal 949686971 16  7 f   -     -     -         5000    0    0 
+spyderhal 949687077 16  6 f   -     -     -         5000    0    0 
+spyderhal 949687111 15  5 c   k     k     f         5000  280    0 
+spyderhal 949687206 15  4 f   -     -     -         4720    0    0 
+spyderhal 949687266 15  3 f   -     -     -         4720    0    0 
+spyderhal 949687322 13  1 Bf  -     -     -         4720   80    0 
+spyderhal 949687379 12  1 Bc  -     -     -         4640 4220    0 Ks Ad
+spyderhal 949687422 12 12 f   -     -     -          420    0    0 
+spyderhal 949687499 12 11 c   cA    -     -          420  420 2160 7h 7c
+spyderhal 949687618 11  9 f   -     -     -         2160    0    0 
+spyderhal 949687692 11  8 f   -     -     -         2160    0    0 
+spyderhal 949687723 10  6 f   -     -     -         2160    0    0 
+spyderhal 949687795 10  5 cc  cA    -     -         2160 2160 4960 9h Qh
+spyderhal 949687828 10  4 c   c     c     bA        4960 4960 8000 
+spyderhal 949687913 10  3 f   -     -     -         8000    0    0 
+spyderhal 949687947 10  2 Bc  kf    -     -         8000 1120    0 
+spyderhal 949687988 10  1 Bc  kf    -     -         6880  320    0 
+spyderhal 949688033 10 10 c   f     -     -         6560  320    0 
+spyderhal 949688073 10  9 c   c     k     bA        6240 6240 13280 Kh Kd
+spyderhal 949688123 10  8 f   -     -     -        13280    0    0 
+spyderhal 949688192 10  7 f   -     -     -        13280    0    0 
+spyderhal 949688207 10  6 c   c     c     f        13280 6364    0 
+spyderhal 949688275 10  5 f   -     -     -         6916    0    0 
+spyderhal 949688295 10  4 c   b     bA    -         6916 6916    0 Qh 2h
+spyderhal 951590330 12  1 Bf  -     -     -         2000   25    0 
+spyderhal 951590415 12 12 c   k     k     b         1975  225  350 
+spyderhal 951590447 12 11 c   c     b     k         2100 1300    0 Qd 8d
+spyderhal 951590482 12 10 f   -     -     -          800    0    0 
+spyderhal 951590540 12  9 f   -     -     -          800    0    0 
+spyderhal 951590566 12  8 f   -     -     -          800    0    0 
+spyderhal 951590623 11  6 f   -     -     -          800    0    0 
+spyderhal 951590641 11  5 f   -     -     -          800    0    0 
+spyderhal 951590688 11  4 f   -     -     -          800    0    0 
+spyderhal 951590758 11  3 f   -     -     -          800    0    0 
+spyderhal 951590810 11  2 Bk  k     kf    -          800   50    0 
+spyderhal 951590890 11  1 Bf  -     -     -          750   50    0 
+spyderhal 951590946 11 11 f   -     -     -          700    0    0 
+spyderhal 951590999 11 10 f   -     -     -          700    0    0 
+spyderhal 951591059 11  9 f   -     -     -          700    0    0 
+spyderhal 951591123 11  8 rA  -     -     -          700  700    0 Jc Ks
+spyderhal 951593175 12  9 c   f     -     -         5000   50    0 
+spyderhal 951593283 12  8 f   -     -     -         4950    0    0 
+spyderhal 951593342 12  7 f   -     -     -         4950    0    0 
+spyderhal 951593434 12  6 f   -     -     -         4950    0    0 
+spyderhal 951593497 11  4 f   -     -     -         4950    0    0 
+spyderhal 951593545 11  4 c   b     b     -         4950 1700 2400 
+spyderhal 951593601 11  3 cf  -     -     -         5650  100    0 
+spyderhal 951593664 10  1 Bk  k     kf    -         5550  100    0 
+spyderhal 951593744 10  1 Bc  kf    -     -         5450  100    0 
+spyderhal 951593803 10 10 c   f     -     -         5350  200    0 
+spyderhal 951593874 10  9 c   f     -     -         5150  200    0 
+spyderhal 951593912 10  8 c   b     k     k         4950 1100 2700 Ah 7h
+spyderhal 951593969 10  7 c   k     k     f         6550  200    0 
+spyderhal 951594034 10  6 c   bcA   -     -         6350 6350    0 As Ad
+spyderhal 951604989 11  3 c   kc    k     bcA       5000 5000 15400 8h 8c
+spyderhal 951605098  9  2 Bf  -     -     -        15400   50    0 
+spyderhal 951605137  8  1 Bc  kf    -     -        15350   50    0 
+spyderhal 951605182  8  8 f   -     -     -        15300    0    0 
+spyderhal 951605211  8  7 f   -     -     -        15300    0    0 
+spyderhal 951605270  8  6 cf  -     -     -        15300   50    0 
+spyderhal 951605335  8  5 c   f     -     -        15250   50    0 
+spyderhal 951605370  8  4 f   -     -     -        15200    0    0 
+spyderhal 951605423  8  3 c   k     k     k        15200   50    0 Qs 3s
+spyderhal 951605473  8  2 Bk  kf    -     -        15150  100    0 
+spyderhal 951605529  8  1 Bf  -     -     -        15050   50    0 
+spyderhal 951605568  6  6 c   f     -     -        15000  100    0 
+spyderhal 951605605  6  6 f   -     -     -        14900    0    0 
+spyderhal 951605616  6  5 f   -     -     -        14900    0    0 
+spyderhal 951605634  6  4 f   -     -     -        14900    0    0 
+spyderhal 951605648  6  3 f   -     -     -        14900    0    0 
+spyderhal 951605690  6  2 Bk  b     b     -        14900 1700 2400 
+spyderhal 951605743  6  1 Bc  kf    -     -        15600  350    0 
+spyderhal 951605771  6  6 f   -     -     -        15250    0    0 
+spyderhal 951605804  6  5 f   -     -     -        15250    0    0 
+spyderhal 951605845  5  3 f   -     -     -        15250    0    0 
+spyderhal 951605922  4  1 B   -     -     -        15250  200  200 
+spyderhal 951605947  4  1 Bc  k     kc    kf       15250  600    0 
+spyderhal 951605980  4  4 f   -     -     -        14650    0    0 
+spyderhal 951606011  4  3 f   -     -     -        14650    0    0 
+spyderhal 951606058  4  2 Bk  k     k     k        14650  200    0 Kc 8c
+spyderhal 951606080  4  1 Bf  -     -     -        14450  100    0 
+spyderhal 951606098  4  4 c   b     -     -        14350 1600 2400 
+spyderhal 951606138  4  3 f   -     -     -        15150    0    0 
+spyderhal 951606144  4  2 Bk  b     k     k        15150 2000 4800 Ac 7h
+spyderhal 951606178  4  1 Bc  k     k     k        17950  400    0 3h 9s
+spyderhal 951606203  4  4 cc  r     bA    -        17550 17550 35500 Ts Ac
+spyderhal 951606246  4  3 f   -     -     -        35500    0    0 
+spyderhal 951606265  4  2 Bf  -     -     -        35500  400    0 
+spyderhal 951606278  4  1 Bcc kc    -     -        35100 1375    0 Kd 9h
+spyderhal 951606299  4  4 f   -     -     -        33725    0    0 
+spyderhal 951606335  4  3 cc  -     -     -        33725 3150 7500 Td Kd
+spyderhal 951606355  3  2 Bk  k     k     k        38075  800    0 Ks 8h
+spyderhal 951606377  3  1 Bf  -     -     -        37275  400    0 
+spyderhal 951606392  3  3 cc  -     -     -        36875 2750    0 7s As
+spyderhal 951606403  3  2 Bk  k     k     k        34125  800    0 7s 6s
+spyderhal 951606434  3  1 Bcf -     -     -        33325  800    0 
+spyderhal 951606448  3  3 f   -     -     -        32525    0    0 
+spyderhal 951606467  3  2 B   -     -     -        32525  800 1200 
+spyderhal 951606471  3  1 Bf  -     -     -        32925  400    0 
+spyderhal 951606476  3  3 f   -     -     -        32525    0    0 
+spyderhal 951606487  2  2 B   -     -     -        32525 1600 2400 
+spyderhal 951606499  2  1 Bf  -     -     -        33325  800    0 
+spyderhal 951606503  2  2 B   -     -     -        32525 1600 2400 
+spyderhal 951606505  2  1 Bc  kf    -     -        33325 1600    0 
+spyderhal 951606523  2  2 Bk  b     -     -        31725 4800 6400 
+spyderhal 951606555  2  1 Bc  k     k     k        33325 1600 3200 Kh 5h
+spyderhal 951606578  2  2 Bk  k     k     k        34925 1600 3200 Ks 5c
+spyderhal 951606596  2  1 Bf  -     -     -        36525  800    0 
+spyderhal 951606604  2  2 Bk  b     -     -        35725 9600 12800 
+spyderhal 951606614  2  1 Bc  b     -     -        38925 9600 12800 
+spyderhal 951606628  2  2 Br  -     -     -        42125 9600 12800 
+spyderhal 951606659  2  1 Bf  -     -     -        45325 1600    0 
+spyderhal 951606662  2  2 B   -     -     -        43725 3200 4800 
+spyderhal 951606666  2  1 Bf  -     -     -        45325 1600    0 
+spyderhal 951606669  2  2 B   -     -     -        43725 3200 4800 
+spyderhal 951606671  2  1 Bc  kf    -     -        45325 3200    0 
+spyderhal 951606686  2  2 Bk  k     f     -        42125 3200    0 
+spyderhal 951606707  2  1 Bf  -     -     -        38925 3200    0 
+spyderhal 951606713  2  2 Bk  f     -     -        35725 6400    0 
+spyderhal 951606725  2  1 Bf  -     -     -        29325 3200    0 
+spyderhal 951606728  2  2 B   -     -     -        26125 6400 9600 
+spyderhal 951606744  2  1 Bc  k     k     kf       29325 6400    0 
+spyderhal 951606781  2  2 Bk  k     k     b        22925 19200 25600 
+spyderhal 951606805  2  1 Bc  b     -     -        29325 19200 25600 
+spyderhal 951606815  2  2 B   -     -     -        35725 6400 9600 
+spyderhal 951606818  2  1 Bc  k     kf    -        38925 6400    0 
+spyderhal 951606836  2  2 Bk  bA    -     -        32525 32525 45325 
+spyderhal 951606855  2  1 Bc  -     -     -        45325 9675 19350 Jc 8h
+spyderhal 951607124 12  1 Bf  -     -     -         2000   25    0 
+spyderhal 951607587 14 11 f   -     -     -         2000    0    0 
+spyderhal 951607673 14 10 c   kf    -     -         2000   50    0 
+spyderhal 951607755 14  9 f   -     -     -         1950    0    0 
+spyderhal 951607848 14  8 c   f     -     -         1950   50    0 
+spyderhal 951607904 13  6 f   -     -     -         1900    0    0 
+spyderhal 951608014 13  5 f   -     -     -         1900    0    0 
+spyderhal 951608097 13  4 c   k     b     bc        1900 1850    0 3d 3h
+spyderhal 951608227 13  3 f   -     -     -           50    0    0 
+spyderhal 951608322 13  2 BA  -     -     -           50   50    0 Js 3h
+spyderhal 951612308 15 10 f   -     -     -        10000    0    0 
+spyderhal 951612375 15  9 f   -     -     -        10000    0    0 
+spyderhal 951612502 15  8 f   -     -     -        10000    0    0 
+spyderhal 951612585 15  7 f   -     -     -        10000    0    0 
+spyderhal 951612649 15  6 f   -     -     -        10000    0    0 
+spyderhal 951612738 15  5 f   -     -     -        10000    0    0 
+spyderhal 951612854 15  4 f   -     -     -        10000    0    0 
+spyderhal 951612972 15  3 f   -     -     -        10000    0    0 
+spyderhal 951613082 15  2 Br  bA    -     -        10000 10000 20450 5s 5c
+spyderhal 951613139 14  1 Bf  -     -     -        20450  200    0 
+spyderhal 951613243 13 13 f   -     -     -        20250    0    0 
+spyderhal 951613319 13 12 c   k     b     -        20250 2600 5700 Jh As
+spyderhal 951613385 12 10 c   f     -     -        23350  400    0 
+spyderhal 951613441 12  9 f   -     -     -        22950    0    0 
+spyderhal 951613454 12  8 c   b     -     -        22950 3000 5200 
+spyderhal 951613510 12  7 c   k     k     k        25150  800 2000 4s 3s
+spyderhal 951613586 12  6 r   k     k     k        26350 2800    0 Qs Ks
+spyderhal 951613632 12  5 c   b     b     -        23550 13600 27200 Qh Ac
+spyderhal 951613780 11  4 c   k     k     kf       37150  800    0 
+spyderhal 951613885 11  3 f   -     -     -        36350    0    0 
+spyderhal 951613911 11  2 Bf  -     -     -        36350 1600    0 
+spyderhal 951613939 10  1 Bf  -     -     -        34750  800    0 
+spyderhal 951613994 10 10 f   -     -     -        33950    0    0 
+spyderhal 951614026 10  9 c   f     -     -        33950 1600    0 
+spyderhal 951614099 10  8 c   b     b     -        32350 30400 51725 Td Ks
+spyderhal 951614196  9  7 c   k     k     b        53675 19200 27200 
+spyderhal 951614244  9  6 f   -     -     -        61675    0    0 
+spyderhal 951614291  9  5 f   -     -     -        61675    0    0 
+spyderhal 951614360  9  4 r   -     -     -        61675 11200 2800 Qd Qh
+spyderhal 951614386  9  3 cf  -     -     -        53275 3200    0 
+spyderhal 951614416  8  2 Bf  -     -     -        50075 3200    0 
+spyderhal 951614456  8  1 Bf  -     -     -        46875 1600    0 
+spyderhal 951614488  8  8 f   -     -     -        45275    0    0 
+spyderhal 951614541  7  6 c   b     b     -        45275 41600 26575 Th Ac
+spyderhal 951614581  7  6 f   -     -     -        30250    0    0 
+spyderhal 951614624  7  5 f   -     -     -        30250    0    0 
+spyderhal 951614642  7  4 c   k     bc    -        30250 16500 36200 9s Ah
+spyderhal 951614682  6  2 f   -     -     -        49950    0    0 
+spyderhal 951614706  6  2 Bk  kf    -     -        49950 6400    0 
+spyderhal 951614752  5  1 Bc  b     -     -        43550 19200 25600 
+spyderhal 951614775  5  5 cc  bA    -     -        49950 49950 89250 8h 5h
+spyderhal 951614829  4  4 r   -     -     -        89250 22400 4250 Qs Tc
+spyderhal 951614862  4  3 f   -     -     -        71100    0    0 
+spyderhal 951614881  4  2 Bk  b     -     -        71100 19200 25600 
+spyderhal 951615006  4  1 Bf  -     -     -        77500 3200    0 
+spyderhal 951615047  3  3 f   -     -     -        74300    0    0 
+spyderhal 951615059  3  3 f   -     -     -        74300    0    0 
+spyderhal 951615086  3  2 Bc  -     -     -        74300 26600    0 8s Js
+spyderhal 951615101  3  1 Bc  k     k     k        47700 12800 25600 5c 5s
+spyderhal 951615130  3  3 f   -     -     -        60500    0    0 
+spyderhal 951615149  3  2 Bk  rA    -     -        60500 60500 120100 9h 6h
+spyderhal 951615226  2  1 Bf  -     -     -       120100 6400    0 
+spyderhal 951615238  2  2 Bc  -     -     -       113700 36300    0 7s 8d
+spyderhal 951615257  2  1 Bc  k     b     -        77400 38400 51200 
+spyderhal 951615289  2  2 Bk  f     -     -        90200 12800    0 
+spyderhal 951615303  2  1 Bf  -     -     -        77400 6400    0 
+spyderhal 951615306  2  2 Bk  k     b     -        71000 38400 51200 
+spyderhal 951615373  2  1 Bc  k     k     k        83800 12800 12800 6h 8h
+spyderhal 951615403  2  2 B   -     -     -        83800 12800 19200 
+spyderhal 951615408  2  1 Bc  k     b     -        90200 76800 17000 Jh Ah
+spyderhal 951615423  2  2 BcA -     -     -        30400 30400    0 Qc Kc
+spyderhal 951616026 13  8 f   -     -     -         2000    0    0 
+spyderhal 951616072 13  7 c   k     k     b         2000  300  500 
+spyderhal 951616143 13  6 c   k     k     kf        2200   50    0 
+spyderhal 951616253 13  5 f   -     -     -         2150    0    0 
+spyderhal 951616395  9  3 f   -     -     -         2150    0    0 
+spyderhal 951616460  9  2 Bk  kf    -     -         2150   50    0 
+spyderhal 951616539  9  1 Bc  bc    kc    -         2100 1925    0 Kd Js
+spyderhal 951616617  9  9 f   -     -     -          175    0    0 
+spyderhal 951616677  9  8 f   -     -     -          175    0    0 
+spyderhal 951616783  9  7 rA  -     -     -          175  175    0 3c 3s
+spyderhal 951633374 10  4 f   -     -     -         5000    0    0 
+spyderhal 951633393 10  3 f   -     -     -         5000    0    0 
+spyderhal 951633410 10  2 Bk  k     k     kf        5000   80    0 
+spyderhal 951633451 10  1 Bc  bcA   -     -         4920 4920 10720 Kc Jd
+spyderhal 951633484 10 10 f   -     -     -        10720    0    0 
+spyderhal 951633524  9  8 f   -     -     -        10720    0    0 
+spyderhal 951633534  9  7 f   -     -     -        10720    0    0 
+spyderhal 951633564  9  6 f   -     -     -        10720    0    0 
+spyderhal 951633603  9  5 f   -     -     -        10720    0    0 
+spyderhal 951633621  9  4 f   -     -     -        10720    0    0 
+spyderhal 951633639  9  3 f   -     -     -        10720    0    0 
+spyderhal 951633657  9  2 BrA -     -     -        10720 10720 1540 5h Qs
+spyderhal 951633705  9  1 BA  -     -     -         1540 1540 5760 6d Ac
+spyderhal 951633734  7  7 c   -     -     -         5760 4360 8720 Js Kd
+spyderhal 951633771  6  6 f   -     -     -        10120    0    0 
+spyderhal 951633785  5  5 f   -     -     -        10120    0    0 
+spyderhal 951633820  3  3 f   -     -     -        10120    0    0 
+spyderhal 951633830  3  3 f   -     -     -        10120    0    0 
+spyderhal 951633852  2  2 BA  -     -     -        10120 10120 20240 Tc Jd
+spyderhal 951633853  2  1 BA  -     -     -        20240 20240 40480 8h Kc
+spyderhal 951633854  2  2 BA  -     -     -        40480 40480 50000 8s 9h
+spyderhal 951634013  9  5 f   -     -     -        50000    0    0 
+spyderhal 951634051  8  3 f   -     -     -        50000    0    0 
+spyderhal 951634075  8  2 Bf  -     -     -        50000   80    0 
+spyderhal 951634099  8  1 Bc  br    bA    -        49920 49920 67280 
+spyderhal 951634146  8  8 c   f     -     -        67280  320    0 
+spyderhal 951634211  8  7 f   -     -     -        66960    0    0 
+spyderhal 951634273  8  6 c   b     b     -        66960 26880 38400 
+spyderhal 951634329  8  5 f   -     -     -        78480    0    0 
+spyderhal 951634385  8  4 f   -     -     -        78480    0    0 
+spyderhal 951634438  7  3 f   -     -     -        78480    0    0 
+spyderhal 951634467  5  2 Bk  k     k     k        78480 10240 24760 Qh 4s
+spyderhal 951634516  4  1 Bc  bcA   -     -        93000 93000    0 Ac 3h
+spyderhal 951634803  6  6 cf  -     -     -        10000   40    0 
+spyderhal 951634841  6  5 c   bc    k     kc        9960 1860 3780 Qh 8d
+spyderhal 951634885  6  4 f   -     -     -        11880    0    0 
+spyderhal 951634927  6  3 cr  bA    -     -        11880 11880 3660 Kh Js
+spyderhal 951634961  6  2 Bk  k     k     f         3660   40    0 
+spyderhal 951635024  6  1 Bc  k     k     kf        3620   40    0 
+spyderhal 951635150  6  6 f   -     -     -         3580    0    0 
+spyderhal 951635180  6  5 f   -     -     -         3580    0    0 
+spyderhal 951635253  6  4 ccA -     -     -         3580 3580 7200 Kh Ts
+spyderhal 951635297  5  3 f   -     -     -         7200    0    0 
+spyderhal 951635347  4  2 Br  b     -     -         7200 2000 3200 
+spyderhal 951635388  4  1 Br  b     b     -         8400 2160 2880 
+spyderhal 951635404  4  4 c   k     f     -         9120   80    0 
+spyderhal 951635427  4  3 f   -     -     -         9040    0    0 
+spyderhal 951635436  4  2 Bc  br    bA    -         9040 9040 18120 4h Kc
+spyderhal 951635459  4  1 Bf  -     -     -        18120   80    0 
+spyderhal 951635467  4  4 c   b     -     -        18040  640  960 
+spyderhal 951635485  4  3 f   -     -     -        18360    0    0 
+spyderhal 951635493  4  2 Bk  f     -     -        18360  160    0 
+spyderhal 951635522  4  1 Bc  k     kc    b        18200 2080 2880 
+spyderhal 951635561  4  4 f   -     -     -        19000    0    0 
+spyderhal 951635600  4  3 c   c     c     c        19000 16035 32550 Tc Jc
+spyderhal 951635644  4  2 Bk  f     -     -        35515  160    0 
+spyderhal 951635668  4  1 Br  kc    -     -        35355 8965 18250 As Qs
+spyderhal 951635702  3  3 c   k     k     k        44640  160  480 Ah 3h
+spyderhal 951635745  3  2 Bk  c     k     k        44960  480  960 As 9d
+spyderhal 951635771  3  1 Bf  -     -     -        45440  160    0 
+spyderhal 951635783  3  3 f   -     -     -        45280    0    0 
+spyderhal 951635788  3  2 Br  -     -     -        45280 2880 3840 
+spyderhal 951635806  3  1 Bf  -     -     -        46240  160    0 
+spyderhal 951635815  3  3 c   c     f     -        46080 1280    0 
+spyderhal 951635843  3  2 Bk  b     -     -        44800  960 1280 
+spyderhal 951635865  3  1 Bc  b     -     -        45120  960 1280 
+spyderhal 951635880  3  3 f   -     -     -        45440    0    0 
+spyderhal 951635904  3  2 Bk  k     b     b        45440 3520 5660 2d Th
+spyderhal 951635928  2  1 Bf  -     -     -        47580  160    0 
+spyderhal 951635937  2  2 Br  b     -     -        47420 2880 3840 
+spyderhal 951635957  2  1 Br  b     b     -        48380 8640 11520 
+spyderhal 951635972  2  2 B   -     -     -        51260  320  480 
+spyderhal 951635974  2  1 Bcc kf    -     -        51420  960    0 
+spyderhal 951635992  2  2 B   -     -     -        50460  320  480 
+spyderhal 951635994  2  1 Bc  b     -     -        50620  960 1280 
+spyderhal 951636004  2  2 B   -     -     -        50940  320  480 
+spyderhal 951636007  2  1 Bcc kf    -     -        51100  960    0 
+spyderhal 951636025  2  2 Bk  f     -     -        50140  320    0 
+spyderhal 951636039  2  1 Bf  -     -     -        49820  160    0 
+spyderhal 951636043  2  2 Bk  f     -     -        49660  320    0 
+spyderhal 951636056  2  1 Bc  k     b     b        49340 2880    0 Qs Kd
+spyderhal 951636088  2  2 Bf  -     -     -        46460  640    0 
+spyderhal 951636098  2  1 Bf  -     -     -        45820  320    0 
+spyderhal 951636101  2  2 Bk  bc    c     -        45500 14500    0 Qs 4d
+spyderhal 951636122  2  1 Bf  -     -     -        31000  320    0 
+spyderhal 951636132  2  2 B   -     -     -        30680  640  960 
+spyderhal 951636134  2  1 Bf  -     -     -        31000  320    0 
+spyderhal 951636138  2  2 Bk  b     -     -        30680 1920 2560 
+spyderhal 951636150  2  1 Bf  -     -     -        31320  320    0 
+spyderhal 951636153  2  2 B   -     -     -        31000  640  960 
+spyderhal 951636156  2  1 Bcc bf    -     -        31320 5760    0 
+spyderhal 951636185  2  2 BrrcA -     -     -        25560 25560    0 Qc Th
+spyderhal 951636538  9  1 Bf  -     -     -         5000   25    0 
+spyderhal 951636577  9  9 c   f     -     -         4975   50    0 
+spyderhal 951636621  9  8 f   -     -     -         4925    0    0 
+spyderhal 951636685  9  7 c   c     b     rA        4925 4925 8625 Th Td
+spyderhal 951636808  8  5 f   -     -     -         8625    0    0 
+spyderhal 951636851  8  4 f   -     -     -         8625    0    0 
+spyderhal 951636912  7  3 c   kf    -     -         8625  100    0 
+spyderhal 951636990  7  2 Bk  k     k     k         8525  100  250 Th Jh
+spyderhal 951637028  7  1 Bf  -     -     -         8675   50    0 
+spyderhal 951637071  7  7 f   -     -     -         8625    0    0 
+spyderhal 951637094  7  6 f   -     -     -         8625    0    0 
+spyderhal 951637174  5  4 c   f     -     -         8625  200    0 
+spyderhal 951637206  5  3 f   -     -     -         8425    0    0 
+spyderhal 951637246  5  2 Bk  kf    -     -         8425  200    0 
+spyderhal 951637294  5  1 Bf  -     -     -         8225  100    0 
+spyderhal 951637312  5  5 f   -     -     -         8125    0    0 
+spyderhal 951637334  4  3 c   k     k     k         8125  400    0 5s 5c
+spyderhal 951637387  4  2 Bf  -     -     -         7725  400    0 
+spyderhal 951637402  4  1 Bc  k     k     k         7325  400  800 3s Td
+spyderhal 951637436  4  4 f   -     -     -         7725    0    0 
+spyderhal 951637454  4  3 f   -     -     -         7725    0    0 
+spyderhal 951637468  4  2 B   -     -     -         7725  400  600 
+spyderhal 951637473  4  1 Bc  k     k     k         7925  400    0 2s 9c
+spyderhal 951637496  4  4 c   b     k     b         7525 6800 9600 
+spyderhal 951637561  4  3 f   -     -     -        10325    0    0 
+spyderhal 951637583  4  2 Bk  f     -     -        10325  400    0 
+spyderhal 951637602  4  1 Bc  kf    -     -         9925 2800    0 
+spyderhal 951637636  4  4 f   -     -     -         7125    0    0 
+spyderhal 951637656  4  3 f   -     -     -         7125    0    0 
+spyderhal 951637684  4  2 B   -     -     -         7125  800 1200 
+spyderhal 951637690  4  1 Bc  kf    -     -         7525  800    0 
+spyderhal 951637718  4  4 f   -     -     -         6725    0    0 
+spyderhal 951637725  4  3 f   -     -     -         6725    0    0 
+spyderhal 951637742  4  2 Bc  bA    -     -         6725 6725    0 Jc Qd
+spyderhal 951769901 21  8 rrA -     -     -         6000 6000    0 Qs Qc
+spyderhal 951773509 18 12 f   -     -     -         5000    0    0 
+spyderhal 951773696 17 10 f   -     -     -         5000    0    0 
+spyderhal 951773771 17  9 f   -     -     -         5000    0    0 
+spyderhal 951773873 16  7 f   -     -     -         5000    0    0 
+spyderhal 951773985 16  7 f   -     -     -         5000    0    0 
+spyderhal 951774084 16  6 cc  b     bA    -         5000 5000 12582 9d Jh
+spyderhal 951774230 14  5 f   -     -     -        12582    0    0 
+spyderhal 951774392 14  4 f   -     -     -        12582    0    0 
+spyderhal 951774448 13  3 f   -     -     -        12582    0    0 
+spyderhal 951774533 13  2 Bk  kf    -     -        12582   40    0 
+spyderhal 951774603 13  1 Bc  k     kf    -        12542  360    0 
+spyderhal 951774680 13 13 c   f     -     -        12182   80    0 
+spyderhal 951774769 13 12 f   -     -     -        12102    0    0 
+spyderhal 951774928 13 11 c   f     -     -        12102   80    0 
+spyderhal 951775005 13 10 f   -     -     -        12022    0    0 
+spyderhal 951775134 12  8 f   -     -     -        12022    0    0 
+spyderhal 951775267 12  7 c   f     -     -        12022  160    0 
+spyderhal 951775343 12  6 c   b     -     -        11862 1040 1760 
+spyderhal 951775400 12  5 f   -     -     -        12582    0    0 
+spyderhal 951775471 12  4 f   -     -     -        12582    0    0 
+spyderhal 951775571 12  3 f   -     -     -        12582    0    0 
+spyderhal 951775632 10  2 Bc  kf    -     -        12582 1120    0 
+spyderhal 951775744 10  1 Bf  -     -     -        11462  160    0 
+spyderhal 951775806 10 10 f   -     -     -        11302    0    0 
+spyderhal 951775860 10  9 f   -     -     -        11302    0    0 
+spyderhal 951775936  9  7 f   -     -     -        11302    0    0 
+spyderhal 951775966  9  6 ccA -     -     -        11302 11302    0 Ah Jc
+spyderhal 951783956 23  7 f   -     -     -         5000    0    0 
+spyderhal 951784048 22  6 c   kc    kf    -         5000  375    0 
+spyderhal 951784140 22  5 f   -     -     -         4625    0    0 
+spyderhal 951784208 22  4 f   -     -     -         4625    0    0 
+spyderhal 951784367 22  3 f   -     -     -         4625    0    0 
+spyderhal 951784511 22  2 Bf  -     -     -         4625  100    0 
+spyderhal 951784624 22  1 Bf  -     -     -         4525   50    0 
+spyderhal 951784717 21 21 f   -     -     -         4475    0    0 
+spyderhal 951784807 21 20 f   -     -     -         4475    0    0 
+spyderhal 951784900 19 17 f   -     -     -         4475    0    0 
+spyderhal 951785033 19 16 f   -     -     -         4475    0    0 
+spyderhal 951785164 18 15 f   -     -     -         4475    0    0 
+spyderhal 951785204 18 14 f   -     -     -         4475    0    0 
+spyderhal 951785243 18 13 c   b     bA    -         4475 4475  275 6s As
+spyderhal 951785303 18 12 cA  -     -     -          275  275    0 Ah Kd
+spyderhal 951804149 18 15 cf  -     -     -         5000   50    0 
+spyderhal 951804285 18 14 f   -     -     -         4950    0    0 
+spyderhal 951804422 18 13 f   -     -     -         4950    0    0 
+spyderhal 951804579 18 12 f   -     -     -         4950    0    0 
+spyderhal 951804671 17 10 f   -     -     -         4950    0    0 
+spyderhal 951804766 16  9 f   -     -     -         4950    0    0 
+spyderhal 951804854 15  7 f   -     -     -         4950    0    0 
+spyderhal 951804953 13  5 f   -     -     -         4950    0    0 
+spyderhal 951805014 13  4 f   -     -     -         4950    0    0 
+spyderhal 951805103 12  3 cf  -     -     -         4950  200    0 
+spyderhal 951805184 12  2 Bk  b     b     bA        4750 4750 7550 
+spyderhal 951805260 12  1 Bc  k     k     k         7550  200    0 Tc 8c
+spyderhal 951805320 12 12 r   -     -     -         7350 2200 3600 
+spyderhal 951805347 12 11 f   -     -     -         8750    0    0 
+spyderhal 951805398 11  9 c   kf    -     -         8750  400    0 
+spyderhal 951805456 11  8 f   -     -     -         8350    0    0 
+spyderhal 951805499 11  7 f   -     -     -         8350    0    0 
+spyderhal 951805566 11  6 f   -     -     -         8350    0    0 
+spyderhal 951805633 11  5 c   f     -     -         8350  400    0 
+spyderhal 951805707 10  4 f   -     -     -         7950    0    0 
+spyderhal 951805838 10  3 c   k     f     -         7950  800    0 
+spyderhal 951805894  9  2 Bf  -     -     -         7150  800    0 
+spyderhal 951805921  9  1 Bf  -     -     -         6350  400    0 
+spyderhal 951805957  8  8 f   -     -     -         5950    0    0 
+spyderhal 951805972  7  7 f   -     -     -         5950    0    0 
+spyderhal 951805994  7  7 c   b     -     -         5950 2800 4000 
+spyderhal 951806012  7  6 f   -     -     -         7150    0    0 
+spyderhal 951806040  7  5 c   b     -     -         7150 3200 4800 
+spyderhal 951806064  7  4 f   -     -     -         8750    0    0 
+spyderhal 951806084  7  3 f   -     -     -         8750    0    0 
+spyderhal 951806104  6  1 Bk  k     k     k         8750 1600 3200 As 6d
+spyderhal 951806140  6  1 Bf  -     -     -        10350  800    0 
+spyderhal 951806151  6  6 f   -     -     -         9550    0    0 
+spyderhal 951806171  6  5 f   -     -     -         9550    0    0 
+spyderhal 951806193  6  4 f   -     -     -         9550    0    0 
+spyderhal 951806204  6  3 c   rA    -     -         9550 9550  775 Jh Qs
+spyderhal 951806233  6  2 BA  -     -     -          775  775 2325 Ad 4s
+spyderhal 951806258  6  1 Bf  -     -     -         2325  800    0 
+spyderhal 951806273  6  6 f   -     -     -         1525    0    0 
+spyderhal 951806296  6  5 f   -     -     -         1525    0    0 
+spyderhal 951806333  6  4 cA  -     -     -         1525 1525    0 Kh 4h
+spyderhal 951807202 13 12 r   b     bA    -         5000 5000    0 As Qs
+spyderhal 951809884 12 11 c   f     -     -         5000  100    0 
+spyderhal 951810020 12 10 f   -     -     -         4900    0    0 
+spyderhal 951810050 12  9 cA  -     -     -         4900 4900  500 8h 5h
+spyderhal 951810074 12  8 rA  -     -     -          500  500 1850 3c 3s
+spyderhal 951810140 11  6 c   kf    -     -         1850  100    0 
+spyderhal 951810206 11  5 f   -     -     -         1750    0    0 
+spyderhal 951810254 11  4 crA -     -     -         1750 1750    0 6s 8h
+spyderhal 951849436 14  4 f   -     -     -        10000    0    0 
+spyderhal 951849523 14  3 f   -     -     -        10000    0    0 
+spyderhal 951849576 14  2 Bk  b     k     b        10000 1240    0 Kd 2c
+spyderhal 951849644 14  1 Bc  kf    -     -         8760   40    0 
+spyderhal 951849697 14 14 f   -     -     -         8720    0    0 
+spyderhal 951849755 14 13 f   -     -     -         8720    0    0 
+spyderhal 951849830 14 12 f   -     -     -         8720    0    0 
+spyderhal 951849904 14 11 f   -     -     -         8720    0    0 
+spyderhal 951850014 14 10 f   -     -     -         8720    0    0 
+spyderhal 951850075 14  9 f   -     -     -         8720    0    0 
+spyderhal 951850156 14  8 f   -     -     -         8720    0    0 
+spyderhal 951850216 14  7 f   -     -     -         8720    0    0 
+spyderhal 951850310 14  6 f   -     -     -         8720    0    0 
+spyderhal 951850372 14  5 f   -     -     -         8720    0    0 
+spyderhal 951850438 14  4 f   -     -     -         8720    0    0 
+spyderhal 951850502 14  3 f   -     -     -         8720    0    0 
+spyderhal 951850575 14  2 Bk  kf    -     -         8720  160    0 
+spyderhal 951850612 14  1 Bc  kf    -     -         8560  320    0 
+spyderhal 951850665 14 14 f   -     -     -         8240    0    0 
+spyderhal 951850730 12 11 f   -     -     -         8240    0    0 
+spyderhal 951850762 12 11 f   -     -     -         8240    0    0 
+spyderhal 951850855 12 10 f   -     -     -         8240    0    0 
+spyderhal 951850926 12  9 f   -     -     -         8240    0    0 
+spyderhal 951850988 12  8 c   f     -     -         8240  640    0 
+spyderhal 951851088 10  6 f   -     -     -         7600    0    0 
+spyderhal 951851149 10  5 f   -     -     -         7600    0    0 
+spyderhal 951851193 10  4 f   -     -     -         7600    0    0 
+spyderhal 951851226 10  3 f   -     -     -         7600    0    0 
+spyderhal 951851256 10  2 Bk  k     kf    -         7600  640    0 
+spyderhal 951851295 10  1 Bc  k     k     k         6960  640    0 Ts 2d
+spyderhal 951851384 10 10 f   -     -     -         6320    0    0 
+spyderhal 951851404 10  9 f   -     -     -         6320    0    0 
+spyderhal 951851441  9  7 f   -     -     -         6320    0    0 
+spyderhal 951851488  8  5 f   -     -     -         6320    0    0 
+spyderhal 951851524  8  5 f   -     -     -         6320    0    0 
+spyderhal 951851551  8  4 r   cA    -     -         6320 6320    0 Td Qc
+spyderhal 951852845 15 14 f   -     -     -        10000    0    0 
+spyderhal 951852937 15 13 f   -     -     -        10000    0    0 
+spyderhal 951852998 15 12 f   -     -     -        10000    0    0 
+spyderhal 951853109 14 10 f   -     -     -        10000    0    0 
+spyderhal 951853249 14  9 f   -     -     -        10000    0    0 
+spyderhal 951853339 14  8 f   -     -     -        10000    0    0 
+spyderhal 951853452 14  7 f   -     -     -        10000    0    0 
+spyderhal 951853497 14  6 f   -     -     -        10000    0    0 
+spyderhal 951853616 12  4 f   -     -     -        10000    0    0 
+spyderhal 951853744 12  3 f   -     -     -        10000    0    0 
+spyderhal 951853816 12  2 Bk  kf    -     -        10000  160    0 
+spyderhal 951853962 12  1 Bf  -     -     -         9840   80    0 
+spyderhal 951854060 10 10 f   -     -     -         9760    0    0 
+spyderhal 951854153 10 10 f   -     -     -         9760    0    0 
+spyderhal 951854209 10  9 f   -     -     -         9760    0    0 
+spyderhal 951854243  9  8 f   -     -     -         9760    0    0 
+spyderhal 951854284  8  7 f   -     -     -         9760    0    0 
+spyderhal 951854362  8  6 f   -     -     -         9760    0    0 
+spyderhal 951854420  8  5 f   -     -     -         9760    0    0 
+spyderhal 951854487  8  4 f   -     -     -         9760    0    0 
+spyderhal 951854528  8  3 f   -     -     -         9760    0    0 
+spyderhal 951854554  8  2 Bk  kf    -     -         9760  640    0 
+spyderhal 951854592  8  1 Bf  -     -     -         9120  320    0 
+spyderhal 951854619  8  8 f   -     -     -         8800    0    0 
+spyderhal 951854736  8  7 f   -     -     -         8800    0    0 
+spyderhal 951854786  8  6 f   -     -     -         8800    0    0 
+spyderhal 951854826  8  5 f   -     -     -         8800    0    0 
+spyderhal 951854873  8  4 f   -     -     -         8800    0    0 
+spyderhal 951854914  8  3 f   -     -     -         8800    0    0 
+spyderhal 951854955  8  2 Bk  kf    -     -         8800 1280    0 
+spyderhal 951854996  8  1 Bf  -     -     -         7520  640    0 
+spyderhal 951855024  8  8 f   -     -     -         6880    0    0 
+spyderhal 951855109  8  7 f   -     -     -         6880    0    0 
+spyderhal 951855139  8  6 f   -     -     -         6880    0    0 
+spyderhal 951855181  8  5 f   -     -     -         6880    0    0 
+spyderhal 951855216  8  4 f   -     -     -         6880    0    0 
+spyderhal 951855244  8  3 f   -     -     -         6880    0    0 
+spyderhal 951855254  8  2 Bf  -     -     -         6880 1280    0 
+spyderhal 951855282  8  1 Bf  -     -     -         5600  640    0 
+spyderhal 951855328  8  8 rA  -     -     -         4960 4960 22400 6h As
+spyderhal 951855366  7  6 f   -     -     -        22400    0    0 
+spyderhal 951855424  7  5 f   -     -     -        22400    0    0 
+spyderhal 951855457  7  4 f   -     -     -        22400    0    0 
+spyderhal 951855485  6  3 f   -     -     -        22400    0    0 
+spyderhal 951855535  6  2 Bc  bA    -     -        22400 22400 32586 Ad 3h
+spyderhal 951855563  5  1 Bc  k     b     -        32586 14080 10560 4c 2c
+spyderhal 951855616  5  5 f   -     -     -        29066    0    0 
+spyderhal 951855639  4  4 f   -     -     -        29066    0    0 
+spyderhal 951855663  4  3 c   k     b     k        29066 11520 26880 Tc 7c
+spyderhal 951855714  4  2 Bk  f     -     -        44426 5120    0 
+spyderhal 951855759  3  1 Br  -     -     -        39306 20480 30720 
+spyderhal 951855773  3  3 r   -     -     -        49546 17920 25600 
+spyderhal 951855790  3  2 Bf  -     -     -        57226 5120    0 
+spyderhal 951855803  3  1 Bc  kf    -     -        52106 5120    0 
+spyderhal 951855847  3  3 c   f     -     -        46986 5120    0 
+spyderhal 951855873  2  2 B   -     -     -        41866 5120 7680 
+spyderhal 951855879  2  1 Bc  b     kf    -        44426 15360    0 
+spyderhal 951855908  2  2 B   -     -     -        29066 5120 7680 
+spyderhal 951855916  2  1 Bc  kf    -     -        31626 5120    0 
+spyderhal 951855944  2  2 Bf  -     -     -        26506 5120    0 
+spyderhal 951855950  2  1 BccA -     -     -        21386 21386    0 Td Jc
+spyderhal 951858739 12  6 f   -     -     -         3000    0    0 
+spyderhal 951858852 12  5 f   -     -     -         3000    0    0 
+spyderhal 951858916 12  4 f   -     -     -         3000    0    0 
+spyderhal 951858988 12  3 f   -     -     -         3000    0    0 
+spyderhal 951859049 12  2 Bk  kf    -     -         3000   10    0 
+spyderhal 951859099 12  1 Bf  -     -     -         2990   10    0 
+spyderhal 951859204 12 12 f   -     -     -         2980    0    0 
+spyderhal 951859286 11 10 f   -     -     -         2980    0    0 
+spyderhal 951859370 11  9 c   b     b     bA        2980 2980 6860 3h 3s
+spyderhal 951859462 10  7 f   -     -     -         6860    0    0 
+spyderhal 951859517 10  7 c   kc    k     f         6860  240    0 
+spyderhal 951859590 10  6 f   -     -     -         6620    0    0 
+spyderhal 951859662 10  5 f   -     -     -         6620    0    0 
+spyderhal 951859736  9  4 f   -     -     -         6620    0    0 
+spyderhal 951859814  9  3 r   k     b     -         6620  960 1360 
+spyderhal 951859864  9  2 Bf  -     -     -         7020   80    0 
+spyderhal 951859913  9  1 Bf  -     -     -         6940   40    0 
+spyderhal 951859947  9  9 f   -     -     -         6900    0    0 
+spyderhal 951860013  8  7 f   -     -     -         6900    0    0 
+spyderhal 951860070  8  6 f   -     -     -         6900    0    0 
+spyderhal 951860136  8  5 f   -     -     -         6900    0    0 
+spyderhal 951860188  8  4 c   b     bc    -         6900 4935 10670 Ah Jd
+spyderhal 951860220  7  3 f   -     -     -        12635    0    0 
+spyderhal 951860242  6  2 Bk  k     k     f        12635  160    0 
+spyderhal 951860341  6  1 Bc  b     -     -        12475 1840 2560 
+spyderhal 951860366  6  6 f   -     -     -        13195    0    0 
+spyderhal 951860405  6  5 c   f     -     -        13195  160    0 
+spyderhal 951860430  6  4 cc  c     c     -        13035 4670    0 Qc As
+spyderhal 951860454  6  3 f   -     -     -         8365    0    0 
+spyderhal 951860468  6  2 Br  bc    -     -         8365 4820    0 As Ac
+spyderhal 951860520  6  1 Bc  k     k     k         3545  320    0 Js 8h
+spyderhal 951860567  6  6 f   -     -     -         3225    0    0 
+spyderhal 951860616  6  5 c   k     rA    -         3225 3225 3705 4d Ad
+spyderhal 951860680  6  4 c   rA    -     -         3705 3705 3160 9h 8s
+spyderhal 951860733  6  3 crA -     -     -         3160 3160 6800 Ks 2s
+spyderhal 951860767  6  2 Bc  kf    -     -         6800  960    0 
+spyderhal 951860814  4  1 Bf  -     -     -         5840  160    0 
+spyderhal 951860827  4  4 f   -     -     -         5680    0    0 
+spyderhal 951860866  4  3 f   -     -     -         5680    0    0 
+spyderhal 951860886  4  2 Br  bA    -     -         5680 5680 12320 8c 8h
+spyderhal 951860907  4  1 Bc  b     -     -        12320 7320 10180 9s Ks
+spyderhal 951860926  3  3 r   -     -     -        15180 1920 2560 
+spyderhal 951860936  3  3 f   -     -     -        15820    0    0 
+spyderhal 951860945  3  2 Bf  -     -     -        15820  640    0 
+spyderhal 951860952  3  1 Bc  k     k     k        15180  640    0 5d 6c
+spyderhal 951860969  3  3 cc  f     -     -        14540 2560    0 
+spyderhal 951860993  2  1 B   -     -     -        11980  640  640 
+spyderhal 951860998  2  1 Bc  b     -     -        11980 1920 2560 
+spyderhal 951861012  2  2 B   -     -     -        12620  640  960 
+spyderhal 951861014  2  1 Bc  k     kf    -        12940  640    0 
+spyderhal 951861036  2  2 Bk  f     -     -        12300  640    0 
+spyderhal 951861052  2  1 Bc  kf    -     -        11660  640    0 
+spyderhal 951861064  2  2 Bk  b     -     -        11020 1920 2560 
+spyderhal 951861076  2  1 Bc  b     -     -        11660 1920 2560 
+spyderhal 951861085  2  2 B   -     -     -        12300  640  960 
+spyderhal 951861087  2  1 Bc  bf    -     -        12620 1920    0 
+spyderhal 951861104  2  2 B   -     -     -        10700  640  960 
+spyderhal 951861107  2  1 Bf  -     -     -        11020  320    0 
+spyderhal 951861109  2  2 Bk  f     -     -        10700  640    0 
+spyderhal 951861122  2  1 Bc  b     -     -        10060 1920 2560 
+spyderhal 951861135  2  2 Bf  -     -     -        10700  640    0 
+spyderhal 951861144  2  1 Bf  -     -     -        10060  320    0 
+spyderhal 951861147  2  2 Bk  b     b     bA        9740 9740 15500 
+spyderhal 951861169  2  1 Bf  -     -     -        15500  320    0 
+spyderhal 951861173  2  2 Br  bA    -     -        15180 15180    0 6h Ah
+spyderhal 951861540 23 22 f   -     -     -         5000    0    0 
+spyderhal 951861632 21 19 f   -     -     -         5000    0    0 
+spyderhal 951861761 21 18 f   -     -     -         5000    0    0 
+spyderhal 951861837 21 17 f   -     -     -         5000    0    0 
+spyderhal 951861923 21 16 f   -     -     -         5000    0    0 
+spyderhal 951862027 21 15 cf  -     -     -         5000  220    0 
+spyderhal 951862190 21 14 f   -     -     -         4780    0    0 
+spyderhal 951862285 21 13 f   -     -     -         4780    0    0 
+spyderhal 951862343 20 11 f   -     -     -         4780    0    0 
+spyderhal 951862478 20 11 f   -     -     -         4780    0    0 
+spyderhal 951862633 20 10 f   -     -     -         4780    0    0 
+spyderhal 951862702 19  8 f   -     -     -         4780    0    0 
+spyderhal 951862762 18  7 f   -     -     -         4780    0    0 
+spyderhal 951862824 18  6 f   -     -     -         4780    0    0 
+spyderhal 951862877 18  5 f   -     -     -         4780    0    0 
+spyderhal 951863007 18  4 cf  -     -     -         4780  640    0 
+spyderhal 951863057 18  3 f   -     -     -         4140    0    0 
+spyderhal 951863171 17  2 BrA -     -     -         4140 4140 8920 2d 2c
+spyderhal 951863207 16  1 Bf  -     -     -         8920  640    0 
+spyderhal 951863256 16 16 f   -     -     -         8280    0    0 
+spyderhal 951863287 16 15 f   -     -     -         8280    0    0 
+spyderhal 951863343 16 14 f   -     -     -         8280    0    0 
+spyderhal 951863385 15 12 f   -     -     -         8280    0    0 
+spyderhal 951863427 15 11 f   -     -     -         8280    0    0 
+spyderhal 951863450 15 10 f   -     -     -         8280    0    0 
+spyderhal 951863493 15  9 f   -     -     -         8280    0    0 
+spyderhal 951863522 15  8 f   -     -     -         8280    0    0 
+spyderhal 951863581 15  7 f   -     -     -         8280    0    0 
+spyderhal 951863637 15  6 f   -     -     -         8280    0    0 
+spyderhal 951863670 14  4 rA  -     -     -         8280 8280    0 Jh Ac

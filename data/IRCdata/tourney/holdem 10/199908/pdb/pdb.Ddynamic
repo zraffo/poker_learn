@@ -1,0 +1,41 @@
+Ddynamic  934260540 16  9 f   -     -     -         5000    0    0 
+Ddynamic  934260635 15  7 cf  -     -     -         5000   50    0 
+Ddynamic  934260772 14  5 f   -     -     -         4950    0    0 
+Ddynamic  934260932 13  4 c   k     kf    -         4950  100    0 
+Ddynamic  934261132 13  3 cf  -     -     -         4850  100    0 
+Ddynamic  934261274 13  2 Bk  kf    -     -         4750  100    0 
+Ddynamic  934261372 12  1 Bc  kf    -     -         4650  200    0 
+Ddynamic  934261451 12 12 c   k     k     f         4450  200    0 
+Ddynamic  934261608 12 11 f   -     -     -         4250    0    0 
+Ddynamic  934261690 12 10 f   -     -     -         4250    0    0 
+Ddynamic  934261777 12  9 c   c     c     k         4250 2100 2600 As 7c
+Ddynamic  934261912 12  8 f   -     -     -         4750    0    0 
+Ddynamic  934261992 12  7 c   f     -     -         4750  400    0 
+Ddynamic  934262047 12  6 f   -     -     -         4350    0    0 
+Ddynamic  934262120 12  5 c   kf    -     -         4350  400    0 
+Ddynamic  934262205 12  4 f   -     -     -         3950    0    0 
+Ddynamic  934262263 11  3 ccA -     -     -         3950 3950 9900 Ad Ah
+Ddynamic  934262301 11  2 Bk  k     kf    -         9900  800    0 
+Ddynamic  934262403 11  1 Bf  -     -     -         9100  400    0 
+Ddynamic  934262467 11 11 f   -     -     -         8700    0    0 
+Ddynamic  934262504 11 10 f   -     -     -         8700    0    0 
+Ddynamic  934262605 11  9 c   k     k     k         8700 2975 9725 Ks Kh
+Ddynamic  934262653 10  7 c   k     k     k        15450 1600 4800 Qc Ac
+Ddynamic  934262692  9  5 c   b     -     -        18650 4800 6400 
+Ddynamic  934262740  9  5 f   -     -     -        20250    0    0 
+Ddynamic  934262769  9  4 f   -     -     -        20250    0    0 
+Ddynamic  934262837  8  3 c   k     k     f        20250 1600    0 
+Ddynamic  934262902  8  2 Bk  k     k     k        18650 1600    0 4h Ks
+Ddynamic  934262953  8  1 Bf  -     -     -        17050  800    0 
+Ddynamic  934262972  8  8 c   c     -     -        16250 7358 4508 Ts Qc
+Ddynamic  934263037  8  7 f   -     -     -        13400    0    0 
+Ddynamic  934263067  8  6 f   -     -     -        13400    0    0 
+Ddynamic  934263090  8  5 f   -     -     -        13400    0    0 
+Ddynamic  934263144  7  4 f   -     -     -        13400    0    0 
+Ddynamic  934263159  6  2 cc  -     -     -        13400 7728 18656 3c 3h
+Ddynamic  934263206  5  2 Bk  b     -     -        24328 9600 12800 
+Ddynamic  934263256  5  1 Bc  -     -     -        27528 2908 4741 9h 4c
+Ddynamic  934263276  4  4 c   k     b     -        29361 16100 25750 9d 6d
+Ddynamic  934263316  3  3 c   c     -     -        39011 3964    0 Ac Jh
+Ddynamic  934263340  3  2 Bf  -     -     -        35047 6400    0 
+Ddynamic  934263360  3  1 Bcc kcA   -     -        28647 28647    0 6h 5s

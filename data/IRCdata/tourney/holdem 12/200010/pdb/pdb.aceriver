@@ -1,0 +1,508 @@
+aceriver  972821557 10  8 c   k     k     kf       10000  350    0 
+aceriver  972821690 10  7 c   k     k     k         9650  100    0 Td 3d
+aceriver  972821738 10  6 cf  -     -     -         9550  100    0 
+aceriver  972821774 10  5 cc  bf    -     -         9450 1850    0 
+aceriver  972821841 10  4 c   k     kf    -         7600  100    0 
+aceriver  972821931 10  3 c   bc    bA    -         7500 7500 14300 7s 3s
+aceriver  972821993  9  2 Bc  k     kf    -        14300  700    0 
+aceriver  972822075  9  1 Bc  k     kf    -        13600  200    0 
+aceriver  972822120  9  9 c   k     b     r        13400 3000 6500 Th Qd
+aceriver  972822191  9  8 c   b     b     -        16900 4800 11600 Ah Qd
+aceriver  972822277  8  6 f   -     -     -        23700    0    0 
+aceriver  972822309  8  5 f   -     -     -        23700    0    0 
+aceriver  972822365  8  4 c   kf    -     -        23700  400    0 
+aceriver  972822406  8  3 f   -     -     -        23300    0    0 
+aceriver  972822435  8  2 Bk  kf    -     -        23300  400    0 
+aceriver  972822483  8  1 Bc  kf    -     -        22900 1400    0 
+aceriver  972822527  8  8 f   -     -     -        21500    0    0 
+aceriver  972822577  8  7 c   c     c     -        21500 9200 19000 Jc Ks
+aceriver  972822633  7  5 c   f     -     -        31300  400    0 
+aceriver  972822689  7  4 c   k     c     c        30900 12400    0 Qs 5c
+aceriver  972822748  7  3 cc  kf    -     -        18500 3600    0 
+aceriver  972822785  7  2 Bk  k     c     rA       14900 14900 22100 
+aceriver  972822828  7  1 Bf  -     -     -        22100  400    0 
+aceriver  972822857  7  7 c   k     f     -        21700  800    0 
+aceriver  972822883  7  6 f   -     -     -        20900    0    0 
+aceriver  972822905  7  5 cc  c     k     c        20900 10075 20550 Qc Jh
+aceriver  972822976  6  3 c   k     k     k        31375  800 1600 Kh 4c
+aceriver  972823016  6  3 f   -     -     -        32175    0    0 
+aceriver  972823049  5  2 Bf  -     -     -        32175  800    0 
+aceriver  972823062  5  1 Bc  k     k     bc       31375 9250    0 Jc Js
+aceriver  972823096  5  5 f   -     -     -        22125    0    0 
+aceriver  972823127  5  4 c   k     k     b        22125 5600 9600 
+aceriver  972823174  5  3 f   -     -     -        26125    0    0 
+aceriver  972823189  4  2 Bf  -     -     -        26125 1600    0 
+aceriver  972823220  3  1 Bf  -     -     -        24525  800    0 
+aceriver  972823239  2  2 c   k     r     bA       23725 23725 38125 
+aceriver  972823270  2  2 B   -     -     -        38125 1600 2400 
+aceriver  972823272  2  1 Bc  k     kc    k        38925 4800 9600 5d Kd
+aceriver  972823289  2  2 B   -     -     -        43725 1600 2400 
+aceriver  972823293  2  1 Bc  b     -     -        44525 4800 6400 
+aceriver  972823301  2  2 Br  b     -     -        46125 14400 19200 
+aceriver  972823313  2  1 Bc  k     b     -        50925 4800 6400 
+aceriver  972823325  2  2 B   -     -     -        52525 1600 2400 
+aceriver  972823327  2  1 Br  -     -     -        53325 4800 6400 
+aceriver  972823330  2  2 B   -     -     -        54925 1600 2400 
+aceriver  972823332  2  1 Br  k     b     -        55725 14400 19200 
+aceriver  972823350  2  2 B   -     -     -        60525 1600 2400 
+aceriver  972823352  2  1 Br  -     -     -        61325 4800 6400 
+aceriver  972823355  2  2 Br  k     c     f        62925 14400    0 
+aceriver  972823370  2  1 Bf  -     -     -        48525  800    0 
+aceriver  972823372  2  2 Bk  f     -     -        47725 1600    0 
+aceriver  972823379  2  1 Bc  k     k     kf       46125 1600    0 
+aceriver  972823397  2  2 Bk  k     f     -        44525 1600    0 
+aceriver  972823409  2  1 Bc  k     b     -        42925 4800 6400 
+aceriver  972823420  2  2 Bk  k     f     -        44525 1600    0 
+aceriver  972823430  2  1 Bc  k     k     k        42925 3200 6400 Jh 8s
+aceriver  972823445  2  2 B   -     -     -        46125 3200 4800 
+aceriver  972823450  2  1 Bc  b     -     -        47725 9600 12800 
+aceriver  972823457  2  2 Bk  k     k     f        50925 3200    0 
+aceriver  972823469  2  1 Bf  -     -     -        47725 1600    0 
+aceriver  972823473  2  2 Bk  f     -     -        46125 3200    0 
+aceriver  972823485  2  1 Bc  b     bA    -        42925 42925 52525 
+aceriver  972823498  2  2 B   -     -     -        52525 3200 4800 
+aceriver  972823501  2  1 Bc  b     -     -        54125 9600 12800 
+aceriver  972823508  2  2 Bf  -     -     -        57325 3200    0 
+aceriver  972823512  2  1 BcrA -     -     -        54125 54125 8250 Kc Qc
+aceriver  972823520  2  2 BcA -     -     -         8250 8250 16500 Ac Qd
+aceriver  972823530  2  1 Bf  -     -     -        16500 1600    0 
+aceriver  972823536  2  2 B   -     -     -        14900 3200 4800 
+aceriver  972823538  2  1 Bc  k     k     b        16500 9600 12800 
+aceriver  972823554  2  2 B   -     -     -        19700 3200 4800 
+aceriver  972823556  2  1 Bf  -     -     -        21300 1600    0 
+aceriver  972823561  2  2 Bk  k     k     f        19700 3200    0 
+aceriver  972823574  2  1 Bf  -     -     -        16500 1600    0 
+aceriver  972823576  2  2 BrA -     -     -        14900 14900 29800 9c 9s
+aceriver  972823583  2  1 Bc  k     k     b        29800 9600 12800 
+aceriver  972823601  2  2 B   -     -     -        33000 3200 4800 
+aceriver  972823603  2  1 Bc  kf    -     -        34600 3200    0 
+aceriver  972823613  2  2 Bk  k     k     f        31400 3200    0 
+aceriver  972823626  2  1 BrA -     -     -        28200 28200 56400 Kc 5c
+aceriver  972823633  2  2 B   -     -     -        56400 3200 4800 
+aceriver  972823638  2  1 Bf  -     -     -        58000 1600    0 
+aceriver  972823642  2  2 Bk  k     b     -        56400 9600 12800 
+aceriver  972823655  2  1 Br  b     kf    -        59600 28800    0 
+aceriver  972823667  2  2 B   -     -     -        30800 3200 4800 
+aceriver  972823670  2  1 Bc  k     kf    -        32400 3200    0 
+aceriver  972823683  2  2 Bk  k     k     k        29200 3200    0 Qh 4c
+aceriver  972823699  2  1 Bc  k     kf    -        26000 3200    0 
+aceriver  972823714  2  2 BrA -     -     -        22800 22800 26000 
+aceriver  972823721  2  1 Bc  b     -     -        26000 9600 12800 
+aceriver  972823731  2  2 B   -     -     -        29200 3200 4800 
+aceriver  972823733  2  1 Bf  -     -     -        30800 1600    0 
+aceriver  972823735  2  2 B   -     -     -        29200 3200 4800 
+aceriver  972823737  2  1 Bc  b     -     -        30800 9600 12800 
+aceriver  972823745  2  2 Bk  k     r     -        34000 28800 38400 
+aceriver  972823758  2  1 Bf  -     -     -        43600 1600    0 
+aceriver  972823762  2  2 Bk  k     f     -        42000 3200    0 
+aceriver  972823774  2  1 Br  -     -     -        38800 9600 12800 
+aceriver  972823777  2  2 Bk  k     k     bA       42000 42000 45200 
+aceriver  972823795  2  1 Bf  -     -     -        45200 3200    0 
+aceriver  972823798  2  2 Bk  k     k     f        42000 6400    0 
+aceriver  972823814  2  1 BrA -     -     -        35600 35600 71200 Ah Kd
+aceriver  972823824  2  2 Bc  c     -     -        71200 28800    0 Qc Kc
+aceriver  972823835  2  1 Bc  k     k     bA       42400 42400 48800 
+aceriver  972823859  2  2 B   -     -     -        48800 6400 9600 
+aceriver  972823860  2  1 Bf  -     -     -        52000 3200    0 
+aceriver  972823863  2  2 Bk  f     -     -        48800 6400    0 
+aceriver  972823871  2  1 Bf  -     -     -        42400 3200    0 
+aceriver  972823872  2  2 Br  -     -     -        39200 16400 22800 
+aceriver  972823878  2  1 Br  -     -     -        45600 19200 25600 
+aceriver  972823881  2  2 Bk  k     f     -        52000 6400    0 
+aceriver  972823894  2  1 Bc  kf    -     -        45600 6400    0 
+aceriver  972823909  2  2 Bk  k     k     k        39200 6400 12800 6h 5c
+aceriver  972823933  2  1 Bf  -     -     -        45600 3200    0 
+aceriver  972823941  2  2 BrA -     -     -        42400 42400 84800 9s 9c
+aceriver  972823952  2  1 Bc  b     -     -        84800 15200 21600 
+aceriver  972823967  2  2 Bc  -     -     -        91200 8800 17600 5d Ac
+aceriver  972824596  6  5 c   k     k     k        20000   40    0 Ac 7h
+aceriver  972824665  6  4 f   -     -     -        19960    0    0 
+aceriver  972824695  6  3 c   c     c     k        19960  680    0 3h Qh
+aceriver  972824733  6  2 Bk  k     k     b        19280  240  320 
+aceriver  972824769  6  1 Bf  -     -     -        19360   20    0 
+aceriver  972824804  6  6 c   c     c     f        19340 1500    0 
+aceriver  972824837  6  5 f   -     -     -        17840    0    0 
+aceriver  972824862  6  4 c   f     -     -        17840   80    0 
+aceriver  972824905  6  3 cc  kf    -     -        17760  360    0 
+aceriver  972824950  6  2 Bk  k     k     k        17400   80    0 6h 6c
+aceriver  972825047  6  1 Bc  k     k     kr       17320 1040 2160 Ac Qh
+aceriver  972825116  6  6 c   f     -     -        18440  280    0 
+aceriver  972825147  6  5 c   k     b     -        18160  280  400 
+aceriver  972825283  6  4 c   k     k     k        18280   80    0 9h 8s
+aceriver  972825365  6  3 f   -     -     -        18200    0    0 
+aceriver  972825432  6  2 Bf  -     -     -        18200  160    0 
+aceriver  972825540  6  1 Bc  kc    b     -        18040 3760 5120 
+aceriver  972825578  6  6 c   f     -     -        19400  560    0 
+aceriver  972825607  6  5 c   c     k     k        18840  440    0 Kh 6h
+aceriver  972825639  6  4 c   r     k     b        18400 8480 11520 
+aceriver  972825738  6  3 cc  kf    -     -        21440  720    0 
+aceriver  972825799  6  2 Bk  k     k     k        20720  320  320 3d Qc
+aceriver  972825831  6  1 Bc  k     k     k        20720  320  640 Ah Jc
+aceriver  972825883  6  6 f   -     -     -        21040    0    0 
+aceriver  972825909  6  5 c   k     f     -        21040  320    0 
+aceriver  972825969  6  4 f   -     -     -        20720    0    0 
+aceriver  972826013  6  3 f   -     -     -        20720    0    0 
+aceriver  972826090  6  2 Bf  -     -     -        20720  320    0 
+aceriver  972826110  6  1 Bc  k     kf    -        20400  640    0 
+aceriver  972826152  6  6 f   -     -     -        19760    0    0 
+aceriver  972826197  6  5 c   k     k     kf       19760  640    0 
+aceriver  972826290  6  4 cf  -     -     -        19120  640    0 
+aceriver  972826307  5  2 c   kc    -     -        18480 6500    0 3c Ac
+aceriver  972826348  5  2 Bk  kf    -     -        11980  640    0 
+aceriver  972826406  5  1 Bc  kf    -     -        11340 2240    0 
+aceriver  972826427  5  5 f   -     -     -         9100    0    0 
+aceriver  972826454  5  4 c   f     -     -         9100 1280    0 
+aceriver  972826520  5  3 f   -     -     -         7820    0    0 
+aceriver  972826528  5  2 B   -     -     -         7820 1280 1920 
+aceriver  972826535  5  1 Bf  -     -     -         8460  640    0 
+aceriver  972826567  5  5 f   -     -     -         7820    0    0 
+aceriver  972826588  5  4 c   k     k     k         7820 1280 4480 8d Kc
+aceriver  972826612  5  3 f   -     -     -        11020    0    0 
+aceriver  972826631  5  2 B   -     -     -        11020 2560 3840 
+aceriver  972826644  5  1 Bc  b     -     -        12300 7680 10240 
+aceriver  972826680  5  5 f   -     -     -        14860    0    0 
+aceriver  972826713  5  4 crA -     -     -        14860 14860 1000 8h Qh
+aceriver  972826731  5  3 cA  -     -     -         1000 1000    0 Ks Js
+aceriver  972827273 11  1 Bc  kf    -     -        10000   50    0 
+aceriver  972827360 11 11 c   f     -     -         9950   50    0 
+aceriver  972827438 11 10 c   k     k     r         9900  425    0 Kc Qc
+aceriver  972827522 11  9 r   -     -     -         9475  275  450 
+aceriver  972827559 11  8 f   -     -     -         9650    0    0 
+aceriver  972827618 11  7 c   f     -     -         9650   50    0 
+aceriver  972827712 11  6 f   -     -     -         9600    0    0 
+aceriver  972827740 11  5 f   -     -     -         9600    0    0 
+aceriver  972827820 11  4 c   f     -     -         9600  100    0 
+aceriver  972827897 10  3 c   kf    -     -         9500  100    0 
+aceriver  972827970 10  2 Bf  -     -     -         9400  100    0 
+aceriver  972828004 10  1 Bf  -     -     -         9300   50    0 
+aceriver  972828062  9  9 f   -     -     -         9250    0    0 
+aceriver  972828127  9  8 f   -     -     -         9250    0    0 
+aceriver  972828195  9  7 cf  -     -     -         9250  200    0 
+aceriver  972828258  9  6 rA  -     -     -         9050 9050 9750 
+aceriver  972828289  9  5 f   -     -     -         9750    0    0 
+aceriver  972828359  9  4 c   f     -     -         9750  200    0 
+aceriver  972828427  9  3 f   -     -     -         9550    0    0 
+aceriver  972828497  9  2 Bk  k     k     k         9550  200    0 9s Jc
+aceriver  972828574  9  1 Bf  -     -     -         9350  200    0 
+aceriver  972828646  9  9 r   bA    -     -         9150 9150 3575 Tc Kc
+aceriver  972828676  9  8 f   -     -     -         3575    0    0 
+aceriver  972828740  8  6 rA  -     -     -         3575 3575    0 Ac 7s
+aceriver  972933090 15  5 f   -     -     -        10000    0    0 
+aceriver  972933183 15  4 cc  k     kf    -        10000  550    0 
+aceriver  972933261 15  3 cf  -     -     -         9450   50    0 
+aceriver  972933312 15  2 Bf  -     -     -         9400   50    0 
+aceriver  972933425 15  1 Bc  bf    -     -         9350  400    0 
+aceriver  972933523 15 15 c   f     -     -         8950  100    0 
+aceriver  972933598 15 14 f   -     -     -         8850    0    0 
+aceriver  972933675 15 13 c   c     k     b         8850 6350 9000 
+aceriver  972933746 15 12 f   -     -     -        11500    0    0 
+aceriver  972933832 15 11 c   f     -     -        11500  350    0 
+aceriver  972933887 15 10 c   c     b     bA       11150 11150 15450 
+aceriver  972933979 15  9 f   -     -     -        15450    0    0 
+aceriver  972934046 15  8 c   kf    -     -        15450  200    0 
+aceriver  972934099 15  7 cc  kf    -     -        15250 1500    0 
+aceriver  972934220 15  6 cc  kf    -     -        13750 1300    0 
+aceriver  972934291 15  5 c   f     -     -        12450  400    0 
+aceriver  972934389 15  4 cc  krA   -     -        12050 12050 26900 6d Ah
+aceriver  972934438 15  3 f   -     -     -        26900    0    0 
+aceriver  972934493 15  2 Bf  -     -     -        26900  400    0 
+aceriver  972934540 14  1 Bf  -     -     -        26500  200    0 
+aceriver  972934633 13 13 f   -     -     -        26300    0    0 
+aceriver  972934665 11 10 c   kc    b     -        26300 7804    0 7h Ah
+aceriver  972934737 11  9 c   r     bA    -        18496 18496 43004 Qh Kd
+aceriver  972934801 10  8 f   -     -     -        43004    0    0 
+aceriver  972934872 10  7 c   k     c     k        43004 3200    0 Ks 3s
+aceriver  972934930 10  6 f   -     -     -        39804    0    0 
+aceriver  972934961 10  5 c   kf    -     -        39804  800    0 
+aceriver  972934998 10  4 r   k     k     k        39004 2800 3400 Ad Kc
+aceriver  972935037 10  3 f   -     -     -        39604    0    0 
+aceriver  972935106 10  2 Bf  -     -     -        39604 1600    0 
+aceriver  972935140  9  1 Bf  -     -     -        38004  800    0 
+aceriver  972935231  9  9 f   -     -     -        37204    0    0 
+aceriver  972935271  9  8 f   -     -     -        37204    0    0 
+aceriver  972935291  8  6 f   -     -     -        37204    0    0 
+aceriver  972935323  8  6 f   -     -     -        37204    0    0 
+aceriver  972935343  8  5 f   -     -     -        37204    0    0 
+aceriver  972935365  8  4 f   -     -     -        37204    0    0 
+aceriver  972935388  8  3 f   -     -     -        37204    0    0 
+aceriver  972935409  7  2 B   -     -     -        37204 3200 4800 
+aceriver  972935424  7  1 Bf  -     -     -        38804 1600    0 
+aceriver  972935440  6  6 f   -     -     -        37204    0    0 
+aceriver  972935488  6  5 f   -     -     -        37204    0    0 
+aceriver  972935517  6  4 f   -     -     -        37204    0    0 
+aceriver  972935538  6  3 f   -     -     -        37204    0    0 
+aceriver  972935547  6  2 B   -     -     -        37204 3200 4800 
+aceriver  972935558  6  1 Bf  -     -     -        38804 1600    0 
+aceriver  972935580  6  6 f   -     -     -        37204    0    0 
+aceriver  972935608  6  5 f   -     -     -        37204    0    0 
+aceriver  972935623  6  4 f   -     -     -        37204    0    0 
+aceriver  972935638  6  3 f   -     -     -        37204    0    0 
+aceriver  972935649  6  2 Bk  k     k     c        37204 8200    0 Qs 4h
+aceriver  972935684  6  1 Bc  k     k     k        29004 3200    0 2s Ts
+aceriver  972935723  6  6 f   -     -     -        25804    0    0 
+aceriver  972935755  6  5 f   -     -     -        25804    0    0 
+aceriver  972935778  6  4 f   -     -     -        25804    0    0 
+aceriver  972935787  5  2 f   -     -     -        25804    0    0 
+aceriver  972935810  5  2 B   -     -     -        25804 6400 9600 
+aceriver  972935815  5  1 Bf  -     -     -        29004 3200    0 
+aceriver  972935835  5  5 f   -     -     -        25804    0    0 
+aceriver  972935853  5  4 f   -     -     -        25804    0    0 
+aceriver  972935875  5  3 f   -     -     -        25804    0    0 
+aceriver  972935883  5  2 Bf  -     -     -        25804 6400    0 
+aceriver  972935894  5  1 Bf  -     -     -        19404 3200    0 
+aceriver  972935913  4  4 f   -     -     -        16204    0    0 
+aceriver  972935929  4  3 f   -     -     -        16204    0    0 
+aceriver  972935938  4  2 B   -     -     -        16204 6400 9600 
+aceriver  972935945  4  1 BrA -     -     -        19404 19404 25804 
+aceriver  972935961  4  4 f   -     -     -        25804    0    0 
+aceriver  972935973  4  3 ccA -     -     -        25804 25804    0 Tc Qs
+aceriver  972936264 11  5 cc  krA   -     -         4000 4000 8560 Jh Qh
+aceriver  972936325 10  4 c   kf    -     -         8560   32    0 
+aceriver  972936381 10  3 f   -     -     -         8528    0    0 
+aceriver  972936427 10  2 Bk  kc    kf    -         8528  112    0 
+aceriver  972936465 10  1 Bc  kf    -     -         8416   32    0 
+aceriver  972936559 10 10 c   c     b     -         8384 1128 1576 
+aceriver  972936623 10  9 f   -     -     -         8832    0    0 
+aceriver  972936701 10  8 cc  c     k     f         8832  512    0 
+aceriver  972936804 10  7 cf  -     -     -         8320   64    0 
+aceriver  972936849 10  6 c   kf    -     -         8256   64    0 
+aceriver  972936891 10  5 c   kf    -     -         8192   64    0 
+aceriver  972936952  9  4 f   -     -     -         8128    0    0 
+aceriver  972937035  9  3 f   -     -     -         8128    0    0 
+aceriver  972937064  9  2 Bk  k     k     k         8128  128    0 8s 6h
+aceriver  972937110  9  1 Bc  kc    kf    -         8000  384    0 
+aceriver  972937155  9  9 f   -     -     -         7616    0    0 
+aceriver  972937187  9  8 f   -     -     -         7616    0    0 
+aceriver  972937208  9  7 c   kf    -     -         7616  128    0 
+aceriver  972937267  9  6 f   -     -     -         7488    0    0 
+aceriver  972937298  9  5 f   -     -     -         7488    0    0 
+aceriver  972937324  9  4 f   -     -     -         7488    0    0 
+aceriver  972937355  9  3 f   -     -     -         7488    0    0 
+aceriver  972937375  9  2 Bk  kf    -     -         7488  256    0 
+aceriver  972937415  9  1 Bc  kcrA  -     -         7232 7232 16000 Td Jc
+aceriver  972937467  9  9 f   -     -     -        16000    0    0 
+aceriver  972937535  9  8 f   -     -     -        16000    0    0 
+aceriver  972937569  9  7 f   -     -     -        16000    0    0 
+aceriver  972937593  9  6 c   k     f     -        16000  512    0 
+aceriver  972937633  9  5 c   k     c     -        15488 3904 9296 6s Ah
+aceriver  972937673  7  2 f   -     -     -        20880    0    0 
+aceriver  972937715  6  2 Bc  k     b     -        20880 5632 7680 
+aceriver  972937763  6  1 Bf  -     -     -        22928  256    0 
+aceriver  972937782  6  6 f   -     -     -        22672    0    0 
+aceriver  972937797  6  5 f   -     -     -        22672    0    0 
+aceriver  972937823  5  3 c   k     k     k        22672  512    0 5c As
+aceriver  972937856  5  3 f   -     -     -        22160    0    0 
+aceriver  972937880  5  2 Bf  -     -     -        22160 1024    0 
+aceriver  972937897  5  1 Bc  b     -     -        21136 7456 15936 9h Ah
+aceriver  972937914  4  4 f   -     -     -        29616    0    0 
+aceriver  972937930  4  3 cc  -     -     -        29616 7024    0 Ad 2c
+aceriver  972937947  2  1 B   -     -     -        22592 1024 1024 
+aceriver  972937953  2  1 Bf  -     -     -        22592  512    0 
+aceriver  972937956  2  2 Bc  c     f     -        22080 9216    0 
+aceriver  972937970  2  1 Bf  -     -     -        12864  512    0 
+aceriver  972937972  2  2 B   -     -     -        12352 1024 1536 
+aceriver  972937973  2  1 Bf  -     -     -        12864  512    0 
+aceriver  972937981  2  2 B   -     -     -        12352 1024 1536 
+aceriver  972937984  2  1 Bc  k     k     kf       12864 1024    0 
+aceriver  972938003  2  2 Bf  -     -     -        11840 1024    0 
+aceriver  972938008  2  1 BrA -     -     -        10816 10816 11840 
+aceriver  972938015  2  2 B   -     -     -        11840 1024 1536 
+aceriver  972938017  2  1 Bf  -     -     -        12352  512    0 
+aceriver  972938019  2  2 B   -     -     -        11840 1024 1536 
+aceriver  972938022  2  1 Bc  k     k     b        12352 3072 4096 
+aceriver  972938033  2  2 B   -     -     -        13376 1024 1536 
+aceriver  972938035  2  1 Bc  k     b     -        13888 3072 4096 
+aceriver  972938044  2  2 B   -     -     -        14912 1024 1536 
+aceriver  972938047  2  1 Bf  -     -     -        15424  512    0 
+aceriver  972938049  2  2 B   -     -     -        14912 1024 1536 
+aceriver  972938051  2  1 Bf  -     -     -        15424  512    0 
+aceriver  972938053  2  2 B   -     -     -        14912 1024 1536 
+aceriver  972938056  2  1 Bf  -     -     -        15424  512    0 
+aceriver  972938058  2  2 B   -     -     -        14912 1024 1536 
+aceriver  972938061  2  1 Bcc kc    kcA   -        15424 15424 30848 Qs Qh
+aceriver  972938075  2  2 B   -     -     -        30848 1024 1536 
+aceriver  972938080  2  1 Bf  -     -     -        31360  512    0 
+aceriver  972938084  2  2 B   -     -     -        30848 1024 1536 
+aceriver  972938087  2  1 Bf  -     -     -        31360  512    0 
+aceriver  972938089  2  2 B   -     -     -        30848 1024 1536 
+aceriver  972938090  2  1 Bcc kf    -     -        31360 3072    0 
+aceriver  972938101  2  2 B   -     -     -        28288 1024 1536 
+aceriver  972938102  2  1 Bcc kf    -     -        28800 3072    0 
+aceriver  972938111  2  2 B   -     -     -        25728 1024 1536 
+aceriver  972938114  2  1 Bc  k     k     kf       26240 1024    0 
+aceriver  972938129  2  2 B   -     -     -        25216 1024 1536 
+aceriver  972938132  2  1 Bf  -     -     -        25728  512    0 
+aceriver  972938134  2  2 Bf  -     -     -        25216 1024    0 
+aceriver  972938138  2  1 Bc  k     k     k        24192 1024    0 7d Qd
+aceriver  972938149  2  2 Bc  f     -     -        23168 3072    0 
+aceriver  972938161  2  1 Bf  -     -     -        20096  512    0 
+aceriver  972938164  2  2 B   -     -     -        19584 1024 1536 
+aceriver  972938165  2  1 Bf  -     -     -        20096  512    0 
+aceriver  972938166  2  2 B   -     -     -        19584 1024 1536 
+aceriver  972938167  2  1 Bf  -     -     -        20096  512    0 
+aceriver  972938169  2  2 B   -     -     -        19584 1024 1536 
+aceriver  972938171  2  1 Bc  kc    kc    kcA      20096 20096 40192 Tc Qh
+aceriver  972938195  2  2 B   -     -     -        40192 2048 3072 
+aceriver  972938201  2  1 Bc  k     k     b        41216 6144 8928 3c Ac
+aceriver  972938581 11  6 f   -     -     -        10000    0    0 
+aceriver  972938668 11  5 cc  kf    -     -        10000  325    0 
+aceriver  972938771 11  4 c   kf    -     -         9675   50    0 
+aceriver  972938833 10  3 c   b     k     bA        9625 9625 10375 
+aceriver  972938921 10  2 Bk  k     k     kc       10375  600 1500 2s Jh
+aceriver  972939024 10  1 Bc  k     kf    -        11275  100    0 
+aceriver  972939119 10 10 c   f     -     -        11175  450    0 
+aceriver  972939188 10  9 c   c     c     bA       10725 10725 13625 
+aceriver  972939274 10  8 c   f     -     -        13625  900    0 
+aceriver  972939370  9  7 cc  b     b     -        12725 8800 11650 
+aceriver  972939445  9  6 c   k     f     -        15575  200    0 
+aceriver  972939546  9  5 f   -     -     -        15375    0    0 
+aceriver  972939623  9  4 c   kf    -     -        15375  400    0 
+aceriver  972939692  9  3 f   -     -     -        14975    0    0 
+aceriver  972939757  8  2 Bk  k     kf    -        14975  400    0 
+aceriver  972939843  7  1 Bf  -     -     -        14575  200    0 
+aceriver  972939862  7  7 c   k     k     f        14375  400    0 
+aceriver  972939935  7  6 c   f     -     -        13975 1800    0 
+aceriver  972939989  7  5 c   f     -     -        12175  800    0 
+aceriver  972940042  7  4 c   k     k     k        11375  800    0 8c Qd
+aceriver  972940141  7  3 r   bA    -     -        10575 10575 7775 6d Ah
+aceriver  972940176  7  2 Bk  f     -     -         7775  800    0 
+aceriver  972940244  7  1 Bf  -     -     -         6975  400    0 
+aceriver  972940283  7  7 rA  -     -     -         6575 6575 9375 
+aceriver  972940428  7  6 f   -     -     -         9375    0    0 
+aceriver  972940461  7  5 f   -     -     -         9375    0    0 
+aceriver  972940508  6  3 crA -     -     -         9375 9375    0 4s Ad
+aceriver  972941142 13  6 c   k     c     k        10000  500 1200 Ah 6s
+aceriver  972941248 13  5 cf  -     -     -        10700  350    0 
+aceriver  972941325 13  4 f   -     -     -        10350    0    0 
+aceriver  972941379 12  3 cf  -     -     -        10350  100    0 
+aceriver  972941450 12  2 Bf  -     -     -        10250  100    0 
+aceriver  972941504 12  1 Bc  kf    -     -        10150 1700    0 
+aceriver  972941561 12 12 c   bA    -     -         8450 8450 14950 
+aceriver  972941720 12 11 c   k     f     -        14950 1700    0 
+aceriver  972941790 12 10 f   -     -     -        13250    0    0 
+aceriver  972941836 12  9 c   f     -     -        13250  200    0 
+aceriver  972941949 12  8 f   -     -     -        13050    0    0 
+aceriver  972942029 12  7 cf  -     -     -        13050  750    0 
+aceriver  972942066 11  5 cc  kf    -     -        12300 1450    0 
+aceriver  972942125 11  4 c   f     -     -        10850  400    0 
+aceriver  972942200 11  3 f   -     -     -        10450    0    0 
+aceriver  972942317 11  2 Bf  -     -     -        10450  800    0 
+aceriver  972942350 11  1 Bc  k     k     k         9650  800    0 Js Ah
+aceriver  972942471 11 11 rA  -     -     -         8850 8850 13250 
+aceriver  972942531 11 10 f   -     -     -        13250    0    0 
+aceriver  972942577 10  8 f   -     -     -        13250    0    0 
+aceriver  972942720 10  8 f   -     -     -        13250    0    0 
+aceriver  972942747  9  7 f   -     -     -        13250    0    0 
+aceriver  972942772  9  6 f   -     -     -        13250    0    0 
+aceriver  972942792  9  5 f   -     -     -        13250    0    0 
+aceriver  972942840  9  4 cc  f     -     -        13250 3800    0 
+aceriver  972942884  8  3 f   -     -     -         9450    0    0 
+aceriver  972942917  8  2 BrcA -     -     -         9450 9450 20500 9h Ac
+aceriver  972942954  8  1 Bc  k     bA    -        20500 20500 25800 8d 8h
+aceriver  972942980  7  7 f   -     -     -        25800    0    0 
+aceriver  972942997  7  7 f   -     -     -        25800    0    0 
+aceriver  972943060  7  6 f   -     -     -        25800    0    0 
+aceriver  972943079  7  5 f   -     -     -        25800    0    0 
+aceriver  972943089  7  4 f   -     -     -        25800    0    0 
+aceriver  972943101  7  3 f   -     -     -        25800    0    0 
+aceriver  972943115  7  2 Bk  k     k     k        25800 3200    0 6d 3c
+aceriver  972943136  7  1 Bf  -     -     -        22600 1600    0 
+aceriver  972943155  7  7 f   -     -     -        21000    0    0 
+aceriver  972943174  7  6 f   -     -     -        21000    0    0 
+aceriver  972943213  7  5 f   -     -     -        21000    0    0 
+aceriver  972943251  7  4 c   c     -     -        21000 11300    0 Kd Qc
+aceriver  972943281  7  3 f   -     -     -         9700    0    0 
+aceriver  972943304  7  2 Bf  -     -     -         9700 3200    0 
+aceriver  972943374  7  1 BrA -     -     -         6500 6500    0 5s Qc
+aceriver  972944068 14  1 Bf  -     -     -        10000   25    0 
+aceriver  972944139 13 13 f   -     -     -         9975    0    0 
+aceriver  972944193 13 12 f   -     -     -         9975    0    0 
+aceriver  972944307 13 11 f   -     -     -         9975    0    0 
+aceriver  972944404 11  9 c   c     bA    -         9975 9975 18250 7s 4s
+aceriver  972944514 10  7 f   -     -     -        18250    0    0 
+aceriver  972944614 10  6 cf  -     -     -        18250  100    0 
+aceriver  972944646 10  5 f   -     -     -        18150    0    0 
+aceriver  972944702 10  4 c   c     c     bc       18150 9575    0 8s Ah
+aceriver  972944801 10  3 c   bA    -     -         8575 8575    0 7c Kc
+aceriver  973019838  8  4 cc  c     f     -        10000 3025    0 
+aceriver  973019892  8  3 c   kc    kf    -         6975  188    0 
+aceriver  973019938  8  2 Bf  -     -     -         6787   50    0 
+aceriver  973019965  8  1 Bc  kcf   -     -         6737  250    0 
+aceriver  973020042  8  8 f   -     -     -         6487    0    0 
+aceriver  973020101  8  7 f   -     -     -         6487    0    0 
+aceriver  973020145  8  6 f   -     -     -         6487    0    0 
+aceriver  973020160  8  5 cc  kc    k     b         6487 4175 5850 
+aceriver  973020262  8  4 cc  c     c     -         8162 7875 17400 Kh Kd
+aceriver  973020305  7  3 f   -     -     -        17687    0    0 
+aceriver  973020352  7  2 Bf  -     -     -        17687  100    0 
+aceriver  973020395  6  1 Bf  -     -     -        17587   50    0 
+aceriver  973020425  6  6 c   k     k     c        17537  350    0 2s 2h
+aceriver  973020473  6  5 c   k     f     -        17187  200    0 
+aceriver  973020536  6  4 f   -     -     -        16987    0    0 
+aceriver  973020597  6  3 c   k     bc    b        16987 10600 18686 Js Ac
+aceriver  973020657  5  2 Bk  b     k     b        25073 3400 4800 
+aceriver  973020720  5  1 Bf  -     -     -        26473  100    0 
+aceriver  973020729  5  5 c   k     k     b        26373  700 1000 
+aceriver  973020765  5  4 c   k     k     k        26673  200    0 5d Jh
+aceriver  973020826  5  3 f   -     -     -        26473    0    0 
+aceriver  973020838  5  2 Bf  -     -     -        26473  400    0 
+aceriver  973020899  5  1 Bf  -     -     -        26073  200    0 
+aceriver  973020937  5  5 c   k     k     k        25873  400 1200 Qh 6c
+aceriver  973020978  5  4 f   -     -     -        26673    0    0 
+aceriver  973021004  5  3 c   kf    -     -        26673  400    0 
+aceriver  973021028  5  2 Bk  kf    -     -        26273  400    0 
+aceriver  973021076  5  1 Bc  k     k     k        25873  400  800 Ah Qh
+aceriver  973021139  5  5 c   k     f     -        26273  800    0 
+aceriver  973021202  5  4 cc  k     k     k        25473 4102 13106 Jd Ac
+aceriver  973021253  4  3 f   -     -     -        34477    0    0 
+aceriver  973021298  4  2 Bf  -     -     -        34477  800    0 
+aceriver  973021323  4  1 Bc  b     -     -        33677 2919 4238 As Jd
+aceriver  973021339  3  3 cc  c     c     -        34996 10602    0 3d 3h
+aceriver  973021373  3  3 c   k     k     r        24394 10400 21600 4s Qs
+aceriver  973021418  3  2 Bk  k     k     f        35594  800    0 
+aceriver  973021447  3  1 Bf  -     -     -        34794  800    0 
+aceriver  973021452  3  3 f   -     -     -        33994    0    0 
+aceriver  973021455  3  2 Bk  k     k     k        33994 1600 3200 Tc Qc
+aceriver  973021473  3  1 Bf  -     -     -        35594  800    0 
+aceriver  973021506  3  3 f   -     -     -        34794    0    0 
+aceriver  973021518  3  2 Bf  -     -     -        34794 1600    0 
+aceriver  973021525  3  1 Bf  -     -     -        33194  800    0 
+aceriver  973021529  3  3 cf  -     -     -        32394 1600    0 
+aceriver  973021539  3  2 Bk  kf    -     -        30794 1600    0 
+aceriver  973021555  3  1 Bc  kc    k     kf       29194 6400    0 
+aceriver  973021583  3  3 f   -     -     -        22794    0    0 
+aceriver  973021593  3  2 Bc  b     -     -        22794 14400 19200 
+aceriver  973021610  3  1 Bf  -     -     -        27594  800    0 
+aceriver  973021615  3  3 f   -     -     -        26794    0    0 
+aceriver  973021618  3  2 Bk  k     k     c        26794 4800 9600 7h Jh
+aceriver  973021644  3  1 Bf  -     -     -        31594  800    0 
+aceriver  973021659  3  3 c   k     b     -        30794 6400 9600 
+aceriver  973021676  3  2 Bk  k     k     k        33994 1600 3200 8d Kc
+aceriver  973021702  3  1 Bc  k     k     k        35594 1600 3200 Kh 9h
+aceriver  973021738  3  3 f   -     -     -        37194    0    0 
+aceriver  973021767  3  2 Bf  -     -     -        37194 3200    0 
+aceriver  973021775  3  1 Bc  b     -     -        33994 9600 12800 
+aceriver  973021786  3  3 f   -     -     -        37194    0    0 
+aceriver  973021788  3  2 Bc  f     -     -        37194 3604    0 
+aceriver  973021807  2  1 Bc  k     k     k        33590 3200 6400 8h 8d
+aceriver  973021838  2  2 Bk  f     -     -        36790 3200    0 
+aceriver  973021851  2  1 BrcA -     -     -        33590 33590    0 Kc Qc
+aceriver  973022149 13  1 BrA -     -     -        10000 10000    0 Qd Tc
+aceriver  973034418 17  7 c   k     k     cf        3000   80    0 
+aceriver  973034579 16  6 cc  f     -     -         2920   55    0 
+aceriver  973034648 16  5 cc  f     -     -         2865   55    0 
+aceriver  973034780 16  4 cf  -     -     -         2810   20    0 
+aceriver  973034900 14  2 c   k     kf    -         2790   20    0 
+aceriver  973035074 14  2 Bc  kf    -     -         2770  120    0 
+aceriver  973035160 14  1 Bf  -     -     -         2650   20    0 
+aceriver  973035235 14 14 f   -     -     -         2630    0    0 
+aceriver  973035328 14 13 c   f     -     -         2630  100    0 
+aceriver  973035391 14 12 f   -     -     -         2530    0    0 
+aceriver  973035456 14 11 f   -     -     -         2530    0    0 
+aceriver  973035535 13  9 c   f     -     -         2530  480    0 
+aceriver  973035611 13  8 f   -     -     -         2050    0    0 
+aceriver  973035695 12  7 f   -     -     -         2050    0    0 
+aceriver  973035802 12  6 cf  -     -     -         2050   80    0 
+aceriver  973035852 12  5 cf  -     -     -         1970   80    0 
+aceriver  973035943 12  4 f   -     -     -         1890    0    0 
+aceriver  973035992 12  3 crA -     -     -         1890 1890    0 4d As

@@ -1,0 +1,555 @@
+baneVader 915886580 15  9 f   -     -     -        10000    0    0 
+baneVader 915886695 15  8 f   -     -     -        10000    0    0 
+baneVader 915886758 15  7 f   -     -     -        10000    0    0 
+baneVader 915886877 15  6 f   -     -     -        10000    0    0 
+baneVader 915887000 15  5 f   -     -     -        10000    0    0 
+baneVader 915887061 15  4 f   -     -     -        10000    0    0 
+baneVader 915887121 15  3 f   -     -     -        10000    0    0 
+baneVader 915887176 15  2 Bf  -     -     -        10000  200    0 
+baneVader 915887250 15  1 Bc  kc    kf    -         9800 1200    0 
+baneVader 915887335 15 15 f   -     -     -         8600    0    0 
+baneVader 915887399 15 14 c   c     k     k         8600 2600  500 Tc 8c
+baneVader 915887471 15 13 c   b     b     -         6500 4600 8400 
+baneVader 915887524 15 12 c   kf    -     -        10300  400    0 
+baneVader 915887611 15 11 f   -     -     -         9900    0    0 
+baneVader 915887654 15 10 cc  k     cA    -         9900 9900 16900 6c Qc
+baneVader 915887706 15  9 f   -     -     -        16900    0    0 
+baneVader 915887742 13  8 f   -     -     -        16900    0    0 
+baneVader 915887797 13  7 f   -     -     -        16900    0    0 
+baneVader 915887873 13  6 f   -     -     -        16900    0    0 
+baneVader 915887929 13  5 f   -     -     -        16900    0    0 
+baneVader 915887961 13  4 f   -     -     -        16900    0    0 
+baneVader 915887993 13  3 c   k     kf    -        16900  800    0 
+baneVader 915888042 13  2 Br  bA    -     -        16100 16100 32900 9s As
+baneVader 915888075 12  1 Bc  k     k     kc       32900 3600    0 Tc 6h
+baneVader 915888126 12 12 c   k     b     -        29300 4800 2200 9c Kc
+baneVader 915888154 12 11 f   -     -     -        26700    0    0 
+baneVader 915888190 12 10 c   b     -     -        26700 11300 14850 7h 8h
+baneVader 915888231 11  9 f   -     -     -        30250    0    0 
+baneVader 915888253 10  8 f   -     -     -        30250    0    0 
+baneVader 915888289 10  7 cc  k     b     -        30250 16800 26400 
+baneVader 915888330 10  6 r   k     k     k        39850 3600 5800 Qh As
+baneVader 915888368 10  5 cf  -     -     -        42050 1600    0 
+baneVader 915888408  9  4 f   -     -     -        40450    0    0 
+baneVader 915888441  9  3 f   -     -     -        40450    0    0 
+baneVader 915888465  9  2 Bk  k     k     k        40450 3200    0 3d Ts
+baneVader 915888489  9  1 Bc  b     krA   -        37250 37250 19700 8s 8d
+baneVader 915888526  9  9 c   k     k     bA       19700 19700 64300 Kc 9c
+baneVader 915888568  8  8 f   -     -     -        64300    0    0 
+baneVader 915888594  8  7 f   -     -     -        64300    0    0 
+baneVader 915888613  8  6 f   -     -     -        64300    0    0 
+baneVader 915888643  8  5 c   k     b     -        64300 9600 19200 
+baneVader 915888677  8  4 f   -     -     -        73900    0    0 
+baneVader 915888694  8  3 f   -     -     -        73900    0    0 
+baneVader 915888730  8  2 Bk  kf    -     -        73900 3200    0 
+baneVader 915888757  8  1 Bf  -     -     -        70700 3200    0 
+baneVader 915888772  8  8 f   -     -     -        67500    0    0 
+baneVader 915888800  8  7 c   b     -     -        67500 16950 31650 Jh 8h
+baneVader 915888844  7  5 f   -     -     -        82200    0    0 
+baneVader 915888860  7  5 f   -     -     -        82200    0    0 
+baneVader 915888869  7  4 f   -     -     -        82200    0    0 
+baneVader 915888876  7  3 cc  -     -     -        82200 26000 30800 Ad 3d
+baneVader 915888904  7  2 B   -     -     -        87000 6400 8100 4h Qs
+baneVader 915888918  6  1 Bc  -     -     -        88700 3400    0 7d 2s
+baneVader 915888932  6  6 r   -     -     -        85300 22400 32000 
+baneVader 915888948  6  5 c   k     k     c        94900 6900    0 Qs Tc
+baneVader 915888979  6  4 f   -     -     -        88000    0    0 
+baneVader 915888989  5  2 f   -     -     -        88000    0    0 
+baneVader 915889000  5  2 B   -     -     -        88000 6400 9600 
+baneVader 915889009  5  1 Br  -     -     -        91200 10800 14400 8c 8h
+baneVader 915889024  4  4 c   b     -     -        94800 19200 25600 
+baneVader 915889045  4  4 c   k     k     k       101200 6400    0 5c Kc
+baneVader 915889082  4  3 cc  c     -     -        94800 34200 80000 Ac Th
+baneVader 915889117  2  1 B   -     -     -       140600 12800 12800 
+baneVader 915889121  2  1 Bc  -     -     -       140600 9400 18800 6c 9s
+baneVader 915889963  9  9 f   -     -     -         3500    0    0 
+baneVader 915890006  9  8 f   -     -     -         3500    0    0 
+baneVader 915890029  9  7 f   -     -     -         3500    0    0 
+baneVader 915890037  9  6 f   -     -     -         3500    0    0 
+baneVader 915890063  9  5 f   -     -     -         3500    0    0 
+baneVader 915890081  9  4 f   -     -     -         3500    0    0 
+baneVader 915890097  9  3 f   -     -     -         3500    0    0 
+baneVader 915890119  9  2 Bf  -     -     -         3500   30    0 
+baneVader 915890156  9  1 Bf  -     -     -         3470   15    0 
+baneVader 915890169  9  9 f   -     -     -         3455    0    0 
+baneVader 915890197  9  8 f   -     -     -         3455    0    0 
+baneVader 915890242  8  6 f   -     -     -         3455    0    0 
+baneVader 915890331  8  5 f   -     -     -         3455    0    0 
+baneVader 915890379  8  4 f   -     -     -         3455    0    0 
+baneVader 915890424  8  3 f   -     -     -         3455    0    0 
+baneVader 915890452  8  2 Bf  -     -     -         3455   60    0 
+baneVader 915890493  8  1 Bf  -     -     -         3395   30    0 
+baneVader 915890509  8  8 f   -     -     -         3365    0    0 
+baneVader 915890550  8  7 f   -     -     -         3365    0    0 
+baneVader 915890577  8  6 f   -     -     -         3365    0    0 
+baneVader 915890616  8  5 f   -     -     -         3365    0    0 
+baneVader 915890652  8  4 f   -     -     -         3365    0    0 
+baneVader 915890701  8  3 f   -     -     -         3365    0    0 
+baneVader 915890751  7  1 Bk  kf    -     -         3365  120    0 
+baneVader 915890779  7  1 Bf  -     -     -         3245   60    0 
+baneVader 915890791  7  7 f   -     -     -         3185    0    0 
+baneVader 915890854  7  6 f   -     -     -         3185    0    0 
+baneVader 915890867  7  5 f   -     -     -         3185    0    0 
+baneVader 915890891  7  4 f   -     -     -         3185    0    0 
+baneVader 915890922  7  3 f   -     -     -         3185    0    0 
+baneVader 915890975  7  2 Bk  k     k     k         3185  240    0 9c Kh
+baneVader 915891027  7  1 Bf  -     -     -         2945  120    0 
+baneVader 915891073  7  7 f   -     -     -         2825    0    0 
+baneVader 915891108  7  6 f   -     -     -         2825    0    0 
+baneVader 915891136  7  5 f   -     -     -         2825    0    0 
+baneVader 915891150  6  4 f   -     -     -         2825    0    0 
+baneVader 915891180  6  3 f   -     -     -         2825    0    0 
+baneVader 915891192  6  2 Bk  kf    -     -         2825  240    0 
+baneVader 915891219  6  1 Bf  -     -     -         2585  120    0 
+baneVader 915891249  6  6 f   -     -     -         2465    0    0 
+baneVader 915891272  6  5 f   -     -     -         2465    0    0 
+baneVader 915891283  6  4 f   -     -     -         2465    0    0 
+baneVader 915891302  6  3 f   -     -     -         2465    0    0 
+baneVader 915891343  6  2 Bf  -     -     -         2465  480    0 
+baneVader 915891369  6  1 Bf  -     -     -         1985  240    0 
+baneVader 915891377  6  6 f   -     -     -         1745    0    0 
+baneVader 915891411  6  5 f   -     -     -         1745    0    0 
+baneVader 915891454  6  4 f   -     -     -         1745    0    0 
+baneVader 915891470  6  3 f   -     -     -         1745    0    0 
+baneVader 915891507  6  2 Bf  -     -     -         1745  480    0 
+baneVader 915891517  6  1 Bf  -     -     -         1265  240    0 
+baneVader 915891535  6  6 f   -     -     -         1025    0    0 
+baneVader 915891597  5  4 f   -     -     -         1025    0    0 
+baneVader 915891638  5  4 f   -     -     -         1025    0    0 
+baneVader 915891662  5  3 f   -     -     -         1025    0    0 
+baneVader 915891685  5  2 Bk  f     -     -         1025  960    0 
+baneVader 915891711  5  1 BA  -     -     -           65   65    0 8d 3d
+baneVader 915910526 18  4 f   -     -     -         6000    0    0 
+baneVader 915910663 18  3 f   -     -     -         6000    0    0 
+baneVader 915910791 18  2 Bf  -     -     -         6000   50    0 
+baneVader 915910905 18  1 Bc  kf    -     -         5950  100    0 
+baneVader 915910995 18 18 f   -     -     -         5850    0    0 
+baneVader 915911048 18 17 c   r     bA    -         5850 5850 12300 5s 5h
+baneVader 915911130 18 16 cc  c     -     -        12300 6875    0 Tc Qs
+baneVader 915911247 18 15 c   f     -     -         5425  100    0 
+baneVader 915911391 15 13 f   -     -     -         5325    0    0 
+baneVader 915911519 14 12 c   cA    -     -         5325 5325    0 Qs Ah
+baneVader 916065387  9  2 Bk  kf    -     -         5000   30    0 
+baneVader 916065484  9  1 Bf  -     -     -         4970   15    0 
+baneVader 916065494  9  9 f   -     -     -         4955    0    0 
+baneVader 916065555  9  8 f   -     -     -         4955    0    0 
+baneVader 916065565  9  7 f   -     -     -         4955    0    0 
+baneVader 916065624  9  6 f   -     -     -         4955    0    0 
+baneVader 916065652  9  5 f   -     -     -         4955    0    0 
+baneVader 916065703  9  4 f   -     -     -         4955    0    0 
+baneVader 916065753  9  3 f   -     -     -         4955    0    0 
+baneVader 916065787  9  2 Bf  -     -     -         4955   30    0 
+baneVader 916065864  9  1 Bf  -     -     -         4925   30    0 
+baneVader 916065878  9  9 f   -     -     -         4895    0    0 
+baneVader 916065906  8  7 f   -     -     -         4895    0    0 
+baneVader 916065969  8  7 f   -     -     -         4895    0    0 
+baneVader 916066023  8  6 f   -     -     -         4895    0    0 
+baneVader 916066065  8  5 f   -     -     -         4895    0    0 
+baneVader 916066150  8  4 f   -     -     -         4895    0    0 
+baneVader 916066169  8  3 f   -     -     -         4895    0    0 
+baneVader 916066184  8  2 Bk  kf    -     -         4895   60    0 
+baneVader 916066225  8  1 Bf  -     -     -         4835   30    0 
+baneVader 916066245  8  8 f   -     -     -         4805    0    0 
+baneVader 916066278  8  7 f   -     -     -         4805    0    0 
+baneVader 916066332  8  6 f   -     -     -         4805    0    0 
+baneVader 916066392  8  5 f   -     -     -         4805    0    0 
+baneVader 916066432  8  4 f   -     -     -         4805    0    0 
+baneVader 916066449  8  3 f   -     -     -         4805    0    0 
+baneVader 916066498  8  2 Bk  kf    -     -         4805  120    0 
+baneVader 916066520  8  1 Bf  -     -     -         4685   60    0 
+baneVader 916066548  8  8 f   -     -     -         4625    0    0 
+baneVader 916066563  8  7 f   -     -     -         4625    0    0 
+baneVader 916066573  8  6 f   -     -     -         4625    0    0 
+baneVader 916066600  8  5 f   -     -     -         4625    0    0 
+baneVader 916066639  8  4 f   -     -     -         4625    0    0 
+baneVader 916066673  8  3 f   -     -     -         4625    0    0 
+baneVader 916066706  8  2 B   -     -     -         4625  240  360 
+baneVader 916066715  8  1 Bf  -     -     -         4745  120    0 
+baneVader 916066725  8  8 f   -     -     -         4625    0    0 
+baneVader 916066749  8  7 f   -     -     -         4625    0    0 
+baneVader 916066772  8  6 f   -     -     -         4625    0    0 
+baneVader 916066798  8  5 f   -     -     -         4625    0    0 
+baneVader 916066854  8  4 f   -     -     -         4625    0    0 
+baneVader 916066895  7  3 f   -     -     -         4625    0    0 
+baneVader 916066904  7  2 Bk  kf    -     -         4625  240    0 
+baneVader 916066923  7  1 Bf  -     -     -         4385  120    0 
+baneVader 916066931  7  7 f   -     -     -         4265    0    0 
+baneVader 916066935  7  6 f   -     -     -         4265    0    0 
+baneVader 916066942  7  5 f   -     -     -         4265    0    0 
+baneVader 916066957  7  4 f   -     -     -         4265    0    0 
+baneVader 916066963  7  3 f   -     -     -         4265    0    0 
+baneVader 916066981  7  2 Bf  -     -     -         4265  240    0 
+baneVader 916066998  6  1 Bf  -     -     -         4025  120    0 
+baneVader 916067025  6  6 f   -     -     -         3905    0    0 
+baneVader 916067042  6  5 f   -     -     -         3905    0    0 
+baneVader 916067047  6  4 f   -     -     -         3905    0    0 
+baneVader 916067080  6  3 f   -     -     -         3905    0    0 
+baneVader 916067089  6  2 Bf  -     -     -         3905  240    0 
+baneVader 916067099  6  1 Bf  -     -     -         3665  120    0 
+baneVader 916067108  6  6 f   -     -     -         3545    0    0 
+baneVader 916067136  6  5 f   -     -     -         3545    0    0 
+baneVader 916067148  6  4 f   -     -     -         3545    0    0 
+baneVader 916067154  6  3 f   -     -     -         3545    0    0 
+baneVader 916067172  6  2 Bk  kf    -     -         3545  480    0 
+baneVader 916067193  6  1 Bf  -     -     -         3065  240    0 
+baneVader 916067230  6  6 f   -     -     -         2825    0    0 
+baneVader 916067236  6  5 f   -     -     -         2825    0    0 
+baneVader 916067271  6  4 f   -     -     -         2825    0    0 
+baneVader 916067287  6  3 f   -     -     -         2825    0    0 
+baneVader 916067322  6  2 Bf  -     -     -         2825  480    0 
+baneVader 916067333  6  1 Bf  -     -     -         2345  240    0 
+baneVader 916067348  6  6 f   -     -     -         2105    0    0 
+baneVader 916067355  6  5 f   -     -     -         2105    0    0 
+baneVader 916067374  6  4 f   -     -     -         2105    0    0 
+baneVader 916067385  6  3 f   -     -     -         2105    0    0 
+baneVader 916067398  6  2 Bf  -     -     -         2105  480    0 
+baneVader 916067404  6  1 Bf  -     -     -         1625  240    0 
+baneVader 916067415  6  6 f   -     -     -         1385    0    0 
+baneVader 916067420  6  5 f   -     -     -         1385    0    0 
+baneVader 916067434  6  4 f   -     -     -         1385    0    0 
+baneVader 916067448  6  3 f   -     -     -         1385    0    0 
+baneVader 916067455  6  2 Bf  -     -     -         1385  480    0 
+baneVader 916067468  6  1 Bf  -     -     -          905  240    0 
+baneVader 916067474  6  6 f   -     -     -          665    0    0 
+baneVader 916067480  6  5 f   -     -     -          665    0    0 
+baneVader 916067483  6  4 f   -     -     -          665    0    0 
+baneVader 916067498  6  3 f   -     -     -          665    0    0 
+baneVader 916067505  6  2 Bf  -     -     -          665  480    0 
+baneVader 916067532  6  1 BA  -     -     -          185  185  555 As Td
+baneVader 916067538  6  6 f   -     -     -          555    0    0 
+baneVader 916067546  6  5 f   -     -     -          555    0    0 
+baneVader 916067560  6  4 f   -     -     -          555    0    0 
+baneVader 916067567  6  3 f   -     -     -          555    0    0 
+baneVader 916067578  6  2 BA  -     -     -          555  555 1590 Qc 6h
+baneVader 916067584  6  1 Bf  -     -     -         1590  480    0 
+baneVader 916067594  5  5 f   -     -     -         1110    0    0 
+baneVader 916067614  5  5 f   -     -     -         1110    0    0 
+baneVader 916067628  5  4 f   -     -     -         1110    0    0 
+baneVader 916067634  4  2 f   -     -     -         1110    0    0 
+baneVader 916067661  4  2 Bf  -     -     -         1110  960    0 
+baneVader 916067676  4  1 BA  -     -     -          150  150    0 6c Ah
+baneVader 916162818  7  6 c   f     -     -         5000   50    0 
+baneVader 916162850  7  5 f   -     -     -         4950    0    0 
+baneVader 916162860  7  4 c   kf    -     -         4950   50    0 
+baneVader 916162942  7  3 f   -     -     -         4900    0    0 
+baneVader 916162977  7  2 Bk  kf    -     -         4900   50    0 
+baneVader 916163019  7  1 Br  bc    k     k         4850 1925    0 Jc As
+baneVader 916163069  7  7 c   k     f     -         2925   50    0 
+baneVader 916163111  7  6 cc  kf    -     -         2875  275    0 
+baneVader 916163147  7  5 r   -     -     -         2600 1600 1750 
+baneVader 916163172  7  4 c   c     k     k         2750  400    0 Tc 6h
+baneVader 916163226  7  3 r   bA    -     -         2350 2350 4100 
+baneVader 916163265  7  2 Bc  k     k     k         4100  350    0 7s 3s
+baneVader 916163299  7  1 Bc  kf    -     -         3750  100    0 
+baneVader 916163331  7  7 c   f     -     -         3650  100    0 
+baneVader 916163358  7  6 c   c     c     f         3550 1200    0 
+baneVader 916163416  7  5 cc  kf    -     -         2350  450    0 
+baneVader 916163444  7  4 f   -     -     -         1900    0    0 
+baneVader 916163467  7  3 f   -     -     -         1900    0    0 
+baneVader 916163488  7  2 Bc  k     k     kf        1900  700    0 
+baneVader 916163535  7  1 Bc  kf    -     -         1200  700    0 
+baneVader 916163560  7  7 f   -     -     -          500    0    0 
+baneVader 916163585  7  6 ccA -     -     -          500  500 1700 Tc Jd
+baneVader 916163631  6  5 f   -     -     -         1700    0    0 
+baneVader 916163690  6  4 f   -     -     -         1700    0    0 
+baneVader 916163725  6  3 c   cc    k     bA        1700 1700 5450 4h Th
+baneVader 916163774  5  2 B   -     -     -         5450  400  600 
+baneVader 916163798  5  1 Bc  k     k     kf        5650  400    0 
+baneVader 916163844  5  5 f   -     -     -         5250    0    0 
+baneVader 916163868  5  4 f   -     -     -         5250    0    0 
+baneVader 916163901  5  3 f   -     -     -         5250    0    0 
+baneVader 916163923  5  2 Bk  b     b     -         5250 3600 4800 
+baneVader 916163972  5  1 Bf  -     -     -         6450  200    0 
+baneVader 916163998  4  4 f   -     -     -         6250    0    0 
+baneVader 916164017  4  3 cc  c     -     -         6250 1950    0 5d Ac
+baneVader 916164044  4  2 Bk  k     b     b         4300 2900 4500 
+baneVader 916164092  4  1 Bc  bc    kf    -         5900 4800    0 
+baneVader 916164134  4  4 c   k     k     k         1100  800    0 As 5h
+baneVader 916164172  4  3 cA  -     -     -          300  300    0 Ad 7c
+baneVader 916237345  9  5 c   kf    -     -         1000   10    0 
+baneVader 916237433  9  4 f   -     -     -          990    0    0 
+baneVader 916237480  8  2 c   kf    -     -          990   10    0 
+baneVader 916237543  7  2 Bc  kc    kc    kf         980  475    0 
+baneVader 916237598  7  1 Bf  -     -     -          505    5    0 
+baneVader 916237634  7  7 c   k     k     r          500  110  225 6h 6d
+baneVader 916237680  7  6 c   k     c     f          615   70    0 
+baneVader 916237732  7  5 cf  -     -     -          545   70    0 
+baneVader 916237774  6  3 cc  kf    -     -          475   90    0 
+baneVader 916237803  6  2 B   -     -     -          385   20   30 
+baneVader 916237813  6  1 Br  k     b     -          395  260  360 
+baneVader 916237876  6  6 c   c     cA    -          495  495    0 3s Ad
+baneVader 916248728 10  6 c   b     b     -         5000  750 1050 
+baneVader 916248765 10  5 c   c     f     -         5300  550    0 
+baneVader 916248798 10  4 cc  kc    b     -         4750 4275 6250 
+baneVader 916248883 10  3 c   kc    kc    bc        6725 5650 11817 Tc 9s
+baneVader 916248946  9  2 Bc  kf    -     -        12892  225    0 
+baneVader 916249013  8  1 Bc  kc    kf    -        12667  400    0 
+baneVader 916249055  8  8 c   k     k     k        12267  100    0 7s Jh
+baneVader 916249087  8  7 c   f     -     -        12167  100    0 
+baneVader 916249149  8  6 f   -     -     -        12067    0    0 
+baneVader 916249175  8  5 f   -     -     -        12067    0    0 
+baneVader 916249219  8  4 f   -     -     -        12067    0    0 
+baneVader 916249256  8  3 f   -     -     -        12067    0    0 
+baneVader 916249289  8  2 Bf  -     -     -        12067  200    0 
+baneVader 916249324  7  1 Bc  kf    -     -        11867  200    0 
+baneVader 916249382  7  7 f   -     -     -        11667    0    0 
+baneVader 916249457  7  6 f   -     -     -        11667    0    0 
+baneVader 916249499  7  5 c   k     k     kf       11667  400    0 
+baneVader 916249555  7  4 f   -     -     -        11267    0    0 
+baneVader 916249589  7  3 f   -     -     -        11267    0    0 
+baneVader 916249655  7  2 Bc  kf    -     -        11267 1800    0 
+baneVader 916249717  7  1 Bc  kf    -     -         9467  400    0 
+baneVader 916249751  7  7 f   -     -     -         9067    0    0 
+baneVader 916249784  7  6 f   -     -     -         9067    0    0 
+baneVader 916249829  6  4 f   -     -     -         9067    0    0 
+baneVader 916249859  6  4 f   -     -     -         9067    0    0 
+baneVader 916249887  5  2 f   -     -     -         9067    0    0 
+baneVader 916249926  5  2 Bk  kf    -     -         9067  800    0 
+baneVader 916249950  5  1 Bc  k     kc    kf        8267 3200    0 
+baneVader 916250008  5  5 f   -     -     -         5067    0    0 
+baneVader 916250056  5  4 c   f     -     -         5067 1600    0 
+baneVader 916250089  5  3 ccA -     -     -         3467 3467 8534 Ah 3s
+baneVader 916250125  5  2 Bf  -     -     -         8534 1600    0 
+baneVader 916250162  4  1 Bc  k     kf    -         6934 1600    0 
+baneVader 916250197  4  4 f   -     -     -         5334    0    0 
+baneVader 916250243  4  3 f   -     -     -         5334    0    0 
+baneVader 916250253  4  2 B   -     -     -         5334 3200 3250 4h 7s
+baneVader 916250268  3  1 Bc  k     k     kf        5384 3200    0 
+baneVader 916250307  3  3 f   -     -     -         2184    0    0 
+baneVader 916250355  3  2 BA  -     -     -         2184 2184 4368 8c 7c
+baneVader 916250370  3  1 Bf  -     -     -         4368 1600    0 
+baneVader 916250405  3  3 f   -     -     -         2768    0    0 
+baneVader 916250417  3  2 BA  -     -     -         2768 2768    0 9c Qh
+baneVader 916508351 15 13 cc  cA    -     -        10000 10000    0 Ad Tc
+baneVader 916662409  8  1 Bf  -     -     -         1000    5    0 
+baneVader 916662562  8  8 c   k     f     -          995   10    0 
+baneVader 916662632  8  7 c   f     -     -          985   10    0 
+baneVader 916662726  8  6 f   -     -     -          975    0    0 
+baneVader 916662761  8  5 c   k     f     -          975   20    0 
+baneVader 916662831  8  4 f   -     -     -          955    0    0 
+baneVader 916662855  8  3 c   k     k     kf         955   20    0 
+baneVader 916662899  8  2 Bk  k     k     kc         935   90    0 4c 8s
+baneVader 916662937  8  1 Bc  k     kf    -          845   20    0 
+baneVader 916662987  8  8 f   -     -     -          825    0    0 
+baneVader 916663055  8  7 c   f     -     -          825   40    0 
+baneVader 916663117  8  6 c   k     k     k          785   40  100 Jc Ks
+baneVader 916663143  8  5 c   b     -     -          845  220  360 
+baneVader 916663176  8  4 c   k     kf    -          985   40    0 
+baneVader 916663201  8  3 c   k     k     k          945   40   73 5h As
+baneVader 916663247  8  2 B   -     -     -          978   40   60 
+baneVader 916663263  8  1 Bc  kf    -     -          998  140    0 
+baneVader 916663288  8  8 f   -     -     -          858    0    0 
+baneVader 916663298  8  7 f   -     -     -          858    0    0 
+baneVader 916663333  8  6 f   -     -     -          858    0    0 
+baneVader 916663372  8  5 f   -     -     -          858    0    0 
+baneVader 916663404  8  4 cc  kf    -     -          858  360    0 
+baneVader 916663422  8  3 c   b     -     -          498  360  560 
+baneVader 916663440  8  2 Bk  k     k     k          698   80  320 Jc 6d
+baneVader 916663475  7  1 Bc  kf    -     -          938   80    0 
+baneVader 916663503  7  7 c   k     k     k          858   80    0 As 3s
+baneVader 916663539  7  6 f   -     -     -          778    0    0 
+baneVader 916663551  7  5 c   bf    -     -          778  320    0 
+baneVader 916663587  7  4 c   k     k     b          458  360    0 7d 8d
+baneVader 916663615  7  3 f   -     -     -           98    0    0 
+baneVader 916663635  7  2 Bk  k     kf    -           98   80    0 
+baneVader 916663657  7  1 BA  -     -     -           18   18    0 7c Ts
+baneVader 916852362 16 11 f   -     -     -         3000    0    0 
+baneVader 916852445 16 10 c   b     b     b         3000 2760 6720 2d As
+baneVader 916852533 16  9 c   k     f     -         6960  180    0 
+baneVader 916852581 15  8 c   k     k     k         6780   40    0 2h Ks
+baneVader 916852649 15  7 f   -     -     -         6740    0    0 
+baneVader 916852722 14  5 cf  -     -     -         6740   80    0 
+baneVader 916852780 14  4 f   -     -     -         6660    0    0 
+baneVader 916852818 14  3 f   -     -     -         6660    0    0 
+baneVader 916852888 14  2 Br  k     k     kf        6660  320    0 
+baneVader 916852991 12  1 Bf  -     -     -         6340   40    0 
+baneVader 916853057 12 12 f   -     -     -         6300    0    0 
+baneVader 916853099 11 10 f   -     -     -         6300    0    0 
+baneVader 916853143 11  9 c   f     -     -         6300  160    0 
+baneVader 916853169 11  8 f   -     -     -         6140    0    0 
+baneVader 916853225 10  7 cc  kf    -     -         6140  720    0 
+baneVader 916853258 10  6 f   -     -     -         5420    0    0 
+baneVader 916853293 10  5 cc  kf    -     -         5420  720    0 
+baneVader 916853333 10  4 cc  k     k     kf        4700 2760    0 
+baneVader 916853423  9  3 c   f     -     -         1940  320    0 
+baneVader 916853476  8  1 BcA -     -     -         1620 1620    0 Qh Jd
+baneVader 916923448  9  1 Bf  -     -     -        10000   50    0 
+baneVader 916923474  9  9 c   f     -     -         9950  450    0 
+baneVader 916923536  9  8 c   c     b     k         9500 1350    0 3c Ah
+baneVader 916923588  9  7 c   b     -     -         8150  500  800 
+baneVader 916923621  9  6 c   k     k     c         8450  600    0 Ac 5d
+baneVader 916923662  9  5 f   -     -     -         7850    0    0 
+baneVader 916923708  9  4 c   b     b     b         7850 5300 7200 
+baneVader 916923764  9  3 f   -     -     -         9750    0    0 
+baneVader 916923825  9  2 Bc  k     k     bc        9750 3125    0 8s Ah
+baneVader 916923880  9  1 Bc  kf    -     -         6625  100    0 
+baneVader 916923924  9  9 f   -     -     -         6525    0    0 
+baneVader 916923985  9  8 f   -     -     -         6525    0    0 
+baneVader 916924027  9  7 cf  -     -     -         6525  200    0 
+baneVader 916924092  9  6 cf  -     -     -         6325  200    0 
+baneVader 916924134  9  5 f   -     -     -         6125    0    0 
+baneVader 916924192  9  4 f   -     -     -         6125    0    0 
+baneVader 916924230  9  3 f   -     -     -         6125    0    0 
+baneVader 916924272  9  2 Bf  -     -     -         6125  200    0 
+baneVader 916924323  7  1 Bc  kc    kf    -         5925  600    0 
+baneVader 916924357  7  7 f   -     -     -         5325    0    0 
+baneVader 916924383  7  6 cc  kf    -     -         5325  900    0 
+baneVader 916924413  7  5 f   -     -     -         4425    0    0 
+baneVader 916924487  7  4 f   -     -     -         4425    0    0 
+baneVader 916924593  7  3 c   r     -     -         4425 4400 7300 Ah Ac
+baneVader 916924618  6  1 Bk  kf    -     -         7325  400    0 
+baneVader 916924642  6  1 Bc  kf    -     -         6925  400    0 
+baneVader 916924669  6  6 c   f     -     -         6525  400    0 
+baneVader 916924706  6  5 r   -     -     -         6125 1400 2000 
+baneVader 916924712  6  4 r   bf    -     -         6725 4400    0 
+baneVader 916924748  6  3 cc  kcA   -     -         2325 2325    0 3s 3c
+baneVader 917100173 13  1 Bc  k     k     k        10000   10    0 Ac 8s
+baneVader 917100273 13 13 f   -     -     -         9990    0    0 
+baneVader 917100319 13 12 rr  bA    -     -         9990 9990    0 Qd Ad
+baneVader 917107859 16  9 f   -     -     -          400    0    0 
+baneVader 917107933 15  7 cc  kf    -     -          400   13    0 
+baneVader 917108033 13  5 cc  kf    -     -          387    9    0 
+baneVader 917108150 13  4 f   -     -     -          378    0    0 
+baneVader 917108250 12  3 cc  kf    -     -          378   21    0 
+baneVader 917108344 11  1 Bk  kc    kcA   -          357  357    0 Qs 5s
+baneVader 917118754 23 12 f   -     -     -         5000    0    0 
+baneVader 917118849 23 11 f   -     -     -         5000    0    0 
+baneVader 917119041 23 10 f   -     -     -         5000    0    0 
+baneVader 917119137 22  9 f   -     -     -         5000    0    0 
+baneVader 917119182 22  8 f   -     -     -         5000    0    0 
+baneVader 917119244 20  6 f   -     -     -         5000    0    0 
+baneVader 917119299 20  5 cf  -     -     -         5000  100    0 
+baneVader 917119374 20  4 cc  kf    -     -         4900  650    0 
+baneVader 917119474 20  3 cc  k     k     bA        4250 4250 5300 
+baneVader 917119545 20  2 Bf  -     -     -         5300  200    0 
+baneVader 917119617 18  1 Bc  k     kf    -         5100  200    0 
+baneVader 917119715 18 18 f   -     -     -         4900    0    0 
+baneVader 917119755 17 16 f   -     -     -         4900    0    0 
+baneVader 917119833 17 15 c   c     f     -         4900 1600    0 
+baneVader 917119940 16 13 f   -     -     -         3300    0    0 
+baneVader 917119988 16 13 f   -     -     -         3300    0    0 
+baneVader 917120066 15 12 c   bcA   -     -         3300 3300 4000 8h Kh
+baneVader 917120111 15 11 f   -     -     -         4000    0    0 
+baneVader 917120206 15 10 c   f     -     -         4000  400    0 
+baneVader 917120269 15  9 f   -     -     -         3600    0    0 
+baneVader 917120299 15  8 f   -     -     -         3600    0    0 
+baneVader 917120391 15  7 f   -     -     -         3600    0    0 
+baneVader 917120438 15  6 f   -     -     -         3600    0    0 
+baneVader 917120462 14  4 f   -     -     -         3600    0    0 
+baneVader 917120497 14  3 f   -     -     -         3600    0    0 
+baneVader 917120534 13  2 Bf  -     -     -         3600  800    0 
+baneVader 917120563 13  1 Bf  -     -     -         2800  400    0 
+baneVader 917120581 13 13 cA  -     -     -         2400 2400 9340 2h 2s
+baneVader 917120606 11 10 f   -     -     -         9340    0    0 
+baneVader 917120653 11  9 c   k     k     f         9340  800    0 
+baneVader 917120715 11  8 f   -     -     -         8540    0    0 
+baneVader 917120735 11  7 f   -     -     -         8540    0    0 
+baneVader 917120776 11  6 f   -     -     -         8540    0    0 
+baneVader 917120803 11  5 f   -     -     -         8540    0    0 
+baneVader 917120826 10  3 f   -     -     -         8540    0    0 
+baneVader 917120852 10  2 B   -     -     -         8540 1600 2400 
+baneVader 917120861 10  1 Bc  kf    -     -         9340 1600    0 
+baneVader 917120889  9  9 f   -     -     -         7740    0    0 
+baneVader 917120925  9  8 c   b     -     -         7740 5600 8000 
+baneVader 917120973  9  7 f   -     -     -        10140    0    0 
+baneVader 917120986  9  6 f   -     -     -        10140    0    0 
+baneVader 917121016  9  5 f   -     -     -        10140    0    0 
+baneVader 917121041  9  4 f   -     -     -        10140    0    0 
+baneVader 917121068  9  3 ccA -     -     -        10140 10140    0 8s Ts
+baneVader 917276821 12  2 Bf  -     -     -        10000  100    0 
+baneVader 917276888 12  1 Bf  -     -     -         9900   50    0 
+baneVader 917276989 12 12 f   -     -     -         9850    0    0 
+baneVader 917277033 12 11 f   -     -     -         9850    0    0 
+baneVader 917277109 11 10 c   k     kc    kc        9850 1900 4050 9s Ts
+baneVader 917277169 11  9 c   c     k     kf       12000 1700    0 
+baneVader 917277247 11  8 f   -     -     -        10300    0    0 
+baneVader 917277356 11  7 f   -     -     -        10300    0    0 
+baneVader 917277464 10  5 c   b     -     -        10300  800 1200 
+baneVader 917277525 10  4 f   -     -     -        10700    0    0 
+baneVader 917277605 10  3 f   -     -     -        10700    0    0 
+baneVader 917277671 10  2 Bf  -     -     -        10700  400    0 
+baneVader 917277730 10  1 Bc  kf    -     -        10300  400    0 
+baneVader 917277793 10 10 c   f     -     -         9900  400    0 
+baneVader 917277898  9  8 f   -     -     -         9500    0    0 
+baneVader 917277947  9  7 c   k     f     -         9500  800    0 
+baneVader 917278030  9  6 cc  k     bA    -         8700 8700 26350 Js 8s
+baneVader 917278104  8  5 f   -     -     -        26350    0    0 
+baneVader 917278157  7  4 f   -     -     -        26350    0    0 
+baneVader 917278194  7  3 f   -     -     -        26350    0    0 
+baneVader 917278205  7  2 Bc  kc    -     -        26350 10500    0 Jd Tc
+baneVader 917278251  7  1 Bf  -     -     -        15850  800    0 
+baneVader 917278334  7  7 f   -     -     -        15050    0    0 
+baneVader 917278394  7  6 c   c     k     bA       15050 15050 34100 7h Ah
+baneVader 917278450  7  5 c   k     k     f        34100 1600    0 
+baneVader 917278516  6  4 f   -     -     -        32500    0    0 
+baneVader 917278549  6  3 c   kc    -     -        32500 10200    0 Qc Kc
+baneVader 917278588  6  2 Bk  kf    -     -        22300 3200    0 
+baneVader 917278636  6  1 Bc  kf    -     -        19100 3200    0 
+baneVader 917278668  6  6 f   -     -     -        15900    0    0 
+baneVader 917278762  6  5 cc  bA    -     -        15900 15900 33400 Ts Ad
+baneVader 917278786  6  4 f   -     -     -        33400    0    0 
+baneVader 917278870  6  3 f   -     -     -        33400    0    0 
+baneVader 917278914  6  2 Bk  kc    -     -        33400 9000    0 9h 4d
+baneVader 917278970  6  1 BrA -     -     -        24400 24400 39800 Kh Ks
+baneVader 917279000  5  5 f   -     -     -        39800    0    0 
+baneVader 917279035  5  4 cc  -     -     -        39800 18000    0 Ac Jh
+baneVader 917279063  5  3 f   -     -     -        21800    0    0 
+baneVader 917279102  5  2 Bk  bA    -     -        21800 21800 32300 5c Kh
+baneVader 917279133  4  1 Bc  b     bA    -        32300 32300 35500 Ac 6c
+baneVader 917279180  4  4 f   -     -     -        35500    0    0 
+baneVader 917279223  3  2 c   k     k     k        35500 12800 25600 Ah 9d
+baneVader 917279261  3  2 Bk  f     -     -        48300 12800    0 
+baneVader 917279286  3  1 Bc  kf    -     -        35500 12800    0 
+baneVader 917279323  2  2 c   k     k     bA       22700 22700 35500 
+baneVader 917279364  2  2 B   -     -     -        35500 12800 19200 
+baneVader 917279368  2  1 Bf  -     -     -        41900 6400    0 
+baneVader 917279372  2  2 Bk  k     k     k        35500 12800    0 4d Ks
+baneVader 917279402  2  1 Bc  kf    -     -        22700 12800    0 
+baneVader 917279425  2  2 BA  -     -     -         9900 9900    0 3s 7c
+baneVader 917291849 19 15 c   kc    kf    -         1000  140    0 
+baneVader 917291996 18 13 r   k     b     bA         860  860 1820 Ah Ac
+baneVader 917292075 18 12 f   -     -     -         1820    0    0 
+baneVader 917292199 18 11 r   c     c     c         1820 1000    0 Ks Kc
+baneVader 917292274 17  9 f   -     -     -          820    0    0 
+baneVader 917292406 17  8 c   f     -     -          820   80    0 
+baneVader 917292445 17  7 f   -     -     -          740    0    0 
+baneVader 917292535 17  6 f   -     -     -          740    0    0 
+baneVader 917292566 17  5 c   k     f     -          740  160    0 
+baneVader 917292684 16  4 f   -     -     -          580    0    0 
+baneVader 917292740 15  3 c   k     kcA   -          580  580    0 6s 9s
+baneVader 917372102 19  1 Bc  k     kc    kc        3500  510 1080 5d 8c
+baneVader 917372190 19 19 f   -     -     -         4070    0    0 
+baneVader 917372264 19 18 f   -     -     -         4070    0    0 
+baneVader 917372340 18 16 f   -     -     -         4070    0    0 
+baneVader 917372401 18 15 f   -     -     -         4070    0    0 
+baneVader 917372493 15 12 c   r     c     f         4070  466    0 
+baneVader 917372600 15 11 f   -     -     -         3604    0    0 
+baneVader 917372703 14  9 f   -     -     -         3604    0    0 
+baneVader 917372780 13  8 cc  kf    -     -         3604  121    0 
+baneVader 917372935 13  7 f   -     -     -         3483    0    0 
+baneVader 917372999 13  6 f   -     -     -         3483    0    0 
+baneVader 917373052 12  4 f   -     -     -         3483    0    0 
+baneVader 917373121 11  2 Bk  kf    -     -         3483  120    0 
+baneVader 917373233 11  1 Bc  kc    bA    -         3363 3363    0 2s 2d
+baneVader 917717410  9  8 c   k     b     b        10000  450    0 Kc 8c
+baneVader 917717455  9  7 f   -     -     -         9550    0    0 
+baneVader 917717510  9  6 f   -     -     -         9550    0    0 
+baneVader 917717559  9  5 f   -     -     -         9550    0    0 
+baneVader 917717611  9  4 cc  kf    -     -         9550 1030    0 
+baneVader 917717670  8  3 c   k     b     b         8520  840 1350 
+baneVader 917717738  8  2 Bk  k     k     c         9030   75    0 7d Th
+baneVader 917717784  8  1 Bf  -     -     -         8955   15    0 
+baneVader 917717838  8  8 c   k     k     k         8940   30    0 5d As
+baneVader 917717884  8  7 f   -     -     -         8910    0    0 
+baneVader 917717922  8  6 r   b     brA   -         8910 8910 17352 As Ad
+baneVader 917717963  7  5 f   -     -     -        17352    0    0 
+baneVader 917718038  7  4 f   -     -     -        17352    0    0 
+baneVader 917718077  7  3 c   k     k     k        17352   60  270 Qc 8c
+baneVader 917718117  7  2 Bk  kc    kf    -        17562  360    0 
+baneVader 917718167  7  1 Bc  k     k     kf       17202   60    0 
+baneVader 917718213  7  7 f   -     -     -        17142    0    0 
+baneVader 917718271  7  6 f   -     -     -        17142    0    0 
+baneVader 917718310  7  5 f   -     -     -        17142    0    0 
+baneVader 917718363  7  4 f   -     -     -        17142    0    0 
+baneVader 917718391  7  3 cc  kf    -     -        17142  780    0 
+baneVader 917718437  7  2 Br  b     bc    kcA      16362 16362    0 Jd As

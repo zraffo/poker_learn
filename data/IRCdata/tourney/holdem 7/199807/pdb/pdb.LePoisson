@@ -1,0 +1,81 @@
+LePoisson 899919510 10  3 f   -     -     -         1000    0    0 
+LePoisson 899919541  9  2 Bk  k     kf    -         1000   10    0 
+LePoisson 899919595  9  1 Bc  k     b     -          990   30   40 
+LePoisson 899919624  9  9 c   k     k     b         1000   35   50 
+LePoisson 899919676  9  8 f   -     -     -         1015    0    0 
+LePoisson 899919718  9  7 f   -     -     -         1015    0    0 
+LePoisson 899919766  9  6 f   -     -     -         1015    0    0 
+LePoisson 899919811  8  4 f   -     -     -         1015    0    0 
+LePoisson 899919820  8  3 f   -     -     -         1015    0    0 
+LePoisson 899919854  8  2 Bk  k     k     k         1015   20    0 Th 9c
+LePoisson 899919872  8  1 Bc  k     kf    -          995   20    0 
+LePoisson 899919937  8  8 f   -     -     -          975    0    0 
+LePoisson 899919950  8  7 c   b     -     -          975   70  100 
+LePoisson 899919977  8  6 f   -     -     -         1005    0    0 
+LePoisson 899920001  8  5 f   -     -     -         1005    0    0 
+LePoisson 899920016  8  4 c   k     b     -         1005  110  180 
+LePoisson 899920058  8  3 f   -     -     -         1075    0    0 
+LePoisson 899920096  8  2 Bk  b     b     -         1075  180  240 
+LePoisson 899920129  8  1 Bc  k     kf    -         1135   40    0 
+LePoisson 899920203  8  8 f   -     -     -         1095    0    0 
+LePoisson 899920231  8  7 f   -     -     -         1095    0    0 
+LePoisson 899920279  8  6 f   -     -     -         1095    0    0 
+LePoisson 899920288  8  5 f   -     -     -         1095    0    0 
+LePoisson 899920326  8  4 c   k     k     k         1095   40    0 Qd Jh
+LePoisson 899920365  8  3 f   -     -     -         1055    0    0 
+LePoisson 899920412  7  2 Bk  k     f     -         1055   40    0 
+LePoisson 899920508  7  1 Bf  -     -     -         1015   40    0 
+LePoisson 899920548  7  7 f   -     -     -          975    0    0 
+LePoisson 899920560  7  6 c   f     -     -          975  280    0 
+LePoisson 899920609  7  5 rA  -     -     -          695  695 1630 Kh Kc
+LePoisson 899920632  7  4 f   -     -     -         1630    0    0 
+LePoisson 899920665  7  3 f   -     -     -         1630    0    0 
+LePoisson 899920677  7  2 Bf  -     -     -         1630   80    0 
+LePoisson 899920711  6  1 Bf  -     -     -         1550   40    0 
+LePoisson 899920733  6  6 f   -     -     -         1510    0    0 
+LePoisson 899920750  6  5 f   -     -     -         1510    0    0 
+LePoisson 899920755  6  4 f   -     -     -         1510    0    0 
+LePoisson 899920767  6  3 r   -     -     -         1510  280  400 
+LePoisson 899920773  6  2 Bf  -     -     -         1630   80    0 
+LePoisson 899920800  6  1 Bf  -     -     -         1550   40    0 
+LePoisson 899920827  6  6 f   -     -     -         1510    0    0 
+LePoisson 899920848  6  5 f   -     -     -         1510    0    0 
+LePoisson 899920853  6  4 c   b     -     -         1510  560  800 
+LePoisson 899920879  6  3 f   -     -     -         1750    0    0 
+LePoisson 899920884  6  2 B   -     -     -         1750  160  240 
+LePoisson 899920887  6  1 Bf  -     -     -         1830   80    0 
+LePoisson 899920898  6  6 c   k     c     k         1750  720    0 6h Kh
+LePoisson 899920931  6  5 rA  -     -     -         1030 1030 1270 
+LePoisson 899920940  6  4 f   -     -     -         1270    0    0 
+LePoisson 899920944  6  3 f   -     -     -         1270    0    0 
+LePoisson 899920952  6  2 Bk  k     f     -         1270  160    0 
+LePoisson 899920970  6  1 Br  bA    -     -         1110 1110 1910 
+LePoisson 899920981  6  6 r   -     -     -         1910  560  800 
+LePoisson 899921032  6  5 f   -     -     -         2150    0    0 
+LePoisson 899921051  6  4 f   -     -     -         2150    0    0 
+LePoisson 899921067  6  3 f   -     -     -         2150    0    0 
+LePoisson 899921080  6  2 Bk  b     f     -         2150  640    0 
+LePoisson 899921101  6  1 Bf  -     -     -         1510   80    0 
+LePoisson 899921125  6  6 f   -     -     -         1430    0    0 
+LePoisson 899921135  6  5 f   -     -     -         1430    0    0 
+LePoisson 899921149  6  4 f   -     -     -         1430    0    0 
+LePoisson 899921174  6  3 f   -     -     -         1430    0    0 
+LePoisson 899921200  6  2 B   -     -     -         1430  320  480 
+LePoisson 899921221  6  1 Bf  -     -     -         1590  160    0 
+LePoisson 899921233  6  6 f   -     -     -         1430    0    0 
+LePoisson 899921287  6  5 cA  -     -     -         1430 1430 3910 9h 9d
+LePoisson 899921300  5  3 f   -     -     -         3910    0    0 
+LePoisson 899921323  4  1 Bc  bA    -     -         3910 3910 5430 Ac Qd
+LePoisson 899921346  3  1 Bf  -     -     -         5430  160    0 
+LePoisson 899921358  3  3 r   -     -     -         5270 1120 1600 
+LePoisson 899921365  3  2 B   -     -     -         5750  320  480 
+LePoisson 899921369  3  1 Bc  k     k     k         5910  830  845 Kh Jd
+LePoisson 899921389  2  2 f   -     -     -         5925    0    0 
+LePoisson 899921397  2  2 B   -     -     -         5925  320  480 
+LePoisson 899921398  2  1 Br  -     -     -         6085  960 1280 
+LePoisson 899921408  2  2 Bf  -     -     -         6405  320    0 
+LePoisson 899921414  2  1 Br  -     -     -         6085  960 1280 
+LePoisson 899921421  2  2 Bf  -     -     -         6405  320    0 
+LePoisson 899921425  2  1 Brc -     -     -         6085 3915    0 2h Ah
+LePoisson 899921432  2  2 Bc  f     -     -         2170  960    0 
+LePoisson 899921442  2  1 BrA -     -     -         1210 1210    0 4s Js

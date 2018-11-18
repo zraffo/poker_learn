@@ -1,0 +1,569 @@
+heatman   994512015 10  1 Bc  k     k     k        12000  100    0 Ts 8c
+heatman   994512078 10 10 c   k     k     f        11900  100    0 
+heatman   994512115 10  9 f   -     -     -        11800    0    0 
+heatman   994512152 10  8 f   -     -     -        11800    0    0 
+heatman   994512199 10  7 f   -     -     -        11800    0    0 
+heatman   994512228 10  6 c   kc    k     k        11800  500    0 Qh Ah
+heatman   994512291 10  5 f   -     -     -        11300    0    0 
+heatman   994512317 10  4 f   -     -     -        11300    0    0 
+heatman   994512358 10  3 f   -     -     -        11300    0    0 
+heatman   994512410  9  1 Bcc kcA   -     -        11300 11300    0 4s 8s
+heatman   994901989 11  7 c   c     k     b        10000 5425 8750 
+heatman   994902101 11  6 f   -     -     -        13325    0    0 
+heatman   994902163 11  5 rcc -     -     -        13325 8950    0 Qs Qh
+heatman   994902224 10  4 f   -     -     -         4375    0    0 
+heatman   994902346 10  3 cc  f     -     -         4375  275    0 
+heatman   994902416 10  2 Bc  b     k     k         4100  400    0 Tc Kc
+heatman   994902511 10  1 Bf  -     -     -         3700   50    0 
+heatman   994902549 10 10 c   f     -     -         3650  100    0 
+heatman   994902640 10  9 c   f     -     -         3550  450    0 
+heatman   994902732  8  6 c   f     -     -         3100  150    0 
+heatman   994902832  7  4 cc  kc    k     k         2950 1350    0 4s Ts
+heatman   994902904  7  3 c   b     -     -         1600  350  500 
+heatman   994902940  7  2 Bk  f     -     -         1750  100    0 
+heatman   994902972  7  1 Bc  kcA   -     -         1650 1650    0 Js Jd
+heatman   994905403 17 16 c   c     b     bA       10000 10000 20950 Th Ks
+heatman   994905516 16 14 f   -     -     -        20950    0    0 
+heatman   994905592 16 13 c   f     -     -        20950  175    0 
+heatman   994905698 16 12 f   -     -     -        20775    0    0 
+heatman   994905756 16 11 c   k     b     k        20775  275  675 Ah 2c
+heatman   994905812 16 10 c   c     r     -        21175 2950 4050 
+heatman   994905894 16  9 c   c     c     c        22275 9125 21250 4c Ah
+heatman   994905991 15  8 c   f     -     -        34400  350    0 
+heatman   994906045 15  7 c   k     f     -        34050  100    0 
+heatman   994906123 15  6 c   b     kc    kf       33950 2100    0 
+heatman   994906219 15  5 c   brc   kc    -        31850 10050 30150 Td Js
+heatman   994906318 13  4 c   rc    -     -        51950 9000 19000 2c Ac
+heatman   994906377 12  3 r   -     -     -        61950  700 1000 
+heatman   994906399 12  2 Bk  kf    -     -        62250  200    0 
+heatman   994906432 12  1 Bf  -     -     -        62050  100    0 
+heatman   994906490 11 11 f   -     -     -        61950    0    0 
+heatman   994906547 11 10 c   k     b     c        61950 1700 3600 5d Ad
+heatman   994906585 11  9 f   -     -     -        63850    0    0 
+heatman   994906636 11  8 cf  -     -     -        63850  200    0 
+heatman   994906681 11  7 f   -     -     -        63650    0    0 
+heatman   994906713 11  6 c   c     b     k        63650 3800 8100 3s Js
+heatman   994906815 11  5 c   kf    -     -        67950  200    0 
+heatman   994906890 11  4 f   -     -     -        67750    0    0 
+heatman   994906917 11  3 c   k     bc    kc       67750 7950 17100 8h Qc
+heatman   994906970 10  2 Bc  b     -     -        76900 9200 3825 Qs Ah
+heatman   994907031 10  1 Bc  kf    -     -        71525  400    0 
+heatman   994907080 10 10 c   k     b     k        71125 1800 4200 6h Kc
+heatman   994907137 10  9 f   -     -     -        73525    0    0 
+heatman   994907189 10  8 f   -     -     -        73525    0    0 
+heatman   994907253 10  7 f   -     -     -        73525    0    0 
+heatman   994907298 10  6 f   -     -     -        73525    0    0 
+heatman   994907360 10  5 f   -     -     -        73525    0    0 
+heatman   994907409 10  4 cc  cc    -     -        73525 19825    0 Qc Jc
+heatman   994907464  9  2 c   kc    k     kf       53700 2800    0 
+heatman   994907535  9  2 Bc  k     k     kf       50900 1800    0 
+heatman   994907577  9  1 Bc  k     kc    kc       49100 3200    0 5d 5c
+heatman   994907640  9  9 c   k     f     -        45900  800    0 
+heatman   994907678  9  8 f   -     -     -        45100    0    0 
+heatman   994907712  9  7 cc  kf    -     -        45100 1800    0 
+heatman   994907744  9  6 f   -     -     -        43300    0    0 
+heatman   994907775  9  5 f   -     -     -        43300    0    0 
+heatman   994907809  9  4 c   b     -     -        43300 3600 5600 
+heatman   994907855  9  3 f   -     -     -        45300    0    0 
+heatman   994907876  9  2 B   -     -     -        45300 1600 3800 Qs 5s
+heatman   994907887  8  1 Bc  kf    -     -        47500 4000    0 
+heatman   994907944  8  8 c   k     k     k        43500 3300    0 Ah Qd
+heatman   994907990  8  7 c   k     k     k        40200 1600 4800 7c Ad
+heatman   994908031  8  6 f   -     -     -        43400    0    0 
+heatman   994908053  8  5 r   b     -     -        43400 17600 26350 Qh Qs
+heatman   994908085  7  3 f   -     -     -        52150    0    0 
+heatman   994908105  7  3 f   -     -     -        52150    0    0 
+heatman   994908116  7  2 B   -     -     -        52150 1600 2400 
+heatman   994908126  7  1 Bf  -     -     -        52950  800    0 
+heatman   994908139  7  7 f   -     -     -        52150    0    0 
+heatman   994908154  7  6 c   k     c     k        52150 7200    0 7s 5s
+heatman   994908197  7  5 f   -     -     -        44950    0    0 
+heatman   994908221  7  4 c   b     -     -        44950 5600 8000 
+heatman   994908245  7  3 f   -     -     -        47350    0    0 
+heatman   994908302  7  2 Bk  k     k     k        47350 1600 7200 9c 8h
+heatman   994908345  7  1 Bc  kf    -     -        52950 3200    0 
+heatman   994908379  7  7 f   -     -     -        49750    0    0 
+heatman   994908425  6  5 f   -     -     -        49750    0    0 
+heatman   994908435  6  5 f   -     -     -        49750    0    0 
+heatman   994908466  6  4 f   -     -     -        49750    0    0 
+heatman   994908482  6  3 cc  kc    b     -        49750 40700 55800 5c Qc
+heatman   994908530  5  1 Bk  k     k     kf       64850 3200    0 
+heatman   994908578  5  1 Bc  kc    k     kc       61650 16000    0 6h Qc
+heatman   994908624  5  5 f   -     -     -        45650    0    0 
+heatman   994908640  5  4 f   -     -     -        45650    0    0 
+heatman   994908650  5  3 c   k     k     k        45650 3200 11200 Jc Qs
+heatman   994908686  5  2 Bf  -     -     -        53650 3200    0 
+heatman   994908701  5  1 Bc  -     -     -        50450 5900    0 3d Ad
+heatman   994908717  5  5 f   -     -     -        44550    0    0 
+heatman   994908761  5  4 f   -     -     -        44550    0    0 
+heatman   994908781  5  3 f   -     -     -        44550    0    0 
+heatman   994908816  5  2 Bf  -     -     -        44550 6400    0 
+heatman   994908838  5  1 Bc  krA   -     -        38150 38150 88950 Ah Ad
+heatman   994908889  4  4 c   f     -     -        88950 9150    0 
+heatman   994908910  3  2 B   -     -     -        79800 6400 9600 
+heatman   994908926  3  1 Bc  kf    -     -        83000 6400    0 
+heatman   994908942  3  3 c   k     k     k        76600 6400 16000 Qh Jc
+heatman   994908966  3  2 Bf  -     -     -        86200 6400    0 
+heatman   994908978  3  1 Bf  -     -     -        79800 3200    0 
+heatman   994908984  3  3 f   -     -     -        76600    0    0 
+heatman   994908991  3  2 Bc  kf    -     -        76600 19200    0 
+heatman   994909026  3  1 Br  -     -     -        57400 19200 25600 
+heatman   994909046  3  3 f   -     -     -        63800    0    0 
+heatman   994909064  3  2 Bk  k     b     -        63800 19200 25600 
+heatman   994909084  3  1 Bf  -     -     -        70200 3200    0 
+heatman   994909091  3  3 f   -     -     -        67000    0    0 
+heatman   994909121  3  2 B   -     -     -        67000 6400 9600 
+heatman   994909128  3  1 Bf  -     -     -        70200 3200    0 
+heatman   994909143  3  3 f   -     -     -        67000    0    0 
+heatman   994909165  3  2 Bk  r     -     -        67000 57600 76800 
+heatman   994909189  3  1 Bf  -     -     -        86200 3200    0 
+heatman   994909199  2  2 Bf  -     -     -        83000 6400    0 
+heatman   994909214  2  1 Bf  -     -     -        76600 3200    0 
+heatman   994909219  2  2 Bc  bc    rA    -        73400 73400 146800 8h 9c
+heatman   994909261  2  1 Bf  -     -     -       146800 3200    0 
+heatman   994909270  2  2 B   -     -     -       143600 6400 9600 
+heatman   994909282  2  1 Bf  -     -     -       146800 6400    0 
+heatman   994909287  2  2 Bc  -     -     -       140400 29600 59200 Td 3d
+heatman   994909397 10  7 f   -     -     -        10000    0    0 
+heatman   994909523 10  6 c   kf    -     -        10000   50    0 
+heatman   994909571 10  5 cc  b     k     kc        9950 4550    0 7d 9d
+heatman   994909631 10  4 f   -     -     -         5400    0    0 
+heatman   994909660 10  3 f   -     -     -         5400    0    0 
+heatman   994909744 10  2 Bc  kf    -     -         5400  225    0 
+heatman   994909839 10  1 Bc  kf    -     -         5175  350    0 
+heatman   994909893 10 10 c   c     cA    -         4825 4825    0 4d Qd
+heatman   994981175  9  9 f   -     -     -        10000    0    0 
+heatman   994981257  9  8 f   -     -     -        10000    0    0 
+heatman   994981313  9  7 c   c     c     k        10000 1350    0 4s Ks
+heatman   994981364  9  6 c   f     -     -         8650  350    0 
+heatman   994981417  9  5 cc  kc    kf    -         8300 2400    0 
+heatman   994981487  8  4 c   b     kc    kcA       5900 5900 12100 3c Kh
+heatman   994981581  8  3 f   -     -     -        12100    0    0 
+heatman   994981631  8  2 Bk  k     k     k        12100  200    0 2s Ks
+heatman   994981678  8  1 Bc  kf    -     -        11900 3200    0 
+heatman   994981731  8  8 c   f     -     -         8700  200    0 
+heatman   994981815  8  7 f   -     -     -         8500    0    0 
+heatman   994981859  8  6 f   -     -     -         8500    0    0 
+heatman   994981915  8  5 c   k     k     f         8500  200    0 
+heatman   994982001  8  4 f   -     -     -         8300    0    0 
+heatman   994982042  8  3 c   k     kf    -         8300  400    0 
+heatman   994982126  8  2 Bc  k     kf    -         7900 1100    0 
+heatman   994982195  7  1 Bf  -     -     -         6800  200    0 
+heatman   994982223  7  7 f   -     -     -         6600    0    0 
+heatman   994982270  7  6 f   -     -     -         6600    0    0 
+heatman   994982342  7  5 cc  kc    kc    kcA       6600 6600 15800 7d Ks
+heatman   994982406  7  4 cf  -     -     -        15800  800    0 
+heatman   994982458  6  3 c   kf    -     -        15000  800    0 
+heatman   994982499  6  2 Bk  k     b     -        14200 2400 3200 
+heatman   994982534  6  1 Bc  kf    -     -        15000  800    0 
+heatman   994982580  6  6 f   -     -     -        14200    0    0 
+heatman   994982632  6  5 c   f     -     -        14200  800    0 
+heatman   994982672  6  4 f   -     -     -        13400    0    0 
+heatman   994982735  6  3 f   -     -     -        13400    0    0 
+heatman   994982794  6  2 Bc  k     k     kf       13400 6000    0 
+heatman   994982861  6  1 Bf  -     -     -         7400  800    0 
+heatman   994982893  5  5 f   -     -     -         6600    0    0 
+heatman   994982917  5  5 f   -     -     -         6600    0    0 
+heatman   994982934  5  4 f   -     -     -         6600    0    0 
+heatman   994982973  5  3 c   f     -     -         6600 1600    0 
+heatman   994983004  4  1 Bc  kcA   -     -         5000 5000 10000 5s 9d
+heatman   994983049  4  1 Bf  -     -     -        10000  800    0 
+heatman   994983068  4  4 f   -     -     -         9200    0    0 
+heatman   994983094  4  3 r   -     -     -         9200 5600 8000 
+heatman   994983107  4  2 Bf  -     -     -        11600 1600    0 
+heatman   994983127  4  1 Bf  -     -     -        10000  800    0 
+heatman   994983146  4  4 f   -     -     -         9200    0    0 
+heatman   994983161  4  3 ccA -     -     -         9200 9200 10400 Tc Jc
+heatman   994983177  4  2 Bf  -     -     -        10400 1600    0 
+heatman   994983198  4  1 Bf  -     -     -         8800  800    0 
+heatman   994983218  4  4 f   -     -     -         8000    0    0 
+heatman   994983230  3  3 f   -     -     -         8000    0    0 
+heatman   994983247  3  2 BrA -     -     -         8000 8000    0 5h Qd
+heatman   995087175  8  3 c   f     -     -        10000   50    0 
+heatman   995087253  8  2 Bf  -     -     -         9950   50    0 
+heatman   995087295  8  1 Bc  k     kf    -         9900   50    0 
+heatman   995087351  8  8 c   k     f     -         9850  175    0 
+heatman   995087403  8  7 c   k     k     k         9675   50    0 Qc 6d
+heatman   995087465  8  6 c   f     -     -         9625  225    0 
+heatman   995087525  8  5 f   -     -     -         9400    0    0 
+heatman   995087563  8  4 f   -     -     -         9400    0    0 
+heatman   995087625  8  3 c   c     c     b         9400 4100 10000 Tc 3c
+heatman   995087678  8  2 Bk  kf    -     -        15300  100    0 
+heatman   995087795  8  1 Bc  kf    -     -        15200  100    0 
+heatman   995087871  8  8 cc  k     c     f        15100 1125    0 
+heatman   995087969  7  6 c   c     f     -        13975  800    0 
+heatman   995088014  7  6 f   -     -     -        13175    0    0 
+heatman   995088047  6  5 f   -     -     -        13175    0    0 
+heatman   995088094  6  4 f   -     -     -        13175    0    0 
+heatman   995088140  6  3 f   -     -     -        13175    0    0 
+heatman   995088158  6  2 Bk  kc    kc    f        13175 5200    0 
+heatman   995088226  5  1 Bf  -     -     -         7975  100    0 
+heatman   995088282  5  5 f   -     -     -         7875    0    0 
+heatman   995088320  5  4 cf  -     -     -         7875  200    0 
+heatman   995088354  5  3 f   -     -     -         7675    0    0 
+heatman   995088389  5  2 Bk  b     -     -         7675 1600 2400 
+heatman   995088428  5  1 Bc  k     kf    -         8475  400    0 
+heatman   995088463  5  5 ccA -     -     -         8075 8075 19750 Qd Kd
+heatman   995088514  5  4 f   -     -     -        19750    0    0 
+heatman   995088538  4  3 f   -     -     -        19750    0    0 
+heatman   995088553  4  2 Bk  c     f     -        19750 1600    0 
+heatman   995088587  4  1 Bc  kf    -     -        18150  400    0 
+heatman   995088618  4  4 f   -     -     -        17750    0    0 
+heatman   995088629  4  3 f   -     -     -        17750    0    0 
+heatman   995088669  4  2 Bf  -     -     -        17750  400    0 
+heatman   995088685  4  1 Bf  -     -     -        17350  200    0 
+heatman   995088707  4  4 f   -     -     -        17150    0    0 
+heatman   995088720  4  3 f   -     -     -        17150    0    0 
+heatman   995088735  3  2 Bf  -     -     -        17150  800    0 
+heatman   995088754  3  1 Bc  k     k     k        16350  800 1600 6d Ah
+heatman   995088768  3  3 f   -     -     -        17150    0    0 
+heatman   995088774  3  2 B   -     -     -        17150  800 1200 
+heatman   995088778  3  1 Bc  k     k     b        17550 2400 3200 
+heatman   995088796  3  3 f   -     -     -        18350    0    0 
+heatman   995088801  3  2 Bk  k     k     k        18350  800    0 6h 8c
+heatman   995088819  3  1 Bc  k     k     kf       17550  800    0 
+heatman   995088857  3  3 r   -     -     -        16750 2800 4000 
+heatman   995088869  3  2 B   -     -     -        17950  800 1200 
+heatman   995088871  3  1 Bc  k     k     k        18350  800    0 8h 5s
+heatman   995088891  3  3 c   k     k     k        17550  800 2000 Qs 8s
+heatman   995088916  3  2 Bf  -     -     -        18750  800    0 
+heatman   995088926  3  1 Bf  -     -     -        17950  400    0 
+heatman   995088932  3  3 c   c     f     -        17550 2800    0 
+heatman   995088952  3  2 B   -     -     -        14750  800 1200 
+heatman   995088956  3  1 Bf  -     -     -        15150  400    0 
+heatman   995088961  3  3 f   -     -     -        14750    0    0 
+heatman   995088965  3  2 B   -     -     -        14750  800 1200 
+heatman   995088968  3  1 Bc  b     -     -        15150 2400 3200 
+heatman   995088984  3  3 f   -     -     -        15950    0    0 
+heatman   995088990  3  2 Bk  k     k     f        15950  800    0 
+heatman   995089027  3  1 Bf  -     -     -        15150  400    0 
+heatman   995089033  3  3 f   -     -     -        14750    0    0 
+heatman   995089038  3  2 Bc  f     -     -        14750 2400    0 
+heatman   995089048  3  1 Bf  -     -     -        12350  400    0 
+heatman   995089061  3  3 c   b     -     -        11950 2800 4000 
+heatman   995089076  3  2 Bk  k     k     b        13150 2400 3200 
+heatman   995089104  3  1 Bc  k     k     k        13950 5600 12800 4s 9s
+heatman   995089134  3  3 cc  c     cA    -        21150 21150 43100 6s 6h
+heatman   995089160  3  2 Bc  f     -     -        43100 4800    0 
+heatman   995089182  3  1 Bf  -     -     -        38300  800    0 
+heatman   995089189  3  3 c   k     k     f        37500 1600    0 
+heatman   995089208  3  2 Bc  b     -     -        35900 14400 19200 
+heatman   995089222  3  1 Bf  -     -     -        40700  800    0 
+heatman   995089229  3  3 rc  -     -     -        39900 16825 34450 Jc Jh
+heatman   995089239  2  1 B   -     -     -        57525 1600 1600 
+heatman   995089240  2  1 Br  -     -     -        57525 4800 6400 
+heatman   995089249  2  2 B   -     -     -        59125 1600 2400 
+heatman   995089250  2  1 Br  -     -     -        59925 4800 6400 
+heatman   995089256  2  2 B   -     -     -        61525 1600 2400 
+heatman   995089257  2  1 Br  -     -     -        62325 4800 6400 
+heatman   995089269  2  2 B   -     -     -        63925 1600 2400 
+heatman   995089270  2  1 Br  -     -     -        64725 4800 6400 
+heatman   995089273  2  2 B   -     -     -        66325 1600 2400 
+heatman   995089274  2  1 Br  -     -     -        67125 4800 6400 
+heatman   995089276  2  2 B   -     -     -        68725 1600 2400 
+heatman   995089277  2  1 Br  -     -     -        69525 4800 6400 
+heatman   995089306  2  2 B   -     -     -        71125 1600 2400 
+heatman   995089307  2  1 Br  -     -     -        71925 4800 6400 
+heatman   995089308  2  2 B   -     -     -        73525 1600 2400 
+heatman   995089309  2  1 Br  -     -     -        74325 4800 6400 
+heatman   995089310  2  2 B   -     -     -        75925 1600 2400 
+heatman   995089311  2  1 Br  -     -     -        76725 4800 6400 
+heatman   995089314  2  2 B   -     -     -        78325 1600 2400 
+heatman   995089315  2  1 Br  -     -     -        79125 2625 3500 Kd Tc
+heatman   995089630  9  9 c   f     -     -        10000  225    0 
+heatman   995089669  8  7 f   -     -     -         9775    0    0 
+heatman   995089699  8  6 c   kf    -     -         9775   50    0 
+heatman   995089756  7  5 f   -     -     -         9725    0    0 
+heatman   995089781  7  4 f   -     -     -         9725    0    0 
+heatman   995089805  7  3 f   -     -     -         9725    0    0 
+heatman   995089835  7  2 Bc  kc    k     k         9725 1400    0 Tc Jh
+heatman   995089880  7  1 Bf  -     -     -         8325   25    0 
+heatman   995089901  7  7 f   -     -     -         8300    0    0 
+heatman   995089928  7  6 f   -     -     -         8300    0    0 
+heatman   995089951  7  5 f   -     -     -         8300    0    0 
+heatman   995089986  7  4 cc  k     c     k         8300 8250    0 Ts Th
+heatman   995090030  7  3 cA  -     -     -           50   50  150 Js Jd
+heatman   995090055  7  2 Bk  kcA   -     -          150  150    0 5c Qs
+heatman   995133965  6  3 r   bcA   -     -        12000 12000    0 Qh Qd
+heatman   995215216 12  2 Bc  c     c     cA        7500 7500 15200 9c 8s
+heatman   995215302 11  1 Bc  kc    k     k        15200  700    0 2s 2c
+heatman   995215361 11 11 c   k     c     f        14500  750    0 
+heatman   995215420 11 10 c   b     b     b        13750 5700 7650 
+heatman   995215465 11  9 c   cf    -     -        15700 1075    0 
+heatman   995215516 10  8 f   -     -     -        14625    0    0 
+heatman   995215550 10  7 c   k     k     k        14625   50  125 Qd Td
+heatman   995215581 10  6 cc  b     -     -        14700  750 1050 
+heatman   995215609 10  5 f   -     -     -        15000    0    0 
+heatman   995215649 10  4 cc  bc    -     -        15000 6250 14250 2h Jh
+heatman   995215690  9  3 c   f     -     -        23000  100    0 
+heatman   995215722  9  2 Bc  kf    -     -        22900  450    0 
+heatman   995215752  9  1 Bcc b     -     -        22450 5600 8400 
+heatman   995215794  9  9 c   b     -     -        25250 3100 3500 
+heatman   995215838  9  8 c   k     k     r        25650 1100 1500 
+heatman   995215894  9  7 f   -     -     -        26050    0    0 
+heatman   995215920  8  6 r   -     -     -        26050  350  500 
+heatman   995215939  8  5 f   -     -     -        26200    0    0 
+heatman   995215991  8  4 f   -     -     -        26200    0    0 
+heatman   995216026  8  3 f   -     -     -        26200    0    0 
+heatman   995216039  8  2 Bc  k     kf    -        26200  700    0 
+heatman   995216094  8  1 Bc  b     bc    -        25500 5225    0 3c 4h
+heatman   995216159  8  8 f   -     -     -        20275    0    0 
+heatman   995216209  8  7 f   -     -     -        20275    0    0 
+heatman   995216242  8  6 f   -     -     -        20275    0    0 
+heatman   995216280  8  5 cc  kc    kc    kc       20275 10550    0 Ah 8h
+heatman   995216338  8  4 c   kf    -     -         9725  200    0 
+heatman   995216372  8  3 r   kc    kc    -         9525 7150    0 Tc Th
+heatman   995216408  8  2 B   -     -     -         2375  400  600 
+heatman   995216420  8  1 Bc  kcA   -     -         2575 2575    0 Ks 4h
+heatman   995230132 16  4 c   kf    -     -        12000  200    0 
+heatman   995230204 15  3 c   k     k     kc       11800 1100 2700 7d Ac
+heatman   995230268 15  2 Bk  kc    kc    kf       13400 3400    0 
+heatman   995230349 15  1 Bf  -     -     -        10000  100    0 
+heatman   995230424 14 14 f   -     -     -         9900    0    0 
+heatman   995230487 14 13 c   k     b     -         9900  900 1400 
+heatman   995230550 14 12 c   k     kc    k        10400 1100 2700 Ac Jc
+heatman   995230627 14 11 f   -     -     -        12000    0    0 
+heatman   995230695 14 10 f   -     -     -        12000    0    0 
+heatman   995230759 13  8 f   -     -     -        12000    0    0 
+heatman   995230815 13  7 f   -     -     -        12000    0    0 
+heatman   995230893 13  6 c   f     -     -        12000  400    0 
+heatman   995230938 13  5 f   -     -     -        11600    0    0 
+heatman   995230981 13  4 f   -     -     -        11600    0    0 
+heatman   995231047 13  3 c   kf    -     -        11600  400    0 
+heatman   995231123 13  2 Bk  f     -     -        11200  800    0 
+heatman   995231221 12  1 Bc  kf    -     -        10400  800    0 
+heatman   995231263 12 12 f   -     -     -         9600    0    0 
+heatman   995231329 11 10 f   -     -     -         9600    0    0 
+heatman   995231380  9  8 c   c     k     k         9600 2500    0 8h 9h
+heatman   995231453  9  7 f   -     -     -         7100    0    0 
+heatman   995231496  8  5 f   -     -     -         7100    0    0 
+heatman   995231509  8  5 f   -     -     -         7100    0    0 
+heatman   995231539  8  4 f   -     -     -         7100    0    0 
+heatman   995231559  8  3 f   -     -     -         7100    0    0 
+heatman   995231574  8  2 BcA -     -     -         7100 7100    0 5c 6d
+heatman   995236385 11  8 f   -     -     -        10000    0    0 
+heatman   995236482 11  7 c   r     -     -        10000 3175 4500 
+heatman   995236580 11  6 c   k     k     f        11325   50    0 
+heatman   995236665 11  5 f   -     -     -        11275    0    0 
+heatman   995236719 11  4 f   -     -     -        11275    0    0 
+heatman   995236759 11  3 c   k     b     b        11275 2000 3250 
+heatman   995236880 11  2 Bc  kf    -     -        12525  275    0 
+heatman   995236972 10  1 Bc  k     k     b        12250 1900 2900 
+heatman   995237035 10 10 cc  f     -     -        13250  600    0 
+heatman   995237084  9  8 c   f     -     -        12650  100    0 
+heatman   995237130  9  7 cc  k     k     k        12550  225  600 6d 6s
+heatman   995237167  9  6 c   c     c     f        12925 1850    0 
+heatman   995237268  9  5 f   -     -     -        11075    0    0 
+heatman   995237316  9  4 c   f     -     -        11075  200    0 
+heatman   995237398  9  3 c   k     f     -        10875  200    0 
+heatman   995237463  9  2 Bf  -     -     -        10675  200    0 
+heatman   995237537  9  1 Bf  -     -     -        10475  100    0 
+heatman   995237564  9  9 cc  f     -     -        10375  650    0 
+heatman   995237605  9  8 c   k     b     -         9725  800 1200 
+heatman   995237647  9  7 cc  kf    -     -        10125 1100    0 
+heatman   995237692  9  6 f   -     -     -         9025    0    0 
+heatman   995237755  9  5 f   -     -     -         9025    0    0 
+heatman   995237815  9  4 f   -     -     -         9025    0    0 
+heatman   995237867  9  3 f   -     -     -         9025    0    0 
+heatman   995237983  9  2 Bk  bc    kc    -         9025 6500 13700 9d 8d
+heatman   995238040  7  1 Bc  k     kc    k        16225 1000 2400 Kd 8d
+heatman   995238099  7  7 c   f     -     -        17625  800    0 
+heatman   995238185  7  6 f   -     -     -        16825    0    0 
+heatman   995238225  7  5 f   -     -     -        16825    0    0 
+heatman   995238274  5  3 f   -     -     -        16825    0    0 
+heatman   995238332  5  3 c   f     -     -        16825  800    0 
+heatman   995238371  4  2 Bk  k     k     k        16025  800    0 2h Qd
+heatman   995238401  4  1 Bc  k     k     bf       15225 2400    0 
+heatman   995238433  4  4 cc  k     k     c        12825 10400    0 9c Tc
+heatman   995238472  4  3 ccA -     -     -         2425 2425    0 Jd Tc
+heatman   995503556 14 14 f   -     -     -        10000    0    0 
+heatman   995503633 13 12 f   -     -     -        10000    0    0 
+heatman   995503700 12 10 c   kc    k     brA      10000 10000  100 9s Qs
+heatman   995503807 12  9 cA  -     -     -          100  100    0 Tc Qc
+heatman   995684549 15 14 c   f     -     -         2500   10    0 
+heatman   995684658 15 13 c   f     -     -         2490   10    0 
+heatman   995684744 15 12 f   -     -     -         2480    0    0 
+heatman   995684809 14 10 cc  f     -     -         2480  130    0 
+heatman   995684864 13  9 cc  f     -     -         2350  270    0 
+heatman   995684943 12  7 cc  kf    -     -         2080   65    0 
+heatman   995685008 12  6 cf  -     -     -         2015   20    0 
+heatman   995685076 12  5 c   f     -     -         1995   20    0 
+heatman   995685169 12  4 f   -     -     -         1975    0    0 
+heatman   995685234 12  3 f   -     -     -         1975    0    0 
+heatman   995685271 12  2 Bk  kf    -     -         1975   20    0 
+heatman   995685305 12  1 Bf  -     -     -         1955   10    0 
+heatman   995685386 12 12 f   -     -     -         1945    0    0 
+heatman   995685466 11 10 c   f     -     -         1945  160    0 
+heatman   995685528  9  8 f   -     -     -         1785    0    0 
+heatman   995685583  9  7 c   f     -     -         1785   40    0 
+heatman   995685623  9  6 f   -     -     -         1745    0    0 
+heatman   995685669  9  5 c   c     k     bcA       1745 1745    0 5c As
+heatman   996192464 17  8 f   -     -     -        10000    0    0 
+heatman   996192543 17  7 f   -     -     -        10000    0    0 
+heatman   996192657 17  6 c   f     -     -        10000  350    0 
+heatman   996192723 16  5 f   -     -     -         9650    0    0 
+heatman   996192841 15  4 cf  -     -     -         9650  100    0 
+heatman   996192876 15  3 cc  kc    kc    k         9550  700 2800 Kh 4h
+heatman   996192967 14  2 Bc  kc    k     kf       11650 1200    0 
+heatman   996193076 14  1 Bf  -     -     -        10450  100    0 
+heatman   996193138 14 14 f   -     -     -        10350    0    0 
+heatman   996193170 14 13 f   -     -     -        10350    0    0 
+heatman   996193225 14 12 f   -     -     -        10350    0    0 
+heatman   996193312 14 11 f   -     -     -        10350    0    0 
+heatman   996193384 14 10 f   -     -     -        10350    0    0 
+heatman   996193450 14  9 f   -     -     -        10350    0    0 
+heatman   996193474 14  8 f   -     -     -        10350    0    0 
+heatman   996193528 14  7 c   r     bA    -        10350 10350 18200 4h 2h
+heatman   996193619 13  5 f   -     -     -        18200    0    0 
+heatman   996193666 13  4 f   -     -     -        18200    0    0 
+heatman   996193726 12  3 cf  -     -     -        18200  400    0 
+heatman   996193764 12  2 Bf  -     -     -        17800  400    0 
+heatman   996193831 12  1 Bf  -     -     -        17400  200    0 
+heatman   996193870 11 11 f   -     -     -        17200    0    0 
+heatman   996193891 11 11 c   f     -     -        17200  400    0 
+heatman   996193927 11 10 c   f     -     -        16800 2800    0 
+heatman   996193970 11  9 f   -     -     -        14000    0    0 
+heatman   996194019 11  8 f   -     -     -        14000    0    0 
+heatman   996194052 11  7 c   f     -     -        14000  800    0 
+heatman   996194113 11  6 c   kf    -     -        13200  800    0 
+heatman   996194150 11  5 r   -     -     -        12400 2800 4000 
+heatman   996194173 11  4 f   -     -     -        13600    0    0 
+heatman   996194206 11  3 c   kf    -     -        13600  800    0 
+heatman   996194286 11  2 Bc  kf    -     -        12800 2800    0 
+heatman   996194357 11  1 Bf  -     -     -        10000  400    0 
+heatman   996194402 11 11 c   k     k     k         9600 5000    0 6s 6c
+heatman   996194460 11 10 f   -     -     -         4600    0    0 
+heatman   996194504 11  9 c   k     k     cA        4600 4600 11600 As Tc
+heatman   996194576 11  8 cc  kcA   -     -        11600 11600 11500 Kc 5c
+heatman   996194620 11  7 f   -     -     -        11500    0    0 
+heatman   996194663 10  5 f   -     -     -        11500    0    0 
+heatman   996194685 10  5 ccA -     -     -        11500 11500    0 Kc Qs
+heatman   996366577  9  7 c   k     c     k        10000  450 1050 Ts Qc
+heatman   996366682  9  6 f   -     -     -        10600    0    0 
+heatman   996366733  9  5 f   -     -     -        10600    0    0 
+heatman   996366757  9  4 c   kf    -     -        10600  100    0 
+heatman   996366786  9  3 c   kf    -     -        10500  100    0 
+heatman   996366832  9  2 Bf  -     -     -        10400  100    0 
+heatman   996366845  9  1 Bc  k     k     k        10300  350    0 Qc Ts
+heatman   996366890  9  9 f   -     -     -         9950    0    0 
+heatman   996366915  9  8 f   -     -     -         9950    0    0 
+heatman   996366941  9  7 c   k     c     k         9950  450 1050 Kc 7h
+heatman   996366988  9  6 f   -     -     -        10550    0    0 
+heatman   996367027  9  5 f   -     -     -        10550    0    0 
+heatman   996367054  9  4 cc  k     k     k        10550  900    0 As 8s
+heatman   996367104  9  3 f   -     -     -         9650    0    0 
+heatman   996367145  9  2 Bk  k     k     k         9650  200    0 Ac 6h
+heatman   996367205  9  1 Bc  k     k     kc        9450 1000 3200 3h 6d
+heatman   996367262  9  9 c   k     k     k        11650  200    0 6h 5h
+heatman   996367297  9  8 f   -     -     -        11450    0    0 
+heatman   996367336  9  7 c   k     f     -        11450  200    0 
+heatman   996367375  9  6 f   -     -     -        11250    0    0 
+heatman   996367447  8  4 c   kc    kc    k        11250 5200    0 4s Kc
+heatman   996367482  8  4 c   b     k     k         6050 2600 7850 7s Kh
+heatman   996367513  7  3 c   kc    kc    k        11300 6000 12600 Qh Kh
+heatman   996367554  7  2 Bk  k     k     k        17900  400    0 Tc 9h
+heatman   996367580  7  1 Bc  kf    -     -        17500  400    0 
+heatman   996367602  7  7 f   -     -     -        17100    0    0 
+heatman   996367605  7  6 f   -     -     -        17100    0    0 
+heatman   996367620  7  5 r   -     -     -        17100 1400 2000 
+heatman   996367628  7  4 f   -     -     -        17700    0    0 
+heatman   996367636  7  3 f   -     -     -        17700    0    0 
+heatman   996367658  7  2 Bk  k     kc    k        17700  800 2600 5d 8c
+heatman   996367698  6  1 Bf  -     -     -        19500  200    0 
+heatman   996367723  6  6 f   -     -     -        19300    0    0 
+heatman   996367742  6  5 f   -     -     -        19300    0    0 
+heatman   996367748  6  4 f   -     -     -        19300    0    0 
+heatman   996367764  6  3 f   -     -     -        19300    0    0 
+heatman   996367785  6  2 Bk  k     k     k        19300  800    0 9s 8d
+heatman   996367815  6  1 Bc  k     k     k        18500  800    0 Ac 6c
+heatman   996367840  6  6 f   -     -     -        17700    0    0 
+heatman   996367865  6  5 c   k     k     b        17700 9600 13600 
+heatman   996367899  6  4 c   k     k     k        21700  800 2800 5d Ad
+heatman   996367928  6  3 c   b     k     k        23700 3600    0 2h Qh
+heatman   996367964  6  2 B   -     -     -        20100  800 1200 
+heatman   996367973  6  1 Bc  k     k     k        20500  800    0 Kh 6d
+heatman   996368000  6  6 f   -     -     -        19700    0    0 
+heatman   996368023  6  5 c   b     b     bA       19700 19700 40600 As Th
+heatman   996368075  6  4 c   b     k     k        40600 3600 8400 Qs 3s
+heatman   996368115  6  3 f   -     -     -        45400    0    0 
+heatman   996368140  6  2 Bc  -     -     -        45400  850 2100 4d 4c
+heatman   996368153  5  1 Bf  -     -     -        46650  800    0 
+heatman   996368183  5  5 f   -     -     -        45850    0    0 
+heatman   996368203  5  4 c   k     k     k        45850 1600    0 Qs 8s
+heatman   996368231  5  3 f   -     -     -        44250    0    0 
+heatman   996368239  5  2 B   -     -     -        44250 1600 2400 
+heatman   996368244  5  1 Bf  -     -     -        45050  800    0 
+heatman   996368249  5  5 f   -     -     -        44250    0    0 
+heatman   996368257  5  4 f   -     -     -        44250    0    0 
+heatman   996368266  5  3 cc  k     k     k        44250 5600    0 Ac Qs
+heatman   996368296  5  2 Bk  k     k     k        38650 1600 2000 4s 7d
+heatman   996368318  5  1 Bf  -     -     -        39050  800    0 
+heatman   996368327  5  5 f   -     -     -        38250    0    0 
+heatman   996368336  5  4 r   -     -     -        38250 5350 7500 Kc Ks
+heatman   996368345  4  3 c   k     k     k        40400 1600    0 Ah 3h
+heatman   996368377  4  2 B   -     -     -        38800 1600 2400 
+heatman   996368391  4  1 Bf  -     -     -        39600  800    0 
+heatman   996368397  4  4 c   b     -     -        38800 6400 2800 Kd As
+heatman   996368414  4  3 f   -     -     -        35200    0    0 
+heatman   996368438  4  2 Bk  k     k     k        35200 1600    0 4h 2h
+heatman   996368466  4  1 Bf  -     -     -        33600  800    0 
+heatman   996368473  4  4 f   -     -     -        32800    0    0 
+heatman   996368487  4  3 f   -     -     -        32800    0    0 
+heatman   996368490  4  2 Bk  k     b     k        32800 4800 4800 6s 3d
+heatman   996368520  4  1 Bc  k     k     k        32800 5600    0 Kd 9d
+heatman   996368546  3  3 f   -     -     -        27200    0    0 
+heatman   996368567  3  2 Bk  k     b     -        27200 11200 16000 
+heatman   996368585  3  1 Bc  k     k     b        32000 9600 12800 
+heatman   996368604  3  3 f   -     -     -        35200    0    0 
+heatman   996368627  3  2 Bk  k     k     k        35200 3200    0 4d 3c
+heatman   996368651  3  1 Bc  k     k     k        32000 3200 6400 Td 8s
+heatman   996368673  3  3 c   b     -     -        35200 12200 10200 9h 9c
+heatman   996368690  3  2 B   -     -     -        33200 3200 4800 
+heatman   996368699  3  1 Bc  kf    -     -        34800 3200    0 
+heatman   996368714  3  3 f   -     -     -        31600    0    0 
+heatman   996368745  3  2 Bk  b     -     -        31600 12600 18800 9s Ad
+heatman   996368761  2  1 Bf  -     -     -        37800 1600    0 
+heatman   996368769  2  2 Bk  k     k     k        36200 3200    0 Td 3d
+heatman   996368785  2  1 Bf  -     -     -        33000 1600    0 
+heatman   996368792  2  2 Bk  b     -     -        31400 9600 12800 
+heatman   996368802  2  1 Bc  k     k     k        34600 3200    0 8d 2d
+heatman   996368820  2  2 B   -     -     -        31400 3200 4800 
+heatman   996368826  2  1 Bf  -     -     -        33000 1600    0 
+heatman   996368829  2  2 Bk  k     b     -        31400 9600 12800 
+heatman   996368843  2  1 Br  k     k     k        34600 9600 9600 As 8c
+heatman   996368864  2  2 B   -     -     -        34600 3200 4800 
+heatman   996368870  2  1 Br  k     b     -        36200 28800 38400 
+heatman   996368887  2  2 Bk  b     -     -        45800 9600 12800 
+heatman   996368902  2  1 Bf  -     -     -        49000 1600    0 
+heatman   996368907  2  2 B   -     -     -        47400 3200 4800 
+heatman   996368909  2  1 Bf  -     -     -        49000 1600    0 
+heatman   996368913  2  2 Bk  b     -     -        47400 9600 12800 
+heatman   996368924  2  1 Br  k     k     k        50600 9600 9600 Ac 9h
+heatman   996368944  2  2 B   -     -     -        50600 6400 9600 
+heatman   996368953  2  1 Bf  -     -     -        53800 3200    0 
+heatman   996368956  2  2 Bk  k     k     rA       50600 50600 90000 Jh Jd
+heatman   996369100  7  3 c   b     -     -        10000  200  300 
+heatman   996369122  7  2 Bk  k     c     k        10100  200  450 6d 7s
+heatman   996369158  7  1 Bc  kc    bc    k        10350 9650 19575 Qd 5s
+heatman   996369199  7  7 r   -     -     -        20275  375  550 Ac Kc
+heatman   996369212  6  5 f   -     -     -        20450    0    0 
+heatman   996369222  6  4 f   -     -     -        20450    0    0 
+heatman   996369248  6  3 f   -     -     -        20450    0    0 
+heatman   996369277  6  2 Bc  kc    k     k        20450  550 1125 Jc 4c
+heatman   996369308  6  1 Bc  kc    kc    k        21025  800  900 Qd 7h
+heatman   996369343  6  6 c   k     k     k        21125   50    0 4d 2d
+heatman   996369366  6  5 c   k     k     f        21075   50    0 
+heatman   996369386  6  4 c   k     k     f        21025   50    0 
+heatman   996369420  6  3 f   -     -     -        20975    0    0 
+heatman   996369446  6  2 Bc  kc    kf    -        20975  550    0 
+heatman   996369469  6  1 Bc  kf    -     -        20425  350    0 
+heatman   996369489  6  6 f   -     -     -        20075    0    0 
+heatman   996369500  6  5 cc  f     -     -        20075  600    0 
+heatman   996369538  6  4 r   bc    k     kc       19475 15150    0 8s 8h
+heatman   996369591  5  3 c   f     -     -         4325  100    0 
+heatman   996369647  5  2 Bk  b     -     -         4225  550  900 
+heatman   996369668  5  1 Bc  k     kc    k         4575  400    0 6d 2s
+heatman   996369696  5  5 f   -     -     -         4175    0    0 
+heatman   996369716  5  4 f   -     -     -         4175    0    0 
+heatman   996369743  5  3 f   -     -     -         4175    0    0 
+heatman   996369773  5  2 Bc  kc    kcA   -         4175 4175    0 3c 4c

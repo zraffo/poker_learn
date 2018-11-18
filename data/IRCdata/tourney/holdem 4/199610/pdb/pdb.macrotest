@@ -1,0 +1,51 @@
+macrotest 844723577 11  7 f   -     -     -         1000    0    0 
+macrotest 844723616 11  6 c   f     -     -         1000   10    0 
+macrotest 844723654 11  5 cf  -     -     -          990   10    0 
+macrotest 844723692 11  4 c   kf    -     -          980   10    0 
+macrotest 844723732 11  3 cc  brA   -     -          970  970 1970 Kc Jc
+macrotest 844723788 10  2 Bc  kf    -     -         1970   35    0 
+macrotest 844723846 10  1 Bc  kf    -     -         1935   10    0 
+macrotest 844723891 10 10 r   k     k     k         1925   60  130 Ad Ks
+macrotest 844723940 10  9 cc  kc    kf    -         1995  145    0 
+macrotest 844724044 10  8 f   -     -     -         1850    0    0 
+macrotest 844724101 10  7 f   -     -     -         1850    0    0 
+macrotest 844724131 10  6 c   kf    -     -         1850   20    0 
+macrotest 844724195 10  5 cc  k     kr    kc        1830 1180    0 Ks Ah
+macrotest 844724295 10  4 f   -     -     -          650    0    0 
+macrotest 844724330  9  3 c   k     kf    -          650   20    0 
+macrotest 844724396  9  2 Bc  k     kc    kf         630  220    0 
+macrotest 844724444  9  1 Bc  kf    -     -          410   40    0 
+macrotest 844724489  9  9 c   f     -     -          370   40    0 
+macrotest 844724539  9  8 f   -     -     -          330    0    0 
+macrotest 844724603  9  7 f   -     -     -          330    0    0 
+macrotest 844724632  9  6 f   -     -     -          330    0    0 
+macrotest 844724649  9  5 f   -     -     -          330    0    0 
+macrotest 844724718  9  4 f   -     -     -          330    0    0 
+macrotest 844724757  9  3 f   -     -     -          330    0    0 
+macrotest 844724794  9  2 Bf  -     -     -          330   40    0 
+macrotest 844724843  8  1 Bc  bA    -     -          290  290    0 Ah Kc
+macrotest 844809586 10  1 Bc  kf    -     -         7500   50    0 
+macrotest 844809659 10 10 f   -     -     -         7450    0    0 
+macrotest 844809668 10  9 f   -     -     -         7450    0    0 
+macrotest 844809748 10  8 c   f     -     -         7450   50    0 
+macrotest 844809841 10  7 f   -     -     -         7400    0    0 
+macrotest 844809943 10  6 f   -     -     -         7400    0    0 
+macrotest 844809993 10  5 f   -     -     -         7400    0    0 
+macrotest 844810069 10  4 f   -     -     -         7400    0    0 
+macrotest 844810170 10  3 f   -     -     -         7400    0    0 
+macrotest 844810247 10  2 Bf  -     -     -         7400  100    0 
+macrotest 844810312 10  1 Bc  kf    -     -         7300  100    0 
+macrotest 844810420  9  9 c   rc    b     bA        7200 7200 12700 
+macrotest 844810529  9  8 c   c     c     f        12700 2500    0 
+macrotest 844810608  8  6 f   -     -     -        10200    0    0 
+macrotest 844810648  8  6 f   -     -     -        10200    0    0 
+macrotest 844810737  8  5 f   -     -     -        10200    0    0 
+macrotest 844810763  8  4 f   -     -     -        10200    0    0 
+macrotest 844810813  8  3 f   -     -     -        10200    0    0 
+macrotest 844810876  8  2 Bk  kf    -     -        10200  400    0 
+macrotest 844811010  8  1 Bf  -     -     -         9800  200    0 
+macrotest 844811066  8  8 f   -     -     -         9600    0    0 
+macrotest 844811160  8  7 f   -     -     -         9600    0    0 
+macrotest 844811217  8  6 f   -     -     -         9600    0    0 
+macrotest 844811270  8  5 f   -     -     -         9600    0    0 
+macrotest 844811343  7  3 ccA -     -     -         9600 9600    0 Td 7d

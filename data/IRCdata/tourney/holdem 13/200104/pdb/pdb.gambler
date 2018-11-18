@@ -1,0 +1,596 @@
+gambler   988259119 13 10 f   -     -     -        10000    0    0 
+gambler   988259273 13  9 c   k     b     k        10000  350    0 2s Kc
+gambler   988259391 13  8 c   k     c     f         9650  300    0 
+gambler   988259468 13  7 r   b     b     bA        9350 9350 12500 
+gambler   988259586 13  6 c   kf    -     -        12500  100    0 
+gambler   988259655 13  5 c   f     -     -        12400  350    0 
+gambler   988259685 13  4 c   k     f     -        12050  100    0 
+gambler   988259730 13  3 c   f     -     -        11950  100    0 
+gambler   988259786 13  2 Bk  kf    -     -        11850  100    0 
+gambler   988259876 13  1 Bc  k     k     k        11750  100  250 Ad 2h
+gambler   988259961 13 13 r   f     -     -        11900  900    0 
+gambler   988260034 13 12 c   k     f     -        11000  200    0 
+gambler   988260083 13 11 f   -     -     -        10800    0    0 
+gambler   988260143 13 10 c   b     k     k        10800 3900    0 Ks 4d
+gambler   988260222 13  9 r   kf    -     -         6900  900    0 
+gambler   988260314 12  7 c   kf    -     -         6000  200    0 
+gambler   988260395 12  6 c   kf    -     -         5800  400    0 
+gambler   988260491 12  5 c   kf    -     -         5400  400    0 
+gambler   988260549 12  4 cc  kf    -     -         5000 1800    0 
+gambler   988260592 12  3 rA  -     -     -         3200 3200    0 9s Ac
+gambler   988262726 12 11 c   c     c     cA       10000 10000 22475 As 4s
+gambler   988262813 11  9 c   rc    -     -        22475 8800    0 As Ks
+gambler   988262907 11  8 c   k     kf    -        13675   50    0 
+gambler   988262993 11  7 c   k     k     r        13625 4225 18300 Ts 2s
+gambler   988263091 11  6 c   k     b     b        27700 2100 3400 
+gambler   988263163 11  5 cc  kr    -     -        29000 5675    0 6s 7c
+gambler   988263242 11  4 f   -     -     -        23325    0    0 
+gambler   988263293 11  3 r   b     k     kc       23325 3825    0 Qh Ac
+gambler   988263365 11  2 Bc  kc    k     k        19500 1100    0 2d Jh
+gambler   988263428 11  1 Bc  kf    -     -        18400  400    0 
+gambler   988263554 11 11 c   c     c     f        18000 4200    0 
+gambler   988263635 11 10 c   b     b     -        13800 11050    0 Ac Kh
+gambler   988263711 11  9 f   -     -     -         2750    0    0 
+gambler   988263807 11  8 f   -     -     -         2750    0    0 
+gambler   988263838 11  7 c   k     rA    -         2750 2750    0 3d 9d
+gambler   988265130 11 10 c   kf    -     -        10000  100    0 
+gambler   988265221 11  9 f   -     -     -         9900    0    0 
+gambler   988265242 11  8 c   k     k     cc        9900 2300    0 As 7d
+gambler   988265310 11  7 rA  -     -     -         7600 7600 7950 
+gambler   988265339 11  6 c   b     b     bA        7950 7950 10300 
+gambler   988265444 11  5 r   k     k     b        10300 4100 5450 
+gambler   988265495 11  4 f   -     -     -        11650    0    0 
+gambler   988265537 11  3 cc  kc    bA    -        11650 11650 23800 Ah 3h
+gambler   988265638 10  2 Bk  k     kf    -        23800  200    0 
+gambler   988265687 10  1 Bc  kf    -     -        23600  200    0 
+gambler   988265741 10 10 c   f     -     -        23400  200    0 
+gambler   988265798 10  9 cf  -     -     -        23200  200    0 
+gambler   988265834 10  8 c   k     f     -        23000  200    0 
+gambler   988265915 10  7 c   b     b     b        22800 9550    0 6s Qs
+gambler   988265975 10  6 cc  bc    -     -        13250 12100 30300 As 4s
+gambler   988266034  8  4 f   -     -     -        31450    0    0 
+gambler   988266058  8  3 f   -     -     -        31450    0    0 
+gambler   988266130  8  2 Bk  k     k     b        31450 3400 1125 2d 6d
+gambler   988266179  8  1 Bc  k     kc    kc       29175 4950    0 Qs 4h
+gambler   988266256  8  8 f   -     -     -        24225    0    0 
+gambler   988266287  8  7 f   -     -     -        24225    0    0 
+gambler   988266338  8  6 c   k     k     b        24225 12300 23100 
+gambler   988266408  8  5 f   -     -     -        35025    0    0 
+gambler   988266466  7  3 c   kc    kc    k        35025 13600 28800 Ts 4s
+gambler   988266535  7  2 Bk  kf    -     -        50225  800    0 
+gambler   988266583  7  1 Bc  kc    k     k        49425 8250    0 2h 4h
+gambler   988266637  6  6 f   -     -     -        41175    0    0 
+gambler   988266662  5  5 c   k     c     k        41175 6400    0 Js Qh
+gambler   988266699  5  4 r   -     -     -        34775 5600 8000 
+gambler   988266718  5  3 f   -     -     -        37175    0    0 
+gambler   988266737  5  2 Bk  kc    -     -        37175 3425    0 6s Ks
+gambler   988266773  4  1 Bc  kr    -     -        33750 14400 21850 9h Kd
+gambler   988266801  3  3 c   k     k     f        41200 1600    0 
+gambler   988266827  3  3 c   k     k     k        39600 1600    0 Qc 9c
+gambler   988266852  3  2 Bf  -     -     -        38000 1600    0 
+gambler   988266868  3  1 Bc  k     k     kf       36400 1600    0 
+gambler   988266895  3  3 r   -     -     -        34800 3600 6000 
+gambler   988266917  3  2 B   -     -     -        37200 1600 2400 
+gambler   988266920  3  1 Bf  -     -     -        38000  800    0 
+gambler   988266943  3  3 f   -     -     -        37200    0    0 
+gambler   988266964  3  2 Bk  k     k     k        37200 1600 4000 As 5h
+gambler   988266987  3  1 Bc  k     k     kf       39600 1600    0 
+gambler   988267013  3  3 c   k     f     -        38000 1600    0 
+gambler   988267044  3  2 B   -     -     -        36400 3200 4800 
+gambler   988267048  3  1 Bc  k     k     k        38000 3200 6400 Qh 6d
+gambler   988267072  3  3 c   k     k     k        41200 3200 9600 Jc Qh
+gambler   988267099  3  2 Br  k     k     k        47600 34700    0 5h 5s
+gambler   988267132  2  1 Br  -     -     -        12900 9600 12800 
+gambler   988267146  2  2 Bk  k     k     b        16100 9600 12800 
+gambler   988267168  2  1 Bc  b     -     -        19300 9600 12800 
+gambler   988267181  2  2 Bk  k     k     b        22500 9600 12800 
+gambler   988267204  2  1 Bc  k     k     k        25700 3200    0 Js 3s
+gambler   988267235  2  2 Bk  k     k     b        22500 9600    0 Jh 9h
+gambler   988267259  2  1 Br  -     -     -        12900 9600 12800 
+gambler   988267268  2  2 Br  bA    -     -        16100 16100    0 2s Ad
+gambler   988267527 12  6 c   kf    -     -        10000  100    0 
+gambler   988267661 12  5 f   -     -     -         9900    0    0 
+gambler   988267727 12  4 c   k     k     kf        9900  100    0 
+gambler   988267873 12  3 c   b     k     k         9800 1100 2600 8s Kh
+gambler   988267932 12  2 Bk  k     kf    -        11300  200    0 
+gambler   988268026 12  1 Bc  k     k     kf       11100  200    0 
+gambler   988268130 12 12 f   -     -     -        10900    0    0 
+gambler   988268189 12 11 c   c     rcA   -        10900 10900    0 Js Kc
+gambler   988270604 11  7 f   -     -     -        10000    0    0 
+gambler   988270701 11  6 c   b     b     k        10000 3050 10250 Ad 8d
+gambler   988270814 11  5 c   r     k     b        17200 3350 7200 Kc Qh
+gambler   988270955 11  4 cc  kf    -     -        21050  275    0 
+gambler   988271050 11  3 c   kc    k     k        20775  650    0 2s 5s
+gambler   988271138 11  2 Bc  b     kc    k        20125 4025    0 9c Js
+gambler   988271220 11  1 Bc  k     k     b        16100 3766 9164 7d 2d
+gambler   988271338 11 11 f   -     -     -        21498    0    0 
+gambler   988271403 10  9 c   c     f     -        21498  600    0 
+gambler   988271467 10  8 f   -     -     -        20898    0    0 
+gambler   988271491 10  7 f   -     -     -        20898    0    0 
+gambler   988271536 10  6 c   kf    -     -        20898  200    0 
+gambler   988271591  8  4 c   k     k     k        20698  200    0 9h Kc
+gambler   988271623  8  4 f   -     -     -        20498    0    0 
+gambler   988271694  8  3 c   k     b     -        20498 1200 1700 
+gambler   988271748  8  2 Bk  kf    -     -        20998  200    0 
+gambler   988271815  8  1 Bcc kc    kf    -        20798  800    0 
+gambler   988271901  8  8 c   k     c     b        19998 5600 7600 
+gambler   988271974  8  7 c   c     c     -        21998 15025    0 Ad 7c
+gambler   988272018  8  6 r   b     bA    -         6973 6973    0 Ac 2d
+gambler   988273145  7  6 f   -     -     -        10000    0    0 
+gambler   988273174  6  5 r   b     -     -        10000 2175 2375 
+gambler   988273234  6  4 c   f     -     -        10200   50    0 
+gambler   988273295  6  3 cf  -     -     -        10150   50    0 
+gambler   988273360  6  2 Bk  k     k     b        10100 1050 1175 
+gambler   988273409  6  1 Bc  k     kc    k        10225  250    0 6s 3s
+gambler   988273448  6  6 c   c     f     -         9975  600    0 
+gambler   988273525  6  5 c   k     kf    -         9375  100    0 
+gambler   988273570  6  4 f   -     -     -         9275    0    0 
+gambler   988273595  6  3 c   bf    -     -         9275  700    0 
+gambler   988273632  6  2 Bc  kr    -     -         8575 5500 8400 
+gambler   988273676  6  1 Bc  kc    kc    -        11475 4725    0 5d 8d
+gambler   988273748  5  5 r   b     bA    -         6750 6750 14500 8h 8c
+gambler   988273792  5  4 c   k     c     k        14500 1000 2400 7d 8s
+gambler   988273833  5  3 f   -     -     -        15900    0    0 
+gambler   988273872  5  2 Bk  kf    -     -        15900  200    0 
+gambler   988273913  4  1 Br  b     b     bcA      15700 15700 32200 Qs Ah
+gambler   988273975  4  4 c   rrc   c     c        32200 28200    0 Kd 7s
+gambler   988274028  4  3 c   k     k     k         4000  200    0 Th 4h
+gambler   988274053  4  2 Bk  k     k     kf        3800  400    0 
+gambler   988274085  4  1 Bc  k     k     kf        3400  400    0 
+gambler   988274111  4  4 c   k     k     k         3000  400    0 7h Th
+gambler   988274143  4  3 c   k     k     k         2600  400  712 Td 7h
+gambler   988274210  3  2 Bk  k     b     bA        2912 2912 6024 Th 3s
+gambler   988274250  3  1 Bc  k     k     k         6024  400    0 7h 8d
+gambler   988274282  3  3 c   k     r     bA        5624 5624 14648 8h 4h
+gambler   988274359  3  2 Bk  k     k     k        14648  800    0 Kh Td
+gambler   988274397  3  1 Bf  -     -     -        13848  400    0 
+gambler   988274426  3  3 f   -     -     -        13448    0    0 
+gambler   988274467  3  2 Bk  k     k     k        13448  800    0 5d 3c
+gambler   988274504  3  1 Bc  k     kc    kf       12648 1600    0 
+gambler   988274542  3  3 cf  -     -     -        11048  800    0 
+gambler   988274572  2  1 Br  b     -     -        10248 7200 9600 
+gambler   988274586  2  1 Bc  k     b     -        12648 2400 3200 
+gambler   988274604  2  2 Bk  k     k     k        13448  800    0 Qd 9s
+gambler   988274621  2  1 Bf  -     -     -        12648  400    0 
+gambler   988274630  2  2 Bk  k     k     k        12248  800    0 Jh 6c
+gambler   988274647  2  1 Bf  -     -     -        11448  400    0 
+gambler   988274660  2  2 Bk  k     k     k        11048 1600    0 3c 2d
+gambler   988274679  2  1 Bf  -     -     -         9448  800    0 
+gambler   988274688  2  2 Bk  b     k     bA        8648 8648 13448 
+gambler   988274713  2  1 Bf  -     -     -        13448  800    0 
+gambler   988274720  2  2 Bk  b     bA    -        12648 12648 17448 
+gambler   988274753  2  1 Bc  k     k     k        17448 1600 1600 4h 7h
+gambler   988274783  2  2 Br  b     cA    -        17448 17448    0 8c 8d
+gambler   988275074  8  7 f   -     -     -        10000    0    0 
+gambler   988275133  7  5 f   -     -     -        10000    0    0 
+gambler   988275240  7  4 c   k     k     f        10000   50    0 
+gambler   988275325  6  2 r   b     b     -         9950 2750 3900 
+gambler   988275385  6  2 Bk  k     kc    kf       11100  137    0 
+gambler   988275478  6  1 Bc  k     kf    -        10963  100    0 
+gambler   988275552  6  6 r   b     -     -        10863 1400 2100 
+gambler   988275582  6  5 c   k     kc    br       11563 8900 17195 2s 6s
+gambler   988275645  5  4 f   -     -     -        19858    0    0 
+gambler   988275686  5  3 c   b     -     -        19858  500  800 
+gambler   988275721  5  2 Bk  b     b     k        20158 1700    0 8d Jd
+gambler   988275797  5  1 Bc  bc    -     -        18458 9300    0 4h 5d
+gambler   988275843  5  5 c   b     k     k         9158  800 1800 5d 4h
+gambler   988275909  5  4 f   -     -     -        10158    0    0 
+gambler   988275934  5  3 c   b     bA    -        10158 10158 22916 7d 9h
+gambler   988276028  5  2 Br  b     k     k        22916 5600    0 2d 2h
+gambler   988276107  5  1 Bc  bc    kcA   -        17316 17316 36032 As 7s
+gambler   988276187  5  5 r   b     -     -        36032 6000 8400 
+gambler   988276235  5  4 c   r     -     -        38432 4000 1066 8s Th
+gambler   988276289  5  3 cc  -     -     -        35498 6668    0 Th Qd
+gambler   988276320  5  2 Br  -     -     -        28830 1400 2000 
+gambler   988276339  5  1 Bc  kc    kf    -        29430 6000    0 
+gambler   988276390  5  5 f   -     -     -        23430    0    0 
+gambler   988276441  4  3 f   -     -     -        23430    0    0 
+gambler   988276479  4  2 Bk  bc    -     -        23430 18750    0 Js 2d
+gambler   988276539  4  1 Bc  b     bA    -         4680 4680 9360 Qs Qd
+gambler   988276568  4  4 f   -     -     -         9360    0    0 
+gambler   988276636  4  3 f   -     -     -         9360    0    0 
+gambler   988276678  4  2 Bk  k     k     c         9360 3200    0 Kh 9s
+gambler   988276725  4  1 Bc  kf    -     -         6160  800    0 
+gambler   988276763  4  4 c   rA    -     -         5360 5360    0 Jc Js
+gambler   988278049  6  5 f   -     -     -         2500    0    0 
+gambler   988278092  6  4 f   -     -     -         2500    0    0 
+gambler   988278164  6  3 f   -     -     -         2500    0    0 
+gambler   988278233  6  2 Bf  -     -     -         2500   10    0 
+gambler   988278295  6  1 Bf  -     -     -         2490    5    0 
+gambler   988278340  6  6 f   -     -     -         2485    0    0 
+gambler   988278407  6  5 f   -     -     -         2485    0    0 
+gambler   988278447  6  4 f   -     -     -         2485    0    0 
+gambler   988278592  6  3 f   -     -     -         2485    0    0 
+gambler   988278631  6  2 Bk  k     k     k         2485   20    0 3c 4h
+gambler   988278690  6  1 Bf  -     -     -         2465   10    0 
+gambler   988278854  6  6 f   -     -     -         2455    0    0 
+gambler   988278920  6  5 f   -     -     -         2455    0    0 
+gambler   988278976  6  4 f   -     -     -         2455    0    0 
+gambler   988279037  6  3 f   -     -     -         2455    0    0 
+gambler   988279085  6  2 Bf  -     -     -         2455   40    0 
+gambler   988279158  6  1 Bf  -     -     -         2415   20    0 
+gambler   988279212  6  6 f   -     -     -         2395    0    0 
+gambler   988279267  6  5 f   -     -     -         2395    0    0 
+gambler   988279311  6  4 f   -     -     -         2395    0    0 
+gambler   988279356  6  3 f   -     -     -         2395    0    0 
+gambler   988279405  6  2 Bk  k     k     kf        2395   80    0 
+gambler   988279434  6  1 Bf  -     -     -         2315   40    0 
+gambler   988279460  6  6 f   -     -     -         2275    0    0 
+gambler   988279489  6  5 f   -     -     -         2275    0    0 
+gambler   988279535  6  4 f   -     -     -         2275    0    0 
+gambler   988279590  6  3 f   -     -     -         2275    0    0 
+gambler   988279624  6  2 Bk  k     k     k         2275   80   80 5d Td
+gambler   988279653  6  1 Bf  -     -     -         2275   80    0 
+gambler   988279696  6  6 f   -     -     -         2195    0    0 
+gambler   988279720  6  5 f   -     -     -         2195    0    0 
+gambler   988279771  5  3 f   -     -     -         2195    0    0 
+gambler   988279808  5  3 f   -     -     -         2195    0    0 
+gambler   988279823  5  2 Bk  k     k     k         2195  160  480 6h Qh
+gambler   988279849  5  1 Bf  -     -     -         2515   80    0 
+gambler   988279881  5  5 f   -     -     -         2435    0    0 
+gambler   988279922  5  4 f   -     -     -         2435    0    0 
+gambler   988279975  5  3 f   -     -     -         2435    0    0 
+gambler   988279989  5  2 Bk  kf    -     -         2435  160    0 
+gambler   988280012  5  1 Bf  -     -     -         2275   80    0 
+gambler   988280050  4  4 f   -     -     -         2195    0    0 
+gambler   988280066  4  3 f   -     -     -         2195    0    0 
+gambler   988280070  4  2 B   -     -     -         2195  320  480 
+gambler   988280079  4  1 Bf  -     -     -         2355  160    0 
+gambler   988280103  4  4 f   -     -     -         2195    0    0 
+gambler   988280109  4  3 f   -     -     -         2195    0    0 
+gambler   988280137  4  2 Bf  -     -     -         2195  320    0 
+gambler   988280145  4  1 Bf  -     -     -         1875  160    0 
+gambler   988280152  4  4 f   -     -     -         1715    0    0 
+gambler   988280173  3  2 f   -     -     -         1715    0    0 
+gambler   988280182  3  2 Bf  -     -     -         1715  320    0 
+gambler   988280189  3  1 Bf  -     -     -         1395  160    0 
+gambler   988280192  3  3 f   -     -     -         1235    0    0 
+gambler   988280219  3  2 Bf  -     -     -         1235  320    0 
+gambler   988280231  3  1 Bf  -     -     -          915  160    0 
+gambler   988280242  3  3 f   -     -     -          755    0    0 
+gambler   988280288  3  2 Bf  -     -     -          755  320    0 
+gambler   988280312  3  1 Bf  -     -     -          435  160    0 
+gambler   988280324  3  3 f   -     -     -          275    0    0 
+gambler   988280351  3  2 BA  -     -     -          275  275  550 Jd 8s
+gambler   988280361  3  1 Bf  -     -     -          550  160    0 
+gambler   988280379  3  3 f   -     -     -          390    0    0 
+gambler   988280386  2  2 Bf  -     -     -          390  320    0 
+gambler   988280393  2  1 BA  -     -     -           70   70  140 4h Ah
+gambler   988280394  2  2 BA  -     -     -          140  140  280 Qc 7c
+gambler   988280395  2  1 Bf  -     -     -          280  160    0 
+gambler   988280396  2  2 BA  -     -     -          120  120  240 6c Kd
+gambler   988280397  2  1 Bf  -     -     -          240  160    0 
+gambler   988280398  2  2 BA  -     -     -           80   80    0 Kc 4d
+gambler   988403488 12  7 cc  k     k     k        10000  450 1050 Ad 5s
+gambler   988403554 12  6 c   c     k     k        10600  800 1050 3c Jd
+gambler   988403637 12  5 c   kf    -     -        10850  100    0 
+gambler   988403738 11  3 c   k     k     kf       10750  100    0 
+gambler   988403819 11  2 Bf  -     -     -        10650  100    0 
+gambler   988403891 10  1 Bc  kr    b     kc       10550 9300 19200 As Js
+gambler   988403997  9  9 cf  -     -     -        20450  200    0 
+gambler   988404049  7  6 c   k     f     -        20250  200    0 
+gambler   988404088  7  5 c   f     -     -        20050  200    0 
+gambler   988404144  7  4 cf  -     -     -        19850  200    0 
+gambler   988404200  7  3 cc  k     k     b        19650 2000 1550 6d Jd
+gambler   988404255  7  2 Bf  -     -     -        19200  200    0 
+gambler   988404284  7  1 Bc  k     b     -        19000 4600 6550 3d 7d
+gambler   988404328  6  6 c   k     k     k        20950  400    0 As 5c
+gambler   988404361  6  5 r   -     -     -        20550 1400 2000 
+gambler   988404371  6  4 r   -     -     -        21150 1400 2000 
+gambler   988404388  6  3 c   kf    -     -        21750  400    0 
+gambler   988404416  6  2 Bk  k     k     b        21350 1400 3000 3c Kh
+gambler   988404450  6  1 Bcc kf    -     -        22950 1200    0 
+gambler   988404475  6  6 c   k     k     c        21750 1600    0 Ks 6d
+gambler   988404516  6  5 cc  k     f     -        20150 1400    0 
+gambler   988404548  6  4 r   -     -     -        18750 1400 2000 
+gambler   988404556  6  3 c   b     b     -        19350 9400 14400 
+gambler   988404598  6  2 Bk  k     k     kc       24350 1400 3000 Jh Js
+gambler   988404638  6  1 Bc  k     k     kf       25950  400    0 
+gambler   988404688  6  6 c   f     -     -        25550  800    0 
+gambler   988404710  6  5 cc  kf    -     -        24750 4400    0 
+gambler   988404743  6  4 c   b     -     -        20350 3200 4800 
+gambler   988404763  6  3 cc  k     k     k        21950 2800    0 3c 7c
+gambler   988404798  6  2 Bc  kf    -     -        19150 2800    0 
+gambler   988404825  6  1 Bc  k     k     k        16350  800    0 Ts 9h
+gambler   988404973  6  6 f   -     -     -        15550    0    0 
+gambler   988404982  6  5 f   -     -     -        15550    0    0 
+gambler   988405025  6  4 f   -     -     -        15550    0    0 
+gambler   988405064  6  3 c   kf    -     -        15550  800    0 
+gambler   988405104  6  2 Bc  kf    -     -        14750 4000    0 
+gambler   988405135  6  1 Bc  b     -     -        10750 6400 9600 
+gambler   988405164  6  6 c   k     k     k        13950 1600 4000 Ac 3s
+gambler   988405207  6  5 r   rA    -     -        16350 16350  700 Qd Ad
+gambler   988405235  6  4 cA  -     -     -          700  700    0 6h Js
+gambler   988405932 10  6 f   -     -     -        10000    0    0 
+gambler   988405967 10  5 f   -     -     -        10000    0    0 
+gambler   988406029 10  4 f   -     -     -        10000    0    0 
+gambler   988406128 10  3 r   kc    kf    -        10000  900    0 
+gambler   988406184 10  2 Bk  bc    kc    bA        9100 9100 18375 7c Ks
+gambler   988406266 10  1 Bc  k     b     bc       18375 10050    0 2c As
+gambler   988406340  9  9 c   k     c     f         8325  650    0 
+gambler   988406417  9  8 r   b     -     -         7675 2350 3800 
+gambler   988406468  9  7 c   k     f     -         9125  100    0 
+gambler   988406553  9  6 cc  rA    -     -         9025 9025    0 8d 6c
+gambler   988423166 14  8 c   k     kf    -        10000   50    0 
+gambler   988423281 13  6 f   -     -     -         9950    0    0 
+gambler   988423368 12  4 c   b     kf    -         9950  350    0 
+gambler   988423465 12  3 c   kf    -     -         9600   50    0 
+gambler   988423539 10  2 Bk  k     kr    -         9550 3700 4800 
+gambler   988423615 10  1 Bc  kf    -     -        10650  450    0 
+gambler   988423662 10 10 c   c     c     bA       10200 10200    0 4c Ac
+gambler   988430195 18 10 c   f     -     -        10000 2050    0 
+gambler   988430257 18  9 c   c     f     -         7950  325    0 
+gambler   988430401 18  8 r   k     k     kf        7625  225    0 
+gambler   988430530 18  7 c   f     -     -         7400  125    0 
+gambler   988430670 18  6 f   -     -     -         7275    0    0 
+gambler   988430760 18  5 r   k     b     -         7275 2400 5075 Kh Ks
+gambler   988430833 17  4 cc  kf    -     -         9950  550    0 
+gambler   988430902 17  3 f   -     -     -         9400    0    0 
+gambler   988430974 17  2 Bk  kf    -     -         9400  100    0 
+gambler   988431086 17  1 Bf  -     -     -         9300  100    0 
+gambler   988431166 17 17 c   k     f     -         9200  200    0 
+gambler   988431252 17 16 c   c     k     bA        9000 9000 19325 Td Ah
+gambler   988431364 16 14 c   c     f     -        19325 1700    0 
+gambler   988431468 16 13 c   k     f     -        17625  400    0 
+gambler   988431617 16 12 f   -     -     -        17225    0    0 
+gambler   988431677 15 10 cc  kf    -     -        17225 1200    0 
+gambler   988431756 14 10 f   -     -     -        16025    0    0 
+gambler   988431807 14  9 cc  f     -     -        16025 2200    0 
+gambler   988431864 14  8 f   -     -     -        13825    0    0 
+gambler   988431977 14  7 f   -     -     -        13825    0    0 
+gambler   988432042 14  6 c   kc    kc    -        13825 7500    0 Ad 8c
+gambler   988432115 14  5 r   bA    -     -         6325 6325 13850 Kc Qd
+gambler   988432159 14  4 cc  bA    -     -        13850 13850    0 Ts Js
+gambler   988446419  2  1 Bc  k     k     k        50000 1000 2000 3s 5s
+gambler   988446458  2  2 Bk  k     k     k        51000 1000 2000 8d Qd
+gambler   988446491  2  1 Br  k     k     k        52000 3000 6000 3d 3c
+gambler   988446514  2  2 Bk  k     k     b        55000 21000 22000 
+gambler   988446546  2  1 Bc  k     k     kf       56000 2000    0 
+gambler   988446572  2  2 Bk  b     b     bA       54000 54000 100000 9c 4d
+gambler   988447261  4  1 Bf  -     -     -         2000    5    0 
+gambler   988447312  4  4 f   -     -     -         1995    0    0 
+gambler   988447350  4  3 f   -     -     -         1995    0    0 
+gambler   988447380  4  2 Bk  k     k     f         1995   10    0 
+gambler   988447422  4  1 Bf  -     -     -         1985    5    0 
+gambler   988447458  4  4 f   -     -     -         1980    0    0 
+gambler   988447506  4  3 f   -     -     -         1980    0    0 
+gambler   988447537  4  2 Bf  -     -     -         1980   10    0 
+gambler   988447563  4  1 Bf  -     -     -         1970   10    0 
+gambler   988447604  4  4 f   -     -     -         1960    0    0 
+gambler   988447634  4  3 f   -     -     -         1960    0    0 
+gambler   988447652  4  2 Bk  kf    -     -         1960   20    0 
+gambler   988447691  4  1 Bf  -     -     -         1940   10    0 
+gambler   988447754  4  4 f   -     -     -         1930    0    0 
+gambler   988447781  4  3 f   -     -     -         1930    0    0 
+gambler   988447809  4  2 Bk  k     k     k         1930   20   20 Th 7s
+gambler   988447850  4  1 Bf  -     -     -         1930   10    0 
+gambler   988447879  4  4 f   -     -     -         1920    0    0 
+gambler   988447909  4  3 f   -     -     -         1920    0    0 
+gambler   988447942  4  2 Bk  k     k     f         1920   40    0 
+gambler   988447979  4  1 Bf  -     -     -         1880   20    0 
+gambler   988448012  4  4 f   -     -     -         1860    0    0 
+gambler   988448051  4  3 f   -     -     -         1860    0    0 
+gambler   988448089  4  2 Bk  kf    -     -         1860   40    0 
+gambler   988448128  4  1 Bf  -     -     -         1820   20    0 
+gambler   988448150  4  4 f   -     -     -         1800    0    0 
+gambler   988448170  4  3 f   -     -     -         1800    0    0 
+gambler   988448198  4  2 Bk  k     k     k         1800   80    0 5h Ts
+gambler   988448235  4  1 Bf  -     -     -         1720   40    0 
+gambler   988448256  4  4 f   -     -     -         1680    0    0 
+gambler   988448276  3  2 Bk  k     k     k         1680   80    0 6h 7h
+gambler   988448292  3  1 Bf  -     -     -         1600   40    0 
+gambler   988448306  3  3 f   -     -     -         1560    0    0 
+gambler   988448311  3  2 Bk  kf    -     -         1560   80    0 
+gambler   988448330  3  1 Bf  -     -     -         1480   40    0 
+gambler   988448340  3  3 f   -     -     -         1440    0    0 
+gambler   988448356  3  2 Bk  k     k     k         1440   80  160 9c Th
+gambler   988448367  3  1 Bf  -     -     -         1520   40    0 
+gambler   988448383  3  3 f   -     -     -         1480    0    0 
+gambler   988448401  3  2 Bk  kf    -     -         1480   80    0 
+gambler   988448422  3  1 Bf  -     -     -         1400   40    0 
+gambler   988448678  3  3 f   -     -     -         1360    0    0 
+gambler   988448698  3  2 Bk  k     k     k         1360  160  160 3d 8h
+gambler   988448712  3  1 Bf  -     -     -         1360   80    0 
+gambler   988448721  3  3 f   -     -     -         1280    0    0 
+gambler   988448735  3  2 Bk  k     k     k         1280  160  320 7d Ad
+gambler   988448748  3  1 Bf  -     -     -         1440   80    0 
+gambler   988448769  3  3 f   -     -     -         1360    0    0 
+gambler   988448771  3  2 Bk  k     k     k         1360  160    0 7d 2c
+gambler   988448781  3  1 Bf  -     -     -         1200   80    0 
+gambler   988448798  3  3 f   -     -     -         1120    0    0 
+gambler   988448820  3  2 Bk  k     k     k         1120  160  320 8d Js
+gambler   988448833  3  1 Bf  -     -     -         1280   80    0 
+gambler   988448849  3  3 f   -     -     -         1200    0    0 
+gambler   988448852  3  2 Bk  k     k     k         1200  160  320 4d 7c
+gambler   988448861  3  1 Bf  -     -     -         1360   80    0 
+gambler   988448877  3  3 f   -     -     -         1280    0    0 
+gambler   988448896  3  2 Bk  kf    -     -         1280  160    0 
+gambler   988448918  3  1 Bf  -     -     -         1120   80    0 
+gambler   988448934  3  3 f   -     -     -         1040    0    0 
+gambler   988448948  3  2 Bk  k     k     k         1040  160  320 As Ac
+gambler   988448961  3  1 Bf  -     -     -         1200   80    0 
+gambler   988448968  3  3 f   -     -     -         1120    0    0 
+gambler   988448981  3  2 Bk  k     k     k         1120  320  640 Td 4s
+gambler   988448997  3  1 Bf  -     -     -         1440  160    0 
+gambler   988449013  3  3 f   -     -     -         1280    0    0 
+gambler   988449015  3  2 Bk  k     k     k         1280  320    0 9d 5d
+gambler   988449025  3  1 Bf  -     -     -          960  160    0 
+gambler   988449041  3  3 f   -     -     -          800    0    0 
+gambler   988449046  3  2 Bf  -     -     -          800  320    0 
+gambler   988449067  3  1 Bf  -     -     -          480  160    0 
+gambler   988449080  2  2 BA  -     -     -          320  320  640 Kd Qc
+gambler   988449087  2  1 Bf  -     -     -          640  160    0 
+gambler   988449088  2  2 Bf  -     -     -          480  320    0 
+gambler   988449092  2  1 BA  -     -     -          160  160  320 Kd 4d
+gambler   988449093  2  2 BA  -     -     -          320  320    0 7d 3c
+gambler   988472176  6  3 cf  -     -     -        20000  100    0 
+gambler   988472198  6  2 Bk  kc    kc    kf       19900 1500    0 
+gambler   988472239  6  1 Bc  kf    -     -        18400  100    0 
+gambler   988472260  6  6 c   k     k     f        18300  100    0 
+gambler   988472289  6  5 c   k     c     f        18200  775    0 
+gambler   988472321  6  4 c   f     -     -        17425  100    0 
+gambler   988472344  6  3 c   kc    k     b        17325 2100 2250 Kd Ah
+gambler   988472377  6  2 Bk  k     k     k        17475  100  250 Th 5c
+gambler   988472410  6  1 Bc  kf    -     -        17625  100    0 
+gambler   988472439  6  6 c   k     k     k        17525  450    0 5h Qh
+gambler   988472467  6  5 c   k     k     f        17075  100    0 
+gambler   988472500  6  4 c   k     k     b        16975  500  800 
+gambler   988472533  6  3 c   f     -     -        17275  100    0 
+gambler   988472550  6  2 Bc  k     kc    k        17175 1450    0 Qs 5s
+gambler   988472586  6  1 Br  kf    -     -        15725 1000    0 
+gambler   988472622  6  6 c   k     b     -        14725 1100 1800 
+gambler   988472649  6  5 f   -     -     -        15425    0    0 
+gambler   988472664  6  4 c   k     k     k        15425  200  500 6d Qh
+gambler   988472714  6  3 f   -     -     -        15725    0    0 
+gambler   988472731  6  2 B   -     -     -        15725  200  300 
+gambler   988472739  6  1 Bc  kc    kf    -        15825  600    0 
+gambler   988472771  6  6 c   f     -     -        15225  700    0 
+gambler   988472788  6  5 r   b     -     -        14525 2400 3400 
+gambler   988472804  6  4 rc  kf    -     -        15525 2400    0 
+gambler   988472823  6  3 r   b     b     bA       13125 13125 20425 
+gambler   988472863  6  2 Bk  bf    -     -        20425  700    0 
+gambler   988472882  6  1 Bc  kc    k     k        19725  400  800 Td 4c
+gambler   988472918  6  6 r   k     k     k        20125 1800    0 Jd As
+gambler   988472946  6  5 c   k     k     k        18325  400    0 5d 3s
+gambler   988472978  6  4 f   -     -     -        17925    0    0 
+gambler   988473017  6  3 c   k     k     k        17925  400    0 Jh 4h
+gambler   988473040  6  2 Bk  kc    k     k        17525 1100    0 7c Qc
+gambler   988473082  6  1 Bf  -     -     -        16425  200    0 
+gambler   988473101  6  6 c   f     -     -        16225  400    0 
+gambler   988473123  6  5 r   -     -     -        15825 4800 6800 
+gambler   988473138  6  4 r   k     k     f        17825 1400    0 
+gambler   988473168  6  3 f   -     -     -        16425    0    0 
+gambler   988473191  6  2 Br  -     -     -        16425 1400 2000 
+gambler   988473205  6  1 Br  b     bA    -        17025 17025    0 6c 7h
+gambler   988490411 12  4 r   b     b     bA       10000 10000 14025 
+gambler   988490474 12  3 f   -     -     -        14025    0    0 
+gambler   988490562 12  2 Bc  kf    -     -        14025  250    0 
+gambler   988490646 12  1 Bf  -     -     -        13775   25    0 
+gambler   988490720 12 12 c   c     c     k        13750  575    0 Td Jc
+gambler   988490789 12 11 f   -     -     -        13175    0    0 
+gambler   988490873 12 10 c   f     -     -        13175  100    0 
+gambler   988490953 12  9 c   c     f     -        13075  550    0 
+gambler   988491037 12  8 cc  c     f     -        12525 2325    0 
+gambler   988491080 12  7 f   -     -     -        10200    0    0 
+gambler   988491151 11  5 cc  kc    k     bA       10200 10200 22800 9s Js
+gambler   988491233 11  4 c   kf    -     -        22800  200    0 
+gambler   988491308 11  3 c   k     kf    -        22600  200    0 
+gambler   988491371 11  2 Bf  -     -     -        22400  200    0 
+gambler   988491418 10  1 Bc  kf    -     -        22200  200    0 
+gambler   988491485  9  9 c   b     b     c        22000 21300    0 Qc Qd
+gambler   988491560  8  8 c   cA    -     -          700  700    0 Jh 8h
+gambler   988496856 16  3 c   kf    -     -        10000   50    0 
+gambler   988496989 16  2 Bc  bc    kcA   -         9950 9950 30525 Qd 8c
+gambler   988497120 15  1 Bcc kc    k     bc       30525 9300    0 8s Qh
+gambler   988497247 14 14 c   c     k     c        21225 2100    0 Jh Qh
+gambler   988497386 14 13 c   c     k     f        19125  900    0 
+gambler   988497474 14 12 c   k     f     -        18225  100    0 
+gambler   988497558 14 11 f   -     -     -        18125    0    0 
+gambler   988497643 14 10 cc  kf    -     -        18125 1100    0 
+gambler   988497715 13  9 r   -     -     -        17025  700 1000 
+gambler   988497744 13  8 r   -     -     -        17325  700 1000 
+gambler   988497769 13  7 r   kc    k     kc       17625 16500    0 8d Ad
+gambler   988497841 13  6 f   -     -     -         1125    0    0 
+gambler   988497900 13  5 r   -     -     -         1125  700 1000 
+gambler   988497938 13  4 rcA -     -     -         1425 1425    0 5d 5s
+gambler   988511246 21 13 f   -     -     -        10000    0    0 
+gambler   988511351 19 11 c   f     -     -        10000  225    0 
+gambler   988511432 18  9 c   c     c     b         9775 2300 4800 8c Qs
+gambler   988511532 18  8 c   c     f     -        12275  500    0 
+gambler   988511648 18  7 r   kf    -     -        11775  600    0 
+gambler   988511716 18  6 f   -     -     -        11175    0    0 
+gambler   988511793 18  5 f   -     -     -        11175    0    0 
+gambler   988511883 18  4 c   kf    -     -        11175  100    0 
+gambler   988512072 17  3 c   kf    -     -        11075  200    0 
+gambler   988512225 17  2 Bk  kf    -     -        10875  200    0 
+gambler   988512382 16  1 Bc  b     kc    kc       10675 3600    0 Qc 4s
+gambler   988512465 16 16 f   -     -     -         7075    0    0 
+gambler   988512545 16 15 c   k     f     -         7075  400    0 
+gambler   988512660 16 14 c   c     k     k         6675  800    0 4d Kd
+gambler   988512761 16 13 c   k     k     f         5875  400    0 
+gambler   988512873 16 12 f   -     -     -         5475    0    0 
+gambler   988512996 16 11 f   -     -     -         5475    0    0 
+gambler   988513081 15  9 c   kf    -     -         5475  800    0 
+gambler   988513162 15  9 ccA -     -     -         4675 4675    0 5d 5h
+gambler   988518965 17 17 c   k     k     k        10000   50  225 Td 9h
+gambler   988519098 17 16 f   -     -     -        10175    0    0 
+gambler   988519168 15 14 f   -     -     -        10175    0    0 
+gambler   988519236 15 13 rc  bA    -     -        10175 10175    0 Qs Qd
+gambler   988521856 12  8 c   f     -     -        10000  175    0 
+gambler   988521905 12  7 cc  c     c     k         9825 3300 10000 As 4h
+gambler   988521979 12  6 cc  k     c     f        16525 1250    0 
+gambler   988522086 11  4 c   k     k     kf       15275   50    0 
+gambler   988522197 11  3 c   kc    kr    b        15225 12850 1900 6c 5h
+gambler   988522341 11  2 Br  bA    -     -         4275 4275    0 3d 3h
+gambler   988595812 21 21 f   -     -     -        10000    0    0 
+gambler   988595942 21 20 f   -     -     -        10000    0    0 
+gambler   988596054 20 18 f   -     -     -        10000    0    0 
+gambler   988596125 19 16 f   -     -     -        10000    0    0 
+gambler   988596218 19 15 f   -     -     -        10000    0    0 
+gambler   988596290 19 14 c   cf    -     -        10000  350    0 
+gambler   988596418 19 13 r   b     -     -         9650 2675 6075 
+gambler   988596497 19 12 f   -     -     -        13050    0    0 
+gambler   988596584 18 11 c   kc    kc    b        13050 6600 9000 
+gambler   988596700 18 10 f   -     -     -        15450    0    0 
+gambler   988596748 18  9 c   c     k     k        15450 1800 4400 7d 5d
+gambler   988596834 18  8 f   -     -     -        18050    0    0 
+gambler   988596929 16  6 f   -     -     -        18050    0    0 
+gambler   988597022 16  5 cf  -     -     -        18050  200    0 
+gambler   988597085 15  4 c   bc    kc    -        17850 11550 25500 9c Qs
+gambler   988597188 14  3 f   -     -     -        31800    0    0 
+gambler   988597303 12  2 Bf  -     -     -        31800  400    0 
+gambler   988597360 11  1 Bc  kc    kc    -        31400 23650 50300 Qh As
+gambler   988597424 10 10 f   -     -     -        58050    0    0 
+gambler   988597476 10  9 c   k     f     -        58050  400    0 
+gambler   988597534 10  8 c   f     -     -        57650  400    0 
+gambler   988597560 10  7 c   f     -     -        57250  400    0 
+gambler   988597595 10  6 f   -     -     -        56850    0    0 
+gambler   988597633  9  4 c   f     -     -        56850  400    0 
+gambler   988597670  9  3 c   kf    -     -        56450  400    0 
+gambler   988597708  9  2 Bk  k     k     c        56050  800    0 2h 7s
+gambler   988597743  9  1 Bf  -     -     -        55250  200    0 
+gambler   988597801  9  9 c   c     -     -        55050 1771 4742 Ks 2h
+gambler   988597839  8  7 c   f     -     -        58021  800    0 
+gambler   988597893  8  6 c   k     k     k        57221  800 2000 4h Qs
+gambler   988597916  8  5 f   -     -     -        58421    0    0 
+gambler   988597932  8  4 c   f     -     -        58421  800    0 
+gambler   988598021  8  3 f   -     -     -        57621    0    0 
+gambler   988598044  8  2 B   -     -     -        57621  800 1200 
+gambler   988598070  8  1 Bc  k     k     k        58021  800    0 7s 6d
+gambler   988598101  8  8 c   k     k     k        57221  800 2000 5s Ac
+gambler   988598133  8  7 c   k     k     k        58421  800    0 7c 5c
+gambler   988598215  8  6 c   k     k     k        57621  800 2800 8c Kd
+gambler   988598252  8  5 c   kf    -     -        59621  800    0 
+gambler   988598292  8  4 f   -     -     -        58821    0    0 
+gambler   988598317  8  3 f   -     -     -        58821    0    0 
+gambler   988598348  8  2 Bc  -     -     -        58821 3183    0 7d Ac
+gambler   988598362  8  1 Bf  -     -     -        55638  800    0 
+gambler   988598410  8  8 c   f     -     -        54838 1600    0 
+gambler   988598458  8  7 f   -     -     -        53238    0    0 
+gambler   988598485  8  6 f   -     -     -        53238    0    0 
+gambler   988598506  8  5 f   -     -     -        53238    0    0 
+gambler   988598535  8  4 f   -     -     -        53238    0    0 
+gambler   988598569  8  3 cc  kc    k     kc       53238 15600    0 Js Ah
+gambler   988598615  8  2 Bk  k     kf    -        37638 1600    0 
+gambler   988598675  8  1 Bf  -     -     -        36038  800    0 
+gambler   988598717  7  7 f   -     -     -        35238    0    0 
+gambler   988598770  7  7 c   k     cA    -        35238 35238 37638 Ad 2d
+gambler   988598829  7  6 f   -     -     -        37638    0    0 
+gambler   988598855  7  5 f   -     -     -        37638    0    0 
+gambler   988598875  7  4 c   k     f     -        37638 3200    0 
+gambler   988598917  7  3 f   -     -     -        34438    0    0 
+gambler   988598968  7  2 Bk  k     k     b        34438 11200 16000 
+gambler   988599002  7  1 Bf  -     -     -        39238 1600    0 
+gambler   988599025  7  7 f   -     -     -        37638    0    0 
+gambler   988599074  7  6 f   -     -     -        37638    0    0 
+gambler   988599092  7  5 f   -     -     -        37638    0    0 
+gambler   988599126  7  4 f   -     -     -        37638    0    0 
+gambler   988599149  7  3 c   k     c     b        37638 12200 13000 Kc Jh
+gambler   988599193  7  2 Bk  k     k     k        38438 3200    0 Qc Js
+gambler   988599249  7  1 Bf  -     -     -        35238 3200    0 
+gambler   988599286  7  7 c   k     f     -        32038 6400    0 
+gambler   988599313  7  6 f   -     -     -        25638    0    0 
+gambler   988599332  7  5 f   -     -     -        25638    0    0 
+gambler   988599374  7  4 f   -     -     -        25638    0    0 
+gambler   988599403  6  2 rA  -     -     -        25638 25638 15538 Qh Jh
+gambler   988599425  6  2 BrA -     -     -        15538 15538    0 7s 5c

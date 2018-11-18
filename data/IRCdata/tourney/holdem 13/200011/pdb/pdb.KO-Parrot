@@ -1,0 +1,615 @@
+KO-Parrot 973188750  7  7 c   r     -     -         3000  170  280 
+KO-Parrot 973188800  7  6 c   f     -     -         3110  100    0 
+KO-Parrot 973188859  7  5 cf  -     -     -         3010   10    0 
+KO-Parrot 973188895  7  4 c   kf    -     -         3000   10    0 
+KO-Parrot 973188963  7  3 c   kf    -     -         2990   10    0 
+KO-Parrot 973189039  7  2 Bk  kf    -     -         2980   20    0 
+KO-Parrot 973189089  7  1 Bc  kf    -     -         2960   20    0 
+KO-Parrot 973189181  7  7 f   -     -     -         2940    0    0 
+KO-Parrot 973189239  7  6 f   -     -     -         2940    0    0 
+KO-Parrot 973189286  7  5 cc  f     -     -         2940  100    0 
+KO-Parrot 973189332  6  3 c   b     -     -         2840  160  240 
+KO-Parrot 973189364  6  3 c   f     -     -         2920   40    0 
+KO-Parrot 973189400  6  2 Bc  b     bcA   -         2880 2880 2910 Qs Kc
+KO-Parrot 973189439  6  1 Bc  b     bcA   -         2910 2910 2943 Qh Tc
+KO-Parrot 973189498  5  5 f   -     -     -         2943    0    0 
+KO-Parrot 973189517  5  5 c   k     b     -         2943 2540 2600 
+KO-Parrot 973189565  5  4 c   k     c     k         3003  180    0 5h 7s
+KO-Parrot 973189657  5  3 c   b     -     -         2823  580  780 
+KO-Parrot 973189692  5  2 Bf  -     -     -         3023   80    0 
+KO-Parrot 973189706  5  1 Br  b     -     -         2943 1120 1680 
+KO-Parrot 973189748  5  5 c   k     k     b         3503  580  740 
+KO-Parrot 973189794  5  4 c   k     k     k         3663   80  320 7h Ks
+KO-Parrot 973189893  5  3 c   c     f     -         3903  240    0 
+KO-Parrot 973189932  5  2 Bf  -     -     -         3663   80    0 
+KO-Parrot 973189955  5  1 Bf  -     -     -         3583   80    0 
+KO-Parrot 973189986  5  5 f   -     -     -         3503    0    0 
+KO-Parrot 973190016  5  4 f   -     -     -         3503    0    0 
+KO-Parrot 973190054  5  3 c   k     k     b         3503 1160 1640 
+KO-Parrot 973190107  5  2 Bk  k     k     b         3983  480  720 
+KO-Parrot 973190156  5  1 Bc  k     k     b         4223  480  640 
+KO-Parrot 973190193  5  5 f   -     -     -         4383    0    0 
+KO-Parrot 973190267  5  4 f   -     -     -         4383    0    0 
+KO-Parrot 973190307  5  3 f   -     -     -         4383    0    0 
+KO-Parrot 973190319  5  2 B   -     -     -         4383  320  480 
+KO-Parrot 973190329  5  1 Bf  -     -     -         4543  160    0 
+KO-Parrot 973190354  5  5 f   -     -     -         4383    0    0 
+KO-Parrot 973190383  5  4 cc  b     -     -         4383 1305 2610 Kh Kd
+KO-Parrot 973190417  4  3 c   f     -     -         5688  320    0 
+KO-Parrot 973190445  4  2 B   -     -     -         5368  320  480 
+KO-Parrot 973190452  4  1 Bc  kf    -     -         5528  320    0 
+KO-Parrot 973190473  4  4 f   -     -     -         5208    0    0 
+KO-Parrot 973190493  4  3 f   -     -     -         5208    0    0 
+KO-Parrot 973190512  4  2 Bk  k     kf    -         5208  320    0 
+KO-Parrot 973190547  4  1 Bc  -     -     -         4888  930    0 Jd Qc
+KO-Parrot 973190556  4  4 f   -     -     -         3958    0    0 
+KO-Parrot 973190580  4  3 f   -     -     -         3958    0    0 
+KO-Parrot 973190590  3  1 B   -     -     -         3958  640  640 
+KO-Parrot 973190599  3  1 Bc  k     k     k         3958  640    0 Qs Th
+KO-Parrot 973190632  3  3 f   -     -     -         3318    0    0 
+KO-Parrot 973190657  3  2 Bf  -     -     -         3318  640    0 
+KO-Parrot 973190665  3  1 Bc  k     b     k         2678 1920    0 9d 2d
+KO-Parrot 973190696  3  3 f   -     -     -          758    0    0 
+KO-Parrot 973190719  3  2 BcA -     -     -          758  758 1516 2s 7s
+KO-Parrot 973190727  3  1 BcA -     -     -         1516 1516    0 2s 9d
+KO-Parrot 973191207 12  5 cf  -     -     -        10000   50    0 
+KO-Parrot 973191272 12  4 cc  kf    -     -         9950  110    0 
+KO-Parrot 973191348 12  3 cf  -     -     -         9840   50    0 
+KO-Parrot 973191433 12  2 Bf  -     -     -         9790   50    0 
+KO-Parrot 973191499 12  1 Bf  -     -     -         9740   25    0 
+KO-Parrot 973191553 12 12 c   cf    -     -         9715  200    0 
+KO-Parrot 973191619 12 11 f   -     -     -         9515    0    0 
+KO-Parrot 973191685 12 10 c   rcA   -     -         9515 9515    0 Js Jh
+KO-Parrot 973334029  9  8 ccA -     -     -        10000 10000 20125 9s 9d
+KO-Parrot 973334126  8  7 c   k     k     f        20125   50    0 
+KO-Parrot 973334189  8  6 c   c     k     b        20075 1100    0 Jd Ac
+KO-Parrot 973334229  8  5 cc  kc    kf    -        18975 1175    0 
+KO-Parrot 973334277  8  4 c   kf    -     -        17800   50    0 
+KO-Parrot 973334324  8  3 f   -     -     -        17750    0    0 
+KO-Parrot 973334364  8  2 Bk  kf    -     -        17750  100    0 
+KO-Parrot 973334378  8  1 Bc  k     k     k        17650  100    0 Tc 2h
+KO-Parrot 973334405  8  8 c   f     -     -        17550  100    0 
+KO-Parrot 973334486  8  7 c   b     k     b        17450  550    0 7s Ac
+KO-Parrot 973334523  8  6 c   r     b     -        16900 4100 5600 
+KO-Parrot 973334562  8  5 c   k     k     b        18400  300    0 Kc Jc
+KO-Parrot 973334595  8  4 c   b     -     -        18100  450  700 
+KO-Parrot 973334609  8  3 c   kc    kc    k        18350 1900    0 Qd Jh
+KO-Parrot 973334658  8  2 Bc  kf    -     -        16450  350    0 
+KO-Parrot 973334683  8  1 Br  k     k     b        16100  875    0 Qh Ad
+KO-Parrot 973334712  8  8 c   k     k     f        15225  200    0 
+KO-Parrot 973334778  8  7 f   -     -     -        15025    0    0 
+KO-Parrot 973334807  8  6 c   f     -     -        15025  200    0 
+KO-Parrot 973334872  8  5 c   kf    -     -        14825  200    0 
+KO-Parrot 973334898  8  4 f   -     -     -        14625    0    0 
+KO-Parrot 973334918  8  3 f   -     -     -        14625    0    0 
+KO-Parrot 973334956  8  2 Bk  k     k     kf       14625  200    0 
+KO-Parrot 973334998  8  1 Bc  k     k     kf       14425  200    0 
+KO-Parrot 973335032  8  8 c   k     k     f        14225  200    0 
+KO-Parrot 973335074  8  7 f   -     -     -        14025    0    0 
+KO-Parrot 973335101  8  6 c   f     -     -        14025  400    0 
+KO-Parrot 973335144  8  5 cf  -     -     -        13625  400    0 
+KO-Parrot 973335175  8  4 c   f     -     -        13225  400    0 
+KO-Parrot 973335205  8  3 f   -     -     -        12825    0    0 
+KO-Parrot 973335242  8  2 Bk  kf    -     -        12825  400    0 
+KO-Parrot 973335307  8  1 Bc  bc    k     k        12425 7275    0 Ts Kc
+KO-Parrot 973335363  8  8 c   k     k     f         5150  400    0 
+KO-Parrot 973335425  8  7 c   k     k     k         4750  800    0 4s Ac
+KO-Parrot 973335480  8  6 c   cA    -     -         3950 3950    0 Jh Kh
+KO-Parrot 973537473 11  2 Bf  -     -     -        10000  100    0 
+KO-Parrot 973537517 10  1 Bf  -     -     -         9900   50    0 
+KO-Parrot 973537580 10 10 c   c     k     b         9850 3750 5100 
+KO-Parrot 973537649 10  9 c   c     f     -        11200 1200    0 
+KO-Parrot 973537696 10  8 cc  bc    cA    -        10000 10000    0 5d Ah
+KO-Parrot 973941269  7  5 c   f     -     -        10000   50    0 
+KO-Parrot 973941297  7  4 c   f     -     -         9950   50    0 
+KO-Parrot 973941351  7  3 cr  k     b     -         9900 2550 3900 
+KO-Parrot 973941397  7  2 Bk  k     r     rc       11250 8900 18000 Th 7h
+KO-Parrot 973941461  6  1 Bc  k     k     b        20350  250    0 6c Jh
+KO-Parrot 973941528  6  6 cc  c     rc    -        20100 9900    0 Js Ac
+KO-Parrot 973941567  6  5 c   k     k     b        10200  225  350 
+KO-Parrot 973941630  6  4 c   k     kf    -        10325  100    0 
+KO-Parrot 973941693  6  3 c   r     k     b        10225 4100 5500 
+KO-Parrot 973941740  6  2 Bk  b     b     b        11625 3350 4500 
+KO-Parrot 973941919  6  1 Bc  b     -     -        12775  400  600 
+KO-Parrot 973941950  6  6 cc  c     rcA   -        12975 12975 26150 Js Qh
+KO-Parrot 973941991  6  5 f   -     -     -        26150    0    0 
+KO-Parrot 973942025  6  4 cc  bc    -     -        26150 8125 16550 Ac Kd
+KO-Parrot 973942047  5  3 c   f     -     -        34575  200    0 
+KO-Parrot 973942071  5  2 Bk  c     f     -        34375  800    0 
+KO-Parrot 973942114  5  1 Bc  k     k     k        33575  200  600 8h 9c
+KO-Parrot 973942154  5  5 c   k     k     k        33975  200    0 Jh 3s
+KO-Parrot 973942186  5  4 c   k     k     b        33775  400  900 
+KO-Parrot 973942221  5  3 c   k     k     k        34275  200    0 9s 7c
+KO-Parrot 973942252  5  2 Bk  c     r     -        34075 11800 3000 7s 2d
+KO-Parrot 973942307  5  1 Bc  br    kc    -        25275 8800 18000 Ac 3c
+KO-Parrot 973942347  4  4 c   k     b     -        34475 1800 2800 
+KO-Parrot 973942402  4  3 c   k     k     b        35475  800 1400 
+KO-Parrot 973942440  4  2 Bk  k     k     f        36075  400    0 
+KO-Parrot 973942477  4  1 Bc  k     k     b        35675  800 1200 
+KO-Parrot 973942502  4  4 c   f     -     -        36075  400    0 
+KO-Parrot 973942519  4  3 c   k     b     -        35675 1400 2000 
+KO-Parrot 973942548  4  2 Bk  b     -     -        36275 1200 1600 
+KO-Parrot 973942568  4  1 Br  -     -     -        36675 1400 2200 
+KO-Parrot 973942592  4  4 c   b     -     -        37475 1600 2400 
+KO-Parrot 973942618  4  3 c   c     k     b        38275 4400 6000 
+KO-Parrot 973942652  4  2 Bk  f     -     -        39875  400    0 
+KO-Parrot 973942682  4  1 Bc  k     b     b        39475 15200 19200 
+KO-Parrot 973942733  4  4 c   k     k     b        43475 3200 4800 
+KO-Parrot 973942759  4  3 cc  k     kc    -        45075 7175    0 3c As
+KO-Parrot 973942783  4  2 Bk  k     k     f        37900  800    0 
+KO-Parrot 973942819  4  1 Bc  kc    b     -        37100 13200 1600 8s Kd
+KO-Parrot 973942864  4  4 f   -     -     -        25500    0    0 
+KO-Parrot 973942899  4  3 f   -     -     -        25500    0    0 
+KO-Parrot 973942926  4  2 Br  b     -     -        25500 7200 9600 
+KO-Parrot 973942949  4  1 Bc  k     k     b        27900 10800 11600 
+KO-Parrot 973942978  4  4 c   b     -     -        28700 2800 4000 
+KO-Parrot 973942993  4  3 c   k     f     -        29900  800    0 
+KO-Parrot 973943032  4  2 Bk  f     -     -        29100 1600    0 
+KO-Parrot 973943053  4  1 Bf  -     -     -        27500  800    0 
+KO-Parrot 973943074  4  4 c   b     -     -        26700 5600 8000 
+KO-Parrot 973943087  4  3 r   k     k     b        29100 5600    0 Ks As
+KO-Parrot 973943135  4  2 Bf  -     -     -        23500 1600    0 
+KO-Parrot 973943148  4  1 Bc  k     k     b        21900 6400 9600 
+KO-Parrot 973943188  4  4 c   -     -     -        25100 1600 3350 9c Ac
+KO-Parrot 973943197  3  2 f   -     -     -        26850    0    0 
+KO-Parrot 973943211  3  2 Bk  k     k     b        26850 4800    0 4h Qd
+KO-Parrot 973943244  3  1 Bc  k     k     b        22050 4800 6400 
+KO-Parrot 973943271  3  3 f   -     -     -        23650    0    0 
+KO-Parrot 973943281  3  2 Bk  k     k     k        23650 1600 3200 Js 4c
+KO-Parrot 973943305  3  1 Bc  k     b     -        25250 4800 6400 
+KO-Parrot 973943329  3  3 f   -     -     -        26850    0    0 
+KO-Parrot 973943333  3  2 Bk  k     k     k        26850 1600    0 5c Js
+KO-Parrot 973943359  3  1 Bf  -     -     -        25250 1600    0 
+KO-Parrot 973943383  3  3 f   -     -     -        23650    0    0 
+KO-Parrot 973943388  3  2 Bk  k     b     -        23650 9600 12800 
+KO-Parrot 973943421  3  1 Bcc kc    -     -        26850 16700 33400 9d Qd
+KO-Parrot 973943443  2  2 f   -     -     -        43550    0    0 
+KO-Parrot 973943451  2  2 Bf  -     -     -        43550 3200    0 
+KO-Parrot 973943462  2  1 Bf  -     -     -        40350 1600    0 
+KO-Parrot 973943465  2  2 Bf  -     -     -        38750 3200    0 
+KO-Parrot 973943472  2  1 Bf  -     -     -        35550 1600    0 
+KO-Parrot 973943476  2  2 Bk  k     k     bA       33950 33950 37150 
+KO-Parrot 973943516  2  1 Bcc kf    -     -        37150 9600    0 
+KO-Parrot 973943534  2  2 Bk  k     k     f        27550 3200    0 
+KO-Parrot 973943564  2  1 Bc  k     kf    -        24350 3200    0 
+KO-Parrot 973943592  2  2 Bk  k     k     f        21150 3200    0 
+KO-Parrot 973943620  2  1 BccA -     -     -        17950 17950    0 Ah 4h
+KO-Parrot 973944083  7  5 c   k     k     k        10000   50  150 Kc 3s
+KO-Parrot 973944139  7  4 c   k     kc    b        10100 1175    0 Jd Td
+KO-Parrot 973944206  7  3 c   b     -     -         8925  250  400 
+KO-Parrot 973944247  7  2 Bf  -     -     -         9075   50    0 
+KO-Parrot 973944280  7  1 Bc  kc    kc    kf        9025 1665    0 
+KO-Parrot 973944338  7  7 c   f     -     -         7360   50    0 
+KO-Parrot 973944371  7  6 c   f     -     -         7310  255    0 
+KO-Parrot 973944394  7  5 cc  f     -     -         7055  845    0 
+KO-Parrot 973944444  7  4 c   k     k     k         6210  100  350 3h 7h
+KO-Parrot 973944475  7  3 cc  kf    -     -         6460  450    0 
+KO-Parrot 973944511  7  2 Bc  kc    krA   -         6010 6010    0 Ac 8s
+KO-Parrot 974315246 14  6 c   k     f     -        10000   50    0 
+KO-Parrot 974315413 14  5 c   k     kf    -         9950   50    0 
+KO-Parrot 974315617 14  4 c   kf    -     -         9900  100    0 
+KO-Parrot 974315713 14  3 ccc kf    -     -         9800 4350    0 
+KO-Parrot 974315825 14  2 Bk  kcA   -     -         5450 5450    0 Qh Ks
+KO-Parrot 974542049  8  4 f   -     -     -        10000    0    0 
+KO-Parrot 974542107  8  3 f   -     -     -        10000    0    0 
+KO-Parrot 974542134  8  2 Bc  kf    -     -        10000  900    0 
+KO-Parrot 974542162  8  1 Bc  k     kf    -         9100  200    0 
+KO-Parrot 974542193  8  8 f   -     -     -         8900    0    0 
+KO-Parrot 974542247  8  7 c   f     -     -         8900  200    0 
+KO-Parrot 974542313  8  6 f   -     -     -         8700    0    0 
+KO-Parrot 974542347  8  5 f   -     -     -         8700    0    0 
+KO-Parrot 974542428  8  4 f   -     -     -         8700    0    0 
+KO-Parrot 974542473  8  3 f   -     -     -         8700    0    0 
+KO-Parrot 974542530  8  2 Bc  b     -     -         8700 4400 6000 
+KO-Parrot 974542578  8  1 Bc  k     kf    -        10300  400    0 
+KO-Parrot 974542614  8  8 f   -     -     -         9900    0    0 
+KO-Parrot 974542676  7  6 c   k     f     -         9900  400    0 
+KO-Parrot 974542739  7  5 c   k     b     -         9500 2200 4200 
+KO-Parrot 974542790  7  4 f   -     -     -        11500    0    0 
+KO-Parrot 974542853  7  3 c   k     b     bc       11500 6100    0 Kc 4h
+KO-Parrot 974542888  7  2 Bk  krA   -     -         5400 5400    0 7h 8s
+KO-Parrot 974558200  6  2 B   -     -     -         5000  100  150 
+KO-Parrot 974558207  6  1 Bc  kf    -     -         5050  100    0 
+KO-Parrot 974558252  6  6 c   r     b     cA        4950 4950 14900 Ks Qh
+KO-Parrot 974558309  6  5 c   k     k     b        14900  200  100 6h Qs
+KO-Parrot 974558366  6  4 cc  k     k     k        14800 1650    0 9c Ac
+KO-Parrot 974558405  6  3 c   k     b     -        13150 1100 1250 
+KO-Parrot 974558435  6  2 Bk  k     k     k        13300  100  350 5d 7c
+KO-Parrot 974558470  6  1 Bc  kc    kcf   -        13550 1300    0 
+KO-Parrot 974558524  4  4 c   f     -     -        12250  200    0 
+KO-Parrot 974558550  4  3 c   k     kc    b        12050  700    0 Tc Ks
+KO-Parrot 974558587  4  2 B   -     -     -        11350  200  300 
+KO-Parrot 974558595  4  1 Bc  k     k     kf       11450  200    0 
+KO-Parrot 974558620  4  4 cc  k     b     f        11250 1700    0 
+KO-Parrot 974558666  4  3 f   -     -     -         9550    0    0 
+KO-Parrot 974558680  4  2 Bc  k     b     -         9550 2200 3000 
+KO-Parrot 974558705  4  1 Bc  k     k     k        10350  200  800 5h 2d
+KO-Parrot 974558732  4  4 f   -     -     -        10950    0    0 
+KO-Parrot 974558761  4  3 c   k     k     kf       10950  200    0 
+KO-Parrot 974558793  4  2 Bk  kc    bc    -        10750 7750    0 6c Ad
+KO-Parrot 974558834  4  1 Bc  k     bA    -         3000 3000 3800 
+KO-Parrot 974558876  4  4 f   -     -     -         3800    0    0 
+KO-Parrot 974558899  4  3 f   -     -     -         3800    0    0 
+KO-Parrot 974558922  3  2 Bk  b     -     -         3800 1900 2300 
+KO-Parrot 974558943  3  1 Bc  k     bA    -         4200 4200 8400 As 2h
+KO-Parrot 974558966  3  3 c   rcA   -     -         8400 8400    0 Ah 8s
+KO-Parrot 974560148  6  6 cc  c     rcA   -        10000 10000 20050 8c 8h
+KO-Parrot 974560192  5  5 c   bc    f     -        20050 1175    0 
+KO-Parrot 974560250  5  4 c   k     k     k        18875   50  150 7s 4d
+KO-Parrot 974560300  5  3 c   kf    -     -        18975   50    0 
+KO-Parrot 974560331  5  2 Bk  kc    k     b        18925 1050    0 9d 6s
+KO-Parrot 974560388  5  1 Bc  k     b     b        17875 4750 4800 5c Ah
+KO-Parrot 974560448  5  5 c   f     -     -        17925   50    0 
+KO-Parrot 974560480  5  4 c   b     -     -        17875  550  650 
+KO-Parrot 974560500  5  3 c   kc    k     k        17975  550 1725 Tc 5d
+KO-Parrot 974560539  5  2 Bk  k     k     k        19150  100  200 2d 4s
+KO-Parrot 974560574  5  1 Bc  kc    kf    -        19250  300    0 
+KO-Parrot 974560609  5  5 c   f     -     -        18950  100    0 
+KO-Parrot 974560634  5  4 cc  k     f     -        18850  300    0 
+KO-Parrot 974560701  5  3 f   -     -     -        18550    0    0 
+KO-Parrot 974560741  5  2 Bk  k     b     b        18550 12100 14400 
+KO-Parrot 974560816  5  1 Bc  kf    -     -        20850  100    0 
+KO-Parrot 974560842  5  5 c   k     b     -        20750  500  800 
+KO-Parrot 974560873  5  4 cf  -     -     -        21050  100    0 
+KO-Parrot 974560917  5  3 cc  k     b     k        20950 3700 4825 Kd 2d
+KO-Parrot 974560968  4  2 Bk  b     -     -        22075 10200 10600 
+KO-Parrot 974561000  4  1 Bc  k     b     k        22475  800 1800 8c Jc
+KO-Parrot 974561043  4  4 c   k     k     f        23475  200    0 
+KO-Parrot 974561137  4  3 f   -     -     -        23275    0    0 
+KO-Parrot 974561164  4  2 Bk  k     k     b        23275  400  500 6h 4s
+KO-Parrot 974561196  4  1 Bc  k     kf    -        23375  200    0 
+KO-Parrot 974561236  4  4 c   r     k     b        23175 2800 5000 
+KO-Parrot 974561284  4  3 f   -     -     -        25375    0    0 
+KO-Parrot 974561320  4  2 Bk  k     k     k        25375  400  800 8c Td
+KO-Parrot 974561335  4  1 Bf  -     -     -        25775  200    0 
+KO-Parrot 974561364  4  4 f   -     -     -        25575    0    0 
+KO-Parrot 974561388  4  3 f   -     -     -        25575    0    0 
+KO-Parrot 974561414  4  2 Bk  k     k     k        25575  400    0 6d Jd
+KO-Parrot 974561433  4  1 Bf  -     -     -        25175  200    0 
+KO-Parrot 974561448  4  4 c   k     k     f        24975  400    0 
+KO-Parrot 974561483  4  3 f   -     -     -        24575    0    0 
+KO-Parrot 974561525  4  2 Bk  r     rA    -        24575 24575    0 Qh 9c
+KO-Parrot 975088564  9  9 c   bA    -     -        10000 10000 10200 
+KO-Parrot 975088641  9  8 f   -     -     -        10200    0    0 
+KO-Parrot 975088676  9  7 c   f     -     -        10200   50    0 
+KO-Parrot 975088715  9  6 cf  -     -     -        10150   50    0 
+KO-Parrot 975088741  8  5 c   k     k     k        10100   50    0 Ks 2s
+KO-Parrot 975088799  8  4 c   k     k     rrA      10050 10050 20075 7c Jh
+KO-Parrot 975088887  7  2 c   k     k     k        20075  100  300 4c Jd
+KO-Parrot 975088951  7  2 Bk  kf    -     -        20275  100    0 
+KO-Parrot 975088983  7  1 Bc  k     k     kf       20175  100    0 
+KO-Parrot 975089039  7  7 c   k     k     k        20075  100    0 2h Ts
+KO-Parrot 975089074  7  6 c   f     -     -        19975  300    0 
+KO-Parrot 975089136  7  5 cf  -     -     -        19675  100    0 
+KO-Parrot 975089199  7  4 cc  k     f     -        19575  550    0 
+KO-Parrot 975089253  7  3 c   k     b     -        19025 2200 2700 
+KO-Parrot 975089295  7  2 Bk  k     k     k        19525  200  500 Js 8d
+KO-Parrot 975089330  7  1 Bc  k     b     b        19825 3200 7200 Ah Qd
+KO-Parrot 975089388  7  7 c   f     -     -        23825  200    0 
+KO-Parrot 975089429  7  6 c   k     f     -        23625  200    0 
+KO-Parrot 975089496  7  5 c   k     k     k        23425  200    0 2s Jh
+KO-Parrot 975089556  7  4 cf  -     -     -        23225  200    0 
+KO-Parrot 975089633  7  3 f   -     -     -        23025    0    0 
+KO-Parrot 975089713  6  1 Bc  kf    -     -        23025 1200    0 
+KO-Parrot 975089781  5  1 Bc  k     k     k        21825  400    0 4c Th
+KO-Parrot 975089823  5  5 c   k     f     -        21425  400    0 
+KO-Parrot 975089861  5  4 f   -     -     -        21025    0    0 
+KO-Parrot 975089874  5  3 f   -     -     -        21025    0    0 
+KO-Parrot 975089889  5  2 B   -     -     -        21025  400  600 
+KO-Parrot 975089896  5  1 Bc  k     b     b        21225 1600    0 8s Jh
+KO-Parrot 975089930  5  5 f   -     -     -        19625    0    0 
+KO-Parrot 975089959  5  4 c   k     k     k        19625  800 2400 5s Ad
+KO-Parrot 975089997  5  3 f   -     -     -        21225    0    0 
+KO-Parrot 975090034  5  2 Bk  k     kf    -        21225  800    0 
+KO-Parrot 975090061  5  1 Bc  k     b     -        20425 2400 3200 
+KO-Parrot 975090086  5  5 f   -     -     -        21225    0    0 
+KO-Parrot 975090106  5  4 c   k     k     k        21225  800    0 4c 7c
+KO-Parrot 975090149  5  3 f   -     -     -        20425    0    0 
+KO-Parrot 975090158  5  2 B   -     -     -        20425  800 1200 
+KO-Parrot 975090168  5  1 Brc -     -     -        20825 20600 42000 Qs Qh
+KO-Parrot 975090210  4  4 c   k     k     k        42225  800 2000 9s Ks
+KO-Parrot 975090252  4  3 f   -     -     -        43425    0    0 
+KO-Parrot 975090258  4  2 B   -     -     -        43425  800 1200 
+KO-Parrot 975090262  4  1 Bc  b     -     -        43825 3200 4800 
+KO-Parrot 975090279  4  4 f   -     -     -        45425    0    0 
+KO-Parrot 975090286  4  3 f   -     -     -        45425    0    0 
+KO-Parrot 975090300  4  2 Bf  -     -     -        45425 1600    0 
+KO-Parrot 975090308  3  1 Bf  -     -     -        43825  800    0 
+KO-Parrot 975090321  3  3 f   -     -     -        43025    0    0 
+KO-Parrot 975090353  3  2 B   -     -     -        43025 1600 2400 
+KO-Parrot 975090361  3  1 Bc  k     kf    -        43825 1600    0 
+KO-Parrot 975090397  3  3 f   -     -     -        42225    0    0 
+KO-Parrot 975090403  3  2 Bk  b     -     -        42225 4800 6400 
+KO-Parrot 975090436  3  1 Bc  k     k     b        43825 21600 23200 
+KO-Parrot 975090468  3  3 f   -     -     -        45425    0    0 
+KO-Parrot 975090485  3  2 Bk  k     b     -        45425 3200 4800 
+KO-Parrot 975090516  3  1 Bf  -     -     -        47025  800    0 
+KO-Parrot 975090522  3  3 c   r     -     -        46225 13600 20000 
+KO-Parrot 975090536  3  2 Bk  f     -     -        52625 1600    0 
+KO-Parrot 975090568  3  1 Bf  -     -     -        51025  800    0 
+KO-Parrot 975090576  3  3 f   -     -     -        50225    0    0 
+KO-Parrot 975090592  3  2 B   -     -     -        50225 1600 2400 
+KO-Parrot 975090599  3  1 Bf  -     -     -        51025  800    0 
+KO-Parrot 975090603  3  3 f   -     -     -        50225    0    0 
+KO-Parrot 975090625  3  2 B   -     -     -        50225 3200 4800 
+KO-Parrot 975090630  3  1 Bc  k     b     b        51825 19200 7600 9s Kh
+KO-Parrot 975090677  3  3 f   -     -     -        40225    0    0 
+KO-Parrot 975090705  3  2 Bk  k     k     b        40225 40200 45000 
+KO-Parrot 975090731  3  1 Bc  bA    -     -        45025 45025 48225 
+KO-Parrot 975090754  3  3 f   -     -     -        48225    0    0 
+KO-Parrot 975090759  3  2 Bk  kf    -     -        48225 3200    0 
+KO-Parrot 975090777  3  1 Bf  -     -     -        45025 1600    0 
+KO-Parrot 975090798  2  2 f   -     -     -        43425    0    0 
+KO-Parrot 975090810  2  2 B   -     -     -        43425 3200 4800 
+KO-Parrot 975090813  2  1 Bc  k     k     k        45025 3200    0 7s 9s
+KO-Parrot 975090837  2  2 B   -     -     -        41825 3200 4800 
+KO-Parrot 975090843  2  1 Bc  kf    -     -        43425 3200    0 
+KO-Parrot 975090866  2  2 Br  cA    -     -        40225 40225    0 9c Ks
+KO-Parrot 975091251 13  6 f   -     -     -        10000    0    0 
+KO-Parrot 975091398 13  5 c   f     -     -        10000   50    0 
+KO-Parrot 975091478 13  4 cc  kr    k     b         9950 5475    0 6d 6c
+KO-Parrot 975091557 13  3 cf  -     -     -         4475   50    0 
+KO-Parrot 975091662 13  2 BrA -     -     -         4425 4425 9650 Tc Th
+KO-Parrot 975091748 13  1 Bc  k     bA    -         9650 9650 15700 Qh Js
+KO-Parrot 975091818 12 12 f   -     -     -        15700    0    0 
+KO-Parrot 975091893 12 11 f   -     -     -        15700    0    0 
+KO-Parrot 975091981 12 10 r   bA    -     -        15700 15700 44225 Kc Ac
+KO-Parrot 975092027  8  6 r   k     f     -        44225  700    0 
+KO-Parrot 975092075  8  5 c   f     -     -        43525  200    0 
+KO-Parrot 975092130  7  4 c   kf    -     -        43325  200    0 
+KO-Parrot 975092170  7  3 c   c     k     k        43125 1200    0 6d Ts
+KO-Parrot 975092224  6  2 Bk  k     k     b        41925  600  800 
+KO-Parrot 975092259  6  1 Bc  bc    k     b        42125 8800 11000 
+KO-Parrot 975092375  6  6 c   b     -     -        44325  700 1000 
+KO-Parrot 975092394  6  5 f   -     -     -        44625    0    0 
+KO-Parrot 975092419  5  4 c   k     k     k        44625  400 1200 Kd Qd
+KO-Parrot 975092463  5  3 f   -     -     -        45425    0    0 
+KO-Parrot 975092475  5  2 Bc  kf    -     -        45425 1400    0 
+KO-Parrot 975092494  5  1 Bf  -     -     -        44025  200    0 
+KO-Parrot 975092510  5  5 c   r     b     -        43825 12400 16800 
+KO-Parrot 975092553  5  4 f   -     -     -        48225    0    0 
+KO-Parrot 975092563  5  3 cc  k     f     -        48225 1600    0 
+KO-Parrot 975092597  5  2 Bk  b     -     -        46625 10400 10800 
+KO-Parrot 975092625  5  1 Bc  kf    -     -        47025  400    0 
+KO-Parrot 975092661  5  5 f   -     -     -        46625    0    0 
+KO-Parrot 975092668  5  4 crc -     -     -        46625 8500    0 As Jh
+KO-Parrot 975092688  5  3 c   b     -     -        38125 1400 2000 
+KO-Parrot 975092722  5  2 Bc  f     -     -        38725 1200    0 
+KO-Parrot 975092736  5  1 Brc -     -     -        37525 10525    0 Ac Qs
+KO-Parrot 975092752  5  5 f   -     -     -        27000    0    0 
+KO-Parrot 975092777  5  4 f   -     -     -        27000    0    0 
+KO-Parrot 975092800  5  3 f   -     -     -        27000    0    0 
+KO-Parrot 975092818  5  2 Bf  -     -     -        27000  800    0 
+KO-Parrot 975092828  5  1 Bf  -     -     -        26200  400    0 
+KO-Parrot 975092873  5  5 f   -     -     -        25800    0    0 
+KO-Parrot 975092885  5  4 c   k     f     -        25800  800    0 
+KO-Parrot 975092918  5  3 f   -     -     -        25000    0    0 
+KO-Parrot 975092928  5  2 Bf  -     -     -        25000  800    0 
+KO-Parrot 975092952  5  1 Bf  -     -     -        24200  400    0 
+KO-Parrot 975092986  5  5 f   -     -     -        23800    0    0 
+KO-Parrot 975093006  5  4 f   -     -     -        23800    0    0 
+KO-Parrot 975093021  5  3 f   -     -     -        23800    0    0 
+KO-Parrot 975093038  5  2 Bk  bA    -     -        23800 23800 19600 9h Jd
+KO-Parrot 975093058  5  1 Bf  -     -     -        19600  400    0 
+KO-Parrot 975093079  5  5 f   -     -     -        19200    0    0 
+KO-Parrot 975093092  5  4 f   -     -     -        19200    0    0 
+KO-Parrot 975093128  5  3 c   k     bA    -        19200 19200 28000 5s 5h
+KO-Parrot 975093166  4  1 Bf  -     -     -        28000 1600    0 
+KO-Parrot 975093195  4  1 Bc  kf    -     -        26400 1600    0 
+KO-Parrot 975093227  4  4 f   -     -     -        24800    0    0 
+KO-Parrot 975093240  4  3 cc  kc    -     -        24800 19200 40800 Ah 2h
+KO-Parrot 975093271  3  2 Bk  f     -     -        46400 1600    0 
+KO-Parrot 975093297  3  1 Bf  -     -     -        44800  800    0 
+KO-Parrot 975093308  3  3 f   -     -     -        44000    0    0 
+KO-Parrot 975093327  3  2 B   -     -     -        44000 1600 2400 
+KO-Parrot 975093335  3  1 Bf  -     -     -        44800  800    0 
+KO-Parrot 975093347  3  3 f   -     -     -        44000    0    0 
+KO-Parrot 975093350  3  2 B   -     -     -        44000 1600 2400 
+KO-Parrot 975093354  3  1 Bc  k     k     b        44800 4800 6400 
+KO-Parrot 975093381  3  3 c   k     b     -        46400 3600 6000 
+KO-Parrot 975093406  3  2 Bf  -     -     -        48800 1600    0 
+KO-Parrot 975093417  3  1 Bc  kr    -     -        47200 11200 16000 
+KO-Parrot 975093445  3  3 f   -     -     -        52000    0    0 
+KO-Parrot 975093451  3  2 Bf  -     -     -        52000 1600    0 
+KO-Parrot 975093462  3  1 Bc  k     k     b        50400 4800    0 Ad 4d
+KO-Parrot 975093487  3  3 f   -     -     -        45600    0    0 
+KO-Parrot 975093507  3  2 Bf  -     -     -        45600 1600    0 
+KO-Parrot 975093517  3  1 Bc  b     -     -        44000 4800 6400 
+KO-Parrot 975093533  3  3 f   -     -     -        45600    0    0 
+KO-Parrot 975093538  3  2 Bf  -     -     -        45600 3200    0 
+KO-Parrot 975093550  3  1 Bc  kf    -     -        42400 3200    0 
+KO-Parrot 975093585  3  3 f   -     -     -        39200    0    0 
+KO-Parrot 975093594  3  2 Bc  rA    -     -        39200 39200 4000 9s Qd
+KO-Parrot 975093617  3  1 BcA -     -     -         4000 4000 11200 7d 7h
+KO-Parrot 975093633  3  3 c   bA    -     -        11200 11200 16000 
+KO-Parrot 975093673  3  2 B   -     -     -        16000 3200 4800 
+KO-Parrot 975093681  3  1 BrA -     -     -        17600 17600 20800 
+KO-Parrot 975093701  3  3 c   f     -     -        20800 3200    0 
+KO-Parrot 975093733  3  2 Bk  bA    -     -        17600 17600 22400 
+KO-Parrot 975093770  3  1 Bf  -     -     -        22400 1600    0 
+KO-Parrot 975093782  3  3 r   cA    -     -        20800 20800    0 5h 5c
+KO-Parrot 975158187  6  3 cf  -     -     -        10000   50    0 
+KO-Parrot 975158271  6  2 Bf  -     -     -         9950   50    0 
+KO-Parrot 975158299  6  1 Bf  -     -     -         9900   25    0 
+KO-Parrot 975158315  6  6 c   k     b     -         9875  550  625 
+KO-Parrot 975158340  6  5 cf  -     -     -         9950   50    0 
+KO-Parrot 975158363  6  4 c   f     -     -         9900   50    0 
+KO-Parrot 975158387  6  3 c   k     k     f         9850   50    0 
+KO-Parrot 975158459  6  2 B   -     -     -         9800   50   75 
+KO-Parrot 975158474  6  1 Bc  kf    -     -         9825   50    0 
+KO-Parrot 975158515  6  6 c   k     k     f         9775   50    0 
+KO-Parrot 975158557  6  5 f   -     -     -         9725    0    0 
+KO-Parrot 975158582  6  4 cc  kf    -     -         9725  450    0 
+KO-Parrot 975158619  6  3 c   k     kf    -         9275  100    0 
+KO-Parrot 975158656  6  2 Bk  kc    kr    k         9175 3250 6750 Td Th
+KO-Parrot 975158723  6  1 Bc  kf    -     -        12675  100    0 
+KO-Parrot 975158770  6  6 c   f     -     -        12575  300    0 
+KO-Parrot 975158853  6  5 f   -     -     -        12275    0    0 
+KO-Parrot 975158892  6  4 cf  -     -     -        12275  100    0 
+KO-Parrot 975158927  6  3 cf  -     -     -        12175  200    0 
+KO-Parrot 975158963  6  2 Bc  b     -     -        11975 4896 7394 
+KO-Parrot 975158995  6  1 Bc  kf    -     -        14473  866    0 
+KO-Parrot 975159081  6  6 c   -     -     -        13607 2987    0 6d Kh
+KO-Parrot 975159103  6  5 cf  -     -     -        10620 1000    0 
+KO-Parrot 975159125  5  3 f   -     -     -         9620    0    0 
+KO-Parrot 975159136  5  2 Bc  k     kc    bA        9620 9620 11920 
+KO-Parrot 975159201  5  1 Bc  k     kf    -        11920  200    0 
+KO-Parrot 975159257  5  5 f   -     -     -        11720    0    0 
+KO-Parrot 975159281  5  4 f   -     -     -        11720    0    0 
+KO-Parrot 975159292  5  3 cf  -     -     -        11720  400    0 
+KO-Parrot 975159330  5  2 Bc  k     krA   -        11320 11320    0 5c Ad
+KO-Parrot 975160719 15  2 Bk  k     kf    -        10000   50    0 
+KO-Parrot 975160804 15  1 Bc  k     k     k         9950   50    0 9s 3h
+KO-Parrot 975160929 15 15 f   -     -     -         9900    0    0 
+KO-Parrot 975160980 15 14 c   f     -     -         9900  225    0 
+KO-Parrot 975161045 15 13 f   -     -     -         9675    0    0 
+KO-Parrot 975161081 14 11 f   -     -     -         9675    0    0 
+KO-Parrot 975161166 14 10 f   -     -     -         9675    0    0 
+KO-Parrot 975161241 14  9 cf  -     -     -         9675  100    0 
+KO-Parrot 975161313 14  8 c   k     f     -         9575  100    0 
+KO-Parrot 975161372 14  7 f   -     -     -         9475    0    0 
+KO-Parrot 975161446 13  6 cc  c     -     -         9475 8650 22300 7h Ah
+KO-Parrot 975161514 12  5 cc  kf    -     -        23125  550    0 
+KO-Parrot 975161586 12  4 f   -     -     -        22575    0    0 
+KO-Parrot 975161642 11  3 f   -     -     -        22575    0    0 
+KO-Parrot 975161680 11  2 Bc  k     k     k        22575  700    0 Kc 3h
+KO-Parrot 975161764 11  1 Bc  bc    -     -        21875 5425 11050 6h 6s
+KO-Parrot 975161797 10 10 c   c     f     -        27500  550    0 
+KO-Parrot 975161847 10  9 c   rc    c     -        26950 25400 51800 Ah Ks
+KO-Parrot 975161896  9  7 f   -     -     -        53350    0    0 
+KO-Parrot 975161923  9  6 f   -     -     -        53350    0    0 
+KO-Parrot 975161997  8  4 cc  c     -     -        53350 13050    0 8c As
+KO-Parrot 975162052  7  2 Bk  k     b     bc       40300 27875 56550 5s 7c
+KO-Parrot 975162129  6  1 Bc  kf    -     -        68975  400    0 
+KO-Parrot 975162166  6  6 f   -     -     -        68575    0    0 
+KO-Parrot 975162197  6  5 c   c     -     -        68575 8725    0 Ks Td
+KO-Parrot 975162225  6  4 f   -     -     -        59850    0    0 
+KO-Parrot 975162291  6  3 c   b     -     -        59850 1800 2800 
+KO-Parrot 975162330  6  2 Bk  f     -     -        60850  400    0 
+KO-Parrot 975162363  6  1 Bf  -     -     -        60450  200    0 
+KO-Parrot 975162388  6  6 f   -     -     -        60250    0    0 
+KO-Parrot 975162411  6  5 c   c     -     -        60250 13700    0 Kh Ac
+KO-Parrot 975162439  6  4 f   -     -     -        46550    0    0 
+KO-Parrot 975162463  6  3 cf  -     -     -        46550  800    0 
+KO-Parrot 975162534  6  2 Bk  kf    -     -        45750  800    0 
+KO-Parrot 975162580  6  1 Bf  -     -     -        44950  400    0 
+KO-Parrot 975162599  6  6 c   k     bc    -        44550 7025 14850 Ac 6c
+KO-Parrot 975162631  5  4 f   -     -     -        52375    0    0 
+KO-Parrot 975162662  5  4 cf  -     -     -        52375 2800    0 
+KO-Parrot 975162679  4  2 f   -     -     -        49575    0    0 
+KO-Parrot 975162700  4  2 Bk  kf    -     -        49575  800    0 
+KO-Parrot 975162728  4  1 Bc  kc    kf    -        48775 3200    0 
+KO-Parrot 975162775  4  4 c   k     brc   -        45575 36200    0 As Kc
+KO-Parrot 975162822  4  3 f   -     -     -         9375    0    0 
+KO-Parrot 975162867  4  2 Bk  k     k     bA        9375 9375 10975 
+KO-Parrot 975162901  4  1 Bc  kcA   -     -        10975 10975    0 7c 7d
+KO-Parrot 975432354 12  6 c   k     c     k        10000  250    0 9s 5s
+KO-Parrot 975432463 12  5 c   k     bA    -         9750 9750 9925 
+KO-Parrot 975432525 12  4 c   b     -     -         9925  225  350 
+KO-Parrot 975432628 12  3 cr  k     c     f        10050 2196    0 
+KO-Parrot 975432729 12  2 Bk  f     -     -         7854  100    0 
+KO-Parrot 975432766 12  1 Bc  kr    bcA   -         7754 7754    0 Js Qc
+KO-Parrot 975519173 12  9 f   -     -     -        10000    0    0 
+KO-Parrot 975519406 12  8 c   k     k     k        10000   50    0 6s 6c
+KO-Parrot 975519506 12  7 f   -     -     -         9950    0    0 
+KO-Parrot 975519543 11  6 cc  kf    -     -         9950  550    0 
+KO-Parrot 975519724 11  5 c   b     -     -         9400  600 1000 
+KO-Parrot 975519859 11  4 c   kf    -     -         9800  100    0 
+KO-Parrot 975519998 11  3 c   kf    -     -         9700  200    0 
+KO-Parrot 975520098 11  2 Bf  -     -     -         9500  200    0 
+KO-Parrot 975520177 10  1 Bc  k     b     b         9300 2000 3600 
+KO-Parrot 975520268 10 10 c   f     -     -        10900  300    0 
+KO-Parrot 975520331  9  8 cf  -     -     -        10600  200    0 
+KO-Parrot 975520390  7  6 ccA -     -     -        10400 10400    0 Qc 8c
+KO-Parrot 975521271 12 11 c   k     k     k        10000  100    0 9h 3c
+KO-Parrot 975521375 12 10 f   -     -     -         9900    0    0 
+KO-Parrot 975521444 12  9 f   -     -     -         9900    0    0 
+KO-Parrot 975521500 12  8 c   f     -     -         9900  100    0 
+KO-Parrot 975521599 12  7 c   f     -     -         9800  350    0 
+KO-Parrot 975521681 12  6 c   b     -     -         9450 1000 1600 
+KO-Parrot 975521739 12  5 c   kc    b     -        10050 6525 12225 As Ah
+KO-Parrot 975521855 11  4 c   kf    -     -        15750  200    0 
+KO-Parrot 975521923 11  3 c   f     -     -        15550  200    0 
+KO-Parrot 975522003 11  2 Bk  kc    k     b        15350 1300 3100 Ts Th
+KO-Parrot 975522077 11  1 Bf  -     -     -        17150  200    0 
+KO-Parrot 975522097 10 10 f   -     -     -        16950    0    0 
+KO-Parrot 975522174 10  9 f   -     -     -        16950    0    0 
+KO-Parrot 975522250  9  7 c   k     k     f        16950  400    0 
+KO-Parrot 975522320  9  6 c   k     f     -        16550  400    0 
+KO-Parrot 975522352  9  5 f   -     -     -        16150    0    0 
+KO-Parrot 975522380  8  4 c   f     -     -        16150  400    0 
+KO-Parrot 975522452  8  3 f   -     -     -        15750    0    0 
+KO-Parrot 975522482  8  2 Bc  k     kr    -        15750 14800 21000 
+KO-Parrot 975522535  8  1 Bc  kf    -     -        21950  800    0 
+KO-Parrot 975522577  8  8 f   -     -     -        21150    0    0 
+KO-Parrot 975522594  8  7 f   -     -     -        21150    0    0 
+KO-Parrot 975522638  8  6 f   -     -     -        21150    0    0 
+KO-Parrot 975522679  8  5 c   f     -     -        21150  800    0 
+KO-Parrot 975522710  8  4 cc  k     b     bA       20350 20350 22875 As Td
+KO-Parrot 975522777  8  3 f   -     -     -        22875    0    0 
+KO-Parrot 975522918  8  2 Bf  -     -     -        22875 1600    0 
+KO-Parrot 975522943  8  1 Bc  k     k     bA       21275 21275 49850 7h Ah
+KO-Parrot 975523013  7  7 f   -     -     -        49850    0    0 
+KO-Parrot 975523050  6  5 f   -     -     -        49850    0    0 
+KO-Parrot 975523086  6  4 f   -     -     -        49850    0    0 
+KO-Parrot 975523119  5  2 Bk  k     k     b        49850 4800 9600 7s 3h
+KO-Parrot 975523155  5  1 Bc  kc    k     b        54650 20800 28800 
+KO-Parrot 975523209  5  5 f   -     -     -        62650    0    0 
+KO-Parrot 975523237  5  4 cc  k     k     k        62650 4150    0 Kc 6h
+KO-Parrot 975523276  5  3 f   -     -     -        58500    0    0 
+KO-Parrot 975523318  5  2 Bk  k     k     k        58500 3200 1300 Kd Qs
+KO-Parrot 975523351  5  1 Bf  -     -     -        56600 1600    0 
+KO-Parrot 975523373  5  5 f   -     -     -        55000    0    0 
+KO-Parrot 975523389  5  4 cc  -     -     -        55000 8450    0 Ac Jh
+KO-Parrot 975523409  5  3 c   k     f     -        46550 3200    0 
+KO-Parrot 975523452  5  2 Bc  kc    -     -        43350 21700 45000 Qh Qs
+KO-Parrot 975523474  4  1 Bcc -     -     -        66650 5200 10400 Th Ah
+KO-Parrot 975523501  3  3 f   -     -     -        71850    0    0 
+KO-Parrot 975523529  3  3 f   -     -     -        71850    0    0 
+KO-Parrot 975523535  3  2 Bf  -     -     -        71850 3200    0 
+KO-Parrot 975523549  3  1 Bc  k     k     b        68650 13200 16400 
+KO-Parrot 975523578  3  3 f   -     -     -        71850    0    0 
+KO-Parrot 975523589  3  2 Bk  b     -     -        71850 9600 12800 
+KO-Parrot 975523610  3  1 Bcc -     -     -        75050 7250    0 Ks Ad
+KO-Parrot 975523628  3  3 f   -     -     -        67800    0    0 
+KO-Parrot 975523635  3  2 Bc  -     -     -        67800 11300    0 Kc Jh
+KO-Parrot 975523645  3  1 Bf  -     -     -        56500 3200    0 
+KO-Parrot 975523659  3  3 f   -     -     -        53300    0    0 
+KO-Parrot 975523680  3  2 Bc  -     -     -        53300 19400    0 Qc Kh
+KO-Parrot 975523697  3  1 Bc  k     k     bA       33900 33900 40300 
+KO-Parrot 975523745  3  3 f   -     -     -        40300    0    0 
+KO-Parrot 975523762  3  2 B   -     -     -        40300 6400 9600 
+KO-Parrot 975523773  3  1 Bc  krA   -     -        43500 43500 75900 Qh 4h
+KO-Parrot 975523799  2  2 f   -     -     -        75900    0    0 
+KO-Parrot 975523808  2  2 Bf  -     -     -        75900 6400    0 
+KO-Parrot 975523822  2  1 Bc  k     k     k        69500 6400    0 9d 8s
+KO-Parrot 975523852  2  2 B   -     -     -        63100 6400 9600 
+KO-Parrot 975523858  2  1 Bc  k     kf    -        66300 6400    0 
+KO-Parrot 975523881  2  2 Bc  k     bA    -        59900 59900 79100 
+KO-Parrot 975523908  2  1 Bc  k     kc    kf       79100 12800    0 
+KO-Parrot 975523959  2  2 Bk  k     f     -        66300 12800    0 
+KO-Parrot 975523981  2  1 Bf  -     -     -        53500 6400    0 
+KO-Parrot 975523990  2  2 Bf  -     -     -        47100 12800    0 
+KO-Parrot 975524003  2  1 Bc  k     bA    -        34300 34300 68600 Js 9c
+KO-Parrot 975524023  2  2 Bk  k     k     f        68600 12800    0 
+KO-Parrot 975524067  2  1 Bc  k     krA   -        55800 55800 94200 
+KO-Parrot 975524099  2  2 Bc  -     -     -        94200 25800    0 9h 6d
+KO-Parrot 975524111  2  1 Bcf -     -     -        68400 12800    0 
+KO-Parrot 975524127  2  2 BrA -     -     -        55600 55600 55600 6c As
+KO-Parrot 975524139  2  1 Bc  k     bA    -        55600 55600 68400 
+KO-Parrot 975524164  2  2 B   -     -     -        68400 12800 19200 
+KO-Parrot 975524166  2  1 Bc  k     k     b        74800 25600 51200 8h Ah
+KO-Parrot 975524200  2  2 B   -     -     -       100400 12800 19200 
+KO-Parrot 975524207  2  1 Bc  k     k     b       106800 38400 25200 4s 5d
+KO-Parrot 975524237  2  2 Bc  -     -     -        93600 26400    0 Tc 2h
+KO-Parrot 975524250  2  1 BcrA -     -     -        67200 67200 120000 3d Ad
+KO-Parrot 975524516 17 12 cf  -     -     -        10000   50    0 
+KO-Parrot 975524606 16 11 cf  -     -     -         9950   50    0 
+KO-Parrot 975524711 16 10 cf  -     -     -         9900   50    0 
+KO-Parrot 975524933 16  9 f   -     -     -         9850    0    0 
+KO-Parrot 975525045 15  7 c   k     kf    -         9850  100    0 
+KO-Parrot 975525197 15  6 f   -     -     -         9750    0    0 
+KO-Parrot 975525268 14  5 cf  -     -     -         9750  100    0 
+KO-Parrot 975525358 14  4 cf  -     -     -         9650  200    0 
+KO-Parrot 975525421 13  3 cf  -     -     -         9450  200    0 
+KO-Parrot 975525468 12  2 Bc  bA    -     -         9250 9250    0 Ac 6d

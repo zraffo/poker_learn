@@ -1,0 +1,404 @@
+kyobridge 987332740  4  2 BccA -     -     -        10000 10000 30900 Kd 6d
+kyobridge 987332794  2  1 Bcc kc    k     k        30900 1800    0 3s Ts
+kyobridge 987332854  2  2 Bk  f     -     -        29100  200    0 
+kyobridge 987332874  2  1 Bf  -     -     -        28900  100    0 
+kyobridge 987332880  2  2 Bc  k     r     -        28800 3000 4000 
+kyobridge 987332910  2  1 Br  b     b     kc       29800 10200 20400 Ah As
+kyobridge 987334181  5  1 Bf  -     -     -        10000  100    0 
+kyobridge 987334189  5  5 f   -     -     -         9900    0    0 
+kyobridge 987334192  5  4 f   -     -     -         9900    0    0 
+kyobridge 987334201  5  3 f   -     -     -         9900    0    0 
+kyobridge 987334229  5  2 Bf  -     -     -         9900  200    0 
+kyobridge 987334238  5  1 Bc  k     k     k         9700  200  400 Ts 6s
+kyobridge 987334287  5  5 cf  -     -     -         9900  200    0 
+kyobridge 987334303  5  4 c   k     c     c         9700 1200 2600 Th Ad
+kyobridge 987334336  5  3 cc  kc    kc    kc       11100 5900 12100 Th 5h
+kyobridge 987334383  5  2 Bk  kc    kc    b        17300 3100 4200 
+kyobridge 987334444  5  1 Bc  k     k     k        18400  200  400 Ts Qc
+kyobridge 987334481  5  5 c   k     b     k        18600  700  750 5c 5h
+kyobridge 987334517  5  4 cf  -     -     -        18650  400    0 
+kyobridge 987334585  5  3 f   -     -     -        18250    0    0 
+kyobridge 987334619  5  2 Bf  -     -     -        18250  400    0 
+kyobridge 987334644  4  1 Bf  -     -     -        17850  200    0 
+kyobridge 987334654  4  4 f   -     -     -        17650    0    0 
+kyobridge 987334673  4  3 c   b     -     -        17650 1800 2800 
+kyobridge 987334694  4  2 Bk  k     b     b        18650 5200 10800 Qh Th
+kyobridge 987334726  4  1 Bf  -     -     -        24250  200    0 
+kyobridge 987334738  4  4 f   -     -     -        24050    0    0 
+kyobridge 987334744  4  3 c   k     b     b        24050 6000 8400 
+kyobridge 987334781  4  2 Bk  k     k     k        26450  400    0 7s Qh
+kyobridge 987334811  4  1 Bf  -     -     -        26050  200    0 
+kyobridge 987334866  4  4 cc  c     -     -        25850 7600 16800 Qd Qh
+kyobridge 987334898  3  2 f   -     -     -        35050    0    0 
+kyobridge 987334908  3  2 Bf  -     -     -        35050  800    0 
+kyobridge 987334926  3  1 Bf  -     -     -        34250  400    0 
+kyobridge 987334958  3  3 f   -     -     -        33850    0    0 
+kyobridge 987334982  3  2 Bk  b     -     -        33850 2400 3200 
+kyobridge 987335002  3  1 Bc  k     b     -        34650 2400 3200 
+kyobridge 987335027  3  3 c   r     -     -        35450 8800 12000 
+kyobridge 987335047  3  2 Bk  c     c     -        38650 3000    0 7d Ad
+kyobridge 987335065  3  1 Bc  k     kf    -        35650  800    0 
+kyobridge 987335100  3  3 f   -     -     -        34850    0    0 
+kyobridge 987335104  3  2 Bk  k     k     k        34850  800 2000 9d Kc
+kyobridge 987335129  3  1 Bc  k     b     -        36050 2400 3200 
+kyobridge 987335153  3  3 c   b     -     -        36850 2800 4000 
+kyobridge 987335167  3  2 Bk  c     c     -        38050 6800    0 Ad Jc
+kyobridge 987335189  3  1 Bf  -     -     -        31250  800    0 
+kyobridge 987335201  3  3 f   -     -     -        30450    0    0 
+kyobridge 987335217  3  2 B   -     -     -        30450 1600 2400 
+kyobridge 987335224  3  1 Bc  k     k     kf       31250 1600    0 
+kyobridge 987335262  3  3 f   -     -     -        29650    0    0 
+kyobridge 987335286  3  2 Bc  k     k     k        29650 4100    0 2c 2d
+kyobridge 987335334  3  1 Bc  k     k     k        25550 1600 3200 Qs 4s
+kyobridge 987335375  3  3 f   -     -     -        27150    0    0 
+kyobridge 987335400  3  2 Bk  k     k     k        27150 1600 3900 Ks As
+kyobridge 987335429  2  1 Bc  k     k     k        29450 1600 3200 7c 2c
+kyobridge 987335457  2  2 B   -     -     -        31050 1600 2400 
+kyobridge 987335463  2  1 Bf  -     -     -        31850  800    0 
+kyobridge 987335468  2  2 Bk  k     k     k        31050 3200    0 Jh 7c
+kyobridge 987335495  2  1 Bf  -     -     -        27850 1600    0 
+kyobridge 987335503  2  2 B   -     -     -        26250 3200 4800 
+kyobridge 987335505  2  1 Bc  k     k     k        27850 3200 6400 Tc 7c
+kyobridge 987335526  2  2 B   -     -     -        31050 3200 4800 
+kyobridge 987335530  2  1 Bf  -     -     -        32650 1600    0 
+kyobridge 987335534  2  2 Bk  k     k     b        31050 9600 12800 
+kyobridge 987335567  2  1 Bf  -     -     -        34250 1600    0 
+kyobridge 987335572  2  2 Bk  k     k     k        32650 3200 6400 2d 4s
+kyobridge 987335590  2  1 Bc  k     k     k        35850 3200    0 4h Ad
+kyobridge 987335612  2  2 Bk  k     k     b        32650 9600 12800 
+kyobridge 987335640  2  1 Bf  -     -     -        35850 1600    0 
+kyobridge 987335645  2  2 B   -     -     -        34250 3200 4800 
+kyobridge 987335647  2  1 Bc  k     k     k        35850 3200 6400 Qd 6d
+kyobridge 987335671  2  2 Bk  k     k     b        39050 9600    0 Th 8s
+kyobridge 987335698  2  1 Bc  k     k     k        29450 3200 6400 6s Js
+kyobridge 987335728  2  2 B   -     -     -        32650 3200 4800 
+kyobridge 987335733  2  1 Bc  k     k     k        34250 3200 6400 7s Ac
+kyobridge 987335750  2  2 Bk  k     k     k        37450 3200 6400 2s 2c
+kyobridge 987335768  2  1 Bc  k     b     -        40650 9600  250 6c As
+kyobridge 987335787  2  2 Bk  k     k     k        31300 6400    0 4c 3h
+kyobridge 987335804  2  1 Bc  k     k     k        24900 6400 12800 Qs 7s
+kyobridge 987335838  2  2 B   -     -     -        31300 6400 9600 
+kyobridge 987335843  2  1 Bf  -     -     -        34500 3200    0 
+kyobridge 987335849  2  2 Bk  k     k     k        31300 6400    0 5h 4s
+kyobridge 987335872  2  1 Bc  k     k     k        24900 6400    0 6s 2s
+kyobridge 987335901  2  2 B   -     -     -        18500 6400 9600 
+kyobridge 987335907  2  1 Bc  b     bA    -        21700 21700 43400 3c Kc
+kyobridge 987335925  2  2 B   -     -     -        43400 6400 9600 
+kyobridge 987335930  2  1 Bc  -     -     -        46600 3400    0 8c 4c
+kyobridge 987335936  2  2 Bk  k     k     k        43200 6400 12800 9c Td
+kyobridge 987335962  2  1 B   -     -     -        49600 3200 2800 6c 3d
+kyobridge 987335963  2  2 B   -     -     -        49200 6400 5600 8s Js
+kyobridge 987335964  2  1 B   -     -     -        48400 3200 4800 Qh 4h
+kyobridge 987336161 10  6 c   k     cc    cA       10000 10000    0 Kh 5h
+kyobridge 987840895 12  2 Bk  k     k     f        10000  100    0 
+kyobridge 987840996 12  1 Bf  -     -     -         9900   50    0 
+kyobridge 987841102 12 12 f   -     -     -         9850    0    0 
+kyobridge 987841181 12 11 c   c     f     -         9850  200    0 
+kyobridge 987841312 12 10 f   -     -     -         9650    0    0 
+kyobridge 987841410 12  9 c   k     r     b         9650 6150 12600 6h Kd
+kyobridge 987841478 12  8 f   -     -     -        16100    0    0 
+kyobridge 987841564 11  7 cc  k     c     k        16100 4800    0 Ah Td
+kyobridge 987841684 11  6 f   -     -     -        11300    0    0 
+kyobridge 987841812 11  5 f   -     -     -        11300    0    0 
+kyobridge 987841972 11  4 f   -     -     -        11300    0    0 
+kyobridge 987842012 11  3 c   kf    -     -        11300  400    0 
+kyobridge 987842176 11  2 Bf  -     -     -        10900  400    0 
+kyobridge 987842265  9  1 Bf  -     -     -        10500  400    0 
+kyobridge 987842323  9  9 c   c     f     -        10100 2775    0 
+kyobridge 987842438  8  7 f   -     -     -         7325    0    0 
+kyobridge 987842531  8  7 f   -     -     -         7325    0    0 
+kyobridge 987842617  8  6 f   -     -     -         7325    0    0 
+kyobridge 987842677  8  5 f   -     -     -         7325    0    0 
+kyobridge 987842717  7  3 c   b     -     -         7325 4000 7200 
+kyobridge 987842754  7  3 f   -     -     -        10525    0    0 
+kyobridge 987842837  7  2 Bk  b     b     bA       10525 10525 21050 9d 8c
+kyobridge 987842906  7  1 Bf  -     -     -        21050  800    0 
+kyobridge 987842938  7  7 c   k     k     k        20250 1600    0 Kc 6h
+kyobridge 987843048  7  6 c   c     k     k        18650 7200    0 Kc 7h
+kyobridge 987843118  7  5 f   -     -     -        11450    0    0 
+kyobridge 987843171  7  4 c   k     f     -        11450 3200    0 
+kyobridge 987843244  7  3 f   -     -     -         8250    0    0 
+kyobridge 987843343  7  2 Bk  k     k     k         8250 3200 9600 7d 2c
+kyobridge 987843439  7  1 Bcc kc    -     -        14650 10000 20000 Jh Ad
+kyobridge 987843476  6  6 c   k     k     bA       24650 24650 11775 7s 6s
+kyobridge 987843527  6  6 f   -     -     -        11775    0    0 
+kyobridge 987843586  5  4 c   k     bA    -        11775 11775 23550 Kc Qs
+kyobridge 987843642  5  4 c   k     k     c        23550 10775    0 3h Qh
+kyobridge 987843710  5  3 ccA -     -     -        12775 12775    0 Qs Tc
+kyobridge 987861562 11  1 Bf  -     -     -        10000   25    0 
+kyobridge 987861663 11 11 c   k     b     -         9975  150  300 
+kyobridge 987861726 11 10 cc  kc    k     f        10125 1450    0 
+kyobridge 987861806 11  9 f   -     -     -         8675    0    0 
+kyobridge 987861866 10  7 f   -     -     -         8675    0    0 
+kyobridge 987861885 10  6 cc  k     k     f         8675  550    0 
+kyobridge 987861950 10  5 cc  kc    k     kc        8125 7775    0 Ks 6h
+kyobridge 987862031 10  4 c   k     bA    -          350  350 1350 5s 2h
+kyobridge 987862095 10  3 cc  k     bA    -         1350 1350 4450 Qh 8h
+kyobridge 987862207 10  2 Bk  k     k     k         4450  100    0 Jh Td
+kyobridge 987862271 10  1 Brc kcA   -     -         4350 4350 10525 Ah Kc
+kyobridge 987862336 10 10 f   -     -     -        10525    0    0 
+kyobridge 987862391 10  9 f   -     -     -        10525    0    0 
+kyobridge 987862435 10  8 f   -     -     -        10525    0    0 
+kyobridge 987862484 10  7 f   -     -     -        10525    0    0 
+kyobridge 987862529 10  6 f   -     -     -        10525    0    0 
+kyobridge 987862638 10  5 cf  -     -     -        10525  200    0 
+kyobridge 987862695 10  4 c   b     b     bA       10325 10325 14325 
+kyobridge 987862774 10  3 f   -     -     -        14325    0    0 
+kyobridge 987862847 10  2 Br  k     k     k        14325 2200 7200 Kd As
+kyobridge 987862912 10  1 Bc  kf    -     -        19325 1400    0 
+kyobridge 987862970  9  9 c   r     k     b        17925 6750    0 Kd 8s
+kyobridge 987863068  8  7 c   c     f     -        11175 1600    0 
+kyobridge 987863178  8  6 f   -     -     -         9575    0    0 
+kyobridge 987863244  8  5 c   k     k     k         9575  800 2000 8s 8h
+kyobridge 987863301  8  4 c   b     -     -        10775 2400 4800 
+kyobridge 987863357  8  3 c   k     kf    -        13175  800    0 
+kyobridge 987863411  8  2 Bk  f     -     -        12375  800    0 
+kyobridge 987863459  8  1 Bc  kc    -     -        11575 6750 7150 5h Ah
+kyobridge 987863498  8  8 c   c     c     c        11975 4800    0 Ad 4d
+kyobridge 987863555  8  7 f   -     -     -         7175    0    0 
+kyobridge 987863601  8  6 f   -     -     -         7175    0    0 
+kyobridge 987863624  8  5 cc  bA    -     -         7175 7175 2125 Kd 6s
+kyobridge 987863676  6  3 c   bA    -     -         2125 2125    0 Ks Th
+kyobridge 987922228  8  3 f   -     -     -         5000    0    0 
+kyobridge 987922405  8  2 Bk  k     b     b         5000  800 1250 
+kyobridge 987922488  8  1 Bc  kf    -     -         5450   50    0 
+kyobridge 987922540  8  8 f   -     -     -         5400    0    0 
+kyobridge 987922586  8  7 c   b     b     b         5400 2150 3000 
+kyobridge 987922663  8  6 c   kc    kf    -         6250  600    0 
+kyobridge 987922712  8  5 c   kf    -     -         5650  100    0 
+kyobridge 987922788  8  4 c   kc    k     b         5550 2300 3300 
+kyobridge 987922889  8  3 c   k     k     k         6550  100  400 8d 8s
+kyobridge 987922945  8  2 Bk  k     b     k         6850  350    0 8c 7c
+kyobridge 987923025  8  1 Bc  kf    -     -         6500  100    0 
+kyobridge 987923076  8  8 f   -     -     -         6400    0    0 
+kyobridge 987923110  8  7 c   k     k     k         6400  200    0 As Qd
+kyobridge 987923165  8  6 c   kf    -     -         6200  200    0 
+kyobridge 987923276  8  5 c   b     b     -         6000 4600 8750 5h 4h
+kyobridge 987923331  7  3 c   kf    -     -        10150  200    0 
+kyobridge 987923413  5  3 f   -     -     -         9950    0    0 
+kyobridge 987923442  5  2 Bf  -     -     -         9950  200    0 
+kyobridge 987923479  5  1 Bf  -     -     -         9750  200    0 
+kyobridge 987923492  5  5 f   -     -     -         9550    0    0 
+kyobridge 987923523  5  4 c   b     -     -         9550 1000 1800 
+kyobridge 987923546  5  3 f   -     -     -        10350    0    0 
+kyobridge 987923566  5  2 Bk  b     b     -        10350 4400 6400 
+kyobridge 987923673  5  1 Bc  k     kf    -        12350  400    0 
+kyobridge 987923704  5  5 f   -     -     -        11950    0    0 
+kyobridge 987923736  5  4 c   k     k     k        11950  400 1200 Kd Jd
+kyobridge 987923768  5  3 c   k     k     b        12750  900 1500 
+kyobridge 987923808  5  2 Bk  k     k     k        13350  400    0 6d Qs
+kyobridge 987923859  5  1 Bf  -     -     -        12950  200    0 
+kyobridge 987923868  5  5 c   b     -     -        12750 1000 1800 
+kyobridge 987923891  5  4 c   c     -     -        13550 2900    0 8d Qd
+kyobridge 987923911  5  3 c   b     -     -        10650 2600 5400 
+kyobridge 987923960  5  2 Bk  kf    -     -        13450  800    0 
+kyobridge 987923991  5  1 Br  k     k     k        12650 1800 4400 Ah Ks
+kyobridge 987924026  5  5 c   b     -     -        15250 2000 3600 
+kyobridge 987924056  5  4 c   b     -     -        16850 3200 3600 Td Ts
+kyobridge 987924086  5  3 f   -     -     -        17250    0    0 
+kyobridge 987924113  5  2 Bk  k     k     k        17250  800    0 7s 2s
+kyobridge 987924142  5  1 Bf  -     -     -        16450  400    0 
+kyobridge 987924176  5  5 c   c     c     -        16050 2925 6250 9s 9c
+kyobridge 987924202  4  3 c   k     k     b        19375 8000 11200 
+kyobridge 987924264  4  3 f   -     -     -        22575    0    0 
+kyobridge 987924503  4  2 Bc  -     -     -        22575 3200 6400 Ah Qs
+kyobridge 987924519  3  1 Bc  b     -     -        25775 3200 4800 
+kyobridge 987924541  3  3 f   -     -     -        27375    0    0 
+kyobridge 987924563  3  2 B   -     -     -        27375 1600 2400 
+kyobridge 987924577  3  1 Bc  -     -     -        28175 1600 3200 9c Qh
+kyobridge 987924582  2  2 c   k     k     b        29775 4800 6400 
+kyobridge 987924602  2  2 B   -     -     -        31375 1600 2400 
+kyobridge 987924603  2  1 Bc  k     k     k        32175 1600    0 Ad 3h
+kyobridge 987924624  2  2 B   -     -     -        30575 1600 2400 
+kyobridge 987924625  2  1 Bc  k     k     k        31375 1600    0 8h 4h
+kyobridge 987924651  2  2 B   -     -     -        29775 1600 2400 
+kyobridge 987924652  2  1 Bf  -     -     -        30575  800    0 
+kyobridge 987924658  2  2 B   -     -     -        29775 1600 2400 
+kyobridge 987924659  2  1 Bf  -     -     -        30575  800    0 
+kyobridge 987924663  2  2 B   -     -     -        29775 1600 2400 
+kyobridge 987924664  2  1 Bf  -     -     -        30575  800    0 
+kyobridge 987924668  2  2 B   -     -     -        29775 1600 2400 
+kyobridge 987924669  2  1 Bc  k     k     k        30575 1600    0 Ts Qs
+kyobridge 987924683  2  2 B   -     -     -        28975 1600 2400 
+kyobridge 987924684  2  1 Bf  -     -     -        29775  800    0 
+kyobridge 987924690  2  2 B   -     -     -        28975 1600 2400 
+kyobridge 987924691  2  1 Bf  -     -     -        29775  800    0 
+kyobridge 987924692  2  2 B   -     -     -        28975 1600 2400 
+kyobridge 987924693  2  1 Bc  k     k     k        29775 1600 3200 7h Kd
+kyobridge 987924705  2  2 B   -     -     -        31375 1600 2400 
+kyobridge 987924706  2  1 Bf  -     -     -        32175  800    0 
+kyobridge 987924712  2  2 B   -     -     -        31375 1600 2400 
+kyobridge 987924713  2  1 Bc  b     -     -        32175 3200 4800 
+kyobridge 987924721  2  2 B   -     -     -        33775 1600 2400 
+kyobridge 987924722  2  1 Bc  b     -     -        34575 3200 4800 
+kyobridge 987924730  2  2 B   -     -     -        36175 1600 2400 
+kyobridge 987924731  2  1 Bf  -     -     -        36975  800    0 
+kyobridge 987924735  2  2 B   -     -     -        36175 1600 2400 
+kyobridge 987924736  2  1 Bf  -     -     -        36975  800    0 
+kyobridge 987924739  2  2 B   -     -     -        36175 1600 2400 
+kyobridge 987924740  2  1 Bf  -     -     -        36975  800    0 
+kyobridge 987924744  2  2 B   -     -     -        36175 1600 2400 
+kyobridge 987924745  2  1 Bc  b     -     -        36975 3200 4800 
+kyobridge 987924754  2  2 B   -     -     -        38575 1600 2400 
+kyobridge 987924755  2  1 B   -     -     -        39375  800 1425 Ah 7d
+kyobridge 987925027  7  3 c   f     -     -        10000   50    0 
+kyobridge 987925067  7  2 Bf  -     -     -         9950   50    0 
+kyobridge 987925175  7  1 Bf  -     -     -         9900   25    0 
+kyobridge 987925218  7  7 c   b     -     -         9875  150  300 
+kyobridge 987925303  7  6 c   k     f     -        10025   50    0 
+kyobridge 987925363  7  5 c   kf    -     -         9975  100    0 
+kyobridge 987925450  7  4 f   -     -     -         9875    0    0 
+kyobridge 987925490  7  3 c   k     k     kf        9875  100    0 
+kyobridge 987925553  7  2 Bf  -     -     -         9775  100    0 
+kyobridge 987925609  6  1 Bf  -     -     -         9675   50    0 
+kyobridge 987925648  6  6 f   -     -     -         9625    0    0 
+kyobridge 987925701  6  5 c   c     k     k         9625 1400    0 Tc 5c
+kyobridge 987925741  6  4 c   c     k     b         8225 2200 3600 
+kyobridge 987925807  6  3 c   k     k     k         9625  200  250 8h 9h
+kyobridge 987925836  6  2 Bk  k     k     kf        9675  200    0 
+kyobridge 987925908  6  1 Bc  kc    kf    -         9475  800    0 
+kyobridge 987925974  6  6 c   k     k     f         8675  200    0 
+kyobridge 987926047  6  5 cccA -     -     -         8475 8475    0 2c 2h
+kyobridge 988035995 15 15 f   -     -     -        10000    0    0 
+kyobridge 988036101 14 13 c   f     -     -        10000   50    0 
+kyobridge 988036183 13 11 cc  k     f     -         9950  325    0 
+kyobridge 988036280 13 10 f   -     -     -         9625    0    0 
+kyobridge 988036329 12  9 f   -     -     -         9625    0    0 
+kyobridge 988036414 12  8 f   -     -     -         9625    0    0 
+kyobridge 988036477 12  7 cc  kf    -     -         9625  750    0 
+kyobridge 988036560 12  6 c   cf    -     -         8875  425    0 
+kyobridge 988036630 12  5 cc  k     kf    -         8450  550    0 
+kyobridge 988036698 12  4 cc  c     kf    -         7900 2850    0 
+kyobridge 988036763 12  3 f   -     -     -         5050    0    0 
+kyobridge 988036828 11  1 Bk  kf    -     -         5050  200    0 
+kyobridge 988036964 11  1 Bf  -     -     -         4850  100    0 
+kyobridge 988037013 11 11 c   k     f     -         4750  200    0 
+kyobridge 988037046 11 10 f   -     -     -         4550    0    0 
+kyobridge 988037110 11  9 f   -     -     -         4550    0    0 
+kyobridge 988037154 11  8 c   k     c     f         4550 1100    0 
+kyobridge 988037211 11  7 f   -     -     -         3450    0    0 
+kyobridge 988037279 11  6 c   k     k     f         3450  400    0 
+kyobridge 988037337 11  5 c   c     kcA   -         3050 3050    0 Jc As
+kyobridge 988125593 12  5 f   -     -     -        10000    0    0 
+kyobridge 988125724 12  4 f   -     -     -        10000    0    0 
+kyobridge 988125814 11  3 c   k     kc    kf       10000  550    0 
+kyobridge 988125890 11  2 Bk  k     k     k         9450  100    0 Ts 3h
+kyobridge 988125940 11  1 Bf  -     -     -         9350   50    0 
+kyobridge 988125972 11 11 f   -     -     -         9300    0    0 
+kyobridge 988126004 11 10 c   c     k     r         9300 2650    0 6c As
+kyobridge 988126064 11  9 c   kc    f     -         6650  750    0 
+kyobridge 988126121 11  8 f   -     -     -         5900    0    0 
+kyobridge 988126148 11  7 f   -     -     -         5900    0    0 
+kyobridge 988126209 11  6 f   -     -     -         5900    0    0 
+kyobridge 988126279 11  5 c   f     -     -         5900  200    0 
+kyobridge 988126342 10  4 c   k     k     c         5700  700    0 8h 7s
+kyobridge 988126391 10  3 f   -     -     -         5000    0    0 
+kyobridge 988126458 10  2 Bc  kf    -     -         5000 1100    0 
+kyobridge 988126517  9  1 Bf  -     -     -         3900  200    0 
+kyobridge 988126576  9  9 c   c     cA    -         3700 3700    0 Jh Ah
+kyobridge 988210599 12  5 c   kc    kc    k        10000  723    0 Th 8h
+kyobridge 988210660 12  4 f   -     -     -         9277    0    0 
+kyobridge 988210728 12  3 c   c     c     f         9277  575    0 
+kyobridge 988210791 12  2 Bk  kc    kc    kc        8702 1845    0 5c Jd
+kyobridge 988210846 12  1 Bc  k     kc    brA       6857 6857 20621 As Jc
+kyobridge 988210928 12 12 f   -     -     -        20621    0    0 
+kyobridge 988210977 12 11 c   cc    k     c        20621 8105    0 6h 7h
+kyobridge 988211054 11  9 f   -     -     -        12516    0    0 
+kyobridge 988211112 11  8 c   k     c     f        12516  700    0 
+kyobridge 988211175 11  7 f   -     -     -        11816    0    0 
+kyobridge 988211244 10  6 f   -     -     -        11816    0    0 
+kyobridge 988211312 10  5 c   c     f     -        11816  325    0 
+kyobridge 988211354 10  4 f   -     -     -        11491    0    0 
+kyobridge 988211385 10  3 c   b     b     bA       11491 11491 24782 Ks Kd
+kyobridge 988211446 10  2 Bk  kc    k     k        24782  550    0 Ac Qd
+kyobridge 988211494 10  1 Bf  -     -     -        24232  100    0 
+kyobridge 988211519 10 10 c   f     -     -        24132  900    0 
+kyobridge 988211550 10  9 f   -     -     -        23232    0    0 
+kyobridge 988211572 10  8 c   c     f     -        23232 1000    0 
+kyobridge 988211642 10  7 c   kf    -     -        22232  200    0 
+kyobridge 988211693 10  6 c   k     k     rc       22032 5800    0 Kd 7c
+kyobridge 988211772 10  5 c   c     r     bA       16232 16232 16882 8h As
+kyobridge 988211827 10  4 cc  f     -     -        16882 1800    0 
+kyobridge 988211865 10  3 cc  kc    k     k        15082 3752    0 Kc 5s
+kyobridge 988211926  9  2 Bc  bc    bA    -        11330 11330    0 Js Ac
+kyobridge 988420816 13  5 f   -     -     -         5000    0    0 
+kyobridge 988420899 13  4 f   -     -     -         5000    0    0 
+kyobridge 988420966 13  3 f   -     -     -         5000    0    0 
+kyobridge 988421015 13  2 Bk  kf    -     -         5000   50    0 
+kyobridge 988421050 13  1 Bf  -     -     -         4950   25    0 
+kyobridge 988421118 12 12 f   -     -     -         4925    0    0 
+kyobridge 988421207 12 11 c   c     f     -         4925  700    0 
+kyobridge 988421277 11  9 c   c     f     -         4225  700    0 
+kyobridge 988421355 11  8 f   -     -     -         3525    0    0 
+kyobridge 988421420 10  6 f   -     -     -         3525    0    0 
+kyobridge 988421465 10  5 f   -     -     -         3525    0    0 
+kyobridge 988421588 10  4 f   -     -     -         3525    0    0 
+kyobridge 988421632 10  3 f   -     -     -         3525    0    0 
+kyobridge 988421688 10  2 Bk  k     bf    -         3525 1400    0 
+kyobridge 988421782  9  1 BcA -     -     -         2125 2125    0 7s 8s
+kyobridge 988423166 14  6 c   k     kc    kf       10000  375    0 
+kyobridge 988423281 13  4 c   kc    brA   -         9625 9625    0 Ad Qc
+kyobridge 988426501 17 15 c   c     f     -        10000  350    0 
+kyobridge 988426594 17 14 f   -     -     -         9650    0    0 
+kyobridge 988426632 16 12 f   -     -     -         9650    0    0 
+kyobridge 988426733 16 11 c   f     -     -         9650   50    0 
+kyobridge 988426813 16 10 f   -     -     -         9600    0    0 
+kyobridge 988426875 16  9 c   kc    kc    k         9600  650    0 6h 6d
+kyobridge 988426961 16  8 f   -     -     -         8950    0    0 
+kyobridge 988427066 16  7 f   -     -     -         8950    0    0 
+kyobridge 988427101 16  6 c   c     k     kf        8950  650    0 
+kyobridge 988427217 16  5 c   k     k     f         8300  100    0 
+kyobridge 988427307 16  4 c   f     -     -         8200  100    0 
+kyobridge 988427391 16  3 cf  -     -     -         8100  200    0 
+kyobridge 988427442 15  2 Bc  kf    -     -         7900  700    0 
+kyobridge 988427523 15  1 Bc  k     kf    -         7200 1500    0 
+kyobridge 988427628 15 15 f   -     -     -         5700    0    0 
+kyobridge 988427707 15 14 f   -     -     -         5700    0    0 
+kyobridge 988427809 13 11 cf  -     -     -         5700  400    0 
+kyobridge 988427875 13 10 f   -     -     -         5300    0    0 
+kyobridge 988427941 13  9 c   c     k     k         5300  725    0 7d As
+kyobridge 988428007 13  8 f   -     -     -         4575    0    0 
+kyobridge 988428100 13  7 f   -     -     -         4575    0    0 
+kyobridge 988428162 12  5 f   -     -     -         4575    0    0 
+kyobridge 988428222 11  4 f   -     -     -         4575    0    0 
+kyobridge 988428282 11  3 c   k     b     -         4575 3200 4800 
+kyobridge 988428325 11  2 Bk  b     bA    -         6175 6175 22125 Jc Ac
+kyobridge 988428493 10  1 Bc  k     b     bf       22125 3200    0 
+kyobridge 988428564 10 10 f   -     -     -        18925    0    0 
+kyobridge 988428627  9  8 f   -     -     -        18925    0    0 
+kyobridge 988428656  9  7 f   -     -     -        18925    0    0 
+kyobridge 988428716  9  6 c   k     c     -        18925 3325    0 4h 4s
+kyobridge 988428786  9  5 c   k     k     b        15600 6400 9600 
+kyobridge 988428838  9  4 f   -     -     -        18800    0    0 
+kyobridge 988428891  9  3 f   -     -     -        18800    0    0 
+kyobridge 988428926  9  2 Bk  b     -     -        18800 3600 6000 
+kyobridge 988428977  9  1 Bf  -     -     -        21200  800    0 
+kyobridge 988429044  8  8 f   -     -     -        20400    0    0 
+kyobridge 988429078  8  7 f   -     -     -        20400    0    0 
+kyobridge 988429130  8  6 f   -     -     -        20400    0    0 
+kyobridge 988429157  7  4 f   -     -     -        20400    0    0 
+kyobridge 988429221  7  4 f   -     -     -        20400    0    0 
+kyobridge 988429245  7  3 c   b     -     -        20400 12800 19200 
+kyobridge 988429281  7  2 Bk  kf    -     -        26800 3200    0 
+kyobridge 988429330  7  1 Bf  -     -     -        23600 1600    0 
+kyobridge 988429367  7  7 c   f     -     -        22000 3200    0 
+kyobridge 988429414  7  6 f   -     -     -        18800    0    0 
+kyobridge 988429455  7  5 f   -     -     -        18800    0    0 
+kyobridge 988429467  7  4 f   -     -     -        18800    0    0 
+kyobridge 988429483  7  3 c   b     -     -        18800 17600 33600 
+kyobridge 988429525  7  2 Bc  -     -     -        34800 9000 21200 9h 7h
+kyobridge 988429548  6  1 Bc  k     k     b        47000 23150 33500 As 8d
+kyobridge 988429599  5  5 f   -     -     -        57350    0    0 
+kyobridge 988429655  5  4 c   -     -     -        57350 12475    0 Ah Td
+kyobridge 988429682  5  3 f   -     -     -        44875    0    0 
+kyobridge 988429718  4  2 Bc  -     -     -        44875 28150 56300 Qh Qs
+kyobridge 988429740  3  1 Bf  -     -     -        73025 3200    0 
+kyobridge 988429752  2  2 B   -     -     -        69825 6400 9600 
+kyobridge 988429760  2  1 Bc  k     b     -        73025 19200 25600 
+kyobridge 988429783  2  2 Bk  k     b     bcA      79425 79425    0 6s 8d
+kyobridge 988430195 18 11 f   -     -     -        10000    0    0 
+kyobridge 988430257 18 10 f   -     -     -        10000    0    0 
+kyobridge 988430401 18  9 c   k     k     kf       10000  225    0 
+kyobridge 988430530 18  8 c   cc    kc    -         9775 8150    0 Qs 6s
+kyobridge 988430670 18  7 f   -     -     -         1625    0    0 
+kyobridge 988430760 18  6 c   k     cA    -         1625 1625    0 3c As

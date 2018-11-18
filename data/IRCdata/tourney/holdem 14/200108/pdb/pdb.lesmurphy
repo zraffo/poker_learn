@@ -1,0 +1,825 @@
+lesmurphy 996726748 14 14 f   -     -     -        10000    0    0 
+lesmurphy 996726825 14 13 f   -     -     -        10000    0    0 
+lesmurphy 996726930 14 12 r   k     f     -        10000  825    0 
+lesmurphy 996727043 14 11 r   bA    -     -         9175 9175    0 4d Ah
+lesmurphy 996732156 10  6 f   -     -     -        10000    0    0 
+lesmurphy 996732216 10  5 f   -     -     -        10000    0    0 
+lesmurphy 996732256 10  4 f   -     -     -        10000    0    0 
+lesmurphy 996732316 10  3 rf  -     -     -        10000  175    0 
+lesmurphy 996732349 10  2 BrrA -     -     -         9825 9825    0 Ah 3h
+lesmurphy 996811118  9  9 r   rf    -     -        10000 3800    0 
+lesmurphy 996811161  9  8 r   bA    -     -         6200 6200 7100 
+lesmurphy 996811235  9  7 c   rA    -     -         7100 7100    0 5h Th
+lesmurphy 997231828 15  4 rf  -     -     -        10000  350    0 
+lesmurphy 997231895 15  3 f   -     -     -         9650    0    0 
+lesmurphy 997231947 15  2 BrA -     -     -         9650 9650 23850 Qh Ac
+lesmurphy 997231994 14  1 Bf  -     -     -        23850   50    0 
+lesmurphy 997232058 14 14 f   -     -     -        23800    0    0 
+lesmurphy 997232102 14 13 f   -     -     -        23800    0    0 
+lesmurphy 997232174 14 12 c   c     k     c        23800 3100 7500 Qs 3h
+lesmurphy 997232240 14 11 f   -     -     -        28200    0    0 
+lesmurphy 997232302 14 10 cf  -     -     -        28200 1750    0 
+lesmurphy 997232362 14  9 f   -     -     -        26450    0    0 
+lesmurphy 997232431 14  8 rc  f     -     -        26450 3000    0 
+lesmurphy 997232477 14  7 rrA -     -     -        23450 23450 43900 As Qs
+lesmurphy 997232517 12  4 r   kf    -     -        43900  600    0 
+lesmurphy 997232556 12  4 f   -     -     -        43300    0    0 
+lesmurphy 997232579 12  3 f   -     -     -        43300    0    0 
+lesmurphy 997232630 12  2 Bk  kf    -     -        43300  200    0 
+lesmurphy 997232707 12  1 Bf  -     -     -        43100  100    0 
+lesmurphy 997232746 12 12 f   -     -     -        43000    0    0 
+lesmurphy 997232835 12 11 c   f     -     -        43000  400    0 
+lesmurphy 997232880 12 10 r   -     -     -        42600 5400 7600 5s 4d
+lesmurphy 997232903 11  8 c   k     kf    -        44800  400    0 
+lesmurphy 997232954 11  7 f   -     -     -        44400    0    0 
+lesmurphy 997232996 11  6 f   -     -     -        44400    0    0 
+lesmurphy 997233027 11  5 r   b     -     -        44400 4900 7900 
+lesmurphy 997233061 11  4 f   -     -     -        47400    0    0 
+lesmurphy 997233148 11  3 f   -     -     -        47400    0    0 
+lesmurphy 997233201 10  2 Bf  -     -     -        47400  400    0 
+lesmurphy 997233310  9  1 Bf  -     -     -        47000  400    0 
+lesmurphy 997233329  9  9 f   -     -     -        46600    0    0 
+lesmurphy 997233358  9  8 f   -     -     -        46600    0    0 
+lesmurphy 997233380  9  7 c   k     b     -        46600 3600 5600 
+lesmurphy 997233427  9  6 r   -     -     -        48600 2800 4000 
+lesmurphy 997233455  9  5 f   -     -     -        49800    0    0 
+lesmurphy 997233493  9  4 c   b     -     -        49800 4800 8000 
+lesmurphy 997233537  9  3 r   -     -     -        53000 2800 4000 
+lesmurphy 997233559  9  2 Bf  -     -     -        54200  800    0 
+lesmurphy 997233571  9  1 Br  -     -     -        53400 2725 2875 7h 3h
+lesmurphy 997233597  9  9 c   b     f     -        53550 3600    0 
+lesmurphy 997233637  9  8 f   -     -     -        49950    0    0 
+lesmurphy 997233663  9  7 f   -     -     -        49950    0    0 
+lesmurphy 997233691  9  6 f   -     -     -        49950    0    0 
+lesmurphy 997233747  9  5 c   k     kc    kf       49950 3525    0 
+lesmurphy 997233805  9  4 f   -     -     -        46425    0    0 
+lesmurphy 997233838  8  2 r   -     -     -        46425 4800 6400 
+lesmurphy 997233855  8  2 Bf  -     -     -        48025 1600    0 
+lesmurphy 997233878  8  1 Bf  -     -     -        46425  800    0 
+lesmurphy 997233918  8  8 f   -     -     -        45625    0    0 
+lesmurphy 997233951  8  7 f   -     -     -        45625    0    0 
+lesmurphy 997234004  7  5 r   k     k     b        45625 19200 27200 
+lesmurphy 997234050  7  4 f   -     -     -        53625    0    0 
+lesmurphy 997234088  7  3 f   -     -     -        53625    0    0 
+lesmurphy 997234112  7  2 Bk  k     k     kf       53625 1600    0 
+lesmurphy 997234140  7  1 Bf  -     -     -        52025  800    0 
+lesmurphy 997234152  7  7 c   rA    -     -        51225 51225 60425 
+lesmurphy 997234187  7  6 c   f     -     -        60425 1600    0 
+lesmurphy 997234220  6  4 r   k     k     k        58825 5600    0 5s 8s
+lesmurphy 997234255  6  3 r   b     bA    -        53225 53225 56825 Ac 9h
+lesmurphy 997234290  6  2 Bk  k     k     f        56825 3200    0 
+lesmurphy 997234332  6  1 Bc  b     -     -        53625 12800 19200 
+lesmurphy 997234351  6  6 f   -     -     -        60025    0    0 
+lesmurphy 997234376  6  5 f   -     -     -        60025    0    0 
+lesmurphy 997234400  6  4 f   -     -     -        60025    0    0 
+lesmurphy 997234423  6  3 f   -     -     -        60025    0    0 
+lesmurphy 997234430  6  2 B   -     -     -        60025 3200 4800 
+lesmurphy 997234443  6  1 Bc  kf    -     -        61625 3200    0 
+lesmurphy 997234466  6  6 c   b     k     f        58425 7200    0 
+lesmurphy 997234507  6  5 r   -     -     -        51225 11200 16000 
+lesmurphy 997234517  6  4 f   -     -     -        56025    0    0 
+lesmurphy 997234545  6  3 f   -     -     -        56025    0    0 
+lesmurphy 997234581  6  2 B   -     -     -        56025 3200 5150 Kc 9d
+lesmurphy 997234592  5  1 Bf  -     -     -        57975 1600    0 
+lesmurphy 997234621  5  5 rc  f     -     -        56375 18375    0 
+lesmurphy 997234646  5  4 f   -     -     -        38000    0    0 
+lesmurphy 997234660  5  3 f   -     -     -        38000    0    0 
+lesmurphy 997234687  5  2 Bk  bA    -     -        38000 38000 41200 
+lesmurphy 997234712  5  1 Bf  -     -     -        41200 1600    0 
+lesmurphy 997234732  5  5 f   -     -     -        39600    0    0 
+lesmurphy 997234747  5  4 f   -     -     -        39600    0    0 
+lesmurphy 997234768  5  3 f   -     -     -        39600    0    0 
+lesmurphy 997234794  4  2 Bk  k     k     kf       39600 6400    0 
+lesmurphy 997234841  4  1 Bf  -     -     -        33200 3200    0 
+lesmurphy 997234857  4  4 rA  -     -     -        30000 30000 26800 Jc Js
+lesmurphy 997234867  4  3 f   -     -     -        26800    0    0 
+lesmurphy 997234879  4  2 Bk  b     -     -        26800 19200 25600 
+lesmurphy 997234900  4  1 Bf  -     -     -        33200 3200    0 
+lesmurphy 997234923  3  3 f   -     -     -        30000    0    0 
+lesmurphy 997234936  3  2 BrA -     -     -        30000 30000 60000 Ac Ts
+lesmurphy 997234952  3  1 Bf  -     -     -        60000 3200    0 
+lesmurphy 997234965  3  3 r   -     -     -        56800 22400 32000 
+lesmurphy 997234978  3  2 Bf  -     -     -        66400 6400    0 
+lesmurphy 997234985  3  1 BrA -     -     -        60000 60000 72800 
+lesmurphy 997235000  3  3 f   -     -     -        72800    0    0 
+lesmurphy 997235006  3  2 Bf  -     -     -        72800 6400    0 
+lesmurphy 997235011  3  1 Bf  -     -     -        66400 3200    0 
+lesmurphy 997235015  3  3 f   -     -     -        63200    0    0 
+lesmurphy 997235030  3  2 Br  f     -     -        63200 19200    0 
+lesmurphy 997235044  3  1 Bf  -     -     -        44000 3200    0 
+lesmurphy 997235060  3  3 f   -     -     -        40800    0    0 
+lesmurphy 997235075  3  2 Bk  k     k     b        40800 19200 25600 
+lesmurphy 997235094  3  1 Br  -     -     -        47200 19200 25600 
+lesmurphy 997235101  3  3 f   -     -     -        53600    0    0 
+lesmurphy 997235107  3  2 B   -     -     -        53600 6400 9600 
+lesmurphy 997235111  3  1 Bf  -     -     -        56800 3200    0 
+lesmurphy 997235116  3  3 r   bA    -     -        53600 53600 79200 
+lesmurphy 997235128  3  2 Bk  k     k     k        79200 6400    0 6d Kc
+lesmurphy 997235143  3  1 Bf  -     -     -        72800 3200    0 
+lesmurphy 997235151  3  3 c   k     k     k        69600 6400 16000 Kd Kh
+lesmurphy 997235169  3  2 B   -     -     -        79200 6400 9600 
+lesmurphy 997235175  3  1 Bf  -     -     -        82400 3200    0 
+lesmurphy 997235180  3  3 f   -     -     -        79200    0    0 
+lesmurphy 997235190  3  2 Bk  bc    -     -        79200 19925 46250 Kc Jh
+lesmurphy 997235208  2  1 Bf  -     -     -       105525 3200    0 
+lesmurphy 997235218  2  2 Bk  k     k     k       102325 6400    0 5s 3s
+lesmurphy 997235233  2  1 Bc  b     -     -        95925 38400 51200 
+lesmurphy 997235249  2  2 B   -     -     -       108725 12800 19200 
+lesmurphy 997235251  2  1 Bf  -     -     -       115125 6400    0 
+lesmurphy 997235254  2  2 B   -     -     -       108725 12800 19200 
+lesmurphy 997235258  2  1 BrA -     -     -       115125 115125 127925 
+lesmurphy 997235266  2  2 Bf  -     -     -       127925 12800    0 
+lesmurphy 997235271  2  1 Br  -     -     -       115125 38400 73275 Jd Ks
+lesmurphy 997235494 16 12 rA  -     -     -        50000 50000    0 6h 4d
+lesmurphy 997253780  4  4 r   f     -     -        10000  175    0 
+lesmurphy 997253797  4  3 rc  kf    -     -         9825  675    0 
+lesmurphy 997253820  4  2 Bk  kr    b     -         9150 3250 4500 
+lesmurphy 997253867  4  1 Bf  -     -     -        10400   25    0 
+lesmurphy 997253873  4  4 f   -     -     -        10375    0    0 
+lesmurphy 997253906  4  3 c   kf    -     -        10375   50    0 
+lesmurphy 997253949  4  2 Bf  -     -     -        10325   50    0 
+lesmurphy 997253965  4  1 Bc  -     -     -        10275  600 1250 3s Ks
+lesmurphy 997253982  3  3 r   b     b     -        10925 1675 2250 
+lesmurphy 997254011  3  2 Bk  c     k     f        11500  150    0 
+lesmurphy 997254033  3  1 Bc  k     k     k        11350   50  100 As Js
+lesmurphy 997254054  3  3 c   b     -     -        11400  200  300 
+lesmurphy 997254072  3  2 B   -     -     -        11500   50   75 
+lesmurphy 997254076  3  1 Br  b     -     -        11525  450  600 
+lesmurphy 997254090  3  3 r   -     -     -        11675  350  500 
+lesmurphy 997254098  3  2 Bf  -     -     -        11825  100    0 
+lesmurphy 997254103  3  1 Bf  -     -     -        11725   50    0 
+lesmurphy 997254107  3  3 c   f     -     -        11675  100    0 
+lesmurphy 997254133  3  2 B   -     -     -        11575  100  150 
+lesmurphy 997254139  3  1 Bc  k     kc    k        11625  300    0 Qh Qs
+lesmurphy 997254162  3  3 r   k     k     k        11325  350    0 Jh Ad
+lesmurphy 997254189  3  2 B   -     -     -        10975  100  150 
+lesmurphy 997254196  3  1 Bf  -     -     -        11025   50    0 
+lesmurphy 997254217  3  3 c   b     f     -        10975  400    0 
+lesmurphy 997254242  3  2 B   -     -     -        10575  100  150 
+lesmurphy 997254247  3  1 Br  -     -     -        10625  300  400 
+lesmurphy 997254251  3  3 r   -     -     -        10725  350  500 
+lesmurphy 997254257  3  2 Br  k     k     b        10875  600  900 
+lesmurphy 997254295  3  1 Bc  b     b     -        11175 1300 1800 
+lesmurphy 997254339  3  3 c   k     k     b        11675  400    0 3c 9c
+lesmurphy 997254387  3  2 Br  bf    -     -        11275 1800    0 
+lesmurphy 997254407  3  1 Bc  b     b     k         9475 2600    0 5c 4d
+lesmurphy 997254432  3  3 f   -     -     -         6875    0    0 
+lesmurphy 997254442  3  2 Bk  c     bA    -         6875 6875    0 Jd 9d
+lesmurphy 997255169  5  3 c   k     b     kf        2000  520    0 
+lesmurphy 997255260  5  2 Br  bA    -     -         1480 1480 2000 
+lesmurphy 997255324  5  1 Bc  b     b     -         2000  170  270 
+lesmurphy 997255419  5  5 r   -     -     -         2100   70  100 
+lesmurphy 997255426  5  4 r   -     -     -         2130   70  100 
+lesmurphy 997255439  5  3 rf  -     -     -         2160   70    0 
+lesmurphy 997255451  5  2 Bf  -     -     -         2090   20    0 
+lesmurphy 997255471  5  1 Bf  -     -     -         2070   20    0 
+lesmurphy 997255499  5  5 rA  -     -     -         2050 2050  320 Th 3h
+lesmurphy 997255528  5  4 rA  -     -     -          320  320  980 Jd Qs
+lesmurphy 997255572  5  3 f   -     -     -          980    0    0 
+lesmurphy 997255600  5  2 Bk  b     -     -          980  140  200 
+lesmurphy 997255622  5  1 Bc  k     k     b         1040  100  180 
+lesmurphy 997255668  5  5 r   k     f     -         1120  140    0 
+lesmurphy 997255690  5  4 c   k     b     -          980  120  240 
+lesmurphy 997255740  5  3 c   f     -     -         1100   40    0 
+lesmurphy 997255791  5  2 Bf  -     -     -         1060   80    0 
+lesmurphy 997255824  3  1 Bf  -     -     -          980   40    0 
+lesmurphy 997255857  3  3 f   -     -     -          940    0    0 
+lesmurphy 997255886  3  2 Bf  -     -     -          940   80    0 
+lesmurphy 997255894  3  1 BrA -     -     -          860  860 1800 8c Ad
+lesmurphy 997255915  3  3 f   -     -     -         1800    0    0 
+lesmurphy 997255945  3  2 B   -     -     -         1800   80  120 
+lesmurphy 997255962  3  1 Bf  -     -     -         1840   40    0 
+lesmurphy 997255983  3  3 c   k     b     -         1800  280  400 
+lesmurphy 997256006  3  2 Bf  -     -     -         1920   80    0 
+lesmurphy 997256019  2  1 Bc  b     -     -         1840  240  320 
+lesmurphy 997256047  2  2 B   -     -     -         1920   80  120 
+lesmurphy 997256049  2  1 Bf  -     -     -         1960   40    0 
+lesmurphy 997256053  2  2 B   -     -     -         1920   80  120 
+lesmurphy 997256055  2  1 Br  -     -     -         1960  240  320 
+lesmurphy 997256066  2  2 B   -     -     -         2040   80  120 
+lesmurphy 997256067  2  1 Bf  -     -     -         2080   40    0 
+lesmurphy 997256072  2  2 B   -     -     -         2040   80  120 
+lesmurphy 997256073  2  1 Br  -     -     -         2080  240  320 
+lesmurphy 997256079  2  2 B   -     -     -         2160   80  120 
+lesmurphy 997256081  2  1 Bc  k     k     k         2200   80  160 5c 3c
+lesmurphy 997256110  2  2 B   -     -     -         2280  160  240 
+lesmurphy 997256115  2  1 Bf  -     -     -         2360   80    0 
+lesmurphy 997256119  2  2 B   -     -     -         2280  160  240 
+lesmurphy 997256121  2  1 Brf -     -     -         2360  480    0 
+lesmurphy 997256136  2  2 B   -     -     -         1880  160  240 
+lesmurphy 997256139  2  1 Bc  kf    -     -         1960  160    0 
+lesmurphy 997256150  2  2 B   -     -     -         1800  160  240 
+lesmurphy 997256152  2  1 Bc  kf    -     -         1880  160    0 
+lesmurphy 997256163  2  2 B   -     -     -         1720  160  240 
+lesmurphy 997256164  2  1 Bf  -     -     -         1800   80    0 
+lesmurphy 997256167  2  2 B   -     -     -         1720  160  240 
+lesmurphy 997256169  2  1 Bf  -     -     -         1800   80    0 
+lesmurphy 997256172  2  2 BrA -     -     -         1720 1720 3440 Th Td
+lesmurphy 997256183  2  1 Bc  k     kf    -         3440  160    0 
+lesmurphy 997256211  2  2 Bf  -     -     -         3280  160    0 
+lesmurphy 997256215  2  1 Bc  k     k     kr        3120 1440 2880 9h 9c
+lesmurphy 997256233  2  2 Bf  -     -     -         4560  160    0 
+lesmurphy 997256243  2  1 Bf  -     -     -         4400   80    0 
+lesmurphy 997256246  2  2 Bk  k     f     -         4320  160    0 
+lesmurphy 997256258  2  1 Bf  -     -     -         4160   80    0 
+lesmurphy 997256261  2  2 B   -     -     -         4080  160  240 
+lesmurphy 997256263  2  1 Bf  -     -     -         4160   80    0 
+lesmurphy 997256265  2  2 Bk  k     b     -         4080  480  640 
+lesmurphy 997256279  2  1 Br  -     -     -         4240  480  640 
+lesmurphy 997256284  2  2 B   -     -     -         4400  160  240 
+lesmurphy 997256286  2  1 Bf  -     -     -         4480   80    0 
+lesmurphy 997256290  2  2 B   -     -     -         4400  160  240 
+lesmurphy 997256291  2  1 Br  -     -     -         4480  480  640 
+lesmurphy 997256297  2  2 B   -     -     -         4640  160  240 
+lesmurphy 997256298  2  1 Bc  k     kc    k         4720  480    0 8c 7c
+lesmurphy 997256323  2  2 Bf  -     -     -         4240  160    0 
+lesmurphy 997256331  2  1 Bf  -     -     -         4080   80    0 
+lesmurphy 997256334  2  2 B   -     -     -         4000  160  240 
+lesmurphy 997256336  2  1 Br  b     kf    -         4080 1440    0 
+lesmurphy 997256356  2  2 B   -     -     -         2640  160  240 
+lesmurphy 997256358  2  1 Bf  -     -     -         2720   80    0 
+lesmurphy 997256361  2  2 Bk  c     cA    -         2640 2640    0 Kc 5d
+lesmurphy 997256477  2  2 Bk  rA    -     -        10000 10000 10300 
+lesmurphy 997256497  2  1 Bc  kf    -     -        10300  100    0 
+lesmurphy 997256510  2  2 B   -     -     -        10200  100  150 
+lesmurphy 997256515  2  1 Br  -     -     -        10250  300  400 
+lesmurphy 997256520  2  2 Bk  k     f     -        10350  100    0 
+lesmurphy 997256539  2  1 Br  -     -     -        10250  300  400 
+lesmurphy 997256544  2  2 Br  b     -     -        10350  900 1200 
+lesmurphy 997256557  2  1 Bc  kf    -     -        10650  100    0 
+lesmurphy 997256571  2  2 B   -     -     -        10550  100  150 
+lesmurphy 997256574  2  1 Bf  -     -     -        10600   50    0 
+lesmurphy 997256577  2  2 Bf  -     -     -        10550  100    0 
+lesmurphy 997256582  2  1 Bf  -     -     -        10450   50    0 
+lesmurphy 997256585  2  2 B   -     -     -        10400  100  150 
+lesmurphy 997256587  2  1 Br  b     b     -        10450 2700 3600 
+lesmurphy 997256610  2  2 Bk  f     -     -        11350  100    0 
+lesmurphy 997256629  2  1 Bc  b     -     -        11250  300  400 
+lesmurphy 997256643  2  2 Br  k     k     f        11350  300    0 
+lesmurphy 997256666  2  1 Bf  -     -     -        11050   50    0 
+lesmurphy 997256670  2  2 Br  c     k     r        11000 4500 9000 Jh Td
+lesmurphy 997256701  2  1 Bc  k     k     b        15500  200  300 
+lesmurphy 997256735  2  2 B   -     -     -        15600  200  300 
+lesmurphy 997256737  2  1 Br  k     k     k        15700  600    0 2s 3s
+lesmurphy 997256757  2  2 Bc  f     -     -        15100  600    0 
+lesmurphy 997256777  2  1 Bf  -     -     -        14500  100    0 
+lesmurphy 997256781  2  2 B   -     -     -        14400  200  300 
+lesmurphy 997256784  2  1 Bc  kc    kc    b        14500 5400 7200 
+lesmurphy 997256815  2  2 B   -     -     -        16300  200  300 
+lesmurphy 997256820  2  1 Bc  k     k     k        16400  200    0 7c Jc
+lesmurphy 997256838  2  2 Bc  f     -     -        16200  600    0 
+lesmurphy 997256856  2  1 Bf  -     -     -        15600  100    0 
+lesmurphy 997256860  2  2 Bf  -     -     -        15500  200    0 
+lesmurphy 997256865  2  1 Bc  b     -     -        15300  600  800 
+lesmurphy 997256876  2  2 B   -     -     -        15500  200  300 
+lesmurphy 997256878  2  1 Br  bf    -     -        15600 1800    0 
+lesmurphy 997256891  2  2 B   -     -     -        13800  200  300 
+lesmurphy 997256896  2  1 Bf  -     -     -        13900  100    0 
+lesmurphy 997256899  2  2 B   -     -     -        13800  200  300 
+lesmurphy 997256902  2  1 Bc  k     k     k        13900  200  400 Tc 6s
+lesmurphy 997256917  2  2 B   -     -     -        14100  200  300 
+lesmurphy 997256925  2  1 Bf  -     -     -        14200  100    0 
+lesmurphy 997256928  2  2 Bf  -     -     -        14100  200    0 
+lesmurphy 997256933  2  1 Bf  -     -     -        13900  100    0 
+lesmurphy 997256936  2  2 Br  k     k     r        13800 4400 6800 
+lesmurphy 997256985  2  1 Bf  -     -     -        16200  200    0 
+lesmurphy 997256990  2  2 Bf  -     -     -        16000  400    0 
+lesmurphy 997256994  2  1 Br  b     -     -        15600 3600 4800 
+lesmurphy 997257010  2  2 B   -     -     -        16800  400  600 
+lesmurphy 997257015  2  1 Bc  k     k     b        17000  800 1200 
+lesmurphy 997257034  2  2 B   -     -     -        17400  400  600 
+lesmurphy 997257037  2  1 Bc  bf    -     -        17600  800    0 
+lesmurphy 997257057  2  2 B   -     -     -        16800  400  600 
+lesmurphy 997257061  2  1 Bf  -     -     -        17000  200    0 
+lesmurphy 997257064  2  2 B   -     -     -        16800  400  600 
+lesmurphy 997257067  2  1 Bc  b     -     -        17000 1200 1600 
+lesmurphy 997257077  2  2 Bf  -     -     -        17400  400    0 
+lesmurphy 997257083  2  1 Bc  k     kf    -        17000  400    0 
+lesmurphy 997257099  2  2 B   -     -     -        16600  400  600 
+lesmurphy 997257105  2  1 Bf  -     -     -        16800  200    0 
+lesmurphy 997257108  2  2 B   -     -     -        16600  400  600 
+lesmurphy 997257112  2  1 Bf  -     -     -        16800  200    0 
+lesmurphy 997257116  2  2 B   -     -     -        16600  400  600 
+lesmurphy 997257119  2  1 Bf  -     -     -        16800  200    0 
+lesmurphy 997257122  2  2 Br  k     bA    -        16600 16600 17400 
+lesmurphy 997257150  2  1 Bf  -     -     -        17400  200    0 
+lesmurphy 997257155  2  2 B   -     -     -        17200  400  600 
+lesmurphy 997257161  2  1 Br  -     -     -        17400 1200 1600 
+lesmurphy 997257166  2  2 B   -     -     -        17800  400  600 
+lesmurphy 997257169  2  1 Br  kf    -     -        18000 1200    0 
+lesmurphy 997257181  2  2 B   -     -     -        16800  400  600 
+lesmurphy 997257185  2  1 Br  b     -     -        17000 3600  600 Th 3h
+lesmurphy 997257199  2  2 B   -     -     -        14000  400  600 
+lesmurphy 997257206  2  1 Br  kf    -     -        14200 1200    0 
+lesmurphy 997257217  2  2 Bk  k     k     bc       13000 4800    0 7h 5s
+lesmurphy 997257243  2  1 Br  -     -     -         8200 2400 3200 
+lesmurphy 997257254  2  2 B   -     -     -         9000  800 1200 
+lesmurphy 997257260  2  1 Bf  -     -     -         9400  400    0 
+lesmurphy 997257263  2  2 BrA -     -     -         9000 9000 11400 
+lesmurphy 997257274  2  1 Bc  kf    -     -        11400  800    0 
+lesmurphy 997257287  2  2 Br  -     -     -        10600 2400 3200 
+lesmurphy 997257295  2  1 Br  -     -     -        11400 2400 3200 
+lesmurphy 997257301  2  2 Br  rA    -     -        12200 12200 14800 
+lesmurphy 997257338  2  1 Bc  kf    -     -        14800  800    0 
+lesmurphy 997257353  2  2 B   -     -     -        14000  800 1200 
+lesmurphy 997257358  2  1 Bcf -     -     -        14400  800    0 
+lesmurphy 997257366  2  2 Br  c     -     -        13600 6400 12800 3s 7c
+lesmurphy 997258785  2  2 Bf  -     -     -         1000   10    0 
+lesmurphy 997258802  2  1 Bf  -     -     -          990    5    0 
+lesmurphy 997258803  2  2 Bf  -     -     -          985   10    0 
+lesmurphy 997258806  2  1 Bf  -     -     -          975    5    0 
+lesmurphy 997258807  2  2 Bf  -     -     -          970   10    0 
+lesmurphy 997258808  2  1 Bf  -     -     -          960    5    0 
+lesmurphy 997258809  2  2 Bf  -     -     -          955   10    0 
+lesmurphy 997258810  2  1 Bf  -     -     -          945    5    0 
+lesmurphy 997258811  2  2 Bf  -     -     -          940   10    0 
+lesmurphy 997258812  2  1 Bf  -     -     -          930    5    0 
+lesmurphy 997258813  2  2 Bf  -     -     -          925   10    0 
+lesmurphy 997258814  2  1 Bf  -     -     -          915    5    0 
+lesmurphy 997258815  2  2 Bf  -     -     -          910   10    0 
+lesmurphy 997258816  2  1 Bf  -     -     -          900    5    0 
+lesmurphy 997258817  2  2 Bf  -     -     -          895   10    0 
+lesmurphy 997258818  2  1 Bf  -     -     -          885    5    0 
+lesmurphy 997258819  2  2 Bf  -     -     -          880   10    0 
+lesmurphy 997258820  2  1 Bf  -     -     -          870    5    0 
+lesmurphy 997258821  2  2 Bf  -     -     -          865   10    0 
+lesmurphy 997258822  2  1 Bf  -     -     -          855    5    0 
+lesmurphy 997258823  2  2 Bf  -     -     -          850   10    0 
+lesmurphy 997258824  2  1 Bf  -     -     -          840    5    0 
+lesmurphy 997258825  2  2 Bf  -     -     -          835   10    0 
+lesmurphy 997258826  2  1 Bf  -     -     -          825    5    0 
+lesmurphy 997258827  2  2 Bf  -     -     -          820   10    0 
+lesmurphy 997258828  2  1 Bf  -     -     -          810    5    0 
+lesmurphy 997258829  2  2 Bf  -     -     -          805   10    0 
+lesmurphy 997258830  2  1 Bf  -     -     -          795    5    0 
+lesmurphy 997258831  2  2 Bf  -     -     -          790   10    0 
+lesmurphy 997258832  2  1 Bf  -     -     -          780    5    0 
+lesmurphy 997258833  2  2 Bf  -     -     -          775   10    0 
+lesmurphy 997258834  2  1 Bf  -     -     -          765    5    0 
+lesmurphy 997258835  2  2 Bf  -     -     -          760   10    0 
+lesmurphy 997258838  2  1 Bf  -     -     -          750    5    0 
+lesmurphy 997258839  2  2 Bf  -     -     -          745   10    0 
+lesmurphy 997258840  2  1 Bf  -     -     -          735    5    0 
+lesmurphy 997258841  2  2 Bf  -     -     -          730   10    0 
+lesmurphy 997258842  2  1 Bf  -     -     -          720    5    0 
+lesmurphy 997258843  2  2 Bf  -     -     -          715   10    0 
+lesmurphy 997258844  2  1 Bf  -     -     -          705    5    0 
+lesmurphy 997258845  2  2 Bf  -     -     -          700   10    0 
+lesmurphy 997258847  2  1 Bf  -     -     -          690    5    0 
+lesmurphy 997258848  2  2 Bf  -     -     -          685   10    0 
+lesmurphy 997258849  2  1 Bf  -     -     -          675    5    0 
+lesmurphy 997258850  2  2 Bf  -     -     -          670   10    0 
+lesmurphy 997258851  2  1 Bf  -     -     -          660    5    0 
+lesmurphy 997258852  2  2 Bf  -     -     -          655   10    0 
+lesmurphy 997258853  2  1 Bf  -     -     -          645    5    0 
+lesmurphy 997258854  2  2 Bf  -     -     -          640   10    0 
+lesmurphy 997258855  2  1 Bf  -     -     -          630    5    0 
+lesmurphy 997258856  2  2 Bf  -     -     -          625   10    0 
+lesmurphy 997258859  2  1 Bf  -     -     -          615    5    0 
+lesmurphy 997258860  2  2 Bf  -     -     -          610   10    0 
+lesmurphy 997258861  2  1 Bf  -     -     -          600    5    0 
+lesmurphy 997258862  2  2 Bf  -     -     -          595   10    0 
+lesmurphy 997258863  2  1 Bf  -     -     -          585    5    0 
+lesmurphy 997258864  2  2 Bf  -     -     -          580   10    0 
+lesmurphy 997258865  2  1 Bf  -     -     -          570    5    0 
+lesmurphy 997258866  2  2 Bf  -     -     -          565   10    0 
+lesmurphy 997258910  2  1 Bf  -     -     -          555   10    0 
+lesmurphy 997258911  2  2 Bf  -     -     -          545   20    0 
+lesmurphy 997258912  2  1 Bf  -     -     -          525   10    0 
+lesmurphy 997258913  2  2 Bf  -     -     -          515   20    0 
+lesmurphy 997258914  2  1 Bf  -     -     -          495   10    0 
+lesmurphy 997258915  2  2 Bf  -     -     -          485   20    0 
+lesmurphy 997258916  2  1 Bf  -     -     -          465   10    0 
+lesmurphy 997258917  2  2 Bf  -     -     -          455   20    0 
+lesmurphy 997258918  2  1 Bf  -     -     -          435   10    0 
+lesmurphy 997258919  2  2 Bf  -     -     -          425   20    0 
+lesmurphy 997258920  2  1 Bf  -     -     -          405   10    0 
+lesmurphy 997258921  2  2 Bf  -     -     -          395   20    0 
+lesmurphy 997258922  2  1 Bf  -     -     -          375   10    0 
+lesmurphy 997258923  2  2 Bf  -     -     -          365   20    0 
+lesmurphy 997258924  2  1 Bf  -     -     -          345   10    0 
+lesmurphy 997258925  2  2 Bf  -     -     -          335   20    0 
+lesmurphy 997258926  2  1 Bf  -     -     -          315   10    0 
+lesmurphy 997258927  2  2 Bf  -     -     -          305   20    0 
+lesmurphy 997258928  2  1 Bf  -     -     -          285   10    0 
+lesmurphy 997258929  2  2 Bf  -     -     -          275   20    0 
+lesmurphy 997258932  2  1 Bf  -     -     -          255   10    0 
+lesmurphy 997258933  2  2 Bf  -     -     -          245   20    0 
+lesmurphy 997258934  2  1 Bf  -     -     -          225   10    0 
+lesmurphy 997258935  2  2 Bf  -     -     -          215   20    0 
+lesmurphy 997258936  2  1 Bf  -     -     -          195   10    0 
+lesmurphy 997258937  2  2 Bf  -     -     -          185   20    0 
+lesmurphy 997258940  2  1 Bf  -     -     -          165   10    0 
+lesmurphy 997258941  2  2 Bf  -     -     -          155   20    0 
+lesmurphy 997258942  2  1 Bf  -     -     -          135   10    0 
+lesmurphy 997258943  2  2 Bf  -     -     -          125   20    0 
+lesmurphy 997258944  2  1 Bf  -     -     -          105   10    0 
+lesmurphy 997258945  2  2 Bf  -     -     -           95   20    0 
+lesmurphy 997258948  2  1 Bf  -     -     -           75   10    0 
+lesmurphy 997258949  2  2 Bf  -     -     -           65   20    0 
+lesmurphy 997258950  2  1 Bf  -     -     -           45   10    0 
+lesmurphy 997258951  2  2 Bf  -     -     -           35   20    0 
+lesmurphy 997258952  2  1 Bf  -     -     -           15   10    0 
+lesmurphy 997258953  2  2 BA  -     -     -            5    5   10 Ks 6c
+lesmurphy 997258954  2  1 BA  -     -     -           10   10   20 Kh Tc
+lesmurphy 997258955  2  2 BA  -     -     -           20   20    0 6d Tc
+lesmurphy 998288247  9  8 f   -     -     -        10000    0    0 
+lesmurphy 998288327  9  7 f   -     -     -        10000    0    0 
+lesmurphy 998288396  9  6 rA  -     -     -        10000 10000 10950 
+lesmurphy 998288441  9  5 f   -     -     -        10950    0    0 
+lesmurphy 998288523  8  4 f   -     -     -        10950    0    0 
+lesmurphy 998288596  8  3 r   b     -     -        10950 1800 3300 
+lesmurphy 998288679  8  2 Bf  -     -     -        12450  400    0 
+lesmurphy 998288712  8  1 Bc  bf    -     -        12050 2000    0 
+lesmurphy 998288770  7  7 f   -     -     -        10050    0    0 
+lesmurphy 998288831  7  6 crA -     -     -        10050 10050    0 Tc Js
+lesmurphy 998290096 10  4 f   -     -     -        10000    0    0 
+lesmurphy 998290198  9  3 f   -     -     -        10000    0    0 
+lesmurphy 998290262  9  2 Bf  -     -     -        10000  200    0 
+lesmurphy 998290322  9  1 Bf  -     -     -         9800  100    0 
+lesmurphy 998290397  9  9 f   -     -     -         9700    0    0 
+lesmurphy 998290484  9  8 f   -     -     -         9700    0    0 
+lesmurphy 998290551  9  7 f   -     -     -         9700    0    0 
+lesmurphy 998290632  9  6 f   -     -     -         9700    0    0 
+lesmurphy 998290687  8  4 f   -     -     -         9700    0    0 
+lesmurphy 998290757  8  4 f   -     -     -         9700    0    0 
+lesmurphy 998290812  8  3 f   -     -     -         9700    0    0 
+lesmurphy 998290861  8  2 Bf  -     -     -         9700  800    0 
+lesmurphy 998290942  8  1 Bf  -     -     -         8900  400    0 
+lesmurphy 998291028  7  7 f   -     -     -         8500    0    0 
+lesmurphy 998291114  7  6 f   -     -     -         8500    0    0 
+lesmurphy 998291206  7  5 f   -     -     -         8500    0    0 
+lesmurphy 998291298  6  4 f   -     -     -         8500    0    0 
+lesmurphy 998291394  5  3 f   -     -     -         8500    0    0 
+lesmurphy 998291415  5  2 Bk  k     k     kf        8500 1600    0 
+lesmurphy 998291438  5  1 Bf  -     -     -         6900  800    0 
+lesmurphy 998291449  5  5 f   -     -     -         6100    0    0 
+lesmurphy 998291451  5  4 f   -     -     -         6100    0    0 
+lesmurphy 998291482  5  3 f   -     -     -         6100    0    0 
+lesmurphy 998291500  4  2 Bf  -     -     -         6100 1600    0 
+lesmurphy 998291563  4  1 Bf  -     -     -         4500 1600    0 
+lesmurphy 998291571  4  4 f   -     -     -         2900    0    0 
+lesmurphy 998291602  4  3 f   -     -     -         2900    0    0 
+lesmurphy 998291648  4  2 BA  -     -     -         2900 2900 4500 
+lesmurphy 998291675  4  1 Bf  -     -     -         4500 1600    0 
+lesmurphy 998291752  4  4 f   -     -     -         2900    0    0 
+lesmurphy 998291830  3  2 cA  -     -     -         2900 2900    0 8h Ad
+lesmurphy 998292701  4  2 Bf  -     -     -         2500   10    0 
+lesmurphy 998292756  3  1 Bc  k     k     k         2490   10    0 6c Js
+lesmurphy 998292792  3  3 r   k     k     f         2480   35    0 
+lesmurphy 998292851  3  2 Bk  k     c     f         2445   40    0 
+lesmurphy 998292905  3  1 Brf -     -     -         2405   40    0 
+lesmurphy 998292933  3  3 cf  -     -     -         2365   10    0 
+lesmurphy 998292973  3  2 Bc  k     k     b         2355  160    0 2h 4h
+lesmurphy 998293027  3  1 Bc  bf    -     -         2195   40    0 
+lesmurphy 998293140  3  3 r   -     -     -         2155   70  100 
+lesmurphy 998293153  3  2 Br  b     -     -         2185  180  240 
+lesmurphy 998293170  3  1 Brc krA   -     -         2245 2245 4510 Tc Ah
+lesmurphy 998293195  3  3 r   -     -     -         4510   70  100 
+lesmurphy 998293208  3  2 Br  b     k     k         4540  180  360 Qd 8s
+lesmurphy 998293236  3  1 Bcc k     bf    -         4720  200    0 
+lesmurphy 998293274  3  3 f   -     -     -         4520    0    0 
+lesmurphy 998293304  3  2 Brf -     -     -         4520  220    0 
+lesmurphy 998293335  3  1 Br  bf    -     -         4300  320    0 
+lesmurphy 998293366  3  3 r   b     -     -         3980  230  320 
+lesmurphy 998293402  3  2 Bf  -     -     -         4070   20    0 
+lesmurphy 998293454  3  1 Bcrc krA   -     -         4050 4050 1080 4d Ac
+lesmurphy 998293481  3  3 c   k     k     k         1080   20    0 8h Jc
+lesmurphy 998293516  3  2 BrrA -     -     -         1060 1060    0 2h Ad
+lesmurphy 998295257  3  2 Bk  k     k     b         2500   35   75 Ac 3d
+lesmurphy 998295292  3  1 Br  k     k     k         2540   30   60 9h Jd
+lesmurphy 998295325  3  3 c   k     k     f         2570   10    0 
+lesmurphy 998295358  3  2 Bk  b     b     -         2560  535  575 
+lesmurphy 998295387  3  1 Bc  k     k     k         2600   10   20 8d 7c
+lesmurphy 998295408  3  3 r   k     k     k         2610   35   80 As 9d
+lesmurphy 998295433  3  2 Bk  kr    b     kc        2655 1010 2025 Js Ah
+lesmurphy 998295464  3  1 BcrrA -     -     -         3670 3670 2305 Ah Kc
+lesmurphy 998295497  3  3 r   b     k     k         2305  115    0 7d 5s
+lesmurphy 998295539  3  2 B   -     -     -         2190   10   15 
+lesmurphy 998295545  3  1 Bc  k     k     k         2195   10   20 Ac Jd
+lesmurphy 998295567  3  3 r   k     b     -         2205  115  160 
+lesmurphy 998295591  3  2 Bk  k     b     -         2250   35   50 
+lesmurphy 998295612  3  1 Bc  k     k     kf        2265   10    0 
+lesmurphy 998295694  3  3 rf  -     -     -         2255   70    0 
+lesmurphy 998295774  3  2 Bk  k     k     k         2185   20   40 Qd 4d
+lesmurphy 998295814  3  1 Br  k     k     b         2205  320  720 9s Ad
+lesmurphy 998295858  3  3 crc rA    -     -         2605 2605 5230 6d 6h
+lesmurphy 998295922  3  2 B   -     -     -         5230   20   30 
+lesmurphy 998295934  3  1 Bc  k     kf    -         5240   20    0 
+lesmurphy 998295964  3  3 f   -     -     -         5220    0    0 
+lesmurphy 998295990  3  2 Br  b     k     k         5220  120    0 7h Ac
+lesmurphy 998296024  3  1 Bc  kf    -     -         5100   70    0 
+lesmurphy 998296081  3  3 f   -     -     -         5030    0    0 
+lesmurphy 998296107  3  2 Bk  k     k     f         5030   20    0 
+lesmurphy 998296129  3  1 Bcc kf    -     -         5010  120    0 
+lesmurphy 998296148  3  3 f   -     -     -         4890    0    0 
+lesmurphy 998296198  3  2 Bk  b     k     k         4890  120  240 3c Kd
+lesmurphy 998296246  3  1 Bc  -     -     -         5010  120  280 5h 4h
+lesmurphy 998296267  2  2 Bk  b     -     -         5170  120  160 
+lesmurphy 998296310  2  1 Bcf -     -     -         5210   40    0 
+lesmurphy 998296322  2  2 Bk  k     k     f         5170   40    0 
+lesmurphy 998296347  2  1 Bc  k     k     k         5130   40   80 Qd Qh
+lesmurphy 998296366  2  2 B   -     -     -         5170   40   60 
+lesmurphy 998296373  2  1 Bc  k     k     kc        5190  120    0 3c 9c
+lesmurphy 998296395  2  2 Br  b     -     -         5070  360  480 
+lesmurphy 998296416  2  1 Bc  b     -     -         5190  120  160 
+lesmurphy 998296427  2  2 Bk  b     k     b         5230  360  480 
+lesmurphy 998296476  2  1 Br  -     -     -         5350  120  160 
+lesmurphy 998296483  2  2 B   -     -     -         5390   40   60 
+lesmurphy 998296485  2  1 Br  kf    -     -         5410  120    0 
+lesmurphy 998296499  2  2 Br  k     f     -         5290  140    0 
+lesmurphy 998296518  2  1 Bf  -     -     -         5150   20    0 
+lesmurphy 998296521  2  2 Brf -     -     -         5130  120    0 
+lesmurphy 998296531  2  1 Bf  -     -     -         5010   20    0 
+lesmurphy 998296533  2  2 B   -     -     -         4990   40   60 
+lesmurphy 998296536  2  1 Bf  -     -     -         5010   20    0 
+lesmurphy 998296541  2  2 B   -     -     -         4990   40   60 
+lesmurphy 998296544  2  1 Bc  kf    -     -         5010   40    0 
+lesmurphy 998296554  2  2 Bk  k     k     k         4970   80    0 9s 6s
+lesmurphy 998296575  2  1 Bf  -     -     -         4890   40    0 
+lesmurphy 998296581  2  2 B   -     -     -         4850   80  120 
+lesmurphy 998296582  2  1 Bc  b     -     -         4890  160  240 
+lesmurphy 998296612  2  2 B   -     -     -         4970   80  120 
+lesmurphy 998296620  2  1 Br  k     krA   -         5010 5010 2520 6s Ks
+lesmurphy 998296647  2  2 Bk  k     k     k         2520   80    0 Ac 4d
+lesmurphy 998296685  2  1 Bc  k     k     kf        2440   80    0 
+lesmurphy 998296708  2  2 Bk  k     k     k         2360   80  160 7c 9d
+lesmurphy 998296728  2  1 Bc  k     k     k         2440   80    0 8s Qd
+lesmurphy 998296750  2  2 B   -     -     -         2360   80  120 
+lesmurphy 998296755  2  1 Bc  b     b     k         2400  720    0 3s 4h
+lesmurphy 998296778  2  2 Br  k     k     k         1680  240  480 7d Ah
+lesmurphy 998296802  2  1 Bc  k     k     b         1920  240  480 Ah Ad
+lesmurphy 998296827  2  2 Bk  k     k     f         2160   80    0 
+lesmurphy 998296853  2  1 Bf  -     -     -         2080   40    0 
+lesmurphy 998296856  2  2 Bk  k     k     b         2040  160  240 
+lesmurphy 998296879  2  1 Bc  b     -     -         2120  160  240 
+lesmurphy 998296894  2  2 Br  b     k     f         2200  480    0 
+lesmurphy 998296923  2  1 Bc  k     kf    -         1720   80    0 
+lesmurphy 998296941  2  2 Bk  k     b     k         1640  160  320 Qs Ks
+lesmurphy 998296971  2  1 Br  b     -     -         1800  720  960 
+lesmurphy 998296985  2  2 Bk  k     k     k         2040  160    0 2c 5h
+lesmurphy 998297008  2  1 Bf  -     -     -         1880   80    0 
+lesmurphy 998297014  2  2 B   -     -     -         1800  160  240 
+lesmurphy 998297018  2  1 Bf  -     -     -         1880   80    0 
+lesmurphy 998297021  2  2 B   -     -     -         1800  160  240 
+lesmurphy 998297023  2  1 Bf  -     -     -         1880   80    0 
+lesmurphy 998297024  2  2 B   -     -     -         1800  160  240 
+lesmurphy 998297027  2  1 Bc  b     -     -         1880  480  640 
+lesmurphy 998297044  2  2 Bk  k     k     b         2040  480  640 
+lesmurphy 998297071  2  1 Bf  -     -     -         2200   80    0 
+lesmurphy 998297075  2  2 Br  bA    -     -         2120 2120 2600 
+lesmurphy 998297097  2  1 Bc  k     k     kf        2600  160    0 
+lesmurphy 998297120  2  2 B   -     -     -         2440  160  240 
+lesmurphy 998297123  2  1 Br  k     bA    -         2520 2520    0 Ts Ad
+lesmurphy 998297181  2  1 Bc  b     -     -        10000  150  200 
+lesmurphy 998297201  2  2 B   -     -     -        10050   50   75 
+lesmurphy 998297204  2  1 Br  -     -     -        10075  150  200 
+lesmurphy 998297210  2  2 Br  k     k     b        10125  450  600 
+lesmurphy 998297237  2  1 Bc  k     k     k        10275   50  100 4c Jc
+lesmurphy 998297255  2  2 B   -     -     -        10325   50   75 
+lesmurphy 998297261  2  1 Br  k     b     -        10350 1150 1300 
+lesmurphy 998297288  2  2 Bk  k     f     -        10500   50    0 
+lesmurphy 998297304  2  1 Bf  -     -     -        10450   25    0 
+lesmurphy 998297319  2  2 B   -     -     -        10425   50   75 
+lesmurphy 998297324  2  1 Bc  b     b     b        10450  400  600 
+lesmurphy 998297355  2  2 Br  k     k     f        10650  150    0 
+lesmurphy 998297379  2  1 Bc  k     k     b        10500  100  150 
+lesmurphy 998297401  2  2 B   -     -     -        10550   50   75 
+lesmurphy 998297405  2  1 Bf  -     -     -        10575   25    0 
+lesmurphy 998297408  2  2 B   -     -     -        10550   50   75 
+lesmurphy 998297412  2  1 Bf  -     -     -        10575   25    0 
+lesmurphy 998297414  2  2 Bk  k     k     k        10550   50    0 Td 3d
+lesmurphy 998297431  2  1 Bf  -     -     -        10500   25    0 
+lesmurphy 998297437  2  2 Bk  k     k     k        10475  100  200 2c Ac
+lesmurphy 998297450  2  1 Bf  -     -     -        10575   50    0 
+lesmurphy 998297456  2  2 Bk  k     f     -        10525  100    0 
+lesmurphy 998297465  2  1 Bf  -     -     -        10425   50    0 
+lesmurphy 998297467  2  2 Bk  k     k     f        10375  100    0 
+lesmurphy 998297478  2  1 Bf  -     -     -        10275   50    0 
+lesmurphy 998297480  2  2 Bk  k     k     k        10225  100  200 6h Ts
+lesmurphy 998297492  2  1 Bc  b     -     -        10325  200  300 
+lesmurphy 998297535  2  2 B   -     -     -        10425  100  150 
+lesmurphy 998297538  2  1 B   -     -     -        10475   50  150 
+lesmurphy 998375672  2  1 Br  b     kf    -        10000  450    0 
+lesmurphy 998375696  2  2 Br  k     b     b         9550 1350    0 Qc 7d
+lesmurphy 998375730  2  1 Br  k     k     k         8200  150  150 Ad 3s
+lesmurphy 998375757  2  2 B   -     -     -         8200   50   75 
+lesmurphy 998375763  2  1 Bc  k     b     -         8225  150  200 
+lesmurphy 998375776  2  2 Br  k     k     f         8275  150    0 
+lesmurphy 998375805  2  1 Bc  b     b     b         8125 1350 2700 Ah Jd
+lesmurphy 998375822  2  2 B   -     -     -         9475   50   75 
+lesmurphy 998375830  2  1 Bf  -     -     -         9500   25    0 
+lesmurphy 998375833  2  2 B   -     -     -         9475   50   75 
+lesmurphy 998375836  2  1 Bf  -     -     -         9500   25    0 
+lesmurphy 998375838  2  2 Bk  k     f     -         9475   50    0 
+lesmurphy 998375849  2  1 Bc  b     k     bf        9425  450    0 
+lesmurphy 998375872  2  2 Bc  c     k     f         8975  450    0 
+lesmurphy 998375896  2  1 Bf  -     -     -         8525   25    0 
+lesmurphy 998375898  2  2 Bk  k     k     k         8500   50    0 Jc 9h
+lesmurphy 998375913  2  1 Br  b     b     -         8450 1350 1800 
+lesmurphy 998375928  2  2 B   -     -     -         8900   50   75 
+lesmurphy 998375931  2  1 Bc  k     k     kf        8925   50    0 
+lesmurphy 998375949  2  2 Bk  f     -     -         8875   50    0 
+lesmurphy 998375958  2  1 Bf  -     -     -         8825   25    0 
+lesmurphy 998375960  2  2 Bk  k     k     k         8800   50    0 2h 8c
+lesmurphy 998375985  2  1 Bc  k     b     -         8750  200  300 
+lesmurphy 998376002  2  2 B   -     -     -         8850  100  150 
+lesmurphy 998376005  2  1 Bf  -     -     -         8900   50    0 
+lesmurphy 998376008  2  2 B   -     -     -         8850  100  150 
+lesmurphy 998376010  2  1 Bf  -     -     -         8900   50    0 
+lesmurphy 998376012  2  2 Br  k     k     f         8850  300    0 
+lesmurphy 998376032  2  1 Bf  -     -     -         8550   50    0 
+lesmurphy 998376034  2  2 Bk  k     b     b         8500  900 1200 
+lesmurphy 998376055  2  1 Bf  -     -     -         8800   50    0 
+lesmurphy 998376058  2  2 Bk  k     b     k         8750  300  600 Kh 5h
+lesmurphy 998376082  2  1 Bc  b     b     kf        9050  900    0 
+lesmurphy 998376108  2  2 Bk  k     k     k         8150  100    0 5d 6s
+lesmurphy 998376123  2  1 Bc  b     b     b         8050 1800 3600 3s 3d
+lesmurphy 998376156  2  2 Bk  k     k     k         9850  100  100 3c Ad
+lesmurphy 998376182  2  1 Br  -     -     -         9850  300  400 
+lesmurphy 998376193  2  2 Br  k     k     k         9950  300    0 7d As
+lesmurphy 998376210  2  1 Bcc kc    kf    -         9650  900    0 
+lesmurphy 998376232  2  2 Bk  k     k     k         8750  100    0 4d 2h
+lesmurphy 998376247  2  1 Bf  -     -     -         8650   50    0 
+lesmurphy 998376253  2  2 B   -     -     -         8600  100  150 
+lesmurphy 998376256  2  1 Bf  -     -     -         8650   50    0 
+lesmurphy 998376259  2  2 B   -     -     -         8600  100  150 
+lesmurphy 998376260  2  1 Bf  -     -     -         8650   50    0 
+lesmurphy 998376268  2  2 Bk  k     k     f         8600  100    0 
+lesmurphy 998376281  2  1 Bf  -     -     -         8500   50    0 
+lesmurphy 998376284  2  2 Bk  k     b     -         8450  300  400 
+lesmurphy 998376298  2  1 Bf  -     -     -         8550  100    0 
+lesmurphy 998376301  2  2 B   -     -     -         8450  200  300 
+lesmurphy 998376303  2  1 Bf  -     -     -         8550  100    0 
+lesmurphy 998376305  2  2 Bk  k     k     c         8450  600  600 Kh 5c
+lesmurphy 998376320  2  1 Br  k     bA    -         8450 8450 9050 
+lesmurphy 998376344  2  2 Bk  b     -     -         9050  600  800 
+lesmurphy 998376356  2  1 Bc  k     k     b         9250  600  800 
+lesmurphy 998376388  2  2 Br  k     k     b         9450 1800 3600 Kd 7s
+lesmurphy 998376418  2  1 Bf  -     -     -        11250  100    0 
+lesmurphy 998376427  2  2 Bk  k     k     k        11150  200    0 4c 8d
+lesmurphy 998376797  2  1 Bf  -     -     -        10950  200    0 
+lesmurphy 998376798  2  2 Bk  k     k     k        10750  400  800 Kh Th
+lesmurphy 998376820  2  1 Bf  -     -     -        11150  200    0 
+lesmurphy 998376821  2  2 Bk  b     k     k        10950 1200    0 As 4c
+lesmurphy 998376859  2  1 Bf  -     -     -         9750  200    0 
+lesmurphy 998376867  2  2 B   -     -     -         9550  400  600 
+lesmurphy 998376870  2  1 Bf  -     -     -         9750  200    0 
+lesmurphy 998376871  2  2 Bk  k     k     k         9550  400  800 3d 7s
+lesmurphy 998376887  2  1 Br  -     -     -         9950 1000 1400 
+lesmurphy 998376892  2  2 Br  b     -     -        10350 3600 4800 
+lesmurphy 998376902  2  1 Br  -     -     -        11550 1000 1400 
+lesmurphy 998376904  2  2 B   -     -     -        11950  400  600 
+lesmurphy 998376906  2  1 Bf  -     -     -        12150  200    0 
+lesmurphy 998376909  2  2 B   -     -     -        11950  400  600 
+lesmurphy 998376910  2  1 Bf  -     -     -        12150  200    0 
+lesmurphy 998376912  2  2 Bk  k     k     k        11950  400    0 Qh 9h
+lesmurphy 998376932  2  1 Bf  -     -     -        11550  200    0 
+lesmurphy 998376936  2  2 B   -     -     -        11350  400  600 
+lesmurphy 998376939  2  1 Bc  k     k     bf       11550  800    0 
+lesmurphy 998376954  2  2 Bk  k     k     f        10750  400    0 
+lesmurphy 998376974  2  1 Bf  -     -     -        10350  200    0 
+lesmurphy 998376975  2  2 Bc  k     k     b        10150 2400    0 As 3h
+lesmurphy 998377001  2  1 Br  -     -     -         7750 1000 1400 
+lesmurphy 998377011  2  2 B   -     -     -         8150  400  600 
+lesmurphy 998377013  2  1 Br  -     -     -         8350 1000 1400 
+lesmurphy 998377015  2  2 Bk  k     k     k         8750  400    0 Ts 5s
+lesmurphy 998377034  2  1 Bc  k     k     k         8350  400  800 3c 3d
+lesmurphy 998377050  2  2 B   -     -     -         8750  400  600 
+lesmurphy 998377055  2  1 Bcf -     -     -         8950  400    0 
+lesmurphy 998377060  2  2 Bf  -     -     -         8550  400    0 
+lesmurphy 998377064  2  1 Bf  -     -     -         8150  200    0 
+lesmurphy 998377066  2  2 B   -     -     -         7950  400  600 
+lesmurphy 998377068  2  1 Bf  -     -     -         8150  200    0 
+lesmurphy 998377070  2  2 Br  bA    -     -         7950 7950 9150 
+lesmurphy 998377086  2  1 Bf  -     -     -         9150  200    0 
+lesmurphy 998377092  2  2 B   -     -     -         8950  400  600 
+lesmurphy 998377095  2  1 Bf  -     -     -         9150  200    0 
+lesmurphy 998377096  2  2 Bk  k     k     k         8950  400    0 4h 8d
+lesmurphy 998377113  2  1 Br  -     -     -         8550 2000 2800 
+lesmurphy 998377119  2  2 B   -     -     -         9350  800 1200 
+lesmurphy 998377121  2  1 Bc  k     kf    -         9750  800    0 
+lesmurphy 998377139  2  2 Bk  b     bA    -         8950 8950 10550 
+lesmurphy 998377171  2  1 Bf  -     -     -        10550  400    0 
+lesmurphy 998377175  2  2 B   -     -     -        10150  800 1200 
+lesmurphy 998377178  2  1 Bf  -     -     -        10550  400    0 
+lesmurphy 998377180  2  2 B   -     -     -        10150  800 1200 
+lesmurphy 998377182  2  1 Bf  -     -     -        10550  400    0 
+lesmurphy 998377185  2  2 Bk  k     k     k        10150  800 1600 Ts Ac
+lesmurphy 998377203  2  1 Bf  -     -     -        10950  400    0 
+lesmurphy 998377213  2  2 B   -     -     -        10550  800 1200 
+lesmurphy 998377215  2  1 Br  -     -     -        10950 2000 2800 
+lesmurphy 998377220  2  2 Bf  -     -     -        11750  800    0 
+lesmurphy 998377227  2  1 Bf  -     -     -        10950  400    0 
+lesmurphy 998377230  2  2 B   -     -     -        10550  800 1200 
+lesmurphy 998377232  2  1 Br  -     -     -        10950 2000 2800 
+lesmurphy 998377237  2  2 Bk  k     k     k        11750  800  800 7c 4c
+lesmurphy 998377255  2  1 Br  kf    -     -        11750 2000    0 
+lesmurphy 998377270  2  2 Bk  b     k     k         9750 1600 3200 8d Qh
+lesmurphy 998377300  2  1 Bf  -     -     -        11350  400    0 
+lesmurphy 998377307  2  2 Bk  b     -     -        10950 2400 3200 
+lesmurphy 998377317  2  1 Bc  k     k     b        11750 1600 2400 
+lesmurphy 998377334  2  2 B   -     -     -        12550  800 1200 
+lesmurphy 998377335  2  1 Brf -     -     -        12950 2000    0 
+lesmurphy 998377348  2  2 Bf  -     -     -        10950  800    0 
+lesmurphy 998377353  2  1 Bf  -     -     -        10150  400    0 
+lesmurphy 998377354  2  2 Bk  k     k     k         9750  800    0 2h 7s
+lesmurphy 998377381  2  1 Bf  -     -     -         8950  400    0 
+lesmurphy 998377383  2  2 B   -     -     -         8550  800 1200 
+lesmurphy 998377387  2  1 Bc  k     b     bcA       8950 8950    0 Ac 5s
+lesmurphy 998395429  7  6 f   -     -     -        10000    0    0 
+lesmurphy 998395507  7  5 f   -     -     -        10000    0    0 
+lesmurphy 998395532  7  4 f   -     -     -        10000    0    0 
+lesmurphy 998395569  7  3 f   -     -     -        10000    0    0 
+lesmurphy 998395586  7  2 Bf  -     -     -        10000   50    0 
+lesmurphy 998395608  7  1 Bf  -     -     -         9950   25    0 
+lesmurphy 998395622  7  7 f   -     -     -         9925    0    0 
+lesmurphy 998395627  7  6 f   -     -     -         9925    0    0 
+lesmurphy 998395639  7  5 f   -     -     -         9925    0    0 
+lesmurphy 998395660  7  4 f   -     -     -         9925    0    0 
+lesmurphy 998395683  7  3 f   -     -     -         9925    0    0 
+lesmurphy 998395702  7  2 Bk  k     kf    -         9925  100    0 
+lesmurphy 998395729  7  1 Bf  -     -     -         9825   50    0 
+lesmurphy 998395746  7  7 f   -     -     -         9775    0    0 
+lesmurphy 998395774  7  6 f   -     -     -         9775    0    0 
+lesmurphy 998395780  7  5 f   -     -     -         9775    0    0 
+lesmurphy 998395793  7  4 f   -     -     -         9775    0    0 
+lesmurphy 998395806  7  3 f   -     -     -         9775    0    0 
+lesmurphy 998395823  7  2 Bk  k     k     kf        9775  100    0 
+lesmurphy 998395855  7  1 Bf  -     -     -         9675  100    0 
+lesmurphy 998395864  7  7 f   -     -     -         9575    0    0 
+lesmurphy 998395871  7  6 f   -     -     -         9575    0    0 
+lesmurphy 998395878  7  5 f   -     -     -         9575    0    0 
+lesmurphy 998395893  7  4 f   -     -     -         9575    0    0 
+lesmurphy 998395899  7  3 f   -     -     -         9575    0    0 
+lesmurphy 998395917  7  2 Bf  -     -     -         9575  200    0 
+lesmurphy 998395928  7  1 Bf  -     -     -         9375  100    0 
+lesmurphy 998395947  7  7 f   -     -     -         9275    0    0 
+lesmurphy 998395973  7  6 f   -     -     -         9275    0    0 
+lesmurphy 998395992  7  5 f   -     -     -         9275    0    0 
+lesmurphy 998396013  7  4 f   -     -     -         9275    0    0 
+lesmurphy 998396029  7  3 f   -     -     -         9275    0    0 
+lesmurphy 998396040  7  2 Bk  kf    -     -         9275  200    0 
+lesmurphy 998396061  7  1 Bf  -     -     -         9075  200    0 
+lesmurphy 998396083  7  7 f   -     -     -         8875    0    0 
+lesmurphy 998396093  7  6 f   -     -     -         8875    0    0 
+lesmurphy 998396097  7  5 f   -     -     -         8875    0    0 
+lesmurphy 998396101  7  4 f   -     -     -         8875    0    0 
+lesmurphy 998396106  7  3 f   -     -     -         8875    0    0 
+lesmurphy 998396124  7  2 Bf  -     -     -         8875  400    0 
+lesmurphy 998396134  7  1 Bf  -     -     -         8475  200    0 
+lesmurphy 998396148  6  6 f   -     -     -         8275    0    0 
+lesmurphy 998396157  6  5 f   -     -     -         8275    0    0 
+lesmurphy 998396162  6  4 f   -     -     -         8275    0    0 
+lesmurphy 998396174  6  3 f   -     -     -         8275    0    0 
+lesmurphy 998396191  6  2 B   -     -     -         8275  400  600 
+lesmurphy 998396196  6  1 Bf  -     -     -         8475  200    0 
+lesmurphy 998396202  6  6 f   -     -     -         8275    0    0 
+lesmurphy 998396215  6  5 f   -     -     -         8275    0    0 
+lesmurphy 998396219  6  4 f   -     -     -         8275    0    0 
+lesmurphy 998396222  6  3 f   -     -     -         8275    0    0 
+lesmurphy 998396240  6  2 Bk  k     k     k         8275  400 1200 3s 3d
+lesmurphy 998396268  6  1 Bf  -     -     -         9075  400    0 
+lesmurphy 998396277  6  6 f   -     -     -         8675    0    0 
+lesmurphy 998396281  6  5 f   -     -     -         8675    0    0 
+lesmurphy 998396299  6  4 f   -     -     -         8675    0    0 
+lesmurphy 998396302  6  3 f   -     -     -         8675    0    0 
+lesmurphy 998396307  6  2 Bf  -     -     -         8675  800    0 
+lesmurphy 998396312  6  1 Bf  -     -     -         7875  400    0 
+lesmurphy 998396325  6  6 f   -     -     -         7475    0    0 
+lesmurphy 998396339  6  5 f   -     -     -         7475    0    0 
+lesmurphy 998396346  6  4 f   -     -     -         7475    0    0 
+lesmurphy 998396348  6  3 f   -     -     -         7475    0    0 
+lesmurphy 998396353  6  2 Bf  -     -     -         7475  800    0 
+lesmurphy 998396357  6  1 Bf  -     -     -         6675  400    0 
+lesmurphy 998396364  6  6 f   -     -     -         6275    0    0 
+lesmurphy 998396371  6  5 f   -     -     -         6275    0    0 
+lesmurphy 998396375  6  4 f   -     -     -         6275    0    0 
+lesmurphy 998396377  6  3 f   -     -     -         6275    0    0 
+lesmurphy 998396392  6  2 Bf  -     -     -         6275  800    0 
+lesmurphy 998396400  6  1 Bf  -     -     -         5475  400    0 
+lesmurphy 998396410  6  6 f   -     -     -         5075    0    0 
+lesmurphy 998396416  6  5 f   -     -     -         5075    0    0 
+lesmurphy 998396423  6  4 f   -     -     -         5075    0    0 
+lesmurphy 998396437  6  3 f   -     -     -         5075    0    0 
+lesmurphy 998396457  6  2 Bk  k     k     kf        5075  800    0 
+lesmurphy 998396475  6  1 Bf  -     -     -         4275  800    0 
+lesmurphy 998396481  6  6 f   -     -     -         3475    0    0 
+lesmurphy 998396495  6  5 f   -     -     -         3475    0    0 
+lesmurphy 998396500  6  4 f   -     -     -         3475    0    0 
+lesmurphy 998396519  6  3 f   -     -     -         3475    0    0 
+lesmurphy 998396540  6  2 Bf  -     -     -         3475 1600    0 
+lesmurphy 998396549  6  1 Bf  -     -     -         1875  800    0 
+lesmurphy 998396554  6  6 f   -     -     -         1075    0    0 
+lesmurphy 998396564  5  5 f   -     -     -         1075    0    0 
+lesmurphy 998396587  5  4 f   -     -     -         1075    0    0 
+lesmurphy 998396589  5  3 f   -     -     -         1075    0    0 
+lesmurphy 998396607  5  2 BA  -     -     -         1075 1075 2150 6d Ah
+lesmurphy 998396615  5  1 Bf  -     -     -         2150  800    0 
+lesmurphy 998396623  4  4 f   -     -     -         1350    0    0 
+lesmurphy 998396635  4  4 f   -     -     -         1350    0    0 
+lesmurphy 998396640  3  3 f   -     -     -         1350    0    0 
+lesmurphy 998396684  3  2 BA  -     -     -         1350 1350 2700 Ac Kd
+lesmurphy 998396690  3  1 Bf  -     -     -         2700 1600    0 
+lesmurphy 998396695  3  3 f   -     -     -         1100    0    0 
+lesmurphy 998396700  3  2 BA  -     -     -         1100 1100    0 Kc 3s

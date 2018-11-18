@@ -1,0 +1,32 @@
+coldcall  988774380 21 17 f   -     -     -        10000    0    0 
+coldcall  988774430 21 16 f   -     -     -        10000    0    0 
+coldcall  988774547 21 15 f   -     -     -        10000    0    0 
+coldcall  988774684 21 14 f   -     -     -        10000    0    0 
+coldcall  988774753 21 13 c   f     -     -        10000  100    0 
+coldcall  988774870 21 12 f   -     -     -         9900    0    0 
+coldcall  988774980 21 11 f   -     -     -         9900    0    0 
+coldcall  988775037 20  9 f   -     -     -         9900    0    0 
+coldcall  988775107 20  8 f   -     -     -         9900    0    0 
+coldcall  988775225 19  6 c   brA   -     -         9900 9900 23450 Kd Ks
+coldcall  988775316 17  5 c   k     kf    -        23450  400    0 
+coldcall  988775451 17  4 c   f     -     -        23050  400    0 
+coldcall  988775547 17  3 c   kf    -     -        22650  400    0 
+coldcall  988775710 16  2 Bk  k     k     kf       22250  400    0 
+coldcall  988775858 16  1 Bc  k     k     k        21850  800 4000 5s 6s
+coldcall  988775969 16 16 cc  k     f     -        25050 2200    0 
+coldcall  988776088 16 15 f   -     -     -        22850    0    0 
+coldcall  988776203 16 14 c   f     -     -        22850  800    0 
+coldcall  988776382 16 13 c   f     -     -        22050 1600    0 
+coldcall  988776458 16 12 f   -     -     -        20450    0    0 
+coldcall  988776586 16 11 f   -     -     -        20450    0    0 
+coldcall  988776691 16 10 c   b     k     c        20450 9400    0 Qd Ah
+coldcall  988776784 15  9 f   -     -     -        11050    0    0 
+coldcall  988776829 14  7 f   -     -     -        11050    0    0 
+coldcall  988776909 14  6 c   -     -     -        11050 6200    0 9c Th
+coldcall  988776950 14  5 f   -     -     -         4850    0    0 
+coldcall  988776981 13  4 f   -     -     -         4850    0    0 
+coldcall  988777040 13  3 f   -     -     -         4850    0    0 
+coldcall  988777102 13  2 Bf  -     -     -         4850 3200    0 
+coldcall  988777140 13  1 BcA -     -     -         1650 1650 6600 6h Kh
+coldcall  988777172 12 12 f   -     -     -         6600    0    0 
+coldcall  988777233 11 11 cA  -     -     -         6600 6600    0 Kc Ad

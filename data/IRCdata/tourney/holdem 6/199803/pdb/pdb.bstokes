@@ -1,0 +1,149 @@
+bstokes   891280892  9  6 c   k     kc    kf        3000  190    0 
+bstokes   891280996  9  5 f   -     -     -         2810    0    0 
+bstokes   891281031  8  3 c   k     k     f         2810   40    0 
+bstokes   891281076  8  3 f   -     -     -         2770    0    0 
+bstokes   891281134  8  2 Bc  kf    -     -         2770  220    0 
+bstokes   891281175  8  1 Bc  kc    kc    kc        2550 2500 5920 5d Kd
+bstokes   891281241  7  7 c   b     b     -         5970 1680 2400 
+bstokes   891281296  7  6 f   -     -     -         6690    0    0 
+bstokes   891281325  7  5 f   -     -     -         6690    0    0 
+bstokes   891281363  7  4 f   -     -     -         6690    0    0 
+bstokes   891281468  7  3 f   -     -     -         6690    0    0 
+bstokes   891281501  7  2 Bk  k     b     k         6690  400  960 2h Ac
+bstokes   891281549  7  1 Bc  k     k     kc        7250  760    0 4d As
+bstokes   891281618  7  7 f   -     -     -         6490    0    0 
+bstokes   891281703  6  5 f   -     -     -         6490    0    0 
+bstokes   891281744  6  4 f   -     -     -         6490    0    0 
+bstokes   891281776  6  3 f   -     -     -         6490    0    0 
+bstokes   891281820  6  2 Bk  kc    b     -         6490 2080 3200 
+bstokes   891281861  6  1 Bf  -     -     -         7610  160    0 
+bstokes   891281879  6  6 f   -     -     -         7450    0    0 
+bstokes   891281928  6  5 c   k     k     k         7450  320    0 Td Qc
+bstokes   891281957  6  4 f   -     -     -         7130    0    0 
+bstokes   891281991  6  3 cc  kc    -     -         7130 3900 8280 Qs As
+bstokes   891282021  5  2 Bk  k     k     k        11510  320  960 7c Ac
+bstokes   891282059  5  1 Bc  b     k     k        12150  820  980 As Jd
+bstokes   891282103  5  5 f   -     -     -        12310    0    0 
+bstokes   891282131  5  4 cc  k     k     kc       12310 5320 12500 Ts 9h
+bstokes   891282167  3  3 f   -     -     -        19490    0    0 
+bstokes   891282175  3  2 Bk  k     k     k        19490  640    0 Kd 5c
+bstokes   891282199  3  1 Bf  -     -     -        18850  320    0 
+bstokes   891282208  3  3 c   k     k     k        18530  640 1600 Ad Qd
+bstokes   891282231  3  2 Bk  k     k     k        19490  640 1280 5s Qd
+bstokes   891282255  3  1 Bc  k     k     k        20130  640    0 6c Kh
+bstokes   891282275  3  3 c   k     c     f        19490 2240    0 
+bstokes   891282298  3  2 Bk  f     -     -        17250  640    0 
+bstokes   891282311  3  1 Bc  k     k     k        16610  640    0 7d Td
+bstokes   891282323  3  3 c   k     k     k        15970  640 1600 Kd 9c
+bstokes   891282343  3  2 Bk  k     k     k        16930  640 1280 9c 7d
+bstokes   891282363  3  1 Bc  b     -     -        17570 1920 2560 
+bstokes   891282376  3  3 f   -     -     -        18210    0    0 
+bstokes   891282380  3  2 Bk  b     -     -        18210 1280 1920 
+bstokes   891282402  3  1 Bf  -     -     -        18850  320    0 
+bstokes   891282423  3  3 c   b     -     -        18530 1280 2240 
+bstokes   891282444  3  2 Bc  -     -     -        19490 1140    0 7s 9c
+bstokes   891282452  3  1 Bf  -     -     -        18350  320    0 
+bstokes   891282460  3  3 f   -     -     -        18030    0    0 
+bstokes   891282467  3  2 Bk  f     -     -        18030  640    0 
+bstokes   891282483  3  1 Bf  -     -     -        17390  640    0 
+bstokes   891282502  3  3 f   -     -     -        16750    0    0 
+bstokes   891282514  3  2 B   -     -     -        16750 1280 1920 
+bstokes   891282532  3  1 Bf  -     -     -        17390  640    0 
+bstokes   891282540  3  3 f   -     -     -        16750    0    0 
+bstokes   891282561  3  2 Bf  -     -     -        16750 1280    0 
+bstokes   891282579  2  1 Bf  -     -     -        15470  640    0 
+bstokes   891282589  2  2 B   -     -     -        14830 1280 1920 
+bstokes   891282593  2  1 Bc  k     k     k        15470 1280 1280 Jc 5s
+bstokes   891282616  2  2 Bk  k     k     c        15470 4280    0 Th 7h
+bstokes   891282666  2  1 Bf  -     -     -        11190  640    0 
+bstokes   891282672  2  2 Bf  -     -     -        10550 1280    0 
+bstokes   891282681  2  1 Bc  kr    -     -         9270 7680 10240 
+bstokes   891282718  2  2 Bk  b     bcA   -        11830 11830    0 6s 2d
+bstokes   891292827 20  2 Br  kc    k     k         2000  490    0 2s 2d
+bstokes   891292926 20  1 Bf  -     -     -         1510    5    0 
+bstokes   891292977 18 18 c   f     -     -         1505   60    0 
+bstokes   891293052 18 17 f   -     -     -         1445    0    0 
+bstokes   891293181 17 15 c   bA    -     -         1445 1445 3555 4d 4c
+bstokes   891293271 15 12 c   k     kc    k         3555  150  520 Ah 6c
+bstokes   891293391 15 11 f   -     -     -         3925    0    0 
+bstokes   891293496 15 10 cc  f     -     -         3925  120    0 
+bstokes   891293631 14  8 c   kf    -     -         3805   20    0 
+bstokes   891293726 14  7 cc  kf    -     -         3785  300    0 
+bstokes   891293815 13  6 c   k     f     -         3485   40    0 
+bstokes   891293895 13  5 c   k     f     -         3445   40    0 
+bstokes   891293970 13  4 c   k     k     kf        3405   40    0 
+bstokes   891294064 13  3 cc  kc    kf    -         3365  580    0 
+bstokes   891294149 13  2 Bk  k     k     k         2785   80    0 6d Qs
+bstokes   891294236 13  1 Bc  kf    -     -         2705   80    0 
+bstokes   891294323 12 12 f   -     -     -         2625    0    0 
+bstokes   891294393 12 11 r   cA    -     -         2625 2625    0 Qh 6c
+bstokes   891366724 10  1 Bf  -     -     -         4000   20    0 
+bstokes   891366733 10 10 c   k     c     k         3980  240    0 6h 7c
+bstokes   891366840 10  9 f   -     -     -         3740    0    0 
+bstokes   891366880 10  8 c   kf    -     -         3740   40    0 
+bstokes   891366923 10  7 f   -     -     -         3700    0    0 
+bstokes   891366970 10  6 r   k     k     f         3700   80    0 
+bstokes   891367040 10  5 cccA -     -     -         3620 3620    0 4s 2c
+bstokes   891398285 23 12 f   -     -     -         2000    0    0 
+bstokes   891398357 23 11 f   -     -     -         2000    0    0 
+bstokes   891398413 23 10 f   -     -     -         2000    0    0 
+bstokes   891398489 23  9 f   -     -     -         2000    0    0 
+bstokes   891398627 23  8 f   -     -     -         2000    0    0 
+bstokes   891398738 23  7 f   -     -     -         2000    0    0 
+bstokes   891398819 23  6 f   -     -     -         2000    0    0 
+bstokes   891398907 23  5 f   -     -     -         2000    0    0 
+bstokes   891398984 23  4 f   -     -     -         2000    0    0 
+bstokes   891399061 22  3 f   -     -     -         2000    0    0 
+bstokes   891399127 22  2 Bk  kf    -     -         2000   80    0 
+bstokes   891399181 22  1 Bf  -     -     -         1920   40    0 
+bstokes   891399212 22 22 f   -     -     -         1880    0    0 
+bstokes   891399266 22 21 f   -     -     -         1880    0    0 
+bstokes   891399305 22 20 f   -     -     -         1880    0    0 
+bstokes   891399355 20 17 f   -     -     -         1880    0    0 
+bstokes   891399476 20 16 f   -     -     -         1880    0    0 
+bstokes   891399524 20 15 f   -     -     -         1880    0    0 
+bstokes   891399567 20 14 f   -     -     -         1880    0    0 
+bstokes   891399593 18 12 f   -     -     -         1880    0    0 
+bstokes   891399696 18 11 f   -     -     -         1880    0    0 
+bstokes   891399736 17  9 f   -     -     -         1880    0    0 
+bstokes   891399766 17  8 f   -     -     -         1880    0    0 
+bstokes   891399805 17  7 f   -     -     -         1880    0    0 
+bstokes   891399832 17  6 f   -     -     -         1880    0    0 
+bstokes   891399882 17  5 f   -     -     -         1880    0    0 
+bstokes   891399932 17  4 f   -     -     -         1880    0    0 
+bstokes   891399988 17  3 f   -     -     -         1880    0    0 
+bstokes   891400032 17  2 Bf  -     -     -         1880  320    0 
+bstokes   891400099 16  1 Bf  -     -     -         1560  160    0 
+bstokes   891400146 16 16 f   -     -     -         1400    0    0 
+bstokes   891400203 16 15 f   -     -     -         1400    0    0 
+bstokes   891400248 16 14 f   -     -     -         1400    0    0 
+bstokes   891400294 14 11 f   -     -     -         1400    0    0 
+bstokes   891400346 14 11 f   -     -     -         1400    0    0 
+bstokes   891400382 14 10 f   -     -     -         1400    0    0 
+bstokes   891400438 13  8 f   -     -     -         1400    0    0 
+bstokes   891400506 13  7 f   -     -     -         1400    0    0 
+bstokes   891400531 11  5 f   -     -     -         1400    0    0 
+bstokes   891400567 11  5 f   -     -     -         1400    0    0 
+bstokes   891400584 11  4 f   -     -     -         1400    0    0 
+bstokes   891400603 11  3 f   -     -     -         1400    0    0 
+bstokes   891400619 11  2 Bf  -     -     -         1400  640    0 
+bstokes   891400642 11  1 Bf  -     -     -          760  320    0 
+bstokes   891400675 11 11 f   -     -     -          440    0    0 
+bstokes   891400694 11 10 f   -     -     -          440    0    0 
+bstokes   891400736 11  9 f   -     -     -          440    0    0 
+bstokes   891400747 11  8 f   -     -     -          440    0    0 
+bstokes   891400775 11  7 f   -     -     -          440    0    0 
+bstokes   891400797 11  6 f   -     -     -          440    0    0 
+bstokes   891400817 11  5 f   -     -     -          440    0    0 
+bstokes   891400835 11  4 f   -     -     -          440    0    0 
+bstokes   891400876  9  1 BA  -     -     -          440  440 1080 4h Ad
+bstokes   891400897  9  1 Bf  -     -     -         1080  640    0 
+bstokes   891400922  8  8 f   -     -     -          440    0    0 
+bstokes   891400944  8  7 f   -     -     -          440    0    0 
+bstokes   891400975  7  6 f   -     -     -          440    0    0 
+bstokes   891400989  6  4 f   -     -     -          440    0    0 
+bstokes   891401006  5  3 f   -     -     -          440    0    0 
+bstokes   891401028  3  1 BA  -     -     -          440  440  880 Qd Jc
+bstokes   891401036  3  1 Bf  -     -     -          880  640    0 
+bstokes   891401090  3  3 cA  -     -     -          240  240    0 Qs Kc
+bstokes   891404984 16  2 Bc  bA    -     -         1000 1000    0 5d 9d

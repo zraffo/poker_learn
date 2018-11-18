@@ -1,0 +1,2469 @@
+azspinner 944024449 14  5 f   -     -     -         5000    0    0 
+azspinner 944024557 14  4 f   -     -     -         5000    0    0 
+azspinner 944024614 14  3 f   -     -     -         5000    0    0 
+azspinner 944024725 14  2 Bf  -     -     -         5000  100    0 
+azspinner 944024799 14  1 Bc  k     b     b         4900 2100 4500 5s 7s
+azspinner 944024888 14 14 c   k     c     b         7300 2100 3000 
+azspinner 944025011 14 13 f   -     -     -         8200    0    0 
+azspinner 944025079 13 11 c   f     -     -         8200  200    0 
+azspinner 944025154 11  9 f   -     -     -         8000    0    0 
+azspinner 944025235 11  8 c   f     -     -         8000  200    0 
+azspinner 944025301 11  7 f   -     -     -         7800    0    0 
+azspinner 944025405 11  6 r   kc    k     k         7800 3200    0 Ad Ks
+azspinner 944025468 11  5 f   -     -     -         4600    0    0 
+azspinner 944025492 11  4 c   f     -     -         4600  400    0 
+azspinner 944025593 11  3 f   -     -     -         4200    0    0 
+azspinner 944025617 11  2 Bk  f     -     -         4200  400    0 
+azspinner 944025667 11  1 Bc  kf    -     -         3800  400    0 
+azspinner 944025693 11 11 f   -     -     -         3400    0    0 
+azspinner 944025752 10  9 f   -     -     -         3400    0    0 
+azspinner 944025804 10  8 f   -     -     -         3400    0    0 
+azspinner 944025831 10  7 f   -     -     -         3400    0    0 
+azspinner 944025892  9  6 c   kf    -     -         3400  800    0 
+azspinner 944025952  9  5 rA  -     -     -         2600 2600 6000 Qs As
+azspinner 944025974  9  4 f   -     -     -         6000    0    0 
+azspinner 944025996  9  3 f   -     -     -         6000    0    0 
+azspinner 944026018  9  2 Bk  b     bA    -         6000 6000  325 Td Th
+azspinner 944026044  9  1 BA  -     -     -          325  325    0 3h 7h
+azspinner 944103342 18  5 f   -     -     -         5000    0    0 
+azspinner 944103471 18  4 f   -     -     -         5000    0    0 
+azspinner 944103582 18  3 f   -     -     -         5000    0    0 
+azspinner 944103657 18  2 Br  bA    -     -         5000 5000 15300 Ad As
+azspinner 944103816 17  1 Bc  kf    -     -        15300  280    0 
+azspinner 944103883 16 16 f   -     -     -        15020    0    0 
+azspinner 944103980 16 15 c   f     -     -        15020   80    0 
+azspinner 944104052 16 14 cf  -     -     -        14940   80    0 
+azspinner 944104114 13 11 r   k     k     c        14860  920 1920 Qc Kc
+azspinner 944104176 13 10 f   -     -     -        15860    0    0 
+azspinner 944104211 13  9 f   -     -     -        15860    0    0 
+azspinner 944104245 13  8 f   -     -     -        15860    0    0 
+azspinner 944104326 13  7 f   -     -     -        15860    0    0 
+azspinner 944104364 12  5 f   -     -     -        15860    0    0 
+azspinner 944104414 12  4 f   -     -     -        15860    0    0 
+azspinner 944104479 11  2 c   b     b     -        15860 3360 4800 
+azspinner 944104540 11  2 Bk  k     k     br       17300 12800 19300 Qc Tc
+azspinner 944104622 10  1 Bc  kf    -     -        23800  640    0 
+azspinner 944104675  9  9 f   -     -     -        23160    0    0 
+azspinner 944104746  9  8 c   c     k     k        23160 2080 3520 9s Qh
+azspinner 944104836  9  7 f   -     -     -        24600    0    0 
+azspinner 944104911  8  5 f   -     -     -        24600    0    0 
+azspinner 944104950  8  5 r   b     -     -        24600 12160 17400 Ts Th
+azspinner 944105006  7  3 f   -     -     -        29840    0    0 
+azspinner 944105049  7  2 B   -     -     -        29840  640  960 
+azspinner 944105061  7  1 Bc  kf    -     -        30160  640    0 
+azspinner 944105129  7  7 c   k     k     k        29520  640 1600 Ah 4c
+azspinner 944105175  7  6 f   -     -     -        30480    0    0 
+azspinner 944105210  7  5 f   -     -     -        30480    0    0 
+azspinner 944105231  7  4 c   k     k     k        30480  640    0 Jc 9d
+azspinner 944105291  7  3 f   -     -     -        29840    0    0 
+azspinner 944105321  7  2 Bf  -     -     -        29840 1280    0 
+azspinner 944105348  7  1 Bc  b     k     b        28560 16640 24920 Tc 2s
+azspinner 944105399  6  6 f   -     -     -        36840    0    0 
+azspinner 944105423  6  5 f   -     -     -        36840    0    0 
+azspinner 944105474  6  4 rc  -     -     -        36840 11000    0 Ah Qs
+azspinner 944105498  6  3 f   -     -     -        25840    0    0 
+azspinner 944105517  6  2 Bk  bc    -     -        25840 17840 51740 Jh Ad
+azspinner 944105553  4  1 Br  -     -     -        59740 3840 5120 
+azspinner 944105566  4  4 f   -     -     -        61020    0    0 
+azspinner 944105587  3  3 f   -     -     -        61020    0    0 
+azspinner 944105602  3  2 B   -     -     -        61020 1280 1920 
+azspinner 944105608  3  1 Br  -     -     -        61660 3840 5120 
+azspinner 944105615  3  3 r   -     -     -        62940 4480 6400 
+azspinner 944105622  3  2 Bk  k     k     b        64860 3880 5200 As Qc
+azspinner 944105652  2  1 Br  -     -     -        66180 7680 10240 
+azspinner 944105661  2  2 B   -     -     -        68740 2560 3840 
+azspinner 944105667  2  1 Bc  k     k     k        70020 2560 5120 5h 6d
+azspinner 944105691  2  2 B   -     -     -        72580 2560 3840 
+azspinner 944105697  2  1 Br  -     -     -        73860 7680 10240 
+azspinner 944105705  2  2 Bk  k     k     k        76420 2560    0 3h 7d
+azspinner 944105727  2  1 Bc  k     k     k        73860 2560    0 Th 8s
+azspinner 944105756  2  2 B   -     -     -        71300 2560 3840 
+azspinner 944105769  2  1 Bc  kf    -     -        72580 2560    0 
+azspinner 944105789  2  2 B   -     -     -        70020 2560 3840 
+azspinner 944105793  2  1 Br  -     -     -        71300 7680 10240 
+azspinner 944105801  2  2 Bk  k     k     c        73860 7680    0 Ac 2s
+azspinner 944105830  2  1 Bf  -     -     -        66180 1280    0 
+azspinner 944105836  2  2 Bk  k     k     k        64900 2560 5120 8d 5s
+azspinner 944105865  2  1 Bc  k     k     k        67460 2560    0 Kd Tc
+azspinner 944105899  2  2 B   -     -     -        64900 2560 3840 
+azspinner 944105909  2  1 Br  -     -     -        66180 7680 10240 
+azspinner 944105917  2  2 B   -     -     -        68740 2560 3840 
+azspinner 944105920  2  1 Bf  -     -     -        70020 1280    0 
+azspinner 944105924  2  2 B   -     -     -        68740 2560 3840 
+azspinner 944105930  2  1 Bcc kf    -     -        70020 7680    0 
+azspinner 944105947  2  2 Bk  k     k     k        62340 2560    0 Td 5d
+azspinner 944105969  2  1 Br  -     -     -        59780 7680 10240 
+azspinner 944105978  2  2 Bf  -     -     -        62340 2560    0 
+azspinner 944105983  2  1 Bc  k     k     k        59780 2560 5120 Ks As
+azspinner 944106003  2  2 Bk  f     -     -        62340 5120    0 
+azspinner 944106022  2  1 Bf  -     -     -        57220 2560    0 
+azspinner 944106024  2  2 B   -     -     -        54660 5120 7680 
+azspinner 944106032  2  1 Bc  k     b     -        57220 15360 20480 
+azspinner 944106051  2  2 Bc  k     c     -        62340 27660    0 Qc 9c
+azspinner 944106073  2  1 Br  bA    -     -        34680 34680    0 8c Jd
+azspinner 944247336  6  3 f   -     -     -         1000    0    0 
+azspinner 944247355  6  2 Bc  kc    kc    kf        1000  335    0 
+azspinner 944247391  6  1 Bc  kf    -     -          665  120    0 
+azspinner 944247412  6  6 rA  -     -     -          545  545 1470 Ks Kc
+azspinner 944247435  5  4 c   f     -     -         1470   10    0 
+azspinner 944247469  5  3 r   b     bf    -         1460  355    0 
+azspinner 944247497  5  2 Bc  c     c     f         1105  270    0 
+azspinner 944247520  5  1 Bc  k     k     k          835   10    0 6s 7c
+azspinner 944247544  5  5 f   -     -     -          825    0    0 
+azspinner 944247562  5  4 f   -     -     -          825    0    0 
+azspinner 944247583  5  3 f   -     -     -          825    0    0 
+azspinner 944247605  5  2 B   -     -     -          825   10   15 
+azspinner 944247609  5  1 Bc  b     -     -          830   30   40 
+azspinner 944247632  5  5 f   -     -     -          840    0    0 
+azspinner 944247646  5  4 f   -     -     -          840    0    0 
+azspinner 944247682  5  3 f   -     -     -          840    0    0 
+azspinner 944247698  5  2 Bc  k     k     k          840   70    0 3s 4s
+azspinner 944247722  5  1 Br  -     -     -          770   60   80 
+azspinner 944247740  5  5 f   -     -     -          790    0    0 
+azspinner 944247748  5  4 f   -     -     -          790    0    0 
+azspinner 944247760  5  3 f   -     -     -          790    0    0 
+azspinner 944247764  5  2 Bk  kf    -     -          790   20    0 
+azspinner 944247852  5  1 Bf  -     -     -          770   10    0 
+azspinner 944247857  5  5 f   -     -     -          760    0    0 
+azspinner 944247860  5  4 f   -     -     -          760    0    0 
+azspinner 944247868  5  3 f   -     -     -          760    0    0 
+azspinner 944247875  5  2 Bc  b     -     -          760  220  300 
+azspinner 944247893  5  1 Bc  b     -     -          840   60   80 
+azspinner 944247906  5  5 f   -     -     -          860    0    0 
+azspinner 944247915  5  4 c   k     b     -          860   70  100 
+azspinner 944247939  5  3 f   -     -     -          890    0    0 
+azspinner 944247943  5  2 Bk  kc    b     b          890  670    0 9h 5s
+azspinner 944247994  5  1 Bc  b     -     -          220  120  160 
+azspinner 944248007  5  5 c   b     -     -          260  180  280 
+azspinner 944248024  5  4 f   -     -     -          360    0    0 
+azspinner 944248028  5  3 f   -     -     -          360    0    0 
+azspinner 944248034  5  2 Bf  -     -     -          360   40    0 
+azspinner 944248109  5  1 Br  -     -     -          320  120  160 
+azspinner 944248163  5  5 f   -     -     -          360    0    0 
+azspinner 944248169  5  4 f   -     -     -          360    0    0 
+azspinner 944248176  5  3 r   k     k     k          360  140  300 2d Kh
+azspinner 944248213  5  2 Bk  k     k     k          520   40    0 4d Th
+azspinner 944248246  5  1 Bf  -     -     -          480   20    0 
+azspinner 944248255  5  5 f   -     -     -          460    0    0 
+azspinner 944248280  5  4 c   bA    -     -          460  460  760 
+azspinner 944248308  5  3 f   -     -     -          760    0    0 
+azspinner 944248313  5  2 B   -     -     -          760   80  120 
+azspinner 944248320  5  1 Bc  kf    -     -          800   80    0 
+azspinner 944248339  5  5 r   -     -     -          720  280  400 
+azspinner 944248346  5  4 f   -     -     -          840    0    0 
+azspinner 944248351  5  3 c   k     k     b          840  280  600 Jc 7c
+azspinner 944248373  5  2 B   -     -     -         1160   80  120 
+azspinner 944248378  5  1 Bc  k     k     b         1200  240  320 
+azspinner 944248395  5  5 c   c     k     b         1280 1200 1680 
+azspinner 944248424  5  4 c   k     b     k         1760  280    0 8c 7c
+azspinner 944248455  5  3 r   -     -     -         1480  280  400 
+azspinner 944248464  5  2 Br  cA    -     -         1600 1600 3200 Jd Ah
+azspinner 944248480  5  1 Bc  k     b     -         3200  420  670 Jh 5c
+azspinner 944248507  4  4 f   -     -     -         3450    0    0 
+azspinner 944248524  4  3 r   -     -     -         3450  280  400 
+azspinner 944248531  4  2 Bk  f     -     -         3570   80    0 
+azspinner 944248544  4  1 Br  b     -     -         3490 1040 1440 
+azspinner 944248557  4  4 f   -     -     -         3890    0    0 
+azspinner 944248569  4  3 r   k     f     -         3890  280    0 
+azspinner 944248587  4  2 B   -     -     -         3610   80  120 
+azspinner 944248590  4  1 Br  -     -     -         3650  240  320 
+azspinner 944248596  4  4 r   -     -     -         3730  280  400 
+azspinner 944248604  4  3 f   -     -     -         3850    0    0 
+azspinner 944248609  4  2 B   -     -     -         3850  160  240 
+azspinner 944248612  4  1 Br  -     -     -         3930  315  420 Ac 5s
+azspinner 944248620  3  3 r   -     -     -         4035  480  640 
+azspinner 944248631  3  3 r   -     -     -         4195  520  720 Ac Kd
+azspinner 944248636  2  2 B   -     -     -         4395  160  240 
+azspinner 944248642  2  1 Br  -     -     -         4475  480  640 
+azspinner 944248647  2  2 B   -     -     -         4635  160  240 
+azspinner 944248649  2  1 Bc  b     -     -         4715  480  640 
+azspinner 944248662  2  2 B   -     -     -         4875  160  240 
+azspinner 944248664  2  1 Br  -     -     -         4955  480  640 
+azspinner 944248669  2  2 Bf  -     -     -         5115  160    0 
+azspinner 944248675  2  1 Bf  -     -     -         4955   80    0 
+azspinner 944248678  2  2 B   -     -     -         4875  160  240 
+azspinner 944248681  2  1 Bc  k     kf    -         4955  160    0 
+azspinner 944248702  2  2 Bk  c     c     -         4795 1205    0 9c Ts
+azspinner 944248729  2  1 Br  -     -     -         3590  480  640 
+azspinner 944248737  2  2 B   -     -     -         3750  160  240 
+azspinner 944248740  2  1 Bc  k     k     k         3830  160  160 2d Th
+azspinner 944248760  2  2 B   -     -     -         3830  160  240 
+azspinner 944248766  2  1 Br  -     -     -         3910  480  640 
+azspinner 944248771  2  2 Bf  -     -     -         4070  160    0 
+azspinner 944248775  2  1 Bc  b     k     k         3910  480  960 Qh 8h
+azspinner 944248804  2  2 B   -     -     -         4390  160  240 
+azspinner 944248809  2  1 Br  -     -     -         4470  480  640 
+azspinner 944248817  2  2 B   -     -     -         4630  160  240 
+azspinner 944248818  2  1 Br  k     b     -         4710 1440 1440 9d Kc
+azspinner 944248835  2  2 B   -     -     -         4710  160  240 
+azspinner 944248846  2  1 Br  -     -     -         4790  480  640 
+azspinner 944248851  2  2 B   -     -     -         4950  160  240 
+azspinner 944248853  2  1 Bf  -     -     -         5030   80    0 
+azspinner 944248857  2  2 B   -     -     -         4950  160  240 
+azspinner 944248860  2  1 Bc  k     k     k         5030  160    0 Jc 6d
+azspinner 944248880  2  2 B   -     -     -         4870  160  240 
+azspinner 944248886  2  1 Bc  k     k     kf        4950  160    0 
+azspinner 944248908  2  2 Bf  -     -     -         4790  160    0 
+azspinner 944248914  2  1 Bc  k     k     b         4630  960 1280 
+azspinner 944248942  2  2 Bf  -     -     -         4950  320    0 
+azspinner 944248947  2  1 Br  kf    -     -         4630  960    0 
+azspinner 944248968  2  2 B   -     -     -         3670  320  480 
+azspinner 944248976  2  1 Bf  -     -     -         3830  160    0 
+azspinner 944248980  2  2 B   -     -     -         3670  320  480 
+azspinner 944248984  2  1 Bc  b     -     -         3830  960 1280 
+azspinner 944248998  2  2 B   -     -     -         4150  320  480 
+azspinner 944249000  2  1 Br  -     -     -         4310  960 1280 
+azspinner 944249007  2  2 B   -     -     -         4630  320  480 
+azspinner 944249010  2  1 Bf  -     -     -         4790  160    0 
+azspinner 944249015  2  2 Bf  -     -     -         4630  320    0 
+azspinner 944249022  2  1 Bcf -     -     -         4310  320    0 
+azspinner 944249034  2  2 Bf  -     -     -         3990  320    0 
+azspinner 944249040  2  1 Br  b     -     -         3670 2880 5210 Ac Qc
+azspinner 944249693  5  5 c   f     -     -         5000   50    0 
+azspinner 944249747  5  4 f   -     -     -         4950    0    0 
+azspinner 944249785  5  3 f   -     -     -         4950    0    0 
+azspinner 944249817  4  2 Bk  b     -     -         4950  175  250 
+azspinner 944249842  4  1 Bc  kf    -     -         5025   50    0 
+azspinner 944249861  4  4 f   -     -     -         4975    0    0 
+azspinner 944249875  4  3 f   -     -     -         4975    0    0 
+azspinner 944249890  4  2 Bc  kf    -     -         4975  175    0 
+azspinner 944249904  4  1 Bc  kf    -     -         4800  175    0 
+azspinner 944249929  4  4 f   -     -     -         4625    0    0 
+azspinner 944249964  4  3 c   k     f     -         4625   50    0 
+azspinner 944249990  4  2 Bf  -     -     -         4575   50    0 
+azspinner 944250000  4  1 Bc  k     k     b         4525  700 1050 
+azspinner 944250029  4  4 f   -     -     -         4875    0    0 
+azspinner 944250033  4  3 r   k     k     k         4875  350  800 Ks 9d
+azspinner 944250056  4  2 Bk  bf    -     -         5325  350    0 
+azspinner 944250074  4  1 Bc  k     kf    -         4975  350    0 
+azspinner 944250096  4  4 f   -     -     -         4625    0    0 
+azspinner 944250111  4  3 r   b     -     -         4625 1150 1600 
+azspinner 944250124  4  2 Bc  kf    -     -         5075  450    0 
+azspinner 944250151  4  1 Bc  b     -     -         4625  300  400 
+azspinner 944250163  4  4 f   -     -     -         4725    0    0 
+azspinner 944250173  4  3 f   -     -     -         4725    0    0 
+azspinner 944250194  4  2 Bk  k     b     -         4725  350  500 
+azspinner 944250212  4  1 Bc  k     k     k         4875  100  200 7s 9h
+azspinner 944250240  4  4 r   k     f     -         4975  350    0 
+azspinner 944250263  4  3 r   k     k     b         4625 1150 1600 
+azspinner 944250284  4  2 Bk  kf    -     -         5075  100    0 
+azspinner 944250306  4  1 Bc  k     b     -         4975 1400 2100 
+azspinner 944250328  4  4 f   -     -     -         5675    0    0 
+azspinner 944250334  4  3 f   -     -     -         5675    0    0 
+azspinner 944250353  4  2 Bk  k     k     b         5675  350  500 
+azspinner 944250378  4  1 Bc  k     b     -         5825  800 1200 
+azspinner 944250399  4  4 f   -     -     -         6225    0    0 
+azspinner 944250402  4  3 f   -     -     -         6225    0    0 
+azspinner 944250425  4  2 B   -     -     -         6225  200  300 
+azspinner 944250434  4  1 Br  k     kf    -         6325  600    0 
+azspinner 944250459  4  4 r   k     f     -         5725  700    0 
+azspinner 944250487  4  3 f   -     -     -         5025    0    0 
+azspinner 944250517  4  2 Bk  kc    k     k         5025  550    0 8h Kc
+azspinner 944250546  4  1 Bf  -     -     -         4475  100    0 
+azspinner 944250578  4  4 c   k     k     f         4375  200    0 
+azspinner 944250631  4  3 f   -     -     -         4175    0    0 
+azspinner 944250650  4  2 B   -     -     -         4175  200  300 
+azspinner 944250654  4  1 Bc  b     k     k         4275  800 1800 9s 7s
+azspinner 944250684  4  4 r   -     -     -         5275  700 1000 
+azspinner 944250694  4  3 r   -     -     -         5575  700 1000 
+azspinner 944250700  4  2 Bk  kf    -     -         5875  200    0 
+azspinner 944250715  4  1 Br  b     -     -         5675 5200 7200 
+azspinner 944250733  4  4 f   -     -     -         7675    0    0 
+azspinner 944250756  4  3 f   -     -     -         7675    0    0 
+azspinner 944250783  3  2 B   -     -     -         7675  400  600 
+azspinner 944250791  3  1 Bc  k     k     k         7875  400  800 5d Ah
+azspinner 944250828  3  3 f   -     -     -         8275    0    0 
+azspinner 944250840  3  2 Bk  k     k     k         8275  400    0 8h 7d
+azspinner 944250866  3  1 Bc  k     k     k         7875  400    0 2d 8d
+azspinner 944250910  3  3 r   -     -     -         7475 1400 2000 
+azspinner 944250923  3  2 B   -     -     -         8075  400  600 
+azspinner 944250929  3  1 Br  k     k     k         8275 1200 2400 7s Kd
+azspinner 944250971  3  3 f   -     -     -         9475    0    0 
+azspinner 944250990  3  2 Bk  b     -     -         9475 1400 2000 
+azspinner 944251009  3  1 Br  -     -     -        10075 1200 1600 
+azspinner 944251014  3  3 f   -     -     -        10475    0    0 
+azspinner 944251028  3  2 Bk  b     b     -        10475 4400 6000 
+azspinner 944251053  3  1 Bf  -     -     -        12075  400    0 
+azspinner 944251057  3  3 f   -     -     -        11675    0    0 
+azspinner 944251059  3  2 Bk  k     k     k        11675  800 1100 7d 7h
+azspinner 944251083  3  1 Bf  -     -     -        11975  400    0 
+azspinner 944251094  3  3 c   -     -     -        11575  800 1950 Jc 7c
+azspinner 944251101  2  1 Bk  krc   -     -        12725 12275 12275 Td 7c
+azspinner 944251132  2  1 Br  -     -     -        12725 2400 3200 
+azspinner 944251145  2  2 Bk  k     k     k        13525  800 1600 7s Js
+azspinner 944251167  2  1 Bf  -     -     -        14325  400    0 
+azspinner 944251173  2  2 B   -     -     -        13925  800 1200 
+azspinner 944251176  2  1 Bc  k     k     k        14325  800    0 7d 6h
+azspinner 944251210  2  2 Bk  f     -     -        13525  800    0 
+azspinner 944251238  2  1 Bc  b     k     b        12725 7200 9600 
+azspinner 944251271  2  2 Bk  k     k     k        15125  800 1600 8c Ah
+azspinner 944251295  2  1 Bf  -     -     -        15925  400    0 
+azspinner 944251304  2  2 Bk  k     f     -        15525  800    0 
+azspinner 944251320  2  1 Br  k     kf    -        14725 2400    0 
+azspinner 944251348  2  2 Bk  k     k     f        12325  800    0 
+azspinner 944251379  2  1 Bf  -     -     -        11525  400    0 
+azspinner 944251388  2  2 B   -     -     -        11125 1600 2400 
+azspinner 944251393  2  1 Bc  k     k     b        11925 4800 6400 
+azspinner 944251429  2  2 B   -     -     -        13525 1600 2400 
+azspinner 944251433  2  1 Bc  b     -     -        14325 4800 6400 
+azspinner 944251455  2  2 Bk  k     k     k        15925 1600    0 5c 3s
+azspinner 944251485  2  1 Br  -     -     -        14325 4800 6400 
+azspinner 944251493  2  2 Bk  k     k     k        15925 1600    0 Ac 4h
+azspinner 944251521  2  1 Bc  kf    -     -        14325 1600    0 
+azspinner 944251547  2  2 Bk  b     -     -        12725 4800 6400 
+azspinner 944251565  2  1 Bc  k     k     kf       14325 1600    0 
+azspinner 944251583  2  2 Bk  f     -     -        12725 1600    0 
+azspinner 944251594  2  1 Bf  -     -     -        11125  800    0 
+azspinner 944251597  2  2 Bk  k     k     k        10325 1600    0 Jc 3d
+azspinner 944251618  2  1 Bf  -     -     -         8725  800    0 
+azspinner 944251622  2  2 Bk  c     k     k         7925 4800    0 6h Ts
+azspinner 944251660  2  1 Bc  bA    -     -         3125 3125 4725 
+azspinner 944251675  2  2 Bk  f     -     -         4725 1600    0 
+azspinner 944251690  2  1 BrA -     -     -         3125 3125 6250 7d 7c
+azspinner 944251696  2  2 B   -     -     -         6250 1600 2400 
+azspinner 944251704  2  1 Bf  -     -     -         7050  800    0 
+azspinner 944251711  2  2 B   -     -     -         6250 1600 2400 
+azspinner 944251713  2  1 Bc  b     -     -         7050 4800 6400 
+azspinner 944251726  2  2 Bk  bA    -     -         8650 8650 11850 
+azspinner 944251746  2  1 Br  -     -     -        11850 9600 12800 
+azspinner 944251752  2  2 Bf  -     -     -        15050 3200    0 
+azspinner 944251761  2  1 Bf  -     -     -        11850 1600    0 
+azspinner 944251763  2  2 Bk  k     f     -        10250 3200    0 
+azspinner 944251782  2  1 BrA -     -     -         7050 7050 10250 
+azspinner 944251796  2  2 BrcA -     -     -        10250 10250 20500 Tc Ah
+azspinner 944251807  2  1 Bc  b     -     -        20500 9600 12800 
+azspinner 944251822  2  2 B   -     -     -        23700 3200 1900 6d 8c
+azspinner 944251823  2  1 Bc  -     -     -        22400 2600 2600 8h 9s
+azspinner 944251832  2  2 B   -     -     -        22400 3200 5800 8s Jd
+azspinner 944252224 12  5 f   -     -     -         5000    0    0 
+azspinner 944252289 10  3 f   -     -     -         5000    0    0 
+azspinner 944252334 10  3 f   -     -     -         5000    0    0 
+azspinner 944252390 10  2 Bf  -     -     -         5000   50    0 
+azspinner 944252452 10  1 Bc  kf    -     -         4950   50    0 
+azspinner 944252505 10 10 c   f     -     -         4900   50    0 
+azspinner 944252583 10  9 f   -     -     -         4850    0    0 
+azspinner 944252671  8  6 c   f     -     -         4850  100    0 
+azspinner 944252744  7  5 f   -     -     -         4750    0    0 
+azspinner 944252775  7  4 f   -     -     -         4750    0    0 
+azspinner 944252830  7  3 cf  -     -     -         4750  100    0 
+azspinner 944252926  6  2 Bk  kf    -     -         4650  200    0 
+azspinner 944252986  6  1 Bf  -     -     -         4450  100    0 
+azspinner 944253013  6  6 f   -     -     -         4350    0    0 
+azspinner 944253065  6  5 f   -     -     -         4350    0    0 
+azspinner 944253115  6  4 f   -     -     -         4350    0    0 
+azspinner 944253149  6  3 f   -     -     -         4350    0    0 
+azspinner 944253176  6  2 Bf  -     -     -         4350  200    0 
+azspinner 944253184  6  1 Bf  -     -     -         4150  100    0 
+azspinner 944253219  6  6 f   -     -     -         4050    0    0 
+azspinner 944253232  6  5 f   -     -     -         4050    0    0 
+azspinner 944253258  6  4 f   -     -     -         4050    0    0 
+azspinner 944253283  5  3 f   -     -     -         4050    0    0 
+azspinner 944253320  5  2 Bk  k     k     k         4050  400    0 3c Jd
+azspinner 944253353  5  1 Bc  b     -     -         3650 1200 1600 
+azspinner 944253382  5  5 r   k     k     k         4050 1400    0 Ad 6s
+azspinner 944253407  5  4 c   f     -     -         2650  400    0 
+azspinner 944253432  5  3 c   k     k     k         2250  400    0 Ah 9s
+azspinner 944253459  5  2 Bf  -     -     -         1850  400    0 
+azspinner 944253476  5  1 Bc  k     kf    -         1450  400    0 
+azspinner 944253513  5  5 f   -     -     -         1050    0    0 
+azspinner 944253547  5  4 f   -     -     -         1050    0    0 
+azspinner 944253590  5  3 rA  -     -     -         1050 1050 1150 Qc Ts
+azspinner 944253619  5  2 BcA -     -     -         1150 1150    0 9s Th
+azspinner 944254342  9  9 r   k     k     f         5000  175    0 
+azspinner 944254423  9  8 c   b     b     k         4825 1175    0 7h Ad
+azspinner 944254491  9  7 f   -     -     -         3650    0    0 
+azspinner 944254535  8  6 f   -     -     -         3650    0    0 
+azspinner 944254635  8  5 f   -     -     -         3650    0    0 
+azspinner 944254664  8  4 f   -     -     -         3650    0    0 
+azspinner 944254711  8  3 f   -     -     -         3650    0    0 
+azspinner 944254744  8  2 Bc  k     f     -         3650  400    0 
+azspinner 944254818  8  1 Bf  -     -     -         3250   50    0 
+azspinner 944254869  7  7 c   f     -     -         3200  400    0 
+azspinner 944254913  7  6 f   -     -     -         2800    0    0 
+azspinner 944254945  7  5 c   k     kf    -         2800  100    0 
+azspinner 944254993  7  4 f   -     -     -         2700    0    0 
+azspinner 944255055  7  3 f   -     -     -         2700    0    0 
+azspinner 944255097  7  2 Bf  -     -     -         2700  200    0 
+azspinner 944255148  7  1 Bf  -     -     -         2500  100    0 
+azspinner 944255183  7  7 c   f     -     -         2400  900    0 
+azspinner 944255221  6  5 f   -     -     -         1500    0    0 
+azspinner 944255258  6  5 f   -     -     -         1500    0    0 
+azspinner 944255280  6  4 f   -     -     -         1500    0    0 
+azspinner 944255332  6  3 f   -     -     -         1500    0    0 
+azspinner 944255412  6  2 Bc  kf    -     -         1500  400    0 
+azspinner 944255451  6  1 Bc  kf    -     -         1100  200    0 
+azspinner 944255503  6  6 f   -     -     -          900    0    0 
+azspinner 944255549  6  5 f   -     -     -          900    0    0 
+azspinner 944255573  6  4 f   -     -     -          900    0    0 
+azspinner 944255600  6  3 f   -     -     -          900    0    0 
+azspinner 944255647  4  2 Bf  -     -     -          900  400    0 
+azspinner 944255695  4  1 Bf  -     -     -          500  200    0 
+azspinner 944255765  4  4 f   -     -     -          300    0    0 
+azspinner 944255776  4  3 cA  -     -     -          300  300    0 9c 9d
+azspinner 944294295 19  3 c   kc    kc    kf        2000  570    0 
+azspinner 944294513 19  2 Bc  kf    -     -         1430   55    0 
+azspinner 944294599 19  1 Bc  b     bA    -         1375 1375 1820 Qd Js
+azspinner 944294684 19 19 f   -     -     -         1820    0    0 
+azspinner 944294758 18 17 f   -     -     -         1820    0    0 
+azspinner 944294839 17 16 f   -     -     -         1820    0    0 
+azspinner 944294927 17 15 f   -     -     -         1820    0    0 
+azspinner 944295029 16 13 c   f     -     -         1820   40    0 
+azspinner 944295117 16 12 rA  -     -     -         1780 1780    0 Qh Kd
+azspinner 944352627 16  3 f   -     -     -         5000    0    0 
+azspinner 944352835 13  1 Bc  kf    -     -         5000  120    0 
+azspinner 944352929 13  1 Bc  kc    bA    -         4880 4880    0 As 8s
+azspinner 944355308 17 11 r   kf    -     -         1000   65    0 
+azspinner 944355517 16 10 f   -     -     -          935    0    0 
+azspinner 944355655 15  8 f   -     -     -          935    0    0 
+azspinner 944355731 15  7 f   -     -     -          935    0    0 
+azspinner 944355815 14  5 cf  -     -     -          935  565    0 
+azspinner 944355847 14  4 rcA -     -     -          370  370    0 Ac Tc
+azspinner 944358650 18  9 f   -     -     -         5000    0    0 
+azspinner 944358702 18  8 f   -     -     -         5000    0    0 
+azspinner 944358734 18  7 f   -     -     -         5000    0    0 
+azspinner 944358778 18  6 cc  kf    -     -         5000  162    0 
+azspinner 944358860 18  5 f   -     -     -         4838    0    0 
+azspinner 944358983 18  4 r   kf    -     -         4838  175    0 
+azspinner 944359100 18  3 cf  -     -     -         4663  100    0 
+azspinner 944359191 18  2 Bf  -     -     -         4563  100    0 
+azspinner 944359283 17  1 Bc  kf    -     -         4463  100    0 
+azspinner 944359371 16 16 c   c     f     -         4363  750    0 
+azspinner 944359452 16 15 f   -     -     -         3613    0    0 
+azspinner 944359497 16 14 f   -     -     -         3613    0    0 
+azspinner 944359564 16 13 f   -     -     -         3613    0    0 
+azspinner 944359601 16 12 f   -     -     -         3613    0    0 
+azspinner 944359739 16 11 f   -     -     -         3613    0    0 
+azspinner 944359814 16 10 f   -     -     -         3613    0    0 
+azspinner 944359863 16  9 f   -     -     -         3613    0    0 
+azspinner 944359956 14  8 f   -     -     -         3613    0    0 
+azspinner 944360032 13  6 f   -     -     -         3613    0    0 
+azspinner 944360114 12  5 f   -     -     -         3613    0    0 
+azspinner 944360167 11  4 f   -     -     -         3613    0    0 
+azspinner 944360245 11  3 f   -     -     -         3613    0    0 
+azspinner 944360269 11  2 Bk  kf    -     -         3613  800    0 
+azspinner 944360327 11  1 BrA -     -     -         2813 2813 7540 Jc Ah
+azspinner 944360362 10 10 f   -     -     -         7540    0    0 
+azspinner 944360425 10  9 f   -     -     -         7540    0    0 
+azspinner 944360466 10  8 f   -     -     -         7540    0    0 
+azspinner 944360526 10  7 f   -     -     -         7540    0    0 
+azspinner 944360573 10  6 f   -     -     -         7540    0    0 
+azspinner 944360615 10  5 f   -     -     -         7540    0    0 
+azspinner 944360661 10  4 f   -     -     -         7540    0    0 
+azspinner 944360689 10  3 f   -     -     -         7540    0    0 
+azspinner 944360746 10  2 Bk  kf    -     -         7540 1600    0 
+azspinner 944360794 10  1 Bf  -     -     -         5940  800    0 
+azspinner 944360847 10 10 f   -     -     -         5140    0    0 
+azspinner 944360913 10  9 f   -     -     -         5140    0    0 
+azspinner 944360983  8  7 f   -     -     -         5140    0    0 
+azspinner 944361026  8  6 f   -     -     -         5140    0    0 
+azspinner 944361049  8  5 f   -     -     -         5140    0    0 
+azspinner 944361070  8  4 f   -     -     -         5140    0    0 
+azspinner 944361097  7  2 f   -     -     -         5140    0    0 
+azspinner 944361134  6  2 Bk  kcA   -     -         5140 5140    0 7h 5s
+azspinner 944622452 23  4 c   kf    -     -          666    6    0 
+azspinner 944622718 22  3 r   b     bA    -          660  660    0 Ah Qd
+azspinner 944710753 23 15 f   -     -     -         5000    0    0 
+azspinner 944710947 23 14 f   -     -     -         5000    0    0 
+azspinner 944711019 22 12 f   -     -     -         5000    0    0 
+azspinner 944711147 21 11 f   -     -     -         5000    0    0 
+azspinner 944711265 21 10 f   -     -     -         5000    0    0 
+azspinner 944711430 21  9 f   -     -     -         5000    0    0 
+azspinner 944711574 19  8 f   -     -     -         5000    0    0 
+azspinner 944711689 19  7 f   -     -     -         5000    0    0 
+azspinner 944711772 18  5 f   -     -     -         5000    0    0 
+azspinner 944711903 18  4 f   -     -     -         5000    0    0 
+azspinner 944711956 18  3 r   bA    -     -         5000 5000 12050 Tc Th
+azspinner 944712046 17  2 Bk  b     b     -        12050 8400 15950 Ac 5c
+azspinner 944712143 16  1 Bc  kf    -     -        19600  400    0 
+azspinner 944712276 16 16 c   b     -     -        19200 4400 7600 Ks Th
+azspinner 944712393 14 14 f   -     -     -        22400    0    0 
+azspinner 944712516 14 13 f   -     -     -        22400    0    0 
+azspinner 944712560 14 12 f   -     -     -        22400    0    0 
+azspinner 944712638 14 11 f   -     -     -        22400    0    0 
+azspinner 944712717 14 10 f   -     -     -        22400    0    0 
+azspinner 944712828 14  9 f   -     -     -        22400    0    0 
+azspinner 944712906 13  7 f   -     -     -        22400    0    0 
+azspinner 944712962 13  6 f   -     -     -        22400    0    0 
+azspinner 944713030 13  5 f   -     -     -        22400    0    0 
+azspinner 944713134 13  4 f   -     -     -        22400    0    0 
+azspinner 944713188 12  3 f   -     -     -        22400    0    0 
+azspinner 944713250 11  2 Bf  -     -     -        22400 3200    0 
+azspinner 944713296 10  1 Bf  -     -     -        19200 1600    0 
+azspinner 944713376 10 10 f   -     -     -        17600    0    0 
+azspinner 944713419  8  7 c   bA    -     -        17600 17600 32400 4c 4h
+azspinner 944713498  6  5 f   -     -     -        32400    0    0 
+azspinner 944713561  6  5 f   -     -     -        32400    0    0 
+azspinner 944713581  6  4 f   -     -     -        32400    0    0 
+azspinner 944713616  6  3 f   -     -     -        32400    0    0 
+azspinner 944713643  6  2 B   -     -     -        32400 6400 9600 
+azspinner 944713657  6  1 Br  -     -     -        35600 25600 12200 Qh Jd
+azspinner 944713708  6  6 f   -     -     -        22200    0    0 
+azspinner 944713743  6  5 f   -     -     -        22200    0    0 
+azspinner 944713759  6  4 rA  -     -     -        22200 22200 31800 
+azspinner 944713807  6  3 cc  k     bA    -        31800 31800 17800 9h Ah
+azspinner 944713846  5  2 Bk  bA    -     -        17800 17800 42000 5h Kd
+azspinner 944713901  5  1 Bc  k     b     -        42000 25000 19800 Qs Tc
+azspinner 944713936  5  5 r   -     -     -        36800 22400 47000 Kc 9h
+azspinner 944713957  3  3 f   -     -     -        61400    0    0 
+azspinner 944713967  3  3 r   -     -     -        61400 22400 32000 
+azspinner 944713979  3  2 Bk  k     k     c        71000 31900 31900 2d As
+azspinner 944714006  3  1 Bc  -     -     -        71000 12100    0 2h 5d
+azspinner 944714020  3  3 f   -     -     -        58900    0    0 
+azspinner 944714038  3  2 Bk  k     k     k        58900 12800    0 Tc Jc
+azspinner 944714059  3  1 Br  -     -     -        46100 38400 75400 9s Ah
+azspinner 944714121  2  2 r   -     -     -        83100 38400 51200 
+azspinner 944714138  2  2 Bk  c     -     -        95900 19100    0 4d Td
+azspinner 944714151  2  1 Br  -     -     -        76800 38400 51200 
+azspinner 944714171  2  2 Bk  k     k     k        89600 12800 25600 Jh Qh
+azspinner 944714195  2  1 Bc  -     -     -       102400 12600 25200 8s 2s
+azspinner 944714581 15  1 Bf  -     -     -         5000   25    0 
+azspinner 944714610 15 15 c   f     -     -         4975   50    0 
+azspinner 944714720 14 13 c   f     -     -         4925  250    0 
+azspinner 944714841 14 12 f   -     -     -         4675    0    0 
+azspinner 944714953 14 11 f   -     -     -         4675    0    0 
+azspinner 944715034 13 10 f   -     -     -         4675    0    0 
+azspinner 944715121 13  9 f   -     -     -         4675    0    0 
+azspinner 944715181 13  8 f   -     -     -         4675    0    0 
+azspinner 944715295 13  7 f   -     -     -         4675    0    0 
+azspinner 944715392 13  6 f   -     -     -         4675    0    0 
+azspinner 944715524 12  5 f   -     -     -         4675    0    0 
+azspinner 944715620 12  4 f   -     -     -         4675    0    0 
+azspinner 944715770 11  3 f   -     -     -         4675    0    0 
+azspinner 944715828 10  2 Bf  -     -     -         4675  400    0 
+azspinner 944715890 10  1 Bf  -     -     -         4275  200    0 
+azspinner 944716037  8  8 f   -     -     -         4075    0    0 
+azspinner 944716091  8  7 f   -     -     -         4075    0    0 
+azspinner 944716126  8  6 c   f     -     -         4075 1400    0 
+azspinner 944716152  8  5 f   -     -     -         2675    0    0 
+azspinner 944716206  8  4 f   -     -     -         2675    0    0 
+azspinner 944716262  8  3 c   f     -     -         2675  800    0 
+azspinner 944716324  7  2 Bf  -     -     -         1875  800    0 
+azspinner 944716341  7  1 Bf  -     -     -         1075  400    0 
+azspinner 944716351  7  7 f   -     -     -          675    0    0 
+azspinner 944716385  6  5 f   -     -     -          675    0    0 
+azspinner 944716413  6  4 cA  -     -     -          675  675    0 Th Ts
+azspinner 944717377 17  4 c   kf    -     -          500    2    0 
+azspinner 944717500 17  3 f   -     -     -          498    0    0 
+azspinner 944717556 16  2 Bk  kf    -     -          498    2    0 
+azspinner 944717658 16  1 Bc  bc    kf    -          496  289    0 
+azspinner 944717768 15 15 f   -     -     -          207    0    0 
+azspinner 944717864 14 14 f   -     -     -          207    0    0 
+azspinner 944717926 14 13 f   -     -     -          207    0    0 
+azspinner 944718010 14 12 f   -     -     -          207    0    0 
+azspinner 944718044 13 10 c   f     -     -          207    4    0 
+azspinner 944718117 13  9 f   -     -     -          203    0    0 
+azspinner 944718182 12  7 f   -     -     -          203    0    0 
+azspinner 944718227 11  6 f   -     -     -          203    0    0 
+azspinner 944718285 11  5 f   -     -     -          203    0    0 
+azspinner 944718312 11  4 r   b     -     -          203  156  240 
+azspinner 944718358 11  3 f   -     -     -          287    0    0 
+azspinner 944718456 11  2 Bk  b     -     -          287   28   40 
+azspinner 944718478 11  1 Bc  kf    -     -          299    8    0 
+azspinner 944718567 11 11 f   -     -     -          291    0    0 
+azspinner 944718614 11 10 f   -     -     -          291    0    0 
+azspinner 944718681 10  8 f   -     -     -          291    0    0 
+azspinner 944718715 10  7 r   k     cA    -          291  291    0 Ac Kd
+azspinner 944960940 10  2 Bk  kc    k     kf        1000   50    0 
+azspinner 944961117 10  1 Bc  k     kf    -          950   10    0 
+azspinner 944961277  9  9 c   k     f     -          940   20    0 
+azspinner 944961538 16 12 c   f     -     -         5000   50    0 
+azspinner 944961631 14  9 f   -     -     -         4950    0    0 
+azspinner 944961719 14  8 f   -     -     -         4950    0    0 
+azspinner 944961747 14  7 f   -     -     -         4950    0    0 
+azspinner 944961835 14  6 f   -     -     -         4950    0    0 
+azspinner 944961921 14  5 cc  kf    -     -         4950  850    0 
+azspinner 944961982 14  4 c   kf    -     -         4100  100    0 
+azspinner 944962064 14  3 f   -     -     -         4000    0    0 
+azspinner 944962162 14  2 Bf  -     -     -         4000  100    0 
+azspinner 944962262 14  1 Bc  kf    -     -         3900  200    0 
+azspinner 944962361 13 13 f   -     -     -         3700    0    0 
+azspinner 944962422 12 11 c   f     -     -         3700  200    0 
+azspinner 944962505 12 10 f   -     -     -         3500    0    0 
+azspinner 944962592 11  8 c   b     -     -         3500  900 1400 
+azspinner 944962623 11  7 c   b     bA    -         4000 4000 9400 Jd Th
+azspinner 944962749 11  6 f   -     -     -         9400    0    0 
+azspinner 944962787 11  5 f   -     -     -         9400    0    0 
+azspinner 944962831 11  4 f   -     -     -         9400    0    0 
+azspinner 944962851 11  3 f   -     -     -         9400    0    0 
+azspinner 944962895 11  2 Bk  kc    kc    kf        9400 3575    0 
+azspinner 944962973 10  1 Bc  k     kf    -         5825  800    0 
+azspinner 944963075 10 10 f   -     -     -         5025    0    0 
+azspinner 944963115  9  8 f   -     -     -         5025    0    0 
+azspinner 944963192  8  7 f   -     -     -         5025    0    0 
+azspinner 944963262  8  6 f   -     -     -         5025    0    0 
+azspinner 944963315  8  5 f   -     -     -         5025    0    0 
+azspinner 944963370  7  3 f   -     -     -         5025    0    0 
+azspinner 944963414  7  3 f   -     -     -         5025    0    0 
+azspinner 944963469  7  2 Bk  cA    -     -         5025 5025    0 Jh 9d
+azspinner 944964295 17  4 f   -     -     -         5000    0    0 
+azspinner 944964417 17  3 f   -     -     -         5000    0    0 
+azspinner 944964473 17  2 Bc  kf    -     -         5000  275    0 
+azspinner 944964568 17  1 Bc  kf    -     -         4725  275    0 
+azspinner 944964634 15 15 f   -     -     -         4450    0    0 
+azspinner 944964675 15 14 f   -     -     -         4450    0    0 
+azspinner 944964729 15 13 f   -     -     -         4450    0    0 
+azspinner 944964772 15 12 f   -     -     -         4450    0    0 
+azspinner 944964841 15 11 f   -     -     -         4450    0    0 
+azspinner 944964862 15 10 f   -     -     -         4450    0    0 
+azspinner 944964993 14  9 c   k     k     k         4450  200    0 Kd 8d
+azspinner 944965062 14  8 r   -     -     -         4250 1100 1800 
+azspinner 944965105 14  7 f   -     -     -         4950    0    0 
+azspinner 944965169 14  6 f   -     -     -         4950    0    0 
+azspinner 944965204 14  5 f   -     -     -         4950    0    0 
+azspinner 944965278 14  4 cc  kc    -     -         4950 3150 7100 Jd Qh
+azspinner 944965320 13  3 f   -     -     -         8900    0    0 
+azspinner 944965386 13  2 Bk  kf    -     -         8900  400    0 
+azspinner 944965451 13  1 Bc  kr    bcA   -         8500 8500    0 Ts Kc
+azspinner 944967164 15  9 c   k     f     -        10000   50    0 
+azspinner 944967279 15  8 c   k     f     -         9950   50    0 
+azspinner 944967380 15  7 f   -     -     -         9900    0    0 
+azspinner 944967517 15  6 f   -     -     -         9900    0    0 
+azspinner 944967615 15  5 f   -     -     -         9900    0    0 
+azspinner 944967677 15  4 f   -     -     -         9900    0    0 
+azspinner 944967752 14  2 f   -     -     -         9900    0    0 
+azspinner 944967823 14  2 Bk  kf    -     -         9900  100    0 
+azspinner 944967914 14  1 Bf  -     -     -         9800   50    0 
+azspinner 944967974 14 14 f   -     -     -         9750    0    0 
+azspinner 944968056 13 12 f   -     -     -         9750    0    0 
+azspinner 944968126 13 11 c   f     -     -         9750  200    0 
+azspinner 944968244 11  8 f   -     -     -         9550    0    0 
+azspinner 944968313 10  7 f   -     -     -         9550    0    0 
+azspinner 944968383  8  4 f   -     -     -         9550    0    0 
+azspinner 944968417  8  4 f   -     -     -         9550    0    0 
+azspinner 944968451  8  3 r   kf    -     -         9550 1400    0 
+azspinner 944968497  7  1 Bk  k     k     k         8150  400    0 3h 7c
+azspinner 944968550  7  1 Bf  -     -     -         7750  200    0 
+azspinner 944968567  7  7 f   -     -     -         7550    0    0 
+azspinner 944968602  7  6 f   -     -     -         7550    0    0 
+azspinner 944968638  7  5 cc  ccA   -     -         7550 7550    0 9d Kd
+azspinner 944971093 17  9 f   -     -     -        10000    0    0 
+azspinner 944971199 17  8 f   -     -     -        10000    0    0 
+azspinner 944971307 16  6 f   -     -     -        10000    0    0 
+azspinner 944971375 15  6 f   -     -     -        10000    0    0 
+azspinner 944971455 13  5 f   -     -     -        10000    0    0 
+azspinner 944971545 13  4 f   -     -     -        10000    0    0 
+azspinner 944971611 13  3 rc  kf    -     -        10000  950    0 
+azspinner 944971702 12  2 Bf  -     -     -         9050  100    0 
+azspinner 944971765 12  1 Bf  -     -     -         8950   50    0 
+azspinner 944971836 12 12 f   -     -     -         8900    0    0 
+azspinner 944971914 12 11 f   -     -     -         8900    0    0 
+azspinner 944971963 12 10 c   rA    -     -         8900 8900 19000 Qd Qh
+azspinner 944972023 12  9 c   f     -     -        19000  200    0 
+azspinner 944972090 12  8 f   -     -     -        18800    0    0 
+azspinner 944972179 12  7 f   -     -     -        18800    0    0 
+azspinner 944972226 12  6 f   -     -     -        18800    0    0 
+azspinner 944972305 12  5 f   -     -     -        18800    0    0 
+azspinner 944972340 11  4 f   -     -     -        18800    0    0 
+azspinner 944972370 11  3 f   -     -     -        18800    0    0 
+azspinner 944972450 11  2 Bk  c     f     -        18800 2000    0 
+azspinner 944972502  9  1 Bc  k     k     b        16800 1600 2400 
+azspinner 944972571  9  9 f   -     -     -        17600    0    0 
+azspinner 944972629  9  8 f   -     -     -        17600    0    0 
+azspinner 944972664  9  7 f   -     -     -        17600    0    0 
+azspinner 944972693  9  6 c   cf    -     -        17600 5600    0 
+azspinner 944972747  9  5 c   f     -     -        12000  800    0 
+azspinner 944972793  8  4 r   b     -     -        11200 9600 13600 
+azspinner 944972819  8  3 f   -     -     -        15200    0    0 
+azspinner 944972850  8  2 Bf  -     -     -        15200  800    0 
+azspinner 944972895  8  1 Bc  kf    -     -        14400  800    0 
+azspinner 944972954  7  7 f   -     -     -        13600    0    0 
+azspinner 944972999  7  7 c   k     f     -        13600 1600    0 
+azspinner 944973023  7  6 c   f     -     -        12000 1600    0 
+azspinner 944973064  7  5 f   -     -     -        10400    0    0 
+azspinner 944973098  6  4 f   -     -     -        10400    0    0 
+azspinner 944973133  6  3 f   -     -     -        10400    0    0 
+azspinner 944973155  6  2 Bk  krA   -     -        10400 10400 18400 
+azspinner 944973187  6  1 Br  bA    -     -        18400 18400    0 Qc Ac
+azspinner 945050255 12  1 Bc  k     k     kf        5000   50    0 
+azspinner 945050345 12 12 f   -     -     -         4950    0    0 
+azspinner 945050445 12 11 cc  k     c     k         4950 1450    0 Ac 2h
+azspinner 945050536 12 10 r   b     -     -         3500  725 1100 
+azspinner 945050587 12  9 f   -     -     -         3875    0    0 
+azspinner 945050634 12  8 f   -     -     -         3875    0    0 
+azspinner 945050678 11  7 f   -     -     -         3875    0    0 
+azspinner 945050755 11  6 f   -     -     -         3875    0    0 
+azspinner 945050806 11  5 f   -     -     -         3875    0    0 
+azspinner 945050900 11  4 c   k     k     kf        3875  100    0 
+azspinner 945051025 11  3 f   -     -     -         3775    0    0 
+azspinner 945051115 11  2 Bk  k     k     k         3775  200  700 2h 6h
+azspinner 945051156 11  1 Bc  b     kf    -         4275 1200    0 
+azspinner 945051222 10 10 f   -     -     -         3075    0    0 
+azspinner 945051234 10 10 f   -     -     -         3075    0    0 
+azspinner 945051273  9  8 f   -     -     -         3075    0    0 
+azspinner 945051297  9  7 f   -     -     -         3075    0    0 
+azspinner 945051347  9  6 c   f     -     -         3075  200    0 
+azspinner 945051463  9  5 f   -     -     -         2875    0    0 
+azspinner 945051533  9  4 f   -     -     -         2875    0    0 
+azspinner 945051553  9  3 f   -     -     -         2875    0    0 
+azspinner 945051655  9  2 Bk  k     kc    bA        2875 2875 5950 Jc Tc
+azspinner 945051711  9  1 Bf  -     -     -         5950  200    0 
+azspinner 945051747  8  8 c   k     k     f         5750  400    0 
+azspinner 945051795  8  7 c   k     f     -         5350  400    0 
+azspinner 945051855  8  6 c   k     f     -         4950  800    0 
+azspinner 945051911  7  4 f   -     -     -         4150    0    0 
+azspinner 945051976  7  3 f   -     -     -         4150    0    0 
+azspinner 945052018  7  2 Bf  -     -     -         4150  800    0 
+azspinner 945052034  7  1 Br  -     -     -         3350 2400 3200 
+azspinner 945052049  7  7 f   -     -     -         4150    0    0 
+azspinner 945052099  7  6 f   -     -     -         4150    0    0 
+azspinner 945052124  7  5 f   -     -     -         4150    0    0 
+azspinner 945052154  7  4 f   -     -     -         4150    0    0 
+azspinner 945052178  7  3 f   -     -     -         4150    0    0 
+azspinner 945052198  7  2 Bf  -     -     -         4150 1600    0 
+azspinner 945052283  7  1 Bf  -     -     -         2550  800    0 
+azspinner 945052330  7  7 rA  -     -     -         1750 1750    0 As Ks
+azspinner 945061451 22 10 f   -     -     -        10000    0    0 
+azspinner 945061518 22  9 f   -     -     -        10000    0    0 
+azspinner 945061644 21  8 r   b     b     k        10000 9850 22200 Jh Js
+azspinner 945061715 21  7 cf  -     -     -        22350   50    0 
+azspinner 945061804 20  5 f   -     -     -        22300    0    0 
+azspinner 945061877 18  4 cc  kf    -     -        22300  550    0 
+azspinner 945061966 18  3 f   -     -     -        21750    0    0 
+azspinner 945062012 17  2 Bf  -     -     -        21750  100    0 
+azspinner 945062076 16  1 Bc  kf    -     -        21650  100    0 
+azspinner 945062177 16 16 c   f     -     -        21550  200    0 
+azspinner 945062228 16 15 f   -     -     -        21350    0    0 
+azspinner 945062278 15 13 f   -     -     -        21350    0    0 
+azspinner 945062330 15 12 f   -     -     -        21350    0    0 
+azspinner 945062376 15 11 c   f     -     -        21350  700    0 
+azspinner 945062408 15 10 f   -     -     -        20650    0    0 
+azspinner 945062464 15  9 f   -     -     -        20650    0    0 
+azspinner 945062493 14  7 f   -     -     -        20650    0    0 
+azspinner 945062546 14  6 r   k     b     -        20650 7400 11200 
+azspinner 945062592 14  5 f   -     -     -        24450    0    0 
+azspinner 945062624 13  4 f   -     -     -        24450    0    0 
+azspinner 945062683 13  3 f   -     -     -        24450    0    0 
+azspinner 945062711 13  2 Bk  kf    -     -        24450  400    0 
+azspinner 945062831 12  1 Bc  k     k     k        24050  800    0 2d 3s
+azspinner 945062867 12 12 r   k     k     k        23250 3600 8400 As Qc
+azspinner 945062906 12 11 f   -     -     -        28050    0    0 
+azspinner 945062942 12 10 f   -     -     -        28050    0    0 
+azspinner 945062978 11  9 f   -     -     -        28050    0    0 
+azspinner 945063002 11  8 f   -     -     -        28050    0    0 
+azspinner 945063042 10  7 f   -     -     -        28050    0    0 
+azspinner 945063082 10  6 f   -     -     -        28050    0    0 
+azspinner 945063092 10  5 f   -     -     -        28050    0    0 
+azspinner 945063127 10  4 f   -     -     -        28050    0    0 
+azspinner 945063153 10  3 f   -     -     -        28050    0    0 
+azspinner 945063244 10  2 Bf  -     -     -        28050 1600    0 
+azspinner 945063267 10  1 Bf  -     -     -        26450  800    0 
+azspinner 945063330  9  9 f   -     -     -        25650    0    0 
+azspinner 945063363  9  9 r   bA    -     -        25650 25650 38450 
+azspinner 945063403  9  8 cc  bc    -     -        38450 14100 15300 Qh Tc
+azspinner 945063449  9  7 f   -     -     -        39650    0    0 
+azspinner 945063496  9  6 f   -     -     -        39650    0    0 
+azspinner 945063534  9  5 cc  -     -     -        39650 7675    0 Ts Qh
+azspinner 945063565  9  4 f   -     -     -        31975    0    0 
+azspinner 945063614  9  3 f   -     -     -        31975    0    0 
+azspinner 945063632  9  2 Bc  krA   -     -        31975 31975 64475 9h Ac
+azspinner 945063710  8  1 Bc  kf    -     -        64475 3200    0 
+azspinner 945063752  7  7 f   -     -     -        61275    0    0 
+azspinner 945063781  7  6 cc  -     -     -        61275 10500 25800 8h Ac
+azspinner 945063813  6  5 c   k     k     b        76575 63300 101450 Ac Ks
+azspinner 945063852  3  2 f   -     -     -       114725    0    0 
+azspinner 945063861  3  2 Bk  b     -     -       114725 19200 25600 
+azspinner 945063878  3  1 B   -     -     -       121125 3200 4500 8d 3h
+azspinner 945063881  2  2 f   -     -     -       122425    0    0 
+azspinner 945063888  2  2 Bc  f     -     -       122425 19200    0 
+azspinner 945063902  2  1 Br  -     -     -       103225 19200 25600 
+azspinner 945063907  2  2 Bk  k     k     c       109625 19200 38400 Kd 7c
+azspinner 945063931  2  1 Br  -     -     -       128825 19200 25600 
+azspinner 945063939  2  2 Bk  k     k     k       135225 6400 12800 2s Kh
+azspinner 945063962  2  1 Brc bA    -     -       141625 141625 63250 Kd Ah
+azspinner 945063985  2  2 Bk  f     -     -        63250 6400    0 
+azspinner 945064001  2  1 Br  k     k     kf       56850 19200    0 
+azspinner 945064026  2  2 B   -     -     -        37650 6400 9600 
+azspinner 945064030  2  1 Br  bA    -     -        40850 40850 81700 Ks 2s
+azspinner 945064044  2  2 B   -     -     -        81700 6400 9600 
+azspinner 945064052  2  1 Bf  -     -     -        84900 3200    0 
+azspinner 945064055  2  2 Bk  k     k     k        81700 6400 12800 5c 9d
+azspinner 945064077  2  1 Br  -     -     -        88100 19200 25600 
+azspinner 945064085  2  2 B   -     -     -        94500 6400 9600 
+azspinner 945064088  2  1 Bcc kf    -     -        97700 19200    0 
+azspinner 945064103  2  2 Bk  k     bc    cA       78500 78500 157000 Ac As
+azspinner 945064133  2  1 Bf  -     -     -       157000 6400    0 
+azspinner 945064140  2  2 B   -     -     -       150600 12800 19200 
+azspinner 945064145  2  1 Bf  -     -     -       157000 6400    0 
+azspinner 945064149  2  2 Bk  k     k     k       150600 12800 25600 6s Ah
+azspinner 945064169  2  1 Bf  -     -     -       163400 6400    0 
+azspinner 945064178  2  2 B   -     -     -       157000 12800 19200 
+azspinner 945064181  2  1 Bc  b     -     -       163400 38400 51200 
+azspinner 945064195  2  2 B   -     -     -       176200 12800 19200 
+azspinner 945064198  2  1 Br  -     -     -       182600 38400 51200 
+azspinner 945064203  2  2 Bk  c     -     -       195400 24600 49200 Ks 5s
+azspinner 945064561 17  9 f   -     -     -        10000    0    0 
+azspinner 945064725 17  8 c   f     -     -        10000  175    0 
+azspinner 945064845 17  7 r   kc    k     b         9825 4375 7050 Kc As
+azspinner 945064940 15  5 f   -     -     -        12500    0    0 
+azspinner 945065006 15  4 r   b     -     -        12500 2250 3800 
+azspinner 945065104 15  3 f   -     -     -        14050    0    0 
+azspinner 945065159 15  2 Bk  kf    -     -        14050  100    0 
+azspinner 945065207 15  1 Bc  bc    kf    -        13950 5100    0 
+azspinner 945065263 15 15 c   b     k     b         8850 4600 11250 Ks 6s
+azspinner 945065392 15 14 f   -     -     -        15500    0    0 
+azspinner 945065444 15 13 f   -     -     -        15500    0    0 
+azspinner 945065478 15 12 f   -     -     -        15500    0    0 
+azspinner 945065521 15 11 f   -     -     -        15500    0    0 
+azspinner 945065589 14 10 f   -     -     -        15500    0    0 
+azspinner 945065653 14  9 f   -     -     -        15500    0    0 
+azspinner 945065725 14  8 f   -     -     -        15500    0    0 
+azspinner 945065882 14  7 f   -     -     -        15500    0    0 
+azspinner 945065965 13  6 f   -     -     -        15500    0    0 
+azspinner 945066056 13  5 cf  -     -     -        15500  400    0 
+azspinner 945066109 13  4 f   -     -     -        15100    0    0 
+azspinner 945066190 13  3 c   kf    -     -        15100  400    0 
+azspinner 945066276 12  2 Bc  k     kc    k        14700 5800 12000 9d 9h
+azspinner 945066336 12  1 Bf  -     -     -        20900  400    0 
+azspinner 945066380 12 12 f   -     -     -        20500    0    0 
+azspinner 945066426 12 11 f   -     -     -        20500    0    0 
+azspinner 945066450 12 10 f   -     -     -        20500    0    0 
+azspinner 945066517 11  8 c   f     -     -        20500 3200    0 
+azspinner 945066557 11  8 f   -     -     -        17300    0    0 
+azspinner 945066591 11  7 f   -     -     -        17300    0    0 
+azspinner 945066629 11  6 c   kr    -     -        17300 13600 5733 Jh Qd
+azspinner 945066698 11  5 f   -     -     -         9433    0    0 
+azspinner 945066736 11  4 f   -     -     -         9433    0    0 
+azspinner 945066783  9  2 Bf  -     -     -         9433 1600    0 
+azspinner 945066807  9  1 BcA -     -     -         7833 7833    0 Js Kc
+azspinner 945227148 19 14 f   -     -     -         4000    0    0 
+azspinner 945227278 19 13 f   -     -     -         4000    0    0 
+azspinner 945227310 19 12 f   -     -     -         4000    0    0 
+azspinner 945227418 18 11 f   -     -     -         4000    0    0 
+azspinner 945227455 17 10 cc  kc    kc    kf        4000  130    0 
+azspinner 945227597 17  9 f   -     -     -         3870    0    0 
+azspinner 945227669 16  7 f   -     -     -         3870    0    0 
+azspinner 945227743 16  6 f   -     -     -         3870    0    0 
+azspinner 945227820 16  5 cc  kf    -     -         3870   70    0 
+azspinner 945227928 16  4 f   -     -     -         3800    0    0 
+azspinner 945227988 16  3 f   -     -     -         3800    0    0 
+azspinner 945228062 16  2 Bf  -     -     -         3800   40    0 
+azspinner 945228112 14  1 Bc  k     k     kf        3760   40    0 
+azspinner 945228230 14 14 f   -     -     -         3720    0    0 
+azspinner 945228304 14 13 c   f     -     -         3720  180    0 
+azspinner 945228356 14 12 c   k     k     f         3540   80    0 
+azspinner 945228436 14 11 f   -     -     -         3460    0    0 
+azspinner 945228488 13  9 cc  k     f     -         3460  560    0 
+azspinner 945228602 13  9 f   -     -     -         2900    0    0 
+azspinner 945228644 12  7 f   -     -     -         2900    0    0 
+azspinner 945228665 12  6 f   -     -     -         2900    0    0 
+azspinner 945228694 12  5 f   -     -     -         2900    0    0 
+azspinner 945228735 12  4 f   -     -     -         2900    0    0 
+azspinner 945228771 12  3 f   -     -     -         2900    0    0 
+azspinner 945228837 12  2 Bk  kf    -     -         2900  160    0 
+azspinner 945228891 12  1 Bc  kf    -     -         2740  160    0 
+azspinner 945228935 12 12 f   -     -     -         2580    0    0 
+azspinner 945228969 12 11 r   k     k     k         2580  720 1680 Ac Qh
+azspinner 945229020 12 10 c   k     f     -         3540  320    0 
+azspinner 945229082 12  9 c   k     f     -         3220  320    0 
+azspinner 945229125 12  8 f   -     -     -         2900    0    0 
+azspinner 945229158 12  7 c   k     k     f         2900  320    0 
+azspinner 945229183 12  6 f   -     -     -         2580    0    0 
+azspinner 945229211 12  5 f   -     -     -         2580    0    0 
+azspinner 945229221 12  4 f   -     -     -         2580    0    0 
+azspinner 945229264 12  3 f   -     -     -         2580    0    0 
+azspinner 945229319 11  2 Bf  -     -     -         2580  320    0 
+azspinner 945229365 10  1 Bf  -     -     -         2260  320    0 
+azspinner 945229402 10 10 f   -     -     -         1940    0    0 
+azspinner 945229438 10  9 f   -     -     -         1940    0    0 
+azspinner 945229471 10  8 f   -     -     -         1940    0    0 
+azspinner 945229510 10  7 f   -     -     -         1940    0    0 
+azspinner 945229538 10  6 f   -     -     -         1940    0    0 
+azspinner 945229559 10  5 f   -     -     -         1940    0    0 
+azspinner 945229597 10  4 rA  -     -     -         1940 1940 2900 
+azspinner 945229610 10  3 f   -     -     -         2900    0    0 
+azspinner 945229631 10  2 Bk  bA    -     -         2900 2900    0 7h Qh
+azspinner 945306348 16  9 f   -     -     -         5000    0    0 
+azspinner 945306469 16  8 r   k     b     b         5000 3875 8100 As Qc
+azspinner 945306532 16  7 f   -     -     -         9225    0    0 
+azspinner 945306614 16  6 f   -     -     -         9225    0    0 
+azspinner 945306645 16  5 f   -     -     -         9225    0    0 
+azspinner 945306696 15  4 f   -     -     -         9225    0    0 
+azspinner 945306742 15  3 r   b     b     -         9225 6350 2750 Jd Ac
+azspinner 945306807 15  2 Bk  kc    k     k         5625  550 1800 Th Kc
+azspinner 945306856 15  1 Bc  kf    -     -         6875  750    0 
+azspinner 945306924 15 15 c   k     k     k         6125  900 2750 As Kh
+azspinner 945306970 14 13 f   -     -     -         7975    0    0 
+azspinner 945307019 13 11 f   -     -     -         7975    0    0 
+azspinner 945307069 13 10 c   c     f     -         7975  300    0 
+azspinner 945307129 13  9 r   k     k     k         7675  900    0 Kh Ts
+azspinner 945307199 13  8 f   -     -     -         6775    0    0 
+azspinner 945307319 13  7 f   -     -     -         6775    0    0 
+azspinner 945307388 13  6 f   -     -     -         6775    0    0 
+azspinner 945307456 12  5 cc  -     -     -         6775 1050 2600 Qh Jc
+azspinner 945307508 11  4 f   -     -     -         8325    0    0 
+azspinner 945307537 11  3 f   -     -     -         8325    0    0 
+azspinner 945307566 10  1 Bk  kf    -     -         8325  400    0 
+azspinner 945307632  9  1 Bc  kf    -     -         7925  400    0 
+azspinner 945307682  9  9 r   k     b     -         7525 4400 6000 
+azspinner 945307732  9  8 c   k     c     rA        9125 9125 18850 Jd Qd
+azspinner 945307791  9  7 f   -     -     -        18850    0    0 
+azspinner 945307847  8  6 f   -     -     -        18850    0    0 
+azspinner 945307882  8  5 cf  -     -     -        18850  800    0 
+azspinner 945307925  7  3 f   -     -     -        18050    0    0 
+azspinner 945307944  7  2 Bf  -     -     -        18050  800    0 
+azspinner 945307960  7  1 Bf  -     -     -        17250  400    0 
+azspinner 945307984  7  7 cc  b     -     -        16850 12800 19200 
+azspinner 945308035  7  6 f   -     -     -        23250    0    0 
+azspinner 945308052  7  5 f   -     -     -        23250    0    0 
+azspinner 945308095  7  4 f   -     -     -        23250    0    0 
+azspinner 945308110  7  3 c   k     k     kf       23250  800    0 
+azspinner 945308150  7  2 B   -     -     -        22450  800 1200 
+azspinner 945308156  7  1 Bc  kf    -     -        22850  800    0 
+azspinner 945308184  7  7 f   -     -     -        22050    0    0 
+azspinner 945308190  7  6 f   -     -     -        22050    0    0 
+azspinner 945308205  7  5 f   -     -     -        22050    0    0 
+azspinner 945308224  7  4 f   -     -     -        22050    0    0 
+azspinner 945308247  6  3 f   -     -     -        22050    0    0 
+azspinner 945308262  6  2 Bk  b     kc    -        22050 12625 26050 As 7d
+azspinner 945308291  5  1 Br  -     -     -        35475 7600 8400 Ac Ks
+azspinner 945308314  5  5 r   -     -     -        36275 5600 8000 
+azspinner 945308332  5  4 f   -     -     -        38675    0    0 
+azspinner 945308352  5  3 f   -     -     -        38675    0    0 
+azspinner 945308369  4  2 Bk  b     -     -        38675 4800 1775 5h As
+azspinner 945308388  4  1 Bc  k     k     k        35650 1600    0 Qd 8h
+azspinner 945308423  4  4 f   -     -     -        34050    0    0 
+azspinner 945308449  4  3 r   -     -     -        34050 5600 8000 
+azspinner 945308458  4  2 Bk  b     -     -        36450 4800 6400 
+azspinner 945308476  4  1 Bf  -     -     -        38050  800    0 
+azspinner 945308510  3  3 f   -     -     -        37250    0    0 
+azspinner 945308550  3  2 Bf  -     -     -        37250 1600    0 
+azspinner 945308560  3  1 Bc  kf    -     -        35650 1600    0 
+azspinner 945308576  3  3 f   -     -     -        34050    0    0 
+azspinner 945308595  3  2 B   -     -     -        34050 1600 2400 
+azspinner 945308603  3  1 Bf  -     -     -        34850 1600    0 
+azspinner 945308610  3  3 r   bA    -     -        33250 33250 46050 
+azspinner 945308624  3  2 B   -     -     -        46050 3200 4800 
+azspinner 945308629  3  1 Bcc k     k     k        47650 9600    0 Kh 2c
+azspinner 945308654  3  3 r   -     -     -        38050 11200 16000 
+azspinner 945308663  3  2 Bk  k     kf    -        42850 3200    0 
+azspinner 945308685  3  1 Br  -     -     -        39650 9600 12800 
+azspinner 945308693  3  3 c   f     -     -        42850 3200    0 
+azspinner 945308714  3  2 Bk  r     -     -        39650 28800 43250 Kc 3s
+azspinner 945308732  2  1 Br  -     -     -        54100 9600 12800 
+azspinner 945308745  2  2 Bk  b     -     -        57300 9600 12800 
+azspinner 945308759  2  1 Bcc b     -     -        60500 28800 38400 
+azspinner 945308773  2  2 B   -     -     -        70100 3200 4800 
+azspinner 945308776  2  1 Bf  -     -     -        71700 1600    0 
+azspinner 945308780  2  2 B   -     -     -        70100 3200 4800 
+azspinner 945308783  2  1 Bf  -     -     -        71700 1600    0 
+azspinner 945308787  2  2 B   -     -     -        70100 3200 4800 
+azspinner 945308790  2  1 Bc  kf    -     -        71700 3200    0 
+azspinner 945308805  2  2 Bk  f     -     -        68500 3200    0 
+azspinner 945308818  2  1 Br  -     -     -        65300 9600 12800 
+azspinner 945308823  2  2 Bf  -     -     -        68500 3200    0 
+azspinner 945308827  2  1 Brc -     -     -        65300 14700    0 5h Kc
+azspinner 945308837  2  2 B   -     -     -        50600 3200 4800 
+azspinner 945308847  2  1 Bf  -     -     -        52200 1600    0 
+azspinner 945308852  2  2 B   -     -     -        50600 3200 4800 
+azspinner 945308855  2  1 Bc  k     k     b        52200 9600 12800 
+azspinner 945308875  2  2 B   -     -     -        55400 3200 4800 
+azspinner 945308877  2  1 Bf  -     -     -        57000 1600    0 
+azspinner 945308883  2  2 B   -     -     -        55400 3200 4800 
+azspinner 945308888  2  1 Bc  b     -     -        57000 9600 12800 
+azspinner 945308897  2  2 B   -     -     -        60200 3200 4800 
+azspinner 945308899  2  1 Br  -     -     -        61800 9600 12800 
+azspinner 945308904  2  2 Bf  -     -     -        65000 3200    0 
+azspinner 945308910  2  1 Bc  k     k     k        61800 3200 6400 8d Jc
+azspinner 945308932  2  2 B   -     -     -        65000 3200 4800 
+azspinner 945308938  2  1 Br  k     k     b        66600 28800 15400 2s Ad
+azspinner 945308973  2  2 Br  -     -     -        53200 19200 25600 
+azspinner 945308986  2  1 Br  -     -     -        59600 19200 25600 
+azspinner 945308991  2  2 Bk  k     f     -        66000 6400    0 
+azspinner 945309011  2  1 Bc  k     k     k        59600 6400 12800 7c 6s
+azspinner 945309035  2  2 B   -     -     -        66000 6400 9600 
+azspinner 945309042  2  1 Bf  -     -     -        69200 3200    0 
+azspinner 945309045  2  2 B   -     -     -        66000 6400 9600 
+azspinner 945309049  2  1 Bf  -     -     -        69200 3200    0 
+azspinner 945309054  2  2 Bf  -     -     -        66000 6400    0 
+azspinner 945309066  2  1 Bf  -     -     -        59600 3200    0 
+azspinner 945309069  2  2 B   -     -     -        56400 6400 9600 
+azspinner 945309072  2  1 Br  k     kc    -        59600 20400    0 8s Qd
+azspinner 945309097  2  2 B   -     -     -        39200 6400 9600 
+azspinner 945309106  2  1 Bf  -     -     -        42400 3200    0 
+azspinner 945309111  2  2 B   -     -     -        39200 6400 9600 
+azspinner 945309117  2  1 Br  bA    -     -        42400 42400 61600 
+azspinner 945309137  2  2 Bk  f     -     -        61600 6400    0 
+azspinner 945309153  2  1 Br  -     -     -        55200 19200 25600 
+azspinner 945309159  2  2 Bk  c     -     -        61600 18400    0 Th Qc
+azspinner 945309170  2  1 Bc  b     -     -        43200 19200 25600 
+azspinner 945309185  2  2 B   -     -     -        49600 6400 9600 
+azspinner 945309188  2  1 Bc  k     k     k        52800 6400    0 5s 9s
+azspinner 945309207  2  2 Bk  c     f     -        46400 19200    0 
+azspinner 945309242  2  1 Bf  -     -     -        27200 3200    0 
+azspinner 945309245  2  2 B   -     -     -        24000 6400 9600 
+azspinner 945309248  2  1 Br  -     -     -        27200 19200 25600 
+azspinner 945309255  2  2 B   -     -     -        33600 6400 9600 
+azspinner 945309257  2  1 Bf  -     -     -        36800 3200    0 
+azspinner 945309260  2  2 Bk  b     -     -        33600 19200 25600 
+azspinner 945309275  2  1 Bf  -     -     -        40000 3200    0 
+azspinner 945309279  2  2 B   -     -     -        36800 6400 9600 
+azspinner 945309282  2  1 Bc  k     k     b        40000 19200 25600 
+azspinner 945309310  2  2 B   -     -     -        46400 6400 9600 
+azspinner 945309313  2  1 Bc  k     k     k        49600 6400    0 5c Qc
+azspinner 945309333  2  2 Bf  -     -     -        43200 12800    0 
+azspinner 945309341  2  1 Bf  -     -     -        30400 6400    0 
+azspinner 945309344  2  2 B   -     -     -        24000 12800 19200 
+azspinner 945309348  2  1 Bc  kf    -     -        30400 12800    0 
+azspinner 945309366  2  2 BrA -     -     -        17600 17600 35200 Kd 6h
+azspinner 945309379  2  1 BrA -     -     -        35200 35200 48000 
+azspinner 945309388  2  2 B   -     -     -        48000 12800 19200 
+azspinner 945309391  2  1 Bf  -     -     -        54400 6400    0 
+azspinner 945309397  2  2 B   -     -     -        48000 12800 19200 
+azspinner 945309400  2  1 Bc  k     k     k        54400 12800    0 Qd 9c
+azspinner 945309425  2  2 B   -     -     -        41600 12800 19200 
+azspinner 945309431  2  1 Bf  -     -     -        48000 6400    0 
+azspinner 945309434  2  2 Bf  -     -     -        41600 12800    0 
+azspinner 945309441  2  1 Bf  -     -     -        28800 6400    0 
+azspinner 945309443  2  2 BcA -     -     -        22400 22400    0 Qh 6s
+azspinner 945309805 13 11 r   c     b     -         5000 4514 6702 
+azspinner 945309885 13 10 c   f     -     -         7188  600    0 
+azspinner 945309939 12  8 f   -     -     -         6588    0    0 
+azspinner 945310021 12  8 f   -     -     -         6588    0    0 
+azspinner 945310083 12  7 f   -     -     -         6588    0    0 
+azspinner 945310201 12  6 r   f     -     -         6588  550    0 
+azspinner 945310264 11  4 r   b     -     -         6038 1950 3000 
+azspinner 945310327 11  3 f   -     -     -         7088    0    0 
+azspinner 945310388 11  2 Bc  k     kf    -         7088  450    0 
+azspinner 945310459 11  1 Br  bc    -     -         6638 5000 10400 Ks Qc
+azspinner 945310509 10 10 c   k     k     f        12038  200    0 
+azspinner 945310573 10 10 f   -     -     -        11838    0    0 
+azspinner 945310614 10  9 f   -     -     -        11838    0    0 
+azspinner 945310674  9  7 f   -     -     -        11838    0    0 
+azspinner 945310726  8  7 r   -     -     -        11838 1100 1800 
+azspinner 945310764  8  6 f   -     -     -        12538    0    0 
+azspinner 945310796  8  5 cf  -     -     -        12538  200    0 
+azspinner 945310839  7  4 f   -     -     -        12338    0    0 
+azspinner 945310877  6  2 c   bc    -     -        12338 3850    0 4d Ad
+azspinner 945310919  6  2 Bf  -     -     -         8488  400    0 
+azspinner 945310958  6  1 Bcc kf    -     -         8088 1200    0 
+azspinner 945310994  6  6 cc  k     f     -         6888 1075    0 
+azspinner 945311047  5  4 f   -     -     -         5813    0    0 
+azspinner 945311059  5  4 c   k     kf    -         5813  400    0 
+azspinner 945311107  5  3 r   k     k     k         5413 1400    0 Qc Tc
+azspinner 945311148  5  2 Bf  -     -     -         4013  800    0 
+azspinner 945311160  5  1 Bc  kf    -     -         3213  800    0 
+azspinner 945311183  5  5 rA  -     -     -         2413 2413    0 Ad Qs
+azspinner 945312395 17  5 cc  kf    -     -         1000   55    0 
+azspinner 945312522 17  4 f   -     -     -          945    0    0 
+azspinner 945312649 16  3 f   -     -     -          945    0    0 
+azspinner 945312717 16  2 Bf  -     -     -          945   20    0 
+azspinner 945312784 14  1 Bf  -     -     -          925   10    0 
+azspinner 945312869 14 14 c   f     -     -          915  110    0 
+azspinner 945312971 13 12 f   -     -     -          805    0    0 
+azspinner 945313074 13 11 f   -     -     -          805    0    0 
+azspinner 945313105 13 10 f   -     -     -          805    0    0 
+azspinner 945313223 12  9 c   k     f     -          805   40    0 
+azspinner 945313306 12  8 f   -     -     -          765    0    0 
+azspinner 945313386 12  7 f   -     -     -          765    0    0 
+azspinner 945313420 11  6 f   -     -     -          765    0    0 
+azspinner 945313505 11  5 f   -     -     -          765    0    0 
+azspinner 945313604 11  4 f   -     -     -          765    0    0 
+azspinner 945313664 10  3 c   bcA   -     -          765  765    0 Qs Jc
+azspinner 945381569 15  8 f   -     -     -          500    0    0 
+azspinner 945381697 15  7 f   -     -     -          500    0    0 
+azspinner 945381746 14  6 c   b     b     kf         500  124    0 
+azspinner 945381882 14  5 r   b     b     -          376  134  180 
+azspinner 945381928 14  4 f   -     -     -          422    0    0 
+azspinner 945381963 14  3 c   k     k     k          422    8    0 Qc Td
+azspinner 945382018 14  2 Bf  -     -     -          414    8    0 
+azspinner 945382040 14  1 Bc  kf    -     -          406    8    0 
+azspinner 945382109 14 14 c   c     f     -          398   72    0 
+azspinner 945382186 14 13 f   -     -     -          326    0    0 
+azspinner 945382263 13 11 f   -     -     -          326    0    0 
+azspinner 945382392 13 10 c   f     -     -          326   88    0 
+azspinner 945382448 13  9 f   -     -     -          238    0    0 
+azspinner 945382598 13  8 f   -     -     -          238    0    0 
+azspinner 945382658 13  7 f   -     -     -          238    0    0 
+azspinner 945382706 12  6 f   -     -     -          238    0    0 
+azspinner 945382761 12  5 cf  -     -     -          238   32    0 
+azspinner 945382822 12  4 f   -     -     -          206    0    0 
+azspinner 945382949 10  2 Bk  kf    -     -          206   32    0 
+azspinner 945383012 10  1 Bf  -     -     -          174   16    0 
+azspinner 945383072 10 10 f   -     -     -          158    0    0 
+azspinner 945383122  9  8 f   -     -     -          158    0    0 
+azspinner 945383179  9  7 f   -     -     -          158    0    0 
+azspinner 945383229  9  6 f   -     -     -          158    0    0 
+azspinner 945383268  9  5 f   -     -     -          158    0    0 
+azspinner 945383316  9  4 f   -     -     -          158    0    0 
+azspinner 945383393  9  3 rA  -     -     -          158  158  632 Qc Jc
+azspinner 945383485  8  1 Bk  kf    -     -          632   64    0 
+azspinner 945383554  8  1 Bf  -     -     -          568   64    0 
+azspinner 945383606  7  7 r   -     -     -          504  384  512 
+azspinner 945383630  7  7 r   -     -     -          632  448  640 
+azspinner 945383653  7  6 c   b     -     -          824  576  896 
+azspinner 945383759  6  4 f   -     -     -         1144    0    0 
+azspinner 945383790  5  3 f   -     -     -         1144    0    0 
+azspinner 945383808  5  2 Bk  b     k     k         1144  512    0 3d 3s
+azspinner 945383843  5  1 Bf  -     -     -          632   64    0 
+azspinner 945383869  5  5 f   -     -     -          568    0    0 
+azspinner 945383890  5  4 f   -     -     -          568    0    0 
+azspinner 945383911  5  3 f   -     -     -          568    0    0 
+azspinner 945383926  4  1 Bf  -     -     -          568  256    0 
+azspinner 945383953  4  1 BcA -     -     -          312  312    0 Ah 7s
+azspinner 945384861 11  3 f   -     -     -          500    0    0 
+azspinner 945384937 10  2 Bk  bc    kcA   -          500  500 1030 Kh Kd
+azspinner 945385028  9  1 Bf  -     -     -         1030    5    0 
+azspinner 945385069  9  9 c   f     -     -         1025   10    0 
+azspinner 945385119  9  8 f   -     -     -         1015    0    0 
+azspinner 945385175  9  7 f   -     -     -         1015    0    0 
+azspinner 945385311  8  6 f   -     -     -         1015    0    0 
+azspinner 945385378  8  5 f   -     -     -         1015    0    0 
+azspinner 945385486  8  4 f   -     -     -         1015    0    0 
+azspinner 945385552  6  3 r   k     k     k         1015  140  420 Jc Ad
+azspinner 945385631  6  2 Bk  kf    -     -         1295   40    0 
+azspinner 945385663  6  1 Brc b     -     -         1255 1080 1545 5h 5c
+azspinner 945385703  5  5 r   k     k     f         1720  120    0 
+azspinner 945385739  5  5 f   -     -     -         1600    0    0 
+azspinner 945385805  5  4 f   -     -     -         1600    0    0 
+azspinner 945385835  4  2 Bk  b     -     -         1600  240  320 
+azspinner 945385874  4  1 Bc  kf    -     -         1680  280    0 
+azspinner 945385916  4  4 f   -     -     -         1400    0    0 
+azspinner 945385956  3  3 f   -     -     -         1400    0    0 
+azspinner 945385973  3  2 Bk  r     bA    -         1400 1400    0 7d Ks
+azspinner 945468267  8  3 f   -     -     -         1000    0    0 
+azspinner 945468318  8  2 Bk  k     kf    -         1000    4    0 
+azspinner 945468350  8  1 Bf  -     -     -          996    2    0 
+azspinner 945468359  8  8 c   c     k     f          994   14    0 
+azspinner 945468386  8  7 c   r     b     -          980  734  996 
+azspinner 945468429  8  6 f   -     -     -         1242    0    0 
+azspinner 945468454  8  5 f   -     -     -         1242    0    0 
+azspinner 945468520  8  4 f   -     -     -         1242    0    0 
+azspinner 945468570  8  3 f   -     -     -         1242    0    0 
+azspinner 945468586  8  2 Bk  kf    -     -         1242    8    0 
+azspinner 945468640  8  1 Bc  kf    -     -         1234    8    0 
+azspinner 945468674  8  8 r   bf    -     -         1226  224    0 
+azspinner 945468733  8  7 f   -     -     -         1002    0    0 
+azspinner 945468756  8  6 cc  f     -     -         1002   44    0 
+azspinner 945468803  8  5 f   -     -     -          958    0    0 
+azspinner 945468843  8  4 cc  -     -     -          958  159    0 8c 8h
+azspinner 945468874  8  3 c   k     k     k          799   16   28 7h 8h
+azspinner 945468926  8  2 Bc  k     kf    -          811   72    0 
+azspinner 945468976  8  1 Bf  -     -     -          739    8    0 
+azspinner 945468992  8  8 f   -     -     -          731    0    0 
+azspinner 945469040  7  6 r   -     -     -          731   56   80 
+azspinner 945469059  7  5 c   b     -     -          755  128  192 
+azspinner 945469088  7  4 f   -     -     -          819    0    0 
+azspinner 945469113  7  3 r   bcA   -     -          819  819    0 Kc Jc
+azspinner 945469864 13  6 f   -     -     -        10000    0    0 
+azspinner 945469935 11  4 f   -     -     -        10000    0    0 
+azspinner 945470018 11  4 f   -     -     -        10000    0    0 
+azspinner 945470123 11  3 f   -     -     -        10000    0    0 
+azspinner 945470197 11  2 Bk  k     k     k        10000  100    0 9d 8s
+azspinner 945470294 11  1 Bf  -     -     -         9900   50    0 
+azspinner 945470334 10 10 f   -     -     -         9850    0    0 
+azspinner 945470404 10  9 f   -     -     -         9850    0    0 
+azspinner 945470479 10  8 f   -     -     -         9850    0    0 
+azspinner 945470536 10  7 f   -     -     -         9850    0    0 
+azspinner 945470566 10  6 f   -     -     -         9850    0    0 
+azspinner 945470617 10  5 f   -     -     -         9850    0    0 
+azspinner 945470676 10  4 f   -     -     -         9850    0    0 
+azspinner 945470712 10  3 f   -     -     -         9850    0    0 
+azspinner 945470747  9  2 Bk  kf    -     -         9850  200    0 
+azspinner 945470789  9  1 Brf -     -     -         9650 3400    0 
+azspinner 945470859  9  9 f   -     -     -         6250    0    0 
+azspinner 945470939  9  8 f   -     -     -         6250    0    0 
+azspinner 945470964  9  7 f   -     -     -         6250    0    0 
+azspinner 945471014  9  6 f   -     -     -         6250    0    0 
+azspinner 945471064  9  5 f   -     -     -         6250    0    0 
+azspinner 945471124  9  4 f   -     -     -         6250    0    0 
+azspinner 945471198  9  3 f   -     -     -         6250    0    0 
+azspinner 945471263  9  2 Bk  kf    -     -         6250  800    0 
+azspinner 945471328  9  1 Bc  kf    -     -         5450  800    0 
+azspinner 945471444  9  9 cA  -     -     -         4650 4650 10500 Ks Js
+azspinner 945471474  9  8 f   -     -     -        10500    0    0 
+azspinner 945471567  9  7 f   -     -     -        10500    0    0 
+azspinner 945471592  9  6 f   -     -     -        10500    0    0 
+azspinner 945471623  9  5 f   -     -     -        10500    0    0 
+azspinner 945471664  9  4 f   -     -     -        10500    0    0 
+azspinner 945471701  9  3 f   -     -     -        10500    0    0 
+azspinner 945471723  9  2 Bk  k     f     -        10500 1600    0 
+azspinner 945471778  9  1 Bc  b     -     -         8900 6400 9600 
+azspinner 945471822  9  9 f   -     -     -        12100    0    0 
+azspinner 945471844  9  8 f   -     -     -        12100    0    0 
+azspinner 945471868  8  6 f   -     -     -        12100    0    0 
+azspinner 945471905  8  5 f   -     -     -        12100    0    0 
+azspinner 945471947  6  2 f   -     -     -        12100    0    0 
+azspinner 945471977  6  2 Bk  kf    -     -        12100 3200    0 
+azspinner 945472012  6  1 BcA -     -     -         8900 8900    0 Kh Qh
+azspinner 945532743 12 12 c   k     c     f        10000  275    0 
+azspinner 945532791 12 11 c   c     b     -         9725 4719 7116 
+azspinner 945532905 12 10 c   c     f     -        12122  600    0 
+azspinner 945532952 12  9 f   -     -     -        11522    0    0 
+azspinner 945532986 12  8 c   k     c     f        11522  775    0 
+azspinner 945533027 12  7 f   -     -     -        10747    0    0 
+azspinner 945533097 12  6 f   -     -     -        10747    0    0 
+azspinner 945533116 12  5 f   -     -     -        10747    0    0 
+azspinner 945533164 12  4 f   -     -     -        10747    0    0 
+azspinner 945533235 12  3 f   -     -     -        10747    0    0 
+azspinner 945533273 12  2 Bf  -     -     -        10747  100    0 
+azspinner 945533328 12  1 Bc  kf    -     -        10647  100    0 
+azspinner 945533448 11 11 f   -     -     -        10547    0    0 
+azspinner 945533506 11 10 f   -     -     -        10547    0    0 
+azspinner 945533562 11  9 f   -     -     -        10547    0    0 
+azspinner 945533582 10  7 f   -     -     -        10547    0    0 
+azspinner 945533682 10  6 cc  bf    -     -        10547 5700    0 
+azspinner 945533737 10  5 f   -     -     -         4847    0    0 
+azspinner 945533800 10  4 f   -     -     -         4847    0    0 
+azspinner 945533847 10  3 f   -     -     -         4847    0    0 
+azspinner 945533942 10  2 Bf  -     -     -         4847  400    0 
+azspinner 945533974 10  1 Bf  -     -     -         4447  200    0 
+azspinner 945534013 10 10 f   -     -     -         4247    0    0 
+azspinner 945534052 10  9 f   -     -     -         4247    0    0 
+azspinner 945534105  9  7 f   -     -     -         4247    0    0 
+azspinner 945534179  9  6 f   -     -     -         4247    0    0 
+azspinner 945534225  9  5 f   -     -     -         4247    0    0 
+azspinner 945534280  8  4 f   -     -     -         4247    0    0 
+azspinner 945534306  8  3 f   -     -     -         4247    0    0 
+azspinner 945534359  8  2 Bf  -     -     -         4247  800    0 
+azspinner 945534378  8  1 Bf  -     -     -         3447  400    0 
+azspinner 945534396  8  8 f   -     -     -         3047    0    0 
+azspinner 945534460  8  7 f   -     -     -         3047    0    0 
+azspinner 945534491  7  5 f   -     -     -         3047    0    0 
+azspinner 945534571  6  4 rA  -     -     -         3047 3047    0 Ks Tc
+azspinner 945535941 20  5 c   b     b     kc       10000 3350 7200 Ad Tc
+azspinner 945536058 20  4 c   b     kf    -        13850 1975    0 
+azspinner 945536182 19  3 f   -     -     -        11875    0    0 
+azspinner 945536294 19  2 Bk  kf    -     -        11875  100    0 
+azspinner 945536382 19  1 Bcc k     b     k        11775 2100    0 7d Ac
+azspinner 945536439 19 19 c   f     -     -         9675  100    0 
+azspinner 945536508 19 18 f   -     -     -         9575    0    0 
+azspinner 945536606 19 17 f   -     -     -         9575    0    0 
+azspinner 945536664 19 16 f   -     -     -         9575    0    0 
+azspinner 945536714 19 15 f   -     -     -         9575    0    0 
+azspinner 945536805 19 14 f   -     -     -         9575    0    0 
+azspinner 945536891 19 13 f   -     -     -         9575    0    0 
+azspinner 945536953 19 12 c   f     -     -         9575  400    0 
+azspinner 945537014 19 11 c   f     -     -         9175  400    0 
+azspinner 945537122 19 10 f   -     -     -         8775    0    0 
+azspinner 945537171 19  9 f   -     -     -         8775    0    0 
+azspinner 945537243 18  8 f   -     -     -         8775    0    0 
+azspinner 945537321 18  7 f   -     -     -         8775    0    0 
+azspinner 945537344 18  6 f   -     -     -         8775    0    0 
+azspinner 945537393 17  4 f   -     -     -         8775    0    0 
+azspinner 945537473 17  3 r   bA    -     -         8775 8775 14275 As Jc
+azspinner 945537537 17  2 Bk  k     kf    -        14275  800    0 
+azspinner 945537638 17  1 Bf  -     -     -        13475  800    0 
+azspinner 945537686 16 16 f   -     -     -        12675    0    0 
+azspinner 945537740 15 14 f   -     -     -        12675    0    0 
+azspinner 945537796 15 14 f   -     -     -        12675    0    0 
+azspinner 945537871 15 13 f   -     -     -        12675    0    0 
+azspinner 945537928 15 12 f   -     -     -        12675    0    0 
+azspinner 945537961 14 10 f   -     -     -        12675    0    0 
+azspinner 945538011 13  8 ccA -     -     -        12675 12675    0 Qd Ac
+azspinner 945649510 14 13 r   k     k     k         5000  700    0 Kd As
+azspinner 945649617 14 12 c   f     -     -         4300   40    0 
+azspinner 945649706 14 11 f   -     -     -         4260    0    0 
+azspinner 945649805 13  9 rc  kf    -     -         4260  800    0 
+azspinner 945649886 13  8 f   -     -     -         3460    0    0 
+azspinner 945649979 12  6 f   -     -     -         3460    0    0 
+azspinner 945650022 10  4 f   -     -     -         3460    0    0 
+azspinner 945650079 10  3 f   -     -     -         3460    0    0 
+azspinner 945650160 10  2 Bc  kf    -     -         3460  280    0 
+azspinner 945650195 10  1 Bc  kf    -     -         3180  200    0 
+azspinner 945650287  9  9 f   -     -     -         2980    0    0 
+azspinner 945650375  9  8 f   -     -     -         2980    0    0 
+azspinner 945650430  9  7 f   -     -     -         2980    0    0 
+azspinner 945650472  7  5 f   -     -     -         2980    0    0 
+azspinner 945650513  6  3 c   b     -     -         2980  480  640 
+azspinner 945650532  6  3 f   -     -     -         3140    0    0 
+azspinner 945650555  6  2 Br  -     -     -         3140 2060 2800 
+azspinner 945650590  6  1 Bc  kf    -     -         3880  160    0 
+azspinner 945650619  6  6 f   -     -     -         3720    0    0 
+azspinner 945650652  6  5 f   -     -     -         3720    0    0 
+azspinner 945650694  6  4 f   -     -     -         3720    0    0 
+azspinner 945650725  6  3 c   k     k     b         3720 1120 1600 
+azspinner 945650762  6  2 Bk  f     -     -         4200  320    0 
+azspinner 945650841  6  1 Bc  b     -     -         3880  960 1280 
+azspinner 945650871  6  6 f   -     -     -         4200    0    0 
+azspinner 945650889  6  5 f   -     -     -         4200    0    0 
+azspinner 945650896  6  4 r   -     -     -         4200 1120 1600 
+azspinner 945650907  6  3 f   -     -     -         4680    0    0 
+azspinner 945650923  6  2 B   -     -     -         4680  320  480 
+azspinner 945650928  6  1 Bc  b     -     -         4840  960 1280 
+azspinner 945650952  6  6 f   -     -     -         5160    0    0 
+azspinner 945650978  6  5 f   -     -     -         5160    0    0 
+azspinner 945650987  6  4 f   -     -     -         5160    0    0 
+azspinner 945651014  6  3 f   -     -     -         5160    0    0 
+azspinner 945651067  6  2 Bk  kf    -     -         5160  640    0 
+azspinner 945651105  6  1 Br  -     -     -         4520 1920 2560 
+azspinner 945651124  6  6 f   -     -     -         5160    0    0 
+azspinner 945651131  6  5 f   -     -     -         5160    0    0 
+azspinner 945651162  6  4 f   -     -     -         5160    0    0 
+azspinner 945651213  6  3 c   b     -     -         5160 2240 3200 
+azspinner 945651246  6  2 B   -     -     -         6120  640  960 
+azspinner 945651254  6  1 Bf  -     -     -         6440  320    0 
+azspinner 945651296  6  6 f   -     -     -         6120    0    0 
+azspinner 945651334  6  5 f   -     -     -         6120    0    0 
+azspinner 945651349  6  4 f   -     -     -         6120    0    0 
+azspinner 945651390  5  3 f   -     -     -         6120    0    0 
+azspinner 945651411  5  2 Bk  k     k     k         6120 1280    0 8h 7s
+azspinner 945651447  5  1 Bc  k     k     k         4840 1280    0 3c 2s
+azspinner 945651502  5  5 c   k     bA    -         3560 3560 6120 
+azspinner 945651549  5  4 r   -     -     -         6120 4000 5440 7h 7s
+azspinner 945651609  4  2 f   -     -     -         7560    0    0 
+azspinner 945651648  4  2 B   -     -     -         7560 1280 1920 
+azspinner 945651666  4  1 Br  k     kf    -         8200 5880    0 
+azspinner 945651712  3  3 rA  -     -     -         2320 2320 5280 Tc Qc
+azspinner 945651728  3  2 B   -     -     -         5280 1280 1920 
+azspinner 945651738  3  1 Bf  -     -     -         5920  640    0 
+azspinner 945651749  3  3 r   bA    -     -         5280 5280 11200 Qh Ah
+azspinner 945651772  3  2 B   -     -     -        11200 2560 3840 
+azspinner 945651784  3  1 Bc  k     k     k        12480 2560    0 2s Qs
+azspinner 945651826  3  3 f   -     -     -         9920    0    0 
+azspinner 945651847  3  2 B   -     -     -         9920 2560 3840 
+azspinner 945651853  3  1 Bf  -     -     -        11200 1280    0 
+azspinner 945651860  3  3 f   -     -     -         9920    0    0 
+azspinner 945651898  3  2 Bk  k     k     k         9920 2560    0 2c 8d
+azspinner 945651952  3  1 BrA -     -     -         7360 7360 9920 
+azspinner 945651978  3  3 f   -     -     -         9920    0    0 
+azspinner 945652000  3  2 Bk  k     k     k         9920 2560 5120 9c 5c
+azspinner 945652051  3  1 Br  k     k     k        12480 7680 15360 Ac 6d
+azspinner 945652088  3  3 f   -     -     -        20160    0    0 
+azspinner 945652116  3  2 Br  bA    -     -        20160 20160 27840 
+azspinner 945652158  3  1 Bf  -     -     -        27840 2560    0 
+azspinner 945652172  3  3 r   -     -     -        25280 17920 25600 
+azspinner 945652182  3  2 Bk  k     k     k        32960 5120 10240 Ad 3s
+azspinner 945652215  3  1 Br  k     k     bA       38080 38080 53440 
+azspinner 945652242  3  3 f   -     -     -        53440    0    0 
+azspinner 945652249  3  2 Bc  -     -     -        53440 8880    0 5d 7d
+azspinner 945652266  3  1 Br  -     -     -        44560 15360 20480 
+azspinner 945652279  3  3 f   -     -     -        49680    0    0 
+azspinner 945652283  2  2 B   -     -     -        49680 5120 7680 
+azspinner 945652289  2  1 Bf  -     -     -        52240 2560    0 
+azspinner 945652297  2  2 Bk  k     k     k        49680 5120 10240 2d Js
+azspinner 945652335  2  1 Br  -     -     -        54800 15360 20480 
+azspinner 945652345  2  2 B   -     -     -        59920 5120 7680 
+azspinner 945652349  2  1 Bf  -     -     -        62480 2560    0 
+azspinner 945652353  2  2 B   -     -     -        59920 5120 7680 
+azspinner 945652357  2  1 Bc  b     -     -        62480 15360 20480 
+azspinner 945652379  2  2 B   -     -     -        67600 5120 5120 2s Qc
+azspinner 945652380  2  1 B   -     -     -        67600 2560 4960 6d 7s
+azspinner 945652695 21 20 f   -     -     -        10000    0    0 
+azspinner 945652956 20 18 f   -     -     -        10000    0    0 
+azspinner 945653069 19 16 f   -     -     -        10000    0    0 
+azspinner 945653239 19 16 f   -     -     -        10000    0    0 
+azspinner 945653364 17 13 f   -     -     -        10000    0    0 
+azspinner 945653527 17 13 f   -     -     -        10000    0    0 
+azspinner 945653578 16 11 f   -     -     -        10000    0    0 
+azspinner 945653669 15  9 cc  b     bA    -        10000 10000 22025 Ks Jd
+azspinner 945653765 14  8 f   -     -     -        22025    0    0 
+azspinner 945653829 14  7 f   -     -     -        22025    0    0 
+azspinner 945653943 14  6 c   k     k     k        22025  400    0 2d Kd
+azspinner 945654069 14  5 f   -     -     -        21625    0    0 
+azspinner 945654118 14  4 f   -     -     -        21625    0    0 
+azspinner 945654200 13  3 f   -     -     -        21625    0    0 
+azspinner 945654276 12  2 Bk  f     -     -        21625  400    0 
+azspinner 945654389 12  1 Bc  kc    k     b        21225 10400    0 5c Ac
+azspinner 945654498 12 12 f   -     -     -        10825    0    0 
+azspinner 945654592 11 10 c   f     -     -        10825  800    0 
+azspinner 945654761 11  9 f   -     -     -        10025    0    0 
+azspinner 945654815 11  8 f   -     -     -        10025    0    0 
+azspinner 945654945 11  7 c   cA    -     -        10025 10025    0 Jd Ad
+azspinner 945655919 22 10 c   kf    -     -        10000  100    0 
+azspinner 945656048 22  9 f   -     -     -         9900    0    0 
+azspinner 945656146 22  8 f   -     -     -         9900    0    0 
+azspinner 945656352 22  7 f   -     -     -         9900    0    0 
+azspinner 945656499 21  6 f   -     -     -         9900    0    0 
+azspinner 945656699 20  5 f   -     -     -         9900    0    0 
+azspinner 945656775 19  4 f   -     -     -         9900    0    0 
+azspinner 945656856 19  3 f   -     -     -         9900    0    0 
+azspinner 945656927 19  2 Bk  kf    -     -         9900  400    0 
+azspinner 945657024 18  1 Bf  -     -     -         9500  200    0 
+azspinner 945657176 18 18 c   f     -     -         9300  800    0 
+azspinner 945657253 16 15 f   -     -     -         8500    0    0 
+azspinner 945657303 16 14 f   -     -     -         8500    0    0 
+azspinner 945657360 16 13 f   -     -     -         8500    0    0 
+azspinner 945657497 15 11 ccA -     -     -         8500 8500 13350 Qc Ad
+azspinner 945657572 15 10 f   -     -     -        13350    0    0 
+azspinner 945657641 14  8 c   f     -     -        13350 1600    0 
+azspinner 945657689 14  7 f   -     -     -        11750    0    0 
+azspinner 945657738 13  6 f   -     -     -        11750    0    0 
+azspinner 945657803 13  5 f   -     -     -        11750    0    0 
+azspinner 945657866 13  4 f   -     -     -        11750    0    0 
+azspinner 945657919 13  3 f   -     -     -        11750    0    0 
+azspinner 945657962 13  2 Bf  -     -     -        11750 3200    0 
+azspinner 945658030 12  1 Bf  -     -     -         8550 1600    0 
+azspinner 945658066 12 12 f   -     -     -         6950    0    0 
+azspinner 945658102 12 11 f   -     -     -         6950    0    0 
+azspinner 945658131 11  9 f   -     -     -         6950    0    0 
+azspinner 945658174 11  8 c   cA    -     -         6950 6950 23800 Jc Qh
+azspinner 945658232 10  7 f   -     -     -        23800    0    0 
+azspinner 945658288 10  6 f   -     -     -        23800    0    0 
+azspinner 945658313 10  5 f   -     -     -        23800    0    0 
+azspinner 945658340  9  4 f   -     -     -        23800    0    0 
+azspinner 945658365  9  3 f   -     -     -        23800    0    0 
+azspinner 945658401  9  2 Bk  f     -     -        23800 6400    0 
+azspinner 945658429  9  1 Bf  -     -     -        17400 3200    0 
+azspinner 945658441  8  8 f   -     -     -        14200    0    0 
+azspinner 945658470  8  8 f   -     -     -        14200    0    0 
+azspinner 945658509  7  7 rA  -     -     -        14200 14200 13400 Ah 7d
+azspinner 945658532  7  6 f   -     -     -        13400    0    0 
+azspinner 945658567  6  4 rA  -     -     -        13400 13400    0 Tc As
+azspinner 945665713 14  1 Bc  k     k     k        10000  450    0 Kd Jc
+azspinner 945665886 14 14 f   -     -     -         9550    0    0 
+azspinner 945665983 14 13 f   -     -     -         9550    0    0 
+azspinner 945666060 14 12 f   -     -     -         9550    0    0 
+azspinner 945666137 14 11 f   -     -     -         9550    0    0 
+azspinner 945666227 14 10 c   f     -     -         9550  200    0 
+azspinner 945666308 14  9 r   kf    -     -         9350  900    0 
+azspinner 945666360 14  8 f   -     -     -         8450    0    0 
+azspinner 945666400 14  7 r   -     -     -         8450 1800 2800 
+azspinner 945666432 14  6 f   -     -     -         9450    0    0 
+azspinner 945666490 14  5 cf  -     -     -         9450  400    0 
+azspinner 945666582 12  4 c   kf    -     -         9050  400    0 
+azspinner 945666620 12  3 f   -     -     -         8650    0    0 
+azspinner 945666674 10  2 Bf  -     -     -         8650  400    0 
+azspinner 945666756 10  1 Bc  k     k     k         8250  800    0 Ks 7s
+azspinner 945666822 10 10 f   -     -     -         7450    0    0 
+azspinner 945666881 10  9 r   bA    -     -         7450 7450 12250 
+azspinner 945666927  9  7 f   -     -     -        12250    0    0 
+azspinner 945666972  8  7 f   -     -     -        12250    0    0 
+azspinner 945667005  8  6 f   -     -     -        12250    0    0 
+azspinner 945667027  8  5 f   -     -     -        12250    0    0 
+azspinner 945667056  8  4 r   k     k     k        12250 2800    0 Ad Qd
+azspinner 945667092  8  3 f   -     -     -         9450    0    0 
+azspinner 945667120  8  2 Bc  kcA   -     -         9450 9450 19700 Kc Ac
+azspinner 945667148  8  1 Bc  b     -     -        19700 4800 6400 
+azspinner 945667179  8  8 f   -     -     -        21300    0    0 
+azspinner 945667211  8  7 c   rA    -     -        21300 21300 14400 8c Kh
+azspinner 945667254  8  6 r   -     -     -        14400 5600 8000 
+azspinner 945667290  8  5 f   -     -     -        16800    0    0 
+azspinner 945667310  8  4 f   -     -     -        16800    0    0 
+azspinner 945667339  8  3 ccf -     -     -        16800 6550    0 
+azspinner 945667394  6  2 Bf  -     -     -        10250 1600    0 
+azspinner 945667409  6  1 Bc  bA    -     -         8650 8650 27550 Js As
+azspinner 945667450  6  6 f   -     -     -        27550    0    0 
+azspinner 945667480  5  4 r   bA    -     -        27550 27550    0 Td Qs
+azspinner 945667959 13  7 f   -     -     -         5000    0    0 
+azspinner 945668010 12  5 f   -     -     -         5000    0    0 
+azspinner 945668096 12  4 r   k     k     f         5000  175    0 
+azspinner 945668143 12  3 f   -     -     -         4825    0    0 
+azspinner 945668182 12  2 Bcc kf    -     -         4825 3800    0 
+azspinner 945668238 11  1 Bf  -     -     -         1025   25    0 
+azspinner 945668263 11 11 f   -     -     -         1000    0    0 
+azspinner 945668309 11 10 r   cA    -     -         1000 1000    0 Ac Kc
+azspinner 945743021  7  6 f   -     -     -         5000    0    0 
+azspinner 945743102  7  5 f   -     -     -         5000    0    0 
+azspinner 945743133  6  4 f   -     -     -         5000    0    0 
+azspinner 945743190  6  3 f   -     -     -         5000    0    0 
+azspinner 945743224  6  2 Bf  -     -     -         5000   50    0 
+azspinner 945743271  6  1 Bf  -     -     -         4950   25    0 
+azspinner 945743282  6  6 f   -     -     -         4925    0    0 
+azspinner 945743339  6  5 f   -     -     -         4925    0    0 
+azspinner 945743377  6  4 f   -     -     -         4925    0    0 
+azspinner 945743402  6  3 f   -     -     -         4925    0    0 
+azspinner 945743433  6  2 Bc  kc    k     bf        4925 3350    0 
+azspinner 945743502  6  1 Bc  b     bA    -         1575 1575 3350 3d 9c
+azspinner 945743552  6  6 f   -     -     -         3350    0    0 
+azspinner 945743575  6  5 c   brA   -     -         3350 3350    0 Qh 9h
+azspinner 945830116  8  1 Bc  kf    -     -        10000   50    0 
+azspinner 945830192  7  7 c   f     -     -         9950   50    0 
+azspinner 945830267  7  6 cc  f     -     -         9900  250    0 
+azspinner 945830348  7  5 f   -     -     -         9650    0    0 
+azspinner 945830421  7  4 f   -     -     -         9650    0    0 
+azspinner 945830489  6  3 f   -     -     -         9650    0    0 
+azspinner 945830555  6  2 Bk  kf    -     -         9650  100    0 
+azspinner 945830595  6  1 Bf  -     -     -         9550   50    0 
+azspinner 945830638  5  5 f   -     -     -         9500    0    0 
+azspinner 945830716  5  4 f   -     -     -         9500    0    0 
+azspinner 945830740  5  3 f   -     -     -         9500    0    0 
+azspinner 945830764  5  2 Bk  k     k     k         9500  200  500 Th 5h
+azspinner 945830803  5  1 Bc  kf    -     -         9800  200    0 
+azspinner 945830862  5  5 f   -     -     -         9600    0    0 
+azspinner 945830915  5  4 c   f     -     -         9600  700    0 
+azspinner 945830939  5  3 r   k     k     k         8900  700    0 Tc Ah
+azspinner 945830965  5  2 Bk  b     -     -         8200  900 1400 
+azspinner 945830997  5  1 Br  k     k     k         8700 1000 1200 Jd As
+azspinner 945831049  5  5 r   rA    -     -         8900 8900 9000 As 2h
+azspinner 945831074  5  4 f   -     -     -         9000    0    0 
+azspinner 945831104  4  2 f   -     -     -         9000    0    0 
+azspinner 945831137  4  2 Br  cA    -     -         9000 9000    0 As Ac
+azspinner 945831792 23  6 f   -     -     -         5000    0    0 
+azspinner 945831860 21  5 f   -     -     -         5000    0    0 
+azspinner 945831944 21  4 f   -     -     -         5000    0    0 
+azspinner 945832037 20  3 f   -     -     -         5000    0    0 
+azspinner 945832149 20  2 Bk  k     kf    -         5000   50    0 
+azspinner 945832323 20  1 Bf  -     -     -         4950   25    0 
+azspinner 945832461 19 19 f   -     -     -         4925    0    0 
+azspinner 945832615 19 18 c   k     f     -         4925 2050    0 
+azspinner 945832754 19 17 f   -     -     -         2875    0    0 
+azspinner 945832799 15 13 f   -     -     -         2875    0    0 
+azspinner 945832916 13 10 f   -     -     -         2875    0    0 
+azspinner 945832991 13  9 f   -     -     -         2875    0    0 
+azspinner 945833052 13  8 f   -     -     -         2875    0    0 
+azspinner 945833166 13  7 r   b     k     k         2875 1950 4500 Ad Js
+azspinner 945833286 13  6 f   -     -     -         5425    0    0 
+azspinner 945833428 12  4 f   -     -     -         5425    0    0 
+azspinner 945833505 12  4 f   -     -     -         5425    0    0 
+azspinner 945833580 12  3 f   -     -     -         5425    0    0 
+azspinner 945833640 12  2 Bc  b     kc    kcA       5425 5425    0 6s Ks
+azspinner 945836977 22 13 c   kf    -     -         5000   50    0 
+azspinner 945837123 22 12 f   -     -     -         4950    0    0 
+azspinner 945837200 21 10 f   -     -     -         4950    0    0 
+azspinner 945837276 20  8 f   -     -     -         4950    0    0 
+azspinner 945837331 20  7 f   -     -     -         4950    0    0 
+azspinner 945837450 20  6 c   kf    -     -         4950  100    0 
+azspinner 945837584 20  5 f   -     -     -         4850    0    0 
+azspinner 945837709 20  4 f   -     -     -         4850    0    0 
+azspinner 945837776 20  3 f   -     -     -         4850    0    0 
+azspinner 945837868 20  2 Bf  -     -     -         4850  200    0 
+azspinner 945837958 20  1 Bc  kf    -     -         4650  200    0 
+azspinner 945838066 20 20 f   -     -     -         4450    0    0 
+azspinner 945838131 19 18 f   -     -     -         4450    0    0 
+azspinner 945838205 19 17 f   -     -     -         4450    0    0 
+azspinner 945838293 19 16 f   -     -     -         4450    0    0 
+azspinner 945838367 18 14 f   -     -     -         4450    0    0 
+azspinner 945838462 17 13 c   bcA   -     -         4450 4450 5050 Js Tc
+azspinner 945838538 17 12 f   -     -     -         5050    0    0 
+azspinner 945838632 17 11 f   -     -     -         5050    0    0 
+azspinner 945838733 17 10 c   k     k     b         5050 4500 7350 8d 8c
+azspinner 945838807 16  8 f   -     -     -         7900    0    0 
+azspinner 945838878 16  7 f   -     -     -         7900    0    0 
+azspinner 945838986 16  6 f   -     -     -         7900    0    0 
+azspinner 945839045 16  5 r   -     -     -         7900 2800 4000 
+azspinner 945839085 16  4 f   -     -     -         9100    0    0 
+azspinner 945839151 16  3 f   -     -     -         9100    0    0 
+azspinner 945839246 14  2 Bk  b     -     -         9100 8800 14400 
+azspinner 945839300 14  1 Bf  -     -     -        14700  800    0 
+azspinner 945839350 13 13 f   -     -     -        13900    0    0 
+azspinner 945839390 13 12 f   -     -     -        13900    0    0 
+azspinner 945839474 13 11 f   -     -     -        13900    0    0 
+azspinner 945839561 13 10 f   -     -     -        13900    0    0 
+azspinner 945839608 10  8 f   -     -     -        13900    0    0 
+azspinner 945839632 10  8 f   -     -     -        13900    0    0 
+azspinner 945839697 10  7 f   -     -     -        13900    0    0 
+azspinner 945839718 10  6 f   -     -     -        13900    0    0 
+azspinner 945839777 10  5 r   -     -     -        13900 11200 16000 
+azspinner 945839795 10  4 f   -     -     -        18700    0    0 
+azspinner 945839807  8  1 B   -     -     -        18700 3200 3200 
+azspinner 945839826  8  1 Bf  -     -     -        18700 1600    0 
+azspinner 945839855  7  7 f   -     -     -        17100    0    0 
+azspinner 945839890  7  7 f   -     -     -        17100    0    0 
+azspinner 945839933  7  6 f   -     -     -        17100    0    0 
+azspinner 945839968  4  3 rA  -     -     -        17100 17100 27300 Ks 5s
+azspinner 945839990  3  1 Bf  -     -     -        27300 6400    0 
+azspinner 945840009  3  1 Bc  k     k     k        20900 6400 19200 2c Kh
+azspinner 945840054  3  3 r   -     -     -        33700 22400 32000 
+azspinner 945840074  3  2 Bk  b     -     -        43300 19200 25600 
+azspinner 945840106  3  1 Bf  -     -     -        49700 3200    0 
+azspinner 945840129  3  3 r   -     -     -        46500 22400 32000 
+azspinner 945840151  3  2 Bf  -     -     -        56100 6400    0 
+azspinner 945840169  3  1 Bc  bc    -     -        49700 27200    0 3d Jd
+azspinner 945840215  3  3 rcA -     -     -        22500 22500    0 Kc 2s
+azspinner 945902372  9  9 f   -     -     -         5000    0    0 
+azspinner 945902401  9  8 f   -     -     -         5000    0    0 
+azspinner 945902461  9  7 f   -     -     -         5000    0    0 
+azspinner 945902554  9  6 f   -     -     -         5000    0    0 
+azspinner 945902595  9  5 f   -     -     -         5000    0    0 
+azspinner 945902657  9  4 f   -     -     -         5000    0    0 
+azspinner 945902713  9  3 f   -     -     -         5000    0    0 
+azspinner 945902800  9  2 Bk  k     k     kf        5000  100    0 
+azspinner 945902893  9  1 Bf  -     -     -         4900   50    0 
+azspinner 945902973  9  9 f   -     -     -         4850    0    0 
+azspinner 945903028  8  7 f   -     -     -         4850    0    0 
+azspinner 945903075  8  6 r   kc    kc    -         4850 4275 9950 Kd Jd
+azspinner 945903140  7  5 rf  -     -     -        10525  450    0 
+azspinner 945903194  7  4 f   -     -     -        10075    0    0 
+azspinner 945903250  7  3 f   -     -     -        10075    0    0 
+azspinner 945903289  7  2 Bk  k     k     kf       10075  200    0 
+azspinner 945903371  7  1 Bf  -     -     -         9875  100    0 
+azspinner 945903409  6  6 f   -     -     -         9775    0    0 
+azspinner 945903457  6  6 r   b     -     -         9775 2200 3000 
+azspinner 945903518  6  5 f   -     -     -        10575    0    0 
+azspinner 945903559  6  4 f   -     -     -        10575    0    0 
+azspinner 945903602  6  3 rc  f     -     -        10575 6000    0 
+azspinner 945903632  6  2 Bk  b     -     -         4575 1400 2000 
+azspinner 945903688  6  1 Bc  kf    -     -         5175  400    0 
+azspinner 945903736  5  5 f   -     -     -         4775    0    0 
+azspinner 945903762  5  4 f   -     -     -         4775    0    0 
+azspinner 945903811  5  3 f   -     -     -         4775    0    0 
+azspinner 945903831  5  2 Bk  kf    -     -         4775  400    0 
+azspinner 945903877  5  1 Bc  k     b     -         4375 2000 3200 
+azspinner 945903925  5  5 f   -     -     -         5575    0    0 
+azspinner 945903955  5  4 f   -     -     -         5575    0    0 
+azspinner 945903980  5  3 f   -     -     -         5575    0    0 
+azspinner 945904004  5  2 Bk  k     k     k         5575  800    0 8c 3d
+azspinner 945904071  5  1 Bc  k     k     k         4775  800    0 Tc Jh
+azspinner 945904108  5  5 c   k     k     k         3975  800    0 9c Qh
+azspinner 945904197  5  4 f   -     -     -         3175    0    0 
+azspinner 945904247  5  3 f   -     -     -         3175    0    0 
+azspinner 945904262  5  2 Bk  kf    -     -         3175  800    0 
+azspinner 945904315  5  1 BrA -     -     -         2375 2375 3975 
+azspinner 945904335  5  5 f   -     -     -         3975    0    0 
+azspinner 945904380  5  4 f   -     -     -         3975    0    0 
+azspinner 945904426  5  3 f   -     -     -         3975    0    0 
+azspinner 945904443  5  2 Bk  bA    -     -         3975 3975 6375 
+azspinner 945904476  5  1 Bf  -     -     -         6375  800    0 
+azspinner 945904516  5  5 f   -     -     -         5575    0    0 
+azspinner 945904540  5  4 rA  -     -     -         5575 5575 7975 
+azspinner 945904556  5  3 f   -     -     -         7975    0    0 
+azspinner 945904587  4  1 Bf  -     -     -         7975 1600    0 
+azspinner 945904616  4  1 Bc  kf    -     -         6375 1600    0 
+azspinner 945904651  4  4 rA  -     -     -         4775 4775 6925 As Tc
+azspinner 945904667  3  3 rA  -     -     -         6925 6925 11725 
+azspinner 945904683  3  2 B   -     -     -        11725 3200 4800 
+azspinner 945904689  3  1 Bf  -     -     -        13325 1600    0 
+azspinner 945904701  3  3 f   -     -     -        11725    0    0 
+azspinner 945904728  3  2 Bc  -     -     -        11725 4575 9150 Th 5s
+azspinner 945904743  2  1 Br  -     -     -        16300 9600 12800 
+azspinner 945904753  2  2 Bc  cA    -     -        19500 19500 39000 Td 9h
+azspinner 945904764  2  1 Bf  -     -     -        39000 1600    0 
+azspinner 945904770  2  2 B   -     -     -        37400 3200 4800 
+azspinner 945904776  2  1 Br  -     -     -        39000 9600 15600 Kd 6h
+azspinner 945909748  8  6 c   k     f     -         3000   20    0 
+azspinner 945909895  8  5 f   -     -     -         2980    0    0 
+azspinner 945909970  8  4 c   kf    -     -         2980   20    0 
+azspinner 945910067  8  3 f   -     -     -         2960    0    0 
+azspinner 945910135  8  2 Bk  kc    kf    -         2960  240    0 
+azspinner 945910211  7  1 Bc  k     b     kc        2720  520 1080 Tc 2h
+azspinner 945910289  7  7 f   -     -     -         3280    0    0 
+azspinner 945910319  7  6 f   -     -     -         3280    0    0 
+azspinner 945910379  7  5 f   -     -     -         3280    0    0 
+azspinner 945910424  7  4 f   -     -     -         3280    0    0 
+azspinner 945910469  7  3 f   -     -     -         3280    0    0 
+azspinner 945910516  7  2 Bk  k     k     k         3280   80    0 Jd 4c
+azspinner 945910572  7  1 Bc  b     b     kc        3200 2640    0 5c 2c
+azspinner 945910632  7  7 f   -     -     -          560    0    0 
+azspinner 945910677  7  6 f   -     -     -          560    0    0 
+azspinner 945910729  7  5 r   bA    -     -          560  560 1400 
+azspinner 945910775  7  4 f   -     -     -         1400    0    0 
+azspinner 945910801  7  3 c   kf    -     -         1400  160    0 
+azspinner 945910852  7  2 Bk  k     b     -         1240  640  960 
+azspinner 945910890  7  1 Bc  k     b     k         1560  640 1440 8h 6d
+azspinner 945910944  7  7 f   -     -     -         2360    0    0 
+azspinner 945910984  7  6 c   k     f     -         2360  160    0 
+azspinner 945911090  7  5 f   -     -     -         2200    0    0 
+azspinner 945911126  7  4 f   -     -     -         2200    0    0 
+azspinner 945911168  7  3 cf  -     -     -         2200  320    0 
+azspinner 945911206  5  2 Bk  k     bcA   -         1880 1880 3760 9d 9c
+azspinner 945911268  5  1 Bf  -     -     -         3760  160    0 
+azspinner 945911305  5  5 f   -     -     -         3600    0    0 
+azspinner 945911321  5  4 f   -     -     -         3600    0    0 
+azspinner 945911360  5  3 f   -     -     -         3600    0    0 
+azspinner 945911380  4  1 Bk  b     k     b         3600 2880 3840 
+azspinner 945911424  4  1 Bc  k     kf    -         4560  320    0 
+azspinner 945911467  4  4 r   c     k     k         4240 1320    0 Ah Kh
+azspinner 945911510  4  3 f   -     -     -         2920    0    0 
+azspinner 945911540  4  2 Bf  -     -     -         2920  640    0 
+azspinner 945911558  4  1 Bf  -     -     -         2280  320    0 
+azspinner 945911618  4  4 f   -     -     -         1960    0    0 
+azspinner 945911678  4  3 f   -     -     -         1960    0    0 
+azspinner 945911693  4  2 Bk  f     -     -         1960  640    0 
+azspinner 945911740  4  1 BrA -     -     -         1320 1320    0 6c As
+azspinner 945912619 20 12 f   -     -     -         5000    0    0 
+azspinner 945912679 20 11 f   -     -     -         5000    0    0 
+azspinner 945912754 19 10 cc  k     kf    -         5000  300    0 
+azspinner 945912871 19  9 c   c     f     -         4700  375    0 
+azspinner 945912954 19  8 rf  -     -     -         4325  650    0 
+azspinner 945913006 19  7 f   -     -     -         3675    0    0 
+azspinner 945913085 19  6 cc  bcA   -     -         3675 3675 7900 7d 7s
+azspinner 945913151 19  5 f   -     -     -         7900    0    0 
+azspinner 945913267 18  4 f   -     -     -         7900    0    0 
+azspinner 945913344 18  3 f   -     -     -         7900    0    0 
+azspinner 945913409 17  2 Bk  kf    -     -         7900  200    0 
+azspinner 945913496 17  1 Bf  -     -     -         7700  100    0 
+azspinner 945913534 17 17 cc  f     -     -         7600 1200    0 
+azspinner 945913618 17 16 f   -     -     -         6400    0    0 
+azspinner 945913652 17 15 f   -     -     -         6400    0    0 
+azspinner 945913721 17 14 c   k     k     k         6400  400    0 5s 5h
+azspinner 945913817 17 13 f   -     -     -         6000    0    0 
+azspinner 945913869 17 12 f   -     -     -         6000    0    0 
+azspinner 945913937 17 11 f   -     -     -         6000    0    0 
+azspinner 945913994 17 10 f   -     -     -         6000    0    0 
+azspinner 945914062 17  9 f   -     -     -         6000    0    0 
+azspinner 945914162 17  8 f   -     -     -         6000    0    0 
+azspinner 945914280 16  6 r   bA    -     -         6000 6000 13400 Ks Qs
+azspinner 945914330 15  4 f   -     -     -        13400    0    0 
+azspinner 945914376 14  4 f   -     -     -        13400    0    0 
+azspinner 945914433 13  3 f   -     -     -        13400    0    0 
+azspinner 945914498 13  2 Bk  k     f     -        13400 1600    0 
+azspinner 945914583 12  1 Bf  -     -     -        11800  800    0 
+azspinner 945914695 12 12 f   -     -     -        11000    0    0 
+azspinner 945914741 12 11 f   -     -     -        11000    0    0 
+azspinner 945914776 11  9 f   -     -     -        11000    0    0 
+azspinner 945914809 11  8 f   -     -     -        11000    0    0 
+azspinner 945914839 10  7 f   -     -     -        11000    0    0 
+azspinner 945914880 10  6 f   -     -     -        11000    0    0 
+azspinner 945914910 10  5 rA  -     -     -        11000 11000 15800 
+azspinner 945914973 10  4 f   -     -     -        15800    0    0 
+azspinner 945914997  9  3 f   -     -     -        15800    0    0 
+azspinner 945915044  9  2 Bk  k     kc    -        15800 5975 13550 Qs 2d
+azspinner 945915094  8  1 Bc  k     k     b        23375 9600 12800 
+azspinner 945915159  8  8 c   -     -     -        26575 15650 40900 Ts Tc
+azspinner 945915189  7  6 f   -     -     -        51825    0    0 
+azspinner 945915208  7  5 f   -     -     -        51825    0    0 
+azspinner 945915230  7  4 f   -     -     -        51825    0    0 
+azspinner 945915250  7  3 c   -     -     -        51825 6400 1275 Kd Jd
+azspinner 945915261  6  2 Bf  -     -     -        46700 6400    0 
+azspinner 945915280  6  1 Bc  k     b     -        40300 19200 25600 
+azspinner 945915322  6  6 r   -     -     -        46700 27000 12450 Th Ac
+azspinner 945915355  5  4 f   -     -     -        32150    0    0 
+azspinner 945915370  5  3 cc  -     -     -        32150 7650 18500 Ks Kh
+azspinner 945915403  4  1 Bc  -     -     -        43000 8650    0 3h 7s
+azspinner 945915421  4  1 Bc  k     k     k        34350 6400 12800 7s 9h
+azspinner 945915459  4  4 f   -     -     -        40750    0    0 
+azspinner 945915469  4  3 f   -     -     -        40750    0    0 
+azspinner 945915504  3  2 B   -     -     -        40750 12800 4550 4h 7d
+azspinner 945915522  3  1 Bf  -     -     -        32500 6400    0 
+azspinner 945915535  3  3 rA  -     -     -        26100 26100 9600 Qd Ah
+azspinner 945915553  3  2 BA  -     -     -         9600 9600 19200 8s Jc
+azspinner 945915574  3  1 Bf  -     -     -        19200 6400    0 
+azspinner 945915588  3  3 cA  -     -     -        12800 12800    0 8h 9d
+azspinner 945916213 15  6 f   -     -     -        10000    0    0 
+azspinner 945916358 15  5 cc  kf    -     -        10000  700    0 
+azspinner 945916448 15  4 f   -     -     -         9300    0    0 
+azspinner 945916498 13  3 f   -     -     -         9300    0    0 
+azspinner 945916580 13  2 Bk  kf    -     -         9300  400    0 
+azspinner 945916643 13  1 Bf  -     -     -         8900  200    0 
+azspinner 945916708 12 12 f   -     -     -         8700    0    0 
+azspinner 945916745 10  9 r   f     -     -         8700 1400    0 
+azspinner 945916788 10  8 f   -     -     -         7300    0    0 
+azspinner 945916830 10  7 f   -     -     -         7300    0    0 
+azspinner 945916876 10  6 ccA -     -     -         7300 7300    0 Ah Jc
+azspinner 946112431  7  7 f   -     -     -        10000    0    0 
+azspinner 946112508  7  6 f   -     -     -        10000    0    0 
+azspinner 946112550  7  5 r   k     k     f        10000  225    0 
+azspinner 946112600  7  4 f   -     -     -         9775    0    0 
+azspinner 946112635  7  3 rc  k     k     k         9775  775    0 Ah Qs
+azspinner 946112680  7  2 Bc  bf    -     -         9000  700    0 
+azspinner 946112715  7  1 Bcf -     -     -         8300   50    0 
+azspinner 946112759  7  7 f   -     -     -         8250    0    0 
+azspinner 946112803  7  6 f   -     -     -         8250    0    0 
+azspinner 946112811  7  5 f   -     -     -         8250    0    0 
+azspinner 946112849  7  4 f   -     -     -         8250    0    0 
+azspinner 946112872  7  3 f   -     -     -         8250    0    0 
+azspinner 946112904  7  2 Bf  -     -     -         8250  100    0 
+azspinner 946112930  6  1 Bc  k     k     k         8150  100    0 5s Jd
+azspinner 946112967  6  6 f   -     -     -         8050    0    0 
+azspinner 946112999  6  5 f   -     -     -         8050    0    0 
+azspinner 946113102  6  4 f   -     -     -         8050    0    0 
+azspinner 946113130  4  2 f   -     -     -         8050    0    0 
+azspinner 946113148  4  2 Bc  b     -     -         8050 1460 1168 9h 2c
+azspinner 946113168  4  1 Bc  kf    -     -         7758  200    0 
+azspinner 946113196  4  4 c   c     b     -         7558 7500 10200 
+azspinner 946113241  4  3 f   -     -     -        10258    0    0 
+azspinner 946113261  3  2 Bc  f     -     -        10258  600    0 
+azspinner 946113284  3  1 Bf  -     -     -         9658  100    0 
+azspinner 946113292  3  3 f   -     -     -         9558    0    0 
+azspinner 946113297  3  2 Bf  -     -     -         9558  200    0 
+azspinner 946113330  3  1 Bc  kc    k     k         9358  600    0 Ah Jh
+azspinner 946113357  3  3 f   -     -     -         8758    0    0 
+azspinner 946113377  3  2 Bc  f     -     -         8758  600    0 
+azspinner 946113391  3  1 Br  b     -     -         8158 7100 9600 
+azspinner 946113403  3  3 f   -     -     -        10658    0    0 
+azspinner 946113409  3  2 Bf  -     -     -        10658  400    0 
+azspinner 946113416  3  1 Bc  b     -     -        10258 1200 1600 
+azspinner 946113429  3  3 f   -     -     -        10658    0    0 
+azspinner 946113435  3  2 B   -     -     -        10658  400  600 
+azspinner 946113438  3  1 Bcc k     k     k        10858 2401    0 Jh 9c
+azspinner 946113479  3  3 r   -     -     -         8457 1400 2000 
+azspinner 946113489  3  2 Bc  kf    -     -         9057 1400    0 
+azspinner 946113502  3  1 Bf  -     -     -         7657  200    0 
+azspinner 946113513  3  3 f   -     -     -         7457    0    0 
+azspinner 946113519  3  2 B   -     -     -         7457  400  600 
+azspinner 946113521  3  1 Bf  -     -     -         7657  200    0 
+azspinner 946113535  3  3 f   -     -     -         7457    0    0 
+azspinner 946113538  3  2 Bf  -     -     -         7457  400    0 
+azspinner 946113546  3  1 BrcA -     -     -         7057 7057 14514 Th Qh
+azspinner 946113560  3  3 rr  -     -     -        14514 14200 19200 
+azspinner 946113582  3  2 Bc  f     -     -        19514 1200    0 
+azspinner 946113602  3  1 Bc  kf    -     -        18314  400    0 
+azspinner 946113618  3  3 r   -     -     -        17914 1400 2000 
+azspinner 946113624  3  2 Bf  -     -     -        18514  400    0 
+azspinner 946113635  3  1 Bc  bc    b     -        18114 10800 14400 
+azspinner 946113654  3  3 rc  f     -     -        21714 4600    0 
+azspinner 946113665  3  2 Bf  -     -     -        17114  400    0 
+azspinner 946113672  3  1 Bc  k     kf    -        16714 1400    0 
+azspinner 946113694  3  3 c   c     k     k        15314 1400 3000 8h Th
+azspinner 946113717  3  2 Bf  -     -     -        16914  800    0 
+azspinner 946113727  3  1 Bf  -     -     -        16114  400    0 
+azspinner 946113731  3  3 f   -     -     -        15714    0    0 
+azspinner 946113733  3  2 Br  -     -     -        15714 8800 12000 
+azspinner 946113741  3  1 Br  -     -     -        18914 9200 12800 
+azspinner 946113752  3  3 f   -     -     -        22514    0    0 
+azspinner 946113762  3  2 Bf  -     -     -        22514  800    0 
+azspinner 946113767  3  1 Bf  -     -     -        21714  400    0 
+azspinner 946113772  3  3 f   -     -     -        21314    0    0 
+azspinner 946113784  3  2 B   -     -     -        21314  800 1200 
+azspinner 946113789  3  1 Bcc kf    -     -        21714 2400    0 
+azspinner 946113801  3  3 r   -     -     -        19314 2800 4000 
+azspinner 946113808  3  2 Bc  f     -     -        20514 2400    0 
+azspinner 946113820  3  1 Bf  -     -     -        18114  400    0 
+azspinner 946113824  3  3 rc  cA    -     -        17714 17714 36228 4h Kd
+azspinner 946113837  3  2 B   -     -     -        36228  800 1200 
+azspinner 946113849  3  1 Bf  -     -     -        36628  400    0 
+azspinner 946113858  3  3 c   k     r     -        36228 10400 14400 
+azspinner 946113881  3  2 Bf  -     -     -        40228  800    0 
+azspinner 946113893  3  1 Bc  k     b     -        39428 2400 3200 
+azspinner 946113917  3  3 f   -     -     -        40228    0    0 
+azspinner 946113922  3  2 B   -     -     -        40228  800 1200 
+azspinner 946113928  3  1 Bf  -     -     -        40628  400    0 
+azspinner 946113934  3  3 r   -     -     -        40228 2800  330 Ks 4s
+azspinner 946113941  3  2 Bf  -     -     -        37758  800    0 
+azspinner 946113951  3  1 Bc  k     k     kf       36958  800    0 
+azspinner 946113982  3  3 r   -     -     -        36158 2800 4000 
+azspinner 946113987  3  2 Br  -     -     -        37358 7200 9600 
+azspinner 946113995  3  1 Bc  b     -     -        39758 2400 3200 
+azspinner 946114004  3  3 f   -     -     -        40558    0    0 
+azspinner 946114011  3  2 Bk  c     c     k        40558 7200 14400 4s Qc
+azspinner 946114035  3  1 Bc  kc    k     k        47758 4800    0 8h Th
+azspinner 946114064  3  3 f   -     -     -        42958    0    0 
+azspinner 946114073  3  2 B   -     -     -        42958 1600 2400 
+azspinner 946114076  3  1 Bc  b     -     -        43758 4800 6400 
+azspinner 946114091  3  3 f   -     -     -        45358    0    0 
+azspinner 946114103  3  2 Bc  b     -     -        45358 17600 24000 
+azspinner 946114120  3  1 Bcc -     -     -        51758 3340 6680 Jd 8c
+azspinner 946114131  2  2 r   -     -     -        55098 4800 6400 
+azspinner 946114139  2  2 Bf  -     -     -        56698 1600    0 
+azspinner 946114146  2  1 Br  -     -     -        55098 4800 6400 
+azspinner 946114148  2  2 Bc  f     -     -        56698 4800    0 
+azspinner 946114167  2  1 Br  -     -     -        51898 4800 6400 
+azspinner 946114171  2  2 Bf  -     -     -        53498 1600    0 
+azspinner 946114177  2  1 Bc  kf    -     -        51898 1600    0 
+azspinner 946114190  2  2 B   -     -     -        50298 1600 2400 
+azspinner 946114193  2  1 Br  b     -     -        51098 14400 19200 
+azspinner 946114203  2  2 Bc  f     -     -        55898 4800    0 
+azspinner 946114212  2  1 Br  b     -     -        51098 14400 19200 
+azspinner 946114221  2  2 Br  -     -     -        55898 14400  298 Jh Ac
+azspinner 946114228  2  1 Bcc bc    -     -        41796 28204 56408 7d Tc
+azspinner 946114632  9  2 B   -     -     -         5000   50   75 
+azspinner 946114736  9  1 Bc  k     k     k         5025   50  150 4c Jh
+azspinner 946114789  9  9 c   k     k     f         5125   50    0 
+azspinner 946114852  9  8 f   -     -     -         5075    0    0 
+azspinner 946114909  9  7 f   -     -     -         5075    0    0 
+azspinner 946114960  9  6 f   -     -     -         5075    0    0 
+azspinner 946115039  9  5 f   -     -     -         5075    0    0 
+azspinner 946115125  9  4 f   -     -     -         5075    0    0 
+azspinner 946115186  9  3 f   -     -     -         5075    0    0 
+azspinner 946115237  8  2 Bk  kf    -     -         5075  100    0 
+azspinner 946115331  8  1 Bf  -     -     -         4975   50    0 
+azspinner 946115428  8  8 f   -     -     -         4925    0    0 
+azspinner 946115522  7  6 f   -     -     -         4925    0    0 
+azspinner 946115573  7  6 f   -     -     -         4925    0    0 
+azspinner 946115613  7  5 f   -     -     -         4925    0    0 
+azspinner 946115748  7  4 f   -     -     -         4925    0    0 
+azspinner 946115766  7  3 f   -     -     -         4925    0    0 
+azspinner 946115805  7  2 Bk  b     -     -         4925 1600 2400 
+azspinner 946115838  7  1 Br  -     -     -         5725 4570 6360 
+azspinner 946115871  7  7 f   -     -     -         7515    0    0 
+azspinner 946115887  7  6 f   -     -     -         7515    0    0 
+azspinner 946115918  7  5 f   -     -     -         7515    0    0 
+azspinner 946115933  7  4 f   -     -     -         7515    0    0 
+azspinner 946115995  5  2 rf  -     -     -         7515 1200    0 
+azspinner 946116018  4  2 Bc  k     k     k         6315 1390 4170 Jd Jh
+azspinner 946116065  4  1 Bc  kf    -     -         9095 1390    0 
+azspinner 946116110  4  4 rcA -     -     -         7705 7705 16010 Jc Jh
+azspinner 946116143  4  3 r   k     k     k        16010 1400 3000 Jd Ad
+azspinner 946116173  4  2 Bf  -     -     -        17610  800    0 
+azspinner 946116205  3  1 Bf  -     -     -        16810  400    0 
+azspinner 946116230  2  2 c   k     f     -        16410  800    0 
+azspinner 946116254  2  2 Bc  f     -     -        15610 1790    0 
+azspinner 946116267  2  1 Bf  -     -     -        13820  400    0 
+azspinner 946116270  2  2 Br  bA    -     -        13420 13420 18790 
+azspinner 946116292  2  1 Br  -     -     -        18790 2400 3200 
+azspinner 946116296  2  2 Bf  -     -     -        19590  800    0 
+azspinner 946116307  2  1 Br  -     -     -        18790 2400 3200 
+azspinner 946116315  2  2 B   -     -     -        19590  800 1200 
+azspinner 946116318  2  1 Bcc kf    -     -        19990 1790    0 
+azspinner 946116339  2  2 B   -     -     -        18200  800 1200 
+azspinner 946116343  2  1 Bf  -     -     -        18600  400    0 
+azspinner 946116346  2  2 B   -     -     -        18200  800 1200 
+azspinner 946116350  2  1 Br  kf    -     -        18600 2400    0 
+azspinner 946116369  2  2 Bc  rA    -     -        16200 16200    0 6d Ad
+azspinner 946137761  8  1 BrcA -     -     -         5000 5000    0 Jd Js
+azspinner 946145804  7  1 Bf  -     -     -         5000   25    0 
+azspinner 946145874  7  7 f   -     -     -         4975    0    0 
+azspinner 946145948  7  6 cc  k     k     k         4975   75    0 Js 9c
+azspinner 946145999  7  5 f   -     -     -         4900    0    0 
+azspinner 946146044  6  4 f   -     -     -         4900    0    0 
+azspinner 946146075  6  3 f   -     -     -         4900    0    0 
+azspinner 946146097  6  2 Br  k     b     kf        4900 1850    0 
+azspinner 946146142  6  1 Bcc kf    -     -         3050  300    0 
+azspinner 946146167  6  6 f   -     -     -         2750    0    0 
+azspinner 946146223  6  5 f   -     -     -         2750    0    0 
+azspinner 946146273  6  4 f   -     -     -         2750    0    0 
+azspinner 946146312  6  3 f   -     -     -         2750    0    0 
+azspinner 946146330  6  2 Bk  b     -     -         2750  450  700 
+azspinner 946146349  6  1 Br  kf    -     -         3000  800    0 
+azspinner 946146401  6  6 f   -     -     -         2200    0    0 
+azspinner 946146430  6  5 r   k     kf    -         2200  700    0 
+azspinner 946146460  6  4 f   -     -     -         1500    0    0 
+azspinner 946146480  6  3 f   -     -     -         1500    0    0 
+azspinner 946146520  6  2 Bk  k     k     k         1500  200  500 8s Tc
+azspinner 946146551  6  1 Bc  b     kf    -         1800  600    0 
+azspinner 946146614  6  6 f   -     -     -         1200    0    0 
+azspinner 946146682  6  5 f   -     -     -         1200    0    0 
+azspinner 946146709  6  4 f   -     -     -         1200    0    0 
+azspinner 946146769  6  3 f   -     -     -         1200    0    0 
+azspinner 946146792  6  2 Bk  bA    -     -         1200 1200 3800 8c Qc
+azspinner 946146841  6  1 Br  bA    -     -         3800 3800 5800 
+azspinner 946146870  6  6 f   -     -     -         5800    0    0 
+azspinner 946146896  6  5 r   bA    -     -         5800 5800 2975 7s 7h
+azspinner 946146912  6  4 f   -     -     -         2975    0    0 
+azspinner 946146939  5  2 Bk  bA    -     -         2975 2975 5375 
+azspinner 946146974  5  1 Bc  bcA   -     -         5375 5375    0 9d Js
+azspinner 946164419 17 10 f   -     -     -        15000    0    0 
+azspinner 946164528 15  8 f   -     -     -        15000    0    0 
+azspinner 946164611 15  7 cf  -     -     -        15000  200    0 
+azspinner 946164689 15  6 f   -     -     -        14800    0    0 
+azspinner 946164776 15  5 f   -     -     -        14800    0    0 
+azspinner 946164828 15  4 f   -     -     -        14800    0    0 
+azspinner 946164883 14  3 c   kf    -     -        14800  400    0 
+azspinner 946164954 14  2 Bf  -     -     -        14400  400    0 
+azspinner 946165029 13  1 Bf  -     -     -        14000  200    0 
+azspinner 946165174 13 13 f   -     -     -        13800    0    0 
+azspinner 946165238 13 12 f   -     -     -        13800    0    0 
+azspinner 946165312 12 10 f   -     -     -        13800    0    0 
+azspinner 946165395 12  9 f   -     -     -        13800    0    0 
+azspinner 946165440 12  8 f   -     -     -        13800    0    0 
+azspinner 946165513 11  7 f   -     -     -        13800    0    0 
+azspinner 946165549 11  6 f   -     -     -        13800    0    0 
+azspinner 946165603 11  5 f   -     -     -        13800    0    0 
+azspinner 946165683 11  4 f   -     -     -        13800    0    0 
+azspinner 946165749 11  3 f   -     -     -        13800    0    0 
+azspinner 946165808 11  2 Bf  -     -     -        13800 1600    0 
+azspinner 946165864 11  1 Bc  k     k     b        12200 8000 19200 Ks 6h
+azspinner 946165949 11 11 f   -     -     -        23400    0    0 
+azspinner 946166026 10  9 f   -     -     -        23400    0    0 
+azspinner 946166109 10  8 c   k     f     -        23400 3200    0 
+azspinner 946166219 10  7 c   k     f     -        20200 3200    0 
+azspinner 946166288 10  6 f   -     -     -        17000    0    0 
+azspinner 946166346 10  5 f   -     -     -        17000    0    0 
+azspinner 946166371 10  4 f   -     -     -        17000    0    0 
+azspinner 946166415 10  3 f   -     -     -        17000    0    0 
+azspinner 946166454 10  2 Bk  f     -     -        17000 6400    0 
+azspinner 946166543 10  1 Bf  -     -     -        10600 3200    0 
+azspinner 946166584 10 10 f   -     -     -         7400    0    0 
+azspinner 946166615 10  9 f   -     -     -         7400    0    0 
+azspinner 946166644  9  7 f   -     -     -         7400    0    0 
+azspinner 946166678  9  6 f   -     -     -         7400    0    0 
+azspinner 946166694  8  4 f   -     -     -         7400    0    0 
+azspinner 946166733  8  3 f   -     -     -         7400    0    0 
+azspinner 946166774  8  2 BcA -     -     -         7400 7400    0 3d Ks
+azspinner 946167375 10  3 f   -     -     -        13500    0    0 
+azspinner 946167459 10  2 Bk  k     k     k        13500  150    0 5h 3c
+azspinner 946167511 10  1 Bc  k     kc    kf       13350  900    0 
+azspinner 946167579 10 10 f   -     -     -        12450    0    0 
+azspinner 946167664 10  9 c   f     -     -        12450  525    0 
+azspinner 946167685 10  8 r   b     -     -        11925 1725 2400 
+azspinner 946167721 10  7 c   b     b     k        12600 5700 12150 Kc 9d
+azspinner 946167770 10  6 f   -     -     -        19050    0    0 
+azspinner 946167815 10  5 f   -     -     -        19050    0    0 
+azspinner 946167921 10  4 f   -     -     -        19050    0    0 
+azspinner 946167962 10  3 f   -     -     -        19050    0    0 
+azspinner 946167988 10  2 Bk  kf    -     -        19050  300    0 
+azspinner 946168029 10  1 Bf  -     -     -        18750  150    0 
+azspinner 946168067 10 10 c   f     -     -        18600  600    0 
+azspinner 946168097 10  9 r   k     b     -        18000 6900 9600 
+azspinner 946168141 10  8 f   -     -     -        20700    0    0 
+azspinner 946168177 10  7 f   -     -     -        20700    0    0 
+azspinner 946168215 10  6 f   -     -     -        20700    0    0 
+azspinner 946168282 10  5 f   -     -     -        20700    0    0 
+azspinner 946168314 10  4 f   -     -     -        20700    0    0 
+azspinner 946168354 10  3 f   -     -     -        20700    0    0 
+azspinner 946168380  9  2 Bf  -     -     -        20700  600    0 
+azspinner 946168428  9  1 Bf  -     -     -        20100  600    0 
+azspinner 946168450  9  9 f   -     -     -        19500    0    0 
+azspinner 946168476  9  8 f   -     -     -        19500    0    0 
+azspinner 946168494  8  6 f   -     -     -        19500    0    0 
+azspinner 946168510  8  5 f   -     -     -        19500    0    0 
+azspinner 946168567  8  4 r   -     -     -        19500 4200 6000 
+azspinner 946168587  8  3 f   -     -     -        21300    0    0 
+azspinner 946168615  8  2 B   -     -     -        21300 1200 1800 
+azspinner 946168629  8  1 Bf  -     -     -        21900  600    0 
+azspinner 946168661  8  8 f   -     -     -        21300    0    0 
+azspinner 946168680  8  7 f   -     -     -        21300    0    0 
+azspinner 946168707  6  5 f   -     -     -        21300    0    0 
+azspinner 946168761  5  4 f   -     -     -        21300    0    0 
+azspinner 946168781  5  4 f   -     -     -        21300    0    0 
+azspinner 946168789  5  3 f   -     -     -        21300    0    0 
+azspinner 946168799  5  2 Bk  b     k     k        21300 8400 18000 Js 8s
+azspinner 946168832  5  1 Bc  k     k     k        30900 2400 4800 Ts 6s
+azspinner 946168869  5  5 r   -     -     -        33300 8400 12000 
+azspinner 946168880  5  4 f   -     -     -        36900    0    0 
+azspinner 946168893  5  3 f   -     -     -        36900    0    0 
+azspinner 946168899  5  2 B   -     -     -        36900 2400 3600 
+azspinner 946168904  5  1 Bf  -     -     -        38100 1200    0 
+azspinner 946168911  5  5 f   -     -     -        36900    0    0 
+azspinner 946168924  5  4 f   -     -     -        36900    0    0 
+azspinner 946168931  4  3 f   -     -     -        36900    0    0 
+azspinner 946168962  4  2 Bk  k     f     -        36900 2400    0 
+azspinner 946168987  4  1 Bf  -     -     -        34500 1200    0 
+azspinner 946168996  4  4 f   -     -     -        33300    0    0 
+azspinner 946169005  4  3 r   -     -     -        33300 7500 9300 Ah Td
+azspinner 946169012  4  2 B   -     -     -        35100 2400 3600 
+azspinner 946169021  4  1 Br  -     -     -        36300 7200 9600 
+azspinner 946169032  4  4 r   -     -     -        38700 22800 31800 Ad Ts
+azspinner 946169049  3  2 rf  -     -     -        47700 7200    0 
+azspinner 946169091  2  1 B   -     -     -        40500 2400 2400 
+azspinner 946169097  2  1 Bc  k     k     b        40500 14400 28800 8d 7d
+azspinner 946169119  2  2 B   -     -     -        54900 4800 7200 
+azspinner 946169125  2  1 Br  -     -     -        57300 14400 19200 
+azspinner 946169130  2  2 Bc  f     -     -        62100 14400    0 
+azspinner 946169139  2  1 Bf  -     -     -        47700 2400    0 
+azspinner 946169141  2  2 B   -     -     -        45300 4800 7200 
+azspinner 946169144  2  1 Bc  k     k     b        47700 14400 19200 
+azspinner 946169167  2  2 Bk  c     b     k        52500 43200 86400 Qs 9s
+azspinner 946169194  2  1 Bc  k     b     -        95700 14400 19200 
+azspinner 946169214  2  2 B   -     -     -       100500 4800 7200 
+azspinner 946169216  2  1 Bc  kf    -     -       102900 4800    0 
+azspinner 946169233  2  2 B   -     -     -        98100 4800 7200 
+azspinner 946169236  2  1 Br  -     -     -       100500 14400 19200 
+azspinner 946169241  2  2 Bk  f     -     -       105300 4800    0 
+azspinner 946169250  2  1 Br  -     -     -       100500 14400 19200 
+azspinner 946169257  2  2 Bf  -     -     -       105300 4800    0 
+azspinner 946169262  2  1 Br  -     -     -       100500 14400 19200 
+azspinner 946169267  2  2 B   -     -     -       105300 4800 7200 
+azspinner 946169270  2  1 Bc  kc    k     b       107700 43200 70500 3d Qd
+azspinner 946169629 10  3 f   -     -     -        10000    0    0 
+azspinner 946169702 10  2 Bk  k     k     kf       10000   50    0 
+azspinner 946169776 10  1 Bc  kf    -     -         9950   50    0 
+azspinner 946169872 10 10 r   b     b     -         9900 5825 8250 
+azspinner 946169936 10  9 f   -     -     -        12325    0    0 
+azspinner 946169987  9  8 r   b     b     -        12325 3650 5100 As Jd
+azspinner 946170066  8  6 cf  -     -     -        13775  100    0 
+azspinner 946170127  7  4 f   -     -     -        13675    0    0 
+azspinner 946170216  7  3 f   -     -     -        13675    0    0 
+azspinner 946170259  7  2 Bk  b     kc    k        13675 2100    0 3c Qh
+azspinner 946170342  7  1 Bc  kf    -     -        11575  100    0 
+azspinner 946170435  7  7 r   f     -     -        11475 1100    0 
+azspinner 946170472  7  6 f   -     -     -        10375    0    0 
+azspinner 946170515  7  5 c   k     k     k        10375  200  500 Kd 7d
+azspinner 946170601  7  4 f   -     -     -        10675    0    0 
+azspinner 946170632  7  3 f   -     -     -        10675    0    0 
+azspinner 946170689  7  2 Bk  b     b     k        10675 3400    0 4d 9d
+azspinner 946170786  7  1 Bc  kf    -     -         7275  200    0 
+azspinner 946170821  7  7 c   k     f     -         7075 1800    0 
+azspinner 946170861  7  6 c   f     -     -         5275  400    0 
+azspinner 946170911  7  5 f   -     -     -         4875    0    0 
+azspinner 946170972  7  4 f   -     -     -         4875    0    0 
+azspinner 946171047  6  3 f   -     -     -         4875    0    0 
+azspinner 946171071  6  2 Bf  -     -     -         4875  400    0 
+azspinner 946171099  5  1 Bc  k     b     -         4475 1600 2400 
+azspinner 946171156  5  5 f   -     -     -         5275    0    0 
+azspinner 946171188  4  3 r   k     f     -         5275 2400    0 
+azspinner 946171231  4  3 f   -     -     -         2875    0    0 
+azspinner 946171254  4  2 Bf  -     -     -         2875  800    0 
+azspinner 946171272  4  1 BrA -     -     -         2075 2075    0 Qc Ah
+azspinner 946176120 13 13 f   -     -     -        10000    0    0 
+azspinner 946176257 13 12 f   -     -     -        10000    0    0 
+azspinner 946176389 13 11 cc  kf    -     -        10000  650    0 
+azspinner 946176483 13 10 f   -     -     -         9350    0    0 
+azspinner 946176573 13  9 cc  kf    -     -         9350  900    0 
+azspinner 946176620 13  8 c   kf    -     -         8450  200    0 
+azspinner 946176724 13  7 f   -     -     -         8250    0    0 
+azspinner 946176841 13  6 r   b     k     bA        8250 8250 6600 As Qd
+azspinner 946176915 13  5 f   -     -     -         6600    0    0 
+azspinner 946176960 13  4 cf  -     -     -         6600  400    0 
+azspinner 946177032 12  3 f   -     -     -         6200    0    0 
+azspinner 946177134 10  2 Bf  -     -     -         6200  400    0 
+azspinner 946177206 10  1 Bf  -     -     -         5800  400    0 
+azspinner 946177340  9  9 f   -     -     -         5400    0    0 
+azspinner 946177417  9  8 f   -     -     -         5400    0    0 
+azspinner 946177469  9  7 f   -     -     -         5400    0    0 
+azspinner 946177531  9  6 c   k     k     k         5400 1600    0 8c 8h
+azspinner 946177579  9  5 rA  -     -     -         3800 3800 6200 
+azspinner 946177606  9  4 f   -     -     -         6200    0    0 
+azspinner 946177649  9  3 r   bA    -     -         6200 6200    0 9s As
+azspinner 946179068  9  9 f   -     -     -        10000    0    0 
+azspinner 946179080  9  8 f   -     -     -        10000    0    0 
+azspinner 946179101  9  7 f   -     -     -        10000    0    0 
+azspinner 946179142  9  6 c   k     k     k        10000   50    0 7h 7c
+azspinner 946179187  9  5 f   -     -     -         9950    0    0 
+azspinner 946179226  9  4 r   b     b     b         9950 7000 9450 
+azspinner 946179286  9  3 c   r     b     f        12400 1675    0 
+azspinner 946179342  9  2 Bk  k     k     k        10725   50  150 3c As
+azspinner 946179388  9  1 Bc  k     k     k        10825   50  200 7c 8s
+azspinner 946179503  9  9 f   -     -     -        10975    0    0 
+azspinner 946179571  9  8 f   -     -     -        10975    0    0 
+azspinner 946179593  9  7 f   -     -     -        10975    0    0 
+azspinner 946179632  9  6 cc  kf    -     -        10975  450    0 
+azspinner 946179674  9  5 r   k     k     kf       10525  350    0 
+azspinner 946179738  9  4 f   -     -     -        10175    0    0 
+azspinner 946179756  9  3 f   -     -     -        10175    0    0 
+azspinner 946179766  9  2 Bc  f     -     -        10175  400    0 
+azspinner 946179814  9  1 Bc  kf    -     -         9775  100    0 
+azspinner 946179893  9  9 r   k     f     -         9675  900    0 
+azspinner 946179939  9  8 r   b     -     -         8775 3000 4200 
+azspinner 946179975  9  7 f   -     -     -         9975    0    0 
+azspinner 946180009  9  6 f   -     -     -         9975    0    0 
+azspinner 946180043  9  5 c   k     c     b         9975 4200 9600 2s 2c
+azspinner 946180106  9  4 f   -     -     -        15375    0    0 
+azspinner 946180182  8  2 f   -     -     -        15375    0    0 
+azspinner 946180217  8  2 Bk  k     b     k        15375  700 1500 Ah 7d
+azspinner 946180256  8  1 Bc  kf    -     -        16175  400    0 
+azspinner 946180307  8  8 r   k     k     b        15775 7600 11600 
+azspinner 946180421  8  7 f   -     -     -        19775    0    0 
+azspinner 946180495  8  6 f   -     -     -        19775    0    0 
+azspinner 946180532  8  5 f   -     -     -        19775    0    0 
+azspinner 946180558  8  4 f   -     -     -        19775    0    0 
+azspinner 946180612  8  3 f   -     -     -        19775    0    0 
+azspinner 946180663  8  2 Bk  b     -     -        19775 3200 4800 
+azspinner 946180698  8  1 Bf  -     -     -        21375  400    0 
+azspinner 946180738  8  8 f   -     -     -        20975    0    0 
+azspinner 946180827  8  7 c   f     -     -        20975  800    0 
+azspinner 946180870  8  6 f   -     -     -        20175    0    0 
+azspinner 946180945  8  5 f   -     -     -        20175    0    0 
+azspinner 946180983  8  4 r   b     bA    -        20175 20175  525 Qs Ad
+azspinner 946181026  8  3 f   -     -     -          525    0    0 
+azspinner 946181063  8  2 BA  -     -     -          525  525    0 2d Jc
+azspinner 946244191 11  9 f   -     -     -         5000    0    0 
+azspinner 946244314 11  8 f   -     -     -         5000    0    0 
+azspinner 946244347 11  7 r   k     k     k         5000  140  340 Jc Kc
+azspinner 946244404 11  6 f   -     -     -         5200    0    0 
+azspinner 946244471 11  5 f   -     -     -         5200    0    0 
+azspinner 946244626 10  4 f   -     -     -         5200    0    0 
+azspinner 946244766 10  3 r   -     -     -         5200  280  400 
+azspinner 946244814 10  2 Bk  kf    -     -         5320   80    0 
+azspinner 946244902 10  1 Bc  k     kf    -         5240   80    0 
+azspinner 946245018 10 10 f   -     -     -         5160    0    0 
+azspinner 946245125 10  9 f   -     -     -         5160    0    0 
+azspinner 946245222 10  8 f   -     -     -         5160    0    0 
+azspinner 946245271 10  7 f   -     -     -         5160    0    0 
+azspinner 946245353  9  5 f   -     -     -         5160    0    0 
+azspinner 946245388  8  3 f   -     -     -         5160    0    0 
+azspinner 946245449  8  2 Bk  b     -     -         5160 1920 3200 
+azspinner 946245516  8  1 Bc  b     b     -         6440 5440  780 Kh 5c
+azspinner 946245601  8  8 f   -     -     -         1780    0    0 
+azspinner 946245615  8  7 f   -     -     -         1780    0    0 
+azspinner 946245673  8  6 f   -     -     -         1780    0    0 
+azspinner 946245723  8  5 f   -     -     -         1780    0    0 
+azspinner 946245818  8  4 f   -     -     -         1780    0    0 
+azspinner 946245862  7  3 f   -     -     -         1780    0    0 
+azspinner 946245926  7  2 Bk  k     kf    -         1780  640    0 
+azspinner 946246008  7  1 Bf  -     -     -         1140  320    0 
+azspinner 946246029  7  7 f   -     -     -          820    0    0 
+azspinner 946246060  7  6 f   -     -     -          820    0    0 
+azspinner 946246065  7  5 f   -     -     -          820    0    0 
+azspinner 946246134  7  4 f   -     -     -          820    0    0 
+azspinner 946246165  7  3 f   -     -     -          820    0    0 
+azspinner 946246206  6  2 BA  -     -     -          820  820 2280 Ad 3d
+azspinner 946246230  6  1 Bc  bA    -     -         2280 2280    0 9h 8c
+azspinner 946247262 13  9 f   -     -     -         5000    0    0 
+azspinner 946247381 12  8 c   b     b     b         5000 1675 2250 
+azspinner 946247460 12  7 f   -     -     -         5575    0    0 
+azspinner 946247551 12  6 f   -     -     -         5575    0    0 
+azspinner 946247644 11  4 c   k     k     kf        5575  100    0 
+azspinner 946247822 11  3 f   -     -     -         5475    0    0 
+azspinner 946247899 11  2 Bf  -     -     -         5475  100    0 
+azspinner 946247959 11  1 Bc  kf    -     -         5375  200    0 
+azspinner 946248076 11 11 f   -     -     -         5175    0    0 
+azspinner 946248147 11 10 f   -     -     -         5175    0    0 
+azspinner 946248255 10  8 c   c     f     -         5175 1000    0 
+azspinner 946248341 10  8 f   -     -     -         4175    0    0 
+azspinner 946248438 10  7 c   b     -     -         4175 1400 2000 
+azspinner 946248502 10  6 f   -     -     -         4775    0    0 
+azspinner 946248548  9  4 f   -     -     -         4775    0    0 
+azspinner 946248608  9  4 f   -     -     -         4775    0    0 
+azspinner 946248641  9  3 f   -     -     -         4775    0    0 
+azspinner 946248705  8  1 Bf  -     -     -         4775  800    0 
+azspinner 946248730  7  1 Bc  kf    -     -         3975  800    0 
+azspinner 946248784  7  7 f   -     -     -         3175    0    0 
+azspinner 946248836  7  6 cf  -     -     -         3175  800    0 
+azspinner 946248882  7  5 rA  -     -     -         2375 2375 3575 
+azspinner 946248901  7  4 f   -     -     -         3575    0    0 
+azspinner 946248948  7  3 f   -     -     -         3575    0    0 
+azspinner 946248980  7  2 Bf  -     -     -         3575  800    0 
+azspinner 946249005  7  1 BcA -     -     -         2775 2775 6350 Qs Ah
+azspinner 946249020  7  7 f   -     -     -         6350    0    0 
+azspinner 946249103  7  6 c   bA    -     -         6350 6350 10350 
+azspinner 946249146  7  5 f   -     -     -        10350    0    0 
+azspinner 946249189  7  4 f   -     -     -        10350    0    0 
+azspinner 946249231  6  2 Bf  -     -     -        10350 1600    0 
+azspinner 946249263  6  1 Bf  -     -     -         8750  800    0 
+azspinner 946249307  5  5 c   bc    -     -         7950 7412    0 6c Ah
+azspinner 946249356  5  4 cA  -     -     -          538  538    0 Js Qh
+azspinner 946257567 11  3 c   kf    -     -         5000   50    0 
+azspinner 946257643 11  2 Bk  kf    -     -         4950   50    0 
+azspinner 946257703 11  1 Bc  kr    -     -         4900 3125 4350 
+azspinner 946257803 11 11 f   -     -     -         6125    0    0 
+azspinner 946257884 11 10 r   b     b     k         6125 4650 9450 Qh Ah
+azspinner 946257942 11  9 f   -     -     -        10925    0    0 
+azspinner 946258008 10  7 c   cc    -     -        10925 6100    0 Qh Jh
+azspinner 946258054  9  5 f   -     -     -         4825    0    0 
+azspinner 946258096  9  4 f   -     -     -         4825    0    0 
+azspinner 946258147  9  3 f   -     -     -         4825    0    0 
+azspinner 946258182  9  2 Bf  -     -     -         4825  100    0 
+azspinner 946258249  9  1 Bf  -     -     -         4725  100    0 
+azspinner 946258310  9  9 c   k     f     -         4625  700    0 
+azspinner 946258334  9  8 f   -     -     -         3925    0    0 
+azspinner 946258365  9  7 f   -     -     -         3925    0    0 
+azspinner 946258413  9  6 c   k     c     k         3925 1150 2600 6h 6c
+azspinner 946258458  9  5 f   -     -     -         5375    0    0 
+azspinner 946258516  9  4 f   -     -     -         5375    0    0 
+azspinner 946258578  9  3 f   -     -     -         5375    0    0 
+azspinner 946258629  9  2 Bk  kc    k     kf        5375 2600    0 
+azspinner 946258709  9  1 Bc  k     k     k         2775  400    0 2h 8d
+azspinner 946258791  9  9 f   -     -     -         2375    0    0 
+azspinner 946258846  9  8 f   -     -     -         2375    0    0 
+azspinner 946258890  9  7 f   -     -     -         2375    0    0 
+azspinner 946258910  9  6 f   -     -     -         2375    0    0 
+azspinner 946258965  9  5 rA  -     -     -         2375 2375 7525 Ks Kh
+azspinner 946258985  9  4 f   -     -     -         7525    0    0 
+azspinner 946259022  8  3 f   -     -     -         7525    0    0 
+azspinner 946259045  8  2 Bf  -     -     -         7525  800    0 
+azspinner 946259084  7  1 Bf  -     -     -         6725  400    0 
+azspinner 946259114  7  7 rA  -     -     -         6325 6325 10325 
+azspinner 946259137  7  6 f   -     -     -        10325    0    0 
+azspinner 946259172  7  5 f   -     -     -        10325    0    0 
+azspinner 946259202  7  4 f   -     -     -        10325    0    0 
+azspinner 946259224  7  3 f   -     -     -        10325    0    0 
+azspinner 946259259  7  2 Bf  -     -     -        10325 1600    0 
+azspinner 946259277  7  1 Br  -     -     -         8725 4800 6400 
+azspinner 946259295  7  7 f   -     -     -        10325    0    0 
+azspinner 946259309  7  6 f   -     -     -        10325    0    0 
+azspinner 946259333  7  5 f   -     -     -        10325    0    0 
+azspinner 946259343  7  4 f   -     -     -        10325    0    0 
+azspinner 946259350  7  3 f   -     -     -        10325    0    0 
+azspinner 946259375  7  2 Bf  -     -     -        10325 1600    0 
+azspinner 946259394  7  1 Bc  k     kf    -         8725 1600    0 
+azspinner 946259441  7  7 f   -     -     -         7125    0    0 
+azspinner 946259454  7  6 f   -     -     -         7125    0    0 
+azspinner 946259505  6  5 f   -     -     -         7125    0    0 
+azspinner 946259531  6  4 f   -     -     -         7125    0    0 
+azspinner 946259542  6  3 f   -     -     -         7125    0    0 
+azspinner 946259563  6  2 BcA -     -     -         7125 7125    0 2s Qs
+azspinner 946260315 10  4 f   -     -     -         5000    0    0 
+azspinner 946260408 10  3 c   k     b     kf        5000  275    0 
+azspinner 946260514 10  2 Bk  k     k     f         4725   50    0 
+azspinner 946260583 10  1 Bf  -     -     -         4675   25    0 
+azspinner 946260680  8  8 r   f     -     -         4650  500    0 
+azspinner 946260729  8  8 r   c     f     -         4150  750    0 
+azspinner 946260797  8  7 f   -     -     -         3400    0    0 
+azspinner 946260834  8  6 r   k     k     k         3400  450    0 As Qh
+azspinner 946260896  8  5 f   -     -     -         2950    0    0 
+azspinner 946260944  7  3 f   -     -     -         2950    0    0 
+azspinner 946261004  6  2 Bf  -     -     -         2950  100    0 
+azspinner 946261034  6  1 Bc  kf    -     -         2850  200    0 
+azspinner 946261069  6  6 c   f     -     -         2650  200    0 
+azspinner 946261097  6  5 f   -     -     -         2450    0    0 
+azspinner 946261132  6  4 f   -     -     -         2450    0    0 
+azspinner 946261197  6  3 r   -     -     -         2450  700 1000 
+azspinner 946261213  6  2 BcA -     -     -         2750 2750 5600 Js Jh
+azspinner 946261237  6  1 Bc  b     -     -         5600 2328 3880 6c Qc
+azspinner 946261273  5  5 c   k     f     -         7152  500    0 
+azspinner 946261321  5  4 f   -     -     -         6652    0    0 
+azspinner 946261334  5  3 r   kf    -     -         6652  700    0 
+azspinner 946261353  5  2 Bk  kf    -     -         5952  200    0 
+azspinner 946261377  5  1 Bcf -     -     -         5752  200    0 
+azspinner 946261401  5  5 r   c     -     -         5552 4387 9174 Jc Kh
+azspinner 946261420  4  4 f   -     -     -        10339    0    0 
+azspinner 946261451  3  3 r   r     -     -        10339 5900 8000 
+azspinner 946261484  3  2 Bk  k     b     -        12439 1400 2000 
+azspinner 946261508  3  1 Br  -     -     -        13039 1200 1600 
+azspinner 946261515  3  3 f   -     -     -        13439    0    0 
+azspinner 946261535  3  2 Bk  k     k     k        13439  400    0 Tc 5s
+azspinner 946261572  3  1 Bc  k     kf    -        13039  400    0 
+azspinner 946261601  3  3 f   -     -     -        12639    0    0 
+azspinner 946261650  3  2 Bk  bf    -     -        12639 1400    0 
+azspinner 946261674  3  1 Bf  -     -     -        11239  200    0 
+azspinner 946261677  3  3 r   -     -     -        11039 1400 2000 
+azspinner 946261696  3  2 B   -     -     -        11639  400  600 
+azspinner 946261701  3  1 Bc  k     k     k        11839  400    0 6c 5s
+azspinner 946261719  3  3 r   -     -     -        11439 1400 2000 
+azspinner 946261738  3  2 Bk  k     k     k        12039  400 1000 Tc 3d
+azspinner 946261794  3  1 Bf  -     -     -        12639  400    0 
+azspinner 946261810  3  3 c   k     k     k        12239  800 2000 Qh 7d
+azspinner 946261849  3  2 Bf  -     -     -        13439  800    0 
+azspinner 946261870  3  1 Bf  -     -     -        12639  400    0 
+azspinner 946261879  3  3 r   b     bA    -        12239 12239 25278 7d Ad
+azspinner 946261906  3  2 B   -     -     -        25278  800  103 Qc 5s
+azspinner 946261912  3  1 Bcc -     -     -        24581 1794 3588 Kh Kc
+azspinner 946261937  2  2 f   -     -     -        26375    0    0 
+azspinner 946261945  2  2 Bf  -     -     -        26375  800    0 
+azspinner 946261954  2  1 Br  -     -     -        25575 2400 3200 
+azspinner 946261958  2  2 B   -     -     -        26375  800 1200 
+azspinner 946261961  2  1 Br  -     -     -        26775 2400 3200 
+azspinner 946261967  2  2 Bc  f     -     -        27575 2400    0 
+azspinner 946261985  2  1 Br  kf    -     -        25175 2400    0 
+azspinner 946262001  2  2 B   -     -     -        22775  800 1200 
+azspinner 946262003  2  1 Bf  -     -     -        23175  400    0 
+azspinner 946262006  2  2 Bc  b     -     -        22775 7200 9600 
+azspinner 946262028  2  1 Br  -     -     -        25175 2400 3200 
+azspinner 946262031  2  2 Bf  -     -     -        25975  800    0 
+azspinner 946262035  2  1 Bf  -     -     -        25175  400    0 
+azspinner 946262038  2  2 Bc  bc    cA    -        24775 24775 49550 8d 6d
+azspinner 946262065  2  1 Bc  -     -     -        49550  450    0 Jc 5d
+azspinner 946262072  2  2 Bc  -     -     -        49100  900    0 As 7s
+azspinner 946262082  2  1 Br  -     -     -        48200 2400 3200 
+azspinner 946262091  2  2 Bc  -     -     -        49000 1000    0 2c 9s
+azspinner 946262096  2  1 Bf  -     -     -        48000  400    0 
+azspinner 946262106  2  2 B   -     -     -        47600  800 1200 
+azspinner 946262111  2  1 Bcc -     -     -        48000 2000    0 Td 7s
+azspinner 946262123  2  2 B   -     -     -        46000  800 1200 
+azspinner 946262132  2  1 Bcf -     -     -        46400  800    0 
+azspinner 946262150  2  2 B   -     -     -        45600 1600 2400 
+azspinner 946262156  2  1 Br  -     -     -        46400 4800 8400 Td Kd
+azspinner 946262485 16  6 f   -     -     -        10000    0    0 
+azspinner 946262565 16  5 f   -     -     -        10000    0    0 
+azspinner 946262655 16  4 f   -     -     -        10000    0    0 
+azspinner 946262719 16  3 f   -     -     -        10000    0    0 
+azspinner 946262780 16  2 Bk  k     k     kf       10000   50    0 
+azspinner 946262860 16  1 Bc  b     k     k         9950  600 1500 Tc 6h
+azspinner 946262931 16 16 f   -     -     -        10850    0    0 
+azspinner 946263082 16 15 f   -     -     -        10850    0    0 
+azspinner 946263154 15 13 cf  -     -     -        10850  100    0 
+azspinner 946263241 13 11 f   -     -     -        10750    0    0 
+azspinner 946263326 12 10 f   -     -     -        10750    0    0 
+azspinner 946263440 11  8 f   -     -     -        10750    0    0 
+azspinner 946263525 10  7 f   -     -     -        10750    0    0 
+azspinner 946263591  9  5 cc  kf    -     -        10750 1000    0 
+azspinner 946263647  9  5 f   -     -     -         9750    0    0 
+azspinner 946263703  9  4 f   -     -     -         9750    0    0 
+azspinner 946263806  9  3 f   -     -     -         9750    0    0 
+azspinner 946263892  8  2 Bk  k     kf    -         9750  400    0 
+azspinner 946263992  8  1 Bf  -     -     -         9350  200    0 
+azspinner 946264026  8  8 f   -     -     -         9150    0    0 
+azspinner 946264103  8  7 f   -     -     -         9150    0    0 
+azspinner 946264165  8  6 f   -     -     -         9150    0    0 
+azspinner 946264189  8  5 f   -     -     -         9150    0    0 
+azspinner 946264239  8  4 f   -     -     -         9150    0    0 
+azspinner 946264280  8  3 f   -     -     -         9150    0    0 
+azspinner 946264315  8  2 Bk  k     k     kf        9150  800    0 
+azspinner 946264369  8  1 Bf  -     -     -         8350  400    0 
+azspinner 946264398  8  8 f   -     -     -         7950    0    0 
+azspinner 946264416  8  7 f   -     -     -         7950    0    0 
+azspinner 946264478  8  6 f   -     -     -         7950    0    0 
+azspinner 946264514  8  5 f   -     -     -         7950    0    0 
+azspinner 946264557  8  4 f   -     -     -         7950    0    0 
+azspinner 946264588  8  3 f   -     -     -         7950    0    0 
+azspinner 946264617  8  2 Bk  k     kf    -         7950 1600    0 
+azspinner 946264697  8  1 Bf  -     -     -         6350  800    0 
+azspinner 946264736  8  8 f   -     -     -         5550    0    0 
+azspinner 946264796  8  7 f   -     -     -         5550    0    0 
+azspinner 946264838  6  4 f   -     -     -         5550    0    0 
+azspinner 946264870  6  3 f   -     -     -         5550    0    0 
+azspinner 946264922  6  2 Bf  -     -     -         5550 3200    0 
+azspinner 946264936  6  1 Bf  -     -     -         2350 1600    0 
+azspinner 946264982  6  6 f   -     -     -          750    0    0 
+azspinner 946265005  6  5 f   -     -     -          750    0    0 
+azspinner 946265060  6  4 f   -     -     -          750    0    0 
+azspinner 946265091  6  3 f   -     -     -          750    0    0 
+azspinner 946265111  6  2 BA  -     -     -          750  750    0 Jh Ah
+azspinner 946265975 21 17 f   -     -     -         5000    0    0 
+azspinner 946266072 19 15 f   -     -     -         5000    0    0 
+azspinner 946266188 19 14 c   f     -     -         5000  950    0 
+azspinner 946266291 19 13 f   -     -     -         4050    0    0 
+azspinner 946266413 19 12 cf  -     -     -         4050  350    0 
+azspinner 946266474 18 10 cf  -     -     -         3700  100    0 
+azspinner 946266577 18  9 cc  cA    -     -         3600 3600    0 9c Qc
+azspinner 946354255 17  9 f   -     -     -         3333    0    0 
+azspinner 946354389 16  8 f   -     -     -         3333    0    0 
+azspinner 946354478 16  7 f   -     -     -         3333    0    0 
+azspinner 946354559 16  6 f   -     -     -         3333    0    0 
+azspinner 946354621 15  5 f   -     -     -         3333    0    0 
+azspinner 946354710 15  4 f   -     -     -         3333    0    0 
+azspinner 946354816 15  3 r   kc    -     -         3333  670    0 Qs Ac
+azspinner 946354888 15  2 Bk  kf    -     -         2663  132    0 
+azspinner 946355018 14  1 Bf  -     -     -         2531  132    0 
+azspinner 946355101 14 14 f   -     -     -         2399    0    0 
+azspinner 946355181 14 13 f   -     -     -         2399    0    0 
+azspinner 946355252 12 10 f   -     -     -         2399    0    0 
+azspinner 946355326 12  9 f   -     -     -         2399    0    0 
+azspinner 946355351 12  8 f   -     -     -         2399    0    0 
+azspinner 946355400 11  6 f   -     -     -         2399    0    0 
+azspinner 946355483 11  5 f   -     -     -         2399    0    0 
+azspinner 946355532 11  4 f   -     -     -         2399    0    0 
+azspinner 946355595 10  2 f   -     -     -         2399    0    0 
+azspinner 946355633  9  2 Bk  k     k     k         2399  528 1320 3s 3c
+azspinner 946355669  9  1 Bcf -     -     -         3191  528    0 
+azspinner 946355703  8  8 f   -     -     -         2663    0    0 
+azspinner 946355746  8  8 f   -     -     -         2663    0    0 
+azspinner 946355781  8  7 f   -     -     -         2663    0    0 
+azspinner 946355814  8  6 f   -     -     -         2663    0    0 
+azspinner 946355832  8  5 f   -     -     -         2663    0    0 
+azspinner 946355852  8  4 rA  -     -     -         2663 2663 4412 9d 9h
+azspinner 946355883  7  3 r   bA    -     -         4412 4412 10128 As Ac
+azspinner 946355909  6  2 B   -     -     -        10128 1056 1584 
+azspinner 946355925  6  1 Bc  kf    -     -        10656 1056    0 
+azspinner 946356010  6  6 f   -     -     -         9600    0    0 
+azspinner 946356060  4  3 f   -     -     -         9600    0    0 
+azspinner 946356071  4  3 f   -     -     -         9600    0    0 
+azspinner 946356098  3  2 Bf  -     -     -         9600 2112    0 
+azspinner 946356110  3  1 Br  -     -     -         7488 6336 8448 
+azspinner 946356119  3  3 rcA -     -     -         9600 9600    0 Kc 3h
+azspinner 946356775 16  9 f   -     -     -         5000    0    0 
+azspinner 946356885 16  8 c   cc    kf    -         5000 1365    0 
+azspinner 946356962 16  7 f   -     -     -         3635    0    0 
+azspinner 946357081 16  6 f   -     -     -         3635    0    0 
+azspinner 946357189 16  5 f   -     -     -         3635    0    0 
+azspinner 946357250 15  3 f   -     -     -         3635    0    0 
+azspinner 946357370 15  3 f   -     -     -         3635    0    0 
+azspinner 946357465 13  1 Bk  k     b     -         3635  600 1000 
+azspinner 946357545 13  1 Bf  -     -     -         4035  100    0 
+azspinner 946357602 13 13 c   bf    -     -         3935  800    0 
+azspinner 946357648 13 12 f   -     -     -         3135    0    0 
+azspinner 946357730 12 10 f   -     -     -         3135    0    0 
+azspinner 946357801 12  9 f   -     -     -         3135    0    0 
+azspinner 946357852 12  8 f   -     -     -         3135    0    0 
+azspinner 946357906 12  7 f   -     -     -         3135    0    0 
+azspinner 946357964 11  6 f   -     -     -         3135    0    0 
+azspinner 946358001 11  5 c   k     f     -         3135  400    0 
+azspinner 946358066 11  4 f   -     -     -         2735    0    0 
+azspinner 946358113 11  3 f   -     -     -         2735    0    0 
+azspinner 946358142 10  2 Bk  bcA   -     -         2735 2735    0 Kd 6d
+azspinner 946435215 16 11 f   -     -     -         5000    0    0 
+azspinner 946435393 15  9 f   -     -     -         5000    0    0 
+azspinner 946435541 13  6 c   bc    kc    -         5000 4550    0 Jh Kc
+azspinner 946435619 12  4 rA  -     -     -          450  450    0 Jh Kh
+azspinner 946516165 22 19 f   -     -     -         5000    0    0 
+azspinner 946516307 22 18 f   -     -     -         5000    0    0 
+azspinner 946516437 20 15 f   -     -     -         5000    0    0 
+azspinner 946516539 19 14 f   -     -     -         5000    0    0 
+azspinner 946516693 19 13 f   -     -     -         5000    0    0 
+azspinner 946516777 18 11 f   -     -     -         5000    0    0 
+azspinner 946516828 18 10 f   -     -     -         5000    0    0 
+azspinner 946516908 18  9 f   -     -     -         5000    0    0 
+azspinner 946517030 18  8 f   -     -     -         5000    0    0 
+azspinner 946517071 18  7 f   -     -     -         5000    0    0 
+azspinner 946517153 18  6 f   -     -     -         5000    0    0 
+azspinner 946517231 18  5 f   -     -     -         5000    0    0 
+azspinner 946517288 18  4 f   -     -     -         5000    0    0 
+azspinner 946517391 17  3 f   -     -     -         5000    0    0 
+azspinner 946517498 17  2 Bk  kf    -     -         5000  320    0 
+azspinner 946517607 16  1 Bf  -     -     -         4680  160    0 
+azspinner 946517706 16 16 f   -     -     -         4520    0    0 
+azspinner 946517759 15 14 f   -     -     -         4520    0    0 
+azspinner 946517922 15 13 f   -     -     -         4520    0    0 
+azspinner 946518100 14 11 f   -     -     -         4520    0    0 
+azspinner 946518176 14 10 f   -     -     -         4520    0    0 
+azspinner 946518244 13  9 f   -     -     -         4520    0    0 
+azspinner 946518311 13  8 f   -     -     -         4520    0    0 
+azspinner 946518384 13  7 f   -     -     -         4520    0    0 
+azspinner 946518497 12  6 f   -     -     -         4520    0    0 
+azspinner 946518554 12  5 f   -     -     -         4520    0    0 
+azspinner 946518617 11  3 f   -     -     -         4520    0    0 
+azspinner 946518646 11  2 Bf  -     -     -         4520 2560    0 
+azspinner 946518691 10  1 BcA -     -     -         1960 1960 5880 5d Ac
+azspinner 946518745 10 10 f   -     -     -         5880    0    0 
+azspinner 946518767 10  9 f   -     -     -         5880    0    0 
+azspinner 946518817 10  8 f   -     -     -         5880    0    0 
+azspinner 946518842  9  7 f   -     -     -         5880    0    0 
+azspinner 946518886  8  6 f   -     -     -         5880    0    0 
+azspinner 946518903  8  5 f   -     -     -         5880    0    0 
+azspinner 946518971  8  4 f   -     -     -         5880    0    0 
+azspinner 946519054  8  3 f   -     -     -         5880    0    0 
+azspinner 946519086  6  1 B   -     -     -         5880 5120 5120 
+azspinner 946519110  6  1 Bf  -     -     -         5880 2560    0 
+azspinner 946519132  6  6 f   -     -     -         3320    0    0 
+azspinner 946519154  6  5 f   -     -     -         3320    0    0 
+azspinner 946519169  6  4 f   -     -     -         3320    0    0 
+azspinner 946519211  6  3 f   -     -     -         3320    0    0 
+azspinner 946519231  5  2 BA  -     -     -         3320 3320    0 Qh 4s
+azspinner 946519620 19  1 Bf  -     -     -         5000   25    0 
+azspinner 946519739 19 19 c   f     -     -         4975   50    0 
+azspinner 946519901 18 17 f   -     -     -         4925    0    0 
+azspinner 946519990 18 16 f   -     -     -         4925    0    0 
+azspinner 946520031 18 15 f   -     -     -         4925    0    0 
+azspinner 946520160 18 14 c   c     cA    -         4925 4925    0 Ts Qd
+azspinner 946522804 16  4 f   -     -     -         5000    0    0 
+azspinner 946522884 16  3 f   -     -     -         5000    0    0 
+azspinner 946522930 16  2 Bc  kf    -     -         5000  375    0 
+azspinner 946523040 16  1 Bc  kf    -     -         4625  225    0 
+azspinner 946523147 14 14 f   -     -     -         4400    0    0 
+azspinner 946523211 14 13 f   -     -     -         4400    0    0 
+azspinner 946523281 14 12 f   -     -     -         4400    0    0 
+azspinner 946523366 14 11 f   -     -     -         4400    0    0 
+azspinner 946523471 13  9 f   -     -     -         4400    0    0 
+azspinner 946523578 13  9 f   -     -     -         4400    0    0 
+azspinner 946523646 12  7 r   k     cA    -         4400 4400    0 Kc Kd

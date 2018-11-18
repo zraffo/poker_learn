@@ -1,3 +1,5 @@
+import pandas as pd
+
 def filter_games(num_players=0, player_name="", cards_shown=False, hole_cards=(), cards_dealt=None, game_stage='a',
                  pot_size=-1):
     """
@@ -29,3 +31,45 @@ def filter_player(player_name='', won=True, lost=True, cards_shown=True, hole_ca
     :return: dictionary
     """
     pass
+
+
+def won(df):
+    return df[df > 0]
+
+
+def lost(df):
+    return df[df < 0]
+
+
+def tie(df):
+    return df[df == 0]
+
+
+def stats(df):
+    w = won(df['delta'])
+    l = lost(df['delta'])
+    t = tie(df['delta'])
+    pm = df['delta'].mean()
+    pc = df['delta'].count()
+    pwc = w.count()
+    pwm = w.mean()
+    pwr = pwc / pc
+    plc = l.count()
+    plm = l.mean()
+    plr = plc / pc
+    ptm = t.mean()
+    ptc = t.count()
+    ptr = ptc / pc
+    pev = (pwr * pwm) + (plr * plm)
+    ret = {'ev': [pm],
+           'count': [pc],
+           'won': [pwc],
+           'avg win': [pwm],
+           'winrate': [pwr],
+           'lost': [plc],
+           'avg lost': [plm],
+           'lossrate': [plr],
+           'tie': [plc],
+           'avg tie': [plm],
+           'tierate': [plr]}
+    return pd.DataFrame(ret)

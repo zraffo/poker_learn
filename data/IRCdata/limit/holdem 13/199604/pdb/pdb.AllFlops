@@ -1,0 +1,239 @@
+AllFlops  829324961  7  4 cA  -     -     -            1    1    5 7c Ac
+AllFlops  829324989  7  3 cA  -     -     -            5    5    0 Kc 4d
+AllFlops  829325144  7  4 c   kf    -     Q         1000   10    0 
+AllFlops  829342273  8  5 r   k     f     -          990   20    0 
+AllFlops  829342360  7  4 cc  kc    b     b          970   70  245 2d 5d
+AllFlops  829342541  9  4 cc  fQ    -     -         1145   20    0 
+AllFlops  829345117  6  3 cc  krf   -     -         1125   40    0 
+AllFlops  829345188  4  1 Bc  k     kf    -         1085   20    0 
+AllFlops  829345214  5  1 Bc  br    b     b         1065   90  220 
+AllFlops  829345270  6  6 c   k     c     f         1195   30    0 
+AllFlops  829345388  7  6 cc  kf    -     -         1165   30    0 
+AllFlops  829345519  6  4 c   f     -     -         1135   20    0 
+AllFlops  829345620  6  3 cc  kf    -     -         1115   20    0 
+AllFlops  829345678  7  3 cc  brc   kc    kc        1095  100    0 5d Qs
+AllFlops  829345742  7  2 Bk  kf    -     -          995   10    0 
+AllFlops  829345826  8  1 Bc  f     -     -          985   20    0 
+AllFlops  829345909  8  8 r   f     -     -          965   30    0 
+AllFlops  829345986  8  7 c   f     -     -          935   20    0 
+AllFlops  829346083  9  7 cc  f     -     -          915   20    0 
+AllFlops  829346249  9  6 r   c     c     f          895   50    0 
+AllFlops  829346336  9  5 c   f     -     -          845   20    0 
+AllFlops  829346527 10  5 rc  cf    -     -          825   50    0 
+AllFlops  829346650  8  3 c   Q     -     -          775   10    0 
+AllFlops  829424285  6  6 c   c     c     k          765   40    0 5h 2h
+AllFlops  829424319  6  5 cc  f     -     -          725   20    0 
+AllFlops  829424353  6  4 c   kf    -     -          705   10    0 
+AllFlops  829424420  6  3 r   kf    -     -          695   20    0 
+AllFlops  829424466  5  2 Bk  k     f     -          675   10    0 
+AllFlops  829424512  6  1 Bcc b     bf    -          665   50    0 
+AllFlops  829424561  6  6 c   f     -     -          615   20    0 
+AllFlops  829424609  6  5 cc  kf    -     -          595   20    0 
+AllFlops  829424634  5  3 cA  -     -     -          575    1    0 3c 2h
+AllFlops  829424716  6  6 c   f     -     -         1000   10    0 
+AllFlops  829424771  6  5 rc  b     k     k          990   40    0 3h 3s
+AllFlops  829424855  6  4 c   kf    -     -          950   10    0 
+AllFlops  829424903  6  3 rrr b     b     k          940   90  195 9s 9d
+AllFlops  829424982  6  2 Bk  b     k     b         1045   40  100 
+AllFlops  829425051  6  1 Bc  bc    kc    kc        1105   70    0 Jc Tc
+AllFlops  829425120  6  6 c   f     -     -         1035   10    0 
+AllFlops  829425164  6  5 c   f     -     -         1025   10    0 
+AllFlops  829425203  7  4 c   b     -     -         1015   20   50 
+AllFlops  829425250  8  3 c   b     bc    kc        1045   80  210 3c 9c
+AllFlops  829425320  8  2 Bc  kf    -     -         1175   30    0 
+AllFlops  829425380  8  1 Bc  bf    -     -         1145   20    0 
+AllFlops  829425501  8  8 c   r     c     c         1125   90    0 Qh 6h
+AllFlops  829425622  8  7 c   k     c     f         1035   30    0 
+AllFlops  829425682  8  6 cc  kf    -     -         1005   20    0 
+AllFlops  829425791  8  5 c   br    k     k          985   40  190 2c Qh
+AllFlops  829425907  9  5 c   kf    -     -         1135   10    0 
+AllFlops  829425997  9  3 cc  Q     -     -         1125   20    0 
+AllFlops  829426248  8  7 c   c     rrc   c         1105  140  330 6h Ks
+AllFlops  829426354  9  7 cc  kf    -     -         1295   20    0 
+AllFlops  829426478 11  8 cc  rrrrr r     b         1275  200    0 2h Kh
+AllFlops  829426627 11  7 r   b     b     k         1075   50  160 Tc Ac
+AllFlops  829426745 11  6 c   f     -     -         1185   20    0 
+AllFlops  829426829 11  5 cc  kc    kc    k         1165   50  200 6s As
+AllFlops  829426946  9  3 c   b     -     -         1315   20   45 
+AllFlops  829426988  9  2 Bc  bc    b     b         1340   80  185 Ks 3s
+AllFlops  829427106  7  1 Bc  k     b     bc        1445   70    0 6s 5s
+AllFlops  829427214  8  3 Q   -     -     -         1375    0    0 
+AllFlops  829448412  2  1 Bc  k     k     k         1375   10    0 7c 6c
+AllFlops  829448438  2  2 B   -     -     -         1365   10   15 
+AllFlops  829448442  2  1 Bc  k     k     k         1370   10    0 Jd 6d
+AllFlops  829448455  2  2 B   -     -     -         1360   10   15 
+AllFlops  829448465  2  1 Bc  b     -     -         1365   20   30 
+AllFlops  829448473  2  2 Bc  c     c     f         1375   50    0 
+AllFlops  829448494  2  1 Bc  k     k     k         1325   10   20 2s 7s
+AllFlops  829448510  2  2 Bk  k     k     k         1335   10   20 9s Ac
+AllFlops  829448531  2  1 Bc  kc    kr    b         1345   80  160 Qs 8d
+AllFlops  829448560  2  2 BQ  -     -     -         1425   10    0 
+AllFlops  829500633  6  4 c   k     f     -         1415   10    0 
+AllFlops  829500673  6  3 c   b     b     k         1405   40    0 Td Qh
+AllFlops  829500715  7  2 Bc  kf    -     -         1365   20    0 
+AllFlops  829500760  7  1 Bc  b     b     bc        1345   80    0 9s 2s
+AllFlops  829500798  7  3 Q   -     -     -         1265    0    0 
+AllFlops  829531312  7  3 rc  br    kc    kr        1265  120  285 Qd Jd
+AllFlops  829531382  8  2 Bc  br    b     kc        1430   90    0 4d Kc
+AllFlops  829531454  8  1 Bc  kf    -     -         1340   20    0 
+AllFlops  829531608 10  9 c   c     f     -         1320   20    0 
+AllFlops  829531660 11  9 cc  f     Q     -         1300   40    0 
+AllFlops  829585096  3  2 Bc  kf    -     -         1015   20    0 
+AllFlops  829585112  3  1 Bc  k     kr    k          995   50  100 9d Ad
+AllFlops  829585144  3  3 r   b     -     -         1045   30   55 
+AllFlops  829585158  3  2 Bc  kc    kf    -         1070   30    0 
+AllFlops  829585177  3  1 Bc  b     -     -         1040   20   40 
+AllFlops  829585190  3  3 cc  b     -     -         1060   30   60 
+AllFlops  829585238  4  2 Bc  k     k     b         1090   40   65 
+AllFlops  829585271  4  1 Bc  kf    -     -         1115   10    0 
+AllFlops  829585311  3  3 c   -     -     -         1105   10   20 
+AllFlops  829585319  2  2 c   b     -     -         1115   20   30 
+AllFlops  829585334  2  2 B   -     -     -         1125   10   15 
+AllFlops  829585350  2  1 Bc  b     b     -         1130   40   60 
+AllFlops  829585351  2  2 Bk  k     b     -         1150   30   40 
+AllFlops  829585363  3  1 Brrrrrrrrrrrrrrrrrrrrrrrrr bc    kc    kc        1160  560    0 Ad Qd
+AllFlops  829585514  4  4 cA  -     -     -          600   10   20 7s 3h
+AllFlops  829585527  4  3 rA  -     -     -           20   20   60 8c 6h
+AllFlops  829585570  4  2 Brc rA    -     -           60   60    0 Qs 6h
+AllFlops  829594755 12  8 cc  f     -     -         1000   20    0 
+AllFlops  829595054  9  5 cc  kf    -     -          980   20    0 
+AllFlops  829595106  9  4 c   b     k     k          960   20   50 8s 3h
+AllFlops  829595167 10  4 cc  kf    -     -          990   20    0 
+AllFlops  829595308 10  4 c   kf    -     -          970   10    0 
+AllFlops  829595470 10  2 BQ  -     -     -          960   10    0 
+AllFlops  829672258 10  6 cc  r     b     b          920   80  315 4h 3c
+AllFlops  829672382  9  3 c   kf    -     -         1155   10    0 
+AllFlops  829672490  7  1 Bk  kf    -     -         1145   10    0 
+AllFlops  829672576  6  1 Bc  kr    k     k         1135   30   70 5h 8s
+AllFlops  829672724  6  6 r   k     f     -         1175   20    0 
+AllFlops  829672760  8  7 c   f     Q     -         1155   10    0 
+AllFlops  829674214 10  9 cc  kf    -     -         1145   20    0 
+AllFlops  829674437  9  6 cc  f     -     -         1125   20    0 
+AllFlops  829674577 12  7 cc  bc    kc    kc        1105   80  290 Qs 2d
+AllFlops  829674708 12  6 ccc kf    Q     -         1315   40    0 
+AllFlops  829701929  9  9 c   rc    c     c         1275   90  290 2s 3s
+AllFlops  829702005  9  8 c   r     k     f         1475   30    0 
+AllFlops  829702111  8  6 cc  f     -     -         1445   20    0 
+AllFlops  829702173  8  5 c   kf    -     -         1425   10    0 
+AllFlops  829702246  8  4 rr  r     rrrrrrrrrrrrr c         1415  600 1305 Qs Qc
+AllFlops  829702364  8  3 c   kc    k     k         2120   20    0 8s 5s
+AllFlops  829702483  9  3 c   kf    -     -         2100   10    0 
+AllFlops  829702561  9  2 Bc  krr   b     kc        2090  100    0 Qc 3s
+AllFlops  829702709  8  1 Bc  bc    br    b         1990  110  290 Ah 3d
+AllFlops  829702810  8  8 c   f     Q     -         2170   20    0 
+AllFlops  829757957  7  2 Bc  b     k     k         2150   30   85 5d Th
+AllFlops  829758005  7  1 Bc  b     kc    kf        2205   40    0 
+AllFlops  829758083  7  7 c   k     f     -         2165   10    0 
+AllFlops  829758133  7  6 c   k     k     f         2155   10    0 
+AllFlops  829758178  7  5 c   f     -     -         2145   10    0 
+AllFlops  829758220  7  4 c   k     k     k         2135   10    0 4d 6s
+AllFlops  829758266  7  3 c   k     kf    -         2125   10    0 
+AllFlops  829758421  5  2 Bc  b     k     k         2115   30   80 5s Ks
+AllFlops  829758468  5  1 Bc  k     k     kr        2165   50  110 2c 8d
+AllFlops  829758506  5  5 r   b     b     -         2225   60  115 
+AllFlops  829758555  6  4 r   k     k     k         2280   20    0 Ad Qh
+AllFlops  829758587  6  3 r   k     bc    kc        2260   80    0 Ac Tc
+AllFlops  829758653  7  2 Bc  brc   kc    k         2180   80  200 8d Kd
+AllFlops  829758750  8  1 Bc  kf    -     -         2300   30    0 
+AllFlops  829758816  7  7 c   c     f     -         2270   30    0 
+AllFlops  829758851  7  6 rc  rc    k     k         2240   70  225 Qh Qd
+AllFlops  829759036  7  6 c   k     k     k         2395   20   55 3d 6h
+AllFlops  829759141  8  3 rc  cf    -     -         2430   50    0 
+AllFlops  829759218  8  2 Bcc kf    -     -         2380   40    0 
+AllFlops  829759287  8  1 Bc  b     kf    -         2340   20    0 
+AllFlops  829759357 10 10 c   f     -     -         2320   20    0 
+AllFlops  829759394 10  7 Q   -     -     -         2300    0    0 
+AllFlops  829790868  8  5 c   k     b     b         1085   50  110 
+AllFlops  829790970  8  4 cc  f     -     -         1145   30    0 
+AllFlops  829791059  8  3 c   kQ    -     -         1115   10    0 
+AllFlops  829921258  2  2 B   -     -     -         1105   10   15 
+AllFlops  829921269  2  1 Bc  kf    -     -         1110   10    0 
+AllFlops  829921280  2  2 Br  b     f     -         1100   40    0 
+AllFlops  829921301  2  1 Bcc kf    -     -         1060   20    0 
+AllFlops  829921315  2  2 Bc  k     k     k         1040   20    0 Th 5d
+AllFlops  829921336  2  1 Bc  kc    kr    -         1020   60  100 
+AllFlops  829921362  2  2 Bk  f     -     -         1060   10    0 
+AllFlops  829921375  2  1 Bc  kf    -     -         1050   10    0 
+AllFlops  829921388  2  2 Bc  k     c     b         1040   60  120 Jh 8d
+AllFlops  829921412  2  1 Br  bf    -     -         1100   30    0 
+AllFlops  829921430  2  2 Bk  k     k     k         1070   10    0 5d 7c
+AllFlops  829921447  2  1 Brc k     kc    kc        1060   70    0 4s 4d
+AllFlops  829921481  2  2 B   -     -     -          990   10   15 
+AllFlops  829921488  2  1 Bc  b     -     -          995   20   30 
+AllFlops  829921500  2  2 Bk  k     rc    brrc      1005  190    0 3h Qh
+AllFlops  829921541  2  1 Bc  k     k     kc         815   30    0 2s 9h
+AllFlops  829921597  2  2 Bk  bA    -     -          785   11    0 6d Ah
+AllFlops  829921667  2  2 Bk  k     k     c         1000   30    0 Jc 6c
+AllFlops  829921690  2  1 Bc  kc    k     b          970   40   80 5c Jd
+AllFlops  829921716  2  2 Bk  f     -     -         1010   10    0 
+AllFlops  829921753  3  1 Bc  k     kf    -         1000   10    0 
+AllFlops  829921768  3  3 r   k     r     k          990   60  125 As 6d
+AllFlops  829921814  4  2 Bc  b     b     -         1055   50  105 
+AllFlops  829921836  4  1 Bc  k     k     k         1110   20   60 3c 8c
+AllFlops  829921876  4  4 c   c     f     -         1150   30    0 
+AllFlops  829921932  4  3 c   f     -     -         1120   10    0 
+AllFlops  829921968  4  2 Bc  kf    -     -         1110   20    0 
+AllFlops  829921985  4  1 BQ  -     -     -         1090    5    0 
+AllFlops  829924155  6  6 cc  k     c     k         1085   40    0 Td Qh
+AllFlops  829924207  4  3 c   b     b     k         1045   40    0 4d Qd
+AllFlops  829924270  4  2 Bk  k     k     k         1005   10   25 Jc 7h
+AllFlops  829924304  4  1 BQ  -     -     -         1020    5    0 
+AllFlops  829944638  8  2 Bk  k     kf    -         1015   10    0 
+AllFlops  829944670  8  1 Bc  kf    -     -         1005   10    0 
+AllFlops  829944705  8  8 c   f     -     -          995   10    0 
+AllFlops  829944755  8  7 c   k     f     -          985   10    0 
+AllFlops  829944798  8  6 c   f     -     -          975   10    0 
+AllFlops  829944867  8  5 r   b     br    kf         965  110    0 
+AllFlops  829944941  8  4 c   bA    -     -          855   20    0 4h 6c
+AllFlops  829945142  8  2 Bc  kf    -     -         1000   20    0 
+AllFlops  829945215  8  1 Br  b     b     kf         980   50    0 
+AllFlops  829945319  7  7 c   b     r     k          930   70  175 4s Kh
+AllFlops  829945376  6  6 c   k     f     -         1035   10    0 
+AllFlops  829945466  6  5 c   c     rr    k         1025  110    0 8h 6c
+AllFlops  829945568  6  2 Q   -     -     -          915    0    0 
+AllFlops  830115869  5  5 cA  -     -     -           10   10    0 Qc As
+AllFlops  830115952  5  4 c   r     b     k         1000   50  120 Ad 7c
+AllFlops  830116009  6  4 c   k     k     k         1070   10    0 Js 4s
+AllFlops  830116094  5  2 Bc  cc    kc    kc        1060   80    0 3s 8d
+AllFlops  830116167  5  1 Bc  brc   kc    kf         980   80    0 
+AllFlops  830116259  6  6 c   f     -     -          900   10    0 
+AllFlops  830116318  7  6 c   f     -     -          890   20    0 
+AllFlops  830116358  7  5 r   rc    c     c          870  120    0 Kc Ac
+AllFlops  830116506  7  4 cA  -     -     -          750    1    0 3s 8s
+AllFlops  830116636  5  1 Bc  kf    -     -         1000   20    0 
+AllFlops  830116667  5  1 Bc  kf    -     -          980   20    0 
+AllFlops  830116735  5  5 c   f     -     -          960   20    0 
+AllFlops  830116797  6  4 cc  kf    -     -          940   20    0 
+AllFlops  830116902  7  4 cc  b     c     c          920   70    0 4c 9s
+AllFlops  830117002  7  3 cc  f     -     -          850   20    0 
+AllFlops  830117099  7  2 Bk  kf    -     -          830   10    0 
+AllFlops  830117191  7  1 Bc  kf    -     -          820   10    0 
+AllFlops  830117249  7  7 c   f     -     -          810   10    0 
+AllFlops  830117306  7  6 c   f     -     -          800   20    0 
+AllFlops  830117368  7  5 c   k     f     -          780   10    0 
+AllFlops  830117473  7  4 c   k     f     -          770   10    0 
+AllFlops  830117520  7  3 cc  k     f     -          760   20    0 
+AllFlops  830117585  6  2 Bc  k     kcA   -          740   25    0 Tc 6h
+AllFlops  830117718  5  5 c   k     f     -         1000   10    0 
+AllFlops  830117764  5  4 c   b     -     -          990   20   40 
+AllFlops  830117799  5  3 cc  f     -     -         1010   20    0 
+AllFlops  830117823  6  2 Bk  r     b     k          990   50  100 5h 7h
+AllFlops  830117871  8  1 Bc  br    b     k         1040   60  130 9c Jc
+AllFlops  830117931  8  8 c   f     -     -         1110   20    0 
+AllFlops  830117980  8  7 c   f     -     -         1090   20    0 
+AllFlops  830118109  8  6 c   c     f     -         1070   30    0 
+AllFlops  830118217  9  4 Q   -     -     -         1040    0    0 
+AllFlops  830118742 12 10 cc  f     -     -         1040   30    0 
+AllFlops  830118844 12  9 c   f     -     -         1010   10    0 
+AllFlops  830118923 12  8 cc  Q     -     -         1000   20    0 
+AllFlops  830304847 10  5 cc  kf    -     -          980   20    0 
+AllFlops  830304910  9  4 Q   -     -     -          960    0    0 
+AllFlops  830815012  8  3 r   cc    c     k          960   70    0 Qd Qh
+AllFlops  830815106  8  3 c   k     k     k          890   10    0 4h 3s
+AllFlops  830815246  9  4 c   kf    -     -          880   10    0 
+AllFlops  830815361  6  1 Bk  b     b     b          870   60  120 4d 4c
+AllFlops  830815393  7  1 Bc  b     b     b          930   60  150 9d Td
+AllFlops  830815435  7  7 c   c     f     -         1020   20    0 
+AllFlops  830815485  8  7 c   r     b     k         1000   50    0 6d Kc
+AllFlops  830815542  8  6 c   f     -     -          950   10    0 
+AllFlops  830815621 10  3 KQ  -     -     -          940    0    0 

@@ -1,0 +1,511 @@
+bebop     852832159 10  7 f   -     -     -         1000    0    0 
+bebop     852832264 10  6 c   c     f     -         1000   20    0 
+bebop     852832326 10  5 cc  kc    kc    kc         980   70  255 4s 6c
+bebop     852832403 12  4 r   bc    c     c         1165   80    0 Kh Kd
+bebop     852832503 12  3 cc  kc    k     b         1085   50  125 
+bebop     852832562 10  1 Bf  -     -     -         1160   10    0 
+bebop     852832648  8  1 Bc  kc    kc    f         1150   40    0 
+bebop     852832706  8  8 c   f     -     -         1110   10    0 
+bebop     852832769  8  7 cc  c     c     f         1100   50    0 
+bebop     852832842  8  6 cc  kc    k     c         1050   50    0 3d 8s
+bebop     852832900  8  5 c   kc    kr    b         1000   80  165 
+bebop     852832963  8  4 cc  c     k     f         1085   30    0 
+bebop     852833022  8  3 c   kc    kc    kf        1055   40    0 
+bebop     852833082  8  2 Bk  b     -     -         1015   20   40 
+bebop     852833118  8  1 Bc  k     kf    -         1035   10    0 
+bebop     852833172  8  8 cc  cc    c     f         1025  100    0 
+bebop     852833268  9  8 cc  cc    kf    -          925   40    0 
+bebop     852833366  9  7 cc  kc    kc    k          885   50  165 Jd 4d
+bebop     852833501  9  6 f   -     -     -         1000    0    0 
+bebop     852833573  9  6 c   c     f     -         1000   20    0 
+bebop     852833625 10  5 c   c     kf    -          980   20    0 
+bebop     852833697 10  4 c   kc    kc    brc        960  120    0 2s Qd
+bebop     852833788 10  3 c   cc    k     r          840   70    0 4h 3s
+bebop     852833857 10  2 Bc  kc    kf    -          770   40    0 
+bebop     852833947 11  1 Bc  kc    kc    k          730   50  160 2h 2d
+bebop     852834032 12 12 c   c     k     f          840   30    0 
+bebop     852834120  9  9 c   b     b     -          810   40   85 
+bebop     852834212  9  8 r   c     k     b          855   50  100 
+bebop     852834261  9  7 cc  kcc   k     f          905   60    0 
+bebop     852834345  9  6 c   f     -     -          845   10    0 
+bebop     852834409  9  5 cc  kc    k     b          835   70  103 6s Jd
+bebop     852834488  9  4 c   k     f     -          868   10    0 
+bebop     852834589  9  3 c   cc    kc    kf         858   50    0 
+bebop     852834697  8  2 Bk  b     b     -          808   40  100 
+bebop     852834753  8  1 Bc  bcc   kc    kc         868   90  330 Kd Ac
+bebop     852834897  6  6 c   k     k     c         1108   30    0 3c Ah
+bebop     852834966  7  6 c   bc    c     c         1078   70    0 Jc Jd
+bebop     852835030  9  7 c   c     f     -         1008   20    0 
+bebop     852835099 10  7 c   cc    kc    brc        988  140    0 Qd 5d
+bebop     852835185 10  6 c   c     f     -          848   20    0 
+bebop     852835300  9  5 c   cc    c     f          828   70    0 
+bebop     852835373  9  4 ccc kc    c     br         758  120    0 9d Ks
+bebop     852835544  8  2 Bk  f     -     -          638   10    0 
+bebop     852835620  8  1 Bf  -     -     -          628    5    0 
+bebop     852835664  8  8 cc  k     k     k          623   20   70 Qc 2d
+bebop     852835788  8  7 c   k     k     k          673   10    0 9s 8c
+bebop     852835851  5  3 c   k     k     k          663   10   30 9h 2s
+bebop     852835884  5  2 Bc  kf    -     -          683   20    0 
+bebop     852835937  5  1 Bc  kf    -     -          663   20    0 
+bebop     852835973  5  5 cc  f     -     -          643   20    0 
+bebop     852835994  5  4 c   c     f     -          623   30    0 
+bebop     852836039  5  3 cc  cc    c     rr         593  170    0 7c 4c
+bebop     852836120  6  3 c   k     k     b          423   30   50 
+bebop     852836221  6  3 f   -     -     -          443    0    0 
+bebop     852836231  6  2 Bf  -     -     -          443   10    0 
+bebop     852836279  6  1 Bc  kc    kc    k          433   40    0 Th 9h
+bebop     852836392  5  5 c   c     k     k          393   20   70 9c 6h
+bebop     852836430  5  4 c   k     k     k          443   10   30 Ac 4d
+bebop     852836473  6  3 cc  cc    cc    k          463   80  280 6d 9d
+bebop     852836541  6  2 Bc  f     -     -          663   20    0 
+bebop     852836587  6  1 Bc  kf    -     -          643   10    0 
+bebop     852836643  6  6 c   c     cc    f          633   90    0 
+bebop     852836684  6  5 c   c     c     c          543   60    0 Kc 7s
+bebop     852836724  6  4 cc  c     f     -          483   30    0 
+bebop     852836766  6  3 cc  c     c     c          453   70    0 2h 8s
+bebop     852836805  6  2 Bc  c     kf    -          383   30    0 
+bebop     852836897  6  1 Bc  kc    k     k          353   30    0 5s Ah
+bebop     852836954  6  6 c   c     c     c          323   60  140 3h 7d
+bebop     852837005  6  5 c   f     -     -          403   20    0 
+bebop     852837035  6  4 c   c     c     f          383   50    0 
+bebop     852837099  7  3 cc  kc    kc    k          333   50    0 Tc 8c
+bebop     852837146  7  2 Bf  -     -     -          283   10    0 
+bebop     852837185  7  1 Bf  -     -     -          273    5    0 
+bebop     852837224  7  7 c   c     f     -          268   20    0 
+bebop     852837278  8  7 f   -     -     -          248    0    0 
+bebop     852837326  8  6 f   -     -     -          248    0    0 
+bebop     852837494 10  7 c   cc    kc    f          248   60    0 
+bebop     852837768 10  5 c   b     k     b          188   40  105 Kd Kc
+bebop     852837893  8  2 c   b     -     -          253   20   40 
+bebop     852837933  8  2 Bf  -     -     -          273   10    0 
+bebop     852837972  8  1 Bf  -     -     -          263    5    0 
+bebop     852838028  7  7 c   k     k     f          258   10    0 
+bebop     852838090  5  4 c   cc    c     f          248   60    0 
+bebop     852838221  5  4 c   kc    kc    kr         188   80  180 Jc Jd
+bebop     852838322  6  3 c   c     f     -          288   20    0 
+bebop     852838404  6  2 Bk  k     k     b          268   30    0 2s Ks
+bebop     852838447  6  1 Bcc kc    kc    kf         238   50    0 
+bebop     852838528  6  6 f   -     -     -          188    0    0 
+bebop     852838583  5  4 cc  k     f     -          188   20    0 
+bebop     852838645  5  3 cc  c     f     -          168   30    0 
+bebop     852838726  6  2 BKQ -     -     -          138   10    0 
+bebop     852910614  4  3 c   kc    kc    kc         128   60    0 4c 6c
+bebop     852910680  4  2 Bk  f     -     -           68   10    0 
+bebop     852910722  4  1 Bc  kcc   kcA   -           58   58    0 Kc 3d
+bebop     852910801  4  3 c   k     c     c         1000   50  110 Ac 5d
+bebop     852910835  4  2 Bk  kc    kf    -         1060   30    0 
+bebop     852910882  3  1 Bc  k     k     b         1030   40   90 Kc 6s
+bebop     852910914  3  3 c   k     f     -         1080   10    0 
+bebop     852910937  3  2 BKQ -     -     -         1070   10    0 
+bebop     853008515 10  9 cc  f     -     -         1060   40    0 
+bebop     853008745 10  8 cc  f     -     -         1020   30    0 
+bebop     853008860 10  7 f   -     -     -          990    0    0 
+bebop     853008931 10  6 cc  cc    kc    kf         990   60    0 
+bebop     853009090  9  4 f   -     -     -          930    0    0 
+bebop     853009130  9  4 cc  cc    c     f          930   60    0 
+bebop     853009242  8  3 f   -     -     -          870    0    0 
+bebop     853009316  8  2 Bc  k     k     f          870   20    0 
+bebop     853009410  8  1 Bc  kf    -     -          850   10    0 
+bebop     853009486  7  7 c   c     cc    c          840   90    0 Ks 4d
+bebop     853009548  6  5 c   k     k     k          750   10   30 8h 3h
+bebop     853009593  6  4 c   kc    kc    kf         770   40    0 
+bebop     853009662  6  3 cc  bc    kc    b          730   80  205 
+bebop     853009733  6  2 Bc  bc    kc    k          855   60    0 9h 8s
+bebop     853009796  7  1 Bc  br    bc    k          795   90    0 2s 6s
+bebop     853009869  6  6 c   c     c     b          705   60    0 Js Ts
+bebop     853009930  6  5 f   -     -     -          645    0    0 
+bebop     853009981  6  4 c   rc    c     f          645   60    0 
+bebop     853010041  6  3 ccc kc    kf    -          585   50    0 
+bebop     853010109  7  2 Bk  kf    -     -          535   10    0 
+bebop     853010190  6  1 Br  b     -     -          525   30   80 
+bebop     853010227  6  6 f   -     -     -          575    0    0 
+bebop     853010296  6  5 cc  kc    kc    kc         575   70    0 4h 6s
+bebop     853010367  7  4 cc  kc    kc    b          505   80  245 
+bebop     853010467  7  3 cc  c     f     -          670   30    0 
+bebop     853010523  7  2 Bc  bc    k     b          640   60  105 
+bebop     853010570  7  1 Bc  kc    kc    k          685   50    0 Ks 5s
+bebop     853010639  6  6 c   c     c     f          635   40    0 
+bebop     853010703  6  5 c   r     b     b          595   70    0 Kc Js
+bebop     853010772  8  5 cc  b     k     b          525   50  135 
+bebop     853010853  8  4 rc  k     f     -          610   30    0 
+bebop     853010947  8  3 cc  kc    kc    b          580   70  220 5h Ks
+bebop     853011040  8  2 Br  bc    kc    k          730   60    0 4c 6c
+bebop     853011135  8  1 Bcc kf    -     -          670   30    0 
+bebop     853011223  8  8 c   c     c     f          640   40    0 
+bebop     853011305  8  7 c   c     c     f          600   50    0 
+bebop     853011358  7  5 cc  c     f     -          550   30    0 
+bebop     853011420  5  2 cc  kc    kf    -          520   30    0 
+bebop     853011472  5  2 Bc  kc    k     kf         490   40    0 
+bebop     853011551  6  1 Bc  kc    kf    -          450   40    0 
+bebop     853011630  5  5 c   f     -     -          410   10    0 
+bebop     853011653  5  4 r   k     b     b          400   60  140 Td Kd
+bebop     853011710  5  3 r   -     -     -          480   20   35 
+bebop     853011731  5  2 Bc  kc    kc    kf         495   50    0 
+bebop     853011794  6  1 Bc  kc    kf    -          445   20    0 
+bebop     853011871  6  6 c   k     k     k          425   10    0 5c 6d
+bebop     853011925  7  6 c   k     f     -          415   10    0 
+bebop     853011958  8  6 cc  k     f     -          405   30    0 
+bebop     853012065  8  5 f   -     -     -          375    0    0 
+bebop     853012127  9  5 cc  kf    -     -          375   20    0 
+bebop     853012262  8  4 cc  rc    rrc   r          355  190    0 5c As
+bebop     853012375  9  3 f   -     -     -          165    0    0 
+bebop     853012478 10  2 Bc  kf    -     -          165   20    0 
+bebop     853012551 10  1 Bcc kc    kf    -          145   50    0 
+bebop     853012638 10 10 c   c     f     -           95   20    0 
+bebop     853012725 10  9 c   c     rcA   -           75   75    0 6h Ks
+bebop     853072212  6  5 c   c     c     k         1000   50    0 7c 8c
+bebop     853072280  5  3 f   -     -     -          950    0    0 
+bebop     853072296  5  2 Bk  k     b     -          950   30   40 
+bebop     853072344  5  1 Bc  kc    kf    -          960   30    0 
+bebop     853072386  5  5 c   k     k     k          930   10   35 6c 7s
+bebop     853072436  5  4 f   -     -     -          955    0    0 
+bebop     853072458  5  3 cc  k     f     -          955   20    0 
+bebop     853072565  6  2 Bk  cc    b     b          935   70  180 Ts 9s
+bebop     853072647  6  1 Bc  bc    b     -         1045   50   90 
+bebop     853072693  7  7 r   k     k     b         1085   40    0 9d 9s
+bebop     853072745  6  5 c   k     k     k         1045   10    0 Kc 3s
+bebop     853072858  6  5 cc  c     f     -         1035   40    0 
+bebop     853072927  6  4 cc  kc    r     b          995   90  235 6c 8d
+bebop     853073018  7  3 ccc kcc   br    brrrc     1140  320  445 Ks Th
+bebop     853073163  8  2 Bf  -     -     -         1265   10    0 
+bebop     853073291  8  1 Bc  kc    bc    kc        1255  120    0 As 2h
+bebop     853073431  8  8 r   rrc   c     c         1135  110    0 Qd Qs
+bebop     853073554  7  6 f   -     -     -         1025    0    0 
+bebop     853073608  8  6 cc  kc    kc    b         1025   70  185 
+bebop     853073691  8  6 c   k     f     -         1140   20    0 
+bebop     853073734  7  5 f   -     -     -         1120    0    0 
+bebop     853073818  7  4 cc  c     k     f         1120   30    0 
+bebop     853073891  8  3 c   cc    kf    -         1090   30    0 
+bebop     853073957  8  2 Bk  kf    -     -         1060   10    0 
+bebop     853074044  6  1 Br  b     b     b         1050   80  170 As Ac
+bebop     853074256  3  3 cc  c     c     c         1140   70    0 5s Ac
+bebop     853074296  3  3 c   c     c     f         1070   40    0 
+bebop     853074333  3  3 c   f     -     -         1030   10    0 
+bebop     853074369  3  2 Bc  f     -     -         1020   20    0 
+bebop     853074399  3  1 Bf  -     -     -         1000    5    0 
+bebop     853074409  3  3 c   b     -     -          995   20   35 
+bebop     853074431  2  2 BKQ -     -     -         1010   10    0 
+bebop     853172412  9  5 cc  f     -     -         1000   40    0 
+bebop     853172501  9  4 cf  -     -     -          960   10    0 
+bebop     853172644  9  3 f   -     -     -          950    0    0 
+bebop     853172700  8  2 Br  b     kc    kc         950   70    0 Ah Ad
+bebop     853172803  7  1 Bc  k     k     kf         880   10    0 
+bebop     853172927  8  8 c   f     -     -          870   10    0 
+bebop     853172980  8  7 c   c     f     -          860   20    0 
+bebop     853173065  8  6 cc  kf    -     -          840   20    0 
+bebop     853173130  8  5 cc  c     c     f          820   60    0 
+bebop     853173216  9  5 c   f     -     -          760   10    0 
+bebop     853173302  9  4 f   -     -     -          750    0    0 
+bebop     853173367  9  3 cc  kc    kc    kc         750   70    0 5h 9h
+bebop     853173446  9  2 Bc  kf    -     -          680   20    0 
+bebop     853173603  8  1 Bc  kc    kc    kc         660   70  250 Kc 5c
+bebop     853173771  9  9 KQ  -     -     -          840    0    0 
+bebop     854057712  7  5 r   b     -     -         1130   30   75 
+bebop     854058223  8  5 r   b     kc    kf         990   50    0 
+bebop     854058301  8  4 f   -     -     -          940    0    0 
+bebop     854058391  8  3 c   kc    k     kf         940   20    0 
+bebop     854058411  7  2 Br  k     b     b          920   60   80 7h Qh
+bebop     854058480  7  1 Bc  kc    k     kc         940   40    0 Ac 2c
+bebop     854058585  7  7 c   k     k     f          900   10    0 
+bebop     854058612  8  6 c   k     bc    c          890   70  150 Ks 8d
+bebop     854059099  6  5 c   f     -     -         1035   10    0 
+bebop     854059410  5  4 cc  c     f     -         1135   30    0 
+bebop     854059447  5  3 c   f     -     -         1105   10    0 
+bebop     854060373  5  1 Br  kf    -     -         1005   20    0 
+bebop     854060421  5  5 c   f     -     -          985   10    0 
+bebop     854060723  7  2 Bk  b     b     bc         915   80    0 3c 8d
+bebop     854060805  7  1 Bc  kf    -     -          835   10    0 
+bebop     854060868  7  7 f   -     -     -          825    0    0 
+bebop     854060964  7  6 c   k     f     -          825   10    0 
+bebop     854060999  6  4 c   k     k     k          815   10    0 8s 9h
+bebop     854233353  3  3 c   f     -     -          860   10    0 
+bebop     854233380  3  2 Bk  c     k     c          850   40    0 4h 7s
+bebop     854233417  3  1 Bc  k     kf    -          810   10    0 
+bebop     854233448  3  3 f   -     -     -          800    0    0 
+bebop     854233476  3  2 Bf  -     -     -          800   10    0 
+bebop     854233505  3  1 Bc  b     b     brrc       790  160  165 8h As
+bebop     854233568  5  5 c   k     k     k          795   10   30 9c Qd
+bebop     854233609  4  3 f   -     -     -          815    0    0 
+bebop     854233811  3  1 B   -     -     -          815   10   10 
+bebop     854233822  3  1 Bc  k     kf    -          815   10    0 
+bebop     854233857  3  3 c   k     k     k          805   10   20 Qc Ac
+bebop     854233896  2  2 B   -     -     -          815   10   15 
+bebop     854233906  2  1 Br  b     b     -          820   50   80 
+bebop     854233938  2  2 Bk  c     c     b          850   60  100 
+bebop     854233978  3  1 Bf  -     -     -          890    5    0 
+bebop     854233997  3  3 c   f     -     -          885   10    0 
+bebop     854234016  3  2 Bk  c     k     k          875   20   40 5s Ad
+bebop     854234056  4  1 Bc  b     -     -          895   20   40 
+bebop     854234088  4  4 f   -     -     -          915    0    0 
+bebop     854234110  4  3 f   -     -     -          915    0    0 
+bebop     854234135  4  2 Bf  -     -     -          915   10    0 
+bebop     854234185  4  1 Bc  k     k     k          905   10    0 4s Kd
+bebop     854234228  4  4 f   -     -     -          895    0    0 
+bebop     854234255  4  3 cc  k     f     -          895   20    0 
+bebop     854234311  5  3 c   b     b     -          875   40   80 
+bebop     854234410  6  3 c   b     b     b          915   60  130 
+bebop     854234514  5  2 c   r     bc    kc         985   90    0 Ac 6c
+bebop     854234568  5  2 Bk  kf    -     -          895   10    0 
+bebop     854234592  5  1 Bc  k     k     k          885   10   30 3h Kc
+bebop     854234644  6  6 f   -     -     -          905    0    0 
+bebop     854234697  6  5 cf  -     -     -          905   10    0 
+bebop     854234798  6  4 cc  f     -     -          895   20    0 
+bebop     854234845  6  3 f   -     -     -          875    0    0 
+bebop     854234881  6  2 Br  b     b     b          875   70  125 
+bebop     854234917  6  1 Bc  kf    -     -          930   10    0 
+bebop     854234983  6  6 f   -     -     -          920    0    0 
+bebop     854235033  6  5 c   b     b     -          920   40   65 
+bebop     854235078  6  4 f   -     -     -          945    0    0 
+bebop     854235109  6  3 f   -     -     -          945    0    0 
+bebop     854235140  6  2 Bf  -     -     -          945   10    0 
+bebop     854235190  7  1 Bc  kf    -     -          935   10    0 
+bebop     854235321  7  7 c   f     -     -          925   10    0 
+bebop     854235390  7  7 c   f     -     -          915   10    0 
+bebop     854235492  7  5 c   bc    c     b          905   70  240 Jh Qc
+bebop     854235573  7  4 c   c     f     -         1075   20    0 
+bebop     854235613  7  3 f   -     -     -         1055    0    0 
+bebop     854235657  7  2 Bk  b     -     -         1055   20   35 
+bebop     854235684  7  1 Bc  kf    -     -         1070   20    0 
+bebop     854235762  6  6 c   c     k     k         1050   20   90 3s 6s
+bebop     854235817  6  6 f   -     -     -         1120    0    0 
+bebop     854235867  7  5 r   rc    cc    c         1120  140    0 Ts Th
+bebop     854236059  6  3 f   -     -     -          980    0    0 
+bebop     854236112  6  2 Br  b     br    b          980  110  240 Ad Ac
+bebop     854236171  8  1 Bc  kf    -     -         1110   10    0 
+bebop     854236272  9  9 c   f     -     -         1100   10    0 
+bebop     854236395  9  8 cc  f     -     -         1090   20    0 
+bebop     854236438  8  6 c   r     rr    brrrrc    1070  320    0 2d 2s
+bebop     854236584  8  5 cc  f     -     -          750   20    0 
+bebop     854236656  8  4 c   kf    -     -          730   10    0 
+bebop     854236695  8  3 f   -     -     -          720    0    0 
+bebop     854236758  8  2 Br  kc    kc    b          720   70  165 Ah 6h
+bebop     854236838  8  1 Bc  kf    -     -          815   10    0 
+bebop     854236893  8  8 f   -     -     -          805    0    0 
+bebop     854236948  8  7 cc  kf    -     -          805   20    0 
+bebop     854237006  7  5 cc  kc    k     kc         785   50    0 4c 5h
+bebop     854237091  7  4 cc  c     f     -          735   30    0 
+bebop     854237147  7  3 c   kf    -     -          705   10    0 
+bebop     854237197  7  2 Bc  kc    kc    kc         695   70    0 8h 7d
+bebop     854237267  6  1 Bc  kf    -     -          625   10    0 
+bebop     854237319  6  6 c   b     b     c          615   60    0 8h Ah
+bebop     854237389  6  5 c   k     k     k          555   10    0 5h 3h
+bebop     854237432  6  3 Q   -     -     -          545    0    0 
+bebop     854237535  6  6 c   fQ    -     -          545   10    0 
+bebop     854237745  3  3 cc  k     c     c          535   60    0 Qc 9c
+bebop     854237803  2  2 B   -     -     -          475   10   15 
+bebop     854237809  2  1 Bcc b     -     -          480   30   50 
+bebop     854237868  2  2 B   -     -     -          500   10   15 
+bebop     854237871  2  1 Bcc b     b     b          505   70   70 Ac 5c
+bebop     854237917  2  2 B   -     -     -          505   10   15 
+bebop     854237924  2  1 Bcc kc    kc    kf         510   50    0 
+bebop     854237972  2  2 Bc  r     -     -          460   40   70 
+bebop     854237987  2  1 Bcc kc    kf    -          490   30    0 
+bebop     854238038  2  2 B   -     -     -          460   10   15 
+bebop     854238042  2  1 Bc  k     k     k          465   10   20 Qc Ah
+bebop     854238076  2  2 Br  c     k     k          475   30   60 4d Kh
+bebop     854238124  2  1 Bc  b     -     -          505   20   30 
+bebop     854238146  2  2 Br  b     -     -          515   30   50 
+bebop     854238171  2  1 Br  kf    -     -          535   20    0 
+bebop     854238197  2  2 Bk  r     b     b          515   70  140 Ac 7s
+bebop     854238229  2  1 Bc  k     kf    -          585   10    0 
+bebop     854238252  2  2 Bc  c     r     b          575   90  180 Tc Ac
+bebop     854238288  2  1 Br  -     -     -          665   20   30 
+bebop     854238299  2  2 Bf  -     -     -          675   10    0 
+bebop     854238304  2  1 Brc b     br    b          665  120  120 Qs Ad
+bebop     854238341  2  2 Br  k     f     -          665   30    0 
+bebop     854238371  2  1 Bcf -     -     -          635   10    0 
+bebop     854238382  2  2 B   -     -     -          625   10   15 
+bebop     854238385  2  1 Bf  -     -     -          630    5    0 
+bebop     854238394  2  2 Bc  f     -     -          625   20    0 
+bebop     854238406  2  1 Bc  kf    -     -          605   10    0 
+bebop     854238423  2  2 B   -     -     -          595   10   15 
+bebop     854238427  2  1 Bc  b     -     -          600   20   30 
+bebop     854238445  2  2 Br  -     -     -          610   20   30 
+bebop     854238461  2  1 Bc  kf    -     -          620   10    0 
+bebop     854238475  2  2 Bf  -     -     -          610   10    0 
+bebop     854238484  2  1 Bc  b     -     -          600   20   30 
+bebop     854238505  2  2 Bf  -     -     -          610   10    0 
+bebop     854238525  2  1 Bcc kc    kc    kr         600   90  180 Ad 8d
+bebop     854238592  3  2 Bk  b     b     b          690   60  130 Kh 7s
+bebop     854238681  3  1 Bc  b     b     b          760   60  160 9s Qc
+bebop     854238739  4  3 c   b     b     b          860   60    0 Kh 8c
+bebop     854238813  4  2 Bk  kf    -     -          800   10    0 
+bebop     854238860  4  1 Bc  k     k     b          790   30   40 
+bebop     854238902  5  5 r   rr    b     b          800  100  280 
+bebop     854239224  6  5 f   -     -     -          980    0    0 
+bebop     854239272  6  4 f   -     -     -          980    0    0 
+bebop     854239437  5  3 f   -     -     -          980    0    0 
+bebop     854239595  5  2 Br  b     b     b          980   70  145 As Ah
+bebop     854239648  5  1 Bc  k     kc    k         1055   30    0 Qd 5h
+bebop     854239743  6  6 c   c     c     rr        1025  130  295 Qh Ah
+bebop     854239824  6  5 cc  f     -     -         1190   20    0 
+bebop     854239931  6  4 f   -     -     -         1170    0    0 
+bebop     854239979  6  3 c   k     c     c         1170   50    0 9h As
+bebop     854240025  5  2 Bf  -     -     -         1120   10    0 
+bebop     854240071  5  1 Bc  k     k     k         1110   10    0 2h Qh
+bebop     854240108  5  5 c   f     -     -         1100   10    0 
+bebop     854240159  4  3 c   c     k     b         1090   40   90 
+bebop     854240224  4  2 Bk  c     kf    -         1140   20    0 
+bebop     854240364  4  1 Bc  k     k     kf        1120   10    0 
+bebop     854240453  4  4 f   -     -     -         1110    0    0 
+bebop     854240559  4  3 f   -     -     -         1110    0    0 
+bebop     854240614  3  1 Bk  kf    -     -         1110   10    0 
+bebop     854240641  3  1 Bc  kc    kc    k         1100   40    0 5c 9h
+bebop     854240685  4  4 c   f     -     -         1060   10    0 
+bebop     854240735  4  3 c   c     c     k         1050   40    0 6c 9h
+bebop     854240790  4  2 Bk  k     k     k         1010   10    0 Qc 4s
+bebop     854240834  4  1 Bc  k     kc    k         1000   30    0 4d 3s
+bebop     854240875  4  4 f   -     -     -          970    0    0 
+bebop     854240903  4  3 cf  -     -     -          970   10    0 
+bebop     854240961  5  3 c   k     kf    -          960   10    0 
+bebop     854240987  4  1 Bk  kf    -     -          950   10    0 
+bebop     854241025  4  1 Br  b     -     -          940   30   50 
+bebop     854241052  3  3 c   f     -     -          960   10    0 
+bebop     854241073  3  2 Bk  k     k     kf         950   10    0 
+bebop     854241124  4  1 BQ  -     -     -          940    5    0 
+bebop     854241201  3  3 c   c     k     f          935   20    0 
+bebop     854241244  3  2 Bc  k     k     k          915   20    0 Kc Th
+bebop     854241273  3  1 Bc  k     k     k          895   10    0 Qh Jc
+bebop     854241307  4  3 f   -     -     -          885    0    0 
+bebop     854241346  4  2 Bk  k     k     k          885   10   30 4s 9d
+bebop     854241394  4  1 Bc  kf    -     -          905   20    0 
+bebop     854241424  5  5 f   -     -     -          885    0    0 
+bebop     854241472  6  5 c   k     k     k          885   10   25 Ks Tc
+bebop     854241553  5  4 f   -     -     -          900    0    0 
+bebop     854241567  5  3 cc  k     k     k          900   20    0 Ks Qh
+bebop     854241597  5  2 Br  b     b     b          880   70  145 Qs Qh
+bebop     854241642  5  1 Br  brc   kc    kc         955  100    0 Qh Qd
+bebop     854241699  6  6 c   k     k     k          855   10    0 5s 2h
+bebop     854241767  6  5 cc  kc    c     kc         845   80  275 Qd Ah
+bebop     854241858  6  4 f   -     -     -         1040    0    0 
+bebop     854241900  6  4 f   -     -     -         1040    0    0 
+bebop     854241959  5  2 Bc  f     -     -         1040   20    0 
+bebop     854242011  5  1 Bc  kf    -     -         1020   20    0 
+bebop     854242058  5  5 c   k     c     k         1000   30   80 7d 8h
+bebop     854242109  5  4 f   -     -     -         1050    0    0 
+bebop     854242148  5  3 c   kc    kc    k         1050   40    0 Qs Ts
+bebop     854242205  5  2 Bf  -     -     -         1010   10    0 
+bebop     854242262  5  1 Bc  kc    kc    kc        1000   80    0 Kh Ah
+bebop     854242312  5  5 c   k     f     -          920   10    0 
+bebop     854242343  5  4 f   -     -     -          910    0    0 
+bebop     854242402  5  3 f   -     -     -          910    0    0 
+bebop     854242430  5  2 Bc  kc    kf    -          910   30    0 
+bebop     854242474  5  1 Bc  kf    -     -          880   10    0 
+bebop     854242511  6  6 f   -     -     -          870    0    0 
+bebop     854242534  6  5 f   -     -     -          870    0    0 
+bebop     854242629  7  6 c   f     -     -          870   10    0 
+bebop     854242675  6  5 f   -     -     -          860    0    0 
+bebop     854242709  6  5 f   -     -     -          860    0    0 
+bebop     854242758  4  2 Bf  -     -     -          860   10    0 
+bebop     854242774  4  1 Bf  -     -     -          850    5    0 
+bebop     854242791  5  5 c   f     -     -          845   10    0 
+bebop     854242835  5  4 c   k     k     kf         835   10    0 
+bebop     854242891  5  3 f   -     -     -          825    0    0 
+bebop     854242922  5  2 Bf  -     -     -          825   10    0 
+bebop     854242945  6  1 Bcc kc    kc    kf         815   50    0 
+bebop     854243043  7  7 f   -     -     -          765    0    0 
+bebop     854243093  7  6 cf  -     -     -          765   10    0 
+bebop     854243191  8  7 f   -     -     -          755    0    0 
+bebop     854243359  5  3 f   -     -     -          755    0    0 
+bebop     854243374  5  3 f   -     -     -          755    0    0 
+bebop     854243386  5  2 Bf  -     -     -          755   10    0 
+bebop     854243409  5  1 Bcf -     -     -          745   10    0 
+bebop     854243464  5  5 cc  f     -     -          735   20    0 
+bebop     854243485  5  4 rc  br    b     br         715  150  385 
+bebop     854243561  5  3 cc  kf    -     -          950   20    0 
+bebop     854243655  5  2 Bf  -     -     -          930   10    0 
+bebop     854243669  5  1 Bcc br    k     kf         920   50    0 
+bebop     854243728  6  6 f   -     -     -          870    0    0 
+bebop     854243759  6  5 rrrrrrr b     b     b          870  190  395 Ks Kd
+bebop     854243835  7  4 rr  br    br    bc        1075  170    0 Ks Kd
+bebop     854243919  6  2 Bc  kc    kf    -          905   30    0 
+bebop     854243965  6  1 Bf  -     -     -          875    5    0 
+bebop     854244014  6  6 cc  c     f     -          870   30    0 
+bebop     854244050  6  5 cc  kc    kcc   br         840  150  395 Qh Kh
+bebop     854244119  5  3 f   -     -     -         1085    0    0 
+bebop     854244172  5  3 f   -     -     -         1085    0    0 
+bebop     854244224  5  2 Bc  kf    -     -         1085   20    0 
+bebop     854244264  6  1 Bf  -     -     -         1065    5    0 
+bebop     854244301  6  6 f   -     -     -         1060    0    0 
+bebop     854244348  7  6 cc  kc    cc    k         1060   70    0 Qh As
+bebop     854244409  7  5 cc  kc    kf    -          990   30    0 
+bebop     854244446  7  4 cc  kc    kc    kf         960   50    0 
+bebop     854244499  7  3 cf  -     -     -          910   10    0 
+bebop     854244573  7  2 Bf  -     -     -          900   10    0 
+bebop     854244619  7  1 Bcc kcc   kcc   k          890  110  330 6d 7h
+bebop     854244696  7  7 cc  c     f     -         1110   30    0 
+bebop     854244751  8  7 f   -     -     -         1080    0    0 
+bebop     854244848  9  7 cc  cc    kc    k         1080   70  255 5d 6h
+bebop     854244905  9  6 f   -     -     -         1265    0    0 
+bebop     854244947  9  5 cc  kc    c     c         1265   70    0 Jh 6h
+bebop     854245015  9  4 cc  c     k     k         1195   40  165 9d 6s
+bebop     854245066  8  3 cc  f     -     -         1320   20    0 
+bebop     854245120 10  2 Bc  kc    kc    kf        1300   50    0 
+bebop     854245199 10  1 Bcf -     -     -         1250   10    0 
+bebop     854245254 10 10 f   -     -     -         1240    0    0 
+bebop     854245298 10  9 cf  -     -     -         1240   10    0 
+bebop     854245405 10  7 cc  c     cc    f         1230  100    0 
+bebop     854245535 11  8 c   c     c     c         1130   60    0 5h 9c
+bebop     854245745  8  4 f   -     -     -         1070    0    0 
+bebop     854245802  8  4 f   -     -     -         1070    0    0 
+bebop     854245831  9  3 f   -     -     -         1070    0    0 
+bebop     854245883  9  2 Bf  -     -     -         1070   10    0 
+bebop     854245955  9  1 Bc  kc    kf    -         1060   20    0 
+bebop     854246029  8  8 c   k     k     c         1040   30    0 7s Ac
+bebop     854246090  9  8 f   -     -     -         1010    0    0 
+bebop     854246163  8  6 KQ  -     -     -         1010    0    0 
+bebop     854660499  7  3 cc  kc    kf    -         1010   30    0 
+bebop     854660561  7  2 Bf  -     -     -          980   10    0 
+bebop     854660664  7  1 Bc  kf    -     -          970   20    0 
+bebop     854660742  7  7 cc  c     c     f          950   70    0 
+bebop     854660850  7  6 f   -     -     -          880    0    0 
+bebop     854660897  7  5 f   -     -     -          880    0    0 
+bebop     854660966  7  4 f   -     -     -          880    0    0 
+bebop     854661027  7  3 f   -     -     -          880    0    0 
+bebop     854661087  7  2 Bf  -     -     -          880   10    0 
+bebop     854661163  6  1 Bc  b     b     b          870   70  130 
+bebop     854661216  5  5 f   -     -     -          930    0    0 
+bebop     854661271  5  4 cf  -     -     -          930   10    0 
+bebop     854661325  5  3 f   -     -     -          920    0    0 
+bebop     854661356  5  2 Bk  f     -     -          920   10    0 
+bebop     854661384  5  1 Bcf -     -     -          910   10    0 
+bebop     854661427  5  5 f   -     -     -          900    0    0 
+bebop     854661514  4  3 c   b     -     -          900   20   35 
+bebop     854661606  3  2 Bf  -     -     -          915   10    0 
+bebop     854661610  3  1 Bc  kc    kf    -          905   30    0 
+bebop     854661635  3  3 f   -     -     -          875    0    0 
+bebop     854661643  3  2 Bf  -     -     -          875   10    0 
+bebop     854661660  3  1 Bf  -     -     -          865    5    0 
+bebop     854661682  3  3 f   -     -     -          860    0    0 
+bebop     854661687  3  2 Bc  kf    -     -          860   20    0 
+bebop     854661707  3  1 Bc  kc    k     k          840   20    0 2d 5s
+bebop     854661761  3  3 rr  r     b     -          820   80  180 
+bebop     854661860  4  2 Bk  kf    -     -          920   10    0 
+bebop     854661961  5  1 Bf  -     -     -          910    5    0 
+bebop     854661984  4  4 c   c     f     -          905   20    0 
+bebop     854662103  4  4 c   f     -     -          885   20    0 
+bebop     854662153  4  4 c   c     k     r          865   60    0 9c 7c
+bebop     854662252  5  3 f   -     -     -          805    0    0 
+bebop     854662325  5  2 Bk  c     k     f          805   20    0 
+bebop     854662386  5  1 Bc  kf    -     -          785   10    0 
+bebop     854662428  5  5 cc  f     -     -          775   20    0 
+bebop     854662503  4  3 cc  b     b     -          755   50  120 
+bebop     854662567  6  4 f   -     -     -          825    0    0 
+bebop     854662617  6  3 cc  k     kc    kf         825   40    0 
+bebop     854662705  6  2 Bc  kc    k     k          785   30    0 Ac 7h
+bebop     854662803  7  1 Bc  k     kf    -          755   20    0 
+bebop     854662883  8  8 f   -     -     -          735    0    0 
+bebop     854662983  7  6 c   f     -     -          735   10    0 
+bebop     854663010  7  6 f   -     -     -          725    0    0 
+bebop     854663069  7  5 f   -     -     -          725    0    0 
+bebop     854663105  7  4 f   -     -     -          725    0    0 
+bebop     854663169  7  3 f   -     -     -          725    0    0 
+bebop     854663228  8  2 Bc  kc    k     k          725   30    0 9h Js
+bebop     854663365  8  1 Bf  -     -     -          695    5    0 
+bebop     854663434  8  8 f   -     -     -          690    0    0 
+bebop     854663479  8  7 f   -     -     -          690    0    0 
+bebop     854663534  8  6 c   k     f     -          690   10    0 
+bebop     854663619  8  5 f   -     -     -          680    0    0 
+bebop     854663704  8  4 f   -     -     -          680    0    0 
+bebop     854663752  8  3 f   -     -     -          680    0    0 
+bebop     854663771  8  2 BKQ -     -     -          680   10    0 

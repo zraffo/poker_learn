@@ -1,0 +1,428 @@
+martin2   837434896  2  2 B   -     -     -         1000   10   15 
+martin2   837434903  2  1 Br  k     k     k         1005   20   40 Qh Ad
+martin2   837434928  2  2 Bk  k     b     b         1025   50   80 
+martin2   837434952  2  1 Bc  k     k     b         1055   30   40 
+martin2   837434973  2  2 Bk  c     f     -         1065   20    0 
+martin2   837434990  2  1 Bf  -     -     -         1045    5    0 
+martin2   837434997  2  2 B   -     -     -         1040   10   15 
+martin2   837435001  2  1 Bc  kf    -     -         1045   10    0 
+martin2   837435017  2  2 Bc  c     c     f         1035   50    0 
+martin2   837435037  2  1 Bc  kc    kc    kc         985   60    0 5s Ah
+martin2   837435061  2  2 Bk  k     b     b          925   50   50 Qh 3c
+martin2   837435083  2  1 Bc  b     b     -          925   40   60 
+martin2   837435103  2  2 Bk  r     k     k          945   30   60 5h 7c
+martin2   837435125  2  1 Bc  k     b     kc         975   50    0 Ts 8s
+martin2   837435152  2  2 Brc k     c     f          925   50    0 
+martin2   837435181  2  1 Bc  b     bc    kc         875   80    0 6h 4s
+martin2   837435216  2  2 Br  k     k     k          795   20   40 9c Ac
+martin2   837435240  2  1 Bc  k     k     b          815   30   40 
+martin2   837435263  2  2 B   -     -     -          825   10   15 
+martin2   837435269  2  1 Br  -     -     -          830   20   30 
+martin2   837435278  2  2 B   -     -     -          840   10   15 
+martin2   837435282  2  1 Br  k     kc    kc         845   60  120 Ad Jh
+martin2   837435313  3  3 c   b     b     -          905   40   65 
+martin2   837435356  3  2 B   -     -     -          930   10   15 
+martin2   837435365  3  1 Bf  -     -     -          935    5    0 
+martin2   837435374  3  3 r   b     b     -          930   50   90 
+martin2   837435399  3  2 Br  k     k     k          970   20    0 9c Jc
+martin2   837435425  3  1 Br  -     -     -          950   20   30 
+martin2   837435442  3  3 f   -     -     -          960    0    0 
+martin2   837435463  3  2 Bk  r     k     c          960   50    0 Qd 6d
+martin2   837435513  4  1 Bf  -     -     -          910    5    0 
+martin2   837435537  3  3 c   f     -     -          905   10    0 
+martin2   837435557  3  3 cf  -     -     -          895   10    0 
+martin2   837435588  3  2 Bk  kf    -     -          885   10    0 
+martin2   837435615  3  1 Bf  -     -     -          875    5    0 
+martin2   837435625  3  3 f   -     -     -          870    0    0 
+martin2   837435659  3  2 Bk  k     c     f          870   30    0 
+martin2   837435687  3  1 Br  b     bc    kr         840  110  220 7s 6s
+martin2   837435724  3  3 c   k     k     c          950   30    0 Jc 8s
+martin2   837435777  3  2 Brc k     f     -          920   30    0 
+martin2   837435810  3  1 Bf  -     -     -          890    5    0 
+martin2   837435819  3  3 c   c     f     -          885   20    0 
+martin2   837435869  4  2 Bc  k     kf    -          865   20    0 
+martin2   837435919  4  1 Bf  -     -     -          845    5    0 
+martin2   837435948  4  4 r   k     k     k          840   20   55 Qc Ah
+martin2   837435982  4  3 f   -     -     -          875    0    0 
+martin2   837436006  4  2 Bk  kf    -     -          875   10    0 
+martin2   837436062  4  1 BKQ -     -     -          865    5    0 
+martin2   837438147  4  4 c   f     -     -          860   10    0 
+martin2   837438200  4  3 f   -     -     -          850    0    0 
+martin2   837438295  4  2 Bk  k     f     -          850   10    0 
+martin2   837438416  4  1 Br  b     -     -          840   30   60 
+martin2   837438462  4  4 r   b     b     b          870   70  190 Kh Ks
+martin2   837438594  4  3 c   kc    kr    b          990   80  200 5d Kd
+martin2   837438721  4  2 Bk  kc    kf    -         1110   20    0 
+martin2   837438798  6  1 Bf  -     -     -         1090    5    0 
+martin2   837438924  6  6 c   f     -     -         1085   20    0 
+martin2   837439023  6  5 f   -     -     -         1065    0    0 
+martin2   837439093  6  4 f   -     -     -         1065    0    0 
+martin2   837439204  7  3 c   kc    kr    k         1065   60  250 Ac 3c
+martin2   837439309  7  2 Bf  -     -     -         1255   10    0 
+martin2   837439379  6  1 Bf  -     -     -         1245    5    0 
+martin2   837439485  9  9 f   -     -     -         1240    0    0 
+martin2   837439589  8  7 c   b     c     f         1240   40    0 
+martin2   837439711 10  8 f   -     -     -         1200    0    0 
+martin2   837439784  9  7 c   f     -     -         1200   10    0 
+martin2   837439870  9  6 f   -     -     -         1190    0    0 
+martin2   837439938  9  5 c   r     b     br        1190  120  280 
+martin2   837440036 10  4 f   -     -     -         1350    0    0 
+martin2   837440151 10  3 ccf -     -     -         1350   20    0 
+martin2   837440276  9  2 Bf  -     -     -         1330   10    0 
+martin2   837440400  9  1 Bf  -     -     -         1320    5    0 
+martin2   837440445  8  8 r   c     c     rf        1315   90    0 
+martin2   837440488  9  8 r   k     c     f         1225   40    0 
+martin2   837440641  9  7 r   k     c     f         1185   40    0 
+martin2   837440707  9  6 f   -     -     -         1145    0    0 
+martin2   837440776  9  5 f   -     -     -         1145    0    0 
+martin2   837440872  9  4 f   -     -     -         1145    0    0 
+martin2   837440948 10  3 f   -     -     -         1145    0    0 
+martin2   837441077 11  2 Bk  k     kf    -         1145   10    0 
+martin2   837441212 10  1 Bf  -     -     -         1135    5    0 
+martin2   837441381  9  9 c   k     f     -         1130   10    0 
+martin2   837441456 10  9 f   -     -     -         1120    0    0 
+martin2   837441547  9  7 f   -     -     -         1120    0    0 
+martin2   837441614  9  6 c   cc    kc    k         1120   70    0 7s Ad
+martin2   837441728  9  5 f   -     -     -         1050    0    0 
+martin2   837441814  9  5 f   -     -     -         1050    0    0 
+martin2   837441874  9  4 f   -     -     -         1050    0    0 
+martin2   837441927  9  3 c   kc    k     k         1050   20    0 4c 2c
+martin2   837442025  9  2 Bf  -     -     -         1030   10    0 
+martin2   837442086  8  1 Bc  k     kc    kf        1020   30    0 
+martin2   837442173  9  8 r   b     rc    c          990  120    0 Jc Jh
+martin2   837442285 10  7 cc  kf    -     -          870   20    0 
+martin2   837442412 11  6 f   -     -     -          850    0    0 
+martin2   837442599 11  6 f   -     -     -          850    0    0 
+martin2   837442738 10  5 f   -     -     -          850    0    0 
+martin2   837442831  9  3 f   -     -     -          850    0    0 
+martin2   837442953 10  2 Bk  k     kf    -          850   10    0 
+martin2   837443045 10  1 Bf  -     -     -          840    5    0 
+martin2   837443124 10 10 f   -     -     -          835    0    0 
+martin2   837443221 11  9 c   k     k     k          835   10    0 5h 6c
+martin2   837443303 11  8 c   c     f     -          825   20    0 
+martin2   837443380 10  6 c   b     b     b          805   60    0 Qc 8c
+martin2   837443448  9  5 cc  kc    kf    -          745   30    0 
+martin2   837443570  8  4 f   -     -     -          715    0    0 
+martin2   837443705  5  2 f   -     -     -          715    0    0 
+martin2   837443834  6  2 Bc  kc    kc    kf         715   50    0 
+martin2   837443898  7  1 Bc  k     k     k          665   10    0 4c Jc
+martin2   837443992  8  8 c   k     b     c          655   50    0 3c As
+martin2   837444070  9  8 f   -     -     -          605    0    0 
+martin2   837444214 10  8 cc  f     -     -          605   20    0 
+martin2   837444313 11  8 cc  kc    kc    kf         585   50    0 
+martin2   837444450 12  8 c   r     b     k          535   70  295 9h Ah
+martin2   837444545 11  6 c   kf    -     -          760   10    0 
+martin2   837444672 11  6 f   -     -     -          750    0    0 
+martin2   837444764 10  5 f   -     -     -          750    0    0 
+martin2   837444847 10  4 f   -     -     -          750    0    0 
+martin2   837444958 10  3 f   -     -     -          750    0    0 
+martin2   837445051 10  2 Bcc kr    bc    br         750  170  565 5c 5s
+martin2   837445154 10  1 Bc  kc    k     kc        1145   40  180 9c 3c
+martin2   837445241 10 10 c   k     f     -         1285   10    0 
+martin2   837445315 11  9 c   cc    kc    kf        1275   60    0 
+martin2   837445514  8  6 cc  f     -     -         1215   20    0 
+martin2   837445595  9  6 cc  b     b     b         1195   70    0 Js 7s
+martin2   837445678  9  5 f   -     -     -         1125    0    0 
+martin2   837445804  8  4 KQ  -     -     -         1125    0    0 
+martin2   837514443  2  1 BKQ -     -     -         1125   10    0 
+martin2   837515626  2  1 Bc  k     k     k         1115   10   20 3s 4h
+martin2   837515655  2  2 Bk  k     k     k         1125   10    0 Ks 3h
+martin2   837515701  2  1 Bc  b     b     b         1115   60  100 
+martin2   837515726  2  2 Bk  k     k     k         1155   10   20 7h 5d
+martin2   837515750  2  1 Bcc kf    -     -         1165   20    0 
+martin2   837515770  2  2 Bc  c     k     k         1145   30   60 5h Ah
+martin2   837515794  2  1 Bc  k     kc    kf        1175   30    0 
+martin2   837515827  2  2 Brc br    b     b         1145  100  200 Ts Kd
+martin2   837515865  2  1 Brrc kc    kc    kc        1245  100    0 Ad Jd
+martin2   837515904  2  2 Bf  -     -     -         1145   10    0 
+martin2   837515914  2  1 Brc brc   kc    kc        1135  110    0 Tc Kh
+martin2   837515952  2  2 Br  b     -     -         1025   30   60 
+martin2   837515977  2  1 Brrr bc    kc    kc        1055  120  240 Jh Jd
+martin2   837516029  2  2 Br  k     c     c         1175   70  140 8c 8s
+martin2   837516062  2  1 Bc  b     b     b         1245   60  100 
+martin2   837516087  2  2 Bf  -     -     -         1285   10    0 
+martin2   837516096  2  1 Brc br    -     -         1275   60  110 
+martin2   837516116  2  2 Brrc c     r     k         1325  110  220 Ac Jd
+martin2   837516147  2  1 Brc kc    kc    k         1435   60    0 Ad Ts
+martin2   837516175  2  2 Bk  k     f     -         1375   10    0 
+martin2   837516194  2  1 Bcc kc    kc    kc        1365   70  140 6c Kh
+martin2   837516219  2  2 Brc c     f     -         1435   50    0 
+martin2   837516242  2  1 Bcc kf    -     -         1385   20    0 
+martin2   837516256  2  2 Bf  -     -     -         1365   10    0 
+martin2   837516265  2  1 Bcc k     k     k         1355   20   40 2d 3c
+martin2   837516290  2  2 Bc  rrrc  bc    c         1375  150    0 9s Jh
+martin2   837516332  2  1 Br  b     -     -         1225   30   50 
+martin2   837516349  2  2 Brr r     -     -         1245   70  130 
+martin2   837516372  2  1 Bc  b     b     -         1305   40   60 
+martin2   837516397  2  2 Bc  k     f     -         1325   20    0 
+martin2   837516415  2  1 Brr b     b     b         1305   90  180 7h 7c
+martin2   837516441  2  2 Bc  f     -     -         1395   20    0 
+martin2   837516454  2  1 Brrc brr   b     -         1375  120  220 
+martin2   837516495  2  2 Brrc c     c     c         1475  110  220 8h 8s
+martin2   837516523  2  1 Bf  -     -     -         1585    5    0 
+martin2   837516532  2  2 Bc  f     -     -         1580   20    0 
+martin2   837516544  2  1 Bcc kr    b     b         1560   80  160 3h Qh
+martin2   837516578  2  2 Bk  k     k     k         1640   10    0 Jc 4h
+martin2   837516614  2  1 Bf  -     -     -         1630    5    0 
+martin2   837516624  2  2 Bk  c     rrr   b         1625  160  320 2d 5h
+martin2   837516657  2  1 Bf  -     -     -         1785    5    0 
+martin2   837516666  2  2 Bf  -     -     -         1780   10    0 
+martin2   837516674  2  1 Brc kc    kf    -         1770   40    0 
+martin2   837516693  2  2 Bf  -     -     -         1730   10    0 
+martin2   837516701  2  1 Bf  -     -     -         1720    5    0 
+martin2   837516708  2  2 Bc  rrc   k     k         1715   70    0 Th 7s
+martin2   837516737  2  1 Brc brc   kc    kc        1645  110    0 3c Ah
+martin2   837516768  2  2 Br  -     -     -         1535   20   40 
+martin2   837516785  2  1 Br  b     -     -         1555   30   50 
+martin2   837516799  2  2 Bc  b     bc    c         1575   90    0 9c Js
+martin2   837516829  2  1 Bf  -     -     -         1485    5    0 
+martin2   837516840  2  2 Br  k     c     k         1480   40    0 8h 9h
+martin2   837516874  2  1 Bc  kf    -     -         1440   10    0 
+martin2   837516889  2  2 Bc  k     f     -         1430   20    0 
+martin2   837516907  2  1 Brr brc   kc    kc        1410  120  240 9s 9d
+martin2   837516937  2  2 Brc c     c     f         1530   70    0 
+martin2   837516967  2  1 Bf  -     -     -         1460    5    0 
+martin2   837516975  2  2 Bc  k     f     -         1455   20    0 
+martin2   837516998  2  1 Brc bc    kc    bf        1435   90    0 
+martin2   837517044  3  3 cc  c     c     b         1345   70  160 Kh 5c
+martin2   837517082  3  2 Bc  kf    -     -         1435   20    0 
+martin2   837517128  3  1 Bc  kf    -     -         1415   10    0 
+martin2   837517152  3  3 cc  rc    cc    cc        1405  220    0 Jc 6c
+martin2   837517222  3  2 Bf  -     -     -         1185   10    0 
+martin2   837517292  2  1 Bc  kc    kc    kf        1175   40    0 
+martin2   837517325  2  2 Bc  k     c     f         1135   40    0 
+martin2   837517360  3  1 Bc  bc    k     kc        1095   50    0 6s 8c
+martin2   837517418  3  3 cc  f     -     -         1045   20    0 
+martin2   837517451  3  2 Bk  kc    kc    kf        1025   40    0 
+martin2   837517498  3  1 Bf  -     -     -          985    5    0 
+martin2   837517537  3  3 cc  k     rc    c          980  120    0 8s 3s
+martin2   837517608  3  2 Bk  b     b     b          860   60  140 
+martin2   837517659  3  1 Bc  b     bc    b          940   90  250 Td Jh
+martin2   837517699  3  3 c   k     c     f         1100   30    0 
+martin2   837517746  3  2 Bc  f     -     -         1070   20    0 
+martin2   837517788  3  1 Brr brc   b     bc        1050  140    0 Qs Qh
+martin2   837517855  3  3 cc  f     -     -          910   20    0 
+martin2   837517900  3  2 Bc  bc    kc    br         890  120    0 Kc Jd
+martin2   837517948  3  1 Brc brc   kcc   krc        770  240  720 Qs Qh
+martin2   837518035  3  3 cc  rr    ccc   f         1250  140    0 
+martin2   837518135  3  2 Br  -     -     -         1110   20   40 
+martin2   837518169  4  1 Bcc bcc   kc    k         1130   80    0 7c Jh
+martin2   837518224  4  4 cc  c     c     f         1050   80    0 
+martin2   837518309  4  3 c   f     -     -          970   10    0 
+martin2   837518354  4  2 Bk  cc    f     -          960   30    0 
+martin2   837518404  4  1 Bc  kc    kc    kc         930   60    0 5c 5d
+martin2   837518457  4  4 f   -     -     -          870    0    0 
+martin2   837518502  4  3 r   bc    k     k          870   40    0 Kd As
+martin2   837518540  4  2 Bcc kc    kc    k          830   70    0 Jd Ks
+martin2   837518597  4  1 Brr kf    -     -          760   40    0 
+martin2   837518675  4  4 f   -     -     -          720    0    0 
+martin2   837518757  4  3 cf  -     -     -          720   10    0 
+martin2   837518809  4  2 Bk  kc    k     kc         710   50  135 Js 7c
+martin2   837518850  4  1 Br  k     kc    kf         795   40    0 
+martin2   837518891  4  4 c   f     -     -          755   10    0 
+martin2   837518919  4  3 cc  bc    k     k          745   40  130 Ks 9s
+martin2   837518959  4  2 Bf  -     -     -          835   10    0 
+martin2   837519014  4  1 Bcc kf    -     -          825   20    0 
+martin2   837519048  4  4 f   -     -     -          805    0    0 
+martin2   837519094  4  3 c   b     b     br         805  100  125 Ks 9h
+martin2   837519166  4  2 Bf  -     -     -          830   10    0 
+martin2   837519236  4  1 Brc kc    kf    -          820   40    0 
+martin2   837519288  4  4 f   -     -     -          780    0    0 
+martin2   837519302  3  2 c   b     brc   kc         780  120    0 5c Ks
+martin2   837519348  2  1 Bk  b     b     b          660   60    0 8h 7c
+martin2   837519371  2  1 Brc k     kc    kf         600   50    0 
+martin2   837519398  2  2 Bc  f     -     -          550   20    0 
+martin2   837519412  2  1 Bc  b     b     -          530   40   60 
+martin2   837519430  2  2 Br  c     c     c          550   70    0 Qc Td
+martin2   837519454  2  1 Bc  k     bc    kc         480   70    0 7d 6c
+martin2   837519483  2  2 Bk  b     -     -          410   20   30 
+martin2   837519504  2  1 Br  b     b     -          420   50   80 
+martin2   837519525  2  2 Br  k     k     f          450   20    0 
+martin2   837519549  2  1 Bf  -     -     -          430    5    0 
+martin2   837519557  2  2 Br  k     c     f          425   40    0 
+martin2   837519600  2  1 Bf  -     -     -          385    5    0 
+martin2   837519609  2  2 Bk  k     k     f          380   10    0 
+martin2   837519630  2  1 Br  b     b     -          370   50   80 
+martin2   837519648  2  2 Br  b     -     -          400   40   80 
+martin2   837519672  2  1 Bf  -     -     -          440    5    0 
+martin2   837519679  2  2 Bk  r     r     -          435   70  120 
+martin2   837519700  2  1 Bcc b     b     b          485   70    0 7h Th
+martin2   837519725  2  2 Bk  f     -     -          415   10    0 
+martin2   837519741  2  1 Bf  -     -     -          405    5    0 
+martin2   837519747  2  2 Bk  c     c     b          400   60  120 6s 9s
+martin2   837519772  2  1 Bf  -     -     -          460    5    0 
+martin2   837519781  2  2 Br  rr    k     c          455   90    0 Jd Qh
+martin2   837519808  2  1 Bc  k     kf    -          365   10    0 
+martin2   837519832  2  2 Bk  f     -     -          355   10    0 
+martin2   837519845  2  1 Bf  -     -     -          345    5    0 
+martin2   837519853  2  2 Bk  k     f     -          340   10    0 
+martin2   837519871  2  1 Bf  -     -     -          330    5    0 
+martin2   837519878  2  2 Bf  -     -     -          325   10    0 
+martin2   837519885  2  1 Brr bc    kc    k          315   80  160 Tc Ts
+martin2   837519914  2  2 Bk  k     f     -          395   10    0 
+martin2   837519933  2  1 Bf  -     -     -          385    5    0 
+martin2   837519940  2  2 Bk  b     c     k          380   40   80 3h 9d
+martin2   837519966  2  1 Br  b     b     b          420   70  140 Jc Ks
+martin2   837519995  2  2 Br  -     -     -          490   20   40 
+martin2   837520013  2  1 Bc  kc    kr    br         510  120  240 9d Ts
+martin2   837520048  2  2 Bk  k     f     -          630   10    0 
+martin2   837520075  2  1 Bc  kc    k     b          620   40   80 Qs Td
+martin2   837520101  2  2 Bf  -     -     -          660   10    0 
+martin2   837520110  2  1 Bc  b     -     -          650   20   30 
+martin2   837520127  2  2 Bc  c     c     k          660   50    0 8d 3d
+martin2   837520147  2  1 Bc  b     -     -          610   20   30 
+martin2   837520164  2  2 Bk  k     f     -          620   10    0 
+martin2   837520183  2  1 Br  brf   -     -          610   50    0 
+martin2   837520201  2  2 Bf  -     -     -          560   10    0 
+martin2   837520208  2  1 Brc k     kc    kc         550   70    0 Ks 9s
+martin2   837520232  2  2 Bk  b     k     k          480   20   40 2d 8d
+martin2   837520259  2  1 Bf  -     -     -          500    5    0 
+martin2   837520268  2  2 Bk  k     c     k          495   30    0 Ah 9d
+martin2   837520289  2  1 Bc  b     -     -          465   20   30 
+martin2   837520305  2  2 Bc  r     b     b          475   80  160 7c 5c
+martin2   837520335  2  1 Bcc br    b     b          555   90    0 Kh 6d
+martin2   837520363  2  2 Bk  c     r     -          465   60  100 
+martin2   837520404  2  1 Bc  kc    kf    -          505   20    0 
+martin2   837520424  2  2 Bc  r     -     -          485   40   80 
+martin2   837520448  2  1 Bc  kc    k     k          525   20    0 3d 4d
+martin2   837520474  2  2 Bk  k     c     k          505   30    0 6h Ac
+martin2   837520498  2  1 Bcc k     kc    k          475   40   80 5s 2s
+martin2   837520524  2  2 Bf  -     -     -          515   10    0 
+martin2   837520533  2  1 Bcc kf    -     -          505   20    0 
+martin2   837520548  2  2 Bc  k     f     -          485   20    0 
+martin2   837520569  2  1 Bc  k     k     k          465   10    0 5h 7s
+martin2   837520593  2  2 Br  c     c     k          455   60    0 Ah Qd
+martin2   837520620  2  1 Bc  kf    -     -          395   10    0 
+martin2   837520637  2  2 Bk  k     k     f          385   10    0 
+martin2   837520661  2  1 Br  b     bc    kc         375   90    0 Qh Qc
+martin2   837520688  2  2 Bc  c     c     f          285   50    0 
+martin2   837520711  2  1 Bc  k     kr    -          235   50   80 
+martin2   837520738  2  2 Bk  k     f     -          265   10    0 
+martin2   837520765  2  1 Bc  b     br    b          255  100    0 Ks 2h
+martin2   837520792  2  2 Bk  k     k     k          155   10    0 6s 7d
+martin2   837520823  2  1 Bc  kc    kf    -          145   20    0 
+martin2   837520844  2  2 Bc  k     c     k          125   40    0 9h 2h
+martin2   837520869  2  1 Bc  b     b     -           85   40   60 
+martin2   837520895  2  2 Br  r     k     k          105   50  100 9s Td
+martin2   837520925  2  1 Brr b     b     b          155   90  160 
+martin2   837520955  2  2 Bf  -     -     -          225   10    0 
+martin2   837520964  2  1 Brc kf    -     -          215   30    0 
+martin2   837520980  2  2 Bk  k     f     -          185   10    0 
+martin2   837520997  2  1 Bf  -     -     -          175    5    0 
+martin2   837521004  2  2 Bf  -     -     -          170   10    0 
+martin2   837521011  2  1 Br  -     -     -          160   20   30 
+martin2   837521023  2  2 Brrc b     b     b          170  110  220 Kc 8c
+martin2   837521059  2  1 Bcc kf    -     -          280   20    0 
+martin2   837521079  2  2 Brr br    k     b          260  100    0 Ts Js
+martin2   837521114  2  1 Bcc kc    kr    -          160   70  120 
+martin2   837521155  2  2 Bc  f     -     -          210   20    0 
+martin2   837521167  2  1 Br  b     -     -          190   30   50 
+martin2   837521181  2  2 Bk  k     f     -          210   10    0 
+martin2   837521200  2  1 Bf  -     -     -          200    5    0 
+martin2   837521207  2  2 Bk  b     -     -          195   20   30 
+martin2   837521220  2  1 Brr b     -     -          205   50   90 
+martin2   837521235  2  2 Brrc c     c     f          245   90    0 
+martin2   837521262  2  1 Bf  -     -     -          155    5    0 
+martin2   837521268  2  2 B   -     -     -          150   10   15 
+martin2   837521275  2  1 Bf  -     -     -          155    5    0 
+martin2   837521283  2  2 Bc  r     b     -          150   60  100 
+martin2   837521308  2  1 Br  b     -     -          190   30   50 
+martin2   837521324  2  2 Bf  -     -     -          210   10    0 
+martin2   837521333  2  1 Br  b     -     -          200   30   50 
+martin2   837521348  2  2 Bk  k     f     -          220   10    0 
+martin2   837521365  2  1 Brr b     b     b          210   90    0 Qc Td
+martin2   837521389  2  2 Bf  -     -     -          120   10    0 
+martin2   837521400  2  1 Br  -     -     -          110   20   30 
+martin2   837521409  2  2 Bk  k     b     k          120   30   60 6s Kh
+martin2   837521440  2  1 Bc  br    b     kf         150   60    0 
+martin2   837521471  2  2 Br  b     b     rA          90   90   90 Ah 7d
+martin2   837521503  2  1 Bc  br    b     b           90   80  160 Kc 7s
+martin2   837521533  2  2 Bk  f     -     -          170   10    0 
+martin2   837521548  2  1 Br  -     -     -          160   20   30 
+martin2   837521557  2  2 B   -     -     -          170   10   15 
+martin2   837521563  2  1 Br  b     -     -          175   30   50 
+martin2   837521580  2  2 Bk  f     -     -          195   10    0 
+martin2   837521593  2  1 Brr b     b     b          185   90    0 6d 7d
+martin2   837521617  2  2 Bk  f     -     -           95   10    0 
+martin2   837521638  2  1 Brc k     kf    -           85   30    0 
+martin2   837521660  2  2 Bk  c     k     k           55   20   40 8d Qs
+martin2   837521690  2  1 Bc  b     b     b           75   60  100 
+martin2   837521726  2  2 Bk  c     b     k          115   40   80 8c 3h
+martin2   837521755  2  1 Bcc kf    -     -          155   20    0 
+martin2   837521772  2  2 Br  c     r     b          135  100  180 
+martin2   837521820  2  1 Br  b     b     b          215   70  120 
+martin2   837521848  2  2 Brc c     c     f          265   70    0 
+martin2   837521873  2  1 Bc  b     -     -          195   20   30 
+martin2   837521884  2  2 Br  k     c     f          205   40    0 
+martin2   837521915  2  1 Br  b     -     -          165   30   50 
+martin2   837521926  2  2 Bk  k     c     f          185   30    0 
+martin2   837521948  2  1 Br  -     -     -          155   20   30 
+martin2   837521958  2  2 Bf  -     -     -          165   10    0 
+martin2   837521966  2  1 Br  b     -     -          155   30   50 
+martin2   837521978  2  2 Bc  c     c     f          175   50    0 
+martin2   837521998  2  1 Bf  -     -     -          125    5    0 
+martin2   837522005  2  2 Br  b     bc    f          120   70    0 
+martin2   837522041  2  1 Br  b     -     -           50   30   50 
+martin2   837522058  2  2 Bk  r     -     -           70   30   50 
+martin2   837522077  2  1 Brc br    kf    -           90   60    0 
+martin2   837522102  2  2 Bk  rA    -     -           30   30   60 Ac Ah
+martin2   837522128  3  1 Bc  kf    -     -           60   10    0 
+martin2   837522164  3  3 r   k     f     -           50   20    0 
+martin2   837522202  3  2 Bk  kc    kcA   -           30   30   80 8d 5c
+martin2   837522235  3  1 Brc br    bA    -           80   80  190 Th Qh
+martin2   837522269  3  3 r   b     b     c          190   70   80 Qh Kh
+martin2   837522305  3  2 Bk  r     kc    b          200   70  190 3d Kd
+martin2   837522345  3  1 Brr kc    kf    -          320   50    0 
+martin2   837522388  3  3 c   rr    b     b          270   90  230 
+martin2   837522451  3  2 Bf  -     -     -          410   10    0 
+martin2   837522481  3  1 Bf  -     -     -          400    5    0 
+martin2   837522519  3  3 cf  -     -     -          395   10    0 
+martin2   837522564  3  2 Bk  kf    -     -          385   10    0 
+martin2   837522607  4  1 Bc  kc    kf    -          375   20    0 
+martin2   837522663  4  4 f   -     -     -          355    0    0 
+martin2   837522699  4  3 f   -     -     -          355    0    0 
+martin2   837522748  4  2 Bk  kf    -     -          355   10    0 
+martin2   837522773  3  1 Bf  -     -     -          345    5    0 
+martin2   837522795  3  3 cc  r     b     f          340   60    0 
+martin2   837522825  3  2 Br  br    b     b          280   90  185 Ad 7d
+martin2   837522854  3  1 Bc  bc    kc    kc         375   70    0 9s Kc
+martin2   837522885  3  3 r   -     -     -          305   20   35 
+martin2   837522897  3  2 Brr bc    cc    kc         320  120    0 9s 9d
+martin2   837522941  3  1 Br  b     b     b          200   70  140 Ac Td
+martin2   837522968  3  3 r   -     -     -          270   20   35 
+martin2   837522984  3  2 Bc  kf    -     -          285   20    0 
+martin2   837522999  3  1 Bf  -     -     -          265    5    0 
+martin2   837523007  3  3 ccc f     -     -          260   40    0 
+martin2   837523066  3  2 BKQ -     -     -          220   10    0 
+martin2   837526450  7  2 Bf  -     -     -          210   10    0 
+martin2   837526486  7  1 Bc  kc    k     k          200   20   50 8d Kc
+martin2   837526541  8  8 f   -     -     -          230    0    0 
+martin2   837526558  8  7 f   -     -     -          230    0    0 
+martin2   837526602  8  6 cc  c     f     -          230   40    0 
+martin2   837526644  8  5 f   -     -     -          190    0    0 
+martin2   837526681  8  4 f   -     -     -          190    0    0 
+martin2   837526731  7  3 f   -     -     -          190    0    0 
+martin2   837526767  7  2 Bk  k     f     -          190   10    0 
+martin2   837526813  7  1 Bc  kf    -     -          180   10    0 
+martin2   837526856  6  6 c   c     f     -          170   20    0 
+martin2   837526912  7  6 f   -     -     -          150    0    0 
+martin2   837526967  6  4 f   -     -     -          150    0    0 
+martin2   837527020  6  4 f   -     -     -          150    0    0 
+martin2   837527054  5  3 f   -     -     -          150    0    0 
+martin2   837527090  4  2 Bk  k     k     k          150   10    0 5h 2d
+martin2   837527121  4  1 Br  b     b     -          140   60  140 
+martin2   837527165  4  4 c   k     f     -          220   10    0 
+martin2   837527193  5  3 c   r     b     k          210   50   65 8s Ah
+martin2   837527234  4  2 Bk  bc    k     c          225   50    0 9h Qd
+martin2   837527273  5  1 Bc  kf    -     -          175   20    0 
+martin2   837527308  4  4 f   -     -     -          155    0    0 
+martin2   837527343  4  3 c   c     b     -          155   40   65 
+martin2   837527372  4  2 Bk  r     b     -          180   50   90 
+martin2   837527406  5  1 Bc  kc    kf    -          220   30    0 
+martin2   837527440  5  5 c   k     c     c          190   50    0 8d As
+martin2   837527476  5  4 f   -     -     -          140    0    0 
+martin2   837527504  5  3 cc  k     kf    -          140   20    0 
+martin2   837527568  6  2 Bf  -     -     -          120   10    0 
+martin2   837527644  6  1 Bc  b     b     bf         110   70    0 
+martin2   837527691  6  6 f   -     -     -           40    0    0 
+martin2   837527742  6  5 c   r     cA    -           40   40    0 7d Td

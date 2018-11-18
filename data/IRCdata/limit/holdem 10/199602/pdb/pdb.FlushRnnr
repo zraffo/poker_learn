@@ -1,0 +1,34 @@
+FlushRnnr 824927393 12  1 Bc  kc    kc    k         1000   40    0 Ad 2d
+FlushRnnr 824927522 11 11 c   c     k     k          960   30    0 Kc 4h
+FlushRnnr 824927605 10  9 c   k     f     -          930   10    0 
+FlushRnnr 824927708 11  9 c   f     -     -          920   10    0 
+FlushRnnr 824927772 11  8 f   -     -     -          910    0    0 
+FlushRnnr 824927824 12  8 c   k     b     -          910   30   80 
+FlushRnnr 824927901 10  7 c   kr    bc    c          960   90    0 6h Kh
+FlushRnnr 824928033  8  4 c   k     k     b          870   30   40 
+FlushRnnr 824928088  7  3 c   c     c     c          880   60  120 2d Kd
+FlushRnnr 824928131 10  4 rr  bc    kc    b          940  100  355 Kd Qd
+FlushRnnr 824928216 12  3 r   k     c     f         1195   40    0 
+FlushRnnr 824928304 11  2 Bc  kc    b     b         1155   70  260 5d Kd
+FlushRnnr 824928460 12  1 Brc kc    kc    kf        1345   70    0 
+FlushRnnr 824928554 12 12 c   f     -     -         1275   20    0 
+FlushRnnr 824928629 12 11 f   -     -     -         1255    0    0 
+FlushRnnr 824928692 12 10 cc  k     c     f         1255   50    0 
+FlushRnnr 824928784 11  8 c   k     f     -         1205   10    0 
+FlushRnnr 824928873 12  8 cc  b     b     b         1195   80  245 9c Ks
+FlushRnnr 824928980 12  8 cc  b     r     bc        1360  120    0 Ks 7h
+FlushRnnr 824929097  9  5 c   kf    -     -         1240   10    0 
+FlushRnnr 824929156 12  5 cf  -     -     -         1230   10    0 
+FlushRnnr 824929342 12  4 c   kc    c     k         1220   40    0 9s 6s
+FlushRnnr 824929423 12  3 c   r     b     b         1180   70  220 8d 9d
+FlushRnnr 824929528 12  2 Bk  kc    kc    krc       1330  100    0 7d 9d
+FlushRnnr 824929614 10  1 Bc  kf    -     -         1230   10    0 
+FlushRnnr 824929685 12 12 c   k     k     f         1220   20    0 
+FlushRnnr 824929787 12 11 c   f     -     -         1200   10    0 
+FlushRnnr 824929897 10  3 Q   -     -     -         1190    0    0 
+FlushRnnr 824934532 11  4 f   -     -     -         1190    0    0 
+FlushRnnr 824934632 12  3 c   k     k     k         1190   10    0 3s 2s
+FlushRnnr 824934709 12  2 Bk  k     k     kf        1180   10    0 
+FlushRnnr 824934834 11  1 Bf  -     -     -         1170    5    0 
+FlushRnnr 824934943  8  8 f   -     -     -         1165    0    0 
+FlushRnnr 824935044  9  9 f   Q     -     -         1165    0    0 

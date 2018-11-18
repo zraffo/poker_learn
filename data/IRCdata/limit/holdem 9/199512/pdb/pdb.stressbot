@@ -1,0 +1,442 @@
+stressbot 820251042  4  3 f   -     -     -         1000    0    0 
+stressbot 820251050  4  2 Bf  -     -     -         1000   10    0 
+stressbot 820251078  4  1 Bf  -     -     -          990    5    0 
+stressbot 820251089  4  4 r   c     r     k          985   80  175 Ac Kd
+stressbot 820251129  4  2 f   -     -     -         1080    0    0 
+stressbot 820251157  5  2 Bk  k     k     f         1080   10    0 
+stressbot 820251182  5  1 Bf  -     -     -         1070    5    0 
+stressbot 820251199  5  5 f   -     -     -         1065    0    0 
+stressbot 820251216  5  4 c   r     b     -         1065   50   90 
+stressbot 820251261  5  3 f   -     -     -         1105    0    0 
+stressbot 820251268  5  2 Bc  bc    kc    kc        1105   80  165 7h Kh
+stressbot 820251303  5  1 Bf  -     -     -         1190    5    0 
+stressbot 820251341  5  5 c   c     cc    f         1185   60    0 
+stressbot 820251394  5  4 rc  r     b     b         1125  100  245 Kd Jh
+stressbot 820251436  5  3 f   -     -     -         1270    0    0 
+stressbot 820251479  5  2 Bk  kc    kf    -         1270   20    0 
+stressbot 820251517  5  1 Bf  -     -     -         1250    5    0 
+stressbot 820251536  5  5 f   -     -     -         1245    0    0 
+stressbot 820251555  5  4 cc  k     k     c         1245   40   90 Qc 5d
+stressbot 820251599  5  3 r   c     c     k         1295   50    0 Th Ah
+stressbot 820251639  5  2 Bc  b     b     -         1245   50   85 
+stressbot 820251676  5  1 Bf  -     -     -         1280    5    0 
+stressbot 820251722  5  5 c   r     b     -         1275   50   90 
+stressbot 820251753  5  4 c   c     c     c         1315   60    0 Ah Tc
+stressbot 820251799  6  4 f   -     -     -         1255    0    0 
+stressbot 820251816  6  3 f   -     -     -         1255    0    0 
+stressbot 820251825  6  2 Bf  -     -     -         1255   10    0 
+stressbot 820251849  6  1 Bc  b     b     -         1245   50  110 
+stressbot 820251884  6  6 c   r     r     f         1305   80    0 
+stressbot 820251934  6  5 f   -     -     -         1225    0    0 
+stressbot 820251971  6  4 c   b     -     -         1225   20   40 
+stressbot 820251994  6  3 r   b     -     -         1245   30   55 
+stressbot 820252014  6  2 Bf  -     -     -         1270   10    0 
+stressbot 820252027  6  1 Bf  -     -     -         1260    5    0 
+stressbot 820252039  6  6 r   b     b     -         1255   50   85 
+stressbot 820252072  5  4 cc  r     b     b         1290   90    0 3s 2s
+stressbot 820252129  5  3 f   Q     -     -         1200    0    0 
+stressbot 820270601  3  3 f   -     -     -         1200    0    0 
+stressbot 820270623  3  2 B   -     -     -         1200   10   15 
+stressbot 820270654  2  1 Bc  kc    b     -         1205   40   60 
+stressbot 820270679  2  2 Bk  k     c     k         1225   30    0 7c Kc
+stressbot 820270706  2  1 Br  b     -     -         1195   30   50 
+stressbot 820270718  2  2 Bc  c     c     c         1215   70  140 As 7d
+stressbot 820270743  2  1 Br  b     b     -         1285   50   80 
+stressbot 820270815  2  2 Bk  r     b     -         1315   50   80 
+stressbot 820270854  2  1 Bf  -     -     -         1345    5    0 
+stressbot 820270858  2  2 Bk  k     c     f         1340   30    0 
+stressbot 820270888  2  1 Bc  kc    k     b         1310   40   60 
+stressbot 820270922  2  2 Bk  c     c     k         1330   40    0 5s 3c
+stressbot 820270943  2  1 Bc  b     -     -         1290   20   30 
+stressbot 820270956  2  2 B   -     -     -         1300   10   15 
+stressbot 820270964  2  1 Br  b     b     -         1305   50   80 
+stressbot 820270986  2  2 Bk  c     c     b         1335   60  120 Jh Kh
+stressbot 820271008  2  1 Bf  -     -     -         1395    5    0 
+stressbot 820271015  2  2 Bc  f     -     -         1390   20    0 
+stressbot 820271030  2  1 Bf  -     -     -         1370    5    0 
+stressbot 820271037  2  2 Bk  k     k     f         1365   10    0 
+stressbot 820271062  2  1 Bcc b     b     k         1355   50  100 Jd 5h
+stressbot 820271093  2  2 Bk  c     k     f         1405   20    0 
+stressbot 820271118  2  1 Br  b     b     -         1385   50   80 
+stressbot 820271133  2  2 Bf  -     -     -         1415   10    0 
+stressbot 820271140  2  1 Bc  kc    kf    -         1405   20    0 
+stressbot 820271165  2  2 Br  bc    c     c         1385   80  160 Jc Kc
+stressbot 820271192  2  1 Bc  kf    -     -         1465   10    0 
+stressbot 820271209  2  2 Bk  k     f     -         1455   10    0 
+stressbot 820271223  2  1 Bc  b     -     -         1445   20   30 
+stressbot 820271233  2  2 Bc  c     c     f         1455   50    0 
+stressbot 820271262  2  1 Bc  b     bc    kf        1405   60    0 
+stressbot 820271296  2  2 Bk  f     -     -         1345   10    0 
+stressbot 820271308  2  1 Bcc b     -     -         1335   30   50 
+stressbot 820271327  2  2 Bk  k     r     -         1355   50   80 
+stressbot 820271343  2  1 Bcc k     kf    -         1385   20    0 
+stressbot 820271363  2  2 Br  b     -     -         1365   30   50 
+stressbot 820271374  2  1 Bf  -     -     -         1385    5    0 
+stressbot 820271380  2  2 Bc  c     c     c         1380   70  140 7c Qh
+stressbot 820271405  2  1 Bcc kf    -     -         1450   20    0 
+stressbot 820271419  2  2 B   -     -     -         1430   10   15 
+stressbot 820271423  2  1 Bc  k     k     b         1435   30   40 
+stressbot 820271513  2  1 B   -     -     -         1445   10   10 
+stressbot 820271526  2  1 Bc  -     -     -         1445   10   20 
+stressbot 820271541  2  2 Bk  f     -     -         1455   10    0 
+stressbot 820271569  2  1 Br  b     -     -         1445   30   50 
+stressbot 820271593  2  2 Bk  b     b     -         1465   40   60 
+stressbot 820271637  2  1 Bc  -     -     -         1485   10   20 
+stressbot 820271650  2  2 Bk  b     b     b         1495   60  100 
+stressbot 820271720  2  1 Bf  -     -     -         1535    5    0 
+stressbot 820271730  2  2 B   -     -     -         1530   10   15 
+stressbot 820271741  2  1 Br  -     -     -         1535   20   30 
+stressbot 820271753  2  2 Bc  rc    k     f         1545   50    0 
+stressbot 820271807  3  1 Bc  b     b     b         1495   60  100 
+stressbot 820271850  3  3 c   k     f     -         1535   10    0 
+stressbot 820271883  3  2 Bk  b     -     -         1525   20   30 
+stressbot 820271905  4  1 Bc  kf    -     -         1535   10    0 
+stressbot 820271922  3  3 r   r     r     -         1525   80  145 
+stressbot 820271945  3  2 Bk  f     -     -         1590   10    0 
+stressbot 820271982  3  1 Bcc b     b     b         1580   70    0 4d As
+stressbot 820272022  3  3 cc  rc    rc    b         1510  130  350 
+stressbot 820272090  3  2 B   -     -     -         1730   10   15 
+stressbot 820272100  3  1 Bf  -     -     -         1735    5    0 
+stressbot 820272108  3  3 c   k     k     b         1730   30   45 
+stressbot 820272137  3  2 Bk  b     -     -         1745   20   35 
+stressbot 820272150  3  1 Brc bc    kc    b         1760  120    0 Ks Ah
+stressbot 820272200  3  3 f   -     -     -         1640    0    0 
+stressbot 820272208  3  2 Bk  br    b     b         1640   80  165 3d 5d
+stressbot 820272243  3  1 Bc  kc    kc    kc        1725   70    0 2h Kh
+stressbot 820272283  3  3 rrc rc    c     c         1655  120    0 Ac Kc
+stressbot 820272326  4  3 f   -     -     -         1535    0    0 
+stressbot 820272383  5  2 Bk  b     bc    bc        1535  100    0 Jc 6h
+stressbot 820272478  5  1 Bc  k     k     -         1435   10   20 
+stressbot 820272508  6  6 f   Q     -     -         1445    0    0 
+stressbot 820289210  7  5 cc  kc    kf    -         1445   40    0 
+stressbot 820289269  7  4 f   -     -     -         1405    0    0 
+stressbot 820289338  8  4 c   b     -     -         1405   20   65 
+stressbot 820289376  8  3 rr  c     c     f         1450   70    0 
+stressbot 820289439  8  2 Bc  kc    kf    -         1380   30    0 
+stressbot 820289498  6  1 Bc  b     b     b         1350   60  190 Jc 9c
+stressbot 820289569  7  7 f   -     -     -         1480    0    0 
+stressbot 820289634  6  5 c   b     -     -         1480   20   40 
+stressbot 820289663  6  4 c   k     bc    bc        1500   90    0 4h 9h
+stressbot 820289732  5  2 Bk  k     kc    b         1410   50   95 
+stressbot 820289783  6  1 Bc  b     -     -         1455   20   30 
+stressbot 820289805  6  6 c   b     -     -         1465   20   40 
+stressbot 820289832  6  6 c   f     -     -         1485   10    0 
+stressbot 820289890  5  4 c   r     b     -         1475   50   85 
+stressbot 820289955  5  3 r   bc    kf    -         1510   40    0 
+stressbot 820289993  5  2 Bf  -     -     -         1470   10    0 
+stressbot 820290001  5  1 Bc  k     kf    -         1460   10    0 
+stressbot 820290051  5  5 c   r     b     bc        1450   90    0 9d 8s
+stressbot 820290096  5  4 c   f     -     -         1360   10    0 
+stressbot 820290145  5  3 r   b     b     b         1350   70  125 
+stressbot 820290198  5  2 Bk  kf    -     -         1405   10    0 
+stressbot 820290224  5  1 Bf  -     -     -         1395    5    0 
+stressbot 820290294  4  4 cc  f     -     -         1390   20    0 
+stressbot 820290335  5  3 c   b     b     -         1370   40   65 
+stressbot 820290363  5  2 Bk  b     bc    kc        1395   80  190 Td Qh
+stressbot 820290427  6  1 Bc  kf    -     -         1505   20    0 
+stressbot 820290476  6  6 f   -     -     -         1485    0    0 
+stressbot 820290514  6  5 c   f     -     -         1485   10    0 
+stressbot 820290573  6  4 f   -     -     -         1475    0    0 
+stressbot 820290618  5  2 f   -     -     -         1475    0    0 
+stressbot 820290671  5  2 Bk  b     -     -         1475   20   30 
+stressbot 820290695  5  1 Br  b     b     b         1485   70  170 Kc Jc
+stressbot 820290737  5  5 f   -     -     -         1585    0    0 
+stressbot 820290776  5  4 c   r     b     -         1585   60  150 
+stressbot 820290821  6  4 f   -     -     -         1675    0    0 
+stressbot 820290854  6  3 c   r     b     f         1675   50    0 
+stressbot 820290902  6  2 Bk  kc    kf    -         1625   20    0 
+stressbot 820290936  6  1 Bc  b     -     -         1605   20   50 
+stressbot 820290955  7  7 f   -     -     -         1635    0    0 
+stressbot 820291004  7  6 c   k     rc    c         1635  100    0 Qs 4s
+stressbot 820291058  7  5 r   b     b     b         1535   70  155 
+stressbot 820291104  8  5 f   -     -     -         1620    0    0 
+stressbot 820291155  8  4 c   b     b     bf        1620   60    0 
+stressbot 820291223  8  3 f   -     -     -         1560    0    0 
+stressbot 820291280  8  2 Bk  k     kf    -         1560   10    0 
+stressbot 820291323  7  1 Bc  kf    -     -         1550   20    0 
+stressbot 820291380  7  5 Q   -     -     -         1530    0    0 
+stressbot 820354676  3  3 f   -     -     -         1530    0    0 
+stressbot 820354696  3  2 B   -     -     -         1530   10   15 
+stressbot 820354701  2  1 Bc  b     -     -         1535   20   30 
+stressbot 820354714  2  2 B   -     -     -         1545   10   15 
+stressbot 820354718  2  1 Bf  -     -     -         1550    5    0 
+stressbot 820354724  2  2 B   -     -     -         1545   10   15 
+stressbot 820354727  2  1 Bc  b     -     -         1550   20   30 
+stressbot 820354740  2  2 Bc  c     k     k         1560   30    0 3c 4h
+stressbot 820354761  2  1 Bc  b     -     -         1530   20   30 
+stressbot 820354774  2  2 B   -     -     -         1540   10   15 
+stressbot 820354777  2  1 Bf  -     -     -         1545    5    0 
+stressbot 820354782  2  2 Bk  k     f     -         1540   10    0 
+stressbot 820354798  2  1 Br  -     -     -         1530   20   30 
+stressbot 820354804  2  2 Bk  r     bc    c         1540   90    0 Th Ks
+stressbot 820354829  2  1 Bc  k     b     -         1450   30   40 
+stressbot 820354851  2  2 B   -     -     -         1460   10   15 
+stressbot 820354861  2  1 Bc  b     -     -         1465   20   30 
+stressbot 820354876  2  2 B   -     -     -         1475   10   15 
+stressbot 820354879  2  1 Bc  k     k     kf        1480   10    0 
+stressbot 820354904  2  2 Br  b     -     -         1470   30   50 
+stressbot 820354921  2  1 Bf  -     -     -         1490    5    0 
+stressbot 820354927  2  2 Br  c     c     c         1485   80    0 Qh Qs
+stressbot 820354953  2  1 Bc  k     k     k         1405   10   20 9d 5s
+stressbot 820354985  3  3 c   r     b     b         1415   70   75 Ac 7s
+stressbot 820355011  3  2 Bk  k     f     -         1420   10    0 
+stressbot 820355031  3  1 Bc  b     -     -         1410   20   30 
+stressbot 820355042  3  3 fQ  -     -     -         1420    0    0 
+stressbot 820423546  2  2 Bk  b     b     -         1420   40   60 
+stressbot 820423577  2  1 Bc  k     k     bc        1440   50   50 Qs Ad
+stressbot 820423619  2  2 Bk  k     k     b         1440   30   40 
+stressbot 820423673  2  1 Bc  k     k     kc        1450   30    0 6d Kd
+stressbot 820423727  2  2 B   -     -     -         1420   10   15 
+stressbot 820423749  2  1 Bc  k     kf    -         1425   10    0 
+stressbot 820423787  2  2 Bk  f     -     -         1415   10    0 
+stressbot 820424032  2  1 Bf  -     -     -         1405    5    0 
+stressbot 820424044  2  2 Bk  k     k     k         1400   10    0 4c 7h
+stressbot 820424641  2  1 Bc  b     b     -         1390   40   60 
+stressbot 820424667  2  2 B   -     -     -         1410   10   15 
+stressbot 820424681  2  1 Br  b     -     -         1415   30   50 
+stressbot 820424702  2  2 Bk  k     k     f         1435   10    0 
+stressbot 820424744  2  1 Bc  b     b     -         1425   40   60 
+stressbot 820424778  2  2 Bf  -     -     -         1445   10    0 
+stressbot 820424802  2  1 Bc  k     k     k         1435   10   20 Ad 6d
+stressbot 820424844  2  2 B   -     -     -         1445   10   15 
+stressbot 820424857  2  1 Bc  k     kc    kc        1450   50    0 Ah 2s
+stressbot 820424911  2  2 B   -     -     -         1400   10   15 
+stressbot 820424927  2  1 Bc  b     b     bf        1405   60    0 
+stressbot 820424964  2  2 Bk  k     b     -         1345   30   40 
+stressbot 820425008  2  1 Bc  k     k     k         1355   10   20 7s Ac
+stressbot 820425038  2  2 Bk  b     b     b         1365   60  100 
+stressbot 820425093  2  1 Bc  k     bc    kc        1405   70    0 Qd 3c
+stressbot 820425162  2  2 Bk  b     b     c         1335   60    0 7c Jd
+stressbot 820425207  2  1 Bc  b     b     -         1275   40   60 
+stressbot 820425238  3  2 Bk  k     k     c         1295   30    0 9s Qs
+stressbot 820425264  3  1 Bc  kf    -     -         1265   10    0 
+stressbot 820425356  3  3 f   -     -     -         1255    0    0 
+stressbot 820425383  3  2 Bk  k     k     c         1255   30    0 7d 9d
+stressbot 820425415  3  1 Bc  kc    kf    -         1225   20    0 
+stressbot 820425456  3  3 f   -     -     -         1205    0    0 
+stressbot 820425463  3  2 B   -     -     -         1205   10   15 
+stressbot 820425469  3  1 Br  bc    b     b         1210   80  180 Jd Qd
+stressbot 820425542  3  3 f   -     -     -         1310    0    0 
+stressbot 820425552  3  2 Bk  b     b     b         1310   60  120 3c Ah
+stressbot 820425592  3  1 Bc  kc    bc    kc        1370   80  170 9s 7d
+stressbot 820425643  3  3 f   -     -     -         1460    0    0 
+stressbot 820425683  3  2 Bk  k     k     b         1460   30   40 
+stressbot 820425712  3  1 Bc  k     kf    -         1470   10    0 
+stressbot 820425769  3  3 cc  k     b     -         1460   40   65 
+stressbot 820425805  3  2 Bc  b     b     c         1485   70  210 Ts 9h
+stressbot 820425853  3  1 Bf  -     -     -         1625    5    0 
+stressbot 820425889  3  3 f   -     -     -         1620    0    0 
+stressbot 820425915  3  2 Bc  kc    k     kr        1620   70    0 7c Kc
+stressbot 820425959  3  1 Bf  -     -     -         1550    5    0 
+stressbot 820425969  3  3 f   -     -     -         1545    0    0 
+stressbot 820425977  3  2 Bk  k     k     bc        1545   50  100 Ac Jh
+stressbot 820426007  3  1 Bcc kc    kf    -         1595   30    0 
+stressbot 820426045  3  3 cc  f     -     -         1565   20    0 
+stressbot 820426076  3  2 B   -     -     -         1545   10   15 
+stressbot 820426081  3  1 Bf  -     -     -         1550    5    0 
+stressbot 820426111  3  3 f   -     -     -         1545    0    0 
+stressbot 820426163  3  2 Bk  kf    -     -         1545   10    0 
+stressbot 820426195  3  1 Bcc b     b     -         1535   50   80 
+stressbot 820426223  3  3 c   k     k     b         1565   30   45 
+stressbot 820426264  3  2 Bk  b     b     b         1580   60  100 
+stressbot 820426305  3  1 Bc  kf    -     -         1620   10    0 
+stressbot 820426364  3  3 r   b     b     b         1610   70    0 Js Kh
+stressbot 820426426  3  2 Bk  k     k     f         1540   10    0 
+stressbot 820426455  3  1 Bc  k     b     b         1530   50    0 5h Td
+stressbot 820426506  3  3 f   -     -     -         1480    0    0 
+stressbot 820426544  3  2 Bk  b     b     -         1480   40   80 
+stressbot 820426594  3  1 Bf  -     -     -         1520    5    0 
+stressbot 820426600  3  3 c   k     f     -         1515   10    0 
+stressbot 820426636  4  2 Bf  -     -     -         1505   10    0 
+stressbot 820426669  4  1 Bc  k     k     kc        1495   30   60 4s 8s
+stressbot 820426705  4  4 f   -     -     -         1525    0    0 
+stressbot 820426754  4  3 r   b     -     -         1525   30   55 
+stressbot 820426774  4  2 Bk  bc    kc    k         1550   50  110 3d Kd
+stressbot 820426818  4  1 Bc  b     b     k         1610   40    0 4h 3c
+stressbot 820426911  4  4 c   b     -     -         1570   20   50 
+stressbot 820426943  4  3 f   -     -     -         1600    0    0 
+stressbot 820426992  5  2 Bf  -     -     -         1600   10    0 
+stressbot 820427034  5  1 Bc  b     bc    kc        1590   80    0 4d 4s
+stressbot 820427093  4  4 f   -     -     -         1510    0    0 
+stressbot 820427133  5  4 f   -     -     -         1510    0    0 
+stressbot 820427167  5  3 c   k     k     f         1510   10    0 
+stressbot 820427209  5  2 Bc  cf    -     -         1500   30    0 
+stressbot 820427266  5  1 Bc  -     -     -         1470   10   20 
+stressbot 820427275  4  4 f   -     -     -         1480    0    0 
+stressbot 820427309  4  4 f   -     -     -         1480    0    0 
+stressbot 820427381  4  3 f   -     -     -         1480    0    0 
+stressbot 820427423  4  2 Bk  kc    b     bf        1480   60    0 
+stressbot 820427473  4  1 Bf  -     -     -         1420    5    0 
+stressbot 820427508  4  4 rc  c     c     f         1415   70    0 
+stressbot 820427541  4  3 f   -     -     -         1345    0    0 
+stressbot 820427575  4  2 Bf  -     -     -         1345   10    0 
+stressbot 820427604  4  1 Bc  kc    kf    -         1335   20    0 
+stressbot 820427643  4  4 c   k     f     -         1315   10    0 
+stressbot 820427676  4  3 cc  kf    -     -         1305   20    0 
+stressbot 820427728  4  2 Bk  k     kc    bf        1285   50    0 
+stressbot 820427778  4  1 Bc  kf    -     -         1235   10    0 
+stressbot 820427804  4  4 r   b     b     b         1225   70  150 Ad 2h
+stressbot 820427842  4  3 cc  f     -     -         1305   20    0 
+stressbot 820427861  4  2 Br  b     bc    c         1285   90    0 Qs Qc
+stressbot 820427916  4  1 Bc  k     k     bf        1195   30    0 
+stressbot 820428003  4  4 c   k     b     b         1165   50  140 7h Ad
+stressbot 820428065  4  3 cc  c     k     c         1255   50    0 6h 6s
+stressbot 820428116  3  2 B   -     -     -         1205   10   15 
+stressbot 820428122  3  1 Bc  b     -     -         1210   20   40 
+stressbot 820428137  3  3 f   -     -     -         1230    0    0 
+stressbot 820428161  3  2 Bk  k     c     f         1230   30    0 
+stressbot 820428196  3  1 Brc kc    kf    -         1200   40    0 
+stressbot 820428232  3  3 c   k     f     -         1160   10    0 
+stressbot 820428264  3  2 Bc  r     rrr   rc        1150  220  440 Qc Td
+stressbot 820428326  3  1 Bf  -     -     -         1370    5    0 
+stressbot 820428351  3  3 c   k     b     -         1365   30   50 
+stressbot 820428377  3  2 Bc  kf    -     -         1385   20    0 
+stressbot 820428398  3  1 Bf  -     -     -         1365    5    0 
+stressbot 820428418  3  3 f   -     -     -         1360    0    0 
+stressbot 820428462  3  2 Bf  -     -     -         1360   10    0 
+stressbot 820428470  3  1 Bc  b     -     -         1350   20   30 
+stressbot 820428487  3  3 f   -     -     -         1360    0    0 
+stressbot 820428508  3  2 B   -     -     -         1360   10   15 
+stressbot 820428514  3  1 Bc  bc    kc    kc        1365   70    0 4h Qh
+stressbot 820428552  3  3 cc  k     f     -         1295   20    0 
+stressbot 820428578  3  2 Brc c     c     c         1275   80    0 4h 4s
+stressbot 820428613  3  1 Bc  b     -     -         1195   20   30 
+stressbot 820428626  3  3 f   -     -     -         1205    0    0 
+stressbot 820428636  3  2 Bk  k     k     k         1205   10    0 Jc 4h
+stressbot 820428662  3  1 Br  b     -     -         1195   30   70 
+stressbot 820428683  3  3 c   k     k     c         1235   30    0 Kh Th
+stressbot 820428713  3  2 Bc  b     b     b         1205   70  145 Ah 4d
+stressbot 820428755  3  1 Bc  k     k     kf        1280   10    0 
+stressbot 820428791  3  3 cc  f     -     -         1270   20    0 
+stressbot 820428824  3  2 Bc  k     k     k         1250   20    0 8s Td
+stressbot 820428849  3  1 Br  bc    k     b         1230   60  100 
+stressbot 820428875  3  3 f   -     -     -         1270    0    0 
+stressbot 820428880  3  2 Bc  kf    -     -         1270   20    0 
+stressbot 820428897  3  1 Bc  bc    bc    kc        1250   90    0 Kc 8s
+stressbot 820428935  4  3 cc  c     c     c         1160   70  150 Ks Jc
+stressbot 820428965  4  2 Bk  kr    b     bf        1240   70    0 
+stressbot 820428996  4  1 Bc  k     kc    kc        1170   50  150 Ad 9h
+stressbot 820429043  4  4 c   k     k     k         1270   10   25 9d Qs
+stressbot 820429077  4  3 f   -     -     -         1285    0    0 
+stressbot 820429087  4  2 Bc  c     c     c         1285   70    0 4h 5c
+stressbot 820429119  4  1 Bc  kf    -     -         1215   20    0 
+stressbot 820429158  4  4 f   -     -     -         1195    0    0 
+stressbot 820429177  4  3 cc  k     k     f         1195   20    0 
+stressbot 820429207  4  2 Bk  k     f     -         1175   10    0 
+stressbot 820429229  4  1 Bc  k     k     k         1165   10   20 6h 9s
+stressbot 820429264  4  4 f   -     -     -         1175    0    0 
+stressbot 820429281  4  3 cc  kf    -     -         1175   20    0 
+stressbot 820429308  4  2 Bk  kf    -     -         1155   10    0 
+stressbot 820429377  4  1 Br  b     b     b         1145   70  170 Kd Qd
+stressbot 820429438  4  4 f   -     -     -         1245    0    0 
+stressbot 820429466  4  3 c   b     -     -         1245   20   40 
+stressbot 820429488  4  2 Bc  kc    b     -         1265   50   85 
+stressbot 820429527  4  1 Bf  -     -     -         1300    5    0 
+stressbot 820429577  4  4 r   r     b     -         1295   60  150 
+stressbot 820429636  4  3 cc  rc    rc    rc        1385  180    0 8d Qd
+stressbot 820429689  4  2 Bk  k     kc    kc        1205   50    0 8d 7h
+stressbot 820429747  4  1 Bc  k     kfQ   -         1155   10    0 
+stressbot 820460329  7  3 f   -     -     -         1145    0    0 
+stressbot 820460385  8  2 Bc  b     b     b         1145   70  125 
+stressbot 820460414  9  1 Bc  kf    -     -         1200   20    0 
+stressbot 820460468  9  9 c   b     b     b         1180   70  215 
+stressbot 820460534  9  8 c   b     b     f         1325   40    0 
+stressbot 820460579  9  7 f   -     -     -         1285    0    0 
+stressbot 820460617  9  6 c   f     -     -         1285   10    0 
+stressbot 820460669  8  4 f   -     -     -         1275    0    0 
+stressbot 820460734  8  3 c   b     -     -         1275   20   45 
+stressbot 820460778  8  2 Bf  -     -     -         1300   10    0 
+stressbot 820460843 10  1 Bc  kf    -     -         1290   10    0 
+stressbot 820460921 10 10 f   -     -     -         1280    0    0 
+stressbot 820460970 10  9 c   k     k     f         1280   10    0 
+stressbot 820461029  9  7 c   f     -     -         1270   10    0 
+stressbot 820461068  9  6 cc  kc    c     f         1260   50    0 
+stressbot 820461143  9  6 f   -     -     -         1210    0    0 
+stressbot 820461192  7  3 f   -     -     -         1210    0    0 
+stressbot 820461247  7  3 f   -     -     -         1210    0    0 
+stressbot 820461285  7  2 Bk  kc    kf    -         1210   20    0 
+stressbot 820461324  7  1 Bf  -     -     -         1190    5    0 
+stressbot 820461369  7  7 f   -     -     -         1185    0    0 
+stressbot 820461405  7  6 cc  k     kf    -         1185   20    0 
+stressbot 820461469  8  6 c   r     c     rc        1165  110  285 8d Kc
+stressbot 820461534  8  5 f   -     -     -         1340    0    0 
+stressbot 820461589  8  4 cc  bc    bc    bc        1340  120    0 9s Js
+stressbot 820461644  8  3 r   b     b     -         1220   50  110 
+stressbot 820461683  7  2 Bk  kf    -     -         1280   10    0 
+stressbot 820461700  7  1 Bcc bc    bc    kf        1270   80    0 
+stressbot 820461783  7  7 c   f     -     -         1190   10    0 
+stressbot 820461823  6  5 c   c     r     b         1180   80  180 6h Kh
+stressbot 820461869  6  4 c   k     k     k         1280   10    0 9c 8d
+stressbot 820461942  7  3 r   b     b     b         1270   70  200 
+stressbot 820461999  7  2 Bk  k     k     k         1400   10   15 2c 9s
+stressbot 820462048  7  1 Bc  b     b     b         1405   60  150 
+stressbot 820462102  9  9 f   -     -     -         1495    0    0 
+stressbot 820462167  9  8 f   -     -     -         1495    0    0 
+stressbot 820462261  7  5 c   b     -     -         1495   20   50 
+stressbot 820462286  7  4 c   b     -     -         1525   30   65 
+stressbot 820462322  7  3 cc  kf    -     -         1560   20    0 
+stressbot 820462386  7  3 r   -     -     -         1540   20   35 
+stressbot 820462402  7  2 Bk  b     -     -         1555   20   30 
+stressbot 820462422  7  1 Bc  bc    bc    k         1565   70    0 5h Kh
+stressbot 820462474  7  7 f   Q     -     -         1495    0    0 
+stressbot 820463163  8  5 f   -     -     -         1495    0    0 
+stressbot 820463229  8  4 cc  kc    kc    kf        1495   50    0 
+stressbot 820463290  8  3 f   -     -     -         1445    0    0 
+stressbot 820463332  8  2 Bk  kf    -     -         1445   10    0 
+stressbot 820463380  9  1 Bf  -     -     -         1435    5    0 
+stressbot 820463398  9  9 f   -     -     -         1430    0    0 
+stressbot 820463450  9  8 f   -     -     -         1430    0    0 
+stressbot 820463466  9  7 c   f     -     -         1430   20    0 
+stressbot 820463508  9  6 f   -     -     -         1410    0    0 
+stressbot 820463557  8  4 c   k     f     -         1410   10    0 
+stressbot 820463630  8  3 cc  f     -     -         1400   20    0 
+stressbot 820463688  9  3 cc  -     -     -         1380   20   45 
+stressbot 820463714  9  2 Bf  -     -     -         1405   10    0 
+stressbot 820463796  9  1 Bc  b     -     -         1395   20   40 
+stressbot 820463832  9  9 f   -     -     -         1415    0    0 
+stressbot 820463872  9  8 f   -     -     -         1415    0    0 
+stressbot 820463907  9  7 c   b     r     b         1415   90    0 3s Ad
+stressbot 820463966  9  6 f   -     -     -         1325    0    0 
+stressbot 820464043  9  5 f   -     -     -         1325    0    0 
+stressbot 820464114  8  3 cc  f     -     -         1325   20    0 
+stressbot 820464161  8  2 Bc  kc    kc    kf        1305   50    0 
+stressbot 820464225  8  1 Brc b     bc    br        1255  150  310 Jh Qh
+stressbot 820464285  8  8 cc  r     b     b         1415   90    0 5c Tc
+stressbot 820464342  8  7 cc  k     f     -         1325   20    0 
+stressbot 820464383  8  6 r   -     -     -         1305   20   35 
+stressbot 820464408  8  5 c   bc    b     b         1320   70    0 9s Js
+stressbot 820464484  8  4 c   c     c     k         1250   40    0 Kh 8d
+stressbot 820464523  8  3 cc  b     b     r         1210   90  270 9h Tc
+stressbot 820464605  8  2 Bk  b     b     bc        1390   80    0 Jh Kd
+stressbot 820464642  8  1 Br  bc    kc    k         1310   70    0 Ac Jc
+stressbot 820464704 10 10 r   b     b     -         1240   60  205 
+stressbot 820464797 10  9 f   -     -     -         1385    0    0 
+stressbot 820464887  9  7 f   -     -     -         1385    0    0 
+stressbot 820465009  9  6 rc  b     b     -         1385   70  175 
+stressbot 820465074 11  7 f   -     -     -         1490    0    0 
+stressbot 820465162 10  5 f   -     -     -         1490    0    0 
+stressbot 820465193 10  4 r   rc    r     b         1490  120  385 Ah 9h
+stressbot 820465275 10  3 c   kf    -     -         1755   10    0 
+stressbot 820465346 10  2 Bk  r     b     b         1745   70    0 4c As
+stressbot 820465401 10  1 Bf  -     -     -         1675    5    0 
+stressbot 820465534 11 11 c   r     b     b         1670   70  135 
+stressbot 820465582 11 10 c   f     -     -         1735   10    0 
+stressbot 820465656 10  8 c   f     -     -         1725   10    0 
+stressbot 820465712 10  7 f   -     -     -         1715    0    0 
+stressbot 820465783 10  6 f   -     -     -         1715    0    0 
+stressbot 820465848 10  5 r   bc    b     b         1715   80    0 Kh 5c
+stressbot 820465895 10  4 c   kcf   -     -         1635   30    0 
+stressbot 820466034  9  3 c   kf    -     -         1605   10    0 
+stressbot 820466101  9  2 Bc  bc    b     bf        1595   80    0 
+stressbot 820466177  9  1 BQ  -     -     -         1515    5    0 
+stressbot 820466908 12 10 r   bc    kc    f         1510   60    0 
+stressbot 820467072 10  7 f   -     -     -         1450    0    0 
+stressbot 820467175 10  6 c   kc    kf    -         1450   30    0 
+stressbot 820467299  9  5 r   b     bc    k         1420   70  160 Th Kh
+stressbot 820467338  9  4 cc  kf    -     -         1510   20    0 
+stressbot 820467387  9  3 cc  b     r     b         1490   90  235 
+stressbot 820467464  9  2 Bc  b     kc    kf        1635   50    0 
+stressbot 820467553  8  1 Bc  k     k     k         1585   10    0 Td 3d
+stressbot 820467593  8  8 c   r     b     b         1575   70    0 9s 5s
+stressbot 820467648  8  7 r   r     rr    rc        1505  190    0 Ac Kc
+stressbot 820467765  8  6 f   -     Q     -         1315    0    0 

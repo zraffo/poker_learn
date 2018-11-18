@@ -1,0 +1,69 @@
+COLDCALL  904613576 17 11 f   -     -     -         2000    0    0 
+COLDCALL  904613677 17 10 f   -     -     -         2000    0    0 
+COLDCALL  904613722 17  9 r   b     -     -         2000  240  340 
+COLDCALL  904613755 17  8 f   -     -     -         2100    0    0 
+COLDCALL  904613838 17  7 r   -     -     -         2100  575  355 Qc Ah
+COLDCALL  904613868 17  6 f   -     -     -         1880    0    0 
+COLDCALL  904613936 17  5 cc  kf    -     -         1880  220    0 
+COLDCALL  904614014 16  4 f   -     -     -         1660    0    0 
+COLDCALL  904614069 16  3 f   -     -     -         1660    0    0 
+COLDCALL  904614159 16  2 Bf  -     -     -         1660   40    0 
+COLDCALL  904614209 15  1 Bf  -     -     -         1620   20    0 
+COLDCALL  904614328 14 14 f   -     -     -         1600    0    0 
+COLDCALL  904614378 13 12 f   -     -     -         1600    0    0 
+COLDCALL  904614421 13 11 f   -     -     -         1600    0    0 
+COLDCALL  904614466 12  9 f   -     -     -         1600    0    0 
+COLDCALL  904614493 11  8 f   -     -     -         1600    0    0 
+COLDCALL  904614541 11  7 f   -     -     -         1600    0    0 
+COLDCALL  904614581 11  6 f   -     -     -         1600    0    0 
+COLDCALL  904614619 10  5 f   -     -     -         1600    0    0 
+COLDCALL  904614653 10  4 f   -     -     -         1600    0    0 
+COLDCALL  904614714 10  3 f   -     -     -         1600    0    0 
+COLDCALL  904614811 10  2 Bf  -     -     -         1600  160    0 
+COLDCALL  904614856  8  1 Br  -     -     -         1440  480  640 
+COLDCALL  904614875  8  8 f   -     -     -         1600    0    0 
+COLDCALL  904614913  7  6 f   -     -     -         1600    0    0 
+COLDCALL  904614971  6  5 r   -     -     -         1600  653 1133 
+COLDCALL  904614990  6  4 f   -     -     -         2080    0    0 
+COLDCALL  904615002  6  3 f   -     -     -         2080    0    0 
+COLDCALL  904615038  6  2 Bf  -     -     -         2080  320    0 
+COLDCALL  904615049  6  1 Bf  -     -     -         1760  160    0 
+COLDCALL  904615063  6  6 f   -     -     -         1600    0    0 
+COLDCALL  904615101  6  5 rcA -     -     -         1600 1600 5120 Kc Ah
+COLDCALL  904615123  6  4 f   -     -     -         5120    0    0 
+COLDCALL  904615149  6  3 f   -     -     -         5120    0    0 
+COLDCALL  904615166  6  2 Bf  -     -     -         5120  320    0 
+COLDCALL  904615177  6  1 Bc  k     b     -         4800  960 1280 
+COLDCALL  904615207  6  6 f   -     -     -         5120    0    0 
+COLDCALL  904615224  6  5 f   -     -     -         5120    0    0 
+COLDCALL  904615264  6  4 f   -     -     -         5120    0    0 
+COLDCALL  904615279  6  3 f   -     -     -         5120    0    0 
+COLDCALL  904615303  6  2 Bk  k     k     kf        5120  640    0 
+COLDCALL  904615348  6  1 Bf  -     -     -         4480  320    0 
+COLDCALL  904615375  6  6 c   k     b     -         4160 2240 3200 
+COLDCALL  904615414  6  5 r   bA    -     -         5120 5120 5280 Ts Ah
+COLDCALL  904615443  6  4 r   -     -     -         5280 2240 3200 
+COLDCALL  904615472  6  3 rc  -     -     -         6240 2760 6480 Qh Qd
+COLDCALL  904615506  5  2 B   -     -     -         9960  640  960 
+COLDCALL  904615531  5  1 Bf  -     -     -        10280  320    0 
+COLDCALL  904615541  5  5 f   -     -     -         9960    0    0 
+COLDCALL  904615554  5  4 cf  -     -     -         9960  640    0 
+COLDCALL  904615582  5  3 f   -     -     -         9320    0    0 
+COLDCALL  904615597  5  2 Bf  -     -     -         9320 1280    0 
+COLDCALL  904615614  5  1 Bc  k     b     -         8040 3840 5120 
+COLDCALL  904615641  5  5 r   c     -     -         9320 7010    0 As Jh
+COLDCALL  904615665  5  4 f   -     -     -         2310    0    0 
+COLDCALL  904615699  5  3 rA  -     -     -         2310 2310 2523 2d 2h
+COLDCALL  904615731  5  2 B   -     -     -         2523 1280 2274 Qc 8s
+COLDCALL  904615753  4  1 Bf  -     -     -         3517  640    0 
+COLDCALL  904615787  4  4 rA  -     -     -         2877 2877 4797 
+COLDCALL  904615803  4  3 f   -     -     -         4797    0    0 
+COLDCALL  904615822  4  2 BrA -     -     -         4797 4797 10234 Qh Qs
+COLDCALL  904615835  4  1 Bf  -     -     -        10234  640    0 
+COLDCALL  904615855  4  4 f   -     -     -         9594    0    0 
+COLDCALL  904615866  4  3 f   -     -     -         9594    0    0 
+COLDCALL  904615883  4  2 Bc  -     -     -         9594 4253 9786 2h As
+COLDCALL  904615905  3  1 Bc  -     -     -        15127 6450    0 9d 9s
+COLDCALL  904615928  3  3 f   -     -     -         8677    0    0 
+COLDCALL  904615948  3  2 B   -     -     -         8677 2560 3840 
+COLDCALL  904615958  3  1 BcrA -     -     -         9957 9957    0 6d 6s

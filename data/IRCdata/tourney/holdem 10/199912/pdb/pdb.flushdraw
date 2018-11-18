@@ -1,0 +1,247 @@
+flushdraw 945592515 10  7 f   -     -     -         5000    0    0 
+flushdraw 945592648 10  6 f   -     -     -         5000    0    0 
+flushdraw 945592660 10  5 f   -     -     -         5000    0    0 
+flushdraw 945592667 10  4 f   -     -     -         5000    0    0 
+flushdraw 945592685 10  3 f   -     -     -         5000    0    0 
+flushdraw 945592715 10  2 Bf  -     -     -         5000  100    0 
+flushdraw 945592774  9  1 Bf  -     -     -         4900   50    0 
+flushdraw 945592802  9  9 f   -     -     -         4850    0    0 
+flushdraw 945592819  9  8 f   -     -     -         4850    0    0 
+flushdraw 945592870  9  7 f   -     -     -         4850    0    0 
+flushdraw 945592918  8  5 f   -     -     -         4850    0    0 
+flushdraw 945592936  8  4 f   -     -     -         4850    0    0 
+flushdraw 945592995  8  3 f   -     -     -         4850    0    0 
+flushdraw 945593022  8  2 Bk  kf    -     -         4850  200    0 
+flushdraw 945593088  8  1 Bf  -     -     -         4650  100    0 
+flushdraw 945593170  8  8 f   -     -     -         4550    0    0 
+flushdraw 945593199  8  7 f   -     -     -         4550    0    0 
+flushdraw 945593216  8  6 f   -     -     -         4550    0    0 
+flushdraw 945593254  8  5 f   -     -     -         4550    0    0 
+flushdraw 945593266  8  4 f   -     -     -         4550    0    0 
+flushdraw 945593284  7  3 f   -     -     -         4550    0    0 
+flushdraw 945593295  7  2 Bf  -     -     -         4550  400    0 
+flushdraw 945593338  7  1 Bf  -     -     -         4150  200    0 
+flushdraw 945593369  6  6 f   -     -     -         3950    0    0 
+flushdraw 945593413  5  4 f   -     -     -         3950    0    0 
+flushdraw 945593439  5  4 f   -     -     -         3950    0    0 
+flushdraw 945593465  5  3 f   -     -     -         3950    0    0 
+flushdraw 945593488  5  2 Bf  -     -     -         3950  800    0 
+flushdraw 945593506  5  1 Bf  -     -     -         3150  400    0 
+flushdraw 945593544  5  5 f   -     -     -         2750    0    0 
+flushdraw 945593560  5  4 f   -     -     -         2750    0    0 
+flushdraw 945593566  5  3 f   -     -     -         2750    0    0 
+flushdraw 945593572  5  2 Bf  -     -     -         2750  800    0 
+flushdraw 945593578  5  1 Bf  -     -     -         1950  400    0 
+flushdraw 945593599  5  5 f   -     -     -         1550    0    0 
+flushdraw 945593622  5  4 f   -     -     -         1550    0    0 
+flushdraw 945593630  5  3 f   -     -     -         1550    0    0 
+flushdraw 945593636  5  2 Bf  -     -     -         1550  800    0 
+flushdraw 945593663  5  1 Bf  -     -     -          750  400    0 
+flushdraw 945593681  5  5 cA  -     -     -          350  350 1050 7s 7d
+flushdraw 945593694  5  4 f   -     -     -         1050    0    0 
+flushdraw 945593705  4  3 c   cA    -     -         1050 1050 2500 Qd Kh
+flushdraw 945593725  4  2 Bk  f     -     -         2500  800    0 
+flushdraw 945593750  4  1 BcA -     -     -         1700 1700    0 8s 8h
+flushdraw 945594169  8  6 f   -     -     -         5000    0    0 
+flushdraw 945594197  8  5 f   -     -     -         5000    0    0 
+flushdraw 945594237  8  4 f   -     -     -         5000    0    0 
+flushdraw 945594274  8  3 f   -     -     -         5000    0    0 
+flushdraw 945594329  8  2 Bk  bf    -     -         5000  450    0 
+flushdraw 945594383  6  1 Bf  -     -     -         4550   50    0 
+flushdraw 945594426  6  6 c   f     -     -         4500 1000    0 
+flushdraw 945594456  6  5 r   b     -     -         3500 2300 3700 
+flushdraw 945594489  6  4 r   f     -     -         4900  700    0 
+flushdraw 945594514  6  3 f   -     -     -         4200    0    0 
+flushdraw 945594536  6  2 Bk  k     f     -         4200  200    0 
+flushdraw 945594600  6  1 Bf  -     -     -         4000  100    0 
+flushdraw 945594625  6  6 f   -     -     -         3900    0    0 
+flushdraw 945594651  6  5 f   -     -     -         3900    0    0 
+flushdraw 945594673  6  4 c   b     -     -         3900  700 1000 
+flushdraw 945594689  6  3 r   b     bA    -         4200 4200 9100 7s 7h
+flushdraw 945594715  6  2 Bk  k     f     -         9100  200    0 
+flushdraw 945594745  6  1 Bf  -     -     -         8900  100    0 
+flushdraw 945594752  6  6 f   -     -     -         8800    0    0 
+flushdraw 945594763  6  5 c   kf    -     -         8800  700    0 
+flushdraw 945594827  6  4 c   f     -     -         8100  400    0 
+flushdraw 945594860  6  3 f   -     -     -         7700    0    0 
+flushdraw 945594878  6  2 Bc  k     kf    -         7700 1400    0 
+flushdraw 945594906  6  1 Bc  k     k     k         6300  400    0 Ac 9c
+flushdraw 945594944  6  6 f   -     -     -         5900    0    0 
+flushdraw 945594955  6  5 f   -     -     -         5900    0    0 
+flushdraw 945594962  6  4 c   k     k     k         5900  400    0 Kc 3d
+flushdraw 945594987  6  3 c   kf    -     -         5500  400    0 
+flushdraw 945595011  6  2 Bf  -     -     -         5100  400    0 
+flushdraw 945595019  6  1 Bf  -     -     -         4700  200    0 
+flushdraw 945595026  6  6 f   -     -     -         4500    0    0 
+flushdraw 945595077  6  5 f   -     -     -         4500    0    0 
+flushdraw 945595095  6  4 c   k     k     f         4500  400    0 
+flushdraw 945595127  6  3 c   k     k     k         4100  400 1200 Ah 6s
+flushdraw 945595145  6  2 B   -     -     -         4900  800 1200 
+flushdraw 945595152  6  1 Bc  k     k     k         5300  800    0 9d Ac
+flushdraw 945595189  6  6 c   b     -     -         4500 3200 4800 
+flushdraw 945595210  6  5 f   -     -     -         6100    0    0 
+flushdraw 945595239  6  4 f   -     -     -         6100    0    0 
+flushdraw 945595258  6  3 f   -     -     -         6100    0    0 
+flushdraw 945595280  6  2 Bk  kf    -     -         6100  800    0 
+flushdraw 945595303  6  1 Bf  -     -     -         5300  400    0 
+flushdraw 945595323  6  6 f   -     -     -         4900    0    0 
+flushdraw 945595339  6  5 f   -     -     -         4900    0    0 
+flushdraw 945595349  6  4 f   -     -     -         4900    0    0 
+flushdraw 945595370  6  3 c   k     b     -         4900 2800 4000 
+flushdraw 945595391  6  2 B   -     -     -         6100  800 1200 
+flushdraw 945595401  6  1 Bf  -     -     -         6500  400    0 
+flushdraw 945595420  6  6 c   b     -     -         6100 2800 4000 
+flushdraw 945595455  6  5 f   -     -     -         7300    0    0 
+flushdraw 945595465  6  4 f   -     -     -         7300    0    0 
+flushdraw 945595474  5  3 f   -     -     -         7300    0    0 
+flushdraw 945595489  5  2 Bk  k     f     -         7300 1600    0 
+flushdraw 945595509  5  1 Bc  bA    -     -         5700 5700    0 As Ac
+flushdraw 945595935 11  4 cc  k     k     b         5000 1425 2300 
+flushdraw 945596010 11  3 c   kc    kf    -         5875  325    0 
+flushdraw 945596111 11  2 Bc  b     -     -         5550 1725 2600 
+flushdraw 945596139 11  1 Bc  kc    k     kf        6425  250    0 
+flushdraw 945596172 11 11 c   f     -     -         6175   50    0 
+flushdraw 945596208 11 10 c   rc    -     -         6125 5000 10625 Qh Ad
+flushdraw 945596236 10  8 c   b     -     -        11750  500  800 
+flushdraw 945596265 10  7 c   r     c     c        12050 4800 9750 3d Ad
+flushdraw 945596302  9  5 r   k     k     b        17000 1200    0 Jh Js
+flushdraw 945596342  9  5 c   b     b     -        15800 1500 2100 
+flushdraw 945596368  9  4 r   -     -     -        16400  350  500 
+flushdraw 945596379  9  3 r   b     f     -        16550 1450    0 
+flushdraw 945596406  9  2 Bc  kf    -     -        15100  350    0 
+flushdraw 945596426  9  1 Bc  k     kf    -        14750  100    0 
+flushdraw 945596450  9  9 c   k     f     -        14650  100    0 
+flushdraw 945596484  9  8 c   b     -     -        14550  450  700 
+flushdraw 945596507  9  7 c   c     c     b        14800 8500 15300 3d 5d
+flushdraw 945596555  8  5 c   bc    f     -        21600 2600    0 
+flushdraw 945596579  8  4 r   r     -     -        19000 6700 9000 
+flushdraw 945596598  8  3 c   f     -     -        21300  200    0 
+flushdraw 945596621  8  2 Bk  f     -     -        21100  200    0 
+flushdraw 945596645  8  1 Br  -     -     -        20900  600  800 
+flushdraw 945596653  8  8 r   -     -     -        21100  700 1000 
+flushdraw 945596659  8  7 r   -     -     -        21400 2400  450 Qd Td
+flushdraw 945596668  8  6 f   -     -     -        19450    0    0 
+flushdraw 945596686  8  5 c   b     -     -        19450  700 1000 
+flushdraw 945596699  8  4 cf  -     -     -        19750  200    0 
+flushdraw 945596711  7  2 c   kc    k     b        19550 2600 3600 
+flushdraw 945596748  7  2 Bf  -     -     -        20550  200    0 
+flushdraw 945596786  7  1 Bc  b     -     -        20350  800 1200 
+flushdraw 945596798  7  7 c   b     b     b        20750 9300 12600 
+flushdraw 945596828  7  6 c   c     -     -        24050 7625    0 Qs Kc
+flushdraw 945596844  6  4 f   -     -     -        16425    0    0 
+flushdraw 945596862  6  3 c   f     -     -        16425  400    0 
+flushdraw 945596886  6  2 B   -     -     -        16025  400  600 
+flushdraw 945596889  6  1 Bc  b     -     -        16225 1200 1600 
+flushdraw 945596898  6  6 c   b     -     -        16625 1400 2000 
+flushdraw 945596909  6  5 c   b     -     -        17225 1400 2000 
+flushdraw 945596926  6  4 c   b     -     -        17825 1800 2800 
+flushdraw 945596938  6  3 r   -     -     -        18825 1400 2000 
+flushdraw 945596942  6  2 B   -     -     -        19425  400  600 
+flushdraw 945596946  6  1 Br  -     -     -        19625 1200 1600 
+flushdraw 945596950  6  6 c   c     -     -        20025 8775 18150 Ts Ac
+flushdraw 945596984  5  4 f   -     -     -        29400    0    0 
+flushdraw 945597000  5  3 c   k     b     -        29400 1400 2000 
+flushdraw 945597019  5  2 B   -     -     -        30000  400  600 
+flushdraw 945597021  5  1 Bc  k     b     -        30200 1600 2400 
+flushdraw 945597042  5  5 c   b     -     -        31000 1400 2000 
+flushdraw 945597050  5  4 cc  c     -     -        31600 1750 3700 2c Qc
+flushdraw 945597066  4  2 f   -     -     -        33550    0    0 
+flushdraw 945597073  4  2 B   -     -     -        33550  400  600 
+flushdraw 945597076  4  1 Bc  k     b     brA      33750 33750 50700 Jd Ad
+flushdraw 945597090  3  3 c   b     -     -        50700 1400 2000 
+flushdraw 945597101  3  2 B   -     -     -        51300  400  600 
+flushdraw 945597102  3  1 Br  -     -     -        51500 1200 1600 
+flushdraw 945597105  3  3 r   -     -     -        51900 1400 2000 
+flushdraw 945597106  3  2 B   -     -     -        52500  400  600 
+flushdraw 945597107  3  1 Br  -     -     -        52700 1200 1600 
+flushdraw 945597108  3  3 r   -     -     -        53100 1400 2000 
+flushdraw 945597112  3  2 B   -     -     -        53700  400  600 
+flushdraw 945597113  3  1 Br  -     -     -        53900 1200 1600 
+flushdraw 945597118  3  3 r   -     -     -        54300 1325 1475 2s 9d
+flushdraw 945597122  3  2 B   -     -     -        54450  400  225 2s 6d
+flushdraw 945597123  3  1 Br  -     -     -        54275 1125 1500 Qc 9c
+flushdraw 945597132  2  2 c   -     -     -        54650  350    0 8d 4h
+flushdraw 945597139  2  2 B   -     -     -        54300  400  600 
+flushdraw 945597140  2  1 Br  -     -     -        54500 1200 1600 
+flushdraw 945597145  2  2 B   -     -     -        54900  400  300 8s 2s
+flushdraw 945597146  2  1 B   -     -     -        54800  200    0 7c Kc
+flushdraw 945597147  2  2 B   -     -     -        54600  400  600 
+flushdraw 945597148  2  1 B   -     -     -        54800  200    0 5d 7h
+flushdraw 945597149  2  2 B   -     -     -        54600  400  600 
+flushdraw 945597150  2  1 B   -     -     -        54800  200    0 Qc 9h
+flushdraw 945597151  2  2 B   -     -     -        54600  400  600 
+flushdraw 945597152  2  1 B   -     -     -        54800  200    0 3d Jc
+flushdraw 945597153  2  2 B   -     -     -        54600  400  600 
+flushdraw 945597154  2  1 B   -     -     -        54800  200  400 Qd Ts
+flushdraw 945645122 16 13 f   -     -     -         5000    0    0 
+flushdraw 945645236 16 12 c   b     kc    bA        5000 5000    0 8s 4s
+flushdraw 945751282 19  5 f   -     -     -         5000    0    0 
+flushdraw 945751403 18  4 f   -     -     -         5000    0    0 
+flushdraw 945751533 18  3 f   -     -     -         5000    0    0 
+flushdraw 945751593 18  2 Bf  -     -     -         5000   50    0 
+flushdraw 945751700 18  1 Bf  -     -     -         4950   50    0 
+flushdraw 945751840 18 18 f   -     -     -         4900    0    0 
+flushdraw 945751904 17 16 f   -     -     -         4900    0    0 
+flushdraw 945751987 16 14 f   -     -     -         4900    0    0 
+flushdraw 945752110 16 13 f   -     -     -         4900    0    0 
+flushdraw 945752147 16 12 f   -     -     -         4900    0    0 
+flushdraw 945752217 13 10 f   -     -     -         4900    0    0 
+flushdraw 945752284 10  7 f   -     -     -         4900    0    0 
+flushdraw 945752337 10  6 f   -     -     -         4900    0    0 
+flushdraw 945752394 10  5 f   -     -     -         4900    0    0 
+flushdraw 945752447 10  4 f   -     -     -         4900    0    0 
+flushdraw 945752486 10  3 f   -     -     -         4900    0    0 
+flushdraw 945752580 10  2 Bf  -     -     -         4900  400    0 
+flushdraw 945752620 10  1 Bc  b     -     -         4500 2000 3200 
+flushdraw 945752645 10 10 c   b     bA    -         5700 5700    0 Qs 2d
+flushdraw 945822541 10 10 c   c     f     -         2500   55    0 
+flushdraw 945822628 10  9 r   k     br    cA        2445 2445 2540 Js Ac
+flushdraw 945822711 10  8 c   f     -     -         2540   10    0 
+flushdraw 945822774 10  7 r   -     -     -         2530   45   70 
+flushdraw 945822794 10  6 r   r     b     bA        2555 2555  115 Ac 5d
+flushdraw 945822845 10  5 r   bA    -     -          115  115  275 Jc Qd
+flushdraw 945822874 10  4 f   -     -     -          275    0    0 
+flushdraw 945822935 10  3 f   -     -     -          275    0    0 
+flushdraw 945822999 10  2 Bk  kf    -     -          275   20    0 
+flushdraw 945823068 10  1 Bf  -     -     -          255   10    0 
+flushdraw 945823130 10 10 c   b     -     -          245   90  140 
+flushdraw 945823182 10  9 r   bA    -     -          295  295  495 
+flushdraw 945823233 10  8 c   b     b     k          495  380    0 Kd 6s
+flushdraw 945823307 10  7 rA  -     -     -          115  115    0 Jh Ah
+flushdraw 945828917  6  5 f   -     -     -         5000    0    0 
+flushdraw 945828942  6  4 c   k     kc    kf        5000  250    0 
+flushdraw 945828982  6  3 f   -     -     -         4750    0    0 
+flushdraw 945829023  6  2 B   -     -     -         4750   50   75 
+flushdraw 945829032  6  1 Bf  -     -     -         4775   25    0 
+flushdraw 945829061  6  6 f   -     -     -         4750    0    0 
+flushdraw 945829083  6  5 f   -     -     -         4750    0    0 
+flushdraw 945829117  6  4 f   -     -     -         4750    0    0 
+flushdraw 945829134  6  3 f   -     -     -         4750    0    0 
+flushdraw 945829158  6  2 Bk  k     k     kf        4750   50    0 
+flushdraw 945829192  6  1 Bf  -     -     -         4700   25    0 
+flushdraw 945829217  6  6 f   -     -     -         4675    0    0 
+flushdraw 945829263  6  5 f   -     -     -         4675    0    0 
+flushdraw 945829288  6  4 c   b     b     -         4675 1500 2100 
+flushdraw 945829311  6  3 rcf -     -     -         5275 1800    0 
+flushdraw 945829344  5  1 Bk  kf    -     -         3475  100    0 
+flushdraw 945829378  5  1 Bcf -     -     -         3375  100    0 
+flushdraw 945829398  5  5 cf  -     -     -         3275  100    0 
+flushdraw 945829419  5  4 f   -     -     -         3175    0    0 
+flushdraw 945829442  4  3 f   -     -     -         3175    0    0 
+flushdraw 945829461  4  2 Bf  -     -     -         3175  100    0 
+flushdraw 945829471  4  1 Bf  -     -     -         3075   50    0 
+flushdraw 945829481  4  4 cf  -     -     -         3025  100    0 
+flushdraw 945829501  4  3 f   -     -     -         2925    0    0 
+flushdraw 945829551  4  2 Bf  -     -     -         2925  100    0 
+flushdraw 945829589  4  1 BccA -     -     -         2825 2825    0 Kc Qs
+flushdraw 945830116  8  3 c   bc    b     bA       10000 10000 21125 7s Jd
+flushdraw 945830192  7  2 Bk  b     kf    -        21125  350    0 
+flushdraw 945830267  7  1 Br  b     k     b        20775 4250    0 Ts Qs
+flushdraw 945830348  7  7 c   c     c     f        16525 3175    0 
+flushdraw 945830421  7  6 c   c     c     cA       13350 13350    0 3c Jd
+flushdraw 945831792 23 14 cc  bcA   -     -         5000 5000 16125 Qs Js
+flushdraw 945831860 21 13 c   bf    -     -        16125  375    0 
+flushdraw 945831944 21 12 c   b     b     b        15750 6225 1300 2d Ah
+flushdraw 945832037 20 10 c   b     b     bA       10825 10825  600 7c Kc
+flushdraw 945832149 20  9 f   -     -     -          600    0    0 
+flushdraw 945832323 20  8 rA  -     -     -          600  600    0 Ad Ks

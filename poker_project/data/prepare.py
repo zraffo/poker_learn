@@ -2,7 +2,6 @@ import pandas as pd
 import glob
 import os
 from io import StringIO
-from collections import defaultdict
 import poker_project.data.holdem as holdem
 import numpy as np
 
@@ -28,14 +27,14 @@ def prepare_data(raw_source='', target=''):
     pass
 
 
-def prepare_holdem():
+def prepare_holdem(type, numbers):
     """
     Prepare the hold'em dataset.
     :return: Dictionary of tables.
     """
-    hf = os.path.join('data', 'IRCdata', 'limit', 'holdem [2-3]', '*', 'hdb')
-    pf = os.path.join('data', 'IRCdata', 'limit', 'holdem [2-3]', '*', 'pdb', 'pdb.*')
-    rf = os.path.join('data', 'IRCdata', 'limit', 'holdem [2-3]', '*', 'hroster')
+    hf = os.path.join('data', 'IRCdata', type, 'holdem ' + str(numbers), '*', 'hdb')
+    pf = os.path.join('data', 'IRCdata', type, 'holdem ' + str(numbers), '*', 'pdb', 'pdb.*')
+    rf = os.path.join('data', 'IRCdata', type, 'holdem ' + str(numbers), '*', 'hroster')
 
     hands_f = glob.glob(hf)
     players_f = glob.glob(pf)
@@ -56,47 +55,22 @@ def __player_df__(player_dir):
     :param player_dir: Directory (glob format)
     :return: dictionary
     """
-
-    def __single_player__(player_dir):
-        with open(player_dir, 'r') as f:
-            lines = [x.split() for x in f.read().splitlines()]
-            player_name = lines[0][0]
-            player_data = [p[0:13] + [None for lg in range(0, (13 - len(p)))] for p in lines]
-            player_data = {p[1]: p[2:] for p in player_data}
-
-        pbt = pd.DataFrame.from_dict(player_data, orient='index')
-        pbt.columns = ['dealt_num', 'pos', 'bet_preflop', 'bet_flop',
-                       'bet_turn', 'bet_river', 'bank_start', 'action', 'amt', 'card_1', 'card_2']
-
-        pbt.loc[:, ['dealt_num', 'pos', 'bank_start', 'amt', 'action']] = \
-            pbt.loc[:, ['dealt_num', 'pos', 'bank_start', 'amt', 'action']].apply(pd.to_numeric, downcast='unsigned')
-
-        pbt['delta'] = (pbt['amt'] - pbt['action'])#.apply(pd.to_numeric, downcast='unsigned')
-        pbt['total_delta'] = pbt['delta'].cumsum()
-        return player_name, pbt
-
-    all_players = []#np.array()
+    all_players = []
     for f in player_dir:
         with open(f, 'r') as f:
             lines = [x.split() for x in f.read().splitlines()]
-            # player_name = lines[0][0]
             player_data = [p[0:13] + [None for lg in range(0, (13 - len(p)))] for p in lines]
-            # player_data = {p[1]: p[2:] for p in player_data}
             all_players.extend(player_data)
 
     all_players = np.array(all_players)
     pbt = pd.DataFrame(all_players, columns=['name', 'timestamp', 'dealt_num', 'pos', 'bet_preflop', 'bet_flop',
                                              'bet_turn', 'bet_river', 'bank_start', 'action', 'amt', 'card_1',
-                                             'card_2'])#, 'delta', 'total_delta'])
+                                             'card_2'])
     pbt.loc[:, ['dealt_num', 'pos', 'bank_start', 'amt', 'action']] = \
         pbt.loc[:, ['dealt_num', 'pos', 'bank_start', 'amt', 'action']].apply(pd.to_numeric, downcast='unsigned')
-    pbt['delta'] = (pbt['amt'] - pbt['action'])  # .apply(pd.to_numeric, downcast='unsigned')
+    pbt['delta'] = (pbt['amt'] - pbt['action'])
     pbt['total_delta'] = pbt['delta'].cumsum()
     pbt = pbt.set_index(['name', 'timestamp'])
-    # all_players = defaultdict(lambda: pbt)
-    # for f in player_dir:
-    #     p_data = __single_player__(f)
-    #     all_players[p_data[0]] = all_players[p_data[0]].append(p_data[1], sort=True)
     return pbt
 
 
@@ -112,8 +86,11 @@ def __roster_dict__(roster_dir):
         with open(roster, 'r') as f:
             all_roster.extend([x.split() for x in f.read().splitlines()])
 
-    roster_data = {p[0]: p[1:] for p in all_roster}
-    return roster_data
+    rdf = pd.DataFrame(all_roster)
+    rdf = rdf.rename(columns={0: 'timestamp'})
+    rdf['timestamp'] = rdf['timestamp'].apply(pd.to_numeric)
+    rdf = rdf.set_index('timestamp')
+    return rdf
 
 
 def __hands_df__(hands_dir):
@@ -136,4 +113,5 @@ def __hands_df__(hands_dir):
                                     'num_flop', 'flop_pot', 'num_turn', 'turn_pot',
                                     'num_river', 'river_pot', 'num_showdown', 'showdown_pot',
                                     'card_1', 'card_2', 'card_3', 'card_4', 'card_5'])
+    hands_df = hands_df.set_index('timestamp')#.drop('game_num')
     return hands_df

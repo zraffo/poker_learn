@@ -1,0 +1,406 @@
+Motoman   907383798 16  8 f   -     -     -        10000    0    0 
+Motoman   907383893 16  7 f   -     -     -        10000    0    0 
+Motoman   907383962 16  6 cc  k     kf    -        10000  325    0 
+Motoman   907384080 16  5 f   -     -     -         9675    0    0 
+Motoman   907384172 16  4 cc  kf    -     -         9675  650    0 
+Motoman   907384270 14  3 f   -     -     -         9025    0    0 
+Motoman   907384378 13  2 Bf  -     -     -         9025  100    0 
+Motoman   907384463 13  1 Bc  kf    -     -         8925  350    0 
+Motoman   907384531 13 13 c   f     -     -         8575  200    0 
+Motoman   907384616 13 12 c   k     f     -         8375  200    0 
+Motoman   907384704 13 11 f   -     -     -         8175    0    0 
+Motoman   907384766 13 10 f   -     -     -         8175    0    0 
+Motoman   907384834 13  9 c   f     -     -         8175  400    0 
+Motoman   907384876 13  8 ccA -     -     -         7775 7775    0 Ac 9s
+Motoman   907477181 15  9 f   -     -     -        10000    0    0 
+Motoman   907477370 15  8 f   -     -     -        10000    0    0 
+Motoman   907477466 14  6 cr  b     bA    -        10000 10000    0 Ah 4c
+Motoman   907480943 13  4 f   -     -     -          500    0    0 
+Motoman   907481060 13  3 cc  kcA   -     -          500  500 1557 Ac Qc
+Motoman   907481160 11  2 Bc  kc    kr    -         1557 1047 1565 Ad Qd
+Motoman   907481246 10  1 Bf  -     -     -         2075    1    0 
+Motoman   907481287  9  9 cc  c     k     k         2074   93    0 Td Kh
+Motoman   907481371  9  8 f   -     -     -         1981    0    0 
+Motoman   907481406  8  7 f   -     -     -         1981    0    0 
+Motoman   907481525  7  5 f   -     -     -         1981    0    0 
+Motoman   907481571  7  4 c   kc    -     -         1981   76    0 2c Ah
+Motoman   907481654  7  3 f   -     -     -         1905    0    0 
+Motoman   907481710  6  2 Bf  -     -     -         1905    4    0 
+Motoman   907481773  6  1 Bc  k     k     k         1901    4   12 Qc Qd
+Motoman   907481822  6  6 c   k     k     k         1909    4    0 2s Ad
+Motoman   907481867  6  5 crc kf    -     -         1905  104    0 
+Motoman   907481946  6  4 f   -     -     -         1801    0    0 
+Motoman   907482000  6  3 f   -     -     -         1801    0    0 
+Motoman   907482057  6  2 BrA -     -     -         1801 1801 1231 7d Qd
+Motoman   907482106  5  1 Bf  -     -     -         1231    2    0 
+Motoman   907482168  5  5 c   k     k     b         1229   29   27 4c Ah
+Motoman   907482206  5  4 cc  c     r     -         1227 1059 1582 4d 2d
+Motoman   907482252  3  2 f   -     -     -         1750    0    0 
+Motoman   907482277  3  2 B   -     -     -         1750    8   12 
+Motoman   907482295  3  1 Bc  k     k     b         1754   24   32 
+Motoman   907482332  3  3 c   k     k     k         1762    8    0 2h Ks
+Motoman   907482356  3  2 Bc  k     k     k         1754   28   30 4c Ac
+Motoman   907482391  3  1 Bc  k     k     b         1756   24   32 
+Motoman   907482432  3  3 cc  c     k     f         1764  128    0 
+Motoman   907482482  3  2 Bc  kf    -     -         1636   56    0 
+Motoman   907482511  3  1 Bc  k     k     k         1580   16   32 Ah 8s
+Motoman   907482540  3  3 cc  k     k     b         1596  160  224 
+Motoman   907482607  3  2 Bf  -     -     -         1660   16    0 
+Motoman   907482618  3  1 Bc  k     k     b         1644   48   64 
+Motoman   907482648  3  3 c   k     f     -         1660   16    0 
+Motoman   907482687  3  2 Bk  k     k     k         1644   16   40 8d Kc
+Motoman   907482732  3  1 Bc  k     k     k         1668   16   32 Kh Jh
+Motoman   907482769  3  3 f   -     -     -         1684    0    0 
+Motoman   907482803  3  2 Bf  -     -     -         1684   32    0 
+Motoman   907482836  3  1 Bcf -     -     -         1652   32    0 
+Motoman   907482856  3  3 c   k     k     bA        1620 1620 3256 7s Ks
+Motoman   907482933  3  2 B   -     -     -         3256   32   48 
+Motoman   907482942  3  1 Bc  k     k     k         3272   32   96 3h Kc
+Motoman   907482971  3  3 c   f     -     -         3336   32    0 
+Motoman   907482993  3  2 B   -     -     -         3304   32   48 
+Motoman   907483000  3  1 Bc  k     k     b         3320   96  128 
+Motoman   907483047  3  3 f   -     -     -         3352    0    0 
+Motoman   907483060  3  2 Bc  kc    kc    kc        3352 2596    0 Tc Qc
+Motoman   907483094  3  1 Bc  k     bA    -          756  756 1340 Qc Ac
+Motoman   907483130  2  2 Bk  k     k     k         1340   64    0 4d 9c
+Motoman   907483159  2  1 Bc  k     k     k         1276   64  128 Kh Ah
+Motoman   907483192  2  2 Bk  k     k     k         1340   64  128 Ks Ad
+Motoman   907483220  2  1 Bc  kf    -     -         1404   64    0 
+Motoman   907483246  2  2 Bc  k     k     k         1340  192  384 As Kh
+Motoman   907483275  2  1 Bc  k     kf    -         1532   64    0 
+Motoman   907483300  2  2 Bc  k     k     b         1468  576  768 
+Motoman   907483325  2  1 Bc  k     k     k         1660  128  256 3d Ad
+Motoman   907483348  2  2 Bk  k     k     k         1788  128    0 8s 6h
+Motoman   907483371  2  1 Bf  -     -     -         1660   64    0 
+Motoman   907483381  2  2 Bf  -     -     -         1596  128    0 
+Motoman   907483391  2  1 Bc  kf    -     -         1468  128    0 
+Motoman   907483416  2  2 Bc  k     f     -         1340  384    0 
+Motoman   907483445  2  1 Bc  k     k     k          956  128  256 Jc Qh
+Motoman   907483471  2  2 B   -     -     -         1084  128  192 
+Motoman   907483478  2  1 Bc  k     k     k         1148  128  256 Th Jc
+Motoman   907483505  2  2 Bk  k     f     -         1276  256    0 
+Motoman   907483534  2  1 Bc  k     k     k         1020  256  512 5s Ks
+Motoman   907483563  2  2 Bf  -     -     -         1276  256    0 
+Motoman   907483576  2  1 Bc  k     bA    -         1020 1020 1276 
+Motoman   907483611  2  2 Bf  -     -     -         1276  256    0 
+Motoman   907483620  2  1 Bf  -     -     -         1020  128    0 
+Motoman   907483630  2  2 Bc  k     k     k          892  768    0 9d 5d
+Motoman   907483649  2  1 BA  -     -     -          124  124    0 2d 5h
+Motoman   907723059 13 12 f   -     -     -         3333    0    0 
+Motoman   907723133 13 11 f   -     -     -         3333    0    0 
+Motoman   907723197 12 10 c   f     -     -         3333  231    0 
+Motoman   907723278 11  8 c   rA    -     -         3102 3102 1363 Ah 5s
+Motoman   907723360 11  7 f   -     -     -         1363    0    0 
+Motoman   907723453 11  6 f   -     -     -         1363    0    0 
+Motoman   907723506 10  4 ccA -     -     -         1363 1363    0 Th Ts
+Motoman   907724320 10  6 f   -     -     -         1000    0    0 
+Motoman   907724473 10  5 c   k     k     f         1000  140    0 
+Motoman   907724519 10  4 ccA -     -     -          860  860    0 3c 3d
+Motoman   907725853 21  6 c   kr    k     k         1000   50  108 6h 7h
+Motoman   907725996 21  5 f   -     -     -         1058    0    0 
+Motoman   907726096 21  4 cc  kf    -     -         1058   17    0 
+Motoman   907726284 20  3 f   -     -     -         1041    0    0 
+Motoman   907726373 20  2 Bk  kf    -     -         1041    4    0 
+Motoman   907726438 20  1 BccA -     -     -         1037 1037    0 Qc Ad
+Motoman   907729946 16  8 f   -     -     -         3333    0    0 
+Motoman   907730093 15  7 f   -     -     -         3333    0    0 
+Motoman   907730207 14  6 c   k     kf    -         3333   66    0 
+Motoman   907730284 14  5 f   -     -     -         3267    0    0 
+Motoman   907730378 14  4 f   -     -     -         3267    0    0 
+Motoman   907730515 14  3 crA -     -     -         3267 3267 6600 2c Ad
+Motoman   907730588 13  1 Bk  k     bA    -         6600 6600 10593 2c Qd
+Motoman   907730732 12  1 Bf  -     -     -        10593  132    0 
+Motoman   907730790 11 11 f   -     -     -        10461    0    0 
+Motoman   907730895 11 10 crA -     -     -        10461 10461 2409 6c 3c
+Motoman   907730980 10  9 c   rA    -     -         2409 2409 5214 Jh 9h
+Motoman   907731044 10  8 f   -     -     -         5214    0    0 
+Motoman   907731150  9  6 c   k     k     bA        5214 5214 5742 
+Motoman   907731229  9  6 f   -     -     -         5742    0    0 
+Motoman   907731252  9  5 c   k     c     f         5742 1056    0 
+Motoman   907731358  8  3 f   -     -     -         4686    0    0 
+Motoman   907731396  8  3 f   -     -     -         4686    0    0 
+Motoman   907731429  8  2 Bf  -     -     -         4686  528    0 
+Motoman   907731460  8  1 Bc  k     k     b         4158 2112 4752 3s 3h
+Motoman   907731505  8  8 f   -     -     -         6798    0    0 
+Motoman   907731548  7  6 f   -     -     -         6798    0    0 
+Motoman   907731626  7  5 crA -     -     -         6798 6798 7920 Ad 5c
+Motoman   907731686  7  4 f   -     -     -         7920    0    0 
+Motoman   907731707  7  3 crA -     -     -         7920 7920 17424 3s Ac
+Motoman   907731772  7  2 Bk  k     k     k        17424 1056 2112 9s Kh
+Motoman   907731808  7  1 Bf  -     -     -        18480  528    0 
+Motoman   907731834  6  6 f   -     -     -        17952    0    0 
+Motoman   907731883  5  5 rA  -     -     -        17952 17952 4785 Qc Th
+Motoman   907731935  5  4 ccA -     -     -         4785 4785 10626 7d 7c
+Motoman   907732002  5  3 c   k     k     b        10626 7392 10560 
+Motoman   907732048  5  2 Bk  k     kf    -        13794 2112    0 
+Motoman   907732089  5  1 Bc  k     k     k        11682 2112 4224 8c Kd
+Motoman   907732131  5  5 f   -     -     -        13794    0    0 
+Motoman   907732148  4  3 c   rA    -     -        13794 13794 20020 Tc Qh
+Motoman   907732189  3  2 f   -     -     -        20020    0    0 
+Motoman   907732197  3  2 Bf  -     -     -        20020 2112    0 
+Motoman   907732210  3  1 Bc  kf    -     -        17908 2112    0 
+Motoman   907732224  3  3 f   -     -     -        15796    0    0 
+Motoman   907732241  3  2 Bf  -     -     -        15796 4224    0 
+Motoman   907732260  3  1 Bf  -     -     -        11572 2112    0 
+Motoman   907732269  3  3 f   -     -     -         9460    0    0 
+Motoman   907732277  3  2 Bk  k     k     k         9460 4224 4224 Tc 3h
+Motoman   907732303  3  1 Bf  -     -     -         9460 2112    0 
+Motoman   907732311  3  3 f   -     -     -         7348    0    0 
+Motoman   907732317  3  2 BcA -     -     -         7348 7348    0 Ac Js
+Motoman   908075348 15 15 c   k     k     k          500    2    0 Ks 7d
+Motoman   908075374 15 14 cc  cf    -     -          498  127    0 
+Motoman   908075424 15 13 c   c     k     k          371   12   24 Jh Jc
+Motoman   908075496 15 12 f   -     -     -          383    0    0 
+Motoman   908075567 14 10 f   -     -     -          383    0    0 
+Motoman   908075679 13  8 f   -     -     -          383    0    0 
+Motoman   908075718 13  8 f   -     -     -          383    0    0 
+Motoman   908075768 13  7 f   -     -     -          383    0    0 
+Motoman   908075823 13  6 f   -     -     -          383    0    0 
+Motoman   908075878 13  5 cc  kf    -     -          383   26    0 
+Motoman   908075918 13  4 f   -     -     -          357    0    0 
+Motoman   908075954 13  3 c   k     k     kf         357    4    0 
+Motoman   908075990 13  2 Bf  -     -     -          353    4    0 
+Motoman   908076030 13  1 Bf  -     -     -          349    2    0 
+Motoman   908076064 13 13 f   -     -     -          347    0    0 
+Motoman   908076097 13 12 c   k     crA   -          347  347  535 
+Motoman   908076163 13 11 f   -     -     -          535    0    0 
+Motoman   908076193 13 10 f   -     -     -          535    0    0 
+Motoman   908076225 12  9 f   -     -     -          535    0    0 
+Motoman   908076322 12  8 f   -     -     -          535    0    0 
+Motoman   908076362 12  7 f   -     -     -          535    0    0 
+Motoman   908076395 11  5 f   -     -     -          535    0    0 
+Motoman   908076436 11  4 cc  -     -     -          535  484    0 5c Ah
+Motoman   908076461 11  3 c   rA    -     -           51   51    0 Kh Qh
+Motoman   908508833 20 15 f   -     -     -         3000    0    0 
+Motoman   908508857 20 14 f   -     -     -         3000    0    0 
+Motoman   908508994 20 13 c   c     c     cA        3000 3000 6150 Ts Jh
+Motoman   908509051 19 11 c   c     k     c         6150  490    0 As Qs
+Motoman   908509169 19 10 crA -     -     -         5660 5660  960 Td Kh
+Motoman   908509238 18  9 f   -     -     -          960    0    0 
+Motoman   908509339 18  8 f   -     -     -          960    0    0 
+Motoman   908509444 17  7 cc  f     -     -          960  130    0 
+Motoman   908509547 17  6 c   k     b     bA         830  830 1310 
+Motoman   908509664 17  5 f   -     -     -         1310    0    0 
+Motoman   908509733 17  4 f   -     -     -         1310    0    0 
+Motoman   908509811 17  3 crA -     -     -         1310 1310    0 Ad 3d
+Motoman   908681257 23 15 cc  ccA   -     -        10000 10000 40250 8d 7d
+Motoman   908681360 20 13 f   -     -     -        40250    0    0 
+Motoman   908681413 18 11 c   f     -     -        40250  100    0 
+Motoman   908681496 18 10 c   c     f     -        40150 1725    0 
+Motoman   908681562 18  9 f   -     -     -        38425    0    0 
+Motoman   908681614 18  8 c   k     c     c        38425 5400    0 Ac 4c
+Motoman   908681689 18  7 c   c     c     f        33025 7700    0 
+Motoman   908681771 17  6 f   -     -     -        25325    0    0 
+Motoman   908681847 17  5 c   r     -     -        25325 12700 20975 7d 7c
+Motoman   908681901 16  3 c   kc    k     kf       33600 2200    0 
+Motoman   908681972 16  2 Bf  -     -     -        31400  400    0 
+Motoman   908682047 16  1 Bf  -     -     -        31000  200    0 
+Motoman   908682092 16 16 f   -     -     -        30800    0    0 
+Motoman   908682138 14 13 f   -     -     -        30800    0    0 
+Motoman   908682171 14 12 c   c     rA    -        30800 30800    0 6h 8h
+Motoman   908769663 12  1 Bf  -     -     -         1000    5    0 
+Motoman   908769679 12 12 c   k     c     k          995  120    0 Qh Tc
+Motoman   908769745 12 11 f   -     -     -          875    0    0 
+Motoman   908769803 12 10 c   kc    kf    -          875   60    0 
+Motoman   908770003 12  9 f   -     -     -          815    0    0 
+Motoman   908770069 12  8 c   f     -     -          815   20    0 
+Motoman   908770178 12  7 f   -     -     -          795    0    0 
+Motoman   908770236 12  6 crA -     -     -          795  795    0 Ah Qs
+Motoman   908774346 10  6 f   -     -     -        10000    0    0 
+Motoman   908774426 10  5 c   k     k     kc       10000  560 1440 Ah Jh
+Motoman   908774506 10  4 cf  -     -     -        10880   80    0 
+Motoman   908774575 10  3 f   -     -     -        10800    0    0 
+Motoman   908774651 10  2 Bk  kf    -     -        10800  160    0 
+Motoman   908774715  8  1 Bc  krA   -     -        10640 10640 7680 8c 6c
+Motoman   908774762  8  8 f   -     -     -         7680    0    0 
+Motoman   908774813  8  7 c   c     rA    -         7680 7680    0 9c As
+Motoman   908776293 10 10 c   k     k     c        10000 2070 6960 Jd Jc
+Motoman   908776393 10  9 f   -     -     -        14890    0    0 
+Motoman   908776439 10  8 c   k     k     c        14890  420 1080 Ts Tc
+Motoman   908776507 10  7 f   -     -     -        15550    0    0 
+Motoman   908776561 10  6 c   k     k     kc       15550  360  450 Ah Td
+Motoman   908776634 10  5 f   -     -     -        15640    0    0 
+Motoman   908776719 10  4 cc  kf    -     -        15640  330    0 
+Motoman   908776811 10  3 f   -     -     -        15310    0    0 
+Motoman   908776864 10  2 Bc  kf    -     -        15310  210    0 
+Motoman   908776948 10  1 Bc  kf    -     -        15100  120    0 
+Motoman   908777015  9  9 c   c     k     f        14980  320    0 
+Motoman   908777074  9  8 c   cr    bA    -        14660 14660    0 2d 5d
+Motoman   908860807 10  2 BrA -     -     -         5000 5000 10200 5c Kd
+Motoman   908861023 10  3 crcA -     -     -         5000 5000    0 Kd Ks
+Motoman   908862437  7  6 c   k     f     -       100000  800    0 
+Motoman   908862502  7  5 c   k     kc    kf       99200 4800    0 
+Motoman   908862571  7  4 f   -     -     -        94400    0    0 
+Motoman   908862636  7  3 c   k     k     kf       94400  800    0 
+Motoman   908862697  7  2 Bf  -     -     -        93600  800    0 
+Motoman   908862717  7  1 Bf  -     -     -        92800  800    0 
+Motoman   908862768  7  7 c   f     -     -        92000 1600    0 
+Motoman   908862801  7  6 c   c     rA    -        90400 90400 144800 
+Motoman   908862855  7  5 f   -     -     -       144800    0    0 
+Motoman   908862870  7  4 f   -     -     -       144800    0    0 
+Motoman   908862910  7  3 f   -     -     -       144800    0    0 
+Motoman   908862927  7  2 Bk  c     k     k       144800 8000    0 9c 8s
+Motoman   908862987  7  1 Bcc kf    -     -       136800 3200    0 
+Motoman   908863037  6  6 c   k     c     c       133600 67200    0 Ac 4d
+Motoman   908863141  6  5 crA -     -     -        66400 66400    0 6s Ac
+Motoman   909112701 17 17 c   k     k     b         5000  240  400 
+Motoman   909112819 17 16 f   -     -     -         5160    0    0 
+Motoman   909112892 17 15 cc  -     -     -         5160 4940 10020 As Ac
+Motoman   909112933 16 14 c   f     -     -        10240   80    0 
+Motoman   909113026 16 13 c   k     k     k        10160   40    0 8c Tc
+Motoman   909113134 15 11 cc  k     f     -        10120  400    0 
+Motoman   909113212 15 10 f   -     -     -         9720    0    0 
+Motoman   909113295 14  8 f   -     -     -         9720    0    0 
+Motoman   909113472 14  8 c   f     -     -         9720   80    0 
+Motoman   909113575 14  7 f   -     -     -         9640    0    0 
+Motoman   909113640 14  6 f   -     -     -         9640    0    0 
+Motoman   909113741 14  5 f   -     -     -         9640    0    0 
+Motoman   909113809 13  4 f   -     -     -         9640    0    0 
+Motoman   909113896 12  3 f   -     -     -         9640    0    0 
+Motoman   909113966 12  2 Bf  -     -     -         9640  320    0 
+Motoman   909113993 12  1 Bc  kf    -     -         9320  320    0 
+Motoman   909114075 12 12 c   c     k     f         9000 1320    0 
+Motoman   909114164 12 11 c   kc    k     k         7680 1760    0 4s 8s
+Motoman   909114224 12 10 f   -     -     -         5920    0    0 
+Motoman   909114268 11  8 f   -     -     -         5920    0    0 
+Motoman   909114356 11  7 f   -     -     -         5920    0    0 
+Motoman   909114399 11  6 f   -     -     -         5920    0    0 
+Motoman   909114486 10  4 f   -     -     -         5920    0    0 
+Motoman   909114539 10  4 f   -     -     -         5920    0    0 
+Motoman   909114567 10  3 f   -     -     -         5920    0    0 
+Motoman   909114695 10  2 BrA -     -     -         5920 5920 9040 Js Ts
+Motoman   909114742 10  1 Bc  kf    -     -         9040 2380    0 
+Motoman   909114796  9  9 f   -     -     -         6660    0    0 
+Motoman   909114842  8  7 f   -     -     -         6660    0    0 
+Motoman   909114887  8  6 f   -     -     -         6660    0    0 
+Motoman   909114928  7  4 f   -     -     -         6660    0    0 
+Motoman   909114977  7  4 f   -     -     -         6660    0    0 
+Motoman   909115032  7  3 c   kf    -     -         6660 1280    0 
+Motoman   909115090  7  2 Bk  krA   -     -         5380 5380    0 Th 6s
+Motoman   909115994 23  7 f   -     -     -         5000    0    0 
+Motoman   909116119 22  5 f   -     -     -         5000    0    0 
+Motoman   909116236 22  4 f   -     -     -         5000    0    0 
+Motoman   909116301 21  3 f   -     -     -         5000    0    0 
+Motoman   909116405 21  2 Bk  kf    -     -         5000   40    0 
+Motoman   909116491 21  1 Bf  -     -     -         4960   20    0 
+Motoman   909116646 21 21 f   -     -     -         4940    0    0 
+Motoman   909116792 21 20 rA  -     -     -         4940 4940  160 As 8d
+Motoman   909116853 20 18 cA  -     -     -          160  160    0 Kc Jh
+Motoman   909200855 23  9 ccA -     -     -         4000 4000    0 3h 3s
+Motoman   909204296 20 15 rAQ -     -     -         5000 5000    0 
+Motoman   909204572 22 12 c   k     c     k         5000  775    0 5s Js
+Motoman   909204690 22 11 f   -     -     -         4225    0    0 
+Motoman   909204761 20  9 f   -     -     -         4225    0    0 
+Motoman   909204883 20  8 ccA -     -     -         4225 4225    0 As 3s
+Motoman   909286630 19  6 f   -     -     -         5000    0    0 
+Motoman   909286728 16  5 c   kf    -     -         5000   50    0 
+Motoman   909286867 16  4 f   -     -     -         4950    0    0 
+Motoman   909286918 16  3 cc  kf    -     -         4950  275    0 
+Motoman   909287035 16  2 Bc  kc    kf    -         4675 1450    0 
+Motoman   909287154 16  1 Bc  k     k     bA        3225 3225 5525 
+Motoman   909287321 16 16 f   -     -     -         5525    0    0 
+Motoman   909287385 16 15 f   -     -     -         5525    0    0 
+Motoman   909287445 16 14 c   c     kcA   -         5525 5525    0 6h 9h
+Motoman   909383315 14  5 c   kc    k     kf        3000  225    0 
+Motoman   909383492 14  4 c   k     c     b         2775  630  900 
+Motoman   909383557 14  3 cc  kc    kf    -         3045  630    0 
+Motoman   909383649 14  2 Bf  -     -     -         2415   30    0 
+Motoman   909383727 12  1 Bf  -     -     -         2385   30    0 
+Motoman   909383776 12 12 c   c     c     cA        2355 2355    0 5s 5c
+Motoman   909462627 22 22 f   -     -     -         3500    0    0 
+Motoman   909462685 22 21 c   f     -     -         3500  135    0 
+Motoman   909462728 22 20 f   -     -     -         3365    0    0 
+Motoman   909462793 22 19 c   kf    -     -         3365   30    0 
+Motoman   909462882 22 18 f   -     -     -         3335    0    0 
+Motoman   909462974 22 17 f   -     -     -         3335    0    0 
+Motoman   909463066 22 16 c   f     -     -         3335   60    0 
+Motoman   909463174 22 15 f   -     -     -         3275    0    0 
+Motoman   909463272 21 13 f   -     -     -         3275    0    0 
+Motoman   909463479 18  9 ccA -     -     -         3275 3275    0 4h Ah
+Motoman   909464667 23 23 c   cA    -     -         3000 3000 9380 Kh Tc
+Motoman   909464864 21 20 f   -     -     -         9380    0    0 
+Motoman   909464969 21 20 f   -     -     -         9380    0    0 
+Motoman   909465059 21 19 c   f     -     -         9380  300    0 
+Motoman   909465158 20 17 f   -     -     -         9080    0    0 
+Motoman   909465220 20 16 f   -     -     -         9080    0    0 
+Motoman   909465308 19 14 f   -     -     -         9080    0    0 
+Motoman   909465402 18 12 f   -     -     -         9080    0    0 
+Motoman   909465484 18 11 f   -     -     -         9080    0    0 
+Motoman   909465589 17 10 cc  k     k     k         9080  380    0 Ad 6c
+Motoman   909465729 17  9 cf  -     -     -         8700   80    0 
+Motoman   909465820 17  8 c   kc    f     -         8620 1040    0 
+Motoman   909465897 17  7 f   -     -     -         7580    0    0 
+Motoman   909465955 16  6 f   -     -     -         7580    0    0 
+Motoman   909466050 16  5 f   -     -     -         7580    0    0 
+Motoman   909466126 16  4 cc  k     k     kf        7580  720    0 
+Motoman   909466233 16  3 cc  krA   -     -         6860 6860 1180 8s Js
+Motoman   909466302 16  2 Bk  bA    -     -         1180 1180 3000 Ts 7h
+Motoman   909466392 16  1 BrA -     -     -         3000 3000    0 Ah Kc
+Motoman   909552084 23 20 cf  -     -     -         1000  100    0 
+Motoman   909552176 20 16 f   -     -     -          900    0    0 
+Motoman   909552291 20 15 f   -     -     -          900    0    0 
+Motoman   909552343 20 14 f   -     -     -          900    0    0 
+Motoman   909552448 19 12 f   -     -     -          900    0    0 
+Motoman   909552527 18 11 f   -     -     -          900    0    0 
+Motoman   909552595 18 10 cf  -     -     -          900   20    0 
+Motoman   909552667 17  9 cc  kcA   -     -          880  880    0 5h As
+Motoman   909554564 15  5 f   -     -     -         5001    0    0 
+Motoman   909554620 15  4 f   -     -     -         5001    0    0 
+Motoman   909554728 15  3 f   -     -     -         5001    0    0 
+Motoman   909554808 15  2 Bf  -     -     -         5001   30    0 
+Motoman   909554899 15  1 Bf  -     -     -         4971   15    0 
+Motoman   909555021 15 15 f   -     -     -         4956    0    0 
+Motoman   909555162 15 14 f   -     -     -         4956    0    0 
+Motoman   909555209 15 13 f   -     -     -         4956    0    0 
+Motoman   909555330 15 12 f   -     -     -         4956    0    0 
+Motoman   909555374 15 11 f   -     -     -         4956    0    0 
+Motoman   909555501 14 10 f   -     -     -         4956    0    0 
+Motoman   909555587 12  8 f   -     -     -         4956    0    0 
+Motoman   909555713 12  7 f   -     -     -         4956    0    0 
+Motoman   909555771 12  6 f   -     -     -         4956    0    0 
+Motoman   909555836 12  5 f   -     -     -         4956    0    0 
+Motoman   909555898 12  4 f   -     -     -         4956    0    0 
+Motoman   909555946 12  3 f   -     -     -         4956    0    0 
+Motoman   909555978 12  2 Bf  -     -     -         4956  240    0 
+Motoman   909556000 12  1 Bf  -     -     -         4716  120    0 
+Motoman   909556053 11 11 f   -     -     -         4596    0    0 
+Motoman   909556104 11 11 f   -     -     -         4596    0    0 
+Motoman   909556156 10  9 f   -     -     -         4596    0    0 
+Motoman   909556181 10  8 f   -     -     -         4596    0    0 
+Motoman   909556206 10  7 f   -     -     -         4596    0    0 
+Motoman   909556244 10  6 f   -     -     -         4596    0    0 
+Motoman   909556280 10  5 f   -     -     -         4596    0    0 
+Motoman   909556321  9  4 f   -     -     -         4596    0    0 
+Motoman   909556364  8  3 f   -     -     -         4596    0    0 
+Motoman   909556412  7  2 Bk  kf    -     -         4596  480    0 
+Motoman   909556437  7  1 Bf  -     -     -         4116  240    0 
+Motoman   909556462  7  7 f   -     -     -         3876    0    0 
+Motoman   909556493  7  6 f   -     -     -         3876    0    0 
+Motoman   909556538  7  5 f   -     -     -         3876    0    0 
+Motoman   909556576  7  4 f   -     -     -         3876    0    0 
+Motoman   909556615  7  3 f   -     -     -         3876    0    0 
+Motoman   909556655  7  2 Bf  -     -     -         3876  960    0 
+Motoman   909556673  6  1 Bf  -     -     -         2916  480    0 
+Motoman   909556703  6  6 f   -     -     -         2436    0    0 
+Motoman   909556732  5  4 f   -     -     -         2436    0    0 
+Motoman   909556792  5  3 f   -     -     -         2436    0    0 
+Motoman   909556812  5  2 Bf  -     -     -         2436  960    0 
+Motoman   909556819  5  1 Bf  -     -     -         1476  480    0 
+Motoman   909556843  5  5 f   -     -     -          996    0    0 
+Motoman   909556878  5  4 f   -     -     -          996    0    0 
+Motoman   909556890  5  3 f   -     -     -          996    0    0 
+Motoman   909556912  5  2 BA  -     -     -          996  996    0 7h 2h
+Motoman   909720883 23 12 f   -     -     -         3000    0    0 
+Motoman   909720970 23 11 f   -     -     -         3000    0    0 
+Motoman   909721041 23 10 f   -     -     -         3000    0    0 
+Motoman   909721193 23  9 f   -     -     -         3000    0    0 
+Motoman   909721262 23  8 f   -     -     -         3000    0    0 
+Motoman   909721340 23  7 f   -     -     -         3000    0    0 
+Motoman   909721404 23  6 c   kf    -     -         3000   40    0 
+Motoman   909721544 22  4 f   -     -     -         2960    0    0 
+Motoman   909721640 22  4 f   -     -     -         2960    0    0 
+Motoman   909721690 21  3 c   kf    -     -         2960   40    0 
+Motoman   909721816 21  2 Bk  kf    -     -         2920   80    0 
+Motoman   909721910 21  1 Bc  kf    -     -         2840   80    0 
+Motoman   909722033 21 21 ccA -     -     -         2760 2760    0 Ah Jh
+Motoman   909725088 20  2 BcA -     -     -        10000 10000    0 Ad Ks

@@ -1,0 +1,797 @@
+Callerump 936472128 12  1 Bf  -     -     -         1000    5    0 
+Callerump 936472163 12 12 c   b     b     -          995  150  210 
+Callerump 936472230 12 11 f   -     -     -         1055    0    0 
+Callerump 936472308 12 10 f   -     -     -         1055    0    0 
+Callerump 936472341 12  9 f   -     -     -         1055    0    0 
+Callerump 936472390 12  8 f   -     -     -         1055    0    0 
+Callerump 936472426 11  7 c   c     f     -         1055  325    0 
+Callerump 936472482 11  6 f   -     -     -          730    0    0 
+Callerump 936472552 11  5 f   -     -     -          730    0    0 
+Callerump 936472587 11  4 f   -     -     -          730    0    0 
+Callerump 936472627 11  3 f   -     -     -          730    0    0 
+Callerump 936472710 11  2 Bc  kf    -     -          730   70    0 
+Callerump 936472756 11  1 Bc  kc    kf    -          660   70    0 
+Callerump 936472820 11 11 r   b     bA    -          590  590 1200 Ah Qc
+Callerump 936472863 11 10 f   -     -     -         1200    0    0 
+Callerump 936472894 11  9 c   b     b     bA        1200 1200 2060 
+Callerump 936472989 11  8 f   -     -     -         2060    0    0 
+Callerump 936473009 10  6 c   f     -     -         2060   40    0 
+Callerump 936473052  9  4 f   -     -     -         2020    0    0 
+Callerump 936473109  9  3 f   -     -     -         2020    0    0 
+Callerump 936473138  9  2 Bf  -     -     -         2020   80    0 
+Callerump 936473176  9  1 Bf  -     -     -         1940   40    0 
+Callerump 936473203  9  9 c   c     f     -         1900  760    0 
+Callerump 936473243  8  7 c   b     -     -         1140  320  480 
+Callerump 936473277  8  6 c   kf    -     -         1300   80    0 
+Callerump 936473322  7  5 f   -     -     -         1220    0    0 
+Callerump 936473359  7  4 c   f     -     -         1220   80    0 
+Callerump 936473392  7  3 f   -     -     -         1140    0    0 
+Callerump 936473406  7  2 B   -     -     -         1140   80  120 
+Callerump 936473418  7  1 Bc  k     k     k         1180   80  240 4d 7s
+Callerump 936473467  7  7 f   -     -     -         1340    0    0 
+Callerump 936473495  7  6 f   -     -     -         1340    0    0 
+Callerump 936473522  7  5 c   bA    -     -         1340 1340 2140 
+Callerump 936473559  7  4 f   -     -     -         2140    0    0 
+Callerump 936473572  7  3 cc  f     -     -         2140  640    0 
+Callerump 936473610  7  2 Bk  k     b     -         1500  800 1280 
+Callerump 936473653  7  1 Bc  kc    bA    -         1980 1980 4120 5s 5h
+Callerump 936473687  7  7 c   f     -     -         4120  560    0 
+Callerump 936473714  7  6 f   -     -     -         3560    0    0 
+Callerump 936473736  7  5 cc  -     -     -         3560 1310    0 7c 9c
+Callerump 936473757  7  4 f   -     -     -         2250    0    0 
+Callerump 936473773  7  3 r   -     -     -         2250 1120 1600 
+Callerump 936473785  7  2 Bk  kf    -     -         2730  320    0 
+Callerump 936473807  7  1 Bf  -     -     -         2410  160    0 
+Callerump 936473818  7  7 f   -     -     -         2250    0    0 
+Callerump 936473843  6  6 f   -     -     -         2250    0    0 
+Callerump 936473884  6  5 cc  c     -     -         2250 1680 3680 Jd Tc
+Callerump 936473911  5  4 cc  f     -     -         4250 1120    0 
+Callerump 936473937  5  3 cf  -     -     -         3130  320    0 
+Callerump 936473963  4  2 Bf  -     -     -         2810  320    0 
+Callerump 936473976  4  1 Bc  b     -     -         2490  960 1280 
+Callerump 936473994  4  4 c   b     -     -         2810 1120 1600 
+Callerump 936474012  4  3 f   -     -     -         3290    0    0 
+Callerump 936474029  4  2 Bf  -     -     -         3290  320    0 
+Callerump 936474040  4  1 Br  -     -     -         2970  960 1280 
+Callerump 936474056  4  4 c   b     -     -         3290 1120 1600 
+Callerump 936474081  4  3 cc  c     -     -         3770 2440 5200 5h 7h
+Callerump 936474100  3  1 Bk  k     bc    -         6530 2340 4680 Ts 8d
+Callerump 936474135  2  1 Bf  -     -     -         8870  320    0 
+Callerump 936474151  2  2 B   -     -     -         8550  640  960 
+Callerump 936474155  2  1 Bf  -     -     -         8870  320    0 
+Callerump 936474158  2  2 B   -     -     -         8550  640  960 
+Callerump 936474161  2  1 Br  -     -     -         8870 1920 2560 
+Callerump 936474182  2  2 Bc  -     -     -         9510 2490 4980 Ks 9s
+Callerump 936493955 23 19 f   -     -     -         5000    0    0 
+Callerump 936494084 20 16 f   -     -     -         5000    0    0 
+Callerump 936494248 18 13 f   -     -     -         5000    0    0 
+Callerump 936494364 18 13 cc  -     -     -         5000 4850    0 Ac Qd
+Callerump 936494417 18 12 f   -     -     -          150    0    0 
+Callerump 936494544 17 11 f   -     -     -          150    0    0 
+Callerump 936494681 17 10 c   cA    -     -          150  150    0 Tc Th
+Callerump 936497726 18 18 f   -     -     -         5000    0    0 
+Callerump 936497802 17 16 f   -     -     -         5000    0    0 
+Callerump 936497969 17 15 f   -     -     -         5000    0    0 
+Callerump 936498080 17 14 f   -     -     -         5000    0    0 
+Callerump 936498149 17 13 f   -     -     -         5000    0    0 
+Callerump 936498238 16 11 f   -     -     -         5000    0    0 
+Callerump 936498284 16 10 c   f     -     -         5000  100    0 
+Callerump 936498338 16  9 r   -     -     -         4900  450  700 
+Callerump 936498458 16  8 c   c     f     -         5150  600    0 
+Callerump 936498520 15  7 c   k     k     kf        4550  200    0 
+Callerump 936498598 15  6 f   -     -     -         4350    0    0 
+Callerump 936498699 15  5 cc  kf    -     -         4350  700    0 
+Callerump 936498781 15  4 f   -     -     -         3650    0    0 
+Callerump 936498926 15  3 f   -     -     -         3650    0    0 
+Callerump 936499049 15  2 Bk  k     kf    -         3650  400    0 
+Callerump 936499164 15  1 Bf  -     -     -         3250  200    0 
+Callerump 936499280 14 14 f   -     -     -         3050    0    0 
+Callerump 936499348 14 13 f   -     -     -         3050    0    0 
+Callerump 936499425 14 12 f   -     -     -         3050    0    0 
+Callerump 936499499 14 11 f   -     -     -         3050    0    0 
+Callerump 936499529 12  8 f   -     -     -         3050    0    0 
+Callerump 936499567 12  7 f   -     -     -         3050    0    0 
+Callerump 936499683 12  6 rA  -     -     -         3050 3050 5050 
+Callerump 936499717 12  5 f   -     -     -         5050    0    0 
+Callerump 936499754 12  4 f   -     -     -         5050    0    0 
+Callerump 936499799 12  3 f   -     -     -         5050    0    0 
+Callerump 936499835 11  2 Bf  -     -     -         5050 1600    0 
+Callerump 936499868 11  1 Bc  bA    -     -         3450 3450 8250 7h 6h
+Callerump 936499914 10 10 f   -     -     -         8250    0    0 
+Callerump 936499946 10  9 c   -     -     -         8250 3475 9350 Ah 8h
+Callerump 936499991  9  7 f   -     -     -        14125    0    0 
+Callerump 936500024  8  6 f   -     -     -        14125    0    0 
+Callerump 936500041  8  5 f   -     -     -        14125    0    0 
+Callerump 936500072  8  4 c   b     -     -        14125 8000 12800 
+Callerump 936500119  8  3 f   -     -     -        18925    0    0 
+Callerump 936500149  8  2 Br  -     -     -        18925 11200 16000 
+Callerump 936500203  8  1 Bc  k     k     k        23725 3200    0 Qd 8c
+Callerump 936500281  8  8 c   f     -     -        20525 3200    0 
+Callerump 936500377  7  6 f   -     -     -        17325    0    0 
+Callerump 936500392  7  5 f   -     -     -        17325    0    0 
+Callerump 936500419  7  4 c   b     -     -        17325 11200 5450 9d Jd
+Callerump 936500461  7  3 r   bA    -     -        11575 11575 27950 Qc Ah
+Callerump 936500502  7  2 B   -     -     -        27950 6400 2465 8d Ac
+Callerump 936500531  6  1 BrA -     -     -        24015 24015 12515 Ks Kd
+Callerump 936500564  6  6 f   -     -     -        12515    0    0 
+Callerump 936500611  5  5 c   cA    -     -        12515 12515 34630 Ts Qc
+Callerump 936500636  5  4 c   b     -     -        34630 21800 26900 8d Jd
+Callerump 936500678  5  3 r   -     -     -        39730 22400 13850 Ah Qd
+Callerump 936500695  4  2 Bk  k     kf    -        31180 6400    0 
+Callerump 936500725  4  1 Bc  k     kc    -        24780 6485 12970 Ad 8s
+Callerump 936500755  3  3 f   -     -     -        31265    0    0 
+Callerump 936500763  3  3 f   -     -     -        31265    0    0 
+Callerump 936500790  3  2 Bk  kc    bA    -        31265 31265 56600 4s Kc
+Callerump 936500841  2  1 Bf  -     -     -        56600 3200    0 
+Callerump 936500852  2  2 Bf  -     -     -        53400 6400    0 
+Callerump 936500858  2  1 Bf  -     -     -        47000 3200    0 
+Callerump 936500862  2  2 B   -     -     -        43800 6400 9600 
+Callerump 936500864  2  1 Bf  -     -     -        47000 6400    0 
+Callerump 936500868  2  2 Bf  -     -     -        40600 12800    0 
+Callerump 936500875  2  1 BrA -     -     -        27800 27800 40600 
+Callerump 936500881  2  2 Bc  c     -     -        40600 40200    0 Kh 8h
+Callerump 936500891  2  1 BA  -     -     -          400  400    0 3h 7d
+Callerump 936539348 10  1 Bc  bcA   -     -         1000 1000    0 2s Qs
+Callerump 936578799 22 11 f   -     -     -         5000    0    0 
+Callerump 936578909 22 10 f   -     -     -         5000    0    0 
+Callerump 936579035 22  9 cc  kf    -     -         5000  425    0 
+Callerump 936579159 22  8 f   -     -     -         4575    0    0 
+Callerump 936579238 22  7 rA  -     -     -         4575 4575 4725 
+Callerump 936579277 22  6 f   -     -     -         4725    0    0 
+Callerump 936579381 22  5 f   -     -     -         4725    0    0 
+Callerump 936579570 22  4 c   b     bA    -         4725 4725  725 3h Qh
+Callerump 936579675 22  3 f   -     -     -          725    0    0 
+Callerump 936579810 22  2 Bf  -     -     -          725  200    0 
+Callerump 936579991 22  1 Bc  k     k     kf         525  400    0 
+Callerump 936580133 22 22 f   -     -     -          125    0    0 
+Callerump 936580274 22 21 f   -     -     -          125    0    0 
+Callerump 936580480 21 19 f   -     -     -          125    0    0 
+Callerump 936580520 21 19 f   -     -     -          125    0    0 
+Callerump 936580650 20 17 f   -     -     -          125    0    0 
+Callerump 936580753 18 14 f   -     -     -          125    0    0 
+Callerump 936580826 16 11 f   -     -     -          125    0    0 
+Callerump 936580901 16 10 f   -     -     -          125    0    0 
+Callerump 936581031 16  9 f   -     -     -          125    0    0 
+Callerump 936581068 15  8 cA  -     -     -          125  125    0 Jh Jc
+Callerump 936582459 23  5 f   -     -     -         5000    0    0 
+Callerump 936582724 22  4 f   -     -     -         5000    0    0 
+Callerump 936582826 22  3 f   -     -     -         5000    0    0 
+Callerump 936582903 22  2 Bk  k     kf    -         5000  100    0 
+Callerump 936583005 22  1 Bf  -     -     -         4900   50    0 
+Callerump 936583083 22 22 f   -     -     -         4850    0    0 
+Callerump 936583167 22 21 f   -     -     -         4850    0    0 
+Callerump 936583238 20 18 f   -     -     -         4850    0    0 
+Callerump 936583324 19 16 c   f     -     -         4850 1100    0 
+Callerump 936583413 18 15 c   k     k     f         3750  200    0 
+Callerump 936583514 18 14 c   kf    -     -         3550  500    0 
+Callerump 936583632 18 13 f   -     -     -         3050    0    0 
+Callerump 936583722 18 12 f   -     -     -         3050    0    0 
+Callerump 936583788 14 10 f   -     -     -         3050    0    0 
+Callerump 936583829 14  9 c   f     -     -         3050  400    0 
+Callerump 936583920 14  8 cA  -     -     -         2650 2650    0 Kd Tc
+Callerump 936585790 22  6 f   -     -     -         5000    0    0 
+Callerump 936585976 21 11 f   -     -     -        10000    0    0 
+Callerump 936586137 21 10 f   -     -     -        10000    0    0 
+Callerump 936586301 21  9 rA  -     -     -        10000 10000 10800 Ac As
+Callerump 936586388 20  8 f   -     -     -        10800    0    0 
+Callerump 936586551 20  7 f   -     -     -        10800    0    0 
+Callerump 936586672 20  6 f   -     -     -        10800    0    0 
+Callerump 936586765 20  5 f   -     -     -        10800    0    0 
+Callerump 936586905 18  4 f   -     -     -        10800    0    0 
+Callerump 936587021 18  3 f   -     -     -        10800    0    0 
+Callerump 936587087 16  2 Bk  k     k     k        10800  200    0 Ts 4c
+Callerump 936587186 16  1 Bc  kf    -     -        10600  400    0 
+Callerump 936587256 16 16 f   -     -     -        10200    0    0 
+Callerump 936587410 16 15 f   -     -     -        10200    0    0 
+Callerump 936587452 16 14 f   -     -     -        10200    0    0 
+Callerump 936587581 15 13 f   -     -     -        10200    0    0 
+Callerump 936587693 15 12 f   -     -     -        10200    0    0 
+Callerump 936587767 15 11 c   rA    -     -        10200 10200 32200 Ts Ac
+Callerump 936587844 15 10 f   -     -     -        32200    0    0 
+Callerump 936587915 14  8 f   -     -     -        32200    0    0 
+Callerump 936587983 12  7 c   f     -     -        32200  800    0 
+Callerump 936588025 12  6 c   k     f     -        31400  800    0 
+Callerump 936588074 12  5 f   -     -     -        30600    0    0 
+Callerump 936588132 12  4 c   kf    -     -        30600  800    0 
+Callerump 936588238 12  3 f   -     -     -        29800    0    0 
+Callerump 936588264 12  2 Bk  kf    -     -        29800 1600    0 
+Callerump 936588364 11  1 Bf  -     -     -        28200  800    0 
+Callerump 936588417 11 11 f   -     -     -        27400    0    0 
+Callerump 936588449 11 10 c   rA    -     -        27400 27400    0 Qh Th
+Callerump 936589788 18 17 f   -     -     -         5000    0    0 
+Callerump 936589919 17 15 f   -     -     -         5000    0    0 
+Callerump 936589989 15 13 f   -     -     -         5000    0    0 
+Callerump 936590124 15 12 f   -     -     -         5000    0    0 
+Callerump 936590195 15 11 f   -     -     -         5000    0    0 
+Callerump 936590329 15 10 f   -     -     -         5000    0    0 
+Callerump 936590386 14  8 cf  -     -     -         5000  100    0 
+Callerump 936590499 13  7 f   -     -     -         4900    0    0 
+Callerump 936590596 13  6 c   kf    -     -         4900  200    0 
+Callerump 936590668 11  5 f   -     -     -         4700    0    0 
+Callerump 936590695 11  4 f   -     -     -         4700    0    0 
+Callerump 936590740 11  3 f   -     -     -         4700    0    0 
+Callerump 936590783 11  2 Bk  k     k     r         4700 3400 7200 5s 3s
+Callerump 936590881 11  1 Bf  -     -     -         8500  200    0 
+Callerump 936590945 10 10 f   -     -     -         8300    0    0 
+Callerump 936590980 10  9 r   bA    -     -         8300 8300 2600 Qh As
+Callerump 936591012 10  8 f   -     -     -         2600    0    0 
+Callerump 936591043 10  7 c   bA    -     -         2600 2600 8400 7h Ah
+Callerump 936591084 10  6 f   -     -     -         8400    0    0 
+Callerump 936591135  9  5 f   -     -     -         8400    0    0 
+Callerump 936591173  9  4 c   f     -     -         8400  400    0 
+Callerump 936591230  9  3 f   -     -     -         8000    0    0 
+Callerump 936591254  9  2 Bk  kf    -     -         8000  800    0 
+Callerump 936591294  9  1 Bc  b     -     -         7200 3200 4800 
+Callerump 936591353  9  9 f   -     -     -         8800    0    0 
+Callerump 936591389  9  8 c   c     -     -         8800 3600    0 2s 2c
+Callerump 936591432  9  7 f   -     -     -         5200    0    0 
+Callerump 936591479  9  6 f   -     -     -         5200    0    0 
+Callerump 936591518  8  5 cc  k     f     -         5200 2525    0 
+Callerump 936591567  7  4 f   -     -     -         2675    0    0 
+Callerump 936591589  7  3 rA  -     -     -         2675 2675    0 Ad Ac
+Callerump 936661591 23  4 f   -     -     -         5000    0    0 
+Callerump 936661720 23  3 rA  -     -     -         5000 5000 10075 As Ah
+Callerump 936661808 22  2 Bk  kf    -     -        10075   50    0 
+Callerump 936661924 22  1 Bf  -     -     -        10025   25    0 
+Callerump 936661961 21 21 f   -     -     -        10000    0    0 
+Callerump 936662075 21 20 c   k     c     f        10000  400    0 
+Callerump 936662238 21 19 f   -     -     -         9600    0    0 
+Callerump 936662287 19 16 f   -     -     -         9600    0    0 
+Callerump 936662369 19 15 f   -     -     -         9600    0    0 
+Callerump 936662443 18 13 f   -     -     -         9600    0    0 
+Callerump 936662516 18 12 f   -     -     -         9600    0    0 
+Callerump 936662604 18 11 f   -     -     -         9600    0    0 
+Callerump 936662723 17 10 f   -     -     -         9600    0    0 
+Callerump 936662820 17  9 c   k     b     -         9600  900 1400 
+Callerump 936662928 17  8 cf  -     -     -        10100  400    0 
+Callerump 936662984 16  7 f   -     -     -         9700    0    0 
+Callerump 936663101 16  6 f   -     -     -         9700    0    0 
+Callerump 936663188 16  5 f   -     -     -         9700    0    0 
+Callerump 936663299 13  3 f   -     -     -         9700    0    0 
+Callerump 936663390 13  3 f   -     -     -         9700    0    0 
+Callerump 936663454 12  2 Bk  k     f     -         9700  800    0 
+Callerump 936663549 12  1 Bf  -     -     -         8900  400    0 
+Callerump 936663598 12 12 f   -     -     -         8500    0    0 
+Callerump 936663641 12 11 f   -     -     -         8500    0    0 
+Callerump 936663683 12 10 f   -     -     -         8500    0    0 
+Callerump 936663725 12  9 f   -     -     -         8500    0    0 
+Callerump 936663789 11  7 c   k     b     -         8500 6350 9500 Qd Jc
+Callerump 936663849 10  6 f   -     -     -        11650    0    0 
+Callerump 936663901  9  5 f   -     -     -        11650    0    0 
+Callerump 936663937  9  4 f   -     -     -        11650    0    0 
+Callerump 936663996  8  2 f   -     -     -        11650    0    0 
+Callerump 936664048  8  2 Bk  b     bA    -        11650 11650 24100 6s As
+Callerump 936664111  8  1 Bc  k     k     kf       24100 1600    0 
+Callerump 936664201  8  8 f   -     -     -        22500    0    0 
+Callerump 936664212  8  7 f   -     -     -        22500    0    0 
+Callerump 936664247  8  6 f   -     -     -        22500    0    0 
+Callerump 936664298  8  5 cc  c     -     -        22500 20550    0 As Td
+Callerump 936664365  7  4 f   -     -     -         1950    0    0 
+Callerump 936664417  6  2 BA  -     -     -         1950 1950    0 6h 8d
+Callerump 936665006 20  8 r   bA    -     -          666  666 2007 Qs Qd
+Callerump 936665102 18  7 c   b     k     k         2007   39   99 Qd Tc
+Callerump 936665289 18  6 f   -     -     -         2067    0    0 
+Callerump 936665457 18  5 f   -     -     -         2067    0    0 
+Callerump 936665535 18  4 f   -     -     -         2067    0    0 
+Callerump 936665574 18  3 f   -     -     -         2067    0    0 
+Callerump 936665705 18  2 Bf  -     -     -         2067   12    0 
+Callerump 936665849 16  1 Bc  kf    -     -         2055   24    0 
+Callerump 936665966 15 15 c   k     k     k         2031   24    0 Jh Tc
+Callerump 936666078 15 14 f   -     -     -         2007    0    0 
+Callerump 936666200 15 13 c   k     b     -         2007  402  588 Qd Kc
+Callerump 936666305 15 12 c   k     cc    -         2193  780 1944 9h Kh
+Callerump 936666429 14 11 f   -     -     -         3357    0    0 
+Callerump 936666470 14 10 cc  cc    -     -         3357  786    0 Js Qs
+Callerump 936666612 13  8 cf  -     -     -         2571   48    0 
+Callerump 936666718 12  7 f   -     -     -         2523    0    0 
+Callerump 936666818 10  5 f   -     -     -         2523    0    0 
+Callerump 936666851 10  5 f   -     -     -         2523    0    0 
+Callerump 936666931 10  4 f   -     -     -         2523    0    0 
+Callerump 936666949 10  3 cc  -     -     -         2523  594 1332 Ts Ah
+Callerump 936667013  9  2 Bk  f     -     -         3261   96    0 
+Callerump 936667082  9  1 Br  -     -     -         3165 1884 3345 Qd Qh
+Callerump 936667121  6  6 f   -     -     -         4626    0    0 
+Callerump 936667148  6  5 f   -     -     -         4626    0    0 
+Callerump 936667181  6  4 c   b     -     -         4626  960  486 8s Ah
+Callerump 936667256  6  3 f   -     -     -         4152    0    0 
+Callerump 936667279  6  2 Brc -     -     -         4152 1044 2376 Jh Kh
+Callerump 936667318  5  1 Bf  -     -     -         5484   96    0 
+Callerump 936667352  5  5 f   -     -     -         5388    0    0 
+Callerump 936667379  5  4 c   b     -     -         5388  768 1152 
+Callerump 936667431  5  3 f   -     -     -         5772    0    0 
+Callerump 936667525  4  1 Bk  kf    -     -         5772  384    0 
+Callerump 936667571  4  1 Br  -     -     -         5388 1152 1536 
+Callerump 936667592  4  4 f   -     -     -         5772    0    0 
+Callerump 936667634  3  2 Bk  k     b     -         5772 1152 1536 
+Callerump 936667717  3  1 Bf  -     -     -         6156  192    0 
+Callerump 936667737  3  3 r   -     -     -         5964 1344 1920 
+Callerump 936667775  3  2 Brc c     -     -         6540 6312 13092 Ks Qc
+Callerump 936740647 18  4 f   -     -     -        10000    0    0 
+Callerump 936740777 18  3 f   -     -     -        10000    0    0 
+Callerump 936740887 17  2 Bcf -     -     -        10000  275    0 
+Callerump 936740961 17  1 Bf  -     -     -         9725   50    0 
+Callerump 936741125 16 16 c   f     -     -         9675  500    0 
+Callerump 936741204 16 15 f   -     -     -         9175    0    0 
+Callerump 936741326 16 14 f   -     -     -         9175    0    0 
+Callerump 936741375 16 13 f   -     -     -         9175    0    0 
+Callerump 936741450 16 12 r   f     -     -         9175  900    0 
+Callerump 936741507 16 11 f   -     -     -         8275    0    0 
+Callerump 936741568 15  9 f   -     -     -         8275    0    0 
+Callerump 936741627 15  8 f   -     -     -         8275    0    0 
+Callerump 936741658 14  6 cc  bA    -     -         8275 8275 23450 6s 6d
+Callerump 936741731 13  7 f   -     -     -        23450    0    0 
+Callerump 936741781 12  5 cc  kf    -     -        23450 2400    0 
+Callerump 936741882 11  4 f   -     -     -        21050    0    0 
+Callerump 936741933 11  3 f   -     -     -        21050    0    0 
+Callerump 936741974 11  2 Brc bA    -     -        21050 21050    0 Qs Ac
+Callerump 936744265 23  4 f   -     -     -         3000    0    0 
+Callerump 936744361 22  3 f   -     -     -         3000    0    0 
+Callerump 936744462 19  2 Bk  k     f     -         3000   30    0 
+Callerump 936744577 19  1 Bf  -     -     -         2970   15    0 
+Callerump 936744622 19 19 f   -     -     -         2955    0    0 
+Callerump 936744673 19 18 cc  bcA   -     -         2955 2955    0 2c 4c
+Callerump 936747546 16  4 f   -     -     -         2000    0    0 
+Callerump 936747687 15  2 Bc  bcA   -     -         2000 2000    0 7h Ah
+Callerump 936750973 14 13 f   -     -     -         5000    0    0 
+Callerump 936751119 14 12 c   k     k     f         5000   70    0 
+Callerump 936751198 14 11 c   k     k     k         4930   70  210 Ac 6h
+Callerump 936751268 14 10 f   -     -     -         5070    0    0 
+Callerump 936751327 14  9 f   -     -     -         5070    0    0 
+Callerump 936751438 13  7 c   kc    kf    -         5070  770    0 
+Callerump 936751518 12  6 f   -     -     -         4300    0    0 
+Callerump 936751589 12  5 f   -     -     -         4300    0    0 
+Callerump 936751647 12  4 c   k     kf    -         4300  140    0 
+Callerump 936751708 12  3 rA  -     -     -         4160 4160    0 Qc Ad
+Callerump 936839857 19  5 f   -     -     -         5000    0    0 
+Callerump 936839935 19  4 cf  -     -     -         5000   50    0 
+Callerump 936839993 18  3 c   bc    b     -         4950 2975 4050 
+Callerump 936840078 18  2 Bf  -     -     -         6025   50    0 
+Callerump 936840205 18  1 Bc  b     -     -         5975 3450 4700 9c 9h
+Callerump 936840268 17 17 c   f     -     -         7225  550    0 
+Callerump 936840400 17 16 f   -     -     -         6675    0    0 
+Callerump 936840520 17 15 c   k     b     c         6675 1900    0 As 7h
+Callerump 936840625 17 14 f   -     -     -         4775    0    0 
+Callerump 936840746 16 12 f   -     -     -         4775    0    0 
+Callerump 936840870 16 11 c   f     -     -         4775  700    0 
+Callerump 936840946 15  9 f   -     -     -         4075    0    0 
+Callerump 936841026 15  8 f   -     -     -         4075    0    0 
+Callerump 936841150 14  7 f   -     -     -         4075    0    0 
+Callerump 936841203 14  6 f   -     -     -         4075    0    0 
+Callerump 936841272 14  5 f   -     -     -         4075    0    0 
+Callerump 936841325 13  4 c   k     b     -         4075 1800 2800 
+Callerump 936841435 13  3 f   -     -     -         5075    0    0 
+Callerump 936841532 13  2 Bk  kf    -     -         5075  800    0 
+Callerump 936841586 13  1 Br  -     -     -         4275 2400 3200 
+Callerump 936841612 13 13 f   -     -     -         5075    0    0 
+Callerump 936841651 12 11 r   bA    -     -         5075 5075 1475 Kd Qd
+Callerump 936841697 12 11 f   -     -     -         1475    0    0 
+Callerump 936841741 12 10 f   -     -     -         1475    0    0 
+Callerump 936841793 12  9 f   -     -     -         1475    0    0 
+Callerump 936841815 12  8 f   -     -     -         1475    0    0 
+Callerump 936841868 11  6 cA  -     -     -         1475 1475    0 Td Kd
+Callerump 936889138 13  8 c   kf    -     -        10000   50    0 
+Callerump 936889212 12  7 f   -     -     -         9950    0    0 
+Callerump 936889252 12  6 cc  kf    -     -         9950 3050    0 
+Callerump 936889290 12  5 r   bc    bA    -         6900 6900 14025 As Ts
+Callerump 936889326 12  4 f   -     -     -        14025    0    0 
+Callerump 936889377 12  3 f   -     -     -        14025    0    0 
+Callerump 936889427 12  2 Br  -     -     -        14025 10049 18099 Ks Kh
+Callerump 936889463 11  1 Bc  k     kf    -        22075  100    0 
+Callerump 936889517 11 11 f   -     -     -        21975    0    0 
+Callerump 936889556 11 10 cc  f     -     -        21975 1200    0 
+Callerump 936889620 11  9 c   f     -     -        20775  100    0 
+Callerump 936889666 11  8 f   -     -     -        20675    0    0 
+Callerump 936889692 11  7 c   c     c     k        20675 3750    0 Qc 5c
+Callerump 936889730 11  6 f   -     -     -        16925    0    0 
+Callerump 936889840 11  5 f   -     -     -        16925    0    0 
+Callerump 936889847 11  4 f   -     -     -        16925    0    0 
+Callerump 936889886 11  3 f   -     -     -        16925    0    0 
+Callerump 936889929 11  2 Bf  -     -     -        16925  200    0 
+Callerump 936889946 11  1 Bf  -     -     -        16725  100    0 
+Callerump 936889964 11 11 f   -     -     -        16625    0    0 
+Callerump 936889975 11 10 f   -     -     -        16625    0    0 
+Callerump 936890004 10  8 f   -     -     -        16625    0    0 
+Callerump 936890041 10  7 f   -     -     -        16625    0    0 
+Callerump 936890147 10  6 f   -     -     -        16625    0    0 
+Callerump 936890159 10  5 f   -     -     -        16625    0    0 
+Callerump 936890196 10  4 f   -     -     -        16625    0    0 
+Callerump 936890214 10  3 f   -     -     -        16625    0    0 
+Callerump 936890285 10  2 Bf  -     -     -        16625  400    0 
+Callerump 936890325 10  1 Bf  -     -     -        16225  200    0 
+Callerump 936890341 10 10 c   c     rA    -        16025 16025 31750 Jc Jd
+Callerump 936890378  9  8 c   b     -     -        31750 1400 2000 
+Callerump 936890405  9  7 f   -     -     -        32350    0    0 
+Callerump 936890427  9  6 f   -     -     -        32350    0    0 
+Callerump 936890437  9  5 c   b     -     -        32350 2000 3200 
+Callerump 936890469  9  4 cc  kf    -     -        33550 3600    0 
+Callerump 936890506  9  3 f   -     -     -        29950    0    0 
+Callerump 936890518  9  2 Bk  k     k     k        29950  800 1600 Ah 5c
+Callerump 936890545  9  1 Bf  -     -     -        30750  400    0 
+Callerump 936890592  9  9 f   -     -     -        30350    0    0 
+Callerump 936890628  9  8 f   -     -     -        30350    0    0 
+Callerump 936890659  9  7 c   c     c     -        30350 7050 15300 3d Ac
+Callerump 936890697  8  5 c   k     k     k        38600  800    0 Ad 6h
+Callerump 936890729  8  4 c   k     c     c        37800 4400    0 As 2c
+Callerump 936890771  8  3 f   -     -     -        33400    0    0 
+Callerump 936890788  8  2 Bk  k     k     k        33400 1600    0 7s 9c
+Callerump 936890821  8  1 Bf  -     -     -        31800  800    0 
+Callerump 936890856  8  8 cc  -     -     -        31000 6325 14250 7h As
+Callerump 936890884  7  6 c   c     f     -        38925 6400    0 
+Callerump 936890929  7  6 c   k     k     k        32525 1600 2000 3d As
+Callerump 936890957  7  5 f   -     -     -        32925    0    0 
+Callerump 936890985  7  4 f   -     -     -        32925    0    0 
+Callerump 936891000  7  3 f   -     -     -        32925    0    0 
+Callerump 936891010  7  2 Bk  k     k     f        32925 1600    0 
+Callerump 936891035  7  1 Bc  b     -     -        31325 11200 2525 Ad Td
+Callerump 936891055  7  7 f   -     -     -        22650    0    0 
+Callerump 936891073  7  6 c   b     bA    -        22650 22650 41525 5h Jh
+Callerump 936891117  6  4 f   -     -     -        41525    0    0 
+Callerump 936891132  6  4 f   -     -     -        41525    0    0 
+Callerump 936891147  6  3 c   c     c     -        41525 18950 19750 6d Jd
+Callerump 936891171  6  2 Bk  kf    -     -        42325 3200    0 
+Callerump 936891197  6  1 Bc  b     -     -        39125 12800 19200 
+Callerump 936891219  6  6 c   b     -     -        45525 14400 22400 
+Callerump 936891253  6  5 c   f     -     -        53525 3200    0 
+Callerump 936891274  6  4 f   -     -     -        50325    0    0 
+Callerump 936891278  6  3 c   k     b     -        50325 11700 10700 Jd Qc
+Callerump 936891306  6  2 Bf  -     -     -        49325 3200    0 
+Callerump 936891324  6  1 Bf  -     -     -        46125 1600    0 
+Callerump 936891338  6  6 c   bc    -     -        44525 20200    0 7c Qc
+Callerump 936891364  5  4 cc  -     -     -        24325 20750    0 7c Kc
+Callerump 936891385  4  2 BA  -     -     -         3575 3575 7150 5c Tc
+Callerump 936891400  4  1 Bf  -     -     -         7150 3200    0 
+Callerump 936891415  4  4 cA  -     -     -         3950 3950    0 5d Ac
+Callerump 937104703 23 16 f   -     -     -         5000    0    0 
+Callerump 937104834 19 13 cf  -     -     -         5000  175    0 
+Callerump 937104936 18 11 f   -     -     -         4825    0    0 
+Callerump 937104975 17 11 cc  f     -     -         4825  450    0 
+Callerump 937105078 17 10 f   -     -     -         4375    0    0 
+Callerump 937105189 17  9 f   -     -     -         4375    0    0 
+Callerump 937105349 16  8 f   -     -     -         4375    0    0 
+Callerump 937105534 16  7 c   k     k     k         4375  200    0 Td Jd
+Callerump 937105654 16  6 c   f     -     -         4175  200    0 
+Callerump 937105758 16  5 f   -     -     -         3975    0    0 
+Callerump 937105876 16  4 f   -     -     -         3975    0    0 
+Callerump 937105992 16  3 f   -     -     -         3975    0    0 
+Callerump 937106092 16  2 Bf  -     -     -         3975  400    0 
+Callerump 937106174 16  1 Bc  kf    -     -         3575  400    0 
+Callerump 937106324 16 16 f   -     -     -         3175    0    0 
+Callerump 937106426 16 15 f   -     -     -         3175    0    0 
+Callerump 937106541 16 14 f   -     -     -         3175    0    0 
+Callerump 937106633 14 11 c   k     kf    -         3175  800    0 
+Callerump 937106796 14 10 f   -     -     -         2375    0    0 
+Callerump 937106930 13  9 f   -     -     -         2375    0    0 
+Callerump 937106973 12  8 f   -     -     -         2375    0    0 
+Callerump 937107015 12  7 f   -     -     -         2375    0    0 
+Callerump 937107118 12  6 f   -     -     -         2375    0    0 
+Callerump 937107281 12  5 f   -     -     -         2375    0    0 
+Callerump 937107306 12  4 f   -     -     -         2375    0    0 
+Callerump 937107418 12  3 f   -     -     -         2375    0    0 
+Callerump 937107516 10  2 BA  -     -     -         2375 2375    0 Ac 9h
+Callerump 937108600 23  6 cf  -     -     -         5000   50    0 
+Callerump 937108710 21  4 f   -     -     -         4950    0    0 
+Callerump 937108899 21  3 f   -     -     -         4950    0    0 
+Callerump 937109048 20  2 Bf  -     -     -         4950  100    0 
+Callerump 937109154 18  1 Bf  -     -     -         4850   50    0 
+Callerump 937109258 18 18 c   f     -     -         4800  100    0 
+Callerump 937109438 15 14 f   -     -     -         4700    0    0 
+Callerump 937109516 14 12 c   f     -     -         4700  200    0 
+Callerump 937109617 14 11 f   -     -     -         4500    0    0 
+Callerump 937109650 13  9 f   -     -     -         4500    0    0 
+Callerump 937109736 12  8 r   -     -     -         4500 4499 5199 
+Callerump 937109782 12  7 f   -     -     -         5200    0    0 
+Callerump 937109907 12  6 f   -     -     -         5200    0    0 
+Callerump 937109982 12  5 f   -     -     -         5200    0    0 
+Callerump 937110067 12  4 c   k     k     f         5200  400    0 
+Callerump 937110134 11  2 f   -     -     -         4800    0    0 
+Callerump 937110169 11  2 Bk  kf    -     -         4800  800    0 
+Callerump 937110232 11  1 Bf  -     -     -         4000  400    0 
+Callerump 937110264 11 11 f   -     -     -         3600    0    0 
+Callerump 937110303 11 10 f   -     -     -         3600    0    0 
+Callerump 937110451 11  9 f   -     -     -         3600    0    0 
+Callerump 937110507 11  8 rA  -     -     -         3600 3600 6000 
+Callerump 937110532 11  7 f   -     -     -         6000    0    0 
+Callerump 937110556 11  6 f   -     -     -         6000    0    0 
+Callerump 937110671 10  5 f   -     -     -         6000    0    0 
+Callerump 937110708 10  4 c   k     kf    -         6000 1600    0 
+Callerump 937110769 10  3 rA  -     -     -         4400 4400 10150 Kc Kh
+Callerump 937110789  9  1 Bf  -     -     -        10150 1600    0 
+Callerump 937110828  8  1 Bc  k     k     k         8550 1600 3200 Jd 9h
+Callerump 937110872  8  8 f   -     -     -        10150    0    0 
+Callerump 937110906  8  7 f   -     -     -        10150    0    0 
+Callerump 937110922  8  6 f   -     -     -        10150    0    0 
+Callerump 937111002  8  5 c   bA    -     -        10150 10150 16550 
+Callerump 937111046  8  4 f   -     -     -        16550    0    0 
+Callerump 937111065  8  3 f   -     -     -        16550    0    0 
+Callerump 937111103  7  2 Bf  -     -     -        16550 3200    0 
+Callerump 937111131  6  1 Bf  -     -     -        13350 1600    0 
+Callerump 937111157  6  6 f   -     -     -        11750    0    0 
+Callerump 937111181  5  5 r   -     -     -        11750 11200 16000 
+Callerump 937111202  5  4 f   -     -     -        16550    0    0 
+Callerump 937111299  5  3 cc  -     -     -        16550 14725    0 8h 8d
+Callerump 937111331  5  2 BA  -     -     -         1825 1825    0 Ac 8c
+Callerump 937185397 21  5 f   -     -     -        10000    0    0 
+Callerump 937185561 18  4 f   -     -     -        10000    0    0 
+Callerump 937185702 18  3 f   -     -     -        10000    0    0 
+Callerump 937185807 17  2 Bf  -     -     -        10000  200    0 
+Callerump 937185885 15  1 Bc  kf    -     -         9800  200    0 
+Callerump 937186083 14 14 c   c     f     -         9600 1600    0 
+Callerump 937186180 13 12 r   f     -     -         8000 2400    0 
+Callerump 937186288 13 12 c   bcA   -     -         5600 5600 12200 5s 4s
+Callerump 937186348 13 11 f   -     -     -        12200    0    0 
+Callerump 937186444 12  9 f   -     -     -        12200    0    0 
+Callerump 937186551 12  8 cc  k     f     -        12200 2000    0 
+Callerump 937186649 11  6 f   -     -     -        10200    0    0 
+Callerump 937186797 11  6 c   k     k     k        10200  800    0 Qs Kc
+Callerump 937186861 11  5 cc  f     -     -         9400 6800    0 
+Callerump 937186920 11  4 f   -     -     -         2600    0    0 
+Callerump 937186958 11  3 f   -     -     -         2600    0    0 
+Callerump 937186978 11  2 Bk  kf    -     -         2600 1600    0 
+Callerump 937187015 11  1 Bf  -     -     -         1000  800    0 
+Callerump 937187033 11 11 cA  -     -     -          200  200    0 Td Kd
+Callerump 937269318 20 10 f   -     -     -         5000    0    0 
+Callerump 937269453 20  9 cc  f     -     -         5000 3425    0 
+Callerump 937269593 19  8 f   -     -     -         1575    0    0 
+Callerump 937269832 18  7 f   -     -     -         1575    0    0 
+Callerump 937269999 18  6 f   -     -     -         1575    0    0 
+Callerump 937270088 17  5 r   k     kf    -         1575  350    0 
+Callerump 937270213 16  4 f   -     -     -         1225    0    0 
+Callerump 937270309 16  3 c   k     k     f         1225  200    0 
+Callerump 937270384 16  2 Bk  k     f     -         1025  200    0 
+Callerump 937270512 16  1 Bc  bcA   -     -          825  825    0 Jc Tc
+Callerump 937282316 15  6 r   rA    -     -         5000 5000    0 As Kh
+Callerump 937423334 14  3 c   c     c     kf        5000 1800    0 
+Callerump 937423482 13  2 Bk  kf    -     -         3200   50    0 
+Callerump 937423574 13  1 Bf  -     -     -         3150   25    0 
+Callerump 937423633 13 13 f   -     -     -         3125    0    0 
+Callerump 937423679 13 12 c   f     -     -         3125  100    0 
+Callerump 937423734 13 11 f   -     -     -         3025    0    0 
+Callerump 937423872 13 10 c   f     -     -         3025  450    0 
+Callerump 937423922 13  9 rcA -     -     -         2575 2575 10800 Kd Qd
+Callerump 937423981 11  8 f   -     -     -        10800    0    0 
+Callerump 937424080 11  7 f   -     -     -        10800    0    0 
+Callerump 937424117 11  6 f   -     -     -        10800    0    0 
+Callerump 937424200 11  5 r   b     b     -        10800 9300 13950 Ts Td
+Callerump 937424270 10  3 f   -     -     -        15450    0    0 
+Callerump 937424298 10  2 Bf  -     -     -        15450  200    0 
+Callerump 937424357 10  1 Bc  kf    -     -        15250  200    0 
+Callerump 937424413 10 10 f   -     -     -        15050    0    0 
+Callerump 937424431 10  9 f   -     -     -        15050    0    0 
+Callerump 937424471 10  8 c   f     -     -        15050  400    0 
+Callerump 937424502 10  7 f   -     -     -        14650    0    0 
+Callerump 937424526 10  6 f   -     -     -        14650    0    0 
+Callerump 937424554 10  5 f   -     -     -        14650    0    0 
+Callerump 937424579 10  4 f   -     -     -        14650    0    0 
+Callerump 937424607  9  2 Bk  f     -     -        14650  400    0 
+Callerump 937424637  9  1 Bc  k     kc    k        14250 4600 9600 Ah 3h
+Callerump 937424677  9  9 c   c     f     -        19250 2400    0 
+Callerump 937424740  9  8 c   b     -     -        16850 4800 6800 
+Callerump 937424779  9  7 c   b     -     -        18850 3200 4800 
+Callerump 937424809  9  6 rc  kc    -     -        20450 10175    0 Ac Qs
+Callerump 937424850  9  5 f   -     -     -        10275    0    0 
+Callerump 937424912  9  4 f   -     -     -        10275    0    0 
+Callerump 937424950  8  3 f   -     -     -        10275    0    0 
+Callerump 937424986  8  2 Bk  k     kc    kf       10275 2800    0 
+Callerump 937425033  8  1 Bf  -     -     -         7475  400    0 
+Callerump 937425081  8  8 f   -     -     -         7075    0    0 
+Callerump 937425103  8  7 f   -     -     -         7075    0    0 
+Callerump 937425123  8  6 f   -     -     -         7075    0    0 
+Callerump 937425146  8  5 ccA -     -     -         7075 7075 16550 8h 8s
+Callerump 937425163  8  4 f   -     -     -        16550    0    0 
+Callerump 937425177  8  3 f   -     -     -        16550    0    0 
+Callerump 937425200  7  1 Bc  k     k     kf       16550 2925    0 
+Callerump 937425239  7  1 Bf  -     -     -        13625  800    0 
+Callerump 937425267  7  7 r   -     -     -        12825 5600 8000 
+Callerump 937425296  7  6 f   -     -     -        15225    0    0 
+Callerump 937425324  7  5 c   c     f     -        15225 7200    0 
+Callerump 937425359  7  4 cc  bA    -     -         8025 8025    0 7h As
+Callerump 937426264 10  9 c   k     k     f         5000   50    0 
+Callerump 937426409 10  8 f   -     -     -         4950    0    0 
+Callerump 937426454 10  7 c   c     k     f         4950  175    0 
+Callerump 937426514 10  6 f   -     -     -         4775    0    0 
+Callerump 937426548 10  5 f   -     -     -         4775    0    0 
+Callerump 937426710  9  4 f   -     -     -         4775    0    0 
+Callerump 937426816  9  3 f   -     -     -         4775    0    0 
+Callerump 937426859  9  2 Bc  kf    -     -         4775  550    0 
+Callerump 937426945  9  1 Bcf -     -     -         4225  100    0 
+Callerump 937427008  9  9 f   -     -     -         4125    0    0 
+Callerump 937427049  9  8 f   -     -     -         4125    0    0 
+Callerump 937427071  9  7 c   f     -     -         4125  200    0 
+Callerump 937427123  9  6 f   -     -     -         3925    0    0 
+Callerump 937427181  9  5 f   -     -     -         3925    0    0 
+Callerump 937427209  8  4 cc  bA    -     -         3925 3925    0 6h 6c
+Callerump 937428654 17  8 f   -     -     -         5000    0    0 
+Callerump 937428735 17  7 f   -     -     -         5000    0    0 
+Callerump 937428843 17  6 cc  kf    -     -         5000  275    0 
+Callerump 937428943 16  5 c   bA    -     -         4725 4725 5025 
+Callerump 937429140 16  4 cf  -     -     -         5025  350    0 
+Callerump 937429222 15  3 f   -     -     -         4675    0    0 
+Callerump 937429281 14  2 Bf  -     -     -         4675  100    0 
+Callerump 937429382 13  1 Bf  -     -     -         4575   50    0 
+Callerump 937429470 12 12 f   -     -     -         4525    0    0 
+Callerump 937429597 11 11 f   -     -     -         4525    0    0 
+Callerump 937429635 10  9 cc  b     -     -         4525 2800 4200 
+Callerump 937429699 10  8 cc  c     k     bA        5925 5925 12975 4s 4d
+Callerump 937429756  9  7 rc  cA    -     -        12975 12975 27350 Kc As
+Callerump 937429806  9  6 cc  b     -     -        27350 10000 10150 As Th
+Callerump 937429866  8  5 f   -     -     -        27500    0    0 
+Callerump 937429911  8  4 c   b     b     -        27500 3400 6100 Kd Js
+Callerump 937429949  7  3 c   f     -     -        30200  400    0 
+Callerump 937430002  6  2 Bc  k     b     -        29800 12800 19200 Kd Ah
+Callerump 937430074  5  1 Bc  kf    -     -        36200 1400    0 
+Callerump 937430122  4  4 f   -     -     -        34800    0    0 
+Callerump 937430164  4  4 f   -     -     -        34800    0    0 
+Callerump 937430173  4  3 f   -     -     -        34800    0    0 
+Callerump 937430213  4  2 B   -     -     -        34800  400  600 
+Callerump 937430222  4  1 Bcc k     b     b        35000 10800 14400 
+Callerump 937430294  4  4 c   c     c     -        38600 8100 17400 9s Ts
+Callerump 937430337  3  2 c   -     -     -        47900  800 1600 
+Callerump 937430353  3  2 Bc  f     -     -        48700 3200    0 
+Callerump 937430386  3  1 Bcc kf    -     -        45500 2400    0 
+Callerump 937430410  3  3 f   -     -     -        43100    0    0 
+Callerump 937430417  3  2 Bf  -     -     -        43100  800    0 
+Callerump 937430432  3  1 Bc  b     -     -        42300 3200 4800 
+Callerump 937430459  3  3 f   -     -     -        43900    0    0 
+Callerump 937430504  3  2 Bc  -     -     -        43900 2125 4650 3s 5s
+Callerump 937430525  2  1 Bc  kf    -     -        46425  800    0 
+Callerump 937430547  2  2 Bf  -     -     -        45625  800    0 
+Callerump 937430567  2  1 Br  -     -     -        44825 2400 3200 
+Callerump 937430578  2  2 Bk  f     -     -        45625  800    0 
+Callerump 937430596  2  1 Brc kf    -     -        44825 4800    0 
+Callerump 937430618  2  2 B   -     -     -        40025  800 1200 
+Callerump 937430622  2  1 Bf  -     -     -        40425  400    0 
+Callerump 937430626  2  2 Bk  b     -     -        40025 2400 3200 
+Callerump 937430642  2  1 Bf  -     -     -        40825  800    0 
+Callerump 937430646  2  2 Br  -     -     -        40025 4800 6400 
+Callerump 937430655  2  1 Bf  -     -     -        41625  800    0 
+Callerump 937430660  2  2 B   -     -     -        40825 1600 2400 
+Callerump 937430664  2  1 Bcf -     -     -        41625 1600    0 
+Callerump 937430679  2  2 Bk  c     c     c        40025 20000 40000 Qd 7h
+Callerump 937430717  2  1 Bf  -     -     -        60025  800    0 
+Callerump 937430728  2  2 Bc  f     -     -        59225 6100    0 
+Callerump 937430745  2  1 Bf  -     -     -        53125  800    0 
+Callerump 937430749  2  2 Bk  c     f     -        52325 7600    0 
+Callerump 937430782  2  1 Bf  -     -     -        44725  800    0 
+Callerump 937430785  2  2 Br  -     -     -        43925 4800 6400 
+Callerump 937430794  2  1 Bf  -     -     -        45525  800    0 
+Callerump 937430797  2  2 Bf  -     -     -        44725 1600    0 
+Callerump 937430807  2  1 Bf  -     -     -        43125  800    0 
+Callerump 937430811  2  2 Bc  b     -     -        42325 13800 18400 
+Callerump 937430834  2  1 Bf  -     -     -        46925  800    0 
+Callerump 937430837  2  2 BrA -     -     -        46125 46125 47725 
+Callerump 937430849  2  1 Bf  -     -     -        47725  800    0 
+Callerump 937430854  2  2 Bk  f     -     -        46925 1600    0 
+Callerump 937430877  2  1 Bf  -     -     -        45325  800    0 
+Callerump 937430881  2  2 Bk  f     -     -        44525 1600    0 
+Callerump 937430899  2  1 Bcf -     -     -        42925 1600    0 
+Callerump 937430912  2  2 Bf  -     -     -        41325 1600    0 
+Callerump 937430919  2  1 Bf  -     -     -        39725  800    0 
+Callerump 937430924  2  2 B   -     -     -        38925 1600 2400 
+Callerump 937430928  2  1 Bc  kf    -     -        39725 1600    0 
+Callerump 937430946  2  2 Bk  k     k     f        38125 1600    0 
+Callerump 937430969  2  1 Br  -     -     -        36525 4800 6400 
+Callerump 937430978  2  2 Bc  b     -     -        38125 16800 22400 
+Callerump 937430999  2  1 Bf  -     -     -        43725 1600    0 
+Callerump 937431005  2  2 B   -     -     -        42125 3200 4800 
+Callerump 937431008  2  1 Bc  kf    -     -        43725 3200    0 
+Callerump 937431028  2  2 Bf  -     -     -        40525 3200    0 
+Callerump 937431040  2  1 Bf  -     -     -        37325 1600    0 
+Callerump 937431046  2  2 B   -     -     -        35725 3200 4800 
+Callerump 937431051  2  1 BrcA -     -     -        37325 37325 74650 Th Kd
+Callerump 937431063  2  2 Bf  -     -     -        74650 3200    0 
+Callerump 937431083  2  1 Bf  -     -     -        71450 1600    0 
+Callerump 937431087  2  2 Bc  -     -     -        69850 10150    0 7d Jd
+Callerump 937431095  2  1 Bf  -     -     -        59700 1600    0 
+Callerump 937431104  2  2 B   -     -     -        58100 3200 4800 
+Callerump 937431109  2  1 Brc -     -     -        59700 20300 20300 9h 9s
+Callerump 937431120  2  2 Bc  -     -     -        59700 20300 40600 9d Ad
+Callerump 937431313 17 10 f   -     -     -        10000    0    0 
+Callerump 937431469 17  9 c   f     -     -        10000  100    0 
+Callerump 937431525 17  8 f   -     -     -         9900    0    0 
+Callerump 937431617 17  7 f   -     -     -         9900    0    0 
+Callerump 937431689 17  6 f   -     -     -         9900    0    0 
+Callerump 937431723 16  5 c   b     k     b         9900 2100 4500 Ad 9d
+Callerump 937431825 16  4 f   -     -     -        12300    0    0 
+Callerump 937431915 16  3 cf  -     -     -        12300  100    0 
+Callerump 937432026 16  2 Bf  -     -     -        12200  100    0 
+Callerump 937432087 16  1 Bf  -     -     -        12100  100    0 
+Callerump 937432184 15 15 c   f     -     -        12000  700    0 
+Callerump 937432230 15 14 c   b     b     -        11300 3000 4200 
+Callerump 937432314 15 13 f   -     -     -        12500    0    0 
+Callerump 937432354 14 12 c   c     k     f        12500  600    0 
+Callerump 937432458 14 11 c   c     k     k        11900  900    0 Js Tc
+Callerump 937432529 14 10 c   k     cA    -        11000 11000 26200 7s Js
+Callerump 937432575 14  9 f   -     -     -        26200    0    0 
+Callerump 937432716 14  8 rA  -     -     -        26200 26200 26700 
+Callerump 937432748 14  7 f   -     -     -        26700    0    0 
+Callerump 937432797 13  6 f   -     -     -        26700    0    0 
+Callerump 937432830 13  5 c   c     b     b        26700 19500 38900 As Js
+Callerump 937432882 12  3 f   -     -     -        46100    0    0 
+Callerump 937432972 12  2 Bk  k     b     kf       46100 1800    0 
+Callerump 937433051 12  1 Bf  -     -     -        44300  200    0 
+Callerump 937433082 11 11 f   -     -     -        44100    0    0 
+Callerump 937433185 11 10 c   f     -     -        44100 5400    0 
+Callerump 937433234 11  9 f   -     -     -        38700    0    0 
+Callerump 937433294 11  8 f   -     -     -        38700    0    0 
+Callerump 937433347 11  7 cf  -     -     -        38700  800    0 
+Callerump 937433398 10  6 f   -     -     -        37900    0    0 
+Callerump 937433486 10  5 cf  -     -     -        37900  800    0 
+Callerump 937440364  9  5 f   -     -     -        10000    0    0 
+Callerump 937440411  9  4 r   b     b     -        10000 3750 5100 
+Callerump 937440480  9  3 c   kf    -     -        11350  100    0 
+Callerump 937440536  9  2 Bc  kf    -     -        11250  800    0 
+Callerump 937440579  9  1 Bf  -     -     -        10450   50    0 
+Callerump 937440615  9  9 c   b     b     -        10400 1300 1800 
+Callerump 937440657  9  8 f   -     -     -        10900    0    0 
+Callerump 937440714  9  7 cc  rA    -     -        10900 10900 24350 4c 4d
+Callerump 937440799  8  5 f   -     -     -        24350    0    0 
+Callerump 937440891  7  4 f   -     -     -        24350    0    0 
+Callerump 937440965  7  3 f   -     -     -        24350    0    0 
+Callerump 937441031  7  2 Bc  kf    -     -        24350  900    0 
+Callerump 937441068  7  1 Bc  b     b     -        23450 2600 3600 
+Callerump 937441127  7  7 f   -     -     -        24450    0    0 
+Callerump 937441178  7  6 c   r     -     -        24450 7700 11600 
+Callerump 937441259  7  5 f   -     -     -        28350    0    0 
+Callerump 937441315  7  4 f   -     -     -        28350    0    0 
+Callerump 937441395  7  3 f   -     -     -        28350    0    0 
+Callerump 937441420  7  2 Bf  -     -     -        28350  400    0 
+Callerump 937441441  7  1 Bf  -     -     -        27950  200    0 
+Callerump 937441451  7  7 f   -     -     -        27750    0    0 
+Callerump 937441461  7  6 f   -     -     -        27750    0    0 
+Callerump 937441501  7  5 f   -     -     -        27750    0    0 
+Callerump 937441513  7  4 f   -     -     -        27750    0    0 
+Callerump 937441539  7  3 f   -     -     -        27750    0    0 
+Callerump 937441575  7  2 Bf  -     -     -        27750  800    0 
+Callerump 937441593  7  1 Bf  -     -     -        26950  400    0 
+Callerump 937441628  7  7 f   -     -     -        26550    0    0 
+Callerump 937441640  7  6 f   -     -     -        26550    0    0 
+Callerump 937441669  7  5 f   -     -     -        26550    0    0 
+Callerump 937441685  7  4 f   -     -     -        26550    0    0 
+Callerump 937441717  7  3 f   -     -     -        26550    0    0 
+Callerump 937441732  6  1 Bf  -     -     -        26550 1600    0 
+Callerump 937441768  6  1 Bc  kf    -     -        24950 5600    0 
+Callerump 937441816  5  5 c   b     -     -        19350 4800 6400 
+Callerump 937441850  5  5 f   -     -     -        20950    0    0 
+Callerump 937441857  5  4 f   -     -     -        20950    0    0 
+Callerump 937441881  5  3 f   -     -     -        20950    0    0 
+Callerump 937441920  5  2 Bc  bA    -     -        20950 20950 30550 
+Callerump 937441947  5  1 Bf  -     -     -        30550 1600    0 
+Callerump 937441968  5  5 f   -     -     -        28950    0    0 
+Callerump 937442014  5  4 f   -     -     -        28950    0    0 
+Callerump 937442029  5  3 r   -     -     -        28950 22400 32000 
+Callerump 937442060  5  2 B   -     -     -        38550 6400 9600 
+Callerump 937442084  5  1 Bf  -     -     -        41750 3200    0 
+Callerump 937442109  5  5 f   -     -     -        38550    0    0 
+Callerump 937442125  5  4 c   k     k     k        38550 6400 16000 Kc 2c
+Callerump 937442176  5  3 f   -     -     -        48150    0    0 
+Callerump 937442203  4  1 B   -     -     -        48150 6400  500 9h Th
+Callerump 937442210  4  1 B   -     -     -        42250 6400 2400 Qs 4s
+Callerump 937442221  4  4 f   -     -     -        38250    0    0 
+Callerump 937442238  4  3 f   -     -     -        38250    0    0 
+Callerump 937442246  3  1 B   -     -     -        38250 12800 12800 
+Callerump 937442255  3  1 B   -     -     -        38250 6400 4800 Js 8h
+Callerump 937442258  3  3 f   -     -     -        36650    0    0 
+Callerump 937442269  3  2 Bk  k     k     k        36650 12800 25600 4c Th
+Callerump 937442306  3  1 B   -     -     -        49450 12800 19200 7d 3d
+Callerump 937442314  2  2 f   -     -     -        55850    0    0 
+Callerump 937442323  2  2 Bc  -     -     -        55850 34150    0 2h Ah
+Callerump 937442335  2  1 BcA -     -     -        21700 21700    0 7h Kd
+Callerump 937442681 14  5 f   -     -     -         5000    0    0 
+Callerump 937442840 12  4 f   -     -     -         5000    0    0 
+Callerump 937442921 11  2 Bk  k     k     kf        5000   50    0 
+Callerump 937443036 11  1 Bf  -     -     -         4950   50    0 
+Callerump 937443084 11 11 f   -     -     -         4900    0    0 
+Callerump 937443120 11 10 c   c     f     -         4900 2100    0 
+Callerump 937443189 11  9 rcA -     -     -         2800 2800    0 Jh Ac
+Callerump 938457132 18 11 f   -     -     -         5000    0    0 
+Callerump 938457224 17 10 c   b     k     b         5000 1050 1600 
+Callerump 938457290 17  9 c   k     k     f         5550   50    0 
+Callerump 938457389 17  8 cc  bc    -     -         5500 4700 10825 2s Ks
+Callerump 938457511 16  7 f   -     -     -        11625    0    0 
+Callerump 938457641 16  6 f   -     -     -        11625    0    0 
+Callerump 938457747 16  5 f   -     -     -        11625    0    0 
+Callerump 938457851 16  4 f   -     -     -        11625    0    0 
+Callerump 938457927 16  3 f   -     -     -        11625    0    0 
+Callerump 938458035 15  2 Bc  b     kc    -        11625 10350    0 Qs Ah
+Callerump 938458162 14  1 Bf  -     -     -         1275   50    0 
+Callerump 938458240 14 14 cc  cA    -     -         1225 1225    0 Jc Kh

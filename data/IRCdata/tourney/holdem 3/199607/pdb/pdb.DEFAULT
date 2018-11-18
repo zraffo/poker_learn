@@ -1,0 +1,71 @@
+DEFAULT   836371179 12  4 f   -     -     -        10000    0    0 
+DEFAULT   836371266 12  3 f   -     -     -        10000    0    0 
+DEFAULT   836371389 12  2 Bc  k     k     k        10000  800    0 4s 8s
+DEFAULT   836371473 12  1 Bc  k     k     k         9200  200    0 3c 5s
+DEFAULT   836371562 12 12 c   c     cc    f         9000 3600    0 
+DEFAULT   836371732 12 11 f   -     -     -         5400    0    0 
+DEFAULT   836371804 12 10 f   -     -     -         5400    0    0 
+DEFAULT   836371995 12  9 c   c     k     k         5400 1800 6000 2c As
+DEFAULT   836372088 12  8 c   c     c     c         9600 4900    0 Td 6d
+DEFAULT   836372240 12  7 f   -     -     -         4700    0    0 
+DEFAULT   836372276 12  6 cc  kc    kf    -         4700 2400    0 
+DEFAULT   836372357 12  5 f   -     -     -         2300    0    0 
+DEFAULT   836372421 11  3 f   -     -     -         2300    0    0 
+DEFAULT   836372561 11  3 f   -     -     -         2300    0    0 
+DEFAULT   836372626 11  2 BcA -     -     -         2300 2300 2700 Ks 3s
+DEFAULT   836372643 11  1 BcA -     -     -         2700 2700    0 8d Ad
+DEFAULT   836879335  7  1 Bc  kf    -     -         2000   20    0 
+DEFAULT   836879420  7  7 c   c     f     -         1980  100    0 
+DEFAULT   836879489  7  6 f   -     -     -         1880    0    0 
+DEFAULT   836879548  7  5 f   -     -     -         1880    0    0 
+DEFAULT   836879563  7  4 c   c     f     -         1880  320    0 
+DEFAULT   836879614  7  3 c   f     -     -         1560   20    0 
+DEFAULT   836879704  7  2 Bk  cc    b     b         1540  740    0 Qh 8h
+DEFAULT   836879789  7  1 Bc  kf    -     -          800   40    0 
+DEFAULT   836879876  7  7 c   k     f     -          760   40    0 
+DEFAULT   836879927  7  6 f   -     -     -          720    0    0 
+DEFAULT   836879951  7  5 cc  f     -     -          720  120    0 
+DEFAULT   836879988  7  4 f   -     -     -          600    0    0 
+DEFAULT   836880053  7  3 f   -     -     -          600    0    0 
+DEFAULT   836880132  7  2 Bk  f     -     -          600   80    0 
+DEFAULT   836880168  7  1 Bc  kf    -     -          520  180    0 
+DEFAULT   836880210  7  7 f   -     -     -          340    0    0 
+DEFAULT   836880255  7  6 f   -     -     -          340    0    0 
+DEFAULT   836880292  7  5 f   -     -     -          340    0    0 
+DEFAULT   836880325  7  4 ccA -     -     -          340  340    0 As Ks
+DEFAULT   837139833 14  2 Bf  -     -     -         5000   20    0 
+DEFAULT   837139903 14  1 Bc  kf    -     -         4980   20    0 
+DEFAULT   837140033 14 14 f   -     -     -         4960    0    0 
+DEFAULT   837140153 13 12 f   -     -     -         4960    0    0 
+DEFAULT   837140247 13 11 c   f     -     -         4960  180    0 
+DEFAULT   837140311 13 10 f   -     -     -         4780    0    0 
+DEFAULT   837140393 13  9 f   -     -     -         4780    0    0 
+DEFAULT   837140486 13  8 c   c     k     k         4780  720 1740 Td Kc
+DEFAULT   837140539 13  7 f   -     -     -         5800    0    0 
+DEFAULT   837140616 13  6 f   -     -     -         5800    0    0 
+DEFAULT   837140669 13  5 c   kc    kf    -         5800  580    0 
+DEFAULT   837140769 13  4 f   -     -     -         5220    0    0 
+DEFAULT   837140856 13  3 f   -     -     -         5220    0    0 
+DEFAULT   837140919 13  2 Bf  -     -     -         5220   80    0 
+DEFAULT   837141059 12  1 Bc  bA    -     -         5140 5140 6740 
+DEFAULT   837141166 12 12 c   b     b     -         6740 1060 2120 
+DEFAULT   837141279 12 11 f   -     -     -         7800    0    0 
+DEFAULT   837141408 12 10 f   -     -     -         7800    0    0 
+DEFAULT   837141498 11  8 c   f     -     -         7800  320    0 
+DEFAULT   837141577 11  8 f   -     -     -         7480    0    0 
+DEFAULT   837141655 10  7 f   -     -     -         7480    0    0 
+DEFAULT   837141759 10  6 f   -     -     -         7480    0    0 
+DEFAULT   837141810 10  5 f   -     -     -         7480    0    0 
+DEFAULT   837141902 10  4 c   kf    -     -         7480  640    0 
+DEFAULT   837142041 10  3 c   k     f     -         6840  640    0 
+DEFAULT   837142097 10  2 Bf  -     -     -         6200  640    0 
+DEFAULT   837142160 10  1 Bc  k     k     k         5560  640    0 Kh 5d
+DEFAULT   837142267 10 10 c   f     -     -         4920 1280    0 
+DEFAULT   837142339 10  9 f   -     -     -         3640    0    0 
+DEFAULT   837142421 10  8 f   -     -     -         3640    0    0 
+DEFAULT   837142500 10  7 f   -     -     -         3640    0    0 
+DEFAULT   837142564  8  5 f   -     -     -         3640    0    0 
+DEFAULT   837142596  8  4 f   -     -     -         3640    0    0 
+DEFAULT   837142626  7  3 f   -     -     -         3640    0    0 
+DEFAULT   837142653  7  2 Bk  f     -     -         3640 2560    0 
+DEFAULT   837142704  7  1 BA  -     -     -         1080 1080    0 9h Kd

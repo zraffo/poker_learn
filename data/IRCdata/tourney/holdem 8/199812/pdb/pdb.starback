@@ -1,0 +1,480 @@
+starback  912525401 10  5 f   -     -     -        10000    0    0 
+starback  912525444 10  4 f   -     -     -        10000    0    0 
+starback  912525465 10  3 f   -     -     -        10000    0    0 
+starback  912525528 10  2 Bk  kf    -     -        10000   40    0 
+starback  912525588 10  1 Bf  -     -     -         9960   20    0 
+starback  912525642 10 10 f   -     -     -         9940    0    0 
+starback  912525714 10  9 f   -     -     -         9940    0    0 
+starback  912525749 10  8 f   -     -     -         9940    0    0 
+starback  912525786 10  7 f   -     -     -         9940    0    0 
+starback  912525849 10  6 f   -     -     -         9940    0    0 
+starback  912525896 10  5 f   -     -     -         9940    0    0 
+starback  912525932  7  3 f   -     -     -         9940    0    0 
+starback  912525987  7  2 Bk  k     kf    -         9940   80    0 
+starback  912526012  7  1 Br  k     k     kf        9860  330    0 
+starback  912526060  7  7 c   b     k     f         9530  380    0 
+starback  912526110  7  6 c   k     k     f         9150   80    0 
+starback  912526143  7  5 f   -     -     -         9070    0    0 
+starback  912526164  7  4 f   -     -     -         9070    0    0 
+starback  912526182  7  3 c   kf    -     -         9070   80    0 
+starback  912526252  7  2 Bk  kc    k     k         8990  400    0 4s Js
+starback  912526291  7  1 Bc  kf    -     -         8590   80    0 
+starback  912526332  7  7 c   k     f     -         8510   80    0 
+starback  912526371  7  6 c   b     b     -         8430 2760 4000 
+starback  912526416  7  5 f   -     -     -         9670    0    0 
+starback  912526447  7  4 f   -     -     -         9670    0    0 
+starback  912526486  7  3 f   -     -     -         9670    0    0 
+starback  912526522  7  2 Bk  k     b     -         9670  560  800 
+starback  912526559  7  1 Bc  kc    kc    bA        9910 9910 12950 
+starback  912526630  7  7 c   k     b     -        12950  660 1060 
+starback  912526671  7  6 f   -     -     -        13350    0    0 
+starback  912526696  7  5 f   -     -     -        13350    0    0 
+starback  912526727  7  4 c   b     -     -        13350  560  880 
+starback  912526748  7  3 c   f     -     -        13670  160    0 
+starback  912526792  7  2 Bk  k     k     kc       13510 1920 4800 3d Kd
+starback  912526862  7  1 Bf  -     -     -        16390  160    0 
+starback  912526892  7  7 cc  -     -     -        16230 1850 5660 Ac Ad
+starback  912526930  5  4 c   rf    -     -        20040 3600    0 
+starback  912526985  5  4 f   -     -     -        16440    0    0 
+starback  912527006  5  3 r   bf    -     -        16440 2220    0 
+starback  912527042  5  2 Bf  -     -     -        14220  320    0 
+starback  912527061  5  1 Bc  k     kf    -        13900  320    0 
+starback  912527101  5  5 f   -     -     -        13580    0    0 
+starback  912527131  5  4 r   -     -     -        13580  720 1200 
+starback  912527145  5  3 r   k     b     -        14060 2120 3000 
+starback  912527181  5  2 Bf  -     -     -        14940  640    0 
+starback  912527196  5  1 Br  -     -     -        14300 1440 2080 
+starback  912527207  5  5 f   -     -     -        14940    0    0 
+starback  912527219  5  4 f   -     -     -        14940    0    0 
+starback  912527233  5  3 f   -     -     -        14940    0    0 
+starback  912527252  5  2 Bk  k     f     -        14940  640    0 
+starback  912527286  5  1 Bf  -     -     -        14300  320    0 
+starback  912527301  5  5 f   -     -     -        13980    0    0 
+starback  912527312  5  4 r   k     b     -        13980 3440 5200 
+starback  912527336  5  3 c   b     -     -        15740 2040 3000 
+starback  912527353  5  2 Bf  -     -     -        16700  640    0 
+starback  912527365  5  1 Bf  -     -     -        16060  640    0 
+starback  912527394  5  5 f   -     -     -        15420    0    0 
+starback  912527402  5  4 f   -     -     -        15420    0    0 
+starback  912527410  5  3 f   -     -     -        15420    0    0 
+starback  912527433  5  2 Bf  -     -     -        15420 1280    0 
+starback  912527447  5  1 Br  bA    -     -        14140 14140 17220 
+starback  912527475  5  5 c   f     -     -        17220 4480    0 
+starback  912527494  5  4 c   b     -     -        12740 5280 8480 
+starback  912527511  5  3 f   -     -     -        15940    0    0 
+starback  912527536  5  2 Bf  -     -     -        15940 1280    0 
+starback  912527548  5  1 Bf  -     -     -        14660  640    0 
+starback  912527560  5  5 f   -     -     -        14020    0    0 
+starback  912527573  5  4 f   -     -     -        14020    0    0 
+starback  912527579  5  3 rcA -     -     -        14020 14020 31920 Kc Ks
+starback  912527595  4  2 Bk  b     -     -        31920 7560 10120 
+starback  912527617  4  1 Bf  -     -     -        34480 1280    0 
+starback  912527626  4  4 f   -     -     -        33200    0    0 
+starback  912527635  4  3 f   -     -     -        33200    0    0 
+starback  912527641  4  2 Bf  -     -     -        33200 2560    0 
+starback  912527650  4  1 Bc  b     -     -        30640 6560 9120 
+starback  912527664  4  4 r   -     -     -        33200 6060 9900 
+starback  912527678  4  3 r   -     -     -        37040 6360 10200 
+starback  912527687  4  2 Bc  c     -     -        40880 32180 64360 Ah 7d
+starback  912527710  3  1 Bf  -     -     -        73060 2560    0 
+starback  912527726  3  3 r   c     -     -        70500 20660 50160 Ad Tc
+starback  912534681 10  6 f   -     -     -        10000    0    0 
+starback  912534734 10  5 f   -     -     -        10000    0    0 
+starback  912534819 10  4 c   b     -     -        10000  250  400 
+starback  912534847 10  3 f   -     -     -        10150    0    0 
+starback  912534907 10  2 Bf  -     -     -        10150   50    0 
+starback  912534937 10  1 Bf  -     -     -        10100   25    0 
+starback  912535019  9  9 cc  r     bA    -        10075 10075 12025 
+starback  912535105  9  8 c   k     bc    k        12025  750    0 Qh Js
+starback  912535212  9  7 f   -     -     -        11275    0    0 
+starback  912535250  9  6 cf  -     -     -        11275   50    0 
+starback  912535297  8  5 cc  kf    -     -        11225  450    0 
+starback  912535332  8  4 r   b     k     b        10775 1750    0 Kc Kh
+starback  912535395  8  3 f   -     -     -         9025    0    0 
+starback  912535429  8  2 Bk  rc    k     bA        9025 9025 11675 
+starback  912535482  8  1 Br  b     -     -        11675 2350 3400 
+starback  912535511  8  8 f   -     -     -        12725    0    0 
+starback  912535541  8  7 c   b     b     -        12725 2000 2950 
+starback  912535601  8  6 f   -     -     -        13675    0    0 
+starback  912535634  8  5 f   -     -     -        13675    0    0 
+starback  912535653  8  4 f   -     -     -        13675    0    0 
+starback  912535716  8  3 f   -     -     -        13675    0    0 
+starback  912535757  8  2 Bc  kf    -     -        13675  700    0 
+starback  912535792  8  1 Bc  kc    kf    -        12975  700    0 
+starback  912535852  8  8 f   -     -     -        12275    0    0 
+starback  912535898  7  7 r   c     rA    -        12275 12275 15425 
+starback  912535959  7  6 f   -     -     -        15425    0    0 
+starback  912535981  7  5 rc  c     cA    -        15425 15425    0 Jd Td
+starback  912543107 13  4 f   -     -     -         5000    0    0 
+starback  912543224 13  3 f   -     -     -         5000    0    0 
+starback  912543290 12  2 Bc  kf    -     -         5000  220    0 
+starback  912543408 12  1 Bf  -     -     -         4780   40    0 
+starback  912543482 11 11 f   -     -     -         4740    0    0 
+starback  912543592 11 10 r   b     bA    -         4740 4740 6140 
+starback  912543637 11  9 f   -     -     -         6140    0    0 
+starback  912543693 11  8 c   f     -     -         6140  280    0 
+starback  912543729 11  7 c   k     k     f         5860  160    0 
+starback  912543800 11  6 f   -     -     -         5700    0    0 
+starback  912543850 11  5 c   r     bA    -         5700 5700 10460 
+starback  912543898 11  4 f   -     -     -        10460    0    0 
+starback  912543926 11  3 f   -     -     -        10460    0    0 
+starback  912543996 11  2 Bk  kf    -     -        10460  160    0 
+starback  912544038 11  1 Bc  kc    b     -        10300 5760 8160 
+starback  912544095 11 11 r   b     -     -        12700 3120 4720 
+starback  912544146 11 10 r   f     -     -        14300 1320    0 
+starback  912544241 11  9 f   -     -     -        12980    0    0 
+starback  912544302 11  8 r   k     k     k        12980  720    0 Qs Kc
+starback  912544344 11  7 r   -     -     -        12260 1440 2400 
+starback  912544396 11  6 f   -     -     -        13220    0    0 
+starback  912544427 11  5 r   f     -     -        13220 1440    0 
+starback  912544466 11  4 f   -     -     -        11780    0    0 
+starback  912544501 11  3 f   -     -     -        11780    0    0 
+starback  912544561  9  2 Bc  b     -     -        11780 4440 7640 
+starback  912544605  9  1 Bc  k     k     b        14980 4240 4560 As Jc
+starback  912544655  9  9 r   -     -     -        15300 2780 4700 
+starback  912544699  9  8 c   b     -     -        17220 5280 8480 
+starback  912544759  9  7 c   c     f     -        20420 1330    0 
+starback  912544811  8  5 rrA -     -     -        19090 19090 32210 3s 3d
+starback  912544858  6  4 f   -     -     -        32210    0    0 
+starback  912544903  6  3 f   -     -     -        32210    0    0 
+starback  912544922  6  2 Bk  kf    -     -        32210 1280    0 
+starback  912544955  6  1 Bf  -     -     -        30930  640    0 
+starback  912544983  4  4 r   -     -     -        30290 5120 7680 
+starback  912545022  4  4 r   -     -     -        32850 6260 12660 
+starback  912545076  4  3 r   -     -     -        39250 6360 3410 2c 2h
+starback  912545091  4  2 Bf  -     -     -        36300 2560    0 
+starback  912545107  4  1 Bc  b     bA    -        33740 33740 24040 7c 5h
+starback  912545147  4  4 f   -     -     -        24040    0    0 
+starback  912545170  4  3 f   -     -     -        24040    0    0 
+starback  912545188  4  2 B   -     -     -        24040 2560 3840 
+starback  912545198  4  1 Br  -     -     -        25320 6360 8920 
+starback  912545213  4  4 f   -     -     -        27880    0    0 
+starback  912545225  4  3 rc  -     -     -        27880 11020 25880 Ad Jh
+starback  912545243  3  2 B   -     -     -        42740 2560 3840 
+starback  912545257  3  1 Bf  -     -     -        44020 1280    0 
+starback  912545296  2  2 r   -     -     -        42740 10240 15360 
+starback  912545314  2  2 B   -     -     -        47860 5120 7680 
+starback  912545316  2  1 Br  kc    -     -        50420 14580 29160 Kd 9d
+starback  912562981 12  3 f   -     -     -         5000    0    0 
+starback  912563074 12  2 Bf  -     -     -         5000   10    0 
+starback  912563266 13  4 f   -     -     -         5000    0    0 
+starback  912563347 13  3 f   -     -     -         5000    0    0 
+starback  912563382 13  2 Bk  kf    -     -         5000   50    0 
+starback  912563481 13  1 Bf  -     -     -         4950   25    0 
+starback  912563574 13 13 f   -     -     -         4925    0    0 
+starback  912563628 13 12 f   -     -     -         4925    0    0 
+starback  912563698 12 10 c   b     k     b         4925 1900 3000 
+starback  912563786 12  9 c   k     kf    -         6025  100    0 
+starback  912563863 12  8 f   -     -     -         5925    0    0 
+starback  912563924 12  7 f   -     -     -         5925    0    0 
+starback  912563988 12  6 f   -     -     -         5925    0    0 
+starback  912564037 12  5 f   -     -     -         5925    0    0 
+starback  912564100 12  4 f   -     -     -         5925    0    0 
+starback  912564148 12  3 f   -     -     -         5925    0    0 
+starback  912564205 12  2 Bk  k     kf    -         5925  200    0 
+starback  912564334 12  1 Bc  kf    -     -         5725  700    0 
+starback  912564398 12 12 f   -     -     -         5025    0    0 
+starback  912564439 11 10 c   bc    -     -         5025 3950 8900 Ts 9d
+starback  912564490 10  8 r   b     -     -         9975 2200 3000 
+starback  912564529 10  8 c   c     f     -        10775 2800    0 
+starback  912564587 10  7 f   -     -     -         7975    0    0 
+starback  912564625 10  6 r   b     -     -         7975 2400 3800 
+starback  912564656 10  5 cc  kc    -     -         9375 3800 8200 8d 9d
+starback  912564692  9  4 f   -     -     -        13775    0    0 
+starback  912564716  9  3 f   -     -     -        13775    0    0 
+starback  912564789  9  2 Bk  b     b     -        13775 3400 1375 9h 7h
+starback  912564849  9  1 Bf  -     -     -        11750  400    0 
+starback  912564906  9  9 f   -     -     -        11350    0    0 
+starback  912564939  9  8 cf  -     -     -        11350 2800    0 
+starback  912565025  9  7 f   -     -     -         8550    0    0 
+starback  912565049  9  6 f   -     -     -         8550    0    0 
+starback  912565110  9  5 f   -     -     -         8550    0    0 
+starback  912565133  9  4 f   -     -     -         8550    0    0 
+starback  912565164  9  3 f   -     -     -         8550    0    0 
+starback  912565203  9  2 Bc  kf    -     -         8550 1075    0 
+starback  912565258  8  1 Brc -     -     -         7475 6700 13400 4d Qd
+starback  912565280  7  7 r   c     -     -        14175 8925    0 Kh 5d
+starback  912565326  7  7 f   -     -     -         5250    0    0 
+starback  912565344  7  6 rA  -     -     -         5250 5250 14500 Js Qs
+starback  912565384  7  5 f   -     -     -        14500    0    0 
+starback  912565404  7  4 f   -     -     -        14500    0    0 
+starback  912565419  7  3 f   -     -     -        14500    0    0 
+starback  912565435  6  2 Bk  kcA   -     -        14500 14500 38425 7s 8s
+starback  912565484  5  1 Br  -     -     -        38425 4000 5600 
+starback  912565506  5  5 f   -     -     -        40025    0    0 
+starback  912565526  5  4 r   -     -     -        40025 4000 6400 
+starback  912565538  5  3 f   -     -     -        42425    0    0 
+starback  912565563  5  2 Bf  -     -     -        42425 1600    0 
+starback  912565576  5  1 Bf  -     -     -        40825  800    0 
+starback  912565590  5  5 rc  -     -     -        40025 6100    0 7d 4c
+starback  912565615  4  3 f   -     -     -        33925    0    0 
+starback  912565629  4  3 f   -     -     -        33925    0    0 
+starback  912565647  3  2 BrA -     -     -        33925 33925 51925 Ad Jd
+starback  912565664  2  1 Bf  -     -     -        51925 1600    0 
+starback  912565672  2  2 Brc -     -     -        50325 14675 29350 3h Kh
+starback  912717933 11 10 f   -     -     -         5000    0    0 
+starback  912718016 10  8 c   f     -     -         5000  175    0 
+starback  912718090 10  7 cc  k     c     -         4825 3925    0 4c Ac
+starback  912718172 10  6 f   -     -     -          900    0    0 
+starback  912718323 10  5 f   -     -     -          900    0    0 
+starback  912718395 10  4 rA  -     -     -          900  900 1950 Ac Ad
+starback  912718411 10  3 f   -     -     -         1950    0    0 
+starback  912718466 10  2 Bf  -     -     -         1950  100    0 
+starback  912718588 10  1 Bc  kf    -     -         1850  100    0 
+starback  912718727 10 10 f   -     -     -         1750    0    0 
+starback  912718759 10  9 f   -     -     -         1750    0    0 
+starback  912718821 10  8 f   -     -     -         1750    0    0 
+starback  912718880  9  6 cf  -     -     -         1750  200    0 
+starback  912718933  8  5 c   bA    -     -         1550 1550 2250 
+starback  912718986  8  4 f   -     -     -         2250    0    0 
+starback  912719017  8  3 f   -     -     -         2250    0    0 
+starback  912719054  8  2 Bf  -     -     -         2250  200    0 
+starback  912719090  8  1 Bf  -     -     -         2050  200    0 
+starback  912719117  8  8 f   -     -     -         1850    0    0 
+starback  912719134  8  7 f   -     -     -         1850    0    0 
+starback  912719164  6  5 f   -     -     -         1850    0    0 
+starback  912719184  6  4 f   -     -     -         1850    0    0 
+starback  912719261  6  3 f   -     -     -         1850    0    0 
+starback  912719301  5  2 B   -     -     -         1850  400  600 
+starback  912719312  5  1 Bc  kf    -     -         2050  400    0 
+starback  912719348  4  4 f   -     -     -         1650    0    0 
+starback  912719357  4  4 f   -     -     -         1650    0    0 
+starback  912719361  4  3 rA  -     -     -         1650 1650 2250 
+starback  912719370  4  2 Bk  kf    -     -         2250  400    0 
+starback  912719384  4  1 Bf  -     -     -         1850  200    0 
+starback  912719392  4  4 rA  -     -     -         1650 1650 2250 
+starback  912719399  4  3 f   -     -     -         2250    0    0 
+starback  912719417  4  2 Bf  -     -     -         2250  400    0 
+starback  912719427  4  1 Br  -     -     -         1850 1800 2600 
+starback  912719435  4  4 f   -     -     -         2650    0    0 
+starback  912719440  4  3 f   -     -     -         2650    0    0 
+starback  912719456  4  2 Bk  k     k     k         2650  800 2000 Ac 6h
+starback  912719480  4  1 Br  -     -     -         3850 1800 2600 
+starback  912719489  4  4 f   -     -     -         4650    0    0 
+starback  912719492  4  3 f   -     -     -         4650    0    0 
+starback  912719498  4  2 Bk  k     b     bA        4650 4650 4850 7s 6c
+starback  912719535  4  1 Bc  kcA   -     -         4850 4850    0 Ks 9s
+starback  912864666  6  1 Bf  -     -     -         1000    5    0 
+starback  912864670  6  6 f   -     -     -          995    0    0 
+starback  912864675  6  5 r   b     -     -          995  125  160 
+starback  912864703  6  4 rc  b     b     -         1030  490  695 
+starback  912864747  6  3 f   -     -     -         1235    0    0 
+starback  912864789  4  2 Bc  kf    -     -         1235   35    0 
+starback  912864818  4  1 Br  k     b     -         1200   75  100 
+starback  912864842  4  4 rc  f     -     -         1225   85    0 
+starback  912864879  4  3 c   bf    -     -         1140   45    0 
+starback  912864938  4  2 Bk  k     kf    -         1095   10    0 
+starback  912864986  4  1 Bc  kf    -     -         1085   70    0 
+starback  912865034  4  4 f   -     -     -         1015    0    0 
+starback  912865069  4  3 f   -     -     -         1015    0    0 
+starback  912865140  4  2 Bf  -     -     -         1015   20    0 
+starback  912865174  4  1 Bf  -     -     -          995   10    0 
+starback  912865218  4  4 f   -     -     -          985    0    0 
+starback  912865268  4  3 f   -     -     -          985    0    0 
+starback  912865292  4  2 Bf  -     -     -          985   40    0 
+starback  912865318  3  1 Bf  -     -     -          945   20    0 
+starback  912865332  3  3 r   -     -     -          925  100  160 
+starback  912865342  3  2 B   -     -     -          985   40   60 
+starback  912865346  3  1 Br  b     k     kc        1005  600 1200 Kd 3s
+starback  912865388  3  3 rc  -     -     -         1605  255    0 Kc Ts
+starback  912865401  3  2 Bk  f     -     -         1350   40    0 
+starback  912865425  3  1 Bc  kc    kf    -         1310  460    0 
+starback  912865470  3  3 f   -     -     -          850    0    0 
+starback  912865491  3  2 Br  bA    -     -          850  850  500 3s Qd
+starback  912865507  3  1 Bf  -     -     -          500   20    0 
+starback  912865516  3  3 f   -     -     -          480    0    0 
+starback  912865537  2  2 Bf  -     -     -          480   40    0 
+starback  912865548  2  1 Br  -     -     -          440  100  140 
+starback  912865553  2  2 Bf  -     -     -          480   40    0 
+starback  912865560  2  1 Br  -     -     -          440  100  140 
+starback  912865569  2  2 Bf  -     -     -          480   40    0 
+starback  912865574  2  1 Br  -     -     -          440  100  140 
+starback  912865578  2  2 B   -     -     -          480   40   60 
+starback  912865580  2  1 Brf -     -     -          500  100    0 
+starback  912865588  2  2 Bf  -     -     -          400   40    0 
+starback  912865591  2  1 Bf  -     -     -          360   20    0 
+starback  912865595  2  2 BrA -     -     -          340  340  680 3h 3d
+starback  912865602  2  1 Br  kf    -     -          680  180    0 
+starback  912865620  2  2 B   -     -     -          500   80  120 
+starback  912865622  2  1 Br  -     -     -          540  180  260 
+starback  912865628  2  2 Bf  -     -     -          620   80    0 
+starback  912865632  2  1 Br  -     -     -          540  180  260 
+starback  912865637  2  2 BrA -     -     -          620  620    0 8s Qc
+starback  912866370  8  6 f   -     -     -         2500    0    0 
+starback  912866432  8  5 f   -     -     -         2500    0    0 
+starback  912866483  7  4 f   -     -     -         2500    0    0 
+starback  912866531  7  3 c   f     -     -         2500   50    0 
+starback  912866602  7  2 Bk  f     -     -         2450   50    0 
+starback  912866787  7  1 Bf  -     -     -         2400   50    0 
+starback  912866858  7  7 f   -     -     -         2350    0    0 
+starback  912866901  6  5 f   -     -     -         2350    0    0 
+starback  912866917  6  5 f   -     -     -         2350    0    0 
+starback  912866948  6  4 f   -     -     -         2350    0    0 
+starback  912866971  6  3 f   -     -     -         2350    0    0 
+starback  912867047  6  2 Bk  f     -     -         2350  100    0 
+starback  912867084  6  1 Bf  -     -     -         2250   50    0 
+starback  912867120  6  6 f   -     -     -         2200    0    0 
+starback  912867138  6  5 f   -     -     -         2200    0    0 
+starback  912867173  6  4 f   -     -     -         2200    0    0 
+starback  912867190  6  3 f   -     -     -         2200    0    0 
+starback  912867241  6  2 Bk  b     -     -         2200  800 1250 Qs Kc
+starback  912867267  5  1 Br  -     -     -         2650 1300 2000 6c 7h
+starback  912867289  4  4 f   -     -     -         3350    0    0 
+starback  912867297  4  3 f   -     -     -         3350    0    0 
+starback  912867314  4  2 B   -     -     -         3350  200  300 
+starback  912867324  4  1 Bf  -     -     -         3450  100    0 
+starback  912867351  3  3 r   -     -     -         3350  400  600 
+starback  912867364  3  3 f   -     -     -         3550    0    0 
+starback  912867396  3  2 Bk  kf    -     -         3550  200    0 
+starback  912867436  3  1 Br  k     bA    -         3350 3350 4350 
+starback  912867466  3  3 f   -     -     -         4350    0    0 
+starback  912867474  3  2 Bk  k     bc    kcA       4350 4350 4550 Ks 9c
+starback  912867521  3  1 Br  -     -     -         4550 1000 1400 
+starback  912867549  3  3 r   bA    -     -         4950 4950    0 5c Ah
+starback  912879958 16  8 f   -     -     -        10000    0    0 
+starback  912880003 16  7 f   -     -     -        10000    0    0 
+starback  912880045 16  6 f   -     -     -        10000    0    0 
+starback  912880096 16  5 cc  k     kf    -        10000  550    0 
+starback  912880184 16  4 f   -     -     -         9450    0    0 
+starback  912880287 16  3 f   -     -     -         9450    0    0 
+starback  912880341 16  2 Bc  k     kf    -         9450  700    0 
+starback  912880449 14  1 Bc  kf    -     -         8750  200    0 
+starback  912880503 13 13 c   f     -     -         8550  200    0 
+starback  912880601 13 12 c   b     k     b         8350 3400 2250 2s Js
+starback  912880657 13 11 f   -     -     -         7200    0    0 
+starback  912880724 13 10 f   -     -     -         7200    0    0 
+starback  912880796 10  6 c   f     -     -         7200  400    0 
+starback  912880857 10  6 f   -     -     -         6800    0    0 
+starback  912880901 10  5 cf  -     -     -         6800  400    0 
+starback  912880951 10  4 f   -     -     -         6400    0    0 
+starback  912880967  9  3 r   bA    -     -         6400 6400 9700 
+starback  912881008  9  2 Bf  -     -     -         9700  400    0 
+starback  912881044  9  1 Bf  -     -     -         9300  200    0 
+starback  912881083  9  9 f   -     -     -         9100    0    0 
+starback  912881139  9  8 f   -     -     -         9100    0    0 
+starback  912881195  8  7 c   rA    -     -         9100 9100 6800 4c 4d
+starback  912881252  8  6 f   -     -     -         6800    0    0 
+starback  912881287  8  5 f   -     -     -         6800    0    0 
+starback  912881323  8  4 f   -     -     -         6800    0    0 
+starback  912881351  8  3 f   -     -     -         6800    0    0 
+starback  912881372  8  2 Bk  kf    -     -         6800  800    0 
+starback  912881419  8  1 Bc  kf    -     -         6000  800    0 
+starback  912881448  8  8 r   -     -     -         5200 1800 3000 
+starback  912881464  8  7 f   -     -     -         6400    0    0 
+starback  912881494  8  6 f   -     -     -         6400    0    0 
+starback  912881533  8  5 f   -     -     -         6400    0    0 
+starback  912881565  8  4 f   -     -     -         6400    0    0 
+starback  912881590  8  3 f   -     -     -         6400    0    0 
+starback  912881611  8  2 Bf  -     -     -         6400 1600    0 
+starback  912881639  8  1 Bc  kf    -     -         4800 1600    0 
+starback  912881690  8  8 rA  -     -     -         3200 3200    0 Jc Qd
+starback  912893178 14  7 f   -     -     -         3000    0    0 
+starback  912893243 14  6 f   -     -     -         3000    0    0 
+starback  912893334 13  4 f   -     -     -         3000    0    0 
+starback  912893403 13  3 f   -     -     -         3000    0    0 
+starback  912893507 12  1 Bk  k     b     bf        3000 1360    0 
+starback  912893612 12  1 Bf  -     -     -         1640   30    0 
+starback  912893662 12 12 f   -     -     -         1610    0    0 
+starback  912893737 12 11 f   -     -     -         1610    0    0 
+starback  912893821 12 10 f   -     -     -         1610    0    0 
+starback  912893902 12  9 c   c     k     k         1610  840    0 3d Ad
+starback  912894002 11  8 f   -     -     -          770    0    0 
+starback  912894052 11  7 f   -     -     -          770    0    0 
+starback  912894111 11  6 f   -     -     -          770    0    0 
+starback  912894186 10  5 f   -     -     -          770    0    0 
+starback  912894294 10  4 f   -     -     -          770    0    0 
+starback  912894344 10  3 rA  -     -     -          770  770    0 2d Jd
+starback  913677812 14  6 rc  brA   -     -        10000 10000 20540 Ks Ac
+starback  913677885 13  5 f   -     -     -        20540    0    0 
+starback  913678004 13  4 f   -     -     -        20540    0    0 
+starback  913678068 13  3 f   -     -     -        20540    0    0 
+starback  913678119 13  2 Bf  -     -     -        20540   50    0 
+starback  913678149 13  1 Bf  -     -     -        20490   25    0 
+starback  913678194 13 13 f   -     -     -        20465    0    0 
+starback  913678261 13 12 c   k     f     -        20465  100    0 
+starback  913678324 13 11 cc  f     -     -        20365  850    0 
+starback  913678391 12  9 f   -     -     -        19515    0    0 
+starback  913678420 12  8 f   -     -     -        19515    0    0 
+starback  913678508 12  7 r   k     b     -        19515 1850 3250 
+starback  913678576 12  6 f   -     -     -        20915    0    0 
+starback  913678602 12  5 f   -     -     -        20915    0    0 
+starback  913678680 12  4 f   -     -     -        20915    0    0 
+starback  913678730 12  3 f   -     -     -        20915    0    0 
+starback  913678791 12  2 Bf  -     -     -        20915  200    0 
+starback  913678826 11  1 Bf  -     -     -        20715  100    0 
+starback  913678915 11 11 c   b     -     -        20615 1200 2200 
+starback  913678951 11 10 c   k     f     -        21615  400    0 
+starback  913678980 11  9 f   -     -     -        21215    0    0 
+starback  913679004 11  8 f   -     -     -        21215    0    0 
+starback  913679045 11  7 c   k     b     -        21215 1900 3500 
+starback  913679100 11  6 r   f     -     -        22815  900    0 
+starback  913679155 11  5 f   -     -     -        21915    0    0 
+starback  913679194 11  4 f   -     -     -        21915    0    0 
+starback  913679235 11  3 c   b     -     -        21915 1400 2200 
+starback  913679264 11  2 Br  k     k     k        22715 1400    0 Ah 7s
+starback  913679307 11  1 Bc  b     -     -        21315 1400 2600 
+starback  913679333 11 11 f   -     -     -        22515    0    0 
+starback  913679363 11 10 f   -     -     -        22515    0    0 
+starback  913679413 11  9 r   k     k     bA       22515 22515 45165 7c 7s
+starback  913679491 10  7 f   -     -     -        45165    0    0 
+starback  913679536  9  5 f   -     -     -        45165    0    0 
+starback  913679614  9  4 r   b     -     -        45165 5800 8800 
+starback  913679637  9  3 f   -     -     -        48165    0    0 
+starback  913679650  9  2 Bf  -     -     -        48165  800    0 
+starback  913679713  8  1 Bf  -     -     -        47365  800    0 
+starback  913679759  8  8 f   -     -     -        46565    0    0 
+starback  913679786  8  7 f   -     -     -        46565    0    0 
+starback  913679826  8  6 c   k     b     -        46565 6600 13000 
+starback  913679857  8  5 cc  k     f     -        52965 4925    0 
+starback  913679931  7  4 f   -     -     -        48040    0    0 
+starback  913679972  7  3 f   -     -     -        48040    0    0 
+starback  913679997  7  2 B   -     -     -        48040 1600 1860 4d 7s
+starback  913680007  7  1 Bc  k     kf    -        48300 1600    0 
+starback  913680040  6  6 f   -     -     -        46700    0    0 
+starback  913680066  6  5 f   -     -     -        46700    0    0 
+starback  913680094  6  4 f   -     -     -        46700    0    0 
+starback  913680105  6  3 f   -     -     -        46700    0    0 
+starback  913680132  6  2 Bk  k     b     -        46700 8200 13000 
+starback  913680183  6  1 Bc  kf    -     -        51500 7716    0 
+starback  913680210  5  5 f   -     -     -        43784    0    0 
+starback  913680231  3  3 f   -     -     -        43784    0    0 
+starback  913680238  3  3 r   -     -     -        43784 8200 13000 
+starback  913680252  3  2 B   -     -     -        48584 3200 4800 
+starback  913680257  3  1 Br  b     -     -        50184 18200 26400 
+starback  913680281  3  3 f   -     -     -        58384    0    0 
+starback  913680287  3  2 Bk  bf    -     -        58384 9200    0 
+starback  913680321  3  1 Bc  -     -     -        49184 8492 20184 As 6h
+starback  913680340  2  2 Br  f     -     -        60876 29600    0 
+starback  913680400  2  1 Bf  -     -     -        31276 1600    0 
+starback  913680402  2  2 Br  b     -     -        29676 26200 35400 
+starback  913680434  2  1 Bf  -     -     -        38876 1600    0 
+starback  913680437  2  2 Br  -     -     -        37276 13200 16400 
+starback  913680453  2  1 Bf  -     -     -        40476 1600    0 
+starback  913680457  2  2 B   -     -     -        38876 6400 9600 
+starback  913680462  2  1 Bc  b     -     -        42076 16400 22800 
+starback  913680481  2  2 B   -     -     -        48476 6400 9600 
+starback  913680485  2  1 Bcc bA    -     -        51676 51676 70876 
+starback  913680529  2  2 Bf  -     -     -        70876 6400    0 
+starback  913680540  2  1 Bf  -     -     -        64476 3200    0 
+starback  913680544  2  2 BrA -     -     -        61276 61276 122552 Ad 5d
+starback  913680567  2  1 Bf  -     -     -       122552 3200    0 
+starback  913680576  2  2 Bk  b     -     -       119352 20648    0 3h 5h
+starback  913680601  2  1 Bf  -     -     -        98704 3200    0 
+starback  913680613  2  2 B   -     -     -        95504 6400 9600 
+starback  913680620  2  1 Br  -     -     -        98704 16400 22800 
+starback  913680628  2  2 Bc  f     -     -       105104 19200    0 
+starback  913680651  2  1 Br  kf    -     -        85904 16400    0 
+starback  913680681  2  2 B   -     -     -        69504 6400 9600 
+starback  913680688  2  1 Bf  -     -     -        72704 3200    0 
+starback  913680691  2  2 Bk  b     -     -        69504 16400 22800 
+starback  913680719  2  1 Br  kf    -     -        75904 16400    0 
+starback  913680749  2  2 Bk  b     -     -        59504 16400 22800 
+starback  913680774  2  1 Br  -     -     -        65904 16400 22800 
+starback  913680784  2  2 B   -     -     -        72304 6400 9600 
+starback  913680791  2  1 Br  bf    -     -        75504 41400    0 
+starback  913680821  2  2 Bk  k     k     k        34104 12800    0 8h Td
+starback  913680859  2  1 Bf  -     -     -        21304 6400    0 
+starback  913680867  2  2 Bk  k     bA    -        14904 14904 29808 Ad 4c
+starback  913680898  2  1 Bf  -     -     -        29808 6400    0 
+starback  913680917  2  2 BcA -     -     -        23408 23408 46816 As 4c
+starback  913680926  2  1 BrA -     -     -        46816 46816    0 5h Kh

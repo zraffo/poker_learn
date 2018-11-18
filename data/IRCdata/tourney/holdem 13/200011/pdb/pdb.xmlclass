@@ -1,0 +1,325 @@
+xmlclass  973625395  8  1 Bc  kf    -     -         5000  175    0 
+xmlclass  973625574  8  8 f   -     -     -         4825    0    0 
+xmlclass  973625587  8  7 f   -     -     -         4825    0    0 
+xmlclass  973625658  8  6 c   f     -     -         4825  175    0 
+xmlclass  973625735  8  5 f   -     -     -         4650    0    0 
+xmlclass  973625777  8  4 c   k     c     k         4650  275    0 7h 8h
+xmlclass  973625867  8  3 f   -     -     -         4375    0    0 
+xmlclass  973625979  8  2 Bk  k     k     k         4375  100    0 7d 3c
+xmlclass  973626109  8  1 Bf  -     -     -         4275  100    0 
+xmlclass  973626191  8  8 f   -     -     -         4175    0    0 
+xmlclass  973626247  8  7 c   f     -     -         4175  200    0 
+xmlclass  973626314  8  6 f   -     -     -         3975    0    0 
+xmlclass  973626363  7  5 f   -     -     -         3975    0    0 
+xmlclass  973626412  7  4 c   k     f     -         3975  400    0 
+xmlclass  973626490  7  3 f   -     -     -         3575    0    0 
+xmlclass  973626532  7  2 Bk  kf    -     -         3575  400    0 
+xmlclass  973626617  6  1 Bc  bA    -     -         3175 3175 7150 Qd Th
+xmlclass  973626671  6  6 f   -     -     -         7150    0    0 
+xmlclass  973626706  6  5 f   -     -     -         7150    0    0 
+xmlclass  973626740  6  4 cc  c     -     -         7150 4675 4350 Kh Qh
+xmlclass  973626813  5  3 f   -     -     -         6825    0    0 
+xmlclass  973626840  5  2 Bc  -     -     -         6825 2425 5250 8s 8h
+xmlclass  973626856  4  1 Bf  -     -     -         9650  400    0 
+xmlclass  973626876  4  4 f   -     -     -         9250    0    0 
+xmlclass  973626901  4  3 f   -     -     -         9250    0    0 
+xmlclass  973626916  4  2 B   -     -     -         9250  800 1200 
+xmlclass  973626933  4  1 Bc  kf    -     -         9650  800    0 
+xmlclass  973626950  4  4 r   -     -     -         8850 2800 4000 
+xmlclass  973626962  4  3 c   k     kf    -        10050  800    0 
+xmlclass  973626997  4  2 Bk  k     k     b         9250 3200    0 8s Ad
+xmlclass  973627042  4  1 Bf  -     -     -         6050  800    0 
+xmlclass  973627056  4  4 f   -     -     -         5250    0    0 
+xmlclass  973627087  4  3 ccA -     -     -         5250 5250 14475 Ac Js
+xmlclass  973627113  3  1 Bc  -     -     -        14475 3200    0 7d Kd
+xmlclass  973627134  3  1 Bf  -     -     -        11275  800    0 
+xmlclass  973627149  3  3 f   -     -     -        10475    0    0 
+xmlclass  973627156  3  2 Bf  -     -     -        10475 1600    0 
+xmlclass  973627171  3  1 Bf  -     -     -         8875  800    0 
+xmlclass  973627212  3  3 f   -     -     -         8075    0    0 
+xmlclass  973627237  3  2 BrA -     -     -         8075 8075 16150 9s As
+xmlclass  973627257  3  1 Bc  -     -     -        16150 2325    0 2d 2c
+xmlclass  973627277  3  3 f   -     -     -        13825    0    0 
+xmlclass  973627292  2  1 Bk  k     k     k        13825 1600 1600 4s Kc
+xmlclass  973627320  2  1 Bf  -     -     -        13825  800    0 
+xmlclass  973627328  2  2 B   -     -     -        13025 1600 2400 
+xmlclass  973627331  2  1 Bf  -     -     -        13825  800    0 
+xmlclass  973627333  2  2 B   -     -     -        13025 1600 2400 
+xmlclass  973627336  2  1 Bf  -     -     -        13825  800    0 
+xmlclass  973627340  2  2 Bf  -     -     -        13025 1600    0 
+xmlclass  973627348  2  1 Bf  -     -     -        11425 1600    0 
+xmlclass  973627352  2  2 BrA -     -     -         9825 9825 19650 5c 5d
+xmlclass  973627369  2  1 Bcf -     -     -        19650 3200    0 
+xmlclass  973627396  2  2 B   -     -     -        16450 3200 4800 
+xmlclass  973627399  2  1 Bf  -     -     -        18050 1600    0 
+xmlclass  973627402  2  2 Bf  -     -     -        16450 3200    0 
+xmlclass  973627412  2  1 Bf  -     -     -        13250 1600    0 
+xmlclass  973627414  2  2 BrA -     -     -        11650 11650 14850 
+xmlclass  973627438  2  1 Bf  -     -     -        14850 1600    0 
+xmlclass  973627448  2  2 B   -     -     -        13250 3200 4800 
+xmlclass  973627451  2  1 Bf  -     -     -        14850 1600    0 
+xmlclass  973627455  2  2 Bf  -     -     -        13250 3200    0 
+xmlclass  973627459  2  1 Bf  -     -     -        10050 1600    0 
+xmlclass  973627462  2  2 Bk  k     f     -         8450 3200    0 
+xmlclass  973627500  2  1 BrA -     -     -         5250 5250 8450 
+xmlclass  973627508  2  2 B   -     -     -         8450 3200 4800 
+xmlclass  973627512  2  1 Bf  -     -     -        10050 1600    0 
+xmlclass  973627518  2  2 Bf  -     -     -         8450 3200    0 
+xmlclass  973627523  2  1 Bf  -     -     -         5250 1600    0 
+xmlclass  973627528  2  2 BcA -     -     -         3650 3650    0 Qh Ks
+xmlclass  973627894  8  7 c   c     f     -         5000  250    0 
+xmlclass  973627956  8  6 c   k     k     b         4750  375    0 Ks Td
+xmlclass  973628021  8  5 c   k     k     c         4375  138  351 8h Qd
+xmlclass  973628085  8  4 f   -     -     -         4588    0    0 
+xmlclass  973628136  8  3 f   -     -     -         4588    0    0 
+xmlclass  973628187  8  2 Bf  -     -     -         4588   50    0 
+xmlclass  973628221  8  1 Br  -     -     -         4538 1525 2100 Td As
+xmlclass  973628248  7  7 f   -     -     -         5113    0    0 
+xmlclass  973628271  7  6 f   -     -     -         5113    0    0 
+xmlclass  973628322  7  5 f   -     -     -         5113    0    0 
+xmlclass  973628345  7  4 c   kc    b     b         5113 3075 6300 7d Js
+xmlclass  973628392  7  3 f   -     -     -         8338    0    0 
+xmlclass  973628445  7  2 Bk  f     -     -         8338  100    0 
+xmlclass  973628480  7  1 Bf  -     -     -         8238   50    0 
+xmlclass  973628523  7  7 f   -     -     -         8188    0    0 
+xmlclass  973628551  6  5 f   -     -     -         8188    0    0 
+xmlclass  973628590  6  5 f   -     -     -         8188    0    0 
+xmlclass  973628624  6  4 c   f     -     -         8188  700    0 
+xmlclass  973628648  6  3 c   k     k     b         7488 1000 1600 
+xmlclass  973628745  6  2 Bk  f     -     -         8088  200    0 
+xmlclass  973628759  6  1 Bc  k     b     -         7888 1000 1600 
+xmlclass  973628789  6  6 f   -     -     -         8488    0    0 
+xmlclass  973628819  6  5 f   -     -     -         8488    0    0 
+xmlclass  973628850  6  4 f   -     -     -         8488    0    0 
+xmlclass  973628907  6  3 c   b     -     -         8488 1600 2400 
+xmlclass  973628925  6  2 Bk  kc    k     k         9288 2400 6000 3h Ts
+xmlclass  973628960  6  1 Bf  -     -     -        12888  200    0 
+xmlclass  973628977  6  6 f   -     -     -        12688    0    0 
+xmlclass  973629001  6  5 c   f     -     -        12688  400    0 
+xmlclass  973629022  5  3 cc  k     k     k        12288 1400    0 Jc Kc
+xmlclass  973629058  5  2 Bk  k     k     f        10888  400    0 
+xmlclass  973629098  5  1 Bc  kf    -     -        10488  400    0 
+xmlclass  973629122  5  5 f   -     -     -        10088    0    0 
+xmlclass  973629149  5  4 f   -     -     -        10088    0    0 
+xmlclass  973629174  4  2 f   -     -     -        10088    0    0 
+xmlclass  973629193  4  2 Bk  c     k     k        10088 2400 4800 9h 9d
+xmlclass  973629216  4  1 Bc  k     k     k        12488  800 1600 Ks Jc
+xmlclass  973629249  4  4 cc  f     -     -        13288 3200    0 
+xmlclass  973629283  4  3 c   k     k     k        10088  800    0 2s 2c
+xmlclass  973629319  4  2 B   -     -     -         9288  800 1200 
+xmlclass  973629331  4  1 Bf  -     -     -         9688  400    0 
+xmlclass  973629337  4  4 f   -     -     -         9288    0    0 
+xmlclass  973629361  4  3 f   -     -     -         9288    0    0 
+xmlclass  973629368  4  2 Bk  k     k     bcA       9288 9288    0 7c Tc
+xmlclass  973630388 17 17 f   -     -     -        10000    0    0 
+xmlclass  973630499 16 15 f   -     -     -        10000    0    0 
+xmlclass  973630547 16 14 f   -     -     -        10000    0    0 
+xmlclass  973630674 16 13 c   f     -     -        10000   50    0 
+xmlclass  973630784 16 12 f   -     -     -         9950    0    0 
+xmlclass  973630819 16 11 cc  kc    f     -         9950 1800    0 
+xmlclass  973630964 14 10 f   -     -     -         8150    0    0 
+xmlclass  973631028 14  9 c   k     f     -         8150  550    0 
+xmlclass  973631125 14  8 f   -     -     -         7600    0    0 
+xmlclass  973631206 14  7 c   k     f     -         7600  200    0 
+xmlclass  973631268 14  6 f   -     -     -         7400    0    0 
+xmlclass  973631336 14  5 c   k     f     -         7400  200    0 
+xmlclass  973631432 14  4 f   -     -     -         7200    0    0 
+xmlclass  973631482 14  3 f   -     -     -         7200    0    0 
+xmlclass  973631530 14  2 Bk  kf    -     -         7200  200    0 
+xmlclass  973631574 13  1 Bc  k     k     k         7000  400    0 4d Qd
+xmlclass  973631642 13 13 f   -     -     -         6600    0    0 
+xmlclass  973631722 13 12 c   f     -     -         6600  400    0 
+xmlclass  973631765 12 10 f   -     -     -         6200    0    0 
+xmlclass  973631834 12  9 f   -     -     -         6200    0    0 
+xmlclass  973631977 12  8 f   -     -     -         6200    0    0 
+xmlclass  973632043 12  7 f   -     -     -         6200    0    0 
+xmlclass  973632155 12  6 f   -     -     -         6200    0    0 
+xmlclass  973632239 11  4 f   -     -     -         6200    0    0 
+xmlclass  973632311  9  4 f   -     -     -         6200    0    0 
+xmlclass  973632389  8  2 f   -     -     -         6200    0    0 
+xmlclass  973632437  8  2 Bk  k     bA    -         6200 6200 7800 
+xmlclass  973632494  8  1 Bc  k     k     kc        7800 4800 9600 9c 9s
+xmlclass  973632544  8  8 f   -     -     -        12600    0    0 
+xmlclass  973632649  8  7 f   -     -     -        12600    0    0 
+xmlclass  973632713  7  5 rA  -     -     -        12600 12600 15000 
+xmlclass  973632736  7  4 rA  -     -     -        15000 15000 30800 6d 9d
+xmlclass  973632754  7  3 c   rA    -     -        30800 30800    0 3c 3h
+xmlclass  973695228 16 12 f   -     -     -        10000    0    0 
+xmlclass  973695264 16 11 f   -     -     -        10000    0    0 
+xmlclass  973695282 16 10 f   -     -     -        10000    0    0 
+xmlclass  973695349 16  9 f   -     -     -        10000    0    0 
+xmlclass  973695420 16  8 f   -     -     -        10000    0    0 
+xmlclass  973695517 16  7 f   -     -     -        10000    0    0 
+xmlclass  973695605 16  6 c   c     c     bA       10000 10000    0 Ah Kh
+xmlclass  973698990 12  6 f   -     -     -        10000    0    0 
+xmlclass  973699089 12  5 c   k     kc    k        10000  450    0 6d 9d
+xmlclass  973699140 12  4 f   -     -     -         9550    0    0 
+xmlclass  973699248 12  3 f   -     -     -         9550    0    0 
+xmlclass  973699309 12  2 Bf  -     -     -         9550  100    0 
+xmlclass  973699417 12  1 Bc  kf    -     -         9450  700    0 
+xmlclass  973699453 12 12 f   -     -     -         8750    0    0 
+xmlclass  973699511 12 11 c   f     -     -         8750  900    0 
+xmlclass  973699571 12 10 f   -     -     -         7850    0    0 
+xmlclass  973699715 12  9 f   -     -     -         7850    0    0 
+xmlclass  973699747 12  8 f   -     -     -         7850    0    0 
+xmlclass  973699798 12  7 f   -     -     -         7850    0    0 
+xmlclass  973699837 12  6 c   kf    -     -         7850  400    0 
+xmlclass  973699896 11  5 f   -     -     -         7450    0    0 
+xmlclass  973699936 10  3 c   k     f     -         7450  400    0 
+xmlclass  973699972 10  3 f   -     -     -         7050    0    0 
+xmlclass  973700050  9  2 Bk  kf    -     -         7050  400    0 
+xmlclass  973700100  9  1 Bc  kf    -     -         6650 1400    0 
+xmlclass  973700168  9  9 f   -     -     -         5250    0    0 
+xmlclass  973700233  9  8 f   -     -     -         5250    0    0 
+xmlclass  973700316  9  7 f   -     -     -         5250    0    0 
+xmlclass  973700414  9  6 f   -     -     -         5250    0    0 
+xmlclass  973700460  8  4 f   -     -     -         5250    0    0 
+xmlclass  973700538  8  3 f   -     -     -         5250    0    0 
+xmlclass  973700556  7  2 Bk  k     kcA   -         5250 5250    0 3c 4c
+xmlclass  973701842 13  3 f   -     -     -        10000    0    0 
+xmlclass  973701883 13  2 Bk  kf    -     -        10000   50    0 
+xmlclass  973701934 13  1 Bc  k     k     b         9950  300  750 8c Js
+xmlclass  973702003 13 13 c   k     f     -        10400   50    0 
+xmlclass  973702031 13 12 f   -     -     -        10350    0    0 
+xmlclass  973702077 13 11 c   b     c     k        10350 1050 3200 5c Kc
+xmlclass  973702161 13 10 c   kf    -     -        12500   50    0 
+xmlclass  973702232 13  9 f   -     -     -        12450    0    0 
+xmlclass  973702313 13  8 f   -     -     -        12450    0    0 
+xmlclass  973702406 13  7 f   -     -     -        12450    0    0 
+xmlclass  973702444 12  5 c   k     c     k        12450  450    0 Jh Qs
+xmlclass  973702504 12  4 f   -     -     -        12000    0    0 
+xmlclass  973702582 12  3 f   -     -     -        12000    0    0 
+xmlclass  973702634 12  2 Bf  -     -     -        12000  200    0 
+xmlclass  973702714 12  1 Bf  -     -     -        11800  100    0 
+xmlclass  973702759 12 12 c   f     -     -        11700  200    0 
+xmlclass  973702804 12 11 f   -     -     -        11500    0    0 
+xmlclass  973702852 12 10 f   -     -     -        11500    0    0 
+xmlclass  973702966 12  9 c   k     f     -        11500  200    0 
+xmlclass  973703041 12  8 f   -     -     -        11300    0    0 
+xmlclass  973703121 12  7 cf  -     -     -        11300  400    0 
+xmlclass  973703218 12  6 f   -     -     -        10900    0    0 
+xmlclass  973703252 12  5 f   -     -     -        10900    0    0 
+xmlclass  973703304 12  4 f   -     -     -        10900    0    0 
+xmlclass  973703350 12  3 f   -     -     -        10900    0    0 
+xmlclass  973703424 10  2 Bk  kc    kf    -        10900 2800    0 
+xmlclass  973703545 10  1 Bf  -     -     -         8100  400    0 
+xmlclass  973703577 10 10 c   c     rA    -         7700 7700 17000 Ah Js
+xmlclass  973703632 10  9 f   -     -     -        17000    0    0 
+xmlclass  973703668 10  8 f   -     -     -        17000    0    0 
+xmlclass  973703711  8  6 f   -     -     -        17000    0    0 
+xmlclass  973703735  8  5 f   -     -     -        17000    0    0 
+xmlclass  973703789  8  4 f   -     -     -        17000    0    0 
+xmlclass  973703813  7  3 c   rA    -     -        17000 17000 23400 
+xmlclass  973703863  7  2 Bf  -     -     -        23400 1600    0 
+xmlclass  973703879  7  1 Bf  -     -     -        21800  800    0 
+xmlclass  973703897  7  7 c   b     -     -        21000 5600 8000 
+xmlclass  973703927  7  6 f   -     -     -        23400    0    0 
+xmlclass  973703934  7  5 f   -     -     -        23400    0    0 
+xmlclass  973703951  6  3 f   -     -     -        23400    0    0 
+xmlclass  973703965  6  3 crA -     -     -        23400 23400 36075 Ks 9s
+xmlclass  973704034  5  2 Bf  -     -     -        36075 1600    0 
+xmlclass  973704060  5  1 Bc  k     k     kf       34475 1600    0 
+xmlclass  973704113  5  5 f   -     -     -        32875    0    0 
+xmlclass  973704136  5  4 c   f     -     -        32875 1600    0 
+xmlclass  973704162  5  3 c   b     -     -        31275 11200 16000 
+xmlclass  973704173  5  2 B   -     -     -        36075 3200 4800 
+xmlclass  973704178  5  1 Bc  kf    -     -        37675 3200    0 
+xmlclass  973704220  5  5 f   -     -     -        34475    0    0 
+xmlclass  973704232  5  4 c   bc    -     -        34475 16700    0 7h Ac
+xmlclass  973704263  5  3 c   b     -     -        17775 12800 25915 5d 5s
+xmlclass  973704297  4  2 B   -     -     -        30890 3200 4800 
+xmlclass  973704305  4  1 Bf  -     -     -        32490 1600    0 
+xmlclass  973704319  4  4 f   -     -     -        30890    0    0 
+xmlclass  973704327  4  3 c   k     k     k        30890 3200 8000 Qd 8c
+xmlclass  973704353  4  2 Bc  k     k     k        35690 11200    0 7h Ac
+xmlclass  973704383  4  1 Bc  krA   -     -        24490 24490 48980 Kd Ks
+xmlclass  973704403  4  4 cc  k     k     f        48980 12800    0 
+xmlclass  973704437  4  3 f   -     -     -        36180    0    0 
+xmlclass  973704445  4  2 Bk  k     k     k        36180 3200 6400 7h 9c
+xmlclass  973704463  4  1 Bc  k     kc    kc       39380 28800 28800 Jh 4d
+xmlclass  973704498  4  4 c   k     k     k        39380 3200 8000 9d Qs
+xmlclass  973704522  4  3 f   -     -     -        44180    0    0 
+xmlclass  973704545  3  1 B   -     -     -        44180 6400 6400 
+xmlclass  973704556  3  1 Bf  -     -     -        44180 3200    0 
+xmlclass  973704563  3  3 f   -     -     -        40980    0    0 
+xmlclass  973704581  3  2 Bf  -     -     -        40980 6400    0 
+xmlclass  973704587  3  1 Bc  kf    -     -        34580 6400    0 
+xmlclass  973704601  3  3 f   -     -     -        28180    0    0 
+xmlclass  973704605  3  2 Bf  -     -     -        28180 6400    0 
+xmlclass  973704623  3  1 Bf  -     -     -        21780 3200    0 
+xmlclass  973704637  2  2 f   -     -     -        18580    0    0 
+xmlclass  973704644  2  2 Bk  bA    -     -        18580 18580 24980 
+xmlclass  973704677  2  1 BrcA -     -     -        24980 24980 49960 3d 3s
+xmlclass  973704687  2  2 B   -     -     -        49960 6400 9600 
+xmlclass  973704703  2  1 Bc  kf    -     -        53160 6400    0 
+xmlclass  973704717  2  2 Bk  rA    -     -        46760 46760 93520 5h 6c
+xmlclass  973704737  2  1 Bf  -     -     -        93520 3200    0 
+xmlclass  973704745  2  2 B   -     -     -        90320 6400 9600 
+xmlclass  973704748  2  1 Bf  -     -     -        93520 3200    0 
+xmlclass  973704753  2  2 B   -     -     -        90320 6400 9600 
+xmlclass  973704755  2  1 Bf  -     -     -        93520 3200    0 
+xmlclass  973704757  2  2 Br  -     -     -        90320 57600 97280 Ad Qc
+xmlclass  973705140 12  6 f   -     -     -        10000    0    0 
+xmlclass  973705233 12  5 f   -     -     -        10000    0    0 
+xmlclass  973705314 12  4 f   -     -     -        10000    0    0 
+xmlclass  973705356 12  3 f   -     -     -        10000    0    0 
+xmlclass  973705429 12  2 Bk  k     f     -        10000   50    0 
+xmlclass  973705521 12  1 Bf  -     -     -         9950   50    0 
+xmlclass  973705599 12 12 f   -     -     -         9900    0    0 
+xmlclass  973705662 12 11 f   -     -     -         9900    0    0 
+xmlclass  973705737 11  9 f   -     -     -         9900    0    0 
+xmlclass  973705784 11  9 f   -     -     -         9900    0    0 
+xmlclass  973705870 11  8 f   -     -     -         9900    0    0 
+xmlclass  973705929 11  7 f   -     -     -         9900    0    0 
+xmlclass  973705970 11  6 f   -     -     -         9900    0    0 
+xmlclass  973705994 11  5 f   -     -     -         9900    0    0 
+xmlclass  973706050 11  4 f   -     -     -         9900    0    0 
+xmlclass  973706114 11  3 f   -     -     -         9900    0    0 
+xmlclass  973706156 11  2 Bf  -     -     -         9900  200    0 
+xmlclass  973706188 10  1 Bf  -     -     -         9700  100    0 
+xmlclass  973706248 10 10 f   -     -     -         9600    0    0 
+xmlclass  973706300  9  9 f   -     -     -         9600    0    0 
+xmlclass  973706444  9  8 f   -     -     -         9600    0    0 
+xmlclass  973706482  9  7 f   -     -     -         9600    0    0 
+xmlclass  973706509  9  6 f   -     -     -         9600    0    0 
+xmlclass  973706525  9  5 f   -     -     -         9600    0    0 
+xmlclass  973706535  9  4 f   -     -     -         9600    0    0 
+xmlclass  973706580  9  3 f   -     -     -         9600    0    0 
+xmlclass  973706619  9  2 Bk  k     k     k         9600  800    0 Qh 4h
+xmlclass  973706650  9  1 Bf  -     -     -         8800  400    0 
+xmlclass  973706674  8  8 f   -     -     -         8400    0    0 
+xmlclass  973706708  8  8 f   -     -     -         8400    0    0 
+xmlclass  973706748  8  7 f   -     -     -         8400    0    0 
+xmlclass  973706770  8  6 f   -     -     -         8400    0    0 
+xmlclass  973706794  8  5 f   -     -     -         8400    0    0 
+xmlclass  973706856  8  4 f   -     -     -         8400    0    0 
+xmlclass  973706887  8  3 f   -     -     -         8400    0    0 
+xmlclass  973706920  8  2 Bk  kf    -     -         8400 1600    0 
+xmlclass  973706941  8  1 Bf  -     -     -         6800  800    0 
+xmlclass  973706951  8  8 f   -     -     -         6000    0    0 
+xmlclass  973707000  8  7 f   -     -     -         6000    0    0 
+xmlclass  973707017  8  6 f   -     -     -         6000    0    0 
+xmlclass  973707043  8  5 f   -     -     -         6000    0    0 
+xmlclass  973707068  8  4 f   -     -     -         6000    0    0 
+xmlclass  973707101  8  3 f   -     -     -         6000    0    0 
+xmlclass  973707112  8  2 Bk  f     -     -         6000 1600    0 
+xmlclass  973707139  7  1 Bf  -     -     -         4400  800    0 
+xmlclass  973707151  7  7 f   -     -     -         3600    0    0 
+xmlclass  973707167  7  6 f   -     -     -         3600    0    0 
+xmlclass  973707194  6  4 f   -     -     -         3600    0    0 
+xmlclass  973707218  5  3 f   -     -     -         3600    0    0 
+xmlclass  973707244  5  2 BcA -     -     -         3600 3600    0 4h Qs
+xmlclass  973712397 18  3 f   -     -     -        10000    0    0 
+xmlclass  973712499 18  2 Bk  kf    -     -        10000   50    0 
+xmlclass  973712603 18  1 Bcf -     -     -         9950   50    0 
+xmlclass  973712720 15 15 f   -     -     -         9900    0    0 
+xmlclass  973712798 15 15 c   f     -     -         9900  350    0 
+xmlclass  973712852 15 14 f   -     -     -         9550    0    0 
+xmlclass  973712965 15 13 f   -     -     -         9550    0    0 
+xmlclass  973713042 15 12 c   f     -     -         9550  650    0 
+xmlclass  973713135 14 10 f   -     -     -         8900    0    0 
+xmlclass  973713203 14  9 f   -     -     -         8900    0    0 
+xmlclass  973713258 13  7 f   -     -     -         8900    0    0 
+xmlclass  973713321 13  6 f   -     -     -         8900    0    0 
+xmlclass  973713373 12  4 f   -     -     -         8900    0    0 
+xmlclass  973713428 12  3 c   c     cA    -         8900 8900    0 Ah 8d

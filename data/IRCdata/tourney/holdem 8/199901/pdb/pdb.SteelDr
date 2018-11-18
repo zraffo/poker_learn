@@ -1,0 +1,337 @@
+SteelDr   915251463 21 17 c   f     -     -         5000   40    0 
+SteelDr   915251611 20 15 cc  f     -     -         4960  340    0 
+SteelDr   915251731 20 14 c   f     -     -         4620   40    0 
+SteelDr   915251839 20 13 c   k     kf    -         4580   40    0 
+SteelDr   915251962 20 12 cc  c     k     bA        4540 4540    0 Qc Tc
+SteelDr   915256295 21 14 c   f     -     -         5000  350    0 
+SteelDr   915256380 21 13 c   kf    -     -         4650   50    0 
+SteelDr   915256537 21 12 cc  kf    -     -         4600  425    0 
+SteelDr   915256616 21 11 c   krcA  -     -         4175 4175 13025 Ah As
+SteelDr   915256722 20  9 c   k     k     f        13025  100    0 
+SteelDr   915256882 20  8 c   f     -     -        12925  100    0 
+SteelDr   915256944 20  7 c   kf    -     -        12825  100    0 
+SteelDr   915257039 20  6 c   c     c     k        12725 1350 4375 8s 3s
+SteelDr   915257126 19  5 c   kf    -     -        15750  200    0 
+SteelDr   915257238 19  4 f   -     -     -        15550    0    0 
+SteelDr   915257277 19  3 cc  kf    -     -        15550  675    0 
+SteelDr   915257369 17  1 Bf  -     -     -        14875  200    0 
+SteelDr   915257444 16  1 Bc  k     kf    -        14675  200    0 
+SteelDr   915257560 16 16 f   -     -     -        14475    0    0 
+SteelDr   915257612 16 15 f   -     -     -        14475    0    0 
+SteelDr   915257650 16 14 f   -     -     -        14475    0    0 
+SteelDr   915257713 16 13 f   -     -     -        14475    0    0 
+SteelDr   915257749 16 12 f   -     -     -        14475    0    0 
+SteelDr   915257853 16 11 cf  -     -     -        14475  400    0 
+SteelDr   915257893 16 10 f   -     -     -        14075    0    0 
+SteelDr   915257944 16  9 f   -     -     -        14075    0    0 
+SteelDr   915257998 16  8 cc  bA    -     -        14075 14075 27287 Js Kh
+SteelDr   915258045 13  7 f   -     -     -        27287    0    0 
+SteelDr   915258105 13  6 f   -     -     -        27287    0    0 
+SteelDr   915258135 13  5 f   -     -     -        27287    0    0 
+SteelDr   915258231 13  4 f   -     -     -        27287    0    0 
+SteelDr   915258295 13  3 cc  -     -     -        27287 7325    0 Js Ah
+SteelDr   915258337 12  2 Bc  -     -     -        19962 2500    0 3d 6h
+SteelDr   915258387 10  1 Bf  -     -     -        17462  800    0 
+SteelDr   915258418  9  9 f   -     -     -        16662    0    0 
+SteelDr   915258453  9  8 r   -     -     -        16662 3600 6000 
+SteelDr   915258476  9  7 f   -     -     -        19062    0    0 
+SteelDr   915258522  9  6 f   -     -     -        19062    0    0 
+SteelDr   915258543  9  5 rc  -     -     -        19062 7525    0 9c 8c
+SteelDr   915258569  9  4 f   -     -     -        11537    0    0 
+SteelDr   915258595  9  3 f   -     -     -        11537    0    0 
+SteelDr   915258621  9  2 Bk  bA    -     -        11537 11537 9237 9d 7s
+SteelDr   915258663  9  1 BcA -     -     -         9237 9237    0 Jc Ac
+SteelDr   916010028 11 10 f   -     -     -        20000    0    0 
+SteelDr   916010091 11  9 f   -     -     -        20000    0    0 
+SteelDr   916010127 11  8 c   f     -     -        20000  200    0 
+SteelDr   916010206 11  7 c   kc    kf    -        19800 1000    0 
+SteelDr   916010260 11  6 cf  -     -     -        18800  200    0 
+SteelDr   916010304 10  4 c   kc    kc    krA      18600 18600    0 Kc Ah
+SteelDr   916511840  9  8 c   k     k     k         1000   35    0 2c Td
+SteelDr   916511889  9  7 c   f     -     -          965   10    0 
+SteelDr   916511908  9  6 cc  bA    -     -          955  955 1058 6d As
+SteelDr   916511978  9  5 c   k     k     k         1058   10   35 2s Kh
+SteelDr   916512028  9  4 c   k     k     k         1083   10   55 Ad 8s
+SteelDr   916512094  9  3 c   k     f     -         1128   10    0 
+SteelDr   916512164  9  2 Bk  k     k     kf        1118   20    0 
+SteelDr   916512214  9  1 Bc  k     kc    k         1098  170    0 Qh Qc
+SteelDr   916512267  9  9 c   f     -     -          928   20    0 
+SteelDr   916512299  9  8 c   bA    -     -          908  908 1008 
+SteelDr   916512342  9  7 f   -     -     -         1008    0    0 
+SteelDr   916512376  9  6 c   k     f     -         1008   20    0 
+SteelDr   916512410  9  5 c   kf    -     -          988   20    0 
+SteelDr   916512454  8  4 c   k     kc    k          968  220  540 Qh 6s
+SteelDr   916512515  8  3 c   k     k     k         1288   40    0 Ks 6d
+SteelDr   916512544  8  2 Bk  k     kc    kf        1248  180    0 
+SteelDr   916512587  8  1 Bc  k     kf    -         1068   40    0 
+SteelDr   916512644  8  8 c   k     c     bA        1028 1028 1308 
+SteelDr   916512703  8  7 c   f     -     -         1308   40    0 
+SteelDr   916512742  8  6 c   f     -     -         1268   80    0 
+SteelDr   916512783  8  5 f   -     -     -         1188    0    0 
+SteelDr   916512816  7  4 f   -     -     -         1188    0    0 
+SteelDr   916512870  6  2 c   k     k     b         1188  240  320 
+SteelDr   916512900  6  2 Bf  -     -     -         1268   80    0 
+SteelDr   916512908  6  1 Bc  k     kf    -         1188  280    0 
+SteelDr   916512946  6  6 f   -     -     -          908    0    0 
+SteelDr   916512954  6  5 f   -     -     -          908    0    0 
+SteelDr   916512960  6  4 f   -     -     -          908    0    0 
+SteelDr   916512982  6  3 c   f     -     -          908   80    0 
+SteelDr   916513002  6  2 Bf  -     -     -          828   80    0 
+SteelDr   916513019  6  1 Bc  bA    -     -          748  748 1108 
+SteelDr   916513043  6  6 c   brA   -     -         1108 1108 2453 Ah 4h
+SteelDr   916513062  5  4 f   -     -     -         2453    0    0 
+SteelDr   916513072  5  3 f   -     -     -         2453    0    0 
+SteelDr   916513088  5  2 Bf  -     -     -         2453  160    0 
+SteelDr   916513109  4  1 Br  -     -     -         2293  480  640 
+SteelDr   916513117  4  4 r   -     -     -         2453  560  800 
+SteelDr   916513122  4  3 f   -     -     -         2693    0    0 
+SteelDr   916513124  4  2 Bk  k     k     k         2693  160  320 4d 5h
+SteelDr   916513145  4  1 Br  -     -     -         2853  480  640 
+SteelDr   916513154  4  4 r   -     -     -         3013  560  800 
+SteelDr   916513159  4  3 f   -     -     -         3253    0    0 
+SteelDr   916513163  4  2 B   -     -     -         3253  160  240 
+SteelDr   916513168  4  1 Bc  k     k     k         3333  160    0 5h 2h
+SteelDr   916513193  4  4 f   -     -     -         3173    0    0 
+SteelDr   916513202  3  2 f   -     -     -         3173    0    0 
+SteelDr   916513218  3  2 Bc  bc    -     -         3173 2907    0 8s Ah
+SteelDr   916513239  3  1 BrA -     -     -          266  266    0 2c Qs
+SteelDr   916513908  4  3 c   k     k     k         5000   70  175 8c Ac
+SteelDr   916513930  4  2 B   -     -     -         5105   70  105 
+SteelDr   916513941  4  1 Bc  kf    -     -         5140   70    0 
+SteelDr   916513985  4  4 cc  b     -     -         5070 1470 2240 
+SteelDr   916514009  4  3 f   -     -     -         5840    0    0 
+SteelDr   916514043  4  2 Bf  -     -     -         5840   70    0 
+SteelDr   916514074  4  1 Bc  kf    -     -         5770   70    0 
+SteelDr   916514125  4  4 c   k     k     b         5700  280    0 Ah Qs
+SteelDr   916514192  4  3 c   k     f     -         5420   70    0 
+SteelDr   916514222  4  2 Bf  -     -     -         5350  140    0 
+SteelDr   916514240  4  1 Bc  kf    -     -         5210  140    0 
+SteelDr   916514267  4  4 f   -     -     -         5070    0    0 
+SteelDr   916514293  4  3 f   -     -     -         5070    0    0 
+SteelDr   916514320  4  2 Bk  kf    -     -         5070  140    0 
+SteelDr   916514337  4  1 Bc  k     krA   -         4930 4930    0 7d 8d
+SteelDr   916533212 23 15 c   rA    -     -         3000 3000 6180 Qd 7c
+SteelDr   916533405 23  4 cc  k     kf    -         3000  130    0 
+SteelDr   916533501 23  3 cc  kf    -     -         2870  130    0 
+SteelDr   916533612 23  2 Bc  kf    -     -         2740   90    0 
+SteelDr   916533747 23  1 BccA -     -     -         2650 2650    0 Jc Qs
+SteelDr   916587605 15  7 c   k     k     k        10000   50    0 7h 3d
+SteelDr   916587698 15  6 c   kf    -     -         9950   50    0 
+SteelDr   916587884 15  5 cf  -     -     -         9900   50    0 
+SteelDr   916587935 15  4 c   k     kc    kf        9850  375    0 
+SteelDr   916588042 15  3 c   kf    -     -         9475  100    0 
+SteelDr   916588172 15  2 Bc  kf    -     -         9375  550    0 
+SteelDr   916588232 15  1 Bf  -     -     -         8825   50    0 
+SteelDr   916588296 15 15 f   -     -     -         8775    0    0 
+SteelDr   916588368 14 13 cf  -     -     -         8775  200    0 
+SteelDr   916588416 14 12 c   f     -     -         8575  200    0 
+SteelDr   916588487 14 11 c   krA   -     -         8375 8375    0 Qh Jc
+SteelDr   916598372 10 10 cf  -     -     -         5000   50    0 
+SteelDr   916598415 10  9 c   k     k     f         4950   50    0 
+SteelDr   916598483 10  8 cf  -     -     -         4900   50    0 
+SteelDr   916598525 10  7 cf  -     -     -         4850   50    0 
+SteelDr   916598556 10  6 cf  -     -     -         4800   50    0 
+SteelDr   916598594 10  5 c   kf    -     -         4750   50    0 
+SteelDr   916598693  8  4 cf  -     -     -         4700  100    0 
+SteelDr   916598734  8  3 cf  -     -     -         4600  100    0 
+SteelDr   916598757  8  2 Bc  kf    -     -         4500  350    0 
+SteelDr   916598810  8  1 Bc  k     k     k         4150  100  300 8h Jc
+SteelDr   916598866  8  8 f   -     -     -         4350    0    0 
+SteelDr   916598897  8  7 f   -     -     -         4350    0    0 
+SteelDr   916598962  8  6 c   k     f     -         4350  100    0 
+SteelDr   916598994  8  5 f   -     -     -         4250    0    0 
+SteelDr   916599046  8  4 cf  -     -     -         4250  200    0 
+SteelDr   916599077  8  3 f   -     -     -         4050    0    0 
+SteelDr   916599115  8  2 Bk  kf    -     -         4050  200    0 
+SteelDr   916599163  8  1 Bc  kf    -     -         3850  200    0 
+SteelDr   916599230  8  8 c   c     cA    -         3650 3650 7625 Qh Ac
+SteelDr   916599266  7  7 c   k     k     f         7625  200    0 
+SteelDr   916599311  7  6 c   f     -     -         7425  200    0 
+SteelDr   916599347  7  5 cf  -     -     -         7225  200    0 
+SteelDr   916599367  7  4 f   -     -     -         7025    0    0 
+SteelDr   916599421  7  3 f   -     -     -         7025    0    0 
+SteelDr   916599462  7  2 Bf  -     -     -         7025  400    0 
+SteelDr   916599480  7  1 Bc  k     k     kc        6625 1600    0 9s 4s
+SteelDr   916599521  7  7 f   -     -     -         5025    0    0 
+SteelDr   916599550  7  6 c   k     f     -         5025  400    0 
+SteelDr   916599622  6  4 f   -     -     -         4625    0    0 
+SteelDr   916599642  6  3 c   bA    -     -         4625 4625  225 3c Jc
+SteelDr   916599678  6  2 BA  -     -     -          225  225    0 4h 2d
+SteelDr   917191902 14 14 c   f     -     -         5000   50    0 
+SteelDr   917191951 14 13 c   b     b     -         4950 1050 1500 
+SteelDr   917192005 14 12 cf  -     -     -         5400   50    0 
+SteelDr   917192051 14 11 cc  rA    -     -         5350 5350 7350 
+SteelDr   917192095 14 10 c   k     k     k         7350   50    0 6c Jd
+SteelDr   917192128 14  9 f   -     -     -         7300    0    0 
+SteelDr   917192182 13  7 c   f     -     -         7300   50    0 
+SteelDr   917192253 13  6 c   kc    k     k         7250  950 4450 Ts Ac
+SteelDr   917192309 13  5 cf  -     -     -        10750  100    0 
+SteelDr   917192395 11  3 f   -     -     -        10650    0    0 
+SteelDr   917192458 11  2 Bk  kf    -     -        10650  100    0 
+SteelDr   917192515 11  1 Bc  kf    -     -        10550  100    0 
+SteelDr   917192613 11 11 c   f     -     -        10450  200    0 
+SteelDr   917192681 10  9 f   -     -     -        10250    0    0 
+SteelDr   917192722 10  8 c   k     b     c        10250 3450 7400 Ts 7s
+SteelDr   917192791  9  6 f   -     -     -        14200    0    0 
+SteelDr   917192861  7  4 c   kf    -     -        14200  200    0 
+SteelDr   917192934  6  4 cc  kf    -     -        14000  900    0 
+SteelDr   917192973  6  3 c   kc    krA   -        13100 13100 4450 8h Jh
+SteelDr   917193040  6  2 BrA -     -     -         4450 4450 5250 
+SteelDr   917193076  6  1 Bf  -     -     -         5250  200    0 
+SteelDr   917193118  5  5 f   -     -     -         5050    0    0 
+SteelDr   917193178  5  4 f   -     -     -         5050    0    0 
+SteelDr   917193187  5  3 c   bA    -     -         5050 5050 5650 
+SteelDr   917193210  5  2 BrA -     -     -         5650 5650 6050 
+SteelDr   917193231  5  1 Bc  k     k     kf        6050  400    0 
+SteelDr   917193297  5  5 f   -     -     -         5650    0    0 
+SteelDr   917193320  5  4 f   -     -     -         5650    0    0 
+SteelDr   917193327  5  3 f   -     -     -         5650    0    0 
+SteelDr   917193337  5  2 Bf  -     -     -         5650  800    0 
+SteelDr   917193373  5  1 BrA -     -     -         4850 4850 7225 5c 2c
+SteelDr   917193390  4  4 rA  -     -     -         7225 7225 8425 
+SteelDr   917193410  4  3 f   -     -     -         8425    0    0 
+SteelDr   917193415  4  2 Br  cA    -     -         8425 8425    0 8d 6d
+SteelDr   917214849 20  4 cf  -     -     -         5000   20    0 
+SteelDr   917214969 20  3 c   k     k     kf        4980   20    0 
+SteelDr   917215101 20  2 Bk  kf    -     -         4960   20    0 
+SteelDr   917215197 20  1 Bc  kf    -     -         4940   70    0 
+SteelDr   917215277 20 20 f   -     -     -         4870    0    0 
+SteelDr   917215360 20 19 f   -     -     -         4870    0    0 
+SteelDr   917215495 19 17 c   cA    -     -         4870 4870    0 Ah 3s
+SteelDr   917221801 11 11 c   k     k     k         5000   50   56 6d 3h
+SteelDr   917221860 11 10 f   -     -     -         5006    0    0 
+SteelDr   917221927 11  9 cf  -     -     -         5006   50    0 
+SteelDr   917221983 11  8 c   kr    b     bA        4956 4956 10037 Ad As
+SteelDr   917222024 11  7 c   f     -     -        10037   50    0 
+SteelDr   917222069 11  6 c   k     kf    -         9987   50    0 
+SteelDr   917222110 11  5 cf  -     -     -         9937   50    0 
+SteelDr   917222141 10  4 cf  -     -     -         9887   50    0 
+SteelDr   917222168 10  3 cf  -     -     -         9837  100    0 
+SteelDr   917222227 10  2 Bf  -     -     -         9737  100    0 
+SteelDr   917222255  9  1 Bc  k     k     k         9637  100  300 Ts Ad
+SteelDr   917222318  9  9 f   -     -     -         9837    0    0 
+SteelDr   917222382  8  7 c   f     -     -         9837  100    0 
+SteelDr   917222459  8  6 f   -     -     -         9737    0    0 
+SteelDr   917222490  7  5 c   k     k     b         9737  350  750 Js 4d
+SteelDr   917222521  7  4 c   kf    -     -        10137  100    0 
+SteelDr   917222554  7  3 c   k     k     k        10037  200  700 9s Ac
+SteelDr   917222595  7  2 Bf  -     -     -        10537  200    0 
+SteelDr   917222623  7  1 Bf  -     -     -        10337  100    0 
+SteelDr   917222660  7  7 c   f     -     -        10237  700    0 
+SteelDr   917222681  7  6 cc  f     -     -         9537  400    0 
+SteelDr   917222708  7  5 f   -     -     -         9137    0    0 
+SteelDr   917222726  7  4 c   f     -     -         9137  200    0 
+SteelDr   917222753  7  3 f   -     -     -         8937    0    0 
+SteelDr   917222779  7  2 BrA -     -     -         8937 8937 9137 Qc As
+SteelDr   917222810  7  1 Bf  -     -     -         9137  100    0 
+SteelDr   917222840  6  6 f   -     -     -         9037    0    0 
+SteelDr   917222876  5  4 f   -     -     -         9037    0    0 
+SteelDr   917222896  5  4 f   -     -     -         9037    0    0 
+SteelDr   917222920  5  3 c   b     k     b         9037 4400 6000 
+SteelDr   917222964  5  2 Bk  k     k     k        10637  400 1000 2s 9h
+SteelDr   917222980  5  1 Bc  k     k     k        11237  400    0 3c 7s
+SteelDr   917223044  5  5 f   -     -     -        10837    0    0 
+SteelDr   917223051  5  4 f   -     -     -        10837    0    0 
+SteelDr   917223066  5  3 f   -     -     -        10837    0    0 
+SteelDr   917223071  5  2 B   -     -     -        10837  400  600 
+SteelDr   917223077  5  1 Br  -     -     -        11037 1200 1600 
+SteelDr   917223083  5  5 f   -     -     -        11437    0    0 
+SteelDr   917223095  5  4 f   -     -     -        11437    0    0 
+SteelDr   917223112  5  3 c   k     k     f        11437  400    0 
+SteelDr   917223134  5  2 Br  k     k     rA       11037 11037    0 8s 8h
+SteelDr   917711986 11  8 cc  f     -     -         5000  220    0 
+SteelDr   917712050 11  7 c   r     bA    -         4780 4780    0 7h 6d
+SteelDr   917714654 12  2 Bk  k     kf    -         5000   50    0 
+SteelDr   917714793 12  1 Bf  -     -     -         4950   25    0 
+SteelDr   917714897 12 12 f   -     -     -         4925    0    0 
+SteelDr   917714941 12 11 c   kf    -     -         4925   50    0 
+SteelDr   917715023 12 10 c   k     b     k         4875  500    0 7d 8d
+SteelDr   917715106 12  9 c   rA    -     -         4375 4375 10950 Kh Ks
+SteelDr   917715188 12  8 c   f     -     -        10950  100    0 
+SteelDr   917715249 11  6 f   -     -     -        10850    0    0 
+SteelDr   917715334 11  5 f   -     -     -        10850    0    0 
+SteelDr   917715409 11  4 f   -     -     -        10850    0    0 
+SteelDr   917715473 11  3 f   -     -     -        10850    0    0 
+SteelDr   917715550 10  2 Bc  k     k     b        10850 2625 4150 4h Jc
+SteelDr   917715617  9  1 Bc  k     k     k        12375  200  600 2h Jd
+SteelDr   917715683  9  9 f   -     -     -        12775    0    0 
+SteelDr   917715735  8  7 f   -     -     -        12775    0    0 
+SteelDr   917715776  8  6 f   -     -     -        12775    0    0 
+SteelDr   917715821  8  5 f   -     -     -        12775    0    0 
+SteelDr   917715871  8  4 f   -     -     -        12775    0    0 
+SteelDr   917715924  8  3 f   -     -     -        12775    0    0 
+SteelDr   917715967  8  2 Bf  -     -     -        12775  400    0 
+SteelDr   917716006  8  1 Bc  kf    -     -        12375  800    0 
+SteelDr   917716032  8  8 r   -     -     -        11575 10800 4625 7c Kc
+SteelDr   917716065  7  6 rA  -     -     -         5400 5400  475 7c 7h
+SteelDr   917716098  7  5 f   -     -     -          475    0    0 
+SteelDr   917716139  7  4 f   -     -     -          475    0    0 
+SteelDr   917716184  7  3 f   -     -     -          475    0    0 
+SteelDr   917716220  7  2 BA  -     -     -          475  475    0 5d Qd
+SteelDr   917717410  9  3 c   k     kf    -        10000   30    0 
+SteelDr   917717455  9  2 Bk  kf    -     -         9970   30    0 
+SteelDr   917717510  9  1 Bc  kc    kc    k         9940  390  810 Qh 7d
+SteelDr   917717559  9  9 cf  -     -     -        10360   30    0 
+SteelDr   917717611  9  8 cf  -     -     -        10330   30    0 
+SteelDr   917717670  8  6 c   k     c     f        10300  165    0 
+SteelDr   917717738  8  5 c   k     k     c        10135   75    0 3c As
+SteelDr   917717784  8  4 c   kf    -     -        10060   30    0 
+SteelDr   917717838  8  3 c   k     k     k        10030   30    0 Ad 5h
+SteelDr   917717884  8  2 Bk  kf    -     -        10000   60    0 
+SteelDr   917717922  8  1 Bc  kf    -     -         9940  270    0 
+SteelDr   917717963  7  7 c   k     k     k         9670   60    0 2h 7c
+SteelDr   917718038  7  6 c   f     -     -         9610  260    0 
+SteelDr   917718077  7  5 c   k     k     k         9350   60    0 7c Jc
+SteelDr   917718117  7  4 c   kf    -     -         9290   60    0 
+SteelDr   917718167  7  3 c   k     k     b         9230  300    0 Kc 7c
+SteelDr   917718213  7  2 Bk  kc    kf    -         8930  270    0 
+SteelDr   917718271  7  1 Bc  kc    krA   -         8660 8660 17860 2c Qs
+SteelDr   917718310  7  7 c   k     f     -        17860  120    0 
+SteelDr   917718363  7  6 c   f     -     -        17740  120    0 
+SteelDr   917718391  7  5 cc  kf    -     -        17620  780    0 
+SteelDr   917718437  7  4 cc  c     r     bA       16840 16840 34502 Ts Kc
+SteelDr   917718521  6  2 c   k     kc    k        34502  720    0 Kd 7d
+SteelDr   917718578  6  2 Bk  f     -     -        33782  120    0 
+SteelDr   917718625  6  1 Bc  k     kf    -        33662  120    0 
+SteelDr   917718656  6  6 f   -     -     -        33542    0    0 
+SteelDr   917718686  6  5 c   k     k     b        33542 2760 4440 
+SteelDr   917718746  6  4 f   -     -     -        35222    0    0 
+SteelDr   917718780  6  3 c   kf    -     -        35222  240    0 
+SteelDr   917718824  6  2 Bk  k     k     f        34982  240    0 
+SteelDr   917718859  6  1 Bf  -     -     -        34742  120    0 
+SteelDr   917718908  6  6 c   f     -     -        34622  840    0 
+SteelDr   917718954  5  5 c   c     c     c        33782 4320    0 5c 5d
+SteelDr   917719017  5  4 c   k     k     k        29462  240    0 Ks 2h
+SteelDr   917719058  5  3 c   f     -     -        29222  240    0 
+SteelDr   917719095  5  2 Bc  -     -     -        28982  685 1490 5s 7h
+SteelDr   917719104  4  1 Bc  k     k     b        29787 2400 3840 
+SteelDr   917719132  4  4 f   -     -     -        31227    0    0 
+SteelDr   917719149  4  3 c   kf    -     -        31227  480    0 
+SteelDr   917719175  4  2 Bk  b     -     -        30747 1440 1920 
+SteelDr   917719192  4  1 Bc  k     k     k        31227  480    0 9c Kd
+SteelDr   917719207  4  4 c   k     k     b        30747 1680 3600 7s Th
+SteelDr   917719230  4  3 c   f     -     -        32667  480    0 
+SteelDr   917719284  4  2 Bk  k     k     kf       32187  480    0 
+SteelDr   917719317  4  1 Bc  k     k     b        31707 1440 1920 
+SteelDr   917719335  4  4 f   -     -     -        32187    0    0 
+SteelDr   917719366  4  3 f   -     -     -        32187    0    0 
+SteelDr   917719395  4  2 Bk  kf    -     -        32187  960    0 
+SteelDr   917719413  4  1 Bc  k     k     b        31227 4800    0 8d 5s
+SteelDr   917719448  4  4 f   -     -     -        26427    0    0 
+SteelDr   917719459  4  3 c   b     f     -        26427 4800    0 
+SteelDr   917719487  4  2 Bf  -     -     -        21627  960    0 
+SteelDr   917719521  4  1 Br  -     -     -        20667 2880 3840 
+SteelDr   917719528  4  4 f   -     -     -        21627    0    0 
+SteelDr   917719544  4  3 r   f     -     -        21627 6720    0 
+SteelDr   917719559  4  2 Bf  -     -     -        14907 1920    0 
+SteelDr   917719590  3  1 BccA -     -     -        12987 12987    0 8c 7d
+SteelDr   917720074 18 15 f   -     -     -         5000    0    0 
+SteelDr   917720188 18 14 f   -     -     -         5000    0    0 
+SteelDr   917720278 18 13 c   kf    -     -         5000   50    0 
+SteelDr   917720362 18 12 c   k     k     k         4950   50    0 5s Qc
+SteelDr   917720488 18 11 c   f     -     -         4900  100    0 
+SteelDr   917720620 18 10 c   kf    -     -         4800  100    0 
+SteelDr   917720728 18  9 cf  -     -     -         4700  100    0 
+SteelDr   917720773 17  7 c   f     -     -         4600  100    0 
+SteelDr   917720909 17  7 cf  -     -     -         4500  200    0 
+SteelDr   917721036 17  6 c   c     bA    -         4300 4300    0 Ks Qd

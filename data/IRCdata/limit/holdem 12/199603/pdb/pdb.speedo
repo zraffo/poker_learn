@@ -1,0 +1,816 @@
+speedo    828111130  4  3 c   c     f     -         1000   20    0 
+speedo    828111162  4  2 Bk  k     k     b          980   30   60 
+speedo    828111259  2  1 Bc  k     b     -         1010   30   40 
+speedo    828111276  2  2 Bk  r     b     c         1020   70  140 Qc Ks
+speedo    828111302  2  1 Bf  -     -     -         1090    5    0 
+speedo    828111306  2  2 Bf  -     -     -         1085   10    0 
+speedo    828111311  2  1 Bf  -     -     -         1075    5    0 
+speedo    828111315  2  2 Bk  b     b     b         1070   60    0 Kh 4s
+speedo    828111339  3  1 Bc  k     kf    -         1010   10    0 
+speedo    828111371  3  3 r   -     -     -         1000   20   35 
+speedo    828111379  3  2 Bk  b     -     -         1015   20   30 
+speedo    828111400  3  1 Bf  -     -     -         1025    5    0 
+speedo    828111407  3  3 f   -     -     -         1020    0    0 
+speedo    828111425  3  2 Bk  f     -     -         1020   10    0 
+speedo    828111437  3  1 Bc  kf    -     -         1010   10    0 
+speedo    828111456  3  3 f   -     -     -         1000    0    0 
+speedo    828111476  3  2 Bk  k     kf    -         1000   10    0 
+speedo    828111505  3  1 Bf  -     -     -          990    5    0 
+speedo    828111510  3  3 f   -     -     -          985    0    0 
+speedo    828111561  4  2 Bk  k     f     -          985   10    0 
+speedo    828111604  4  1 Bf  -     -     -          975    5    0 
+speedo    828111622  4  4 f   -     -     -          970    0    0 
+speedo    828111657  4  3 f   -     -     -          970    0    0 
+speedo    828111705  4  2 Bf  -     -     -          970   10    0 
+speedo    828111724  4  1 Bf  -     -     -          960    5    0 
+speedo    828111751  4  4 f   -     -     -          955    0    0 
+speedo    828111771  5  3 c   kf    -     -          955   10    0 
+speedo    828111793  5  2 Bc  c     c     b          945   70   70 Tc Ac
+speedo    828111824  5  1 Bf  -     -     -          945    5    0 
+speedo    828111853  5  5 f   -     -     -          940    0    0 
+speedo    828111899  5  4 f   -     -     -          940    0    0 
+speedo    828111965  5  3 f   -     -     -          940    0    0 
+speedo    828112001  5  2 Bk  k     k     k          940   10    0 Kh 4d
+speedo    828112060  5  1 Bc  kf    -     -          930   10    0 
+speedo    828112094  5  5 f   -     -     -          920    0    0 
+speedo    828112132  4  3 f   -     -     -          920    0    0 
+speedo    828112139  4  2 Bk  kf    -     -          920   10    0 
+speedo    828112157  4  1 Bf  -     -     -          910    5    0 
+speedo    828112181  4  4 f   -     -     -          905    0    0 
+speedo    828112199  4  3 KQ  -     -     -          905    0    0 
+speedo    828112273  4  4 f   -     -     -          905    0    0 
+speedo    828112280  4  3 c   k     k     f          905   10    0 
+speedo    828112301  4  2 Br  k     bc    kc         895   80    0 Ad Jd
+speedo    828112348  4  1 Bf  -     -     -          815    5    0 
+speedo    828112392  4  4 f   -     -     -          810    0    0 
+speedo    828112418  4  3 f   -     -     -          810    0    0 
+speedo    828112460  4  2 Bk  k     k     k          810   10    0 2c Qc
+speedo    828112481  4  1 Bf  -     -     -          800    5    0 
+speedo    828112514  3  3 f   -     -     -          795    0    0 
+speedo    828112553  3  2 B   -     -     -          795   10   15 
+speedo    828112565  3  1 Bf  -     -     -          800    5    0 
+speedo    828112569  2  2 Bk  b     -     -          795   20   30 
+speedo    828112584  3  1 Bc  kf    -     -          805   10    0 
+speedo    828112605  3  3 c   c     f     -          795   20    0 
+speedo    828112634  3  2 Bk  kc    k     kf         775   20    0 
+speedo    828112681  4  1 Bf  -     -     -          755    5    0 
+speedo    828112699  3  3 c   k     b     k          750   30   90 Kh 6h
+speedo    828112855  3  2 Bk  k     f     -          810   10    0 
+speedo    828112889  4  1 Bf  -     -     -          800    5    0 
+speedo    828112908  4  4 f   -     -     -          795    0    0 
+speedo    828112939  5  4 f   -     -     -          795    0    0 
+speedo    828113059  5  3 f   -     -     -          795    0    0 
+speedo    828113214  5  2 Bc  kf    -     -          795   20    0 
+speedo    828113289  5  1 Bf  -     -     -          775    5    0 
+speedo    828113348  5  5 f   -     -     -          770    0    0 
+speedo    828113407  5  4 f   -     -     -          770    0    0 
+speedo    828113480  6  4 c   c     c     b          770   60  140 Td Ac
+speedo    828113541  6  3 r   r     bc    c          850  100    0 Qs Qh
+speedo    828113596  6  2 Bf  -     -     -          750   10    0 
+speedo    828113682  6  1 Br  b     k     b          740   50  130 As Ah
+speedo    828113799  6  6 f   -     -     -          820    0    0 
+speedo    828113852  5  4 f   -     -     -          820    0    0 
+speedo    828113892  4  3 f   -     -     -          820    0    0 
+speedo    828113910  4  2 Bf  -     -     -          820   10    0 
+speedo    828113943  4  1 Bc  b     -     -          810   20   30 
+speedo    828113959  4  4 r   b     bc    c          820   90    0 Jd Js
+speedo    828113992  5  3 c   k     k     k          730   10   13 Ad 8h
+speedo    828114046  5  2 Bk  kc    f     -          733   20    0 
+speedo    828114107  5  1 Bf  -     -     -          713    5    0 
+speedo    828114151  5  5 f   -     -     -          708    0    0 
+speedo    828114172  5  4 f   -     -     -          708    0    0 
+speedo    828114227  5  3 f   -     -     -          708    0    0 
+speedo    828114266  5  2 Bk  kc    kf    -          708   20    0 
+speedo    828114384  5  1 Bf  -     -     -          688    5    0 
+speedo    828114397  5  5 f   -     -     -          683    0    0 
+speedo    828114435  5  4 c   f     -     -          683   10    0 
+speedo    828114463  5  3 f   -     -     -          673    0    0 
+speedo    828114517  5  2 BQ  -     -     -          673   10    0 
+speedo    828117471  6  4 f   -     -     -          663    0    0 
+speedo    828117531  6  4 f   -     -     -          663    0    0 
+speedo    828117585  7  3 c   kf    -     -          663   10    0 
+speedo    828117652  7  2 Bf  -     -     -          653   10    0 
+speedo    828117694  7  1 Bc  k     kf    -          643   10    0 
+speedo    828117769  8  8 f   -     -     -          633    0    0 
+speedo    828117829  8  7 c   k     k     c          633   30   70 Qc Js
+speedo    828117876  8  6 c   k     k     f          673   10    0 
+speedo    828117933  9  6 f   -     -     -          663    0    0 
+speedo    828118014  7  4 r   kc    kf    -          663   30    0 
+speedo    828118086  7  2 c   b     k     c          633   40  100 Ac 9h
+speedo    828118122  6  2 Bk  kf    -     -          693   10    0 
+speedo    828118155  6  1 Bc  kf    -     -          683   10    0 
+speedo    828118213  6  6 f   -     -     -          673    0    0 
+speedo    828118241  6  5 c   k     c     k          673   30    0 8d Td
+speedo    828118296  5  4 f   -     -     -          643    0    0 
+speedo    828118341  5  3 f   -     -     -          643    0    0 
+speedo    828118381  6  2 Bk  k     br    kc         643   90  195 As Jc
+speedo    828118437  6  1 Bc  kf    -     -          748   10    0 
+speedo    828118469  6  6 f   -     -     -          738    0    0 
+speedo    828118519  6  5 f   -     -     -          738    0    0 
+speedo    828118574  6  4 c   k     b     -          738   30   60 
+speedo    828118621  6  3 f   -     -     -          768    0    0 
+speedo    828118688  6  2 Bf  -     -     -          768   10    0 
+speedo    828118763  8  1 Bf  -     -     -          758    5    0 
+speedo    828118876  7  7 f   -     -     -          753    0    0 
+speedo    828118921  7  7 f   -     -     -          753    0    0 
+speedo    828119018  6  5 f   -     -     -          753    0    0 
+speedo    828119077  7  4 f   -     -     -          753    0    0 
+speedo    828119119  6  3 cc  k     f     -          753   20    0 
+speedo    828119171  6  2 Bk  k     f     -          733   10    0 
+speedo    828119198  7  1 Bf  -     -     -          723    5    0 
+speedo    828119234  7  7 f   -     -     -          718    0    0 
+speedo    828119296  8  7 f   -     -     -          718    0    0 
+speedo    828119332  8  6 f   -     -     -          718    0    0 
+speedo    828119399  9  6 c   k     c     f          718   30    0 
+speedo    828119456  8  4 f   -     -     -          688    0    0 
+speedo    828119524  9  4 fQ  -     -     -          688    0    0 
+speedo    828120799  7  2 Bk  k     kf    -          688   10    0 
+speedo    828120842  6  1 Bc  k     k     kc         678   30    0 2h Qh
+speedo    828120899  7  7 f   -     -     -          648    0    0 
+speedo    828120951  6  5 f   -     -     -          648    0    0 
+speedo    828121019  6  4 c   c     c     b          648   70  210 
+speedo    828121127  7  3 cc  k     b     kc         788   60  220 9h Th
+speedo    828121296  9  1 Bk  kf    -     -          948   10    0 
+speedo    828121438  9  1 Bf  -     -     -          938    5    0 
+speedo    828121538 10 10 r   r     b     b          933  110  555 As Ac
+speedo    828121705  7  7 f   -     -     -         1378    0    0 
+speedo    828121769  7  6 f   -     -     -         1378    0    0 
+speedo    828121826  7  5 c   b     -     -         1378   20   35 
+speedo    828121858  7  4 f   -     -     -         1393    0    0 
+speedo    828121919  6  3 f   -     -     -         1393    0    0 
+speedo    828121952  6  2 Bk  kf    -     -         1393   10    0 
+speedo    828121990  7  1 Bf  -     -     -         1383    5    0 
+speedo    828122067  7  7 f   -     -     -         1378    0    0 
+speedo    828122112  7  6 f   -     -     -         1378    0    0 
+speedo    828122142  7  5 f   -     -     -         1378    0    0 
+speedo    828122174  7  4 f   -     -     -         1378    0    0 
+speedo    828122281  8  4 f   -     -     -         1378    0    0 
+speedo    828122334  9  3 f   -     -     -         1378    0    0 
+speedo    828122395 10  2 Bc  kcc   kc    kf        1378   70    0 
+speedo    828122485  9  1 Bf  -     -     -         1308    5    0 
+speedo    828122642  9  9 f   -     -     -         1303    0    0 
+speedo    828122689  9  8 f   -     -     -         1303    0    0 
+speedo    828122767 10  8 f   -     -     -         1303    0    0 
+speedo    828122946 10  8 f   -     -     -         1303    0    0 
+speedo    828123049  8  5 f   -     -     -         1303    0    0 
+speedo    828123125  9  6 f   -     -     -         1303    0    0 
+speedo    828123281  8  4 cc  kf    -     -         1303   20    0 
+speedo    828123367 10  4 c   c     c     b         1283   60  170 Kh 5h
+speedo    828123495 10  3 f   -     -     -         1393    0    0 
+speedo    828123603  9  2 Bf  -     -     -         1393   10    0 
+speedo    828123741  9  1 BQ  -     -     -         1383    5    0 
+speedo    828124223  7  5 c   kf    -     -         1378   20    0 
+speedo    828124313  7  4 c   f     -     -         1358   10    0 
+speedo    828124412  7  3 fQ  -     -     -         1348    0    0 
+speedo    828124557  7  7 f   -     -     -         1348    0    0 
+speedo    828124627  7  6 f   -     -     -         1348    0    0 
+speedo    828124721  6  4 cc  kf    -     -         1348   20    0 
+speedo    828124767  6  3 f   -     -     -         1328    0    0 
+speedo    828124812  6  2 Bf  -     -     -         1328   10    0 
+speedo    828124890  6  1 Bcc kf    -     -         1318   30    0 
+speedo    828124944  6  6 cc  cc    f     -         1288   80    0 
+speedo    828125088  7  6 f   -     -     -         1208    0    0 
+speedo    828125150  7  5 f   -     -     -         1208    0    0 
+speedo    828125197  8  4 f   -     -     -         1208    0    0 
+speedo    828125288  9  3 f   -     -     -         1208    0    0 
+speedo    828125417 10  2 Bf  -     -     -         1208   10    0 
+speedo    828125504 10  1 Bf  -     -     -         1198    5    0 
+speedo    828125627  8  8 f   -     -     -         1193    0    0 
+speedo    828125684  8  8 f   -     -     -         1193    0    0 
+speedo    828125752  9  7 f   -     -     -         1193    0    0 
+speedo    828125885 10  7 f   -     -     -         1193    0    0 
+speedo    828126039  9  6 cc  kf    -     -         1193   20    0 
+speedo    828126077  9  5 f   -     -     -         1173    0    0 
+speedo    828126181  7  4 f   -     -     -         1173    0    0 
+speedo    828126231  6  2 Bf  -     -     -         1173   10    0 
+speedo    828126294  6  1 Bf  -     -     -         1163    5    0 
+speedo    828126419  6  6 f   -     -     -         1158    0    0 
+speedo    828126471  6  5 c   kc    kc    bc        1158   80  195 Kh Qh
+speedo    828126516  7  5 cc  rc    br    cc        1273  160  510 Th 9s
+speedo    828126607  8  4 cc  rc    c     bc        1623  120    0 Jd Ah
+speedo    828126722  7  3 cc  kc    kc    kf        1503   60    0 
+speedo    828126789  7  2 Bk  k     b     b         1443   50    0 Ah Td
+speedo    828126846  7  1 Bc  kf    -     -         1393   10    0 
+speedo    828126894  7  7 f   -     -     -         1383    0    0 
+speedo    828126943  6  5 f   -     -     -         1383    0    0 
+speedo    828126971  7  5 f   -     -     -         1383    0    0 
+speedo    828127031  7  4 cc  f     -     -         1383   20    0 
+speedo    828127096  6  3 f   -     -     -         1363    0    0 
+speedo    828127157  6  2 Bk  kf    -     -         1363   10    0 
+speedo    828127222  6  1 BQ  -     -     -         1353    5    0 
+speedo    828128155  6  4 f   -     -     -         1348    0    0 
+speedo    828128238  6  3 cc  kc    kf    -         1348   30    0 
+speedo    828128296  6  2 Bcc kf    -     -         1318   40    0 
+speedo    828128355  5  1 Bf  -     -     -         1278    5    0 
+speedo    828128411  5  5 f   -     -     -         1273    0    0 
+speedo    828128433  5  4 f   -     -     -         1273    0    0 
+speedo    828128511  5  3 f   -     -     -         1273    0    0 
+speedo    828128594  6  2 Bf  -     -     -         1273   10    0 
+speedo    828128666  6  1 Bf  -     -     -         1263    5    0 
+speedo    828128750  6  6 cc  r     rr    r         1258  190  605 Ad 4s
+speedo    828128836  7  5 c   kc    kf    -         1673   20    0 
+speedo    828128904  8  4 cc  f     -     -         1653   30    0 
+speedo    828129022  7  3 f   -     -     -         1623    0    0 
+speedo    828129092  7  2 Bf  -     -     -         1623   10    0 
+speedo    828129120  7  1 Bf  -     -     -         1613    5    0 
+speedo    828129255  7  7 f   -     -     -         1608    0    0 
+speedo    828129288  6  6 f   -     -     -         1608    0    0 
+speedo    828129351  8  5 cc  cf    -     -         1608   30    0 
+speedo    828129472  7  4 cc  c     c     c         1578   70    0 Qs Js
+speedo    828129554  8  3 f   -     -     -         1508    0    0 
+speedo    828129834 10  2 Bf  -     -     -         1508   10    0 
+speedo    828129976 12  1 Bf  -     -     -         1498    5    0 
+speedo    828130199 12 12 f   -     -     -         1493    0    0 
+speedo    828130442 12 11 f   -     -     -         1493    0    0 
+speedo    828130820  7  6 f   -     -     -         1493    0    0 
+speedo    828130937  7  6 cc  c     f     -         1493   30    0 
+speedo    828131043  7  5 f   -     -     -         1463    0    0 
+speedo    828131116  7  4 c   k     k     f         1463   10    0 
+speedo    828131179  6  3 f   -     -     -         1453    0    0 
+speedo    828131201  6  2 Bk  kc    kc    kf        1453   40    0 
+speedo    828131256  6  1 Bf  -     -     -         1413    5    0 
+speedo    828131275  6  6 f   -     -     -         1408    0    0 
+speedo    828131325  6  5 f   -     -     -         1408    0    0 
+speedo    828131344  6  5 f   -     -     -         1408    0    0 
+speedo    828131373  6  4 cc  f     -     -         1408   20    0 
+speedo    828131425  5  3 c   k     k     k         1388   10    0 Qd Th
+speedo    828131485  5  2 Bk  b     k     k         1378   20    0 Jc As
+speedo    828131519  5  1 Bf  -     -     -         1358    5    0 
+speedo    828131569  5  5 f   -     -     -         1353    0    0 
+speedo    828131592  5  4 cc  c     c     c         1353   70  150 Ac Qh
+speedo    828131619  5  3 f   -     -     -         1433    0    0 
+speedo    828131688  4  1 Bk  k     kf    -         1433   10    0 
+speedo    828131739  3  1 Bc  k     kf    -         1423   10    0 
+speedo    828131771  2  2 Bk  k     k     k         1413   10    0 9d Ah
+speedo    828131789  3  1 Bc  k     kc    kf        1403   30    0 
+speedo    828131823  4  4 f   -     -     -         1373    0    0 
+speedo    828131857  3  2 B   -     -     -         1373   10   15 
+speedo    828131868  3  1 Bc  kc    k     bc        1378   70    0 Kd 8d
+speedo    828131886  3  3 c   k     k     f         1308   10    0 
+speedo    828131923  3  2 Bk  kf    -     -         1298   10    0 
+speedo    828131937  3  1 Bf  -     -     -         1288    5    0 
+speedo    828131950  3  3 f   -     -     -         1283    0    0 
+speedo    828131958  3  2 Bk  k     kf    -         1283   10    0 
+speedo    828131979  3  1 Bf  -     -     -         1273    5    0 
+speedo    828132007  3  3 f   -     -     -         1268    0    0 
+speedo    828132027  3  2 Bf  -     -     -         1268   10    0 
+speedo    828132039  3  1 Bf  -     -     -         1258    5    0 
+speedo    828132044  3  3 rc  bc    k     k         1253   50  130 Ad 8s
+speedo    828132092  3  2 B   -     -     -         1333   10   15 
+speedo    828132100  4  1 Bf  -     -     -         1338    5    0 
+speedo    828132119  4  4 f   -     -     -         1333    0    0 
+speedo    828132192  5  5 cc  k     f     -         1333   20    0 
+speedo    828132227  4  3 f   -     -     -         1313    0    0 
+speedo    828132260  4  2 Bc  c     c     k         1313   50  100 Jd Qs
+speedo    828132287  4  1 Bf  -     -     -         1363    5    0 
+speedo    828132346  4  4 f   -     -     -         1358    0    0 
+speedo    828132396  4  3 c   k     k     k         1358   10    0 2s 2d
+speedo    828132438  4  2 Bc  k     k     kf        1348   20    0 
+speedo    828132469  3  1 BQ  -     -     -         1328    5    0 
+speedo    828133344  5  4 c   k     k     k         1323   10   35 Ks 2s
+speedo    828133463  7  3 f   -     -     -         1348    0    0 
+speedo    828133503  6  2 Bc  b     b     k         1348   60   98 Ac Jd
+speedo    828133591  8  1 Bf  -     -     -         1386    5    0 
+speedo    828133680  8  8 c   cc    c     f         1381   70    0 
+speedo    828133774  8  7 r   b     b     k         1311   50  115 Js Jc
+speedo    828133847  7  5 f   -     -     -         1376    0    0 
+speedo    828133922  6  3 c   f     -     -         1376   10    0 
+speedo    828134024  7  4 f   -     -     -         1366    0    0 
+speedo    828134175  8  3 cc  kf    -     -         1366   20    0 
+speedo    828134394  9  2 Bf  -     -     -         1346   10    0 
+speedo    828134496  9  1 BQ  -     -     -         1336    5    0 
+speedo    828139359  6  2 Bk  f     -     -         1331   10    0 
+speedo    828139396  6  1 Bf  -     -     -         1321    5    0 
+speedo    828139452  5  5 f   -     -     -         1316    0    0 
+speedo    828139527  5  4 f   -     -     -         1316    0    0 
+speedo    828139556  4  2 Bk  kf    -     -         1316   10    0 
+speedo    828139576  4  1 Bc  b     b     b         1306   60  130 Js Kc
+speedo    828139613  4  4 f   -     -     -         1376    0    0 
+speedo    828139631  4  3 c   k     k     b         1376   30   45 
+speedo    828139661  3  2 Bk  kf    -     -         1391   10    0 
+speedo    828139676  3  1 Bf  -     -     -         1381    5    0 
+speedo    828139694  3  3 f   -     -     -         1376    0    0 
+speedo    828139732  2  2 B   -     -     -         1376   10   15 
+speedo    828139768  2  2 B   -     -     -         1381   10   15 
+speedo    828139773  2  1 Bf  -     -     -         1386    5    0 
+speedo    828139777  2  2 B   -     -     -         1381   10   15 
+speedo    828139781  2  1 Bf  -     -     -         1386    5    0 
+speedo    828139785  2  2 Bk  k     k     b         1381   30   40 
+speedo    828139805  2  1 Br  bc    kc    kf        1391   60    0 
+speedo    828139840  2  2 B   -     -     -         1331   10   15 
+speedo    828139847  3  1 Bc  kc    b     -         1336   40   60 
+speedo    828139885  3  3 f   -     -     -         1356    0    0 
+speedo    828139893  3  2 Br  bc    c     f         1356   60    0 
+speedo    828139920  3  1 B   -     -     -         1296    5   15 
+speedo    828139927  2  2 cc  c     c     f         1306   50    0 
+speedo    828139952  2  2 Bf  -     -     -         1256   10    0 
+speedo    828139958  3  1 Bc  k     k     k         1246   10    0 9h 8s
+speedo    828139978  4  4 f   -     -     -         1236    0    0 
+speedo    828139999  4  3 c   f     -     -         1236   10    0 
+speedo    828140012  4  2 Br  c     c     b         1226   70    0 Ts Th
+speedo    828140056  4  1 Bf  -     -     -         1156    5    0 
+speedo    828140062  4  4 f   -     -     -         1151    0    0 
+speedo    828140079  4  3 f   -     -     -         1151    0    0 
+speedo    828140084  4  2 Bc  kc    kf    -         1151   30    0 
+speedo    828140159  4  1 Bc  k     kf    -         1121   10    0 
+speedo    828140192  5  3 Q   -     -     -         1111    0    0 
+speedo    828140265  4  2 Bc  kc    c     c         1111   70    0 Ad 7h
+speedo    828140312  5  1 Bf  -     -     -         1041    5    0 
+speedo    828140346  4  4 f   -     -     -         1036    0    0 
+speedo    828140388  4  4 c   b     -     -         1036   20   35 
+speedo    828140413  4  3 c   c     k     f         1051   20    0 
+speedo    828140489  4  2 Bf  -     -     -         1031   10    0 
+speedo    828140511  3  1 Bf  -     -     -         1021    5    0 
+speedo    828140587  3  3 f   -     -     -         1016    0    0 
+speedo    828140588  3  2 Bf  -     -     -         1016   10    0 
+speedo    828140604  2  1 Bf  -     -     -         1006    5    0 
+speedo    828140607  2  2 Bk  k     f     -         1001   10    0 
+speedo    828140649  2  1 Bf  -     -     -          991    5    0 
+speedo    828140650  2  2 B   -     -     -          986   10   15 
+speedo    828140651  2  1 Bf  -     -     -          991    5    0 
+speedo    828140653  2  2 Bk  k     k     k          986   10    0 Jh 6d
+speedo    828140655  2  1 Bf  -     -     -          976    5    0 
+speedo    828140658  2  2 B   -     -     -          971   10   15 
+speedo    828140666  2  1 Bc  bc    kc    kc         976   70    0 2c Ac
+speedo    828140684  2  2 Bk  f     -     -          906   10    0 
+speedo    828140694  2  1 Br  b     -     -          896   30   50 
+speedo    828140707  2  2 Bc  c     c     c          916   70    0 6h Kh
+speedo    828140720  2  1 Bf  -     -     -          846    5    0 
+speedo    828140747  2  2 Bk  f     -     -          841   10    0 
+speedo    828140748  2  1 Br  -     -     -          831   20   30 
+speedo    828140749  2  2 B   -     -     -          841   10   15 
+speedo    828140750  2  1 Bf  -     -     -          846    5    0 
+speedo    828140751  2  2 Bk  k     c     k          841   30    0 Th Qd
+speedo    828140775  2  1 Bc  k     k     k          811   10    0 8h Kh
+speedo    828140803  2  2 Bf  -     -     -          801   10    0 
+speedo    828140804  2  1 Bc  k     k     kf         791   10    0 
+speedo    828140823  2  2 Bf  -     -     -          781   10    0 
+speedo    828140824  2  1 Bf  -     -     -          771    5    0 
+speedo    828140826  2  2 Bk  k     k     k          766   10    0 Th 2c
+speedo    828140847  2  1 Bc  -     -     -          756   10   20 
+speedo    828140875  4  2 B   -     -     -          766   10   15 
+speedo    828140876  4  1 Bf  -     -     -          771    5    0 
+speedo    828140919  4  4 f   -     -     -          766    0    0 
+speedo    828140944  4  3 r   c     c     bc         766   90    0 Kh Kd
+speedo    828141095  4  2 Br  b     b     kc         676   70  145 Kc Ah
+speedo    828141098  4  1 Bc  kc    kf    -          751   20    0 
+speedo    828141102  4  4 f   -     -     -          731    0    0 
+speedo    828141104  4  3 f   -     -     -          731    0    0 
+speedo    828141105  4  2 Bf  -     -     -          731   10    0 
+speedo    828141106  4  1 Bc  kc    k     k          721   20    0 As 3s
+speedo    828141118  4  4 f   -     -     -          701    0    0 
+speedo    828141131  4  3 f   -     -     -          701    0    0 
+speedo    828141147  4  2 Bf  -     -     -          701   10    0 
+speedo    828141175  4  1 Bf  -     -     -          691    5    0 
+speedo    828141186  4  4 f   -     -     -          686    0    0 
+speedo    828141211  4  3 f   -     -     -          686    0    0 
+speedo    828141236  4  2 Bk  kf    -     -          686   10    0 
+speedo    828141257  5  1 Bf  -     -     -          676    5    0 
+speedo    828141273  5  5 f   -     -     -          671    0    0 
+speedo    828141306  6  5 f   -     -     -          671    0    0 
+speedo    828141347  6  5 f   -     -     -          671    0    0 
+speedo    828141392  6  4 c   b     -     -          671   20   35 
+speedo    828141407  6  3 f   -     -     -          686    0    0 
+speedo    828141459  6  2 Bk  bc    kc    k          686   50   60 Tc 2s
+speedo    828141495  6  1 Brc kc    kc    kc         696   80    0 Jc Js
+speedo    828141533  6  6 f   -     -     -          616    0    0 
+speedo    828141591  6  5 f   -     -     -          616    0    0 
+speedo    828141593  6  4 f   -     -     -          616    0    0 
+speedo    828141653  6  3 c   b     b     -          616   40   80 
+speedo    828141702  7  2 Bf  -     -     -          656   10    0 
+speedo    828141755  7  1 Bc  b     -     -          646   20   30 
+speedo    828141824  7  7 f   -     -     -          656    0    0 
+speedo    828141847  8  6 f   -     -     -          656    0    0 
+speedo    828141898 10  7 f   -     -     -          656    0    0 
+speedo    828142005  9  6 f   -     -     -          656    0    0 
+speedo    828142073  9  5 c   c     cc    kf         656   70    0 
+speedo    828142123  9  4 c   k     kf    -          586   10    0 
+speedo    828142177  9  3 cc  kf    -     -          576   20    0 
+speedo    828142265 10  2 Bk  kf    -     -          556   10    0 
+speedo    828142344  9  1 Bc  kf    -     -          546   10    0 
+speedo    828142389  8  8 f   -     -     -          536    0    0 
+speedo    828142435 10  9 f   -     -     -          536    0    0 
+speedo    828142489  9  7 f   -     -     -          536    0    0 
+speedo    828142583  9  7 f   -     -     -          536    0    0 
+speedo    828142604 10  6 c   f     -     -          536   10    0 
+speedo    828142646 10  5 cc  f     -     -          526   20    0 
+speedo    828142709 10  4 f   -     -     -          506    0    0 
+speedo    828142785 10  3 f   -     -     -          506    0    0 
+speedo    828142889 10  2 Bk  k     k     bc         506   50   65 Jc 5h
+speedo    828143041 11  1 Bf  -     -     -          521    5    0 
+speedo    828143122 12 12 f   -     -     -          516    0    0 
+speedo    828143162 11 10 f   -     -     -          516    0    0 
+speedo    828143304 12  9 f   -     -     -          516    0    0 
+speedo    828143505 11  7 f   -     -     -          516    0    0 
+speedo    828143623 10  6 f   -     -     -          516    0    0 
+speedo    828143687 12  6 cc  k     k     rc         516   80  235 2c Ac
+speedo    828143804 12  5 f   -     -     -          671    0    0 
+speedo    828143889 12  4 c   kf    -     -          671   10    0 
+speedo    828144019 12  4 c   kc    kc    k          661   40    0 3h Ah
+speedo    828144143 12  2 Bk  kf    -     -          621   10    0 
+speedo    828144254 12  1 Br  kf    -     -          611   20    0 
+speedo    828144326 11 11 f   -     -     -          591    0    0 
+speedo    828144424 11 10 f   -     -     -          591    0    0 
+speedo    828144486 12  9 f   -     -     -          591    0    0 
+speedo    828144629  8  6 f   -     -     -          591    0    0 
+speedo    828144675  9  5 f   -     -     -          591    0    0 
+speedo    828144798  7  3 f   -     -     -          591    0    0 
+speedo    828144857  6  2 Bk  kf    -     -          591   10    0 
+speedo    828144902  6  1 Bf  -     -     -          581    5    0 
+speedo    828144942  7  6 f   -     -     -          576    0    0 
+speedo    828144983  7  5 f   -     -     -          576    0    0 
+speedo    828145063  7  4 f   -     -     -          576    0    0 
+speedo    828145171  8  3 f   -     -     -          576    0    0 
+speedo    828145285  8  2 Bk  kc    kc    kf         576   40    0 
+speedo    828145341  8  1 Bc  k     b     b          536   50  130 5d Ac
+speedo    828145419  9  9 f   -     -     -          616    0    0 
+speedo    828145488  9  8 c   k     f     -          616   10    0 
+speedo    828145539  9  7 f   -     -     -          606    0    0 
+speedo    828145620 10  7 f   -     -     -          606    0    0 
+speedo    828145670  9  5 f   -     -     -          606    0    0 
+speedo    828145740 11  5 f   -     -     -          606    0    0 
+speedo    828145813 11  4 cc  k     kf    -          606   20    0 
+speedo    828145919 10  3 c   cf    -     -          586   20    0 
+speedo    828146009 10  2 Bk  kf    -     -          566   10    0 
+speedo    828146094 10  1 Bf  -     -     -          556    5    0 
+speedo    828146157  9  9 f   -     -     -          551    0    0 
+speedo    828146234  9  9 f   -     -     -          551    0    0 
+speedo    828146332  9  8 f   -     -     -          551    0    0 
+speedo    828146427  9  7 f   -     -     -          551    0    0 
+speedo    828146526  7  4 f   -     -     -          551    0    0 
+speedo    828146611  6  3 c   kf    -     -          551   10    0 
+speedo    828146670  7  2 Bk  k     k     kf         541   10    0 
+speedo    828146713  7  1 Bf  -     -     -          531    5    0 
+speedo    828146749  7  7 f   -     -     -          526    0    0 
+speedo    828146808  7  6 c   kc    kf    -          526   20    0 
+speedo    828146854  7  5 c   kf    -     -          506   10    0 
+speedo    828146920  6  4 f   -     -     -          496    0    0 
+speedo    828146965  7  3 cc  kf    -     -          496   20    0 
+speedo    828147009  7  2 Bf  -     -     -          476   10    0 
+speedo    828147081  6  1 Bf  -     -     -          466    5    0 
+speedo    828147125  6  6 f   -     -     -          461    0    0 
+speedo    828147149  7  6 c   k     kf    -          461   10    0 
+speedo    828147234  7  5 f   -     -     -          451    0    0 
+speedo    828147288  7  4 r   b     -     -          451   30   65 
+speedo    828147317  7  3 c   kc    kc    kc         486   60  145 Qs As
+speedo    828147388  6  1 Bc  kc    kc    kf         571   50    0 
+speedo    828147426  6  1 Bf  -     -     -          521    5    0 
+speedo    828147477  6  6 f   -     -     -          516    0    0 
+speedo    828147519  6  5 c   kc    k     f          516   20    0 
+speedo    828147656  6  3 f   -     -     -          496    0    0 
+speedo    828147716  8  3 f   -     -     -          496    0    0 
+speedo    828147785  9  2 Bk  k     b     b          496   50  180 9s 6c
+speedo    828147863  9  1 Bf  -     -     -          626    5    0 
+speedo    828147935 10 10 c   k     f     -          621   10    0 
+speedo    828148071 10  9 f   -     -     -          611    0    0 
+speedo    828148189 11  9 cc  cc    kc    c          611   80    0 Jd Qs
+speedo    828148361 10  7 c   kc    f     -          531   20    0 
+speedo    828148533  8  5 c   f     -     -          511   10    0 
+speedo    828148615  6  3 f   -     -     -          501    0    0 
+speedo    828148677  7  3 f   -     -     -          501    0    0 
+speedo    828148749  7  2 Bk  kf    -     -          501   10    0 
+speedo    828148832  8  1 Bf  -     -     -          491    5    0 
+speedo    828148908  8  8 f   -     -     -          486    0    0 
+speedo    828149000  8  7 f   -     -     -          486    0    0 
+speedo    828149059  8  6 f   -     -     -          486    0    0 
+speedo    828149141  9  6 c   f     -     -          486   10    0 
+speedo    828149186  9  5 c   k     kf    -          476   10    0 
+speedo    828149260  8  3 f   -     -     -          466    0    0 
+speedo    828149305  9  2 Bcc kf    -     -          466   40    0 
+speedo    828149401  9  1 Bc  kcc   kc    kf         426   70    0 
+speedo    828149508  9  9 f   -     -     -          356    0    0 
+speedo    828149568  9  8 f   -     -     -          356    0    0 
+speedo    828149651  9  7 f   -     -     -          356    0    0 
+speedo    828149743  9  6 c   k     k     kf         356   10    0 
+speedo    828149827  9  5 f   -     -     -          346    0    0 
+speedo    828149931 11  6 cc  kc    k     b          346   50  275 Ah 4h
+speedo    828150013 12  6 f   -     -     -          571    0    0 
+speedo    828150132  8  4 f   -     -     -          571    0    0 
+speedo    828150261  8  2 f   -     -     -          571    0    0 
+speedo    828150339  8  2 Bk  k     kc    kf         571   30    0 
+speedo    828150406  6  1 Bf  -     -     -          541    5    0 
+speedo    828150485  6  6 f   -     -     -          536    0    0 
+speedo    828150569  5  4 f   -     -     -          536    0    0 
+speedo    828150622  5  3 f   -     -     -          536    0    0 
+speedo    828150659  5  2 Bk  kf    -     -          536   10    0 
+speedo    828150717  4  1 Bf  -     -     -          526    5    0 
+speedo    828150754  5  5 f   -     -     -          521    0    0 
+speedo    828150796  5  4 f   -     -     -          521    0    0 
+speedo    828150850  5  3 f   -     -     -          521    0    0 
+speedo    828150906  5  2 Bk  k     kf    -          521   10    0 
+speedo    828150940  5  1 Bf  -     -     -          511    5    0 
+speedo    828150990  5  5 f   -     -     -          506    0    0 
+speedo    828151073  5  4 f   -     -     -          506    0    0 
+speedo    828151159  3  3 f   -     -     -          506    0    0 
+speedo    828151166  2  2 B   -     -     -          506   10   15 
+speedo    828151172  2  1 Bc  kf    -     -          511   10    0 
+speedo    828151187  2  2 BQ  -     -     -          501   10   15 
+speedo    828151934  2  2 Br  bc    r     brr        506  180  360 Ac Kc
+speedo    828152073  2  1 Bf  -     -     -          686    5    0 
+speedo    828152077  2  2 Bk  b     f     -          681   20    0 
+speedo    828152212  3  1 Bf  -     -     -          661    5    0 
+speedo    828152233  3  3 f   -     -     -          656    0    0 
+speedo    828152305  3  2 Bk  f     -     -          656   10    0 
+speedo    828152383  3  1 Bf  -     -     -          646    5    0 
+speedo    828152435  3  3 f   -     -     -          641    0    0 
+speedo    828152503  4  2 Bk  br    r     bc         641  120    0 6c 7s
+speedo    828152597  4  1 Bc  k     k     bc         521   60    0 9h Ad
+speedo    828152672  4  4 c   k     f     -          461   10    0 
+speedo    828152722  4  3 f   -     -     -          451    0    0 
+speedo    828152742  4  2 Bk  k     k     k          451   10   15 6h Ks
+speedo    828152810  4  1 BQ  -     -     -          456    5    0 
+speedo    828153054  3  3 f   -     -     -          451    0    0 
+speedo    828153060  3  2 Bc  c     r     -          451   70  150 
+speedo    828153089  3  1 Bc  k     k     b          531   30   50 
+speedo    828153145  4  3 c   b     b     b          551   60  160 Ah Jh
+speedo    828153220  6  4 f   -     -     -          651    0    0 
+speedo    828153341  8  5 f   -     -     -          651    0    0 
+speedo    828153418  9  5 f   -     -     -          651    0    0 
+speedo    828153497  9  4 f   -     -     -          651    0    0 
+speedo    828153607  9  3 f   -     -     -          651    0    0 
+speedo    828153826  9  5 rc  kf    -     -          651   40    0 
+speedo    828153906  7  2 Bf  -     -     -          611   10    0 
+speedo    828153999  8  1 Bf  -     -     -          601    5    0 
+speedo    828154068  7  7 f   -     -     -          596    0    0 
+speedo    828154116  7  7 f   -     -     -          596    0    0 
+speedo    828154268  9  7 fQ  -     -     -          596    0    0 
+speedo    828203858  3  3 f   -     -     -          596    0    0 
+speedo    828203870  2  2 Br  b     k     k          596   30   60 Kc Ad
+speedo    828203907  2  1 Bc  k     -     -          626   10   20 
+speedo    828203917  2  2 Bk  f     -     -          636   10    0 
+speedo    828203939  2  1 Bf  -     -     -          626    5    0 
+speedo    828203943  2  2 Bk  b     b     k          621   40   80 5d 5c
+speedo    828204000  2  1 Bf  -     -     -          661    5    0 
+speedo    828204004  2  2 Br  b     k     b          656   50  100 Ac Kh
+speedo    828204045  2  1 Bf  -     -     -          706    5    0 
+speedo    828204049  2  2 Bk  -     -     -          701   10   20 
+speedo    828204061  2  1 Bf  -     -     -          711    5    0 
+speedo    828204067  2  2 Bk  f     -     -          706   10    0 
+speedo    828204081  2  1 Bf  -     -     -          696    5    0 
+speedo    828204084  2  2 Bk  c     c     c          691   60    0 6s 5c
+speedo    828204104  2  1 Bf  -     -     -          631    5    0 
+speedo    828204108  2  2 Bk  b     b     k          626   40    0 3c 9d
+speedo    828204140  2  1 Bc  b     b     kc         586   60  120 8h 6h
+speedo    828204174  2  2 Bk  k     k     f          646   10    0 
+speedo    828204198  2  1 Bc  b     b     b          636   60  100 
+speedo    828204222  2  2 Bk  -     -     -          676   10   20 
+speedo    828204236  2  1 Br  k     -     -          686   20   40 
+speedo    828204256  2  2 Bk  k     k     f          706   10    0 
+speedo    828204276  2  1 Bf  -     -     -          696    5    0 
+speedo    828204280  2  2 Bk  b     k     k          691   20   40 8s 5h
+speedo    828204314  2  1 Bc  k     b     k          711   30   60 
+speedo    828204348  2  2 Bk  k     k     c          741   30    0 9h 3s
+speedo    828204369  2  1 Bc  k     k     b          711   30   60 2h Ks
+speedo    828204392  2  2 Bk  b     -     -          741   20   40 
+speedo    828204421  2  1 Bf  -     -     -          761    5    0 
+speedo    828204424  2  2 Bk  f     -     -          756   10    0 
+speedo    828204432  2  1 Bc  b     b     b          746   60  120 Tc 6c
+speedo    828204463  2  2 Bk  k     k     b          806   30   40 
+speedo    828204504  2  1 Br  b     bf    -          816   50    0 
+speedo    828204531  2  2 Bk  k     k     b          766   30   40 
+speedo    828204580  3  1 Bf  -     -     -          776    5    0 
+speedo    828204611  3  3 c   b     b     k          771   40    0 Qh 8h
+speedo    828204659  3  2 Bf  -     -     -          731   10    0 
+speedo    828204668  3  1 Bf  -     -     -          721    5    0 
+speedo    828204697  4  4 f   -     -     -          716    0    0 
+speedo    828204735  4  3 f   -     -     -          716    0    0 
+speedo    828204774  4  2 Bk  kf    -     -          716   10    0 
+speedo    828204808  4  1 Bcc k     k     b          706   40    0 8c 9c
+speedo    828204873  4  4 f   -     -     -          666    0    0 
+speedo    828204917  4  3 f   -     -     -          666    0    0 
+speedo    828204945  4  2 Bc  kc    k     kf         666   30    0 
+speedo    828205005  3  1 Bf  -     -     -          636    5    0 
+speedo    828205033  3  3 c   k     k     k          631   10   30 9d Qd
+speedo    828205061  3  2 Bk  f     -     -          651   10    0 
+speedo    828205079  3  1 Br  b     -     -          641   30   60 
+speedo    828205097  3  3 c   b     -     -          671   20   40 
+speedo    828205114  3  2 Bf  -     -     -          691   10    0 
+speedo    828205120  3  1 Bf  -     -     -          681    5    0 
+speedo    828205150  4  4 c   br    b     b          676   90  255 Jd As
+speedo    828205232  4  3 f   -     -     -          841    0    0 
+speedo    828205256  4  2 Bk  b     f     -          841   20    0 
+speedo    828205324  4  1 Bf  -     -     -          821    5    0 
+speedo    828205354  4  4 c   c     f     -          816   20    0 
+speedo    828205395  4  3 f   -     -     -          796    0    0 
+speedo    828205413  4  2 Bk  b     b     -          796   40   80 
+speedo    828205465  4  1 Bc  kf    -     -          836   20    0 
+speedo    828205496  4  4 f   -     -     -          816    0    0 
+speedo    828205537  4  3 c   k     f     -          816   10    0 
+speedo    828205575  4  2 Bk  -     -     -          806   10   20 
+speedo    828205593  4  1 Bf  -     -     -          816    5    0 
+speedo    828205637  4  4 c   b     b     k          811   40    0 9s 9d
+speedo    828205693  4  3 f   -     -     -          771    0    0 
+speedo    828205730  4  2 Bc  c     b     c          771   80    0 Kd Qc
+speedo    828205787  5  1 Bf  -     -     -          691    5    0 
+speedo    828205848  5  5 cc  c     c     f          686   50    0 
+speedo    828205914  6  5 f   -     -     -          636    0    0 
+speedo    828206001  6  4 f   Q     -     -          636    0    0 
+speedo    828206423  4  2 Bk  kf    -     -          636   10    0 
+speedo    828206454  5  1 Bf  -     -     -          626    5    0 
+speedo    828206526  5  5 c   k     b     b          621   60  145 
+speedo    828206586  5  4 cc  kc    kr    rc         706  130  360 8h Jh
+speedo    828206671  5  3 f   -     -     -          936    0    0 
+speedo    828206747  6  2 Bk  k     bc    kc         936   70    0 Td Th
+speedo    828206808  6  1 Bf  -     -     -          866    5    0 
+speedo    828206848  6  6 f   -     -     -          861    0    0 
+speedo    828206911  6  5 c   kc    kr    b          861   80  185 
+speedo    828207037  5  4 c   f     -     -          966   10    0 
+speedo    828207067  5  3 f   -     -     -          956    0    0 
+speedo    828207103  5  2 Bk  kc    kc    kf         956   40    0 
+speedo    828207172  5  1 Bf  -     -     -          916    5    0 
+speedo    828207224  5  5 f   -     -     -          911    0    0 
+speedo    828207239  5  4 f   -     -     -          911    0    0 
+speedo    828207309  6  3 c   k     kc    kf         911   30    0 
+speedo    828207374  6  2 Bc  kf    -     -          881   20    0 
+speedo    828207402  6  1 Bf  -     -     -          861    5    0 
+speedo    828207447  5  5 f   -     -     -          856    0    0 
+speedo    828207494  5  4 c   b     b     b          856   60  120 
+speedo    828207612  4  3 f   -     -     -          916    0    0 
+speedo    828207677  4  2 Bk  k     k     k          916   10   25 
+speedo    828207732  4  1 Bf  -     -     -          931    5    0 
+speedo    828207753  5  4 Q   -     -     -          926    0    0 
+speedo    828216087  8  4 c   c     f     -          926   20    0 
+speedo    828216143  9  3 f   -     -     -          906    0    0 
+speedo    828216206  8  1 Bk  k     b     -          906   30   40 
+speedo    828216252  7  1 Bf  -     -     -          916    5    0 
+speedo    828216278  8  8 f   -     -     -          911    0    0 
+speedo    828216339  8  7 c   kc    k     b          911   50    0 Jd Qs
+speedo    828216435  8  6 f   -     -     -          861    0    0 
+speedo    828216472  8  5 c   f     -     -          861   10    0 
+speedo    828216509  7  4 f   -     -     -          851    0    0 
+speedo    828216555  7  3 f   -     -     -          851    0    0 
+speedo    828216611  7  2 Bc  bc    kr    b          851  100  205 As 3c
+speedo    828216680  7  1 Bf  -     -     -          956    5    0 
+speedo    828216733  6  6 f   -     -     -          951    0    0 
+speedo    828216743  5  4 c   k     k     r          951   50  110 8s 9h
+speedo    828216790  6  3 f   -     -     -         1011    0    0 
+speedo    828216852  7  2 Bc  kf    -     -         1011   20    0 
+speedo    828216907  6  1 Bc  kf    -     -          991   20    0 
+speedo    828216967  7  7 c   k     k     f          971   10    0 
+speedo    828217012  6  5 f   -     -     -          961    0    0 
+speedo    828217045  6  4 f   -     -     -          961    0    0 
+speedo    828217101  6  3 f   -     -     -          961    0    0 
+speedo    828217152  6  2 Bk  kf    -     -          961   10    0 
+speedo    828217183  6  1 Bf  -     -     -          951    5    0 
+speedo    828217208  6  6 f   -     -     -          946    0    0 
+speedo    828217273  6  5 f   -     -     -          946    0    0 
+speedo    828217320  8  6 f   -     -     -          946    0    0 
+speedo    828217380  7  5 f   -     -     -          946    0    0 
+speedo    828217407  7  4 c   c     c     b          946   60  200 Kc Qh
+speedo    828217462  7  3 f   -     -     -         1086    0    0 
+speedo    828217511  8  2 Bk  k     kc    k         1086   30    0 Ah Jh
+speedo    828217588  8  1 B   -     -     -         1056    5   15 
+speedo    828217633  7  7 f   -     -     -         1066    0    0 
+speedo    828217662  7  7 f   -     -     -         1066    0    0 
+speedo    828217705  7  6 c   b     b     b         1066   60  130 2s 2d
+speedo    828217772  6  4 cc  kf    -     -         1136   20    0 
+speedo    828217805  6  3 cc  kf    -     -         1116   20    0 
+speedo    828217850  7  2 Bf  -     -     -         1096   10    0 
+speedo    828217889  8  1 Bf  -     -     -         1086    5    0 
+speedo    828217939  8  8 f   -     -     -         1081    0    0 
+speedo    828217977  7  6 cc  k     kc    kf        1081   50    0 
+speedo    828218036  7  5 f   -     -     -         1031    0    0 
+speedo    828218048  7  4 cc  br    kc    b         1031   90  235 
+speedo    828218105  7  3 f   -     -     -         1176    0    0 
+speedo    828218114  7  2 Bc  kc    kc    kf        1176   50    0 
+speedo    828218143  7  1 Bf  -     -     -         1126    5    0 
+speedo    828218187  7  7 f   -     -     -         1121    0    0 
+speedo    828218229  7  6 f   -     -     -         1121    0    0 
+speedo    828218251  7  5 f   -     -     -         1121    0    0 
+speedo    828218285  6  4 f   -     -     -         1121    0    0 
+speedo    828218314  7  3 c   c     c     k         1121   40    0 5d Kd
+speedo    828218353  7  2 Bf  -     -     -         1081   10    0 
+speedo    828218404  7  1 Bf  -     -     -         1071    5    0 
+speedo    828218447  7  7 f   -     -     -         1066    0    0 
+speedo    828218478  8  7 f   -     -     -         1066    0    0 
+speedo    828218548  8  5 f   -     -     -         1066    0    0 
+speedo    828218597  8  4 f   -     -     -         1066    0    0 
+speedo    828218661  7  2 Bf  -     -     -         1066   10    0 
+speedo    828218670  7  1 Bf  -     -     -         1056    5    0 
+speedo    828218680  7  7 c   c     c     c         1051   70  165 Tc Ac
+speedo    828218727  5  5 cc  c     c     f         1146   50    0 
+speedo    828218767  5  4 c   kc    kc    kr        1096   80  155 
+speedo    828218806  6  4 cc  cf    -     -         1171   30    0 
+speedo    828218862  6  3 rrc bc    kc    kc        1141  110    0 Ks Ad
+speedo    828218897  6  2 Bk  k     k     k         1031   10    0 9s Ks
+speedo    828218939  6  1 Bc  kf    -     -         1021   20    0 
+speedo    828218985  6  6 f   -     -     -         1001    0    0 
+speedo    828219035  7  6 cc  f     -     -         1001   20    0 
+speedo    828219085  6  4 f   -     -     -          981    0    0 
+speedo    828219111  6  3 c   cc    k     kc         981   50  150 Qd Ts
+speedo    828219163  6  2 Bc  k     kf    -         1081   20    0 
+speedo    828219208  6  1 Bf  -     -     -         1061    5    0 
+speedo    828219222  6  6 f   -     -     -         1056    0    0 
+speedo    828219259  5  4 f   -     -     -         1056    0    0 
+speedo    828219268  5  3 cc  kc    kf    -         1056   30    0 
+speedo    828219309  5  2 Bk  br    -     -         1026   40   80 
+speedo    828219337  5  1 Bf  -     -     -         1066    5    0 
+speedo    828219352  5  5 f   -     -     -         1061    0    0 
+speedo    828219389  6  5 f   -     -     -         1061    0    0 
+speedo    828219427  6  4 f   -     -     -         1061    0    0 
+speedo    828219460  6  3 f   -     -     -         1061    0    0 
+speedo    828219496  7  3 f   -     -     -         1061    0    0 
+speedo    828219547  7  2 Bk  kc    kf    -         1061   20    0 
+speedo    828219591  6  1 Bf  -     -     -         1041    5    0 
+speedo    828219636  7  7 f   -     -     -         1036    0    0 
+speedo    828219685  6  5 f   -     -     -         1036    0    0 
+speedo    828219710  6  4 f   -     -     -         1036    0    0 
+speedo    828219750  6  3 KQ  -     -     -         1036    0    0 
+speedo    828219924  6  6 c   k     f     -         1036   10    0 
+speedo    828219956  6  5 f   -     -     -         1026    0    0 
+speedo    828220019  7  5 f   -     -     -         1026    0    0 
+speedo    828220111  7  4 f   -     -     -         1026    0    0 
+speedo    828220183  6  2 f   -     -     -         1026    0    0 
+speedo    828220223  6  2 Brr b     bc    kc        1026  120    0 Qc Qh
+speedo    828220262  6  1 Bc  k     k     kf         906   10    0 
+speedo    828220292  7  7 f   -     -     -          896    0    0 
+speedo    828220337  8  7 c   k     f     -          896   10    0 
+speedo    828220393  8  6 f   -     -     -          886    0    0 
+speedo    828220440  8  5 f   -     -     -          886    0    0 
+speedo    828220482  9  5 f   -     -     -          886    0    0 
+speedo    828220548  9  4 c   f     -     -          886   10    0 
+speedo    828220574  9  3 f   -     -     -          876    0    0 
+speedo    828220635  9  2 Bf  -     -     -          876   10    0 
+speedo    828220693 10  1 Bf  -     -     -          866    5    0 
+speedo    828220776  9  9 c   k     c     k          861   40  170 9h Th
+speedo    828220843  9  8 f   -     -     -          991    0    0 
+speedo    828220918  9  7 cc  cc    kc    kf         991   60    0 
+speedo    828221020 11  8 f   -     -     -          931    0    0 
+speedo    828221107 11  7 f   -     -     -          931    0    0 
+speedo    828221222 11  6 f   -     -     -          931    0    0 
+speedo    828221321 10  4 r   b     b     b          931   70  215 
+speedo    828221431 11  4 f   -     -     -         1076    0    0 
+speedo    828221544 11  4 f   -     -     -         1076    0    0 
+speedo    828221618 11  3 c   c     b     k         1076   40    0 Jd Kh
+speedo    828221701 10  2 Bk  k     c     k         1036   30  100 Jd 7h
+speedo    828221754 10  1 Bcc kf    -     -         1106   40    0 
+speedo    828221850  9  9 f   -     -     -         1066    0    0 
+speedo    828221910  9  9 f   -     -     -         1066    0    0 
+speedo    828221979  9  8 c   b     c     c         1066   60    0 7h 7c
+speedo    828222079  9  7 f   -     -     -         1006    0    0 
+speedo    828222208 10  3 Q   -     -     -         1006    0    0 
+speedo    828224352 12 12 f   -     -     -         1006    0    0 
+speedo    828224549 11 10 f   -     -     -         1006    0    0 
+speedo    828224650 11  9 f   -     -     -         1006    0    0 
+speedo    828224785 11  8 c   k     k     b         1006   30    0 As 6d
+speedo    828224918 12  8 f   -     -     -          976    0    0 
+speedo    828225054 12  7 f   -     -     -          976    0    0 
+speedo    828225156 11  5 cc  cc    cc    kf         976   80    0 
+speedo    828225276 11  5 c   k     f     -          896   10    0 
+speedo    828225351 10  3 cc  kf    -     -          886   40    0 
+speedo    828225441 10  2 Bcc kf    -     -          846   40    0 
+speedo    828225551 10  1 Bcc kf    -     -          806   40    0 
+speedo    828225651 11 11 f   -     -     -          766    0    0 
+speedo    828225835 11 10 f   -     -     -          766    0    0 
+speedo    828225925 11 10 f   -     -     -          766    0    0 
+speedo    828226027 11  9 cc  f     Q     -          766   20    0 
+speedo    828230411 12  2 Bc  kf    -     -          746   20    0 
+speedo    828230485 12  1 Bf  -     -     -          726    5    0 
+speedo    828230572 12 12 f   -     -     -          721    0    0 
+speedo    828230734 12 11 f   -     -     -          721    0    0 
+speedo    828230883 12 10 f   -     -     -          721    0    0 
+speedo    828230980 12  9 cc  c     c     cc         721  110    0 9h 9s
+speedo    828231118 12  8 c   f     -     -          611   10    0 
+speedo    828231263 12  7 c   kf    -     -          601   10    0 
+speedo    828231365 12  6 f   -     -     -          591    0    0 
+speedo    828231477 12  5 c   k     r     b          591   70  180 6s Ks
+speedo    828231547 12  4 f   -     -     -          701    0    0 
+speedo    828231690 12  3 f   -     -     -          701    0    0 
+speedo    828231827 12  2 Bf  -     -     -          701   10    0 
+speedo    828231963 12  1 Bf  -     -     -          691    5    0 
+speedo    828232023 12 12 cc  c     rr    f          686  130    0 
+speedo    828232175 11 10 f   -     -     -          556    0    0 
+speedo    828232261 12  9 f   -     -     -          556    0    0 
+speedo    828232360 12  8 f   -     -     -          556    0    0 
+speedo    828232430 12  7 f   -     -     -          556    0    0 
+speedo    828232497 12  6 f   -     -     -          556    0    0 
+speedo    828232611 12  5 f   -     -     -          556    0    0 
+speedo    828232729 12  4 f   -     -     -          556    0    0 
+speedo    828232828 12  3 f   -     -     -          556    0    0 
+speedo    828232953 12  2 Bk  k     kf    -          556   10    0 
+speedo    828233056  6  1 Bf  -     -     -          546    5    0 
+speedo    828233074  5  5 cc  f     -     -          541   30    0 
+speedo    828233163  7  6 f   -     -     -          511    0    0 
+speedo    828233257  6  4 cc  f     -     -          511   40    0 
+speedo    828233321  7  4 f   -     -     -          471    0    0 
+speedo    828233344  8  3 c   kc    f     -          471   20    0 
+speedo    828233453  6  2 Bc  kf    -     -          451   20    0 
+speedo    828233498  7  1 Bc  k     b     -          431   40   80 
+speedo    828233544  7  7 f   -     -     -          471    0    0 
+speedo    828233630  8  7 f   -     -     -          471    0    0 
+speedo    828233689  7  5 f   -     -     -          471    0    0 
+speedo    828233727  7  4 f   -     -     -          471    0    0 
+speedo    828233839  7  3 f   -     -     -          471    0    0 
+speedo    828233889  6  2 Bk  kf    -     -          471   10    0 
+speedo    828234003  5  1 Bf  -     -     -          461    5    0 
+speedo    828234038  7  7 f   -     -     -          456    0    0 
+speedo    828234121  8  7 f   -     -     -          456    0    0 
+speedo    828234230  9  8 c   c     cf    -          456   40    0 
+speedo    828234347  9  7 cc  cf    -     -          416   50    0 
+speedo    828234485 10  6 f   -     -     -          366    0    0 
+speedo    828234618 10  5 f   -     -     -          366    0    0 
+speedo    828234732 12  4 c   k     kf    -          366   10    0 
+speedo    828234936 12  3 c   kf    -     -          356   10    0 
+speedo    828235096 12  2 Bk  kc    kc    kf         346   40    0 
+speedo    828235177 12  1 Bf  -     -     -          306    5    0 
+speedo    828235353 11  4 Q   -     -     -          301    0    0 

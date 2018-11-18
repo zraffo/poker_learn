@@ -1,0 +1,563 @@
+suckfish^ 803416472  2  1 Bc  kf    -     -         1000   10    0 
+suckfish^ 803416495  2  2 Bk  c     f     -          990   20    0 
+suckfish^ 803416522  2  1 Bc  b     kf    -          970   20    0 
+suckfish^ 803416546  2  2 Bf  -     -     -          950   10    0 
+suckfish^ 803416555  2  1 Bc  b     b     b          940   60  120 Qc 4s
+suckfish^ 803416589  3  2 Bk  k     k     b         1000   30   50 
+suckfish^ 803416634  3  1 Bf  -     -     -         1020    5    0 
+suckfish^ 803416695  3  3 cc  r     rc    rr        1015  180  400 Ts Qs
+suckfish^ 803416752  3  2 Bk  f     -     -         1235   10    0 
+suckfish^ 803416790  3  1 Bc  kr    kc    k         1225   80    0 Ad 3s
+suckfish^ 803416853  3  3 f   -     -     -         1145    0    0 
+suckfish^ 803416924  3  2 Bc  kc    kc    k         1145   50  130 Ks 5c
+suckfish^ 803416985  3  1 Bc  kc    kc    krc       1225  100  105 7c 8s
+suckfish^ 803417053  3  3 f   -     -     -         1230    0    0 
+suckfish^ 803417093  4  3 f   -     -     -         1230    0    0 
+suckfish^ 803417130  4  2 Bf  -     -     -         1230   10    0 
+suckfish^ 803417187  4  1 Bcc kf    -     -         1220   20    0 
+suckfish^ 803417262  2  2 BQ  -     -     -         1200   10    0 
+suckfish^ 803503443  3  2 Bf  -     -     -         1190   10    0 
+suckfish^ 803503455  3  1 Bcc kc    k     k         1180   40  110 Ah 4s
+suckfish^ 803503504  3  3 f   -     -     -         1250    0    0 
+suckfish^ 803503517  3  2 B   -     -     -         1250   10   15 
+suckfish^ 803503523  3  1 Bcf -     -     -         1255   10    0 
+suckfish^ 803503536  3  3 f   -     -     -         1245    0    0 
+suckfish^ 803503554  3  2 Br  r     bc    c         1245  100    0 Ad 8d
+suckfish^ 803503601  3  1 Bc  kf    -     -         1145   20    0 
+suckfish^ 803503628  3  3 f   -     -     -         1125    0    0 
+suckfish^ 803503645  3  2 B   -     -     -         1125   10   15 
+suckfish^ 803503650  3  1 Bf  -     -     -         1130    5    0 
+suckfish^ 803503660  3  3 r   -     -     -         1125   20   35 
+suckfish^ 803503670  3  2 Bf  -     -     -         1140   10    0 
+suckfish^ 803503683  3  1 Bc  k     k     kf        1130   10    0 
+suckfish^ 803503726  3  3 f   -     -     -         1120    0    0 
+suckfish^ 803503732  3  2 Br  b     b     -         1120   60  105 
+suckfish^ 803503770  3  1 Bf  -     -     -         1165    5    0 
+suckfish^ 803503780  3  3 f   -     -     -         1160    0    0 
+suckfish^ 803503786  3  2 Bc  k     kf    -         1160   20    0 
+suckfish^ 803503818  3  1 Bc  k     b     -         1140   30   50 
+suckfish^ 803503842  3  3 r   k     f     -         1160   20    0 
+suckfish^ 803503876  3  2 Bf  -     -     -         1140   10    0 
+suckfish^ 803503892  3  1 Bc  kf    -     -         1130   10    0 
+suckfish^ 803503912  3  3 f   -     -     -         1120    0    0 
+suckfish^ 803503919  3  2 Bf  -     -     -         1120   10    0 
+suckfish^ 803503932  3  1 Bc  b     b     b         1110   70    0 Ac 2s
+suckfish^ 803503957  3  3 f   -     -     -         1040    0    0 
+suckfish^ 803503983  3  2 B   -     -     -         1040   10   15 
+suckfish^ 803503988  3  1 Bcc kf    -     -         1045   30    0 
+suckfish^ 803504033  4  4 r   brc   k     c         1015   80    0 Ac Tc
+suckfish^ 803504098  4  3 f   -     -     -          935    0    0 
+suckfish^ 803504161  3  2 Bk  f     -     -          935   10    0 
+suckfish^ 803504183  3  1 Bf  -     -     -          925    5    0 
+suckfish^ 803504195  3  3 c   bc    k     -          920   30   70 
+suckfish^ 803504235  3  2 Bf  -     -     -          960   10    0 
+suckfish^ 803504246  3  1 Bc  k     k     k          950   10    0 5s 4h
+suckfish^ 803504279  3  3 f   -     -     -          940    0    0 
+suckfish^ 803504299  3  2 Br  b     -     -          940   30   55 
+suckfish^ 803504318  3  1 Bf  -     -     -          965    5    0 
+suckfish^ 803504333  3  3 r   b     b     -          960   50   90 
+suckfish^ 803504366  3  2 Bk  brrc  b     b         1000  110  230 9s Tc
+suckfish^ 803504412  3  1 Bc  kf    -     -         1120   10    0 
+suckfish^ 803504436  3  3 f   -     -     -         1110    0    0 
+suckfish^ 803504455  3  2 Bk  k     c     k         1110   30    0 Ah 2h
+suckfish^ 803504487  3  1 Bc  -     -     -         1080   10   20 
+suckfish^ 803504496  3  3 r   b     b     k         1090   50    0 Ad Ks
+suckfish^ 803504533  4  2 Bf  -     -     -         1040   10    0 
+suckfish^ 803504575  4  1 Bf  -     -     -         1030    5    0 
+suckfish^ 803504587  4  4 ccc c     c     c         1025  100    0 Td Jc
+suckfish^ 803504642  4  3 cc  bc    b     b          925   80  250 Ks Th
+suckfish^ 803504717  5  2 Bf  -     -     -         1095   10    0 
+suckfish^ 803504783  5  1 Bcc k     br    k         1085   80  240 Jh 7s
+suckfish^ 803504872  5  5 f   -     -     -         1245    0    0 
+suckfish^ 803505007  6  6 f   Q     -     -         1245    0    0 
+suckfish^ 803505361  8  3 cc  kc    kr    b         1245   90  240 Ad Js
+suckfish^ 803505424  8  2 Bk  f     -     -         1395   10    0 
+suckfish^ 803505459  8  1 Bc  kf    -     -         1385   10    0 
+suckfish^ 803505574  5  5 f   -     -     -         1375    0    0 
+suckfish^ 803505640  5  5 cc  k     f     -         1375   20    0 
+suckfish^ 803505740  5  4 c   k     b     br        1355   90  210 Tc Jd
+suckfish^ 803505821  5  3 cc  c     c     c         1475   70    0 9c Qs
+suckfish^ 803505922  6  2 Bf  -     -     -         1405   10    0 
+suckfish^ 803506010  6  1 Bf  -     -     -         1395    5    0 
+suckfish^ 803506052  7  7 c   c     f     -         1390   20    0 
+suckfish^ 803506144  7  6 f   -     -     -         1370    0    0 
+suckfish^ 803506207  7  5 cc  f     Q     -         1370   20    0 
+suckfish^ 803507065  9  8 f   -     -     -         1350    0    0 
+suckfish^ 803507129  9  7 c   k     k     k         1350   10    0 Qc 7h
+suckfish^ 803507186  9  6 r   b     b     b         1340   70  180 
+suckfish^ 803507259  9  5 f   -     -     -         1450    0    0 
+suckfish^ 803507384  8  4 f   -     -     -         1450    0    0 
+suckfish^ 803507448  8  3 crc k     kf    -         1450   40    0 
+suckfish^ 803507529  8  2 Bk  k     b     -         1410   30   40 
+suckfish^ 803507579  8  1 Bf  -     -     -         1420    5    0 
+suckfish^ 803507642  8  8 f   -     -     -         1415    0    0 
+suckfish^ 803507719  9  8 c   k     f     Q         1415   10    0 
+suckfish^ 803507956  9  5 f   -     -     -         1405    0    0 
+suckfish^ 803508026  9  4 f   -     -     -         1405    0    0 
+suckfish^ 803508079  9  3 c   kc    kr    bc        1405  120  213 9s 7s
+suckfish^ 803508210  9  2 Bc  kf    -     -         1498   20    0 
+suckfish^ 803508277  9  1 Bcc kf    -     -         1478   20    0 
+suckfish^ 803508384 11  9 cc  cc    ccc   kf        1458  120    0 
+suckfish^ 803508610 12  8 f   -     -     -         1338    0    0 
+suckfish^ 803508686 11  6 f   -     -     -         1338    0    0 
+suckfish^ 803508738 11  5 c   c     k     f         1338   20    0 
+suckfish^ 803508798 11  4 f   -     -     -         1318    0    0 
+suckfish^ 803508928 11  3 f   -     -     -         1318    0    0 
+suckfish^ 803509068 11  2 Bk  k     k     k         1318   10    0 2c 4d
+suckfish^ 803509117 10  1 BQ  -     -     -         1308    5    0 
+suckfish^ 803524704  4  3 f   -     -     -         1303    0    0 
+suckfish^ 803524736  4  2 Bk  k     b     b         1303   50   90 
+suckfish^ 803524778  4  1 Bc  k     kf    -         1343   20    0 
+suckfish^ 803524820  4  4 f   -     -     -         1323    0    0 
+suckfish^ 803524877  4  3 c   c     cc    kf        1323   60    0 
+suckfish^ 803524941  6  2 Bc  f     -     -         1263   20    0 
+suckfish^ 803524977  6  1 Bf  -     -     -         1243    5    0 
+suckfish^ 803525041  6  6 c   f     -     -         1238   10    0 
+suckfish^ 803525100  6  5 f   -     -     -         1228    0    0 
+suckfish^ 803525138  6  4 f   -     -     -         1228    0    0 
+suckfish^ 803525163  6  3 f   -     -     -         1228    0    0 
+suckfish^ 803525235  5  2 Bk  k     k     kc        1228   30    0 2s Ks
+suckfish^ 803525300  6  1 Bf  -     -     -         1198    5    0 
+suckfish^ 803525340  6  6 c   b     -     -         1193   20   35 
+suckfish^ 803525365  6  5 f   -     -     -         1208    0    0 
+suckfish^ 803525405  7  4 c   b     b     b         1208   60  130 7h 7c
+suckfish^ 803525455  7  3 f   -     -     -         1278    0    0 
+suckfish^ 803525467  8  2 Bk  kc    kf    -         1278   20    0 
+suckfish^ 803525552  7  1 Bf  -     -     -         1258    5    0 
+suckfish^ 803525597  7  7 r   cf    -     -         1253   30    0 
+suckfish^ 803525660  7  6 c   k     c     c         1223   50    0 3s Ks
+suckfish^ 803525724  7  6 c   c     c     b         1173   60    0 9s Kh
+suckfish^ 803525799  7  4 c   b     k     k         1113   20   80 6d 5d
+suckfish^ 803525886  5  1 Bf  -     -     -         1173   10    0 
+suckfish^ 803525923  4  1 Bc  bc    b     -         1163   50   90 
+suckfish^ 803525968  3  3 c   b     k     k         1203   30    0 Ts 9h
+suckfish^ 803526012  2  2 c   b     -     -         1173   20   30 
+suckfish^ 803526039  2  2 Br  b     r     b         1183  100  200 Kc Ks
+suckfish^ 803526074  2  1 Bc  br    bc    kc        1283  100    0 9s Ts
+suckfish^ 803526116  2  2 Br  f     -     -         1183   20    0 
+suckfish^ 803526149  2  1 Bc  kf    -     -         1163   10    0 
+suckfish^ 803526169  2  2 B   -     -     -         1153   10   15 
+suckfish^ 803526173  2  1 Bf  -     -     -         1158    5    0 
+suckfish^ 803526177  2  2 B   -     -     -         1153   10   15 
+suckfish^ 803526182  2  1 Bf  -     -     -         1158    5    0 
+suckfish^ 803526186  2  2 B   -     -     -         1153   10   15 
+suckfish^ 803526190  2  1 Br  -     -     -         1158   20   30 
+suckfish^ 803526197  2  2 B   -     -     -         1168   10   15 
+suckfish^ 803526203  2  1 Bc  kc    kf    -         1173   20    0 
+suckfish^ 803526229  2  2 Br  b     f     -         1153   30    0 
+suckfish^ 803526261  2  1 Bc  k     k     k         1123   10   20 8c 9c
+suckfish^ 803526288  2  2 B   -     -     -         1133   10   15 
+suckfish^ 803526301  2  1 Bf  -     -     -         1138    5    0 
+suckfish^ 803526306  2  2 Br  b     r     k         1133   70  140 7c As
+suckfish^ 803526344  2  1 BQ  -     -     -         1203    5    0 
+suckfish^ 803530244  4  4 c   k     f     -         1198   10    0 
+suckfish^ 803530312  5  4 f   -     -     -         1188    0    0 
+suckfish^ 803530346  5  3 f   -     -     -         1188    0    0 
+suckfish^ 803530381  5  2 Bk  kc    kc    kc        1188   60  150 8h Kh
+suckfish^ 803530442  5  1 Bcc kf    -     -         1278   40    0 
+suckfish^ 803530525  5  5 rc  c     b     b         1238   80  150 
+suckfish^ 803530605  5  4 f   -     -     -         1308    0    0 
+suckfish^ 803530663  6  4 c   kf    -     -         1308   10    0 
+suckfish^ 803530729  6  3 cc  b     -     -         1298   30   75 
+suckfish^ 803530768  5  2 Bf  -     -     -         1343   10    0 
+suckfish^ 803530845  5  1 Bc  br    b     -         1333   60  100 
+suckfish^ 803530894  7  6 c   kf    -     -         1373   10    0 
+suckfish^ 803530967  7  5 c   b     kf    -         1363   20    0 
+suckfish^ 803531056  7  4 c   kf    -     -         1343   10    0 
+suckfish^ 803531140  6  4 f   -     -     -         1333    0    0 
+suckfish^ 803531168  6  3 f   -     -     -         1333    0    0 
+suckfish^ 803531206  7  2 Bf  -     -     -         1333   10    0 
+suckfish^ 803531262  6  1 Bc  k     kf    -         1323   10    0 
+suckfish^ 803531314  8  6 f   -     -     -         1313    0    0 
+suckfish^ 803531364  7  4 c   kc    rc    kc        1313  100    0 Js Qs
+suckfish^ 803531465  7  3 f   -     -     -         1213    0    0 
+suckfish^ 803531563  7  2 Br  k     k     f         1213   20    0 
+suckfish^ 803531633  9  1 Bc  kc    kf    -         1193   20    0 
+suckfish^ 803531707  9  8 Q   -     -     -         1173    0    0 
+suckfish^ 803546868  4  3 f   -     -     -         1173    0    0 
+suckfish^ 803546886  4  2 Bc  kc    kc    b         1173   70  145 Ts Kc
+suckfish^ 803546930  4  1 Bc  kf    -     -         1248   30    0 
+suckfish^ 803546959  4  4 c   r     b     -         1218   50  110 
+suckfish^ 803546999  4  3 f   -     -     -         1278    0    0 
+suckfish^ 803547030  4  2 Bf  -     -     -         1278   10    0 
+suckfish^ 803547059  5  1 Bf  -     -     -         1268    5    0 
+suckfish^ 803547114  5  5 f   -     -     -         1263    0    0 
+suckfish^ 803547164  5  4 f   -     -     -         1263    0    0 
+suckfish^ 803547219  5  3 f   -     -     -         1263    0    0 
+suckfish^ 803547278  5  2 Bk  cc    c     c         1263   80    0 Ts Tc
+suckfish^ 803547338  5  1 Bc  kc    kc    kf        1183   50    0 
+suckfish^ 803547396  5  5 f   -     -     -         1133    0    0 
+suckfish^ 803547449  5  4 r   c     c     b         1133   70  220 Qd Qh
+suckfish^ 803547504  5  3 f   -     -     -         1283    0    0 
+suckfish^ 803547536  5  2 Br  b     -     -         1283   30   50 
+suckfish^ 803547555  5  1 Bc  kf    -     -         1303   20    0 
+suckfish^ 803547579  5  5 f   -     -     -         1283    0    0 
+suckfish^ 803547587  5  4 f   -     -     -         1283    0    0 
+suckfish^ 803547625  5  3 cc  cc    f     -         1283   40    0 
+suckfish^ 803547673  5  2 Br  b     brc   b         1243  140    0 Ac Th
+suckfish^ 803547721  5  1 Bf  -     -     -         1103    5    0 
+suckfish^ 803547765  5  5 f   -     -     -         1098    0    0 
+suckfish^ 803547810  5  4 c   c     f     -         1098   20    0 
+suckfish^ 803547847  5  3 f   -     -     -         1078    0    0 
+suckfish^ 803547879  5  2 Bk  kf    -     -         1078   10    0 
+suckfish^ 803547929  5  1 Bc  kc    kr    bc        1068  110    0 2c Qc
+suckfish^ 803548006  5  5 f   -     -     -          958    0    0 
+suckfish^ 803548056  5  4 r   rr    b     b          958  100  225 5c 5s
+suckfish^ 803548102  5  3 c   b     -     -         1083   20   35 
+suckfish^ 803548137  5  2 Bk  b     b     -         1098   40   80 
+suckfish^ 803548180  5  1 Bcf -     -     -         1138   10    0 
+suckfish^ 803548253  5  5 f   -     -     -         1128    0    0 
+suckfish^ 803548316  5  4 f   -     -     -         1128    0    0 
+suckfish^ 803548368  5  3 f   -     -     -         1128    0    0 
+suckfish^ 803548393  5  2 Bf  -     -     -         1128   10    0 
+suckfish^ 803548410  5  1 Bf  -     -     -         1118    5    0 
+suckfish^ 803548442  5  5 f   -     -     -         1113    0    0 
+suckfish^ 803548504  5  4 f   -     -     -         1113    0    0 
+suckfish^ 803548515  5  3 f   -     -     -         1113    0    0 
+suckfish^ 803548537  5  2 Bf  -     -     -         1113   10    0 
+suckfish^ 803548549  5  1 Bf  -     -     -         1103    5    0 
+suckfish^ 803548594  6  6 r   c     r     -         1098   80  155 
+suckfish^ 803548676  6  5 f   -     -     -         1173    0    0 
+suckfish^ 803548741  6  4 r   b     -     -         1173   40   85 
+suckfish^ 803548792  6  3 f   -     -     -         1218    0    0 
+suckfish^ 803548829  6  2 Bk  b     b     b         1218   60  120 
+suckfish^ 803548888  5  1 Bf  -     -     -         1278    5    0 
+suckfish^ 803548939  5  5 f   -     -     -         1273    0    0 
+suckfish^ 803548993  5  4 f   -     -     -         1273    0    0 
+suckfish^ 803549019  5  3 f   -     -     -         1273    0    0 
+suckfish^ 803549071  5  2 Bk  kf    -     -         1273   10    0 
+suckfish^ 803549106  5  1 Bc  kf    -     -         1263   20    0 
+suckfish^ 803549172  5  5 c   cc    f     -         1243   40    0 
+suckfish^ 803549228  6  5 f   -     -     -         1203    0    0 
+suckfish^ 803549328  6  4 c   f     -     -         1203   10    0 
+suckfish^ 803549424  5  2 Bk  kc    k     c         1193   40  110 Qs 5d
+suckfish^ 803549486  5  1 Bf  -     -     -         1263    5    0 
+suckfish^ 803549506  4  4 f   -     -     -         1258    0    0 
+suckfish^ 803549568  4  3 f   -     -     -         1258    0    0 
+suckfish^ 803549583  4  2 Bc  f     -     -         1258   20    0 
+suckfish^ 803549610  4  1 Bcc kf    -     -         1238   20    0 
+suckfish^ 803549650  4  4 c   c     bc    f         1218   70    0 
+suckfish^ 803549710  4  3 f   -     -     -         1148    0    0 
+suckfish^ 803549723  4  2 Bk  c     c     r         1148   80    0 5c Qd
+suckfish^ 803549753  4  1 Bf  -     -     -         1068    5    0 
+suckfish^ 803549788  4  4 f   -     -     -         1063    0    0 
+suckfish^ 803549804  4  3 rc  kf    -     -         1063   30    0 
+suckfish^ 803549826  4  2 Br  brc   kf    -         1033   60    0 
+suckfish^ 803549883  4  1 Bf  -     -     -          973    5    0 
+suckfish^ 803549914  4  4 r   k     b     -          968   40   80 
+suckfish^ 803549973  4  3 c   c     c     r         1008   80  170 6c 8c
+suckfish^ 803550042  5  2 Bc  f     -     -         1098   20    0 
+suckfish^ 803550070  5  1 Bf  -     -     -         1078    5    0 
+suckfish^ 803550106  5  5 c   br    -     -         1073   40   90 
+suckfish^ 803550150  5  4 c   k     c     f         1123   30    0 
+suckfish^ 803550187  5  3 f   -     -     -         1093    0    0 
+suckfish^ 803550226  5  2 B   -     -     -         1093   10   15 
+suckfish^ 803550237  5  1 Bf  -     -     -         1098    5    0 
+suckfish^ 803550265  5  5 Q   -     -     -         1093    0    0 
+suckfish^ 803550360  5  2 Bk  b     -     -         1093   20   40 
+suckfish^ 803550384  5  1 Bf  -     -     -         1113    5    0 
+suckfish^ 803550415  5  5 f   -     -     -         1108    0    0 
+suckfish^ 803550471  5  4 cc  kf    -     -         1108   20    0 
+suckfish^ 803550528  5  3 c   c     r     b         1088   80    0 Ad As
+suckfish^ 803550578  5  2 Bk  kf    -     -         1008   10    0 
+suckfish^ 803550611  5  1 Bf  -     -     -          998    5    0 
+suckfish^ 803550659  5  5 f   -     -     -          993    0    0 
+suckfish^ 803550707  5  4 cc  c     c     b          993   90  310 8c 3c
+suckfish^ 803550795  5  3 f   -     -     -         1213    0    0 
+suckfish^ 803550853  5  2 Bc  f     -     -         1213   20    0 
+suckfish^ 803550881  5  1 Bc  bc    bcc   kf        1193  130    0 
+suckfish^ 803550969  5  5 f   -     -     -         1063    0    0 
+suckfish^ 803551005  5  4 c   r     b     b         1063   80  185 Js Ah
+suckfish^ 803551044  5  3 cr  brc   c     k         1168   90  315 Qc Qs
+suckfish^ 803551134  5  2 Bk  f     -     -         1393   10    0 
+suckfish^ 803551182  5  1 Bc  b     b     bc        1383   80    0 Kh Jc
+suckfish^ 803551250  5  5 f   -     -     -         1303    0    0 
+suckfish^ 803551289  5  4 c   c     c     b         1303   70  175 Jc Kd
+suckfish^ 803551325  5  3 cc  k     kf    -         1408   20    0 
+suckfish^ 803551366  5  2 Bf  -     -     -         1388   10    0 
+suckfish^ 803551402  5  1 Bc  kc    kc    b         1378   70  160 Ad Qh
+suckfish^ 803551446  5  5 c   f     -     -         1468   20    0 
+suckfish^ 803551497  5  4 f   -     -     -         1448    0    0 
+suckfish^ 803551539  5  3 f   -     -     -         1448    0    0 
+suckfish^ 803551577  4  2 Br  b     -     -         1448   40   70 
+suckfish^ 803551599  4  1 Bcc kc    brr   b         1478  150  300 Qd 7h
+suckfish^ 803551657  4  4 f   -     -     -         1628    0    0 
+suckfish^ 803551678  4  3 c   f     -     -         1628   10    0 
+suckfish^ 803551700  5  2 Bk  f     -     -         1618   10    0 
+suckfish^ 803551744  5  1 BQ  -     -     -         1608    5    0 
+suckfish^ 803773181  3  3 cc  c     f     -         1603   30    0 
+suckfish^ 803773225  3  2 B   -     -     -         1573   10   15 
+suckfish^ 803773239  3  1 Bc  kf    -     -         1578   10    0 
+suckfish^ 803773276  3  3 cc  f     -     -         1568   20    0 
+suckfish^ 803773298  3  2 Bk  kf    -     -         1548   10    0 
+suckfish^ 803773345  3  1 Bf  -     -     -         1538    5    0 
+suckfish^ 803773368  3  3 cc  k     f     -         1533   20    0 
+suckfish^ 803773431  3  2 Bf  -     -     -         1513   10    0 
+suckfish^ 803773445  3  1 Bc  k     kf    -         1503   10    0 
+suckfish^ 803773510  3  3 f   -     -     -         1493    0    0 
+suckfish^ 803773598  3  2 Bf  -     -     -         1493   10    0 
+suckfish^ 803773607  3  1 Bf  -     -     -         1483    5    0 
+suckfish^ 803773620  4  3 r   c     f     -         1478   30    0 
+suckfish^ 803773727  6  2 Bf  -     -     -         1448   10    0 
+suckfish^ 803773796  6  1 Bf  -     -     -         1438    5    0 
+suckfish^ 803773853  5  5 f   -     -     -         1433    0    0 
+suckfish^ 803773863  5  4 f   -     -     -         1433    0    0 
+suckfish^ 803773895  5  3 c   cf    -     -         1433   20    0 
+suckfish^ 803773963  5  2 Bc  f     -     -         1413   20    0 
+suckfish^ 803773998  5  1 Bc  k     b     -         1393   30   50 
+suckfish^ 803774028  5  5 f   -     -     -         1413    0    0 
+suckfish^ 803774056  5  4 f   -     -     -         1413    0    0 
+suckfish^ 803774082  5  3 c   f     -     -         1413   10    0 
+suckfish^ 803774113  5  2 B   -     -     -         1403   10   15 
+suckfish^ 803774114  5  1 Bf  -     -     -         1408    5    0 
+suckfish^ 803774157  5  4 Q   -     -     -         1403    0    0 
+suckfish^ 803956360  5  5 f   -     -     -         1403    0    0 
+suckfish^ 803956391  5  4 f   -     -     -         1403    0    0 
+suckfish^ 803956411  5  3 KQ  -     -     -         1403    0    0 
+suckfish^ 803956814  7  3 c   kf    -     -         1403   10    0 
+suckfish^ 803956874  7  2 Bk  KQ    -     -         1393   10    0 
+suckfish^ 804018303  2  1 Bc  bc    b     b         1383   70  140 5d Td
+suckfish^ 804018347  2  2 B   -     -     -         1453   10   15 
+suckfish^ 804018360  2  1 Bcc kf    -     -         1458   20    0 
+suckfish^ 804018379  2  2 Bk  f     -     -         1438   10    0 
+suckfish^ 804018393  2  1 Br  b     b     bc        1428   90   90 2d 4d
+suckfish^ 804018428  2  2 Bk  f     -     -         1428   10    0 
+suckfish^ 804018456  2  1 Brc b     -     -         1418   40   70 
+suckfish^ 804018474  2  2 B   -     -     -         1448   10   15 
+suckfish^ 804018480  2  1 Br  -     -     -         1453   20   30 
+suckfish^ 804018486  2  2 Bk  k     k     c         1463   30    0 2h Th
+suckfish^ 804018538  2  1 Bc  k     b     -         1433   30   40 
+suckfish^ 804018568  2  2 B   -     -     -         1443   10   15 
+suckfish^ 804018573  2  1 Bc  k     k     k         1448   10   10 9d 4d
+suckfish^ 804018597  2  2 Bc  f     -     -         1448   20    0 
+suckfish^ 804018618  2  1 Br  kc    k     kr        1428   70  120 
+suckfish^ 804018655  2  2 B   -     -     -         1478   10   15 
+suckfish^ 804018660  2  1 Bf  -     -     -         1483    5    0 
+suckfish^ 804018666  2  2 B   -     -     -         1478   10   15 
+suckfish^ 804018671  2  1 Br  k     k     kf        1483   20    0 
+suckfish^ 804018699  2  2 Br  -     -     -         1463   20   30 
+suckfish^ 804018709  2  1 Bf  -     -     -         1473    5    0 
+suckfish^ 804018712  2  2 B   -     -     -         1468   10   15 
+suckfish^ 804018717  2  1 Bc  k     bf    -         1473   30    0 
+suckfish^ 804018738  2  2 B   -     -     -         1443   10   15 
+suckfish^ 804018743  2  1 Bc  b     k     k         1448   20   40 6s Qd
+suckfish^ 804018778  2  2 Br  -     -     -         1468   20   30 
+suckfish^ 804018788  2  1 Bcc krc   b     b         1478   90  180 7c Qh
+suckfish^ 804018821  3  3 cc  c     c     f         1568   60    0 
+suckfish^ 804018895  3  2 BKQ -     -     -         1508   10    0 
+suckfish^ 804039563  2  2 B   -     -     -         1498   10   15 
+suckfish^ 804041068  2  2 Bc  f     -     -         1503   20    0 
+suckfish^ 804041107  2  1 Bcc kc    kc    kc        1483   70  140 7d Kc
+suckfish^ 804041136  2  2 Br  -     -     -         1553   20   30 
+suckfish^ 804041150  2  1 Bcc k     k     b         1563   40   80 8c Qd
+suckfish^ 804041179  2  2 B   -     -     -         1603   10   15 
+suckfish^ 804041191  2  1 Bcc b     -     -         1608   30   50 
+suckfish^ 804041214  2  2 B   -     -     -         1628   10   15 
+suckfish^ 804041217  2  1 Bf  -     -     -         1633    5    0 
+suckfish^ 804041221  2  2 Bc  c     r     b         1628   90    0 Ks 2c
+suckfish^ 804041245  2  1 Br  k     b     -         1538   40   60 
+suckfish^ 804041271  2  2 Br  r     b     k         1558   60    0 Kc 7c
+suckfish^ 804041294  2  1 Bf  -     -     -         1498    5    0 
+suckfish^ 804041302  2  2 Bc  f     -     -         1493   20    0 
+suckfish^ 804041315  2  1 Brc kf    -     -         1473   30    0 
+suckfish^ 804041329  2  2 B   -     -     -         1443   10   15 
+suckfish^ 804041333  2  1 Bcc kf    -     -         1448   20    0 
+suckfish^ 804041349  2  2 Bc  r     -     -         1428   40   70 
+suckfish^ 804041368  2  1 Bc  b     -     -         1458   20   30 
+suckfish^ 804041385  2  2 Br  b     -     -         1468   30   50 
+suckfish^ 804041401  2  1 Bcc kf    -     -         1488   20    0 
+suckfish^ 804041414  2  2 Bc  r     k     f         1468   40    0 
+suckfish^ 804041438  2  1 Br  b     b     b         1428   70   70 Qh 3h
+suckfish^ 804041470  2  2 Bk  b     -     -         1428   20   30 
+suckfish^ 804041492  2  1 Bcc kf    -     -         1438   20    0 
+suckfish^ 804041508  2  2 Br  c     f     -         1418   30    0 
+suckfish^ 804041533  2  1 Bcc k     kc    kc        1388   60    0 Ac 4d
+suckfish^ 804041555  2  2 Bk  b     -     -         1328   20   30 
+suckfish^ 804041577  2  1 Bcc kc    kc    kc        1338   70  140 Ah Js
+suckfish^ 804041599  2  2 Bc  c     c     c         1408   70    0 Jc 9c
+suckfish^ 804041624  2  1 Bf  -     -     -         1338    5    0 
+suckfish^ 804041632  2  2 Bc  f     -     -         1333   20    0 
+suckfish^ 804041647  2  1 Bcc kc    k     b         1313   50   80 
+suckfish^ 804041671  2  2 Br  b     -     -         1343   40   70 
+suckfish^ 804041687  2  1 Bc  b     -     -         1373   20   30 
+suckfish^ 804041707  2  2 B   -     -     -         1383   10   15 
+suckfish^ 804041711  2  1 Brrr br    -     -         1388   90  170 
+suckfish^ 804041742  2  2 Bk  f     -     -         1468   10    0 
+suckfish^ 804041757  2  1 Brc k     bc    bc        1458  110    0 Ah 3c
+suckfish^ 804041785  3  2 Bc  f     -     -         1348   30    0 
+suckfish^ 804041831  3  1 Bc  kc    kf    -         1318   30    0 
+suckfish^ 804041871  3  3 f   -     -     -         1288    0    0 
+suckfish^ 804041906  3  2 Bc  kc    k     b         1288   50   85 
+suckfish^ 804041939  3  1 Bf  -     -     -         1323    5    0 
+suckfish^ 804041982  3  3 c   b     b     b         1318   60  110 
+suckfish^ 804042031  3  2 Bc  kf    -     -         1368   20    0 
+suckfish^ 804042057  3  1 Bc  kc    kf    -         1348   30    0 
+suckfish^ 804042091  3  3 r   b     b     b         1318   70  130 
+suckfish^ 804042128  3  2 Bk  k     b     -         1378   30   40 
+suckfish^ 804042158  3  1 Bf  -     -     -         1388    5    0 
+suckfish^ 804042166  3  3 f   -     -     -         1383    0    0 
+suckfish^ 804042212  3  2 Bk  k     k     f         1383   10    0 
+suckfish^ 804042258  3  1 Bc  b     b     -         1373   50  100 
+suckfish^ 804042296  3  3 c   f     -     -         1423   10    0 
+suckfish^ 804042333  3  2 Bf  -     -     -         1413   10    0 
+suckfish^ 804042346  3  1 Bf  -     -     -         1403    5    0 
+suckfish^ 804042361  3  3 c   r     b     -         1398   50   85 
+suckfish^ 804042390  3  2 Bk  k     k     f         1433   10    0 
+suckfish^ 804042412  3  1 Bc  kf    -     -         1423   10    0 
+suckfish^ 804042436  3  3 c   c     c     b         1413   60    0 Ah Td
+suckfish^ 804042467  3  2 Bk  k     k     k         1353   10    0 2c 4h
+suckfish^ 804042503  3  1 Bf  -     -     -         1343    5    0 
+suckfish^ 804042517  3  3 f   -     -     -         1338    0    0 
+suckfish^ 804042533  3  2 Bk  r     -     -         1338   30   50 
+suckfish^ 804042558  3  1 Bf  -     -     -         1358    5    0 
+suckfish^ 804042588  3  3 r   b     brc   c         1353  130  265 Jc Qh
+suckfish^ 804042626  3  2 Bc  f     -     -         1488   20    0 
+suckfish^ 804042689  3  1 Bc  kc    kc    b         1468   60  110 
+suckfish^ 804042770  3  3 c   f     -     -         1518   10    0 
+suckfish^ 804042798  3  2 Bk  b     -     -         1508   20   30 
+suckfish^ 804042812  3  1 Bf  -     -     -         1518    5    0 
+suckfish^ 804042839  3  3 c   r     b     -         1513   50   85 
+suckfish^ 804042871  3  2 Bf  -     -     -         1548   10    0 
+suckfish^ 804042882  3  1 Bc  kf    -     -         1538   20    0 
+suckfish^ 804042899  3  3 c   c     r     -         1518   60  105 
+suckfish^ 804042927  3  2 Bf  -     -     -         1563   10    0 
+suckfish^ 804042936  3  1 Bc  k     b     -         1553   40   70 
+suckfish^ 804042957  3  3 cc  c     c     c         1583   70  145 As Th
+suckfish^ 804042982  3  2 Bf  -     -     -         1658   10    0 
+suckfish^ 804043004  3  1 Bc  b     -     -         1648   20   30 
+suckfish^ 804043027  3  3 f   -     -     -         1658    0    0 
+suckfish^ 804043034  3  2 Bc  kc    k     k         1658   30    0 4d Ah
+suckfish^ 804043058  3  1 Bc  kc    kc    kc        1628   70    0 Td Qd
+suckfish^ 804043104  3  3 f   -     -     -         1558    0    0 
+suckfish^ 804043121  3  2 Bf  -     -     -         1558   10    0 
+suckfish^ 804043134  3  1 Bc  kcrc  kc    kf        1548   80    0 
+suckfish^ 804043188  3  3 f   -     -     -         1468    0    0 
+suckfish^ 804043200  3  2 Br  b     b     brrc      1468  180    0 Kd Td
+suckfish^ 804043231  3  1 Bc  k     kf    -         1288   10    0 
+suckfish^ 804043279  3  3 f   -     -     -         1278    0    0 
+suckfish^ 804043282  3  2 Br  b     k     b         1278   50    0 Ah 4h
+suckfish^ 804043312  3  1 Bc  b     -     -         1228   20   40 
+suckfish^ 804043329  3  3 f   -     -     -         1248    0    0 
+suckfish^ 804043345  3  2 Bf  -     -     -         1248   10    0 
+suckfish^ 804043375  3  1 Bf  -     -     -         1238    5    0 
+suckfish^ 804043392  3  3 c   r     b     k         1233   50  105 3d Ac
+suckfish^ 804043419  3  2 Bf  -     -     -         1288   10    0 
+suckfish^ 804043432  3  1 Bf  -     -     -         1278    5    0 
+suckfish^ 804043442  3  3 f   Q     -     -         1273    0    0 
+suckfish^ 804043798  4  4 f   -     -     -         1273    0    0 
+suckfish^ 804043830  4  3 f   -     -     -         1273    0    0 
+suckfish^ 804043853  4  2 Bf  -     -     -         1273   10    0 
+suckfish^ 804043872  4  1 Bf  -     -     -         1263    5    0 
+suckfish^ 804043914  5  5 f   -     -     -         1258    0    0 
+suckfish^ 804043944  5  4 c   c     c     c         1258   60    0 Ac 9c
+suckfish^ 804043993  5  3 c   r     b     -         1198   50   90 
+suckfish^ 804044025  5  2 Bf  -     -     -         1238   10    0 
+suckfish^ 804044069  5  1 Bc  kf    -     -         1228   20    0 
+suckfish^ 804044096  6  6 f   -     -     -         1208    0    0 
+suckfish^ 804044120  6  5 c   f     -     -         1208   20    0 
+suckfish^ 804044155  6  4 f   -     -     -         1188    0    0 
+suckfish^ 804044185  6  3 cc  b     b     -         1188   50  100 
+suckfish^ 804044228  7  2 Bf  -     -     -         1238   10    0 
+suckfish^ 804044301  7  1 Br  bc    kc    kc        1228   90    0 As Ad
+suckfish^ 804044375  7  7 c   c     f     -         1138   20    0 
+suckfish^ 804044444  6  5 c   c     b     k         1118   50  135 Qs Th
+suckfish^ 804044499  6  4 f   -     -     -         1203    0    0 
+suckfish^ 804044519  6  3 cc  r     c     c         1203   80    0 Tc 9s
+suckfish^ 804044575  6  2 Bc  f     -     -         1123   20    0 
+suckfish^ 804044634  7  1 Bcc kf    -     -         1103   30    0 
+suckfish^ 804044674  7  7 c   c     c     f         1073   40    0 
+suckfish^ 804044732  7  7 f   -     -     -         1033    0    0 
+suckfish^ 804044785  7  6 cc  c     c     k         1033   50    0 6c 7c
+suckfish^ 804044846  7  5 f   -     -     -          983    0    0 
+suckfish^ 804044955  8  4 c   c     r     b          983   80  220 
+suckfish^ 804045028  8  3 cc  kf    -     -         1123   20    0 
+suckfish^ 804045089  8  2 Bc  b     b     b         1103   70  155 
+suckfish^ 804045149  8  1 Bf  -     -     -         1188    5    0 
+suckfish^ 804045233  8  8 r   r     b     k         1183   60  210 Qs As
+suckfish^ 804045308  8  7 r   bc    c     c         1333   80  280 Kh Kd
+suckfish^ 804045416  8  6 c   -     -     -         1533   10   25 
+suckfish^ 804045520  7  5 f   -     -     -         1548    0    0 
+suckfish^ 804045547  6  3 cc  f     Q     -         1548   20    0 
+suckfish^ 804064751  3  3 c   k     b     k         1528   30    0 Ks 3c
+suckfish^ 804064791  3  2 Bk  b     -     -         1498   20   35 
+suckfish^ 804064817  3  1 Bf  -     -     -         1513    5    0 
+suckfish^ 804064831  3  3 r   c     c     c         1508   70    0 3s As
+suckfish^ 804064876  3  2 Bf  -     -     -         1438   10    0 
+suckfish^ 804064917  3  1 Bf  -     -     -         1428    5    0 
+suckfish^ 804064974  3  3 c   b     -     -         1423   20   40 
+suckfish^ 804065002  3  2 Br  b     -     -         1443   30   50 
+suckfish^ 804065025  3  1 Bf  -     -     -         1463    5    0 
+suckfish^ 804065035  3  3 f   -     -     -         1458    0    0 
+suckfish^ 804065061  4  2 Bf  -     -     -         1458   10    0 
+suckfish^ 804065087  3  1 Bf  -     -     -         1448    5    0 
+suckfish^ 804065135  3  3 c   b     -     -         1443   20   35 
+suckfish^ 804065152  3  2 Bk  k     k     k         1458   10   25 5c 8d
+suckfish^ 804065179  3  1 Bf  -     -     -         1473    5    0 
+suckfish^ 804065191  3  3 rrc k     k     r         1468   90  185 Kd Jd
+suckfish^ 804065237  3  2 Bcc kf    -     -         1563   40    0 
+suckfish^ 804065303  3  1 Bc  kf    -     -         1523   20    0 
+suckfish^ 804065328  3  3 r   b     b     -         1503   50   85 
+suckfish^ 804065378  3  2 Bk  f     -     -         1538   10    0 
+suckfish^ 804065392  3  1 Bc  kc    kr    b         1528   90  230 
+suckfish^ 804065427  3  3 f   -     -     -         1668    0    0 
+suckfish^ 804065458  3  2 Bf  -     -     -         1668   10    0 
+suckfish^ 804065470  3  1 Brc br    b     b         1658  110  230 Ks Qh
+suckfish^ 804065528  3  3 r   c     f     -         1778   30    0 
+suckfish^ 804065580  3  2 Bc  bc    kr    k         1748   80   90 Ac 6d
+suckfish^ 804065662  4  1 Bc  br    b     b         1758   80  160 9d Td
+suckfish^ 804065713  4  4 f   -     -     -         1838    0    0 
+suckfish^ 804065726  4  3 f   -     -     -         1838    0    0 
+suckfish^ 804065956  4  2 Bf  -     -     -         1838   10    0 
+suckfish^ 804066020  3  1 Br  -     -     -         1828   20   30 
+suckfish^ 804066032  3  3 f   -     -     -         1838    0    0 
+suckfish^ 804066059  3  2 Bc  b     -     -         1838   30   55 
+suckfish^ 804066083  3  1 Brc kc    kc    bf        1863   90    0 
+suckfish^ 804066141  3  3 f   -     -     -         1773    0    0 
+suckfish^ 804066187  3  2 Bf  -     -     -         1773   10    0 
+suckfish^ 804066197  3  1 Bf  -     -     -         1763    5    0 
+suckfish^ 804066217  3  3 f   -     -     -         1758    0    0 
+suckfish^ 804066228  3  2 Bf  -     -     -         1758   10    0 
+suckfish^ 804066233  3  1 Bf  -     -     -         1748    5    0 
+suckfish^ 804066239  3  3 c   k     rr    b         1743  110  230 9h 7h
+suckfish^ 804066285  3  2 Bf  -     -     -         1863   10    0 
+suckfish^ 804066298  3  1 Bf  -     -     -         1853    5    0 
+suckfish^ 804066306  3  3 f   -     -     -         1848    0    0 
+suckfish^ 804066334  3  2 Br  b     -     -         1848   40   75 
+suckfish^ 804066356  3  1 Bf  -     -     -         1883    5    0 
+suckfish^ 804066365  3  3 f   -     -     -         1878    0    0 
+suckfish^ 804066409  3  2 Br  b     -     -         1878   40   75 
+suckfish^ 804066431  3  1 Br  b     b     b         1913   70    0 8s 8h
+suckfish^ 804066466  3  3 f   -     -     -         1843    0    0 
+suckfish^ 804066504  3  2 Bc  rc    k     brc       1843  130  310 Ad 7c
+suckfish^ 804066568  3  1 Brc kc    kc    krc       2023  120    0 7s 7d
+suckfish^ 804066641  3  3 r   -     -     -         1903   20   35 
+suckfish^ 804066656  3  2 Brc bc    kc    kc        1918  100  120 Ad 7c
+suckfish^ 804066701  3  1 Br  brc   kf    -         1938   60    0 
+suckfish^ 804066740  3  3 f   -     -     -         1878    0    0 
+suckfish^ 804066764  3  2 Bc  k     k     f         1878   20    0 
+suckfish^ 804066801  3  1 Br  bc    brc   bf        1858  140    0 
+suckfish^ 804066845  3  3 f   -     -     -         1718    0    0 
+suckfish^ 804066873  3  2 Br  -     -     -         1718   20   30 
+suckfish^ 804066884  3  1 Bcc kf    -     -         1728   30    0 
+suckfish^ 804066943  3  3 c   b     -     -         1698   20   40 
+suckfish^ 804066982  3  2 Bf  -     -     -         1718   10    0 
+suckfish^ 804066992  3  1 Br  brrc  brc   b         1708  180  370 5d Ad
+suckfish^ 804067041  3  3 r   -     -     -         1898   20   35 
+suckfish^ 804067054  3  2 Bf  -     -     -         1913   10    0 
+suckfish^ 804067075  3  1 Br  kf    -     -         1903   20    0 
+suckfish^ 804067102  3  3 f   -     -     -         1883    0    0 
+suckfish^ 804067125  3  2 Bc  k     k     b         1883   40   65 
+suckfish^ 804067162  3  1 Bf  -     -     -         1908    5    0 
+suckfish^ 804067191  3  3 r   -     -     -         1903   20   50 
+suckfish^ 804067420  3  3 KQ  -     -     -         1933    0    0 
+suckfish^ 804137361  4  3 f   -     -     -         1933    0    0 
+suckfish^ 804137430  5  2 Bk  KQ    -     -         1933   10    0 
+suckfish^ 804137855  6  5 f   -     -     -         1923    0    0 
+suckfish^ 804137939  6  4 f   -     -     -         1923    0    0 
+suckfish^ 804138013  6  3 KQ  -     -     -         1923    0    0 
+suckfish^ 804139176  3  2 Bf  -     -     -         1923   10    0 
+suckfish^ 804139195  3  1 Bc  k     kf    -         1913   10    0 
+suckfish^ 804139269  3  3 c   f     -     -         1903   10    0 
+suckfish^ 804139340  2  2 Bk  k     Q     -         1893   10    0 
+suckfish^ 804203083  6  2 Bk  kf    -     -         1883   10    0 
+suckfish^ 804203127  6  1 BQ  -     -     -         1873    5    0 

@@ -1,0 +1,440 @@
+cantraise 939540300 14 14 f   -     -     -        10000    0    0 
+cantraise 939540460 13 12 f   -     -     -        10000    0    0 
+cantraise 939540544 12 11 r   rA    -     -        10000 10000 31625 Ac As
+cantraise 939540680 11  9 f   -     -     -        31625    0    0 
+cantraise 939540845 11  8 cc  b     k     b        31625 4125 4500 Qs Th
+cantraise 939541019 11  7 f   -     -     -        32000    0    0 
+cantraise 939541112 11  6 rc  k     kf    -        32000 2150    0 
+cantraise 939541186 10  5 f   -     -     -        29850    0    0 
+cantraise 939541286  9  3 f   -     -     -        29850    0    0 
+cantraise 939541343  9  2 Bf  -     -     -        29850  400    0 
+cantraise 939541367  9  1 Bcf -     -     -        29450  400    0 
+cantraise 939541439  8  8 f   -     -     -        29050    0    0 
+cantraise 939541516  8  7 r   k     bc    -        29050 3300    0 Ac 9d
+cantraise 939541581  8  6 c   k     k     c        25750 1000    0 8d Qd
+cantraise 939541650  8  5 f   -     -     -        24750    0    0 
+cantraise 939541708  8  4 f   -     -     -        24750    0    0 
+cantraise 939541722  8  3 f   -     -     -        24750    0    0 
+cantraise 939541768  8  2 Bk  kf    -     -        24750  800    0 
+cantraise 939541833  8  1 Bf  -     -     -        23950  400    0 
+cantraise 939541875  8  8 r   k     k     f        23550 3600    0 
+cantraise 939541972  8  7 r   b     -     -        19950 9850 15050 
+cantraise 939542025  8  6 c   k     k     f        25150 1600    0 
+cantraise 939542112  8  5 r   -     -     -        23550 5325 7725 
+cantraise 939542164  8  4 f   -     -     -        25950    0    0 
+cantraise 939542228  8  3 f   -     -     -        25950    0    0 
+cantraise 939542320  8  2 B   -     -     -        25950 3200 2650 Js Td
+cantraise 939542353  8  1 Bc  k     bA    -        25400 25400 31800 
+cantraise 939542424  8  8 f   -     -     -        31800    0    0 
+cantraise 939542489  8  7 f   -     -     -        31800    0    0 
+cantraise 939542530  8  6 r   c     -     -        31800 28125 61608 Ah Ad
+cantraise 939542588  6  3 f   -     -     -        65283    0    0 
+cantraise 939542621  6  3 r   -     -     -        65283 15400 21284 Ac 9c
+cantraise 939542657  6  2 B   -     -     -        71167 6400 12384 Ah Ks
+cantraise 939542673  5  1 Bf  -     -     -        77151 3200    0 
+cantraise 939542739  2  2 f   -     -     -        73951    0    0 
+cantraise 939542747  2  2 B   -     -     -        73951 6400 9600 
+cantraise 939542751  2  1 Bf  -     -     -        77151 3200    0 
+cantraise 939542755  2  2 Br  k     bA    -        73951 73951 99351 
+cantraise 939542815  2  1 Bc  kf    -     -        99351 6400    0 
+cantraise 939542834  2  2 B   -     -     -        92951 6400 9600 
+cantraise 939542838  2  1 Bf  -     -     -        96151 3200    0 
+cantraise 939542839  2  2 Bk  k     k     b        92951 47049 94098 3d 6s
+cantraise 939543129 13  5 f   -     -     -          150    0    0 
+cantraise 939543244 12 12 f   -     -     -          150    0    0 
+cantraise 939543489 13  2 Bf  -     -     -          160    2    0 
+cantraise 939543523 13  1 Bcf -     -     -          158    2    0 
+cantraise 939543612 12 12 c   bf    -     -          156    7    0 
+cantraise 939543727 12 11 f   -     -     -          149    0    0 
+cantraise 939543762 10  8 c   c     f     -          149   10    0 
+cantraise 939543809 10  8 f   -     -     -          139    0    0 
+cantraise 939543900 10  7 c   f     -     -          139    2    0 
+cantraise 939543942 10  6 r   bf    -     -          137   26    0 
+cantraise 939543991  9  5 f   -     -     -          111    0    0 
+cantraise 939544044  9  4 c   k     k     f          111    4    0 
+cantraise 939544151  9  3 f   -     -     -          107    0    0 
+cantraise 939544211  9  2 Bk  kf    -     -          107    4    0 
+cantraise 939544254  9  1 Bc  krA   -     -          103  103  248 Qc Ac
+cantraise 939544318  9  9 f   -     -     -          248    0    0 
+cantraise 939544385  9  8 cc  f     -     -          248   20    0 
+cantraise 939544526  8  7 c   k     f     -          228    4    0 
+cantraise 939544624  8  6 r   bf    -     -          224   68    0 
+cantraise 939544671  8  5 f   -     -     -          156    0    0 
+cantraise 939544700  7  3 f   -     -     -          156    0    0 
+cantraise 939544729  7  3 r   bA    -     -          156  156  214 
+cantraise 939544767  7  2 Bk  b     f     -          214   24    0 
+cantraise 939544819  7  1 Bc  kf    -     -          190    8    0 
+cantraise 939544873  7  7 f   -     -     -          182    0    0 
+cantraise 939544929  6  5 f   -     -     -          182    0    0 
+cantraise 939544955  6  4 c   bf    -     -          182   27    0 
+cantraise 939544989  6  3 c   rA    -     -          155  155  187 
+cantraise 939545039  6  2 Bf  -     -     -          187    8    0 
+cantraise 939545096  5  1 Bf  -     -     -          179    8    0 
+cantraise 939545124  5  5 f   -     -     -          171    0    0 
+cantraise 939545151  5  4 f   -     -     -          171    0    0 
+cantraise 939545175  5  3 rcA -     -     -          171  171    0 Jh Jc
+cantraise 940658413 19 15 f   -     -     -         5000    0    0 
+cantraise 940658518 19 14 c   f     -     -         5000   50    0 
+cantraise 940658632 18 13 f   -     -     -         4950    0    0 
+cantraise 940658711 17 11 f   -     -     -         4950    0    0 
+cantraise 940658850 17 10 c   c     cA    -         4950 4950    0 Ad Td
+cantraise 940661688 16 10 r   b     -     -        10000 9995 13245 
+cantraise 940661761 16  9 f   -     -     -        13250    0    0 
+cantraise 940661868 16  8 cf  -     -     -        13250   50    0 
+cantraise 940661945 15  6 cf  -     -     -        13200   50    0 
+cantraise 940662078 15  5 r   bf    -     -        13150 2900    0 
+cantraise 940662174 15  4 cc  kf    -     -        10250  450    0 
+cantraise 940662256 14  3 cc  bA    -     -         9800 9800    0 Ah Th
+cantraise 940734113 23 16 f   -     -     -         5000    0    0 
+cantraise 940734218 23 15 f   -     -     -         5000    0    0 
+cantraise 940734367 23 14 f   -     -     -         5000    0    0 
+cantraise 940734506 20 10 f   -     -     -         5000    0    0 
+cantraise 940734617 20  9 f   -     -     -         5000    0    0 
+cantraise 940734747 20  8 cf  -     -     -         5000  100    0 
+cantraise 940734887 18  6 f   -     -     -         4900    0    0 
+cantraise 940734983 18  5 f   -     -     -         4900    0    0 
+cantraise 940735130 18  4 f   -     -     -         4900    0    0 
+cantraise 940735201 16  1 Bk  kc    kc    k         4900 1700 6000 3h Qh
+cantraise 940735341 16  1 Bf  -     -     -         9200  100    0 
+cantraise 940735399 16 16 c   k     f     -         9100  200    0 
+cantraise 940735488 16 15 f   -     -     -         8900    0    0 
+cantraise 940735558 16 14 f   -     -     -         8900    0    0 
+cantraise 940735597 15 12 f   -     -     -         8900    0    0 
+cantraise 940735662 14 10 f   -     -     -         8900    0    0 
+cantraise 940735711 13  8 f   -     -     -         8900    0    0 
+cantraise 940735749 12  7 f   -     -     -         8900    0    0 
+cantraise 940735835 12  6 f   -     -     -         8900    0    0 
+cantraise 940735934 11  5 f   -     -     -         8900    0    0 
+cantraise 940736013 11  4 r   bA    -     -         8900 8900    0 Jd Td
+cantraise 940740434 16 14 f   -     -     -         5000    0    0 
+cantraise 940740522 16 13 f   -     -     -         5000    0    0 
+cantraise 940740662 16 12 f   -     -     -         5000    0    0 
+cantraise 940740787 16 11 f   -     -     -         5000    0    0 
+cantraise 940740871 15 10 f   -     -     -         5000    0    0 
+cantraise 940740952 15  9 f   -     -     -         5000    0    0 
+cantraise 940741024 14  8 c   b     brA   -         5000 5000 9670 5s 5d
+cantraise 940741138 13  7 f   -     -     -         9670    0    0 
+cantraise 940741243 13  6 f   -     -     -         9670    0    0 
+cantraise 940741304 12  4 f   -     -     -         9670    0    0 
+cantraise 940741399 11  2 f   -     -     -         9670    0    0 
+cantraise 940741457 11  2 Bk  k     k     k         9670   80  320 9c 3c
+cantraise 940741554 11  1 Bc  k     kf    -         9910   80    0 
+cantraise 940741634 11 11 f   -     -     -         9830    0    0 
+cantraise 940741664 11 10 f   -     -     -         9830    0    0 
+cantraise 940741696 11  9 c   r     -     -         9830 4960 11520 8d 9d
+cantraise 940741761 10  7 f   -     -     -        16390    0    0 
+cantraise 940741819  9  6 c   rc    -     -        16390 5080 14460 Td Jd
+cantraise 940741902  7  3 f   -     -     -        25770    0    0 
+cantraise 940741939  7  3 f   -     -     -        25770    0    0 
+cantraise 940742004  7  2 Bf  -     -     -        25770  320    0 
+cantraise 940742032  7  1 Bf  -     -     -        25450  160    0 
+cantraise 940742062  7  7 f   -     -     -        25290    0    0 
+cantraise 940742088  7  6 r   b     -     -        25290 2820 4620 
+cantraise 940742119  7  5 f   -     -     -        27090    0    0 
+cantraise 940742171  7  4 f   -     -     -        27090    0    0 
+cantraise 940742188  7  3 f   -     -     -        27090    0    0 
+cantraise 940742246  7  2 Bc  kf    -     -        27090 1440    0 
+cantraise 940742293  7  1 Bc  kf    -     -        25650  320    0 
+cantraise 940742323  7  7 r   b     -     -        25330 4220 5760 
+cantraise 940742356  7  6 f   -     -     -        26870    0    0 
+cantraise 940742374  7  5 f   -     -     -        26870    0    0 
+cantraise 940742436  7  4 cf  -     -     -        26870  640    0 
+cantraise 940742457  7  3 f   -     -     -        26230    0    0 
+cantraise 940777612 14  9 f   -     -     -        10000    0    0 
+cantraise 940777728 14  8 f   -     -     -        10000    0    0 
+cantraise 940777767 14  7 f   -     -     -        10000    0    0 
+cantraise 940777784 14  6 f   -     -     -        10000    0    0 
+cantraise 940777825 14  5 f   -     -     -        10000    0    0 
+cantraise 940777869 14  4 f   -     -     -        10000    0    0 
+cantraise 940777888 14  3 f   -     -     -        10000    0    0 
+cantraise 940777955 14  2 Bf  -     -     -        10000  100    0 
+cantraise 940778028 14  1 Bf  -     -     -         9900  100    0 
+cantraise 940778112 13 13 f   -     -     -         9800    0    0 
+cantraise 940778202 13 12 f   -     -     -         9800    0    0 
+cantraise 940778229 12 10 f   -     -     -         9800    0    0 
+cantraise 940778293 12  9 f   -     -     -         9800    0    0 
+cantraise 940778372 12  8 f   -     -     -         9800    0    0 
+cantraise 940778436 12  7 f   -     -     -         9800    0    0 
+cantraise 940778458 12  6 f   -     -     -         9800    0    0 
+cantraise 940778511 12  5 f   -     -     -         9800    0    0 
+cantraise 940778544 12  4 f   -     -     -         9800    0    0 
+cantraise 940778576 12  3 f   -     -     -         9800    0    0 
+cantraise 940778587 12  2 Bf  -     -     -         9800  400    0 
+cantraise 940778597 12  1 Bf  -     -     -         9400  200    0 
+cantraise 940778616 12 12 f   -     -     -         9200    0    0 
+cantraise 940778647 12 11 f   -     -     -         9200    0    0 
+cantraise 940778661 12 10 f   -     -     -         9200    0    0 
+cantraise 940778685 12  9 f   -     -     -         9200    0    0 
+cantraise 940778704 12  8 f   -     -     -         9200    0    0 
+cantraise 940778745 12  7 f   -     -     -         9200    0    0 
+cantraise 940778773 12  6 f   -     -     -         9200    0    0 
+cantraise 940778805 12  5 f   -     -     -         9200    0    0 
+cantraise 940778819 12  4 f   -     -     -         9200    0    0 
+cantraise 940778832 12  3 f   -     -     -         9200    0    0 
+cantraise 940778851 10  2 Bk  kf    -     -         9200  800    0 
+cantraise 940778878 10  1 Bf  -     -     -         8400  400    0 
+cantraise 940778889 10 10 f   -     -     -         8000    0    0 
+cantraise 940778902 10  9 f   -     -     -         8000    0    0 
+cantraise 940778923  9  7 f   -     -     -         8000    0    0 
+cantraise 940778961  9  6 f   -     -     -         8000    0    0 
+cantraise 940778995  9  5 f   -     -     -         8000    0    0 
+cantraise 940779037  9  4 f   -     -     -         8000    0    0 
+cantraise 940779048  9  3 f   -     -     -         8000    0    0 
+cantraise 940779073  9  2 Bf  -     -     -         8000  800    0 
+cantraise 940779087  9  1 Bf  -     -     -         7200  400    0 
+cantraise 940779126  9  9 f   -     -     -         6800    0    0 
+cantraise 940779160  8  7 f   -     -     -         6800    0    0 
+cantraise 940779174  8  6 f   -     -     -         6800    0    0 
+cantraise 940779198  7  4 f   -     -     -         6800    0    0 
+cantraise 940779227  7  4 f   -     -     -         6800    0    0 
+cantraise 940779233  7  3 f   -     -     -         6800    0    0 
+cantraise 940779246  7  2 Bf  -     -     -         6800 1600    0 
+cantraise 940779255  7  1 Bf  -     -     -         5200  800    0 
+cantraise 940779262  7  7 f   -     -     -         4400    0    0 
+cantraise 940779278  6  5 f   -     -     -         4400    0    0 
+cantraise 940779308  6  4 f   -     -     -         4400    0    0 
+cantraise 940779322  6  3 f   -     -     -         4400    0    0 
+cantraise 940779329  6  2 Bf  -     -     -         4400 1600    0 
+cantraise 940779341  5  1 Bf  -     -     -         2800  800    0 
+cantraise 940779342  5  5 f   -     -     -         2000    0    0 
+cantraise 940779346  5  4 f   -     -     -         2000    0    0 
+cantraise 940779349  5  3 f   -     -     -         2000    0    0 
+cantraise 940779350  5  2 Bf  -     -     -         2000 1600    0 
+cantraise 940779352  5  1 BA  -     -     -          400  400  800 6d 6s
+cantraise 940779353  5  5 f   -     -     -          800    0    0 
+cantraise 940779356  5  4 f   -     -     -          800    0    0 
+cantraise 940779360  5  3 f   -     -     -          800    0    0 
+cantraise 940779364  4  1 BA  -     -     -          800  800    0 3c 7c
+cantraise 940820463 21  6 cf  -     -     -         5000  175    0 
+cantraise 940820566 20  4 r   b     b     -         4825 2650 4100 
+cantraise 940820675 20  4 f   -     -     -         6275    0    0 
+cantraise 940820772 20  3 f   -     -     -         6275    0    0 
+cantraise 940820875 19  2 Bk  kf    -     -         6275  100    0 
+cantraise 940821027 19  1 Bc  kf    -     -         6175  223    0 
+cantraise 940821111 19 19 f   -     -     -         5952    0    0 
+cantraise 940821172 18 17 f   -     -     -         5952    0    0 
+cantraise 940821283 17 15 f   -     -     -         5952    0    0 
+cantraise 940821358 17 14 cf  -     -     -         5952  200    0 
+cantraise 940821398 17 13 f   -     -     -         5752    0    0 
+cantraise 940821462 16 11 f   -     -     -         5752    0    0 
+cantraise 940821538 15 10 f   -     -     -         5752    0    0 
+cantraise 940821701 14  9 f   -     -     -         5752    0    0 
+cantraise 940821760 13  7 f   -     -     -         5752    0    0 
+cantraise 940821791 13  6 r   bA    -     -         5752 5752 8952 
+cantraise 940821841 13  5 f   -     -     -         8952    0    0 
+cantraise 940821878 13  4 f   -     -     -         8952    0    0 
+cantraise 940821903 13  3 f   -     -     -         8952    0    0 
+cantraise 940821959 11  2 Bk  kf    -     -         8952  400    0 
+cantraise 940822006 10  1 Bc  kf    -     -         8552  400    0 
+cantraise 940822047 10 10 f   -     -     -         8152    0    0 
+cantraise 940822081  9  9 r   c     cA    -         8152 8152    0 Ac As
+cantraise 940826429 22 14 f   -     -     -        10000    0    0 
+cantraise 940826598 22 13 f   -     -     -        10000    0    0 
+cantraise 940826682 22 12 f   -     -     -        10000    0    0 
+cantraise 940826759 22 11 f   -     -     -        10000    0    0 
+cantraise 940826891 22 10 cf  -     -     -        10000  100    0 
+cantraise 940827030 22  9 f   -     -     -         9900    0    0 
+cantraise 940827122 22  8 f   -     -     -         9900    0    0 
+cantraise 940827230 19  7 r   b     bA    -         9900 9900 24350 Ad Jd
+cantraise 940827348 18  5 f   -     -     -        24350    0    0 
+cantraise 940827490 17  5 c   f     -     -        24350  100    0 
+cantraise 940827563 16  4 f   -     -     -        24250    0    0 
+cantraise 940827714 16  3 f   -     -     -        24250    0    0 
+cantraise 940827830 15  2 Bf  -     -     -        24250  200    0 
+cantraise 940827899 15  1 Bc  k     b     kc       24050 6300 14300 8h 6h
+cantraise 940828075 14 14 f   -     -     -        32050    0    0 
+cantraise 940828128 14 13 f   -     -     -        32050    0    0 
+cantraise 940828190 14 12 f   -     -     -        32050    0    0 
+cantraise 940828355 14 11 f   -     -     -        32050    0    0 
+cantraise 940828421 14 10 KQ  -     -     -        32050    0    0 
+cantraise 940834056  9  7 f   -     -     -        10000    0    0 
+cantraise 940834158  9  6 f   -     -     -        10000    0    0 
+cantraise 940834221  9  5 f   -     -     -        10000    0    0 
+cantraise 940834264  9  4 f   -     -     -        10000    0    0 
+cantraise 940834342  9  3 f   -     -     -        10000    0    0 
+cantraise 940834388  9  2 Bf  -     -     -        10000  100    0 
+cantraise 940834437  9  1 Bc  k     kf    -         9900  200    0 
+cantraise 940834483  9  9 f   -     -     -         9700    0    0 
+cantraise 940834530  9  8 f   -     -     -         9700    0    0 
+cantraise 940834607  8  6 f   -     -     -         9700    0    0 
+cantraise 940834643  8  5 f   -     -     -         9700    0    0 
+cantraise 940834692  7  4 f   -     -     -         9700    0    0 
+cantraise 940834729  7  3 f   -     -     -         9700    0    0 
+cantraise 940834752  7  2 Bk  kf    -     -         9700  200    0 
+cantraise 940834806  7  1 Bc  kc    krA   -         9500 9500 19800 Kd 3d
+cantraise 940835053  7  7 f   -     -     -        19800    0    0 
+cantraise 940835129  7  6 f   -     -     -        19800    0    0 
+cantraise 940835162  7  5 f   -     -     -        19800    0    0 
+cantraise 940835184  7  4 f   -     -     -        19800    0    0 
+cantraise 940835199  7  3 f   -     -     -        19800    0    0 
+cantraise 940835224  6  2 Br  -     -     -        19800 6000 12400 Qd Qc
+cantraise 940835254  5  1 Bf  -     -     -        26200  400    0 
+cantraise 940835284  5  5 f   -     -     -        25800    0    0 
+cantraise 940835308  5  4 rA  -     -     -        25800 25800 27000 
+cantraise 940835327  5  3 f   -     -     -        27000    0    0 
+cantraise 940835360  5  2 Bk  b     -     -        27000 3800 5400 
+cantraise 940835384  5  1 Bc  b     -     -        28600 12800  750 5s Ts
+cantraise 940835411  5  5 f   -     -     -        16550    0    0 
+cantraise 940835422  5  4 f   -     -     -        16550    0    0 
+cantraise 940835450  5  3 rf  -     -     -        16550 3800    0 
+cantraise 940835461  5  2 BrA -     -     -        12750 12750 13950 
+cantraise 940835485  5  1 Br  -     -     -        13950 6800 7600 
+cantraise 940835501  5  5 f   -     -     -        14750    0    0 
+cantraise 940835508  5  4 r   -     -     -        14750 14600 17000 
+cantraise 940835529  5  3 f   -     -     -        17150    0    0 
+cantraise 940835543  5  2 Bc  kc    kc    bA       17150 17150 42150 Qh Ad
+cantraise 940835623  4  1 Bc  b     -     -        42150 5600 8800 
+cantraise 940835646  4  4 f   -     -     -        45350    0    0 
+cantraise 940835654  4  3 rf  -     -     -        45350 4600    0 
+cantraise 940835673  4  2 Bk  k     k     k        40750 1600 4800 Ah 3s
+cantraise 940835705  4  1 Br  -     -     -        43950 4600 6200 
+cantraise 940835717  4  4 r   -     -     -        45550 4600 7000 
+cantraise 940835724  4  3 f   -     -     -        47950    0    0 
+cantraise 940835730  4  2 Bf  -     -     -        47950 1600    0 
+cantraise 940835748  4  1 Bf  -     -     -        46350  800    0 
+cantraise 940835769  2  2 f   -     -     -        45550    0    0 
+cantraise 940835782  2  2 B   -     -     -        45550 1600 2400 
+cantraise 940835784  2  1 Bf  -     -     -        46350  800    0 
+cantraise 940835789  2  2 B   -     -     -        45550 1600 2400 
+cantraise 940835790  2  1 Br  b     -     -        46350 14600 19200 
+cantraise 940835807  2  2 Br  k     b     -        50950 11600 16200 
+cantraise 940835835  2  1 Bf  -     -     -        55550 1600    0 
+cantraise 940835840  2  2 Brc -     -     -        53950 36050 72100 Qc Qs
+cantraise 940836237 16 10 f   -     -     -         1000    0    0 
+cantraise 940836334 16  9 f   -     -     -         1000    0    0 
+cantraise 940836436 16  8 f   -     -     -         1000    0    0 
+cantraise 940836502 14  7 f   -     -     -         1000    0    0 
+cantraise 940836587 14  6 f   -     -     -         1000    0    0 
+cantraise 940836655 13  5 f   -     -     -         1000    0    0 
+cantraise 940836707 13  4 f   -     -     -         1000    0    0 
+cantraise 940836802 12  3 f   -     -     -         1000    0    0 
+cantraise 940836877 12  2 Bf  -     -     -         1000   10    0 
+cantraise 940836932 12  1 Bf  -     -     -          990    5    0 
+cantraise 940837078 12 12 rA  -     -     -          985  985    5 Ks Kc
+cantraise 940837127 11 10 cA  -     -     -            5    5    0 Ts As
+cantraise 940839616  6  5 f   -     -     -        10000    0    0 
+cantraise 940839685  6  4 f   -     -     -        10000    0    0 
+cantraise 940839736  6  3 f   -     -     -        10000    0    0 
+cantraise 940839789  6  2 Bf  -     -     -        10000   50    0 
+cantraise 940839804  6  1 Bc  b     -     -         9950  725 1225 
+cantraise 940839834  6  6 r   bf    -     -        10450 1050    0 
+cantraise 940839875  6  5 f   -     -     -         9400    0    0 
+cantraise 940839918  6  4 f   -     -     -         9400    0    0 
+cantraise 940840011  6  3 r   b     b     kf        9400 2750    0 
+cantraise 940840112  6  2 Bk  kf    -     -         6650  100    0 
+cantraise 940840147  6  1 Bf  -     -     -         6550   50    0 
+cantraise 940840153  6  6 f   -     -     -         6500    0    0 
+cantraise 940840158  6  5 f   -     -     -         6500    0    0 
+cantraise 940840187  6  4 r   -     -     -         6500  400  550 
+cantraise 940840198  6  3 f   -     -     -         6650    0    0 
+cantraise 940840219  6  2 Br  b     kf    -         6650 1650    0 
+cantraise 940840273  6  1 Br  kf    -     -         5000  500    0 
+cantraise 940840324  6  6 f   -     -     -         4500    0    0 
+cantraise 940840359  6  5 r   -     -     -         4500  600  750 
+cantraise 940840375  6  4 r   b     bA    -         4650 4650 6250 
+cantraise 940840451  6  3 f   -     -     -         6250    0    0 
+cantraise 940840474  6  2 Bf  -     -     -         6250  100    0 
+cantraise 940840530  6  1 Br  -     -     -         6150  500  700 
+cantraise 940840544  6  6 f   -     -     -         6350    0    0 
+cantraise 940840556  6  5 f   -     -     -         6350    0    0 
+cantraise 940840586  5  3 c   b     -     -         6350  700  900 
+cantraise 940840626  5  3 c   bc    kcA   -         6550 6550 13400 9s Js
+cantraise 940840678  5  2 Bk  kf    -     -        13400  200    0 
+cantraise 940840710  5  1 Bc  k     k     b        13200 1700    0 7s 9s
+cantraise 940840740  5  5 f   -     -     -        11500    0    0 
+cantraise 940840785  5  4 f   -     -     -        11500    0    0 
+cantraise 940840809  5  3 r   -     -     -        11500 10199 10499 
+cantraise 940840863  5  2 B   -     -     -        11800  200  300 
+cantraise 940840872  5  1 Bf  -     -     -        11900  100    0 
+cantraise 940840916  5  5 f   -     -     -        11800    0    0 
+cantraise 940840923  5  4 f   -     -     -        11800    0    0 
+cantraise 940840934  5  3 f   -     -     -        11800    0    0 
+cantraise 940840979  5  2 B   -     -     -        11800  400  600 
+cantraise 940840986  5  1 Bc  k     kf    -        12000  400    0 
+cantraise 940841011  5  5 c   f     -     -        11600 1400    0 
+cantraise 940841070  5  4 f   -     -     -        10200    0    0 
+cantraise 940841093  5  3 f   -     -     -        10200    0    0 
+cantraise 940841103  5  2 Br  bA    -     -        10200 10200 15200 
+cantraise 940841131  5  1 Bc  b     -     -        15200 1300 1700 
+cantraise 940841144  5  5 rc  r     -     -        15600 11311 22822 Jd 9d
+cantraise 940841184  4  3 rc  f     -     -        27111 2700    0 
+cantraise 940841208  4  3 f   -     -     -        24411    0    0 
+cantraise 940841214  4  2 B   -     -     -        24411  400  600 
+cantraise 940841218  4  1 Bc  k     b     -        24611 1100 1500 
+cantraise 940841241  4  4 f   -     -     -        25011    0    0 
+cantraise 940841244  4  3 r   -     -     -        25011 1300 1900 
+cantraise 940841253  4  2 Bf  -     -     -        25611  400    0 
+cantraise 940841260  4  1 Br  -     -     -        25211 1300 1700 
+cantraise 940841269  4  4 f   -     -     -        25611    0    0 
+cantraise 940841274  4  3 r   -     -     -        25611 1300 1900 
+cantraise 940841281  4  2 Bc  krc   -     -        26211 21339    0 7h Qh
+cantraise 940841315  4  1 Br  -     -     -         4872  900 1300 
+cantraise 940841326  4  4 f   -     -     -         5272    0    0 
+cantraise 940841330  4  3 r   -     -     -         5272 1300 1900 
+cantraise 940841337  4  2 B   -     -     -         5872  800 1200 
+cantraise 940841340  4  1 Bc  k     bA    -         6272 6272 13344 Qc Jh
+cantraise 940841366  4  4 f   -     -     -        13344    0    0 
+cantraise 940841373  4  3 f   -     -     -        13344    0    0 
+cantraise 940841380  4  2 B   -     -     -        13344  800 1200 
+cantraise 940841384  4  1 Br  -     -     -        13744 1700 2500 
+cantraise 940841393  4  4 f   -     -     -        14544    0    0 
+cantraise 940841397  4  3 r   -     -     -        14544 1700 2900 
+cantraise 940841405  4  2 B   -     -     -        15744  800 1200 
+cantraise 940841410  4  1 Br  -     -     -        16144 1700 2500 
+cantraise 940841418  4  4 c   b     -     -        16944 2800 4000 
+cantraise 940841442  4  3 f   -     -     -        18144    0    0 
+cantraise 940841447  4  2 B   -     -     -        18144  800 1200 
+cantraise 940841452  4  1 Bf  -     -     -        18544  400    0 
+cantraise 940841459  4  4 r   -     -     -        18144 1700 2900 
+cantraise 940841471  4  3 f   -     -     -        19344    0    0 
+cantraise 940841478  4  2 Bc  k     k     k        19344 2800    0 3d 5d
+cantraise 940841502  4  1 Br  -     -     -        16544 1700 2500 
+cantraise 940841522  4  4 r   -     -     -        17344 1700 2250 3d 4d
+cantraise 940841528  4  3 cc  c     k     k        17894 8500 16350 9d 8d
+cantraise 940841571  4  2 B   -     -     -        25744  800 1200 
+cantraise 940841577  4  1 B   -     -     -        26144  400   25 7s 7c
+cantraise 940841580  4  4 f   -     -     -        25769    0    0 
+cantraise 940841588  4  3 c   -     -     -        25769  800  225 8d 7d
+cantraise 940841597  4  2 Bk  b     -     -        25194 1800 3000 
+cantraise 940841637  4  1 Bc  bf    -     -        26394 4350    0 
+cantraise 940841667  4  4 f   -     -     -        22044    0    0 
+cantraise 940841675  4  3 f   -     -     -        22044    0    0 
+cantraise 940841681  4  2 B   -     -     -        22044  800  450 Jd Th
+cantraise 940841684  4  1 Br  -     -     -        21694 1550  900 As Td
+cantraise 940841704  4  4 r   -     -     -        21044 2800 4000 
+cantraise 940841720  4  3 f   -     -     -        22244    0    0 
+cantraise 940841726  4  2 B   -     -     -        22244  800 1200 
+cantraise 940841733  4  1 Bf  -     -     -        22644  400    0 
+cantraise 940841739  4  4 c   k     rcA   -        22244 22244 44288 3s 3h
+cantraise 940841773  4  3 f   -     -     -        44288    0    0 
+cantraise 940841785  3  1 B   -     -     -        44288 1600 1600 
+cantraise 940841792  3  1 Bf  -     -     -        44288  800    0 
+cantraise 940841826  2  2 cc  r     -     -        43488 24399 40911 Kd 8h
+cantraise 940842415  3  2 Bk  kf    -     -        10000   50    0 
+cantraise 940842443  3  1 Bf  -     -     -         9950   25    0 
+cantraise 940842444  3  3 f   -     -     -         9925    0    0 
+cantraise 940842456  3  2 Bf  -     -     -         9925   50    0 
+cantraise 940842461  3  1 Bf  -     -     -         9875   25    0 
+cantraise 940842462  3  3 f   -     -     -         9850    0    0 
+cantraise 940842464  3  2 Bf  -     -     -         9850   50    0 
+cantraise 940842465  3  1 Bf  -     -     -         9800   25    0 
+cantraise 940842466  3  3 f   -     -     -         9775    0    0 
+cantraise 940842467  3  2 Bf  -     -     -         9775   50    0 
+cantraise 940842468  3  1 Bf  -     -     -         9725   25    0 
+cantraise 940842469  3  3 f   -     -     -         9700    0    0 
+cantraise 940842470  3  2 Bf  -     -     -         9700   50    0 
+cantraise 940842471  3  1 Bf  -     -     -         9650   25    0 
+cantraise 940842472  3  3 f   -     -     -         9625    0    0 
+cantraise 940842474  3  2 Bf  -     -     -         9625   50    0 
+cantraise 940842475  3  1 Bf  -     -     -         9575   25    0 
+cantraise 940842476  3  3 f   -     -     -         9550    0    0 
+cantraise 940842477  3  2 Bf  -     -     -         9550   50    0 
+cantraise 940842478  3  1 Bf  -     -     -         9500   25    0 
+cantraise 940842479  3  3 f   -     -     -         9475    0    0 
+cantraise 940842480  3  2 Bf  -     -     -         9475   50    0 
+cantraise 940842481  3  1 Bf  -     -     -         9425   25    0 
+cantraise 940842482  3  3 f   -     -     -         9400    0    0 
+cantraise 940842483  3  2 Bf  -     -     -         9400   50    0 
+cantraise 940842484  3  1 Bf  -     -     -         9350   25    0 
+cantraise 940842485  3  3 f   -     -     -         9325    0    0 
+cantraise 940842572  3  3 rc  c     c     cA       10000 10000    0 Ts Qs

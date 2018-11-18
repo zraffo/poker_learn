@@ -1,0 +1,743 @@
+pooh      810185572  2  1 Bc  -     -     -         1000   10   20 
+pooh      810185573  2  2 Bk  b     r     -         1010   60  100 
+pooh      810185631  3  1 Bcc kc    kc    k         1030   50    0 3s 2s
+pooh      810185705  3  3 c   c     c     r          980   80  200 Ks 5s
+pooh      810185907  4  3 c   k     k     b         1100   30   50 
+pooh      810185995  4  2 Bk  b     kc    kc        1120   60  125 Qd 9h
+pooh      810186147  4  1 Bc  kc    kc    kf        1185   50    0 
+pooh      810186234  3  3 c   c     f     -         1135   20    0 
+pooh      810186280  3  3 c   b     -     -         1115   20   40 
+pooh      810186328  3  2 Br  b     -     -         1135   30   55 
+pooh      810186356  3  1 Br  b     bc    kc        1160   90    0 As Ac
+pooh      810186497  3  2 Bk  f     -     -         1070   10    0 
+pooh      810186564  3  1 Bcc kc    kc    kf        1060   50    0 
+pooh      810186657  4  4 cc  c     c     c         1010   70    0 4d 9c
+pooh      810186724  4  3 cc  c     k     b          940   50    0 5s 2s
+pooh      810186788  4  2 Bk  f     -     -          890   10    0 
+pooh      810186819  4  1 Bc  kc    kc    f          880   50    0 
+pooh      810186916  4  4 c   c     b     b          830   70  175 Tc 6c
+pooh      810186961  4  3 cf  -     -     -          935   10    0 
+pooh      810187039  4  2 Bf  -     -     -          925   10    0 
+pooh      810187041  4  1 Bc  b     -     -          915   20   40 
+pooh      810187335  4  4 c   c     r     k          965   70  155 7h 2h
+pooh      810187395  4  3 cc  kc    kc    k         1050   50  115 9d 3d
+pooh      810187469  3  2 Bf  -     -     -         1115   10    0 
+pooh      810187479  3  1 BQ  -     -     -         1105    5    0 
+pooh      810237174  4  2 Bk  kc    f     -         1100   20    0 
+pooh      810237307  4  1 Bc  k     Q     -         1080   10    0 
+pooh      810237662  4  2 B   -     -     -         1070   10   15 
+pooh      810237671  4  1 Bc  b     b     k         1075   40   90 Kh Ks
+pooh      810237714  4  4 cc  c     c     c         1125   70    0 Ts Qs
+pooh      810237766  4  3 c   k     c     f         1055   30    0 
+pooh      810237821  4  2 Bc  bc    kc    kc        1025   80    0 Ah 6h
+pooh      810237893  3  1 Bc  b     -     -          945   20   30 
+pooh      810237924  3  3 c   b     -     -          955   20   35 
+pooh      810237970  4  2 Bk  k     k     k          970   10    0 Ah 2s
+pooh      810238015  4  1 Bcc bc    bc    b          960  100  300 4h 7s
+pooh      810238111  4  4 cc  b     b     b         1160   70  145 Js Ad
+pooh      810238167  4  3 c   b     -     -         1235   20   35 
+pooh      810238224  3  2 Bk  b     -     -         1250   20   35 
+pooh      810238253  3  1 Bc  kc    b     b         1265   70    0 Js 7c
+pooh      810238326  3  3 r   -     -     -         1195   20   35 
+pooh      810238344  3  2 Bk  kf    -     -         1210   10    0 
+pooh      810238376  3  1 Br  -     -     -         1200   20   30 
+pooh      810238390  3  3 r   k     c     f         1210   40    0 
+pooh      810238442  3  2 Bf  -     -     -         1170   10    0 
+pooh      810238454  3  1 Bc  k     bc    kcf       1160   70    0 
+pooh      810238544  3  3 cc  c     b     b         1090   70  130 
+pooh      810238605  3  2 B   -     -     -         1150   10   15 
+pooh      810238613  3  1 BcQ -     -     -         1155   10   20 
+pooh      810412232  7  7 f   -     -     -         1165    0    0 
+pooh      810412305  9  6 c   c     r     -         1165   80  220 
+pooh      810412389  8  4 c   f     -     -         1305   10    0 
+pooh      810412421  6  2 Q   -     -     -         1295    0    0 
+pooh      810414943  3  3 c   c     k     c         1295   40    0 4h 8s
+pooh      810414997  5  2 Bk  b     -     -         1255   20   35 
+pooh      810415014  5  1 Bf  -     -     -         1270    5    0 
+pooh      810415054  5  5 c   rc    b     c         1265   80    0 Kh 6c
+pooh      810415095  5  4 f   -     -     -         1185    0    0 
+pooh      810415124  5  3 c   f     -     -         1185   10    0 
+pooh      810415152  6  2 Bk  b     b     kc        1175   60    0 9d 3d
+pooh      810415188  6  1 Bc  bc    b     b         1115   70  150 5c Kc
+pooh      810415234  6  6 c   c     f     -         1195   20    0 
+pooh      810415282  6  5 c   k     f     -         1175   10    0 
+pooh      810415367  6  4 c   c     b     b         1165   60  110 
+pooh      810415415  6  3 f   -     -     -         1215    0    0 
+pooh      810415446  6  2 Bc  bc    kc    kc        1215   73    0 Tc 7c
+pooh      810415514  5  1 Bc  kc    k     f         1142   30    0 
+pooh      810415578  6  6 f   -     -     -         1112    0    0 
+pooh      810415601  6  5 c   c     b     b         1112   60  145 Qh Tc
+pooh      810415661  6  4 c   c     c     c         1197   60   65 8d Qd
+pooh      810415708  6  3 c   f     -     -         1202   10    0 
+pooh      810415765  7  2 Bk  f     -     -         1192   10    0 
+pooh      810415788  7  1 Bc  kc    k     k         1182   30    0 Ts 8s
+pooh      810415853  8  8 cc  c     f     -         1152   30    0 
+pooh      810415916  8  7 f   -     -     -         1122    0    0 
+pooh      810415966  8  6 c   c     f     -         1122   20    0 
+pooh      810416030  8  6 c   k     k     c         1102   30    0 2s Ad
+pooh      810416077  9  5 cc  kc    kc    c         1072   90    0 5d Td
+pooh      810416186  8  3 cc  kc    fQ    -          982   30    0 
+pooh      810433755  6  3 cc  f     -     -          952   20    0 
+pooh      810433822  7  2 Bk  b     b     -          932   40  100 
+pooh      810433889  8  1 Br  kc    kc    kc         992   70   75 Ah Kd
+pooh      810433954  8  8 c   f     -     -          997   10    0 
+pooh      810434022  9  8 f   -     -     -          987    0    0 
+pooh      810434125  9  7 c   b     -     -          987   20   55 
+pooh      810434181  8  5 c   bc    bc    kc        1022   90    0 5c Qh
+pooh      810434256  8  4 c   f     -     -          932   20    0 
+pooh      810434298  8  3 ccc f     Q     -          912   40    0 
+pooh      810444452  7  7 f   -     -     -          872    0    0 
+pooh      810444482  7  6 c   k     c     f          872   30    0 
+pooh      810444534  8  5 c   cc    kc    kf         842   60    0 
+pooh      810444616  8  4 c   rc    c     c          782   80    0 4d Ks
+pooh      810444684  7  3 cc  f     -     -          702   20    0 
+pooh      810444746  5  2 B   -     -     -          682   10   15 
+pooh      810444765  5  1 Bf  -     -     -          687    5    0 
+pooh      810444776  6  6 f   -     -     -          682    0    0 
+pooh      810444822  6  5 f   -     -     -          682    0    0 
+pooh      810444874  6  4 c   f     -     -          682   10    0 
+pooh      810444902  5  3 f   -     -     -          672    0    0 
+pooh      810444954  5  2 Bc  k     k     k          672   20   40 Th 6h
+pooh      810445009  5  1 Bc  bc    k     brrc       692  160    0 4s Ah
+pooh      810445094  5  5 c   c     c     f          532   50    0 
+pooh      810445161  7  6 cc  c     c     c          482   90    0 8s 5d
+pooh      810445252  8  5 c   c     Q     -          392   30    0 
+pooh      810492485  8  8 c   f     -     -          362   20    0 
+pooh      810492527  8  7 cc  kc    f     -          342   30    0 
+pooh      810492581  9  7 r   c     c     k          312   50    0 As 2s
+pooh      810492627  9  6 r   b     -     -          262   30   65 
+pooh      810492684 11  6 f   -     -     -          297    0    0 
+pooh      810492753 12  6 c   k     c     f          297   30    0 
+pooh      810492799 12  5 c   b     bc    c          267   80    0 5c 3s
+pooh      810492877 12  4 cc  c     c     c          187   70  150 6s 3h
+pooh      810492929 12  3 c   kc    cc    f          267   60    0 
+pooh      810493038 12  2 Bc  kc    kc    kc         207   80    0 Ts 5s
+pooh      810493112 12  1 Bc  b     bc    kc         127   80    0 Jh Qs
+pooh      810493197 12 12 f   -     -     -           47    0    0 
+pooh      810493215 12 11 c   b     b     bA          47   47  147 
+pooh      810493306 12 10 c   c     f     -          147   20    0 
+pooh      810493366 12  9 f   -     -     -          127    0    0 
+pooh      810493453 12  8 ccc f     -     -          127   40    0 
+pooh      810493530 12  7 c   cc    kc    bcA         87   87  284 7s 5h
+pooh      810493609 12  6 c   c     c     f          284   40    0 
+pooh      810493674 12  5 f   -     -     -          244    0    0 
+pooh      810493711 12  4 c   kc    kc    k          244   40    0 6h Ts
+pooh      810493796 12  3 cc  kc    k     b          204   50  155 2c Kc
+pooh      810493876 12  2 Bk  kc    f     -          309   20    0 
+pooh      810493937 12  1 Bc  k     k     b          289   40    0 Kd 8c
+pooh      810493993 12 12 c   c     b     r          249   80  245 
+pooh      810494093 12 11 c   b     b     -          414   50  130 
+pooh      810494145  9  7 c   k     k     r          494   50  120 As 2h
+pooh      810494195  9  6 f   Q     -     -          564    0    0 
+pooh      810578967  5  5 r   -     -     -          564   20   30 
+pooh      810578984  5  5 c   k     b     k          574   40  120 2d 6s
+pooh      810579046  5  4 f   -     -     -          654    0    0 
+pooh      810579104  4  2 Bk  kc    f     -          654   20    0 
+pooh      810579159  4  1 Bc  b     b     -          634   40   80 
+pooh      810579225  4  4 c   c     c     k          674   40  100 9s 5d
+pooh      810579293  4  3 c   k     b     k          734   30    0 Qh 9c
+pooh      810579352  5  2 Bc  f     -     -          704   20    0 
+pooh      810579383  5  1 Bc  b     -     -          684   20   50 
+pooh      810579420  5  5 f   -     -     -          714    0    0 
+pooh      810579448  5  4 f   -     -     -          714    0    0 
+pooh      810579476  4  3 c   bQ    -     -          714   20   35 
+pooh      810794767  4  2 Bc  r     b     b          729   80  160 Th Tc
+pooh      810794820  4  1 Bc  f     -     -          809   20    0 
+pooh      810794868  5  4 c   kc    kf    -          789   20    0 
+pooh      810794936  5  3 f   -     -     -          769    0    0 
+pooh      810794974  6  2 Bc  bc    b     k          769   60  145 Ah 9d
+pooh      810795034  6  1 Bf  -     -     -          854    5    0 
+pooh      810795073  6  6 c   f     -     -          849   10    0 
+pooh      810795114  7  6 cc  c     f     -          839   30    0 
+pooh      810795176  7  5 c   cc    kf    -          809   30    0 
+pooh      810795292  9  4 cc  b     b     b          779   70  190 
+pooh      810795389  9  3 cc  kc    kf    -          899   40    0 
+pooh      810795488 10  2 Bc  kc    kc    kc         859   70    0 5h 3c
+pooh      810795591  8  1 Bf  Q     -     -          789    5    0 
+pooh      810847057 11 11 c   c     k     f          784   20    0 
+pooh      810847112 11 10 cc  b     b     -          764   50  115 
+pooh      810847261 11 10 c   c     f     -          829   40    0 
+pooh      810847328 12  9 r   b     b     b          789   70  195 5s 5h
+pooh      810847388 12  8 c   c     f     -          914   20    0 
+pooh      810847439 12  7 cc  k     kr    b          894   80  325 Td 6h
+pooh      810847540 12  6 cc  c     r     b         1139   90  290 
+pooh      810847630 12  5 f   -     -     -         1339    0    0 
+pooh      810847699  8  3 c   b     -     -         1339   20   60 
+pooh      810847737  8  2 Bk  kc    f     -         1379   20    0 
+pooh      810847782  8  1 Bc  f     -     -         1359   20    0 
+pooh      810847826  8  8 c   cc    c     f         1339   60    0 
+pooh      810847913  8  7 c   c     c     f         1279   40    0 
+pooh      810847950  8  6 fQ  -     -     -         1239    0    0 
+pooh      810851982  9  9 c   f     -     -         1239   20    0 
+pooh      810852036  8  8 c   r     b     b         1219   80  215 7d Kd
+pooh      810852110  8  7 c   c     c     f         1354   40    0 
+pooh      810852206  9  6 r   c     c     k         1314   60  215 4h 4s
+pooh      810852288  7  3 r   kc    kc    kc        1469   70  170 Qc Td
+pooh      810852358  6  1 Bk  kc    kf    -         1569   20    0 
+pooh      810852454  7  1 Br  kc    b     k         1549   50    0 Jc Js
+pooh      810852534  7  7 f   -     -     -         1499    0    0 
+pooh      810852618  7  6 c   r     b     -         1499   50  105 
+pooh      810852678  6  5 cc  cc    f     -         1554   70    0 
+pooh      810852740  5  4 c   k     k     b         1484   30   50 
+pooh      810852786  5  3 c   c     c     f         1504   40    0 
+pooh      810852832  4  2 Bc  kc    f     -         1464   50    0 
+pooh      810852912  4  1 Bf  -     -     -         1414    5    0 
+pooh      810852929  4  4 c   b     -     -         1409   20   35 
+pooh      810852948  4  3 c   r     c     rr        1424  130  265 8d 7h
+pooh      810853009  4  2 Bk  k     c     cc        1559   70    0 9d 6s
+pooh      810853081  5  1 Bc  bc    kc    kc        1489   80    0 6h 6s
+pooh      810853156  5  5 c   k     c     f         1409   60    0 
+pooh      810853219  5  4 f   -     -     -         1349    0    0 
+pooh      810853243  5  3 r   b     bc    c         1349   90    0 2c 2h
+pooh      810853289  4  2 Bk  k     c     k         1259   30    0 8c 4c
+pooh      810853331  4  1 Bc  kc    kc    f         1229   40    0 
+pooh      810853377  4  4 c   b     -     -         1189   20   35 
+pooh      810853396  4  3 c   r     b     b         1204   70  160 Qd 5c
+pooh      810853450  6  2 Bk  kc    kf    -         1294   20    0 
+pooh      810853527  7  1 Bc  bc    kc    b         1274   80    0 Ah 9d
+pooh      810853651  6  6 f   -     -     -         1194    0    0 
+pooh      810853747  6  5 c   bc    c     c         1194   70    0 Kd Jd
+pooh      810853834  6  4 cc  f     Q     -         1124   20    0 
+pooh      810931541  8  5 cc  c     cc    cc        1104  150    0 9d 6c
+pooh      810931684  7  3 c   b     bc    kc         954   80    0 9h 5s
+pooh      810931761  7  2 Bc  fQ    -     -          874   20    0 
+pooh      810945544  7  3 cc  fQ    -     -          854   30    0 
+pooh      810945740  6  2 Bk  b     kc    k          824   40  110 Jc 7c
+pooh      810945797  6  1 Bc  b     br    b          894  110  260 Kc 6c
+pooh      810945867  6  6 f   -     -     -         1044    0    0 
+pooh      810945890  6  5 c   f     -     -         1044   10    0 
+pooh      810945949  6  4 c   b     bc    kc        1034   80    0 5s 7d
+pooh      810946017  4  3 r   b     rc    c          954  110    0 Ad 9s
+pooh      810946071  4  2 Bk  f     -     -          844   10    0 
+pooh      810946094  4  1 Br  kc    kc    kf         834   60    0 
+pooh      810946132  4  4 r   b     -     -          774   30   55 
+pooh      810946154  4  3 cc  kc    f     -          799   30    0 
+pooh      810946194  4  2 Bk  f     -     -          769   10    0 
+pooh      810946210  4  1 Br  b     -     -          759   30   70 
+pooh      810946253  4  4 c   b     b     bc         799   80  165 6h 7s
+pooh      810946309  4  3 f   -     -     -          884    0    0 
+pooh      810946334  4  2 Bk  c     k     f          884   20    0 
+pooh      810946368  4  1 Bc  kc    f     -          864   20    0 
+pooh      810946422  4  4 f   -     Q     -          844    0    0 
+pooh      810958659  3  3 cc  r     b     b          844   90  230 Ac 8d
+pooh      810958741  3  1 Bk  bc    k     bc         984   70    0 9s Kc
+pooh      810958795  3  1 Bc  f     -     -          914   10    0 
+pooh      810958834  3  3 c   k     k     k          904   10    0 2h 5s
+pooh      810958882  5  4 c   b     b     k          894   40  100 Qs Ts
+pooh      810958959  6  4 cc  cc    bc    b          954  110  420 8d Ks
+pooh      810959052  6  3 f   -     -     -         1264    0    0 
+pooh      810959102  6  2 Bk  b     b     b         1264   60  125 
+pooh      810959159  6  1 Bc  kc    bc    kc        1329   90  114 Qc As
+pooh      810959245  6  6 c   c     c     c         1353   60    0 5d 5c
+pooh      810959339  5  4 c   cc    c     f         1293   50    0 
+pooh      810959448  6  4 f   -     -     -         1243    0    0 
+pooh      810959529  5  2 Bk  k     b     k         1243   30   80 
+pooh      810959607  5  1 Bc  kc    kc    kc        1293   60    0 3s Jd
+pooh      810959706  8  8 c   b     c     br        1233  100    0 6c 5s
+pooh      810959813  6  5 c   f     -     -         1133   10    0 
+pooh      810959885  8  6 c   r     k     c         1123   50    0 Qc 7d
+pooh      810959982  9  6 r   rc    cc    kc        1073  110  325 Ks Kc
+pooh      810960111  8  4 c   k     k     r         1288   60  205 4d 4s
+pooh      810960249  8  4 fQ  -     -     -         1433    0    0 
+pooh      811006930  6  4 c   k     k     k         1433   10    0 Jh 6c
+pooh      811006964  6  3 c   f     -     -         1423   10    0 
+pooh      811007027  6  2 Bc  kc    f     -         1413   30    0 
+pooh      811007079  6  1 Bc  k     k     kc        1383   30    0 Td Kd
+pooh      811007137  7  7 c   b     b     b         1353   60  140 2c 6d
+pooh      811007199  6  5 c   k     c     c         1433   50    0 Kh 2s
+pooh      811007232  6  5 cc  kf    -     -         1383   20    0 
+pooh      811007263  5  3 c   c     c     r         1363   80  150 
+pooh      811007306  5  2 Bk  k     k     b         1433   30   55 
+pooh      811007347  6  1 BQ  -     -     -         1458    5    0 
+pooh      811011048  8  3 c   k     k     c         1453   30    0 5d Jc
+pooh      811011097  8  2 Bf  -     -     -         1423   10    0 
+pooh      811011163  9  1 Bc  kf    -     -         1413   20    0 
+pooh      811011210  9  9 c   r     b     -         1393   50  110 
+pooh      811011249  8  7 f   -     -     -         1453    0    0 
+pooh      811011265  8  7 c   cc    kc    kc        1453   80    0 9c 6d
+pooh      811011342  9  6 f   -     -     -         1373    0    0 
+pooh      811011379 10  5 c   k     kf    -         1373   10    0 
+pooh      811011475 10  4 cc  cf    -     -         1363   30    0 
+pooh      811011558 10  2 Bk  kc    kc    kf        1333   40    0 
+pooh      811011637  9  1 Br  b     b     -         1293   50   90 
+pooh      811011681  7  7 c   r     -     -         1333   30   70 
+pooh      811011721  5  4 c   k     c     f         1373   30    0 
+pooh      811011770  4  3 r   b     b     -         1343   50   95 
+pooh      811011806  5  3 c   b     -     -         1388   20   40 
+pooh      811011830  5  2 Br  bc    kc    f         1408   80    0 
+pooh      811011899  7  1 Bc  b     b     k         1328   40    0 2d 4s
+pooh      811011956  7  7 c   c     c     b         1288   70  185 9d Qh
+pooh      811012020  7  6 c   c     c     c         1403   60    0 4h Ah
+pooh      811012071  7  5 c   b     -     -         1343   20   40 
+pooh      811012103  7  4 r   rc    c     r         1363  110  225 
+pooh      811012174  8  3 c   f     -     -         1478   10    0 
+pooh      811012286  8  2 Bc  f     -     -         1468   20    0 
+pooh      811012322  9  1 Br  bc    b     k         1448   70    0 Th Ad
+pooh      811012441 10 10 r   k     k     k         1378   30   85 2s Ad
+pooh      811012516 10  9 c   c     cc    c         1433  100    0 8c 5c
+pooh      811012657  9  7 c   b     b     b         1333   60  125 
+pooh      811012848  8  6 cc  f     -     -         1398   20    0 
+pooh      811013020 11  6 c   b     rc    k         1378   80    0 Ah 5h
+pooh      811013129 11  4 cc  r     c     c         1298   80  220 Kd Js
+pooh      811013284  9  4 r   kc    b     b         1438   70    0 7c Ac
+pooh      811013443  9  3 c   b     b     -         1368   40   95 
+pooh      811013499  8  2 Bc  bc    b     b         1423   80  205 Tc 6c
+pooh      811013574  5  1 Bc  kc    f     -         1548   20    0 
+pooh      811013617  5  3 Q   -     -     -         1528    0    0 
+pooh      811040193  7  6 c   f     -     -         1528   10    0 
+pooh      811040274  7  5 c   f     -     -         1518   10    0 
+pooh      811040324  7  4 c   c     kc    kf        1508   60    0 
+pooh      811040408  7  3 Q   -     -     -         1448    0    0 
+pooh      811040663  5  4 c   r     b     b         1448   70  180 8d 5d
+pooh      811040713  3  2 Br  c     f     -         1558   30    0 
+pooh      811040741  2  1 BQ  -     -     -         1528    5    0 
+pooh      811045674  6  2 Bk  k     k     k         1523   10   45 9h 9d
+pooh      811045721  6  1 Bc  kc    kc    kc        1558   60    0 4d Qs
+pooh      811045784  6  6 cc  b     c     k         1498   50    0 Jh 7h
+pooh      811045875  6  5 c   kc    kc    kc        1448   60    0 7d Jc
+pooh      811046024  4  2 Bc  kc    kc    kf        1388   50    0 
+pooh      811046079  5  1 Bc  kf    -     -         1338   10    0 
+pooh      811046143  5  5 c   k     k     k         1328   10   40 6d 7d
+pooh      811046228  4  3 fQ  -     -     -         1358    0    0 
+pooh      811091489  5  5 c   k     k     b         1358   30    0 8h 3d
+pooh      811091531  4  3 cc  c     c     c         1328   70  160 5s 6d
+pooh      811091571  4  2 Bc  k     k     b         1418   40   80 
+pooh      811091620  4  1 Bc  k     kf    -         1458   10    0 
+pooh      811091658  5  5 c   k     k     k         1448   20   55 Qh Js
+pooh      811091696  5  4 c   k     f     -         1483   10    0 
+pooh      811091741  5  3 cc  k     cc    c         1473  100    0 Tc 8h
+pooh      811091820  6  2 Bk  k     kf    -         1373   10    0 
+pooh      811091879  6  1 Bc  kc    kc    kc        1363   60    0 5s Jc
+pooh      811091963  8  8 c   c     c     f         1303   40    0 
+pooh      811092025  8  7 c   b     -     -         1263   20   55 
+pooh      811092085  6  4 c   c     c     c         1298   60    0 9h Ad
+pooh      811092145  6  4 r   b     b     b         1238   80  175 
+pooh      811092215  5  3 f   -     -     -         1333    0    0 
+pooh      811092249  6  2 Bc  k     c     f         1333   40    0 
+pooh      811092314  5  1 Bc  kc    kf    -         1293   20    0 
+pooh      811092372  5  5 c   f     -     -         1273   20    0 
+pooh      811092399  6  4 c   kc    b     b         1253   60  135 
+pooh      811092467  6  3 r   b     b     b         1328   70    0 4s 8s
+pooh      811092519  6  2 Bk  k     k     k         1258   10    0 5h Ts
+pooh      811092570  7  1 Bc  k     k     b         1248   30   80 5c Kh
+pooh      811092678  7  7 c   k     f     -         1298   10    0 
+pooh      811092771  7  6 c   kc    kf    -         1288   20    0 
+pooh      811092824  6  4 f   -     -     -         1268    0    0 
+pooh      811092882  7  4 c   k     c     c         1268   60    0 Js Th
+pooh      811092952  7  4 r   c     c     c         1208   70    0 Ah Ac
+pooh      811093013  6  2 Bf  -     -     -         1138   10    0 
+pooh      811093044  6  1 Bc  kc    kc    f         1128   70    0 
+pooh      811093123  6  4 Q   -     -     -         1058    0    0 
+pooh      811112196 10  4 c   b     b     b         1058   60    0 5h 5c
+pooh      811112269  9  3 cc  c     c     b          998   70  255 7s 4c
+pooh      811112335  9  2 Bk  b     kc    bc        1183   80  245 Qc 3c
+pooh      811112443  8  1 Bf  -     -     -         1348    5    0 
+pooh      811112492  8  8 c   c     k     c         1343   50    0 7h Qs
+pooh      811112569  9  7 c   c     f     -         1293   20    0 
+pooh      811112624  9  7 c   b     b     bc        1273   80    0 Ks 2c
+pooh      811112698  9  6 cc  c     c     c         1193   70    0 7d Td
+pooh      811112762  6  4 c   bcc   kc    kc        1123   90    0 8s Kc
+pooh      811112823  5  3 c   b     b     -         1033   40   90 
+pooh      811112854  5  2 Bc  kf    -     -         1083   20    0 
+pooh      811112904  5  1 Bc  b     bc    kc        1063   80    0 6h Kc
+pooh      811112952  5  5 c   b     -     -          983   20   35 
+pooh      811112974  5  4 r   c     c     k          998   50   55 3h 5h
+pooh      811113014  5  3 cc  f     -     -         1003   20    0 
+pooh      811113049  5  2 Bk  k     cc    kc         983   70    0 As 5d
+pooh      811113100  6  1 Bc  b     b     b          913   60    0 3h Jh
+pooh      811113145  6  6 r   b     b     bc         853  100    0 Ts Th
+pooh      811113205  6  5 c   k     b     c          753   50    0 9s Td
+pooh      811113250  6  4 c   k     k     b          703   30   60 
+pooh      811113296  5  3 c   k     k     b          733   30   55 
+pooh      811113343  5  2 Bk  f     -     -          758   10    0 
+pooh      811113368  5  1 Br  kc    kc    kc         748   90    0 6c Ad
+pooh      811113431  7  3 Q   -     -     -          658    0    0 
+pooh      811184030  6  6 c   c     r     b          658   90  220 
+pooh      811184101  5  5 cc  f     -     -          788   30    0 
+pooh      811184148  5  4 c   b     bc    c          758   80    0 4d 3d
+pooh      811184203  5  3 c   f     -     -          678   10    0 
+pooh      811184267  5  2 Bk  c     c     f          668   40    0 
+pooh      811184312  5  1 Bc  k     k     k          628   10   20 2c Jd
+pooh      811184369  5  5 c   b     b     b          638   60  145 Qh Th
+pooh      811184420  5  4 cc  cc    f     -          723   50    0 
+pooh      811184485  5  3 c   b     k     k          673   20   50 9h Ac
+pooh      811184526  4  2 Bc  kc    kc    kc         703   70    0 Tc Kd
+pooh      811184564  3  1 Bc  kc    kc    fQ         633   40    0 
+pooh      811386286  5  3 cc  kf    -     -          593   20    0 
+pooh      811386335  5  2 Bc  b     br    b          573  110  255 Jc Td
+pooh      811386390  6  1 Bcc kf    -     -          718   20    0 
+pooh      811386440  6  6 c   f     -     -          698   10    0 
+pooh      811386487  6  5 c   f     -     -          688   10    0 
+pooh      811386516  6  4 c   c     k     k          678   30    0 Ts Ac
+pooh      811386547  6  3 c   kc    k     k          648   20   55 3s 7s
+pooh      811386590  6  2 Bc  b     b     b          683   80  205 9h 3h
+pooh      811386645  4  1 BQ  -     -     -          808    5    0 
+pooh      811388927  8  2 B   -     -     -          803   10   15 
+pooh      811388941  8  1 Bc  kc    f     -          808   20    0 
+pooh      811389023  8  8 f   -     -     -          788    0    0 
+pooh      811389061  8  7 c   b     -     -          788   20   50 
+pooh      811389110  8  6 c   k     rc    c          818  120    0 2s 3s
+pooh      811389178  8  5 c   kc    k     kf         698   20    0 
+pooh      811389275  9  4 c   c     f     -          678   30    0 
+pooh      811389318  9  3 c   f     -     -          648   10    0 
+pooh      811389368  9  2 Bk  b     -     -          638   20   40 
+pooh      811389406 10  1 Bc  f     Q     -          658   20    0 
+pooh      811389896 11 10 c   c     f     -          638   20    0 
+pooh      811389973 11  9 c   c     c     f          618   60    0 
+pooh      811390048 11  8 cc  kc    k     k          558   30    0 6d 3s
+pooh      811390126 10  6 c   b     -     -          528   20   60 
+pooh      811390172 10  5 r   c     c     c          568   70    0 Ks Kc
+pooh      811390230 10  4 c   k     c     kc         498   50    0 4c 3h
+pooh      811390296 10  3 cc  f     -     -          448   20    0 
+pooh      811390373 11  2 Bc  bc    bcc   kc         428  150    0 7c 8c
+pooh      811390502 11  1 Bcc kc    k     kc         278   50    0 Kh 4d
+pooh      811390582 10 10 c   b     bc    c          228   90    0 Qd Ac
+pooh      811390637 10  9 c   c     c     r          138  100  235 
+pooh      811390693 10  8 c   f     -     -          273   10    0 
+pooh      811390750 10  7 cc  c     bc    b          263  100  300 3h 6s
+pooh      811390825 12  8 cc  f     -     -          463   20    0 
+pooh      811390913 12  7 rc  c     c     c          443   90    0 8s As
+pooh      811390971 12  6 ccc cc    c     k          353  100    0 4d 5h
+pooh      811391066 12  5 c   c     cc    c          253  130    0 7d 8c
+pooh      811391139 12  4 r   b     b     bc         123   90    0 Ah 7s
+pooh      811391204 12  3 c   kc    kcA   -           33   33    0 4s 9h
+pooh      811392710 10  8 c   f     -     -         1000   20    0 
+pooh      811392770 11  8 c   f     -     -          980   10    0 
+pooh      811392809 10  7 c   c     f     -          970   30    0 
+pooh      811392884 10  6 c   f     -     -          940   20    0 
+pooh      811392949 11  5 f   -     -     -          920    0    0 
+pooh      811392993 11  4 cr  bc    kc    b          920  100  275 Jc Qc
+pooh      811393076 10  2 c   b     b     k         1095   40    0 Jc 6c
+pooh      811393157 10  2 Br  bc    b     k         1055   90  345 Ks Kd
+pooh      811393224 10  1 Bc  kc    kf    -         1310   30    0 
+pooh      811393285 11 11 c   c     c     c         1280   70  210 2d 3s
+pooh      811393347 11 10 c   c     f     -         1420   20    0 
+pooh      811393434 11  9 c   f     -     -         1400   10    0 
+pooh      811393482 10  7 c   kc    kc    kf        1390   40    0 
+pooh      811393546 10  6 r   rc    c     c         1350   90    0 Jh Qh
+pooh      811393614 10  5 c   ccc   c     cf        1260   90    0 
+pooh      811393723 11  5 ccc kc    kc    kc        1170  100    0 2c Qs
+pooh      811393827 12  4 c   k     c     c         1070   50  105 3h 4c
+pooh      811393909 11  3 cc  kc    kc    kc        1125  180    0 5c Ks
+pooh      811394031 11  2 Bc  kc    kc    kc         945   70    0 6c 3d
+pooh      811394128 11  1 Br  kc    bc    kc         875  100    0 5s As
+pooh      811394240  9  4 Q   -     -     -          775    0    0 
+pooh      811453649 10  9 c   b     r     k          775   60    0 7c 7h
+pooh      811453747 12 10 c   f     -     -          715   10    0 
+pooh      811453860 11  8 cc  c     f     -          705   40    0 
+pooh      811453947 12  8 c   c     c     k          665   40    0 6c 4d
+pooh      811454033 11  7 c   k     k     bc         625   50    0 7s Jh
+pooh      811454170 12  6 r   cc    cc    cc         575  220    0 Ts Th
+pooh      811454335 12  5 c   b     b     b          355   60  205 7d 3c
+pooh      811454455 12  4 r   b     -     -          500   30   80 
+pooh      811454533 12  3 c   cc    c     b          550   70  250 
+pooh      811454644 11  2 Bc  f     -     -          730   20    0 
+pooh      811454751 12  1 Bf  -     -     -          710    5    0 
+pooh      811454819 11 11 c   f     -     -          705   10    0 
+pooh      811454934 12 11 r   r     b     b          695   80  245 Jc Js
+pooh      811455071 11  9 c   k     c     c          860   60    0 Ad 5s
+pooh      811455133  9  6 cc  f     -     -          800   20    0 
+pooh      811455198 12  8 c   bc    b     b          780   70  180 Ad Jh
+pooh      811455286 12  7 cc  b     b     b          890   70  200 
+pooh      811455510 11  6 fQ  -     -     -         1020    0    0 
+pooh      811614789  6  6 cc  c     r     k         1020   80    0 7d Ad
+pooh      811614839  6  5 c   f     -     -          940   10    0 
+pooh      811614903  6  4 c   c     c     k          930   40    0 Jh 6c
+pooh      811614964  7  3 cc  bc    kc    kc         890   80    0 8c Qd
+pooh      811615048  9  2 Bk  kc    f     -          810   30    0 
+pooh      811615159 10  1 Br  b     k     kc         780   50    0 Jh Js
+pooh      811615252 10 10 f   -     -     -          730    0    0 
+pooh      811615352 10  9 c   c     c     c          730   60    0 4c Ts
+pooh      811615479 10  8 c   f     -     -          670   10    0 
+pooh      811615665  7  5 c   kc    f     -          660   20    0 
+pooh      811615738  7  4 ccc cc    r     b          640  120  410 7h 5d
+pooh      811615993  7  4 cc  f     -     -          930   20    0 
+pooh      811616090  6  3 f   -     -     -          910    0    0 
+pooh      811616157  7  2 Bc  kc    kf    -          910   30    0 
+pooh      811616262  8  1 Bc  f     -     -          880   10    0 
+pooh      811616356  8  8 c   c     k     k          870   20   55 6d 3d
+pooh      811616430  8  8 c   f     -     -          905   10    0 
+pooh      811616556 11  9 cc  c     r     b          895  100  157 Jc 8h
+pooh      811616664 11  9 c   c     f     -          952   30    0 
+pooh      811616761  9  5 Q   -     -     -          922    0    0 
+pooh      811625724  7  3 c   c     f     -          922   20    0 
+pooh      811625777  7  4 cc  k     k     c          902   40   85 Ah 3s
+pooh      811625827  5  2 Bk  b     k     b          947   40   75 
+pooh      811625871  4  1 Bc  bc    br    kcc        982  190    0 6d 6c
+pooh      811625978  5  5 f   -     -     -          792    0    0 
+pooh      811626070  5  4 cc  cc    kc    f          792   60    0 
+pooh      811626146  5  3 c   k     f     -          732   10    0 
+pooh      811626213  5  2 Bk  b     kc    f          722   40    0 
+pooh      811626267  6  1 Bc  kc    kf    -          682   30    0 
+pooh      811626407  7  6 r   b     k     k          652   30   75 Jc As
+pooh      811626510  6  3 c   k     k     r          697   50  110 7d Jh
+pooh      811626573  5  2 Bc  k     c     c          757   60    0 Kh 7s
+pooh      811626635  6  1 Bc  k     kccc  f          697   90    0 
+pooh      811626715  7  5 Q   -     -     -          607    0    0 
+pooh      811646817  9  5 c   c     c     f          607   50    0 
+pooh      811646878  9  4 ccc c     c     f          557   70    0 
+pooh      811646963  9  3 c   c     c     c          487   60    0 4d 4c
+pooh      811647047  8  2 Bk  kc    kf    -          427   20    0 
+pooh      811647115  9  1 Bcc kc    k     b          407   80  250 2s 3d
+pooh      811647182  9  9 c   c     c     f          577   50    0 
+pooh      811647255 10  8 cc  bc    bc    c          527  120    0 Qs Tc
+pooh      811647393 10  7 r   bc    kc    kc         407   80    0 Qd As
+pooh      811647489  9  5 c   bc    c     f          327   50    0 
+pooh      811647571 11  5 c   c     f     -          277   20    0 
+pooh      811647635 10  4 r   b     b     b          257   70  175 
+pooh      811647708 10  3 c   c     f     -          362   20    0 
+pooh      811647746  9  1 Br  bc    br    bc         342  150    0 Ad Jh
+pooh      811647866 11  1 Br  bc    bc    kc         192  100    0 Tc Td
+pooh      811647975 12 12 c   c     r     bA          92   92    0 Ad 6d
+pooh      811648123 11 11 f   -     -     -         1000    0    0 
+pooh      811648161 11 11 f   -     -     -         1000    0    0 
+pooh      811648231 12 10 c   k     c     f         1000   40    0 
+pooh      811648299 12  9 c   k     c     k          960   30    0 Qd 7c
+pooh      811648358 12  8 c   c     cc    kf         930   60    0 
+pooh      811648446 12  7 cc  ccc   f     -          870   60    0 
+pooh      811648563 12  6 f   -     -     -          810    0    0 
+pooh      811648691 12  5 f   -     -     -          810    0    0 
+pooh      811648769 11  3 c   k     kc    kf         810   30    0 
+pooh      811648875 11  2 Bk  kfQ   -     -          780   10    0 
+pooh      811651446 10  4 cc  bc    k     k          770   40  155 7d Qc
+pooh      811651537 12  5 cc  cf    -     -          885   30    0 
+pooh      811651696 12  4 cc  cf    -     -          855   30    0 
+pooh      811651901 12  3 ccc kc    kc    kc         825  110    0 Ad 7h
+pooh      811652026 12  2 Bf  -     -     -          715   10    0 
+pooh      811652116 12  1 Bc  f     -     -          705   10    0 
+pooh      811652226 11 11 c   c     rc    c          695  100  280 8d 7d
+pooh      811652298 12 11 cc  cc    f     -          875   40    0 
+pooh      811652496 10  8 c   c     c     c          835   70    0 5c 4d
+pooh      811652581 11  5 Q   -     -     -          765    0    0 
+pooh      811701954  7  2 Bc  kf    -     -          765   20    0 
+pooh      811702026  7  1 Bc  k     k     kc         745   30    0 9c Qh
+pooh      811702089  7  7 c   -     -     -          715   10   25 
+pooh      811702110  7  6 c   k     c     c          730   50    0 9c 9h
+pooh      811702146  7  5 c   c     f     -          680   20    0 
+pooh      811702176  7  4 c   k     k     f          660   10    0 
+pooh      811702226  7  3 cc  b     b     b          650   70  145 
+pooh      811702296  7  2 Bc  f     -     -          725   20    0 
+pooh      811702345  7  1 Bc  b     -     -          705   20   30 
+pooh      811702376  8  8 c   f     -     -          715   20    0 
+pooh      811702432  8  7 c   b     k     k          695   20    0 3c 3d
+pooh      811702495  8  6 c   f     -     -          675   10    0 
+pooh      811702558  8  5 c   k     k     b          665   30   45 
+pooh      811702605  5  3 cc  f     -     -          680   20    0 
+pooh      811702639  5  2 Bk  r     bc    c          660   90    0 Qh Qs
+pooh      811702704  5  1 Bc  bc    kc    f          570   60    0 
+pooh      811702750  5  5 f   -     -     -          510    0    0 
+pooh      811702760  5  4 cc  c     f     -          510   30    0 
+pooh      811702840  6  3 cc  f     -     -          480   20    0 
+pooh      811702888  6  2 Bk  k     k     b          460   30   40 
+pooh      811702934  6  1 Bc  f     -     -          470   20    0 
+pooh      811702987  7  7 c   b     b     -          450   50  115 
+pooh      811703041  7  6 c   c     k     r          515   60  165 6c 6h
+pooh      811703116  9  6 c   k     f     -          620   10    0 
+pooh      811703193 11  5 c   f     -     -          610   10    0 
+pooh      811703244 11  4 cc  f     -     -          600   20    0 
+pooh      811703306 11  3 r   c     c     k          580   50    0 Ks Ad
+pooh      811703363 11  2 Bk  k     kf    -          530   10    0 
+pooh      811703432 11  1 Bc  kc    f     -          520   20    0 
+pooh      811703481 11 11 c   c     k     k          500   20    0 Tc 6c
+pooh      811703604 12 11 cc  r     r     r          480  140  470 7h 7d
+pooh      811703724 10  9 f   -     -     -          810    0    0 
+pooh      811707114 10  5 c   k     k     b          810   30   50 
+pooh      811707166  9  4 f   -     -     -          830    0    0 
+pooh      811707299  8  2 c   kc    kc    b          830   70  250 4h 4d
+pooh      811707388  9  2 Bf  -     -     -         1010   10    0 
+pooh      811707424  9  1 Bc  kc    kf    -         1000   20    0 
+pooh      811707508 10 10 f   -     -     -          980    0    0 
+pooh      811707574  8  7 c   k     k     b          980   30   60 
+pooh      811707684 10  7 c   kf    -     -         1010   10    0 
+pooh      811707915 12  6 c   k     f     -         1000   10    0 
+pooh      811707988 10  5 cc  kc    k     b          990   50   73 5d Ad
+pooh      811708064  7  3 cc  kc    kf    -         1013   30    0 
+pooh      811708135  7  2 Bk  k     k     f          983   10    0 
+pooh      811708186  6  1 Bc  k     b     bc         973   70    0 6d Kh
+pooh      811708252  5  5 c   b     b     -          903   40   70 
+pooh      811708313  5  4 r   b     b     -          933   50   90 
+pooh      811708365  5  3 c   c     b     b          973   60  145 9c Qd
+pooh      811708450  4  2 Bc  k     k     k         1058   20   60 4c 9s
+pooh      811708514  4  1 Bc  kc    kc    b         1098   60  130 4c 5s
+pooh      811708586  3  3 c   b     k     b         1168   40    0 6h Qd
+pooh      811708661  3  2 Bk  kc    kc    kc        1128   60  130 6h Ad
+pooh      811708740  4  1 Bf  -     -     -         1198    5    0 
+pooh      811708767  5  5 c   f     -     -         1193   20    0 
+pooh      811708820  5  4 c   k     c     k         1173   30    0 Qs 6h
+pooh      811708874  5  3 f   -     -     -         1143    0    0 
+pooh      811708917  5  2 Bc  kc    kf    -         1143   30    0 
+pooh      811708988  5  1 Bc  kc    k     kc        1113   50  190 Tc Qh
+pooh      811709098  6  6 c   c     c     f         1253   40    0 
+pooh      811709165  6  5 c   k     k     c         1213   30    0 6c As
+pooh      811709282  6  4 f   -     -     -         1183    0    0 
+pooh      811709326  6  3 c   k     c     rr        1183  110  250 9h Kh
+pooh      811709408  7  2 Bk  f     Q     -         1323   10    0 
+pooh      811715740  4  2 Bk  kf    -     -         1313   10    0 
+pooh      811715780  5  1 Bc  k     k     kcc       1303   70    0 9c 3s
+pooh      811715853  5  5 c   c     k     f         1233   20    0 
+pooh      811715895  5  4 c   c     c     f         1213   40    0 
+pooh      811715936  5  4 f   -     -     -         1173    0    0 
+pooh      811715960  5  2 Bk  k     c     f         1173   30    0 
+pooh      811715992  5  1 Bc  bc    k     k         1143   30    0 7d 6d
+pooh      811716043  5  5 f   -     -     -         1113    0    0 
+pooh      811716085  5  4 c   k     k     k         1113   10   10 6h 3d
+pooh      811716130  5  3 f   -     -     -         1113    0    0 
+pooh      811716188  6  2 Bc  kf    -     -         1113   20    0 
+pooh      811716227  6  1 Bcc kc    kc    kc        1093   90    0 Kd Ad
+pooh      811716312  9  9 cc  c     c     r         1003  110  420 
+pooh      811716411  9  8 cc  cc    ccc   kc        1313  150    0 As 8s
+pooh      811716554  9  7 cc  ccc   f     -         1163   60    0 
+pooh      811716672  9  7 cc  kc    kc    kf        1103   50    0 
+pooh      811716860 10  6 f   -     -     -         1053    0    0 
+pooh      811717017 11  7 cc  cc    f     -         1053   40    0 
+pooh      811717158 11  5 cc  f     -     -         1013   20    0 
+pooh      811717268  5  1 Bc  k     kf    -          993   20    0 
+pooh      811717357  5  1 Bc  k     kf    -          973   10    0 
+pooh      811717445  6  6 c   c     f     -          963   30    0 
+pooh      811717514  6  6 c   k     c     c          933   50    0 2h 2c
+pooh      811717623  5  4 c   -     -     -          883   10   25 
+pooh      811717653  6  4 r   b     c     c          898   70    0 Kc Ac
+pooh      811717725  8  4 c   kf    Q     -          828   10    0 
+pooh      812068007  7  5 c   k     cc    c          818  100    0 Jd 2d
+pooh      812068073  7  5 c   c     kf    -          718   20    0 
+pooh      812068145  7  4 c   c     k     f          698   20    0 
+pooh      812068206  8  3 c   f     -     -          678   10    0 
+pooh      812068322  8  2 Bc  k     b     b          668   60  105 
+pooh      812068370  8  1 Brc bc    kc    kc         713  110  430 Ks Kd
+pooh      812068470  8  8 c   b     k     k         1033   20   65 Qd 9s
+pooh      812068535  8  7 cc  c     f     -         1078   30    0 
+pooh      812068614  9  7 c   k     c     c         1048   60    0 4d Ah
+pooh      812068678 10  6 c   b     b     b          988   60  160 
+pooh      812068775 10  5 f   -     -     -         1088    0    0 
+pooh      812068832 10  4 cf  -     -     -         1088   10    0 
+pooh      812068970 10  2 c   k     k     b         1078   30   80 7s 3s
+pooh      812069039 11  2 Bc  kc    b     kf        1128   50    0 
+pooh      812069161  8  1 Bc  kfQ   -     -         1078   10    0 
+pooh      812081372 10  4 cc  f     -     -         1068   20    0 
+pooh      812081452 11  3 c   f     -     -         1048   10    0 
+pooh      812081524 10  2 Bcc kc    kc    k         1038  100  425 As Kc
+pooh      812081632 10  1 Bf  -     -     -         1363    5    0 
+pooh      812081680 10  7 Q   -     -     -         1358    0    0 
+pooh      812082442  3  2 Bk  c     c     b         1358   60  120 Kh Ah
+pooh      812082479  3  1 Bc  kc    k     k         1418   20    0 Tc 9c
+pooh      812082521  3  3 c   k     c     k         1398   30    0 4s 7s
+pooh      812082568  3  2 Bf  -     -     -         1368   10    0 
+pooh      812082598  3  1 Bc  kf    -     -         1358   10    0 
+pooh      812082639  3  3 cc  c     b     c         1348   70  160 3c Ac
+pooh      812082676  3  2 Bc  bc    k     b         1438   60  105 
+pooh      812082709  4  1 Bc  kf    -     -         1483   10    0 
+pooh      812082754  4  4 cc  f     -     -         1473   20    0 
+pooh      812082819  4  3 f   -     -     -         1453    0    0 
+pooh      812082859  4  2 Bf  -     -     -         1453   10    0 
+pooh      812082871  4  1 Bc  kc    kf    -         1443   30    0 
+pooh      812082917  5  5 c   f     Q     -         1413   10    0 
+pooh      812083174  4  3 f   -     -     -         1403    0    0 
+pooh      812083225  4  2 Bc  cc    kc    kf        1403   60    0 
+pooh      812083285  4  1 Bc  kf    -     -         1343   10    0 
+pooh      812083344  3  3 cc  rc    c     b         1333   90  190 7c Jc
+pooh      812083398  3  1 Bc  bc    bc    kc        1433  100    0 Ac 7c
+pooh      812083458  2  1 Bf  -     -     -         1333    5    0 
+pooh      812083475  2  2 Bc  c     c     rc        1328  110    0 As 2s
+pooh      812083508  2  1 Bf  -     -     -         1218    5    0 
+pooh      812083518  2  2 BQ  -     -     -         1213   10   15 
+pooh      812154300  5  1 BQ  -     -     -         1218   10    0 
+pooh      812320844  4  2 KQ  -     -     -         1233    0    0 
+pooh      812390540  8  7 c   k     k     f         1233   10    0 
+pooh      812390709  9  6 c   b     b     c         1223   60    0 Ts Kh
+pooh      812390777  8  4 c   r     b     r         1163   90  200 
+pooh      812390863  7  3 c   c     c     f         1273   40    0 
+pooh      812390923  8  2 Bk  k     k     b         1233   30   50 
+pooh      812390977  8  1 Bc  k     kf    -         1253   10    0 
+pooh      812391041  8  8 f   -     -     -         1243    0    0 
+pooh      812391150 10  7 cc  c     c     f         1243   50    0 
+pooh      812391323 10  6 c   bc    c     rr        1193  130  420 Ah 3h
+pooh      812391566  9  5 f   -     -     -         1483    0    0 
+pooh      812391671  7  3 rc  cf    -     -         1483   40    0 
+pooh      812391767  8  2 B   -     -     -         1443   10   15 
+pooh      812391789  8  1 Bc  b     -     -         1448   20   40 
+pooh      812391840  8  8 c   k     k     k         1468   10    0 7c 9c
+pooh      812391900  8  7 c   c     k     b         1458   40   85 
+pooh      812391944  8  6 c   k     k     rr        1503   90  100 7h Kd
+pooh      812392034  8  5 c   k     c     c         1513   50    0 Jd Qd
+pooh      812392111  9  5 fQ  -     -     -         1463    0    0 
+pooh      812479813  4  2 Bc  kc    kc    k         1463   50    0 4h 8h
+pooh      812479857  4  1 Bc  bc    b     k         1413   60  180 Kc Jc
+pooh      812479910  4  4 c   b     b     -         1533   40   70 
+pooh      812479947  4  3 c   -     -     -         1563   10   25 
+pooh      812479955  4  2 Bc  bc    kc    k         1578   60    0 Ks Ad
+pooh      812479999  4  1 Bc  k     b     k         1518   30   70 
+pooh      812480061  4  4 c   c     c     k         1558   40    0 Jc 9h
+pooh      812480120  3  2 B   -     -     -         1518   10   15 
+pooh      812480130  3  1 Bc  b     -     -         1523   20   30 
+pooh      812480150  3  3 cc  f     -     -         1533   20    0 
+pooh      812480173  3  2 Bc  f     -     -         1513   20    0 
+pooh      812480198  3  1 Bf  -     -     -         1493    5    0 
+pooh      812480215  2  2 Bk  b     -     -         1488   20   30 
+pooh      812480236  2  1 Bc  kc    b     -         1498   40   60 
+pooh      812480264  2  2 Bc  f     -     -         1518   20    0 
+pooh      812480282  2  1 Bc  k     k     k         1498   10   10 4h 8s
+pooh      812480316  2  2 Bk  c     c     c         1498   60    0 Qh 5c
+pooh      812480349  2  1 Bc  kf    -     -         1438   10    0 
+pooh      812480381  2  2 Bk  c     c     k         1428   40   80 Qd Kh
+pooh      812480417  2  1 Bc  b     -     -         1468   20   30 
+pooh      812480435  2  2 Br  c     c     b         1478   70  140 5c As
+pooh      812480479  2  1 Bf  -     -     -         1548    5    0 
+pooh      812480494  2  2 Bk  k     b     -         1543   30   40 
+pooh      812480517  2  1 Br  -     -     -         1553   20   30 
+pooh      812480527  2  2 Br  c     k     c         1563   50    0 Jc Ac
+pooh      812480560  2  1 Bf  -     -     -         1513    5    0 
+pooh      812480570  2  2 B   -     -     -         1508   10   15 
+pooh      812480575  2  1 Bc  b     -     -         1513   20   30 
+pooh      812480592  2  2 Bk  f     -     -         1523   10    0 
+pooh      812480608  2  1 Bc  b     b     b         1513   60  100 
+pooh      812480644  2  2 Bk  k     b     -         1553   30   40 
+pooh      812480673  2  1 Bc  k     k     k         1563   10    0 5c Td
+pooh      812480704  2  2 Bc  c     c     k         1553   50  100 As 4d
+pooh      812480743  2  1 Bf  -     -     -         1603    5    0 
+pooh      812480757  2  2 Bc  c     c     k         1598   50    0 Kh 5d
+pooh      812480790  2  1 Bc  b     -     -         1548   20   30 
+pooh      812480808  2  2 Bk  k     k     k         1558   10    0 7c 3s
+pooh      812480844  2  1 Bc  b     bc    kc        1548   80  160 9c 6d
+pooh      812480899  2  2 Bk  c     k     k         1628   20    0 4h Jh
+pooh      812480934  2  1 Bc  k     k     k         1608   10    0 Qs 3d
+pooh      812480970  3  3 f   -     -     -         1598    0    0 
+pooh      812481024  3  2 B   -     -     -         1598   10   15 
+pooh      812481032  3  1 Bc  kf    -     -         1603   10    0 
+pooh      812481052  3  3 c   k     k     f         1593   10    0 
+pooh      812481087  3  2 BfQ -     -     -         1583   10    0 
+pooh      812487440  4  3 cf  -     -     -         1573   10    0 
+pooh      812487458  4  2 Bk  k     kc    kf        1563   30    0 
+pooh      812487518  5  1 Bc  k     k     k         1533   10    0 9s 5s
+pooh      812487562  5  5 cc  k     c     k         1523   50    0 Ah Js
+pooh      812487645  5  4 cc  k     k     k         1473   20    0 Kc Tc
+pooh      812487697  5  3 c   b     b     b         1453   60    0 Kc 6s
+pooh      812487764  5  2 Bc  f     -     -         1393   20    0 
+pooh      812487843  5  1 Bc  kc    k     k         1373   30    0 8d 7d
+pooh      812487892  5  5 f   -     -     -         1343    0    0 
+pooh      812487964  5  4 f   -     -     -         1343    0    0 
+pooh      812488018  4  2 Bc  b     k     kc        1343   50  105 5d Ad
+pooh      812488067  4  1 Bc  k     kc    kc        1398   50    0 Qd Js
+pooh      812488137  4  4 c   k     k     b         1348   30   70 7d Jd
+pooh      812488198  4  3 f   -     -     -         1388    0    0 
+pooh      812488255  4  2 Bf  -     -     -         1388   10    0 
+pooh      812488296  4  1 Bc  kf    -     -         1378   10    0 
+pooh      812488315  4  4 f   -     -     -         1368    0    0 
+pooh      812488367  4  3 c   cc    kf    -         1368   30    0 
+pooh      812488450  4  2 Bk  kf    -     -         1338   10    0 
+pooh      812488472  4  1 Bc  b     bc    bc        1328  100  105 8c 7d
+pooh      812488522  4  4 c   c     f     -         1333   20    0 
+pooh      812488621  4  3 f   -     -     -         1313    0    0 
+pooh      812488655  4  2 Bf  Q     -     -         1313   10    0 
+pooh      812492494  5  2 Bk  c     f     -         1303   20    0 
+pooh      812492537  5  1 Bc  kf    -     -         1283   20    0 
+pooh      812492583  5  5 f   -     -     -         1263    0    0 
+pooh      812492601  5  4 r   -     -     -         1263   20   35 
+pooh      812492623  5  3 f   -     -     -         1278    0    0 
+pooh      812492660  5  2 Bf  -     -     -         1278   10    0 
+pooh      812492671  5  1 Bf  -     -     -         1268    5    0 
+pooh      812492708  5  5 c   k     r     b         1263   70  160 Jd 7c
+pooh      812492796  7  4 c   kc    kf    -         1353   20    0 
+pooh      812492849  7  3 cc  kc    kf    -         1333   30    0 
+pooh      812492901  6  2 Bc  bc    bc    kc        1303  100    0 Qd Kd
+pooh      812492955  7  1 Bc  b     k     k         1203   30    0 5d 3d
+pooh      812493028  7  3 Q   -     -     -         1173    0    0 

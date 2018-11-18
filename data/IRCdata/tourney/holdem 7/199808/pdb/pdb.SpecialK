@@ -1,0 +1,388 @@
+SpecialK  902000638 15 13 c   f     -     -         5000   50    0 
+SpecialK  902000731 15 12 cc  kf    -     -         4950  325    0 
+SpecialK  902000806 15 11 c   f     -     -         4625   50    0 
+SpecialK  902000833 15 10 f   -     -     -         4575    0    0 
+SpecialK  902000908 15  9 f   -     -     -         4575    0    0 
+SpecialK  902000965 15  8 f   -     -     -         4575    0    0 
+SpecialK  902001027 15  7 f   -     -     -         4575    0    0 
+SpecialK  902001098 14  6 c   k     f     -         4575  100    0 
+SpecialK  902001164 14  5 cf  -     -     -         4475  100    0 
+SpecialK  902001207 14  4 ccrA -     -     -         4375 4375    0 Kc Kd
+SpecialK  902529938  7  6 f   -     -     -         1000    0    0 
+SpecialK  902530035  5  3 c   b     b     -         1000  170  240 
+SpecialK  902530080  5  3 c   kf    -     -         1070   10    0 
+SpecialK  902530094  5  2 Bc  kf    -     -         1060   35    0 
+SpecialK  902530112  5  1 Bf  -     -     -         1025    5    0 
+SpecialK  902530131  5  5 f   -     -     -         1020    0    0 
+SpecialK  902530157  5  4 c   k     rcA   -         1020 1020 3085 3s Qs
+SpecialK  902530200  3  2 Bk  kf    -     -         3085   10    0 
+SpecialK  902530264  3  1 Br  kf    -     -         3075   80    0 
+SpecialK  902530302  2  2 c   k     k     k         2995   20   40 6s Qd
+SpecialK  902530335  2  2 Bk  k     k     k         3015   20    0 6h 9d
+SpecialK  902530362  2  1 Bc  kf    -     -         2995   20    0 
+SpecialK  902530389  2  2 Bk  c     k     k         2975  270  540 Ts 4h
+SpecialK  902530430  2  1 Bc  k     k     k         3245   20   40 9h Td
+SpecialK  902530455  2  2 Bk  b     -     -         3265   60   80 
+SpecialK  902530481  2  1 Br  -     -     -         3285   60   80 
+SpecialK  902530487  2  2 B   -     -     -         3305   20   30 
+SpecialK  902530491  2  1 Br  -     -     -         3315   60   80 
+SpecialK  902530495  2  2 Br  k     k     k         3335   60    0 Jh Td
+SpecialK  902530522  2  1 Bf  -     -     -         3275   10    0 
+SpecialK  902530529  2  2 Bf  -     -     -         3265   20    0 
+SpecialK  902530540  2  1 Bf  -     -     -         3245   10    0 
+SpecialK  902530544  2  2 B   -     -     -         3235   20   30 
+SpecialK  902530571  2  1 Br  -     -     -         3245  120  160 
+SpecialK  902530577  2  2 B   -     -     -         3285   40   60 
+SpecialK  902530582  2  1 Bf  -     -     -         3305   20    0 
+SpecialK  902530585  2  2 Bf  -     -     -         3285   40    0 
+SpecialK  902530604  2  1 Br  kf    -     -         3245  120    0 
+SpecialK  902530625  2  2 Bc  k     k     b         3125  360  480 
+SpecialK  902530657  2  1 Bf  -     -     -         3245   20    0 
+SpecialK  902530661  2  2 B   -     -     -         3225   40   60 
+SpecialK  902530667  2  1 Bf  -     -     -         3245   20    0 
+SpecialK  902530670  2  2 Bf  -     -     -         3225   40    0 
+SpecialK  902530681  2  1 Bf  -     -     -         3185   20    0 
+SpecialK  902530685  2  2 B   -     -     -         3165   40   60 
+SpecialK  902530689  2  1 Br  -     -     -         3185  120  160 
+SpecialK  902530694  2  2 Br  f     -     -         3225  120    0 
+SpecialK  902530711  2  1 Br  b     -     -         3105  360  480 
+SpecialK  902530734  2  2 Bk  b     k     k         3225  120  240 5h 4d
+SpecialK  902530764  2  1 Br  k     k     b         3345  360  480 
+SpecialK  902530790  2  2 Bf  -     -     -         3465   40    0 
+SpecialK  902530808  2  1 Bc  bc    k     k         3425  360  720 7c Ks
+SpecialK  902530866  2  2 B   -     -     -         3785   40   60 
+SpecialK  902530876  2  1 Bf  -     -     -         3805   40    0 
+SpecialK  902530880  2  2 Bk  k     k     k         3765   80  160 4s 6c
+SpecialK  902530913  2  1 Bcf -     -     -         3845   80    0 
+SpecialK  902530933  2  2 Bk  f     -     -         3765   80    0 
+SpecialK  902530950  2  1 Bcf -     -     -         3685   80    0 
+SpecialK  902530964  2  2 Bf  -     -     -         3605   80    0 
+SpecialK  902531002  2  1 Bc  k     k     k         3525   80    0 5h Kd
+SpecialK  902531027  2  2 Br  b     b     -         3445 2160 2880 
+SpecialK  902531096  2  1 Bcf -     -     -         4165   80    0 
+SpecialK  902531116  2  2 Br  -     -     -         4085  240  320 
+SpecialK  902531132  2  1 Bf  -     -     -         4165   40    0 
+SpecialK  902531137  2  2 Br  -     -     -         4125  240  320 
+SpecialK  902531149  2  1 Br  -     -     -         4205  240  320 
+SpecialK  902531156  2  2 B   -     -     -         4285   80  120 
+SpecialK  902531159  2  1 Brc k     k     k         4325  720    0 Jc 6d
+SpecialK  902531190  2  2 Br  bA    -     -         3605 3605 7000 4h Kh
+SpecialK  902531397  9  8 c   f     -     -         5000  140    0 
+SpecialK  902531434  9  7 f   -     -     -         4860    0    0 
+SpecialK  902531448  9  6 r   b     -     -         4860  640  920 
+SpecialK  902531467  9  5 c   c     b     k         5140 1040    0 6c 6h
+SpecialK  902531515  9  4 f   -     -     -         4100    0    0 
+SpecialK  902531579  8  3 r   b     f     -         4100  440    0 
+SpecialK  902531613  8  2 Br  bA    -     -         3660 3660    0 Qd Qs
+SpecialK  903211018 16 14 c   b     b     -         5000 4925 7050 
+SpecialK  903211116 16 13 c   f     -     -         7125  225    0 
+SpecialK  903211216 16 12 c   c     c     k         6900 1300    0 Qh Th
+SpecialK  903211290 16 11 cf  -     -     -         5600   50    0 
+SpecialK  903211358 14  9 f   -     -     -         5550    0    0 
+SpecialK  903211436 14  8 f   -     -     -         5550    0    0 
+SpecialK  903211502 14  7 f   -     -     -         5550    0    0 
+SpecialK  903211568 14  6 f   -     -     -         5550    0    0 
+SpecialK  903211655 14  5 f   -     -     -         5550    0    0 
+SpecialK  903211683 13  4 cc  kf    -     -         5550  600    0 
+SpecialK  903211750 13  3 c   k     k     k         4950  200    0 Qd 7d
+SpecialK  903211801 13  2 Bk  kf    -     -         4750  200    0 
+SpecialK  903211873 13  1 BrA -     -     -         4550 4550    0 Qs Kd
+SpecialK  903223239 14  1 Bf  -     -     -         5000   25    0 
+SpecialK  903223306 13 13 f   -     -     -         4975    0    0 
+SpecialK  903223386 13 12 c   c     f     -         4975  175    0 
+SpecialK  903223489 13 11 c   b     -     -         4800  300  500 
+SpecialK  903223538 13 10 f   -     -     -         5000    0    0 
+SpecialK  903223665 13  9 f   -     -     -         5000    0    0 
+SpecialK  903223762 13  8 f   -     -     -         5000    0    0 
+SpecialK  903223818 12  7 f   -     -     -         5000    0    0 
+SpecialK  903223918 12  6 f   -     -     -         5000    0    0 
+SpecialK  903223961 12  5 f   -     -     -         5000    0    0 
+SpecialK  903224043 12  4 c   k     c     r         5000 4900  700 5h 3h
+SpecialK  903224144 12  3 f   -     -     -          800    0    0 
+SpecialK  903224185 11  2 Bc  bA    -     -          800  800    0 Qc 7s
+SpecialK  903244612  9  1 Bf  -     -     -         5000   25    0 
+SpecialK  903244653  9  9 f   -     -     -         4975    0    0 
+SpecialK  903244695  8  7 c   k     k     f         4975   50    0 
+SpecialK  903244722  8  6 c   k     k     k         4925   50  125 Ts Qh
+SpecialK  903244756  8  5 cc  k     k     b         5000  750 1050 
+SpecialK  903244797  8  4 f   -     -     -         5300    0    0 
+SpecialK  903244812  8  3 f   -     -     -         5300    0    0 
+SpecialK  903244826  8  2 Bf  -     -     -         5300   50    0 
+SpecialK  903244840  8  1 Bcc k     kc    kf        5250  300    0 
+SpecialK  903244896  8  8 f   -     -     -         4950    0    0 
+SpecialK  903244945  8  7 f   -     -     -         4950    0    0 
+SpecialK  903244972  8  6 cc  kcA   -     -         4950 4950 10875 Jd Kd
+SpecialK  903245044  7  5 f   -     -     -        10875    0    0 
+SpecialK  903245081  7  4 c   b     k     k        10875  500 1200 Td 9h
+SpecialK  903245129  7  3 cc  kf    -     -        11575  275    0 
+SpecialK  903245184  6  2 Bk  b     b     bc       11300 5625    0 3s 6s
+SpecialK  903245234  6  1 Bcr bA    -     -         5675 5675 11700 Ad As
+SpecialK  903245272  6  6 r   k     k     k        11700  700 1600 Ac Jc
+SpecialK  903245334  6  5 f   -     -     -        12600    0    0 
+SpecialK  903245364  6  4 f   -     -     -        12600    0    0 
+SpecialK  903245411  6  3 f   -     -     -        12600    0    0 
+SpecialK  903245432  6  2 B   -     -     -        12600  200  300 
+SpecialK  903245439  6  1 Bf  -     -     -        12700  100    0 
+SpecialK  903245473  6  6 cf  -     -     -        12600  200    0 
+SpecialK  903245487  6  5 f   -     -     -        12400    0    0 
+SpecialK  903245515  6  4 f   -     -     -        12400    0    0 
+SpecialK  903245545  6  3 c   r     b     -        12400 7000 12700 3c 5c
+SpecialK  903245577  5  2 B   -     -     -        18100  400  600 
+SpecialK  903245588  5  1 Br  -     -     -        18300 1200 1600 
+SpecialK  903245602  5  5 c   k     k     k        18700  400    0 Ts 8h
+SpecialK  903245632  5  4 f   -     -     -        18300    0    0 
+SpecialK  903245676  5  3 c   c     k     b        18300 4000 6400 
+SpecialK  903245744  5  2 B   -     -     -        20700  400  600 
+SpecialK  903245755  5  1 Bc  kf    -     -        20900 1400    0 
+SpecialK  903245769  5  5 f   -     -     -        19500    0    0 
+SpecialK  903245785  5  4 f   -     -     -        19500    0    0 
+SpecialK  903245806  4  3 f   -     -     -        19500    0    0 
+SpecialK  903245821  4  2 Bk  f     -     -        19500  400    0 
+SpecialK  903245850  4  1 Bf  -     -     -        19100  200    0 
+SpecialK  903245858  4  4 c   b     bc    -        18900 6400 13000 Kh Kd
+SpecialK  903245895  3  2 c   f     -     -        25500  800    0 
+SpecialK  903245922  3  2 B   -     -     -        24700  800 1200 
+SpecialK  903245931  3  1 Bf  -     -     -        25100  400    0 
+SpecialK  903245946  2  2 r   -     -     -        24700 2400 3200 
+SpecialK  903245960  2  2 Bc  k     k     k        25500 1600    0 8h 9d
+SpecialK  903245979  2  1 Bf  -     -     -        23900  400    0 
+SpecialK  903245986  2  2 B   -     -     -        23500  800 1200 
+SpecialK  903245988  2  1 Bf  -     -     -        23900  400    0 
+SpecialK  903245991  2  2 Bf  -     -     -        23500  800    0 
+SpecialK  903245995  2  1 Br  b     -     -        22700 7200 9600 
+SpecialK  903246005  2  2 B   -     -     -        25100  800 1200 
+SpecialK  903246008  2  1 Br  -     -     -        25500 2400 3200 
+SpecialK  903246013  2  2 Bc  f     -     -        26300 1600    0 
+SpecialK  903246023  2  1 Br  -     -     -        24700 2400 3200 
+SpecialK  903246027  2  2 Bc  r     -     -        25500 7200 9600 
+SpecialK  903246045  2  1 Bf  -     -     -        27900  400    0 
+SpecialK  903246050  2  2 Br  -     -     -        27500 4800 6400 
+SpecialK  903246063  2  1 Bf  -     -     -        29100  400    0 
+SpecialK  903246067  2  2 B   -     -     -        28700  800 1200 
+SpecialK  903246069  2  1 Br  -     -     -        29100 2400 3200 
+SpecialK  903246074  2  2 B   -     -     -        29900  800 1200 
+SpecialK  903246076  2  1 Bc  k     b     -        30300 2400 3200 
+SpecialK  903246091  2  2 B   -     -     -        31100  800 1200 
+SpecialK  903246093  2  1 Br  -     -     -        31500 2400 3200 
+SpecialK  903246097  2  2 Br  -     -     -        32300 4800 6400 
+SpecialK  903246104  2  1 Bf  -     -     -        33900  400    0 
+SpecialK  903246108  2  2 Br  -     -     -        33500 4800 6400 
+SpecialK  903246113  2  1 Bf  -     -     -        35100  400    0 
+SpecialK  903246117  2  2 Bf  -     -     -        34700  800    0 
+SpecialK  903246121  2  1 Br  -     -     -        33900 2400 3200 
+SpecialK  903246126  2  2 Bc  r     -     -        34700 7200 9600 
+SpecialK  903246142  2  1 Br  -     -     -        37100 2400 3200 
+SpecialK  903246147  2  2 B   -     -     -        37900  800 1200 
+SpecialK  903246150  2  1 Br  -     -     -        38300 2400 3200 
+SpecialK  903246157  2  2 Bc  -     -     -        39100  825    0 3d 2c
+SpecialK  903246162  2  1 Br  -     -     -        38275 2400 3200 
+SpecialK  903246173  2  2 Bc  -     -     -        39075  850 1700 5h Qc
+SpecialK  903246417  8  8 c   c     f     -         4000  463    0 
+SpecialK  903246469  7  7 c   c     r     bA        3537 3537    0 Ac As
+SpecialK  903247842  8  7 f   -     -     -         1000    0    0 
+SpecialK  903247866  8  6 f   -     -     -         1000    0    0 
+SpecialK  903247912  8  5 f   -     -     -         1000    0    0 
+SpecialK  903247927  8  4 cc  f     -     -         1000   70    0 
+SpecialK  903248010  7  2 cc  kc    kf    -          930  200    0 
+SpecialK  903248113  7  2 Bk  k     kf    -          730   10    0 
+SpecialK  903248161  7  1 Bc  kcA   -     -          720  720 1460 Jc Kh
+SpecialK  903248228  7  7 f   -     -     -         1460    0    0 
+SpecialK  903248336  7  6 f   -     -     -         1460    0    0 
+SpecialK  903248425  6  4 c   f     -     -         1460   60    0 
+SpecialK  903248453  6  4 c   k     b     -         1400   90  140 
+SpecialK  903248515  6  3 f   -     -     -         1450    0    0 
+SpecialK  903248578  5  2 Bf  -     -     -         1450   20    0 
+SpecialK  903248593  5  1 Bc  k     b     -         1430  120  160 
+SpecialK  903248614  5  5 rc  c     -     -         1470  860 1760 Jh Kc
+SpecialK  903248639  4  4 f   -     -     -         2370    0    0 
+SpecialK  903248657  4  3 c   f     -     -         2370   40    0 
+SpecialK  903248684  4  2 Bf  -     -     -         2330   40    0 
+SpecialK  903248702  4  1 Bf  -     -     -         2290   20    0 
+SpecialK  903248711  4  4 f   -     -     -         2270    0    0 
+SpecialK  903248725  4  3 r   -     -     -         2270  140  200 
+SpecialK  903248742  4  2 Bk  b     -     -         2330  120  160 
+SpecialK  903248762  4  1 Bf  -     -     -         2370   20    0 
+SpecialK  903248772  4  4 c   r     cA    -         2350 2350 2380 Kd Ac
+SpecialK  903248817  4  3 r   b     -     -         2380  440  600 
+SpecialK  903248851  4  2 B   -     -     -         2540   40   60 
+SpecialK  903248860  4  1 Br  -     -     -         2560  120  160 
+SpecialK  903248870  4  4 f   -     -     -         2600    0    0 
+SpecialK  903248880  4  3 r   k     k     b         2600  440  600 
+SpecialK  903248917  4  2 B   -     -     -         2760   40   60 
+SpecialK  903248921  4  1 Bc  kf    -     -         2780  240    0 
+SpecialK  903248943  4  4 r   -     -     -         2540  140  200 
+SpecialK  903248950  4  3 r   f     -     -         2600  140    0 
+SpecialK  903248967  4  2 Br  bA    -     -         2460 2460 3380 
+SpecialK  903248983  4  1 Bf  -     -     -         3380   40    0 
+SpecialK  903248990  4  4 f   -     -     -         3340    0    0 
+SpecialK  903248996  4  3 rr  -     -     -         3340 2840 1840 Ks Js
+SpecialK  903249014  4  2 Bf  -     -     -         2340   80    0 
+SpecialK  903249026  4  1 Bf  -     -     -         2260   40    0 
+SpecialK  903249031  4  4 f   -     -     -         2220    0    0 
+SpecialK  903249055  4  3 f   -     -     -         2220    0    0 
+SpecialK  903249065  4  2 Bc  kc    krA   -         2220 2220 3840 
+SpecialK  903249113  4  1 Bf  -     -     -         3840   40    0 
+SpecialK  903249122  4  4 r   -     -     -         3800  960 2030 Ac Kc
+SpecialK  903249140  3  2 B   -     -     -         4870   80  120 
+SpecialK  903249149  3  1 Bc  k     b     -         4910  640  960 
+SpecialK  903249183  3  3 f   -     -     -         5230    0    0 
+SpecialK  903249203  3  2 B   -     -     -         5230   80  120 
+SpecialK  903249208  3  1 Bf  -     -     -         5270   40    0 
+SpecialK  903249212  3  3 r   -     -     -         5230  280  400 
+SpecialK  903249220  3  2 Br  b     -     -         5350 1440 1920 
+SpecialK  903249237  3  1 Bf  -     -     -         5830   40    0 
+SpecialK  903249243  3  3 f   -     -     -         5790    0    0 
+SpecialK  903249250  3  2 Bc  f     -     -         5790  160    0 
+SpecialK  903249264  3  1 Brr -     -     -         5630 2160 3210 Jc Qd
+SpecialK  903249278  2  2 r   -     -     -         6680  240  320 
+SpecialK  903249303  2  2 B   -     -     -         6760   80  120 
+SpecialK  903249306  2  1 Br  -     -     -         6800  240  320 
+SpecialK  903249311  2  2 B   -     -     -         6880   80  120 
+SpecialK  903249314  2  1 Bf  -     -     -         6920   40    0 
+SpecialK  903249317  2  2 Brc -     -     -         6880 1120    0 Js Kh
+SpecialK  903249328  2  1 Br  -     -     -         5760  480  640 
+SpecialK  903249348  2  2 B   -     -     -         5920  160  240 
+SpecialK  903249351  2  1 Br  -     -     -         6000  480  640 
+SpecialK  903249359  2  2 Bf  -     -     -         6160  160    0 
+SpecialK  903249363  2  1 Br  -     -     -         6000  480  640 
+SpecialK  903249368  2  2 B   -     -     -         6160  160  240 
+SpecialK  903249370  2  1 Br  -     -     -         6240  480  640 
+SpecialK  903249374  2  2 B   -     -     -         6400  160  240 
+SpecialK  903249376  2  1 Br  -     -     -         6480  480  640 
+SpecialK  903249378  2  2 B   -     -     -         6640  160  240 
+SpecialK  903249379  2  1 Bf  -     -     -         6720   80    0 
+SpecialK  903249383  2  2 B   -     -     -         6640  160  240 
+SpecialK  903249384  2  1 Br  -     -     -         6720  480  640 
+SpecialK  903249389  2  2 Bc  r     -     -         6880 2880 1760 8s Kh
+SpecialK  903249408  2  1 Bf  -     -     -         5760   80    0 
+SpecialK  903249414  2  2 Bf  -     -     -         5680  160    0 
+SpecialK  903249418  2  1 Bc  b     b     b         5520 4320 5760 
+SpecialK  903249437  2  2 Bc  f     -     -         6960  320    0 
+SpecialK  903249445  2  1 Br  -     -     -         6640  480  640 
+SpecialK  903249450  2  2 B   -     -     -         6800  160  240 
+SpecialK  903249452  2  1 Bf  -     -     -         6880   80    0 
+SpecialK  903249456  2  2 Bk  b     -     -         6800  480  640 
+SpecialK  903249467  2  1 Bf  -     -     -         6960   80    0 
+SpecialK  903249471  2  2 Br  -     -     -         6880  960 1280 
+SpecialK  903249479  2  1 Br  -     -     -         7200  480  640 
+SpecialK  903249484  2  2 Bf  -     -     -         7360  160    0 
+SpecialK  903249489  2  1 Br  -     -     -         7200  480  640 
+SpecialK  903249495  2  2 B   -     -     -         7360  160  240 
+SpecialK  903249497  2  1 Br  -     -     -         7440  480  640 
+SpecialK  903249502  2  2 Bf  -     -     -         7600  160    0 
+SpecialK  903249506  2  1 Brc -     -     -         7440  560    0 2s 5s
+SpecialK  903249514  2  2 Br  -     -     -         6880  960 1280 
+SpecialK  903249525  2  1 Bf  -     -     -         7200   80    0 
+SpecialK  903249529  2  2 B   -     -     -         7120  160  240 
+SpecialK  903249531  2  1 Br  b     -     -         7200 1440 2240 Qd 8d
+SpecialK  903249855  8  1 Bf  -     -     -         5000   25    0 
+SpecialK  903249897  8  8 f   -     -     -         4975    0    0 
+SpecialK  903249943  8  7 f   -     -     -         4975    0    0 
+SpecialK  903250004  6  5 f   -     -     -         4975    0    0 
+SpecialK  903250060  6  5 f   -     -     -         4975    0    0 
+SpecialK  903250094  5  3 f   -     -     -         4975    0    0 
+SpecialK  903250148  5  3 f   -     -     -         4975    0    0 
+SpecialK  903250182  5  2 Bk  kf    -     -         4975  100    0 
+SpecialK  903250208  5  1 Bf  -     -     -         4875   50    0 
+SpecialK  903250232  5  5 f   -     -     -         4825    0    0 
+SpecialK  903250284  5  4 f   -     -     -         4825    0    0 
+SpecialK  903250293  5  3 f   -     -     -         4825    0    0 
+SpecialK  903250356  5  2 Bf  -     -     -         4825  100    0 
+SpecialK  903250395  5  1 Bf  -     -     -         4725   50    0 
+SpecialK  903250429  5  5 f   -     -     -         4675    0    0 
+SpecialK  903250442  5  4 f   -     -     -         4675    0    0 
+SpecialK  903250453  5  3 f   -     -     -         4675    0    0 
+SpecialK  903250491  5  2 Bf  -     -     -         4675  200    0 
+SpecialK  903250509  4  1 Bf  -     -     -         4475  100    0 
+SpecialK  903250519  4  4 f   -     -     -         4375    0    0 
+SpecialK  903250524  4  3 f   -     -     -         4375    0    0 
+SpecialK  903250549  4  2 Bf  -     -     -         4375  200    0 
+SpecialK  903250563  4  1 Bf  -     -     -         4175  100    0 
+SpecialK  903250585  4  4 f   -     -     -         4075    0    0 
+SpecialK  903250602  4  3 f   -     -     -         4075    0    0 
+SpecialK  903250617  4  2 Bk  kf    -     -         4075  200    0 
+SpecialK  903250637  4  1 Bf  -     -     -         3875  100    0 
+SpecialK  903250643  4  4 f   -     -     -         3775    0    0 
+SpecialK  903250671  4  3 f   -     -     -         3775    0    0 
+SpecialK  903250677  4  2 Bk  kf    -     -         3775  200    0 
+SpecialK  903250691  4  1 Bf  -     -     -         3575  100    0 
+SpecialK  903250734  4  4 f   -     -     -         3475    0    0 
+SpecialK  903250743  4  3 f   -     -     -         3475    0    0 
+SpecialK  903250767  4  2 Bf  -     -     -         3475  200    0 
+SpecialK  903250790  3  1 Bf  -     -     -         3275  100    0 
+SpecialK  903250814  3  3 f   -     -     -         3175    0    0 
+SpecialK  903250838  3  2 Bf  -     -     -         3175  400    0 
+SpecialK  903250846  3  1 Bf  -     -     -         2775  200    0 
+SpecialK  903250849  3  3 f   -     -     -         2575    0    0 
+SpecialK  903250872  3  2 Bk  k     k     k         2575  400 1000 4c 2d
+SpecialK  903250890  3  1 Bf  -     -     -         3175  200    0 
+SpecialK  903250922  3  3 f   -     -     -         2975    0    0 
+SpecialK  903250928  3  2 Bf  -     -     -         2975  400    0 
+SpecialK  903250935  3  1 Bf  -     -     -         2575  200    0 
+SpecialK  903250956  3  3 f   -     -     -         2375    0    0 
+SpecialK  903250970  3  2 Bf  -     -     -         2375  400    0 
+SpecialK  903250975  3  1 Bf  -     -     -         1975  200    0 
+SpecialK  903250982  3  3 f   -     -     -         1775    0    0 
+SpecialK  903251002  3  2 Bf  -     -     -         1775  400    0 
+SpecialK  903251008  3  1 Bf  -     -     -         1375  200    0 
+SpecialK  903251011  3  3 f   -     -     -         1175    0    0 
+SpecialK  903251044  3  2 Bf  -     -     -         1175  400    0 
+SpecialK  903251053  3  1 Bf  -     -     -          775  200    0 
+SpecialK  903251074  3  3 f   -     -     -          575    0    0 
+SpecialK  903251105  3  2 Bk  k     k     k          575  400    0 Kc 2c
+SpecialK  903251124  3  1 BA  -     -     -          175  175    0 Ac 7d
+SpecialK  903285092 11  3 c   k     kf    -         4000   40    0 
+SpecialK  903285169 10  2 Bk  k     b     b         3960  520 1080 Jd 9h
+SpecialK  903285238 10  1 Bc  kf    -     -         4520   40    0 
+SpecialK  903285268 10 10 r   k     k     k         4480  300 1040 7c 7h
+SpecialK  903285316 10  9 f   -     -     -         5220    0    0 
+SpecialK  903285350 10  8 c   f     -     -         5220   40    0 
+SpecialK  903285403 10  7 f   -     -     -         5180    0    0 
+SpecialK  903285455  9  5 f   -     -     -         5180    0    0 
+SpecialK  903285498  9  4 f   -     -     -         5180    0    0 
+SpecialK  903285524  9  3 c   b     -     -         5180  220  360 
+SpecialK  903285596  9  2 Bk  b     k     k         5320  320  720 8c 9s
+SpecialK  903285667  9  1 Bc  kc    k     kf        5720  240    0 
+SpecialK  903285717  9  9 f   -     -     -         5480    0    0 
+SpecialK  903285731  9  8 c   f     -     -         5480   80    0 
+SpecialK  903285759  9  7 f   -     -     -         5400    0    0 
+SpecialK  903285812  9  6 c   k     f     -         5400   80    0 
+SpecialK  903285865  9  5 cc  kf    -     -         5320  440    0 
+SpecialK  903285905  9  4 f   -     -     -         4880    0    0 
+SpecialK  903285923  9  3 cc  kf    -     -         4880  360    0 
+SpecialK  903285965  9  2 Br  -     -     -         4520  240  320 
+SpecialK  903285986  9  1 Bcf -     -     -         4600   80    0 
+SpecialK  903286031  8  8 f   -     -     -         4520    0    0 
+SpecialK  903286077  7  7 f   -     -     -         4520    0    0 
+SpecialK  903286110  7  6 c   f     -     -         4520  160    0 
+SpecialK  903286144  7  5 f   -     -     -         4360    0    0 
+SpecialK  903286159  7  4 f   -     -     -         4360    0    0 
+SpecialK  903286217  7  3 c   k     b     -         4360  880 1440 
+SpecialK  903286261  7  2 Bk  f     -     -         4920  160    0 
+SpecialK  903286277  7  1 Bf  -     -     -         4760   80    0 
+SpecialK  903286305  7  7 f   -     -     -         4680    0    0 
+SpecialK  903286349  7  6 r   -     -     -         4680  560  800 
+SpecialK  903286367  7  5 f   -     -     -         4920    0    0 
+SpecialK  903286416  7  4 c   kf    -     -         4920  160    0 
+SpecialK  903286435  7  3 f   -     -     -         4760    0    0 
+SpecialK  903286486  7  2 Bc  k     k     k         4760  426    0 8s 8c
+SpecialK  903286532  6  1 Bc  kf    -     -         4334  160    0 
+SpecialK  903286566  6  6 c   k     k     k         4174  320    0 Ac 7c
+SpecialK  903286606  6  5 f   -     -     -         3854    0    0 
+SpecialK  903286620  6  4 f   -     -     -         3854    0    0 
+SpecialK  903286642  6  3 f   -     -     -         3854    0    0 
+SpecialK  903286675  6  2 Bk  kf    -     -         3854  320    0 
+SpecialK  903286720  6  1 Bf  -     -     -         3534  160    0 
+SpecialK  903286731  6  6 c   b     -     -         3374 1280 1920 
+SpecialK  903286760  6  5 f   -     -     -         4014    0    0 
+SpecialK  903286772  6  4 r   -     -     -         4014 1440 2240 
+SpecialK  903286784  6  3 c   k     k     k         4814  320    0 7s 7c
+SpecialK  903286836  6  2 Bk  kf    -     -         4494  320    0 
+SpecialK  903286893  6  1 Br  bcA   -     -         4174 4174    0 Ah 4c
+SpecialK  903592885  9  4 f   -     -     -         5000    0    0 
+SpecialK  903592986  9  3 f   -     -     -         5000    0    0 
+SpecialK  903593074  9  2 Bk  k     k     kc        5000  150    0 5h Td
+SpecialK  903593161  9  1 Br  brA   -     -         4850 4850    0 Ad As
+SpecialK  903760989 15  2 Bc  kf    -     -         3000   65    0 
+SpecialK  903761090 14  1 Bf  -     -     -         2935    5    0 
+SpecialK  903761121 14 14 c   rA    -     -         2930 2930    0 9c 9h

@@ -1,0 +1,78 @@
+goodtone  802918875  2  1 Bc  b     -     -         1000   20   30 
+goodtone  802918902  2  2 Br  b     b     b         1010   80    0 Ah Th
+goodtone  802918941  2  1 Br  -     -     -          930   20   30 
+goodtone  802918957  2  2 Bk  k     b     -          940   30   40 
+goodtone  802918977  2  1 Bcc kf    -     -          950   20    0 
+goodtone  802918998  2  2 B   -     -     -          930   10   15 
+goodtone  802919002  2  1 Bc  b     b     -          935   40   60 
+goodtone  802919026  2  2 Bc  f     -     -          955   20    0 
+goodtone  802919038  2  1 Br  -     -     -          935   20   30 
+goodtone  802919048  2  2 B   -     -     -          945   10   15 
+goodtone  802919053  2  1 Bc  kc    kf    -          950   20    0 
+goodtone  802919077  2  2 B   -     -     -          930   10   15 
+goodtone  802919087  2  1 Bc  k     k     b          935   30   60 2h Qh
+goodtone  802919113  2  2 Bk  k     k     b          965   30   40 
+goodtone  802919143  2  1 Bc  b     -     -          975   20   30 
+goodtone  802919166  3  2 Bk  k     k     k          985   10    0 Jh 9h
+goodtone  802919201  3  1 Bc  k     k     kf         975   10    0 
+goodtone  802919236  3  3 cc  c     c     c          965   70    0 Kd Jh
+goodtone  802919271  3  2 Bk  r     b     b          895   70  120 
+goodtone  802919327  3  1 Bc  b     b     k          945   40    0 6d 8d
+goodtone  802919373  4  4 c   b     b     b          905   60    0 Js Ks
+goodtone  802919432  4  3 c   k     k     k          845   10   30 Ad 9s
+goodtone  802919483  4  2 Br  b     b     k          865   50  100 Th Qd
+goodtone  802919528  4  1 Bc  k     b     -          915   30   50 
+goodtone  802919585  4  4 c   f     -     -          935   10    0 
+goodtone  802919627  4  3 r   b     kf    -          925   30    0 
+goodtone  802919691  5  2 Bk  k     k     b          895   30    0 2c Ah
+goodtone  802919749  5  1 Br  b     b     -          865   50  120 
+goodtone  802919813  5  5 r   r     k     b          935   60  130 
+goodtone  802919878  5  4 r   r     rc    b         1005  120  360 9c Jc
+goodtone  802919955  5  3 r   k     b     bf        1245   60    0 
+goodtone  802920057  5  2 Br  b     bc    kf        1185   70    0 
+goodtone  802920116  5  1 Br  bc    kc    b         1115   80    0 5c Tc
+goodtone  802920186  5  5 r   -     -     -         1035   20   35 
+goodtone  802920208  5  4 r   k     r     b         1050   80  165 
+goodtone  802920268  5  3 r   k     c     f         1135   40    0 
+goodtone  802920320  6  2 Bk  b     -     -         1095   20   35 
+goodtone  802920353  6  1 Bc  b     -     -         1110   20   40 
+goodtone  802920392  6  6 r   r     bc    k         1130   80  175 Qc Qd
+goodtone  802920438  6  5 c   r     k     b         1225   50  150 3c 5c
+goodtone  802920510  6  4 r   c     c     f         1325   50    0 
+goodtone  802920592  6  3 c   b     -     -         1275   20   35 
+goodtone  802920652  6  2 Bk  b     -     -         1290   20   35 
+goodtone  802920686  5  1 Bc  kf    -     -         1305   10    0 
+goodtone  802920794  5  5 rr  b     b     brf       1295  130    0 
+goodtone  802920884  5  4 c   f     -     -         1165   10    0 
+goodtone  802920938  5  3 r   rc    rr    b         1155  150  400 4h 6c
+goodtone  802921030  7  4 r   b     b     -         1405   50   90 
+goodtone  802921076  7  3 rc  b     kc    k         1445   60    0 2c 4h
+goodtone  802921164  8  2 Br  b     b     k         1385   50  100 Ts Qc
+goodtone  802921252  8  1 Bc  f     -     -         1435   10    0 
+goodtone  802921340  9  9 c   Q     -     -         1425   10    0 
+goodtone  802986057 10  3 c   b     b     b         1415   60  250 Ts 8h
+goodtone  802986221 11  2 Bc  kf    -     -         1605   20    0 
+goodtone  802986395 12  1 Bc  kc    kc    kc        1585   60    0 9c 8h
+goodtone  802986547 12 12 c   bc    k     rc        1525   90    0 8d 6s
+goodtone  802986655 12 11 c   b     b     b         1435   60    0 Qc 8s
+goodtone  802986758 12 10 r   rc    f     -         1375   50    0 
+goodtone  802986944 12 10 c   r     b     KQ        1325   60    0 
+goodtone  802988763  8  2 Bk  b     b     k         1265   40    0 6h 4s
+goodtone  802988821  9  1 Bc  kf    -     -         1225   10    0 
+goodtone  802988882  9  9 r   b     k     b         1215   50    0 Td 2h
+goodtone  802988995  9  8 c   f     -     -         1165   10    0 
+goodtone  802989131  9  9 KQ  -     -     -         1155    0    0 
+goodtone  802997048 10  8 r   k     r     c         1155  100    0 Kc 6s
+goodtone  802997202  8  5 r   c     f     -         1055   40    0 
+goodtone  802997312  7  4 c   rr    rr    c         1015  150    0 Ad 4c
+goodtone  802997450  9  3 c   k     kc    Q          865   30    0 
+goodtone  803093769  8  7 cc  f     -     -          835   40    0 
+goodtone  803093868  8  6 rr  c     c     c          795   90    0 Ks As
+goodtone  803093936  7  4 r   r     f     -          705   40    0 
+goodtone  803093994  7  3 cc  b     b     b          665   70  195 
+goodtone  803094082  7  2 Br  bc    bc    b          790  100    0 9d Kd
+goodtone  803094161  6  1 Br  kf    -     -          690   30    0 
+goodtone  803094279  6  6 c   k     k     k          660   10    0 3s 7h
+goodtone  803094331  6  5 c   f     -     -          650   20    0 
+goodtone  803094452  6  4 rc  c     c     k          630   70    0 2d Kc
+goodtone  803094544  7  3 Q   -     -     -          560    0    0 

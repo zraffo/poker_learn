@@ -1,0 +1,76 @@
+MaxSpeed  928468384 20  7 f   -     -     -         5000    0    0 
+MaxSpeed  928468433 20  6 f   -     -     -         5000    0    0 
+MaxSpeed  928468495 18  5 f   -     -     -         5000    0    0 
+MaxSpeed  928468537 18  4 r   r     bA    -         5000 5000 7575 
+MaxSpeed  928468624 18  3 f   -     -     -         7575    0    0 
+MaxSpeed  928468698 18  2 Bk  kf    -     -         7575   50    0 
+MaxSpeed  928468757 17  1 Bf  -     -     -         7525   25    0 
+MaxSpeed  928468821 17 17 f   -     -     -         7500    0    0 
+MaxSpeed  928468869 16 15 c   b     k     k         7500  600    0 Ac 7s
+MaxSpeed  928468919 16 14 f   -     -     -         6900    0    0 
+MaxSpeed  928469018 15 12 f   -     -     -         6900    0    0 
+MaxSpeed  928469087 13  9 f   -     -     -         6900    0    0 
+MaxSpeed  928469204 12  9 c   r     -     -         6900 2150 3200 As 9s
+MaxSpeed  928469258 11  7 f   -     -     -         7950    0    0 
+MaxSpeed  928469290 11  6 f   -     -     -         7950    0    0 
+MaxSpeed  928469299 11  5 f   -     -     -         7950    0    0 
+MaxSpeed  928469363 11  4 f   -     -     -         7950    0    0 
+MaxSpeed  928469429 11  3 f   -     -     -         7950    0    0 
+MaxSpeed  928469492 11  2 Bk  b     b     bA        7950 7950 10750 
+MaxSpeed  928469541 11  1 Bf  -     -     -        10750  100    0 
+MaxSpeed  928469604 10 10 f   -     -     -        10650    0    0 
+MaxSpeed  928469645 10  9 f   -     -     -        10650    0    0 
+MaxSpeed  928469671  9  7 f   -     -     -        10650    0    0 
+MaxSpeed  928469717  8  5 f   -     -     -        10650    0    0 
+MaxSpeed  928469736  8  4 f   -     -     -        10650    0    0 
+MaxSpeed  928469754  8  3 f   -     -     -        10650    0    0 
+MaxSpeed  928469779  8  2 Bk  kf    -     -        10650  400    0 
+MaxSpeed  928469798  8  1 Bf  -     -     -        10250  200    0 
+MaxSpeed  928469810  8  8 c   b     -     -        10050 4800 6800 
+MaxSpeed  928469828  8  7 f   -     -     -        12050    0    0 
+MaxSpeed  928469880  8  6 f   -     -     -        12050    0    0 
+MaxSpeed  928469895  8  5 r   -     -     -        12050 1400 2000 
+MaxSpeed  928469907  8  4 cc  b     -     -        12650 4200 6400 
+MaxSpeed  928469940  8  3 f   -     -     -        14850    0    0 
+MaxSpeed  928469978  8  2 Bf  -     -     -        14850  400    0 
+MaxSpeed  928469998  8  1 Bc  brA   -     -        14450 14450    0 5c Ac
+MaxSpeed  928557373 18 12 f   -     -     -        10000    0    0 
+MaxSpeed  928557422 18 11 f   -     -     -        10000    0    0 
+MaxSpeed  928557493 18 10 f   -     -     -        10000    0    0 
+MaxSpeed  928557540 18  9 f   -     -     -        10000    0    0 
+MaxSpeed  928557612 18  8 f   -     -     -        10000    0    0 
+MaxSpeed  928557687 18  7 c   f     -     -        10000  100    0 
+MaxSpeed  928557774 18  6 f   -     -     -         9900    0    0 
+MaxSpeed  928557857 16  4 f   -     -     -         9900    0    0 
+MaxSpeed  928557924 16  3 f   -     -     -         9900    0    0 
+MaxSpeed  928558001 16  2 Bk  b     b     k         9900 5800    0 3d Ah
+MaxSpeed  928558058 16  1 Bc  kf    -     -         4100  900    0 
+MaxSpeed  928558108 15 15 f   -     -     -         3200    0    0 
+MaxSpeed  928558189 15 15 c   b     bA    -         3200 3200    0 8c As
+MaxSpeed  928560937 23  7 f   -     -     -        10000    0    0 
+MaxSpeed  928560994 21  5 f   -     -     -        10000    0    0 
+MaxSpeed  928561090 21  4 cc  kf    -     -        10000  650    0 
+MaxSpeed  928561207 21  3 cccA -     -     -         9350 9350    0 Ah Jh
+MaxSpeed  928644140 21 19 f   -     -     -        10000    0    0 
+MaxSpeed  928644301 20 17 f   -     -     -        10000    0    0 
+MaxSpeed  928644432 20 16 c   b     r     cA       10000 10000    0 Ad 8h
+MaxSpeed  929939586 23 22 c   f     -     -         5000   30    0 
+MaxSpeed  929939702 23 21 f   -     -     -         4970    0    0 
+MaxSpeed  929939757 23 20 f   -     -     -         4970    0    0 
+MaxSpeed  929939836 23 19 c   b     f     -         4970  755    0 
+MaxSpeed  929939973 22 17 f   -     -     -         4215    0    0 
+MaxSpeed  929940060 22 17 c   f     -     -         4215   60    0 
+MaxSpeed  929940177 22 16 f   -     -     -         4155    0    0 
+MaxSpeed  929940293 21 15 f   -     -     -         4155    0    0 
+MaxSpeed  929940470 21 14 f   -     -     -         4155    0    0 
+MaxSpeed  929940557 20 13 f   -     -     -         4155    0    0 
+MaxSpeed  929940670 19 12 f   -     -     -         4155    0    0 
+MaxSpeed  929940737 19 11 c   f     -     -         4155  420    0 
+MaxSpeed  929940822 18 10 f   -     -     -         3735    0    0 
+MaxSpeed  929940906 18  9 f   -     -     -         3735    0    0 
+MaxSpeed  929940997 17  7 f   -     -     -         3735    0    0 
+MaxSpeed  929941054 17  6 c   f     -     -         3735  840    0 
+MaxSpeed  929941105 17  5 f   -     -     -         2895    0    0 
+MaxSpeed  929941201 16  3 f   -     -     -         2895    0    0 
+MaxSpeed  929941250 16  3 f   -     -     -         2895    0    0 
+MaxSpeed  929941305 16  2 Bc  bA    -     -         2895 2895    0 3c Kc

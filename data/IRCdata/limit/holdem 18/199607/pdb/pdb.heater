@@ -1,0 +1,85 @@
+heater    836372149  6  3 rr  brc   brc   kf        1000  160    0 
+heater    836372245  6  2 Br  br    brc   b          840  180  545 
+heater    836372381  6  1 Brc br    b     kc        1205  120    0 Js Qc
+heater    836372462  5  5 rr  rf    -     -         1085   70    0 
+heater    836372559  6  5 rc  rr    c     f         1015  100    0 
+heater    836372623  6  4 rr  brc   brc   bc         915  200  565 2c Ts
+heater    836372708  7  3 rr  b     b     b         1280   90    0 As 5c
+heater    836372756  8  2 Br  b     b     k         1190   50   65 2d Jc
+heater    836372849  9  1 Brc kf    -     -         1205   40    0 
+heater    836372995 10 10 rc  r     cc    f         1165  170    0 
+heater    836373128 10  9 rc  rc    f     -          995   70    0 
+heater    836373257 10  8 f   -     -     -          925    0    0 
+heater    836373425 10  8 r   rc    cc    f          925   90    0 
+heater    836373533  9  6 r   kc    kf    -          835   30    0 
+heater    836373659  9  5 rc  c     c     c          805   90  395 3s 6d
+heater    836373796  9  3 r   bc    bc    kc        1110  120    0 As 4h
+heater    836373905  9  2 Bc  bc    bc    brrrrrrc    990  355  755 5h 3d
+heater    836373978  7  1 Brc brc   b     KQ        1390  100    0 
+heater    836374267  7  7 f   -     -     -         1290    0    0 
+heater    836374316  7  6 rc  f     -     -         1290   30    0 
+heater    836374389  9  5 rc  c     r     b         1260  120    0 4d 8c
+heater    836374494  9  4 rc  br    kf    -         1140   80    0 
+heater    836374635  8  1 Br  br    bc    kc        1060  140    0 4s Ts
+heater    836374742  7  1 Brc br    b     b          920  110  360 Jd 6s
+heater    836374818  7  7 r   k     k     k         1170   30    0 9d 8c
+heater    836374974  8  7 rc  rc    cf    -         1140   90    0 
+heater    836375078  8  6 r   b     b     b         1050   70  200 7d 2s
+heater    836375153  8  5 r   br    k     k         1180   50  110 8c Qh
+heater    836375212  8  5 rr  kc    kc    kc        1240   90    0 Ac 7h
+heater    836375287  8  4 fQ  -     -     -         1150    0    0 
+heater    836376445  5  5 f   -     -     -         1150    0    0 
+heater    836376461  5  4 f   -     -     -         1150    0    0 
+heater    836376520  5  3 c   r     r     b         1150   90  200 7d Js
+heater    836376567  4  2 Br  b     b     b         1260   70  180 Ah 2s
+heater    836376618  4  1 BKQ -     -     -         1370    5    0 
+heater    836377206  6  4 c   b     k     k         1365   20    0 7s 4d
+heater    836377294  6  3 cc  k     k     k         1345   20    0 4h 5d
+heater    836377380  6  2 Br  b     brc   kf        1325  120    0 
+heater    836377438  6  1 Brc kc    k     k         1205   50    0 Ah 2c
+heater    836377507  6  6 r   f     -     -         1155   20    0 
+heater    836377561  6  5 c   c     b     b         1135   60  190 4h Jc
+heater    836377643  7  4 rc  k     rr    b         1265  140    0 Ts Ad
+heater    836377779  6  3 rr  bc    kc    kc        1125  100    0 7h 2s
+heater    836377839  6  2 Bk  k     kf    -         1025   10    0 
+heater    836377888  6  1 Bf  -     -     -         1015    5    0 
+heater    836377908  6  6 c   k     k     k         1010   10    0 3c 5d
+heater    836377980  6  5 r   k     f     -         1000   20    0 
+heater    836378028  6  4 rc  rr    kc    bc         980  140    0 Ac Td
+heater    836378117  7  3 rc  bc    b     b          840   90  360 As Js
+heater    836378223  7  2 Bf  -     -     -         1110   10    0 
+heater    836378297  7  1 Bf  -     -     -         1100    5    0 
+heater    836378349  7  7 f   -     -     -         1095    0    0 
+heater    836378408  6  5 f   Q     -     -         1095    0    0 
+heater    836428031  6  3 rr  b     b     bc        1095  110  270 Ks 2c
+heater    836428114  5  3 rr  rrc   c     c         1255  130    0 Ts 3s
+heater    836428169  4  2 Br  b     b     b         1125   70  145 Qd 8h
+heater    836428197  4  1 Brr b     b     b         1200   90  190 6c Qs
+heater    836428231  4  4 r   c     k     bf        1300   60    0 
+heater    836428324  4  3 f   -     -     -         1240    0    0 
+heater    836428360  4  2 Br  kc    kc    krf       1240  100    0 
+heater    836428451  5  1 Brc br    bc    krc       1140  200    0 Kd Ks
+heater    836428591  4  4 rc  rrc   c     rr         940  190  410 8c Ac
+heater    836428675  4  3 rc  bc    brc   brrrrrr   1160  390    0 Ac 5d
+heater    836428777  5  3 rc  f     -     -          770   30    0 
+heater    836428807  5  2 Bc  rc    kc    bc         740  110    0 Js Qs
+heater    836428886  6  1 Br  brrrrrrrc b     kc         630  220    0 7s 7d
+heater    836428972  6  6 f   -     -     -          410    0    0 
+heater    836428998  6  5 KQ  -     -     -          410    0    0 
+heater    836596288 10  9 c   c     f     -          410   20    0 
+heater    836596367  8  7 f   -     -     -          390    0    0 
+heater    836596487  8  6 r   cr    kc    kf         390   80    0 
+heater    836596660  8  4 c   kc    kr    b          310  100  425 6h Ac
+heater    836596752  7  3 rc  cc    cf    -          635   80    0 
+heater    836596834  8  2 Bc  c     c     c          555   70    0 8d 3d
+heater    836596878  6  1 Bf  -     -     -          485    5    0 
+heater    836596912  6  6 c   k     c     f          480   30    0 
+heater    836596982  7  5 r   k     k     b          450   40   75 
+heater    836597075  8  4 r   kc    k     k          485   30   75 2h 3h
+heater    836597121  7  3 fQ  -     -     -          530    0    0 
+heater    836632739  2  2 Brrrrrrrr -     -     -          530  170  330 
+heater    836632799  2  1 Brrrrrrrf -     -     -          690  140    0 
+heater    836632828  2  2 Brrrrrrf -     -     -          550  130    0 
+heater    836632847  2  1 Brrrrrf -     -     -          420  100    0 
+heater    836632870  2  2 Brrrrrrf -     -     -          320  130    0 
+heater    836632908  2  1 BrrrrrrrrrcA -     -     -          190  190    0 Td 2c

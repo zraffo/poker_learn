@@ -1,0 +1,472 @@
+waverley  960087162 23 21 f   -     -     -        10000    0    0 
+waverley  960087392 21 18 f   -     -     -        10000    0    0 
+waverley  960087570 21 17 f   -     -     -        10000    0    0 
+waverley  960087675 21 16 f   -     -     -        10000    0    0 
+waverley  960087775 19 14 f   -     -     -        10000    0    0 
+waverley  960087880 19 13 f   -     -     -        10000    0    0 
+waverley  960088030 19 12 c   f     -     -        10000  700    0 
+waverley  960088165 19 11 f   -     -     -         9300    0    0 
+waverley  960088293 17  9 f   -     -     -         9300    0    0 
+waverley  960088493 17  8 f   -     -     -         9300    0    0 
+waverley  960088571 16  7 c   b     -     -         9300 6200 9600 
+waverley  960088695 16  6 f   -     -     -        12700    0    0 
+waverley  960088793 15  5 c   f     -     -        12700  400    0 
+waverley  960088859 14  3 f   -     -     -        12300    0    0 
+waverley  960088946 14  2 Bf  -     -     -        12300  800    0 
+waverley  960088997 14  1 Bf  -     -     -        11500  400    0 
+waverley  960089069 13 13 c   f     -     -        11100  800    0 
+waverley  960089146 13 12 f   -     -     -        10300    0    0 
+waverley  960089234 13 11 f   -     -     -        10300    0    0 
+waverley  960089300 13 10 f   -     -     -        10300    0    0 
+waverley  960089383 12  8 f   -     -     -        10300    0    0 
+waverley  960089432 12  7 f   -     -     -        10300    0    0 
+waverley  960089530 12  6 f   -     -     -        10300    0    0 
+waverley  960089588 12  5 c   rA    -     -        10300 10300    0 Ac 7c
+waverley  960090825 20  7 rcA -     -     -        10000 10000    0 As Th
+waverley  960093951 14  5 r   b     b     kf       15000 7725    0 
+waverley  960094047 14  4 f   -     -     -         7275    0    0 
+waverley  960094131 14  3 f   -     -     -         7275    0    0 
+waverley  960094230 14  2 Bk  kf    -     -         7275  150    0 
+waverley  960094317 12  1 Bc  kc    kf    -         7125 1800    0 
+waverley  960094426 12 12 rA  -     -     -         5325 5325 18075 Ks Kh
+waverley  960094511 12 11 c   k     k     b        18075 1650 2706 As 9c
+waverley  960094626 11  9 c   c     bA    -        19131 19131 53406 Kc 6c
+waverley  960094697  9  6 cc  kf    -     -        53406 3300    0 
+waverley  960094788  8  5 c   f     -     -        50106  600    0 
+waverley  960094842  7  4 f   -     -     -        49506    0    0 
+waverley  960094875  6  3 c   b     f     -        49506 2400    0 
+waverley  960094918  6  2 Bf  -     -     -        47106  600    0 
+waverley  960094950  6  1 Bc  kr    -     -        46506 37500 75275 3d 4d
+waverley  960094989  5  5 f   -     -     -        84281    0    0 
+waverley  960095030  4  4 r   -     -     -        84281 4200 6000 
+waverley  960095038  4  3 f   -     -     -        86081    0    0 
+waverley  960095046  4  2 Bk  b     -     -        86081 4200 6000 
+waverley  960095058  4  1 Br  kf    -     -        87881 4800    0 
+waverley  960095078  4  4 c   k     k     k        83081 1200    0 3s 2s
+waverley  960095108  4  3 c   k     b     -        81881 4200 6000 
+waverley  960095135  4  2 B   -     -     -        83681 1200 1800 
+waverley  960095141  4  1 Bc  k     kf    -        84281 1200    0 
+waverley  960095162  4  4 cc  f     -     -        83081 5400    0 
+waverley  960095180  4  3 f   -     -     -        77681    0    0 
+waverley  960095187  4  2 Bk  kf    -     -        77681 1200    0 
+waverley  960095202  4  1 Br  -     -     -        76481 3600 4800 
+waverley  960095211  4  4 f   -     -     -        77681    0    0 
+waverley  960095250  4  3 cc  k     f     -        77681 4800    0 
+waverley  960095273  4  2 B   -     -     -        72881 1200 1800 
+waverley  960095277  4  1 Bc  kf    -     -        73481 4200    0 
+waverley  960095289  4  4 f   -     -     -        69281    0    0 
+waverley  960095313  4  3 c   b     -     -        69281 4200 6000 
+waverley  960095333  4  2 B   -     -     -        71081 1200 1800 
+waverley  960095338  4  1 Br  -     -     -        71681 4800 7200 
+waverley  960095345  4  4 r   -     -     -        74081 4200 6000 
+waverley  960095350  4  3 f   -     -     -        75881    0    0 
+waverley  960095354  4  2 Bk  b     b     k        75881 14400 28800 3s Td
+waverley  960095383  4  1 Bf  -     -     -        90281 1200    0 
+waverley  960095409  4  4 c   f     -     -        89081 2400    0 
+waverley  960095438  4  3 c   b     -     -        86681 8400 12000 
+waverley  960095452  4  2 B   -     -     -        90281 2400 3600 
+waverley  960095458  4  1 Bc  k     k     b        91481 7200 9600 
+waverley  960095474  4  4 r   rA    -     -        93881 93881 191206 4h Ac
+waverley  960095501  2  1 B   -     -     -       191206 2400 2400 
+waverley  960095502  2  1 Bf  -     -     -       191206 1200    0 
+waverley  960095509  2  2 B   -     -     -       190006 2400 3600 
+waverley  960095510  2  1 Bf  -     -     -       191206 1200    0 
+waverley  960095513  2  2 B   -     -     -       190006 2400 3600 
+waverley  960095514  2  1 Bc  k     k     b       191206 7200 9600 
+waverley  960095526  2  2 B   -     -     -       193606 2400 3600 
+waverley  960095527  2  1 B   -     -     -       194806 1200 1619 2s Qh
+waverley  960095721 18  2 Bk  kf    -     -        10000   50    0 
+waverley  960095818 18  1 Bc  kf    -     -         9950  375    0 
+waverley  960095922 18 18 f   -     -     -         9575    0    0 
+waverley  960096017 17 16 f   -     -     -         9575    0    0 
+waverley  960096091 17 15 c   f     -     -         9575 1200    0 
+waverley  960096168 16 13 f   -     -     -         8375    0    0 
+waverley  960096284 15 11 f   -     -     -         8375    0    0 
+waverley  960096371 14  9 f   -     -     -         8375    0    0 
+waverley  960096507 14  8 c   f     -     -         8375  200    0 
+waverley  960096580 13  6 f   -     -     -         8175    0    0 
+waverley  960096676 13  6 f   -     -     -         8175    0    0 
+waverley  960096749 13  5 f   -     -     -         8175    0    0 
+waverley  960096907 13  4 f   -     -     -         8175    0    0 
+waverley  960096980 13  3 cf  -     -     -         8175  400    0 
+waverley  960097022 13  2 Bk  kf    -     -         7775  400    0 
+waverley  960097121 12  1 Bc  k     kc    kcA       7375 7375 23325 5s 9s
+waverley  960097199 11 11 r   b     -     -        23325 9200 13200 
+waverley  960097250 11 10 f   -     -     -        27325    0    0 
+waverley  960097335 10  8 f   -     -     -        27325    0    0 
+waverley  960097382  9  7 f   -     -     -        27325    0    0 
+waverley  960097425  9  6 f   -     -     -        27325    0    0 
+waverley  960097460  9  5 r   b     -     -        27325 14800 22400 
+waverley  960097502  9  4 f   -     -     -        34925    0    0 
+waverley  960097548  9  3 c   k     f     -        34925  800    0 
+waverley  960097593  9  2 Bk  k     kf    -        34125 1600    0 
+waverley  960097639  9  1 Bc  kf    -     -        32525 1600    0 
+waverley  960097659  9  9 f   -     -     -        30925    0    0 
+waverley  960097700  9  8 r   b     -     -        30925 19200 27200 
+waverley  960097731  9  7 f   -     -     -        38925    0    0 
+waverley  960097786  9  6 f   -     -     -        38925    0    0 
+waverley  960097856  8  4 f   -     -     -        38925    0    0 
+waverley  960097902  7  3 f   -     -     -        38925    0    0 
+waverley  960097927  7  2 Bk  k     b     -        38925 14050 21700 Tc Ts
+waverley  960097971  6  1 Bc  kf    -     -        46575 3200    0 
+waverley  960098020  6  6 f   -     -     -        43375    0    0 
+waverley  960098050  6  5 c   f     -     -        43375 3200    0 
+waverley  960098098  6  4 f   -     -     -        40175    0    0 
+waverley  960098125  5  2 c   kc    k     k        40175 10300    0 Ts Tc
+waverley  960098192  4  2 Bk  k     k     k        29875 3200 9600 6h 8s
+waverley  960098232  4  1 Br  bA    -     -        36275 36275 52275 
+waverley  960098265  4  4 f   -     -     -        52275    0    0 
+waverley  960098277  4  3 c   k     b     -        52275 32000 14775 Ah 7c
+waverley  960098309  4  2 Bk  k     k     f        35050 6400    0 
+waverley  960098352  4  1 Bf  -     -     -        28650 3200    0 
+waverley  960098360  4  4 c   f     -     -        25450 6400    0 
+waverley  960098390  3  3 rA  -     -     -        19050 19050 28650 
+waverley  960098410  3  2 B   -     -     -        28650 6400 9600 
+waverley  960098415  3  1 Bf  -     -     -        31850 3200    0 
+waverley  960098422  3  3 f   -     -     -        28650    0    0 
+waverley  960098428  3  2 Bf  -     -     -        28650 6400    0 
+waverley  960098435  3  1 Br  -     -     -        22250 19200 25600 
+waverley  960098456  3  3 f   -     -     -        28650    0    0 
+waverley  960098462  3  2 Bc  bA    -     -        28650 28650    0 4s Ac
+waverley  960230285 16  8 f   -     -     -        10000    0    0 
+waverley  960230387 15  6 f   -     -     -        10000    0    0 
+waverley  960230489 15  5 f   -     -     -        10000    0    0 
+waverley  960230523 15  4 f   -     -     -        10000    0    0 
+waverley  960230621 15  3 f   -     -     -        10000    0    0 
+waverley  960230687 15  2 Bk  k     kf    -        10000  100    0 
+waverley  960230826 15  1 Bf  -     -     -         9900   50    0 
+waverley  960231000 15 15 f   -     -     -         9850    0    0 
+waverley  960231043 15 14 f   -     -     -         9850    0    0 
+waverley  960231152 15 13 c   rA    -     -         9850 9850 16550 
+waverley  960231197 15 12 c   f     -     -        16550 1300    0 
+waverley  960231256 14 10 c   f     -     -        15250 1300    0 
+waverley  960231330 13  8 f   -     -     -        13950    0    0 
+waverley  960231459 13  7 c   k     b     -        13950 1400 2400 
+waverley  960231539 13  6 c   f     -     -        14950  200    0 
+waverley  960231622 12  4 f   -     -     -        14750    0    0 
+waverley  960231700 12  3 c   k     k     b        14750 1800 2100 4c 3s
+waverley  960231758 12  2 Bk  f     -     -        15050  400    0 
+waverley  960231816 12  1 Bc  kf    -     -        14650  400    0 
+waverley  960231866 12 12 rc  -     -     -        14250 3250 7900 As 3s
+waverley  960231958 11 10 f   -     -     -        18900    0    0 
+waverley  960232011 11  9 f   -     -     -        18900    0    0 
+waverley  960232102 11  8 f   -     -     -        18900    0    0 
+waverley  960232128 11  7 f   -     -     -        18900    0    0 
+waverley  960232167 10  6 c   kf    -     -        18900  800    0 
+waverley  960232281  9  5 f   -     -     -        18100    0    0 
+waverley  960232328  9  4 f   -     -     -        18100    0    0 
+waverley  960232349  9  3 f   -     -     -        18100    0    0 
+waverley  960232381  9  2 Bk  k     kf    -        18100  800    0 
+waverley  960232473  9  1 Bc  k     k     kf       17300  800    0 
+waverley  960232524  9  9 f   -     -     -        16500    0    0 
+waverley  960232635  9  8 c   f     -     -        16500 1600    0 
+waverley  960232687  9  7 f   -     -     -        14900    0    0 
+waverley  960232711  9  6 f   -     -     -        14900    0    0 
+waverley  960232762  9  5 f   -     -     -        14900    0    0 
+waverley  960232810  9  4 c   f     -     -        14900 4100    0 
+waverley  960232857  9  3 f   -     -     -        10800    0    0 
+waverley  960232882  8  2 Bk  b     -     -        10800 6400 9600 
+waverley  960232908  8  1 Bf  -     -     -        14000  800    0 
+waverley  960232925  8  8 f   -     -     -        13200    0    0 
+waverley  960232949  8  7 c   b     -     -        13200 8800 16800 
+waverley  960232978  8  6 f   -     -     -        21200    0    0 
+waverley  960233030  8  5 f   -     -     -        21200    0    0 
+waverley  960233042  8  4 f   -     -     -        21200    0    0 
+waverley  960233063  8  3 f   -     -     -        21200    0    0 
+waverley  960233105  7  2 Bc  kf    -     -        21200 8000    0 
+waverley  960233165  7  1 Bc  k     k     b        13200 12800 19200 
+waverley  960233212  7  7 c   k     f     -        19600 3200    0 
+waverley  960233250  7  6 f   -     -     -        16400    0    0 
+waverley  960233278  7  5 c   b     -     -        16400 11200 16000 
+waverley  960233296  7  4 f   -     -     -        21200    0    0 
+waverley  960233317  7  3 c   f     -     -        21200 3200    0 
+waverley  960233338  7  2 Bf  -     -     -        18000 3200    0 
+waverley  960233354  7  1 BrA -     -     -        14800 14800    0 Kd Qs
+waverley  960234298 14 13 r   b     -     -        10000 3275 4950 
+waverley  960234360 14 12 f   -     -     -        11675    0    0 
+waverley  960234430 14 11 f   -     -     -        11675    0    0 
+waverley  960234501 14 10 f   -     -     -        11675    0    0 
+waverley  960234583 13  8 r   k     k     k        11675  275    0 8h 4h
+waverley  960234656 13  7 f   -     -     -        11400    0    0 
+waverley  960234750 13  6 cc  k     kf    -        11400  650    0 
+waverley  960234824 13  5 f   -     -     -        10750    0    0 
+waverley  960234933 12  3 cf  -     -     -        10750  100    0 
+waverley  960234970 10  2 Bf  -     -     -        10650  100    0 
+waverley  960235057  9  1 Bc  b     kf    -        10550  500    0 
+waverley  960235110  9  9 c   f     -     -        10050  100    0 
+waverley  960235172  9  8 cc  kf    -     -         9950  900    0 
+waverley  960235243  9  7 f   -     -     -         9050    0    0 
+waverley  960235322  8  5 c   b     -     -         9050 1000 1600 
+waverley  960235376  8  4 c   k     k     b         9650 1000    0 6h As
+waverley  960235434  8  3 cf  -     -     -         8650  200    0 
+waverley  960235522  8  2 Bk  kf    -     -         8450  200    0 
+waverley  960235567  8  1 Bc  k     kf    -         8250  400    0 
+waverley  960235712  7  7 cf  -     -     -         7850  400    0 
+waverley  960235771  7  6 c   k     k     k         7450  400 1000 Ad 6h
+waverley  960235814  7  5 f   -     -     -         8050    0    0 
+waverley  960235843  7  4 r   kf    -     -         8050 1400    0 
+waverley  960235937  7  3 c   k     f     -         6650  800    0 
+waverley  960236022  7  2 Bk  kf    -     -         5850  800    0 
+waverley  960236056  7  1 Bc  kf    -     -         5050  800    0 
+waverley  960236079  7  7 f   -     -     -         4250    0    0 
+waverley  960236086  6  6 f   -     -     -         4250    0    0 
+waverley  960236129  6  5 f   -     -     -         4250    0    0 
+waverley  960236160  6  4 f   -     -     -         4250    0    0 
+waverley  960236177  6  3 c   kf    -     -         4250  800    0 
+waverley  960236244  6  2 Bk  kf    -     -         3450  800    0 
+waverley  960236269  6  1 BrA -     -     -         2650 2650 11400 Ad Ac
+waverley  960236328  6  6 f   -     -     -        11400    0    0 
+waverley  960236354  6  5 f   -     -     -        11400    0    0 
+waverley  960236394  6  4 f   -     -     -        11400    0    0 
+waverley  960236421  6  3 f   -     -     -        11400    0    0 
+waverley  960236453  6  2 Bk  kf    -     -        11400 1600    0 
+waverley  960236498  6  1 Bc  k     kf    -         9800 1600    0 
+waverley  960236527  6  6 r   bA    -     -         8200 8200    0 8s Qs
+waverley  960240732 14 11 f   -     -     -        10000    0    0 
+waverley  960240916 14 10 f   -     -     -        10000    0    0 
+waverley  960240977 14  9 f   -     -     -        10000    0    0 
+waverley  960241112 14  8 f   -     -     -        10000    0    0 
+waverley  960241197 12  7 f   -     -     -        10000    0    0 
+waverley  960241247 12  6 f   -     -     -        10000    0    0 
+waverley  960241302 12  5 f   -     -     -        10000    0    0 
+waverley  960241359 12  4 f   -     -     -        10000    0    0 
+waverley  960241473 12  3 f   -     -     -        10000    0    0 
+waverley  960241638 12  2 Bk  k     kr    bA       10000 10000 19575 Jc 3d
+waverley  960241741 11  1 Br  -     -     -        19575  600  800 
+waverley  960241790 11 11 f   -     -     -        19775    0    0 
+waverley  960241859 11 10 f   -     -     -        19775    0    0 
+waverley  960241917 11  9 c   k     b     bf       19775 5200    0 
+waverley  960242010 11  8 f   -     -     -        14575    0    0 
+waverley  960242056 11  7 f   -     -     -        14575    0    0 
+waverley  960242076 11  6 f   -     -     -        14575    0    0 
+waverley  960242135 11  5 f   -     -     -        14575    0    0 
+waverley  960242205 11  4 cc  kf    -     -        14575 2200    0 
+waverley  960242265 11  3 f   -     -     -        12375    0    0 
+waverley  960242320 10  1 Bk  kf    -     -        12375  800    0 
+waverley  960242352 10  1 Bc  kf    -     -        11575  800    0 
+waverley  960242406 10 10 f   -     -     -        10775    0    0 
+waverley  960242457  9  8 f   -     -     -        10775    0    0 
+waverley  960242484  9  7 c   bA    -     -        10775 10775 16775 
+waverley  960242520  9  6 f   -     -     -        16775    0    0 
+waverley  960242573  9  5 f   -     -     -        16775    0    0 
+waverley  960242588  9  4 f   -     -     -        16775    0    0 
+waverley  960242635  8  2 f   -     -     -        16775    0    0 
+waverley  960242676  8  2 Bf  -     -     -        16775 1600    0 
+waverley  960242718  7  1 Bc  b     -     -        15175 6400 9600 
+waverley  960242750  7  7 c   f     -     -        18375 5600    0 
+waverley  960242790  7  6 r   -     -     -        12775 5600 8000 
+waverley  960242816  7  5 c   k     b     bA       15175 15175    0 4h Ad
+waverley  960253238 21  8 r   r     cA    -        10000 10000 21050 Ac As
+waverley  960253365 20  6 f   -     -     -        21050    0    0 
+waverley  960253520 20  5 cc  kf    -     -        21050  550    0 
+waverley  960253647 19  4 f   -     -     -        20500    0    0 
+waverley  960253728 19  3 f   -     -     -        20500    0    0 
+waverley  960253830 19  2 Bk  kf    -     -        20500  200    0 
+waverley  960253907 19  1 Bc  b     b     -        20300 19700 28200 
+waverley  960254071 19 19 cf  -     -     -        28800  800    0 
+waverley  960254168 17 16 f   -     -     -        28000    0    0 
+waverley  960254276 16 14 f   -     -     -        28000    0    0 
+waverley  960254322 15 12 f   -     -     -        28000    0    0 
+waverley  960254393 15 11 c   r     -     -        28000 11600 20450 6d 7h
+waverley  960254467 14  9 f   -     -     -        36850    0    0 
+waverley  960254540 14  8 f   -     -     -        36850    0    0 
+waverley  960254572 14  7 f   -     -     -        36850    0    0 
+waverley  960254671 14  6 c   kf    -     -        36850  800    0 
+waverley  960254766 13  5 r   bc    -     -        36050 9550    0 Qs Ts
+waverley  960254814 13  4 cc  k     kf    -        26500 4400    0 
+waverley  960254879 12  3 c   f     -     -        22100  800    0 
+waverley  960254934 12  2 Bk  k     k     k        21300  800    0 7c 8s
+waverley  960254982 12  1 Bf  -     -     -        20500  800    0 
+waverley  960255028 12 12 r   -     -     -        19700 7200 11200 
+waverley  960255063 12 11 f   -     -     -        23700    0    0 
+waverley  960255132 12 10 f   -     -     -        23700    0    0 
+waverley  960255174 11  8 f   -     -     -        23700    0    0 
+waverley  960255208 11  7 f   -     -     -        23700    0    0 
+waverley  960255246 11  6 c   k     b     c        23700 8600 19600 7c 8s
+waverley  960255307 10  4 f   -     -     -        34700    0    0 
+waverley  960255382 10  3 f   -     -     -        34700    0    0 
+waverley  960255416 10  2 Bf  -     -     -        34700 3200    0 
+waverley  960255437 10  1 Br  -     -     -        31500 9600 12800 
+waverley  960255462 10 10 c   k     f     -        34700 3200    0 
+waverley  960255522 10  9 f   -     -     -        31500    0    0 
+waverley  960255560 10  8 f   -     -     -        31500    0    0 
+waverley  960255587  9  6 f   -     -     -        31500    0    0 
+waverley  960255607  9  5 f   -     -     -        31500    0    0 
+waverley  960255635  8  4 f   -     -     -        31500    0    0 
+waverley  960255664  7  2 cf  -     -     -        31500 3200    0 
+waverley  960255696  6  1 Bf  -     -     -        28300 3200    0 
+waverley  960255731  6  1 Bc  b     -     -        25100 12800 19200 
+waverley  960255762  6  6 f   -     -     -        31500    0    0 
+waverley  960255775  6  5 f   -     -     -        31500    0    0 
+waverley  960255802  6  4 f   -     -     -        31500    0    0 
+waverley  960255891  6  3 f   -     -     -        31500    0    0 
+waverley  960255933  6  2 B   -     -     -        31500 6400 9600 
+waverley  960255942  6  1 Bc  bA    -     -        34700 34700 5100 Kh As
+waverley  960255978  6  6 cA  -     -     -         5100 5100    0 6h 5h
+waverley  960300614  9  1 Bc  kc    k     bf       10000 1250    0 
+waverley  960300769  9  9 c   k     k     k         8750   50    0 Jh Qc
+waverley  960300831  9  8 c   c     b     bA        8700 8700    0 Kd 7c
+waverley  960303018 18 13 r   f     -     -         5000  375    0 
+waverley  960303122 16 10 f   -     -     -         4625    0    0 
+waverley  960303198 16  9 f   -     -     -         4625    0    0 
+waverley  960303293 16  8 c   c     r     bA        4625 4625 8425 
+waverley  960303390 16  7 f   -     -     -         8425    0    0 
+waverley  960303461 16  6 f   -     -     -         8425    0    0 
+waverley  960303526 15  5 cc  kf    -     -         8425  550    0 
+waverley  960303585 15  4 f   -     -     -         7875    0    0 
+waverley  960303672 15  3 c   kf    -     -         7875  100    0 
+waverley  960303765 15  2 Bf  -     -     -         7775  200    0 
+waverley  960303800 15  1 Bf  -     -     -         7575  100    0 
+waverley  960303861 15 15 f   -     -     -         7475    0    0 
+waverley  960303930 12 11 c   c     f     -         7475 1200    0 
+waverley  960303995 12 10 r   -     -     -         6275 1300 2200 
+waverley  960304028 12  9 f   -     -     -         7175    0    0 
+waverley  960304094 12  8 f   -     -     -         7175    0    0 
+waverley  960304159 12  7 f   -     -     -         7175    0    0 
+waverley  960304216 12  6 c   k     k     f         7175  400    0 
+waverley  960304301 12  5 c   k     f     -         6775  400    0 
+waverley  960304355 12  4 r   -     -     -         6375 1400 2000 
+waverley  960304429 12  3 f   -     -     -         6975    0    0 
+waverley  960304452 12  2 Bc  bA    -     -         6975 6975 17950 Tc Kh
+waverley  960304510 11  1 Bc  kc    kf    -        17950 2300    0 
+waverley  960304580 11 11 f   -     -     -        15650    0    0 
+waverley  960304659 11 10 f   -     -     -        15650    0    0 
+waverley  960304678 10  8 c   f     -     -        15650  800    0 
+waverley  960304745 10  8 f   -     -     -        14850    0    0 
+waverley  960304787 10  7 f   -     -     -        14850    0    0 
+waverley  960304804  9  6 f   -     -     -        14850    0    0 
+waverley  960304838  9  5 f   -     -     -        14850    0    0 
+waverley  960304948  9  4 f   -     -     -        14850    0    0 
+waverley  960304968  8  3 f   -     -     -        14850    0    0 
+waverley  960305023  7  2 Bk  kf    -     -        14850 1600    0 
+waverley  960305160  7  1 Bf  -     -     -        13250 1600    0 
+waverley  960305192  7  7 c   rA    -     -        11650 11650    0 7h 6c
+waverley  960306071 20  1 Bc  kf    -     -        10000  650    0 
+waverley  960306193 20 20 f   -     -     -         9350    0    0 
+waverley  960306361 20 19 f   -     -     -         9350    0    0 
+waverley  960306422 19 17 c   f     -     -         9350  100    0 
+waverley  960306556 19 16 f   -     -     -         9250    0    0 
+waverley  960306639 19 15 f   -     -     -         9250    0    0 
+waverley  960306718 18 13 ccA -     -     -         9250 9250 28550 8s As
+waverley  960306851 17 12 f   -     -     -        28550    0    0 
+waverley  960306947 17 11 r   f     -     -        28550 1500    0 
+waverley  960307030 17 10 f   -     -     -        27050    0    0 
+waverley  960307082 17  9 cc  k     k     k        27050 2200    0 4d 3d
+waverley  960307179 17  8 f   -     -     -        24850    0    0 
+waverley  960307257 16  7 f   -     -     -        24850    0    0 
+waverley  960307334 16  6 f   -     -     -        24850    0    0 
+waverley  960307428 16  5 c   k     k     kf       24850  400    0 
+waverley  960307539 16  4 f   -     -     -        24450    0    0 
+waverley  960307610 16  3 c   k     b     k        24450 4400 14400 Ac Ks
+waverley  960307700 16  2 Bk  kf    -     -        34450  800    0 
+waverley  960307774 16  1 Bcf -     -     -        33650 2000    0 
+waverley  960307829 14 14 f   -     -     -        31650    0    0 
+waverley  960307880 12 12 f   -     -     -        31650    0    0 
+waverley  960307920 12 11 c   k     k     b        31650 14300 13300 6c 7c
+waverley  960307974 12 10 c   f     -     -        30650 1600    0 
+waverley  960308057 12  9 f   -     -     -        29050    0    0 
+waverley  960308099 12  8 f   -     -     -        29050    0    0 
+waverley  960308166 12  7 c   kf    -     -        29050 1600    0 
+waverley  960308207 12  6 f   -     -     -        27450    0    0 
+waverley  960308263 12  5 f   -     -     -        27450    0    0 
+waverley  960308368 12  4 f   -     -     -        27450    0    0 
+waverley  960308422 12  3 f   -     -     -        27450    0    0 
+waverley  960308459 12  2 Br  -     -     -        27450 9600 9600 Jh Ks
+waverley  960308490 12  1 Bc  kf    -     -        27450 3200    0 
+waverley  960308560 12 12 f   -     -     -        24250    0    0 
+waverley  960308616 12 11 f   -     -     -        24250    0    0 
+waverley  960308647 12 10 c   b     -     -        24250 11200 24000 
+waverley  960308710 12  9 f   -     -     -        37050    0    0 
+waverley  960308777 10  7 f   -     -     -        37050    0    0 
+waverley  960308831 10  6 c   k     b     -        37050 16400 30000 Qs Kh
+waverley  960308871  9  4 f   -     -     -        50650    0    0 
+waverley  960308895  9  4 f   -     -     -        50650    0    0 
+waverley  960308937  9  3 f   -     -     -        50650    0    0 
+waverley  960308957  9  2 B   -     -     -        50650 6400 2900 Jc 7h
+waverley  960308974  9  1 Bc  kf    -     -        47150 6400    0 
+waverley  960309018  7  7 r   -     -     -        40750 22400 32000 
+waverley  960309056  7  6 f   -     -     -        50350    0    0 
+waverley  960309077  7  5 f   -     -     -        50350    0    0 
+waverley  960309144  7  4 c   b     -     -        50350 25600 41900 Js 9s
+waverley  960309197  6  3 f   -     -     -        66650    0    0 
+waverley  960309222  6  2 Bf  -     -     -        66650 6400    0 
+waverley  960309244  6  1 Bf  -     -     -        60250 6400    0 
+waverley  960309258  6  6 f   -     -     -        53850    0    0 
+waverley  960309279  6  5 c   b     -     -        53850 32425 55475 5c 5d
+waverley  960309325  6  4 f   -     -     -        76900    0    0 
+waverley  960309354  5  3 f   -     -     -        76900    0    0 
+waverley  960309366  4  1 Bc  -     -     -        76900 14800 29600 5h 5c
+waverley  960309389  3  1 Br  -     -     -        91700 87200 124800 Ks Kc
+waverley  960309411  2  2 Bk  k     f     -       129300 12800    0 
+waverley  960309441  2  1 Bc  kr    -     -       116500 115200 198700 2d Qc
+waverley  960309784 13  8 f   -     -     -         3000    0    0 
+waverley  960309856 13  7 f   -     -     -         3000    0    0 
+waverley  960309906 13  6 f   -     -     -         3000    0    0 
+waverley  960309950 13  5 f   -     -     -         3000    0    0 
+waverley  960310023 13  4 f   -     -     -         3000    0    0 
+waverley  960310086 12  2 f   -     -     -         3000    0    0 
+waverley  960310197 12  2 Bf  -     -     -         3000   30    0 
+waverley  960310305 12  1 Bf  -     -     -         2970   30    0 
+waverley  960310328 12 12 f   -     -     -         2940    0    0 
+waverley  960310367 12 11 f   -     -     -         2940    0    0 
+waverley  960310449 11  9 f   -     -     -         2940    0    0 
+waverley  960310497 11  8 f   -     -     -         2940    0    0 
+waverley  960310581 11  7 f   -     -     -         2940    0    0 
+waverley  960310642 11  6 f   -     -     -         2940    0    0 
+waverley  960310701 11  5 f   -     -     -         2940    0    0 
+waverley  960310795 11  4 f   -     -     -         2940    0    0 
+waverley  960310841 11  3 f   -     -     -         2940    0    0 
+waverley  960310876 11  2 Bk  kf    -     -         2940  120    0 
+waverley  960310903 11  1 Bf  -     -     -         2820   60    0 
+waverley  960310949 11 11 f   -     -     -         2760    0    0 
+waverley  960310981 10  9 f   -     -     -         2760    0    0 
+waverley  960311011 10  9 f   -     -     -         2760    0    0 
+waverley  960311033 10  8 f   -     -     -         2760    0    0 
+waverley  960311053 10  7 f   -     -     -         2760    0    0 
+waverley  960311085 10  6 f   -     -     -         2760    0    0 
+waverley  960311121 10  5 f   -     -     -         2760    0    0 
+waverley  960311154 10  4 f   -     -     -         2760    0    0 
+waverley  960311207 10  3 f   -     -     -         2760    0    0 
+waverley  960311220 10  2 Bk  k     k     kf        2760  240    0 
+waverley  960311240 10  1 Bf  -     -     -         2520  120    0 
+waverley  960311265 10 10 f   -     -     -         2400    0    0 
+waverley  960311305 10  9 f   -     -     -         2400    0    0 
+waverley  960311332 10  8 f   -     -     -         2400    0    0 
+waverley  960311373 10  7 f   -     -     -         2400    0    0 
+waverley  960311427 10  6 f   -     -     -         2400    0    0 
+waverley  960311464 10  5 f   -     -     -         2400    0    0 
+waverley  960311494 10  4 f   -     -     -         2400    0    0 
+waverley  960311524  9  3 f   -     -     -         2400    0    0 
+waverley  960311550  9  2 Bk  k     kf    -         2400  240    0 
+waverley  960311568  9  1 Bf  -     -     -         2160  120    0 
+waverley  960311598  9  9 f   -     -     -         2040    0    0 
+waverley  960311623  8  7 f   -     -     -         2040    0    0 
+waverley  960311641  8  6 f   -     -     -         2040    0    0 
+waverley  960311665  7  5 f   -     -     -         2040    0    0 
+waverley  960311686  7  4 f   -     -     -         2040    0    0 
+waverley  960311694  7  3 f   -     -     -         2040    0    0 
+waverley  960311709  7  2 B   -     -     -         2040  480  720 
+waverley  960311719  7  1 Bf  -     -     -         2280  240    0 
+waverley  960311750  7  7 f   -     -     -         2040    0    0 
+waverley  960311773  7  6 f   -     -     -         2040    0    0 
+waverley  960311802  7  5 f   -     -     -         2040    0    0 
+waverley  960311821  7  4 f   -     -     -         2040    0    0 
+waverley  960311849  6  3 f   -     -     -         2040    0    0 
+waverley  960311868  6  2 Bf  -     -     -         2040  480    0 
+waverley  960311875  6  1 Bf  -     -     -         1560  240    0 
+waverley  960311917  6  6 f   -     -     -         1320    0    0 
+waverley  960311927  6  5 f   -     -     -         1320    0    0 
+waverley  960311944  6  4 f   -     -     -         1320    0    0 
+waverley  960311981  6  3 f   -     -     -         1320    0    0 
+waverley  960311987  6  2 Bf  -     -     -         1320  480    0 
+waverley  960312008  6  1 Bf  -     -     -          840  240    0 
+waverley  960312021  6  6 f   -     -     -          600    0    0 
+waverley  960312029  6  5 f   -     -     -          600    0    0 
+waverley  960312043  5  3 f   -     -     -          600    0    0 
+waverley  960312073  5  3 f   -     -     -          600    0    0 
+waverley  960312081  5  2 BA  -     -     -          600  600 1200 Js 7s
+waverley  960312095  5  1 Bf  -     -     -         1200  480    0 
+waverley  960312104  5  5 f   -     -     -          720    0    0 
+waverley  960312113  5  4 f   -     -     -          720    0    0 
+waverley  960312122  5  3 f   -     -     -          720    0    0 
+waverley  960312131  5  2 BA  -     -     -          720  720    0 Jh As

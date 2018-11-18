@@ -1,0 +1,823 @@
+davegood  973308536 15 11 f   -     -     -         5000    0    0 
+davegood  973308610 14 10 f   -     -     -         5000    0    0 
+davegood  973308671 14  9 cf  -     -     -         5000   50    0 
+davegood  973308804 14  8 c   k     k     k         4950   50  200 4s 7s
+davegood  973308869 14  7 f   -     -     -         5100    0    0 
+davegood  973308941 14  6 f   -     -     -         5100    0    0 
+davegood  973308985 13  5 c   bc    k     kc        5100 4350    0 7h Ac
+davegood  973309097 13  4 c   kf    -     -          750  100    0 
+davegood  973309231 13  3 f   -     -     -          650    0    0 
+davegood  973309291 13  2 Br  bA    -     -          650  650    0 Ks 7h
+davegood  973358149 17 14 c   k     k     k        10000  100    0 6c Tc
+davegood  973358229 17 13 f   -     -     -         9900    0    0 
+davegood  973358291 16 12 c   c     f     -         9900  650    0 
+davegood  973358335 16 11 c   k     k     c         9250  650    0 3c Qc
+davegood  973358423 16 10 f   -     -     -         8600    0    0 
+davegood  973358490 16  9 c   c     c     c         8600 3250    0 6c 6d
+davegood  973358600 16  8 f   -     -     -         5350    0    0 
+davegood  973358642 16  7 f   -     -     -         5350    0    0 
+davegood  973358681 16  6 f   -     -     -         5350    0    0 
+davegood  973358754 16  5 c   k     c     cA        5350 5350    0 9d Kd
+davegood  973369340 14  2 Bk  b     -     -        10000  225  350 
+davegood  973369402 14  1 Bf  -     -     -        10125   25    0 
+davegood  973369504 14 14 r   b     c     -        10100 10000    0 8d 8h
+davegood  973369577 14 13 rA  -     -     -          100  100    0 Ah 2c
+davegood  973394075 16 11 rc  cA    -     -         1000 1000    0 Ah Ad
+davegood  973480555 16 13 f   -     -     -        10000    0    0 
+davegood  973480638 16 12 cf  -     -     -        10000   50    0 
+davegood  973480727 14 10 c   k     k     f         9950   50    0 
+davegood  973480837 14  9 c   c     k     f         9900 1050    0 
+davegood  973480930 14  8 f   -     -     -         8850    0    0 
+davegood  973481035 14  7 c   c     k     c         8850  420    0 Ad 7c
+davegood  973481115 14  6 f   -     -     -         8430    0    0 
+davegood  973481239 14  5 f   -     -     -         8430    0    0 
+davegood  973481291 14  4 c   c     k     k         8430 1550    0 Ad 3c
+davegood  973481359 14  3 f   -     -     -         6880    0    0 
+davegood  973481423 13  2 Bf  -     -     -         6880  100    0 
+davegood  973481486 13  1 Bc  kf    -     -         6780  200    0 
+davegood  973481627 13 13 f   -     -     -         6580    0    0 
+davegood  973481698 13 12 c   cA    -     -         6580 6580    0 Js As
+davegood  973981430 16  1 Bf  -     -     -        10000   50    0 
+davegood  973981475 16 16 f   -     -     -         9950    0    0 
+davegood  973981522 15 14 f   -     -     -         9950    0    0 
+davegood  973981612 15 13 f   -     -     -         9950    0    0 
+davegood  973981645 15 12 f   -     -     -         9950    0    0 
+davegood  973981734 15 11 f   -     -     -         9950    0    0 
+davegood  973981767 15 10 f   -     -     -         9950    0    0 
+davegood  973981808 15  9 f   -     -     -         9950    0    0 
+davegood  973981848 15  8 c   b     b     -         9950 5000 7200 
+davegood  973981896 15  7 c   c     k     b        12150 7200 11400 4h Ac
+davegood  973981960 14  5 c   c     c     c        16350 10750 23300 As 8h
+davegood  973982034 13  3 f   -     -     -        28900    0    0 
+davegood  973982086 13  3 f   -     -     -        28900    0    0 
+davegood  973982150 13  2 Bcc kc    -     -        28900 19200 63750 Ac Ad
+davegood  973982216 10  1 Bc  b     b     b        73450 21200 28800 
+davegood  973982311 10 10 f   -     -     -        81050    0    0 
+davegood  973982339 10  9 c   k     k     k        81050 3800    0 8s Ah
+davegood  973982370  9  7 f   -     -     -        77250    0    0 
+davegood  973982392  9  6 f   -     -     -        77250    0    0 
+davegood  973982425  9  5 f   -     -     -        77250    0    0 
+davegood  973982447  9  4 f   -     -     -        77250    0    0 
+davegood  973982478  9  3 f   -     -     -        77250    0    0 
+davegood  973982505  9  2 Bk  kc    kc    kf       77250 5200    0 
+davegood  973982565  9  1 Bc  kf    -     -        72050  400    0 
+davegood  973982595  9  9 c   c     -     -        71650 5800 17200 6s 6d
+davegood  973982631  8  7 f   -     -     -        83050    0    0 
+davegood  973982660  8  6 f   -     -     -        83050    0    0 
+davegood  973982688  8  5 f   -     -     -        83050    0    0 
+davegood  973982721  8  4 c   c     k     k        83050 3800    0 Ad 8s
+davegood  973982776  8  3 c   kf    -     -        79250  800    0 
+davegood  973982834  8  2 Bk  kf    -     -        78450  800    0 
+davegood  973982884  8  1 Bc  k     k     k        77650  800    0 Ad 8c
+davegood  973982922  8  8 c   k     k     k        76850  800    0 Tc 8d
+davegood  973982974  8  7 c   c     k     k        76050 2600 8600 3s 3c
+davegood  973983013  7  5 c   k     f     -        82050 1600    0 
+davegood  973983047  7  4 f   -     -     -        80450    0    0 
+davegood  973983078  7  3 c   k     f     -        80450 1600    0 
+davegood  973983128  7  2 B   -     -     -        78850 1600 2400 
+davegood  973983132  7  1 Bc  k     b     -        79650 6400  900 Ad Td
+davegood  973983164  7  7 c   f     -     -        74150 1600    0 
+davegood  973983208  7  6 c   f     -     -        72550 4800    0 
+davegood  973983249  7  5 f   -     -     -        67750    0    0 
+davegood  973983269  7  4 f   -     -     -        67750    0    0 
+davegood  973983285  7  3 cf  -     -     -        67750 1600    0 
+davegood  973983307  6  2 B   -     -     -        66150 1600 2400 
+davegood  973983321  6  1 Bf  -     -     -        66950  800    0 
+davegood  973983348  6  6 cc  -     -     -        66150 7350 16300 8c Jc
+davegood  973983363  5  4 c   k     k     k        75100 3200 6400 Ts Ac
+davegood  973983402  5  4 c   k     k     b        78300 12800 19200 
+davegood  973983445  5  3 f   -     -     -        84700    0    0 
+davegood  973983458  4  2 Bk  k     kf    -        84700 3200    0 
+davegood  973983488  4  1 Bc  b     -     -        81500 12800 19200 
+davegood  973983504  4  4 f   -     -     -        87900    0    0 
+davegood  973983509  4  3 f   -     -     -        87900    0    0 
+davegood  973983547  4  2 B   -     -     -        87900 3200 4800 
+davegood  973983555  4  1 Bc  -     -     -        89500 1700 3400 8c 2h
+davegood  973983565  3  3 f   -     -     -        91200    0    0 
+davegood  973983578  3  3 f   -     -     -        91200    0    0 
+davegood  973983588  3  2 B   -     -     -        91200 3200 4800 
+davegood  973983593  3  1 Bc  b     kc    -        92800 29500    0 Qs Ad
+davegood  973983626  3  3 c   f     -     -        63300 3200    0 
+davegood  973983653  3  2 Bf  -     -     -        60100 3200    0 
+davegood  973983662  3  1 Bc  kc    k     k        56900 8200 16400 Js Qd
+davegood  973983685  3  3 f   -     -     -        65100    0    0 
+davegood  973983715  3  2 Bk  kf    -     -        65100 6400    0 
+davegood  973983734  3  1 Bc  k     k     k        58700 6400 6400 8c Ah
+davegood  973983751  3  3 f   -     -     -        58700    0    0 
+davegood  973983763  3  2 Bf  -     -     -        58700 6400    0 
+davegood  973983771  3  1 Bf  -     -     -        52300 3200    0 
+davegood  973983780  3  3 f   -     -     -        49100    0    0 
+davegood  973983807  3  2 B   -     -     -        49100 6400 9600 
+davegood  973983811  3  1 Br  b     -     -        52300 48000 64000 
+davegood  973983821  3  3 f   -     -     -        68300    0    0 
+davegood  973983829  3  2 Bc  kc    -     -        68300 26800    0 3h Jd
+davegood  973983860  3  1 Bf  -     -     -        41500 3200    0 
+davegood  973983874  3  3 r   -     -     -        38300 16000 25600 
+davegood  973983880  3  2 B   -     -     -        47900 6400 9600 
+davegood  973983883  3  1 Bf  -     -     -        51100 3200    0 
+davegood  973983891  3  3 c   k     k     b        47900 25600 38400 
+davegood  973983925  3  2 Bc  k     k     b        60700 41600 79200 As 2d
+davegood  973983952  2  1 Bf  -     -     -        98300 3200    0 
+davegood  973983961  2  2 Bc  k     k     k        95100 19200 38400 Jh Jd
+davegood  973983978  2  1 Bc  kf    -     -       114300 6400    0 
+davegood  973984003  2  2 B   -     -     -       107900 6400 9600 
+davegood  973984005  2  1 Bcc kf    -     -       111100 19200    0 
+davegood  973984035  2  2 B   -     -     -        91900 6400 9600 
+davegood  973984038  2  1 Bc  kf    -     -        95100 6400    0 
+davegood  973984068  2  2 B   -     -     -        88700 6400 9600 
+davegood  973984070  2  1 Bc  b     bA    -        91900 91900 111100 
+davegood  973984103  2  2 B   -     -     -       111100 12800 19200 
+davegood  973984105  2  1 Bc  k     k     kf      117500 12800    0 
+davegood  973984138  2  2 Bf  -     -     -       104700 12800    0 
+davegood  973984143  2  1 Bc  kc    kf    -        91900 38400    0 
+davegood  973984195  2  2 B   -     -     -        53500 12800 19200 
+davegood  973984200  2  1 Bf  -     -     -        59900 6400    0 
+davegood  973984211  2  2 Bf  -     -     -        53500 12800    0 
+davegood  973984217  2  1 Bf  -     -     -        40700 6400    0 
+davegood  973984223  2  2 B   -     -     -        34300 12800 19200 
+davegood  973984226  2  1 Bf  -     -     -        40700 6400    0 
+davegood  973984231  2  2 BcA -     -     -        34300 34300 34300 Td 4h
+davegood  973984237  2  1 Bc  k     k     k        34300 12800    0 Kd Ad
+davegood  973984267  2  2 BcA -     -     -        21500 21500    0 9c Jc
+davegood  973984493 11  1 Bc  kf    -     -        10000   50    0 
+davegood  973984550 11 11 f   -     -     -         9950    0    0 
+davegood  973984633 10 10 c   k     k     k         9950  275    0 8s Ts
+davegood  973984790 10  9 c   f     -     -         9675  175    0 
+davegood  973984820 10  8 f   -     -     -         9500    0    0 
+davegood  973984867 10  7 f   -     -     -         9500    0    0 
+davegood  973984912  9  6 f   -     -     -         9500    0    0 
+davegood  973984975  9  5 f   -     -     -         9500    0    0 
+davegood  973985007  8  3 cc  rA    -     -         9500 9500 1725 Th Qh
+davegood  973985072  8  3 f   -     -     -         1725    0    0 
+davegood  973985124  8  2 Bf  -     -     -         1725  100    0 
+davegood  973985153  8  1 Bf  -     -     -         1625   50    0 
+davegood  973985181  8  8 f   -     -     -         1575    0    0 
+davegood  973985218  8  7 f   -     -     -         1575    0    0 
+davegood  973985234  8  6 f   -     -     -         1575    0    0 
+davegood  973985296  8  5 f   -     -     -         1575    0    0 
+davegood  973985313  8  4 f   -     -     -         1575    0    0 
+davegood  973985348  8  3 f   -     -     -         1575    0    0 
+davegood  973985427  8  2 Bf  -     -     -         1575  200    0 
+davegood  973985470  8  1 BrA -     -     -         1375 1375    0 7d 7s
+davegood  973995612 18 11 c   c     c     k        10000 3650    0 Js Tc
+davegood  973995772 18 10 f   -     -     -         6350    0    0 
+davegood  973995920 18  9 f   -     -     -         6350    0    0 
+davegood  973995996 18  8 f   -     -     -         6350    0    0 
+davegood  973996068 15  7 f   -     -     -         6350    0    0 
+davegood  973996218 15  6 c   k     f     -         6350  100    0 
+davegood  973996374 15  4 Q   -     -     -         6250    0    0 
+davegood  974002634 17  6 cc  kf    -     -        10000  650    0 
+davegood  974002749 17  5 f   -     -     -         9350    0    0 
+davegood  974002868 17  4 f   -     -     -         9350    0    0 
+davegood  974002946 15  3 f   -     -     -         9350    0    0 
+davegood  974003016 15  2 Bk  kc    k     bcA       9350 9350    0 6h 3d
+davegood  974052337  9  3 cc  k     k     k        10000  130  350 Td Ad
+davegood  974052475  9  2 Bk  kc    k     k        10220   90  210 Qh 8s
+davegood  974052553  9  1 Bc  k     k     kf       10340   20    0 
+davegood  974052622  9  9 f   -     -     -        10320    0    0 
+davegood  974052691  9  8 f   -     -     -        10320    0    0 
+davegood  974052754  9  7 f   -     -     -        10320    0    0 
+davegood  974052803  9  6 f   -     -     -        10320    0    0 
+davegood  974052845  9  5 cc  c     k     kc       10320 6280    0 Ah 7h
+davegood  974052934  9  4 c   r     bA    -         4040 4040 9760 6c Ad
+davegood  974053001  9  3 cc  kf    -     -         9760  180    0 
+davegood  974053063  9  2 Bf  -     -     -         9580   40    0 
+davegood  974053143  8  1 Bf  -     -     -         9540   40    0 
+davegood  974053173  8  8 f   -     -     -         9500    0    0 
+davegood  974053227  8  7 f   -     -     -         9500    0    0 
+davegood  974053281  8  6 rc  bc    -     -         9500 5790    0 Kc Kd
+davegood  974053334  8  5 f   -     -     -         3710    0    0 
+davegood  974053377  8  4 f   -     -     -         3710    0    0 
+davegood  974053409  8  3 c   bA    -     -         3710 3710 7580 8c 8d
+davegood  974053460  8  2 Bf  -     -     -         7580   80    0 
+davegood  974053493  8  1 Bc  k     kf    -         7500   80    0 
+davegood  974053558  8  8 f   -     -     -         7420    0    0 
+davegood  974053620  8  7 f   -     -     -         7420    0    0 
+davegood  974053648  8  6 r   k     r     -         7420 5840 11350 Qh Qs
+davegood  974053706  7  4 c   k     k     k        12930  160    0 Ah 3c
+davegood  974053835  7  4 f   -     -     -        12770    0    0 
+davegood  974053860  7  3 c   c     k     k        12770  720 1680 Kh Ks
+davegood  974053903  7  2 Bk  kc    kf    -        13730  720    0 
+davegood  974053947  7  1 Bf  -     -     -        13010  160    0 
+davegood  974054001  7  7 f   -     -     -        12850    0    0 
+davegood  974054034  7  6 c   k     k     c        12850 1760 4320 Jd Tc
+davegood  974054086  7  5 f   -     -     -        15410    0    0 
+davegood  974054126  7  4 f   -     -     -        15410    0    0 
+davegood  974054166  7  3 c   kf    -     -        15410  320    0 
+davegood  974054218  7  2 Bk  k     k     k        15090  320    0 6h Ks
+davegood  974054255  7  1 Bc  b     b     kc       14770 8480 17280 2s Jc
+davegood  974054308  7  7 f   -     -     -        23570    0    0 
+davegood  974054336  7  6 f   -     -     -        23570    0    0 
+davegood  974054380  6  4 f   -     -     -        23570    0    0 
+davegood  974054404  6  3 f   -     -     -        23570    0    0 
+davegood  974054449  6  2 Bf  -     -     -        23570  640    0 
+davegood  974054478  6  1 Bf  -     -     -        22930  320    0 
+davegood  974054493  6  6 f   -     -     -        22610    0    0 
+davegood  974054515  5  4 r   -     -     -        22610 1280 1920 
+davegood  974054527  5  4 r   b     -     -        23250 5760 8320 
+davegood  974054545  5  3 f   -     -     -        25810    0    0 
+davegood  974054570  5  2 Bk  c     b     b        25810 16960 3410 Qs Jd
+davegood  974054622  5  1 Bf  -     -     -        12260  320    0 
+davegood  974054637  5  5 f   -     -     -        11940    0    0 
+davegood  974054660  5  4 f   -     -     -        11940    0    0 
+davegood  974054670  5  3 c   k     k     b        11940 5760 8960 
+davegood  974054711  5  2 Bk  k     k     k        15140 1280 3200 8d 6h
+davegood  974054734  5  1 Bc  b     b     bA       17060 17060 34120 Ts Td
+davegood  974054767  5  5 cc  -     -     -        34120 4610    0 Kd Jd
+davegood  974054789  5  4 f   -     -     -        29510    0    0 
+davegood  974054804  5  3 cf  -     -     -        29510 1280    0 
+davegood  974054836  5  2 Bf  -     -     -        28230 1280    0 
+davegood  974054861  4  1 Bc  b     bc    kc       26950 23350    0 5d Jh
+davegood  974054912  4  4 f   -     -     -         3600    0    0 
+davegood  974054932  4  3 f   -     -     -         3600    0    0 
+davegood  974054936  4  2 Bk  k     k     k         3600 1280 2560 8s 7h
+davegood  974054959  4  1 Bc  k     k     bA        4880 4880 11040 9c 9d
+davegood  974054985  4  4 f   -     -     -        11040    0    0 
+davegood  974055015  4  3 f   -     -     -        11040    0    0 
+davegood  974055024  4  2 Bk  k     k     k        11040 1280    0 Kc Ts
+davegood  974055050  4  1 Bf  -     -     -         9760 1280    0 
+davegood  974055068  4  4 f   -     -     -         8480    0    0 
+davegood  974055090  4  3 f   -     -     -         8480    0    0 
+davegood  974055098  4  2 B   -     -     -         8480 2560 3840 
+davegood  974055102  4  1 Bc  bA    -     -         9760 9760 22080 Kh Kc
+davegood  974055117  4  4 f   -     -     -        22080    0    0 
+davegood  974055132  4  3 f   -     -     -        22080    0    0 
+davegood  974055144  4  2 Bf  -     -     -        22080 2560    0 
+davegood  974055159  4  1 Bc  k     b     b        19520 15360 30720 Td Ad
+davegood  974055201  4  4 f   -     -     -        34880    0    0 
+davegood  974055214  4  3 cc  k     k     k        34880 12800 15360 Qc Ac
+davegood  974055258  4  2 Bk  kf    -     -        37440 2560    0 
+davegood  974055297  4  1 Bc  kf    -     -        34880 2560    0 
+davegood  974055324  4  4 f   -     -     -        32320    0    0 
+davegood  974055339  4  3 f   -     -     -        32320    0    0 
+davegood  974055357  4  2 Bf  -     -     -        32320 2560    0 
+davegood  974055373  4  1 Bf  -     -     -        29760 1280    0 
+davegood  974055385  4  4 f   -     -     -        28480    0    0 
+davegood  974055397  4  3 r   b     -     -        28480 20480 28160 
+davegood  974055414  4  2 Bf  -     -     -        36160 5120    0 
+davegood  974055424  4  1 Bc  -     -     -        31040 2850 5700 2h As
+davegood  974055439  3  3 f   -     -     -        33890    0    0 
+davegood  974055448  3  3 c   k     k     f        33890 5120    0 
+davegood  974055490  3  2 B   -     -     -        28770 5120 7680 
+davegood  974055498  3  1 Bc  k     k     k        31330 5120    0 7h As
+davegood  974055521  3  3 f   -     -     -        26210    0    0 
+davegood  974055530  3  2 Bk  kf    -     -        26210 5120    0 
+davegood  974055555  3  1 Br  bA    -     -        21090 21090 21090 Ac 6c
+davegood  974055571  3  3 f   -     -     -        21090    0    0 
+davegood  974055585  3  2 Bk  k     k     k        21090 5120 10240 Tc 4s
+davegood  974055602  3  1 Bc  b     -     -        26210 15360 20480 
+davegood  974055616  3  3 c   b     bA    -        31330 31330 13050 7h Ac
+davegood  974055647  3  2 Bk  cA    -     -        13050 13050    0 4d As
+davegood  974055872 18  6 cc  bcA   -     -        10000 10000    0 3c Ah
+davegood  974058881 15  3 f   -     -     -        10000    0    0 
+davegood  974058943 15  2 Bf  -     -     -        10000   50    0 
+davegood  974058977 15  1 Bf  -     -     -         9950   25    0 
+davegood  974059009 15 15 f   -     -     -         9925    0    0 
+davegood  974059086 15 14 f   -     -     -         9925    0    0 
+davegood  974059140 13 12 f   -     -     -         9925    0    0 
+davegood  974059167 13 11 c   f     -     -         9925   50    0 
+davegood  974059236 12  9 f   -     -     -         9875    0    0 
+davegood  974059319 12  8 f   -     -     -         9875    0    0 
+davegood  974059382 12  7 f   -     -     -         9875    0    0 
+davegood  974059435 12  6 c   f     -     -         9875  100    0 
+davegood  974059527 10  3 f   -     -     -         9775    0    0 
+davegood  974059593 10  3 f   -     -     -         9775    0    0 
+davegood  974059648 10  2 Bf  -     -     -         9775  100    0 
+davegood  974059724 10  1 Bf  -     -     -         9675  100    0 
+davegood  974059769 10 10 c   f     -     -         9575  200    0 
+davegood  974059849 10  9 f   -     -     -         9375    0    0 
+davegood  974059899 10  8 f   -     -     -         9375    0    0 
+davegood  974059961 10  7 cc  kc    k     kf        9375 4700    0 
+davegood  974060038 10  6 f   -     -     -         4675    0    0 
+davegood  974060077 10  5 c   f     -     -         4675  200    0 
+davegood  974060147 10  4 f   -     -     -         4475    0    0 
+davegood  974060191 10  3 f   -     -     -         4475    0    0 
+davegood  974060261 10  2 BcA -     -     -         4475 4475    0 Td Jc
+davegood  974346462 13 12 f   -     -     -         5000    0    0 
+davegood  974346628 11 10 c   k     f     -         5000   30    0 
+davegood  974346719 11  9 r   kf    -     -         4970  135    0 
+davegood  974346824 11  8 f   -     -     -         4835    0    0 
+davegood  974346883 11  7 f   -     -     -         4835    0    0 
+davegood  974346959 11  6 f   -     -     -         4835    0    0 
+davegood  974347043 11  5 f   -     -     -         4835    0    0 
+davegood  974347157 10  4 f   -     -     -         4835    0    0 
+davegood  974347236 10  3 f   -     -     -         4835    0    0 
+davegood  974347295 10  2 Bk  kf    -     -         4835  120    0 
+davegood  974347356  9  1 Bf  -     -     -         4715   60    0 
+davegood  974347396  9  9 f   -     -     -         4655    0    0 
+davegood  974347445  9  8 f   -     -     -         4655    0    0 
+davegood  974347481  9  7 f   -     -     -         4655    0    0 
+davegood  974347501  9  6 f   -     -     -         4655    0    0 
+davegood  974347559  9  5 f   -     -     -         4655    0    0 
+davegood  974347599  9  4 f   -     -     -         4655    0    0 
+davegood  974347631  8  3 f   -     -     -         4655    0    0 
+davegood  974347654  8  2 Bk  f     -     -         4655  240    0 
+davegood  974347689  8  1 Bf  -     -     -         4415  120    0 
+davegood  974347736  8  8 f   -     -     -         4295    0    0 
+davegood  974347802  8  7 f   -     -     -         4295    0    0 
+davegood  974347853  8  6 f   -     -     -         4295    0    0 
+davegood  974347912  8  5 f   -     -     -         4295    0    0 
+davegood  974347940  8  4 f   -     -     -         4295    0    0 
+davegood  974348001  7  3 f   -     -     -         4295    0    0 
+davegood  974348044  7  2 Bk  kf    -     -         4295  480    0 
+davegood  974348076  7  1 Bf  -     -     -         3815  240    0 
+davegood  974348103  7  7 f   -     -     -         3575    0    0 
+davegood  974348130  7  6 f   -     -     -         3575    0    0 
+davegood  974348162  7  5 f   -     -     -         3575    0    0 
+davegood  974348194  7  4 f   -     -     -         3575    0    0 
+davegood  974348200  7  3 f   -     -     -         3575    0    0 
+davegood  974348255  7  2 Bk  f     -     -         3575  480    0 
+davegood  974348288  6  1 Bc  b     bA    -         3095 3095    0 Qs 2s
+davegood  974428634 15 14 f   -     -     -        10000    0    0 
+davegood  974428725 14 12 f   -     -     -        10000    0    0 
+davegood  974428870 13 10 f   -     -     -        10000    0    0 
+davegood  974428918 13  9 f   -     -     -        10000    0    0 
+davegood  974428996 13  8 f   -     -     -        10000    0    0 
+davegood  974429126 13  7 c   c     c     bA       10000 10000 15400 
+davegood  974429238 13  6 cf  -     -     -        15400  275    0 
+davegood  974429279  9  2 f   -     -     -        15125    0    0 
+davegood  974429338  9  2 Br  kc    k     k        15125 3100    0 Kh Ks
+davegood  974429439  9  1 Br  b     -     -        12025 2275 3500 As Ac
+davegood  974429469  8  8 f   -     -     -        13250    0    0 
+davegood  974429544  8  7 c   c     c     c        13250 6650    0 Qs Ad
+davegood  974429588  8  6 f   -     -     -         6600    0    0 
+davegood  974429601  8  5 f   -     -     -         6600    0    0 
+davegood  974429634  7  3 c   k     f     -         6600  200    0 
+davegood  974429666  7  2 Bk  bc    kf    -         6400 1950    0 
+davegood  974429729  7  1 Bc  bcA   -     -         4450 4450    0 6d 6h
+davegood  974434674 12 11 f   -     -     -        10000    0    0 
+davegood  974434754 12 10 f   -     -     -        10000    0    0 
+davegood  974434849 12  9 ccccA -     -     -        10000 10000    0 Ah 5h
+davegood  974569152 10  4 c   b     b     kc        3000 2100    0 9d 9h
+davegood  974569237 10  3 cf  -     -     -          900   20    0 
+davegood  974569332 10  2 Bf  -     -     -          880   20    0 
+davegood  974569363 10  1 Bc  k     k     k          860   20    0 4s 2c
+davegood  974569429 10 10 f   -     -     -          840    0    0 
+davegood  974569500 10  9 f   -     -     -          840    0    0 
+davegood  974569523 10  8 c   k     k     f          840  180    0 
+davegood  974569590 10  7 c   f     -     -          660   40    0 
+davegood  974569641 10  6 c   f     -     -          620   40    0 
+davegood  974569677 10  5 f   -     -     -          580    0    0 
+davegood  974569722 10  4 cc  k     bA    -          580  580    0 Qh 8h
+davegood  974580668 14  4 f   -     -     -        10000    0    0 
+davegood  974580803 13  3 f   -     -     -        10000    0    0 
+davegood  974580876 13  2 Bk  kf    -     -        10000  100    0 
+davegood  974580933 13  1 Bf  -     -     -         9900   50    0 
+davegood  974581001 13 13 f   -     -     -         9850    0    0 
+davegood  974581074 13 12 f   -     -     -         9850    0    0 
+davegood  974581170 13 11 f   -     -     -         9850    0    0 
+davegood  974581271 12  9 f   -     -     -         9850    0    0 
+davegood  974581375 11  9 f   -     -     -         9850    0    0 
+davegood  974581476 11  8 f   -     -     -         9850    0    0 
+davegood  974581521 11  7 c   b     -     -         9850 3200 5700 Tc 6c
+davegood  974581606 10  5 c   k     kf    -        12350  400    0 
+davegood  974581663 10  5 c   k     k     kc       11950 2200    0 Ad 7d
+davegood  974581718 10  4 c   b     -     -         9750 2400 4000 
+davegood  974581746 10  3 cf  -     -     -        11350  400    0 
+davegood  974581787  9  2 Bk  kf    -     -        10950  400    0 
+davegood  974581819  9  1 Bc  k     kf    -        10550  400    0 
+davegood  974581896  9  9 c   k     f     -        10150  800    0 
+davegood  974581972  9  8 f   -     -     -         9350    0    0 
+davegood  974582017  8  6 f   -     -     -         9350    0    0 
+davegood  974582061  8  6 f   -     -     -         9350    0    0 
+davegood  974582107  8  5 f   -     -     -         9350    0    0 
+davegood  974582133  8  4 cc  bA    -     -         9350 9350 21350 8h Ah
+davegood  974582173  7  2 f   -     -     -        21350    0    0 
+davegood  974582201  7  2 Bk  kf    -     -        21350  800    0 
+davegood  974582281  7  1 Bf  -     -     -        20550  800    0 
+davegood  974582323  7  7 f   -     -     -        19750    0    0 
+davegood  974582358  7  6 f   -     -     -        19750    0    0 
+davegood  974582374  7  5 f   -     -     -        19750    0    0 
+davegood  974582426  7  4 f   -     -     -        19750    0    0 
+davegood  974582502  6  3 f   -     -     -        19750    0    0 
+davegood  974582518  6  2 Bk  k     k     kf       19750 1600    0 
+davegood  974582590  6  1 Br  k     bA    -        18150 18150 41900 Ac Ah
+davegood  974582646  6  6 c   k     k     k        41900 3600 9600 Kh Qs
+davegood  974582707  6  5 c   c     -     -        47900 40225    0 Ks Kh
+davegood  974582744  6  4 cf  -     -     -         7675 3200    0 
+davegood  974582789  6  3 c   k     kcA   -         4475 4475    0 2d Kd
+davegood  974647966 11  7 f   -     -     -         1000    0    0 
+davegood  974648025 11  6 f   -     -     -         1000    0    0 
+davegood  974648102 10  5 c   f     -     -         1000   20    0 
+davegood  974648179 10  4 f   -     -     -          980    0    0 
+davegood  974648229  9  3 f   -     -     -          980    0    0 
+davegood  974648255  9  2 Bf  -     -     -          980   20    0 
+davegood  974648321  9  1 Bf  -     -     -          960   20    0 
+davegood  974648357  9  9 f   -     -     -          940    0    0 
+davegood  974648410  9  8 f   -     -     -          940    0    0 
+davegood  974648436  8  6 f   -     -     -          940    0    0 
+davegood  974648475  8  5 f   -     -     -          940    0    0 
+davegood  974648539  8  4 f   -     -     -          940    0    0 
+davegood  974648571  8  3 cc  kc    kf    -          940  235    0 
+davegood  974648631  8  2 Bk  rcA   -     -          705  705 1410 As Ah
+davegood  974648694  8  1 Bc  kf    -     -         1410   80    0 
+davegood  974648728  8  8 c   c     f     -         1330  360    0 
+davegood  974648778  8  7 f   -     -     -          970    0    0 
+davegood  974648827  8  6 f   -     -     -          970    0    0 
+davegood  974648835  8  5 f   -     -     -          970    0    0 
+davegood  974648852  8  4 c   kc    k     k          970  440    0 8h Kh
+davegood  974648906  8  3 f   -     -     -          530    0    0 
+davegood  974648939  8  2 Bk  k     k     f          530   80    0 
+davegood  974648997  8  1 Bf  -     -     -          450   40    0 
+davegood  974649029  8  8 f   -     -     -          410    0    0 
+davegood  974649042  8  7 f   -     -     -          410    0    0 
+davegood  974649079  8  6 r   k     k     k          410  360 1320 7s 7c
+davegood  974649118  8  5 f   -     -     -         1370    0    0 
+davegood  974649151  8  4 f   -     -     -         1370    0    0 
+davegood  974649197  8  3 c   k     b     k         1370  720    0 9c 9h
+davegood  974649280  8  2 Bk  kf    -     -          650  160    0 
+davegood  974649316  8  1 Bc  bA    -     -          490  490  310 Js Kh
+davegood  974649370  8  8 f   -     -     -          310    0    0 
+davegood  974649396  8  7 f   -     -     -          310    0    0 
+davegood  974649460  8  6 f   -     -     -          310    0    0 
+davegood  974649498  6  4 f   -     -     -          310    0    0 
+davegood  974649542  6  3 cA  -     -     -          310  310    0 Kc Ks
+davegood  974650114 10  2 Bc  k     kc    k        10000  487    0 9d 6d
+davegood  974650233 10  1 Bc  kc    b     bcA       9513 9513 19126 Qd Kc
+davegood  974650303 10 10 f   -     -     -        19126    0    0 
+davegood  974650354 10  9 c   f     -     -        19126   50    0 
+davegood  974650438 10  8 f   -     -     -        19076    0    0 
+davegood  974650502 10  7 f   -     -     -        19076    0    0 
+davegood  974650648 10  6 f   -     -     -        19076    0    0 
+davegood  974650729 10  5 c   f     -     -        19076  100    0 
+davegood  974650821  9  3 f   -     -     -        18976    0    0 
+davegood  974650861  9  2 Bc  kcf   -     -        18976 1450    0 
+davegood  974650942  9  1 Bf  -     -     -        17526  100    0 
+davegood  974650995  9  9 f   -     -     -        17426    0    0 
+davegood  974651057  8  7 f   -     -     -        17426    0    0 
+davegood  974651130  8  6 f   -     -     -        17426    0    0 
+davegood  974651178  8  5 f   -     -     -        17426    0    0 
+davegood  974651213  8  4 c   f     -     -        17426  200    0 
+davegood  974651296  8  3 f   -     -     -        17226    0    0 
+davegood  974651360  8  2 Bk  k     kf    -        17226  400    0 
+davegood  974651436  8  1 Bf  -     -     -        16826  200    0 
+davegood  974651473  8  8 f   -     -     -        16626    0    0 
+davegood  974651504  8  7 f   -     -     -        16626    0    0 
+davegood  974651534  8  6 f   -     -     -        16626    0    0 
+davegood  974651590  8  5 f   -     -     -        16626    0    0 
+davegood  974651716  8  4 cf  -     -     -        16626  400    0 
+davegood  974651791  8  3 f   -     -     -        16226    0    0 
+davegood  974651829  8  2 Bk  kf    -     -        16226  800    0 
+davegood  974651902  7  1 Bc  b     -     -        15426 3200  675 7h Tc
+davegood  974651957  7  7 f   -     -     -        12901    0    0 
+davegood  974652029  7  6 f   -     -     -        12901    0    0 
+davegood  974652094  7  5 f   -     -     -        12901    0    0 
+davegood  974652140  7  4 cc  k     b     k        12901 6600 14400 4c Ah
+davegood  974652198  7  3 c   k     f     -        20701 1600    0 
+davegood  974652254  6  2 Bk  f     -     -        19101 1600    0 
+davegood  974652305  6  1 Bf  -     -     -        17501  800    0 
+davegood  974652348  6  6 f   -     -     -        16701    0    0 
+davegood  974652380  5  5 f   -     -     -        16701    0    0 
+davegood  974652407  5  4 c   kf    -     -        16701 1600    0 
+davegood  974652448  5  3 f   -     -     -        15101    0    0 
+davegood  974652458  5  2 Bk  k     k     k        15101 1600    0 5d Qc
+davegood  974652491  5  1 Bc  b     -     -        13501 4800 6400 
+davegood  974652528  5  5 c   k     k     f        15101 1600    0 
+davegood  974652600  5  4 f   -     -     -        13501    0    0 
+davegood  974652608  5  3 c   k     f     -        13501 3200    0 
+davegood  974652639  5  2 BrA -     -     -        10301 10301 24869 Kc Ks
+davegood  974652672  4  1 Bf  -     -     -        24869 1600    0 
+davegood  974652699  3  3 f   -     -     -        23269    0    0 
+davegood  974652709  3  3 f   -     -     -        23269    0    0 
+davegood  974652718  3  2 BcA -     -     -        23269 23269    0 4h Ks
+davegood  974653000 14  7 c   kc    k     k         2500   90    0 Kc 3c
+davegood  974653092 14  6 f   -     -     -         2410    0    0 
+davegood  974653142 14  5 f   -     -     -         2410    0    0 
+davegood  974653229 14  4 f   -     -     -         2410    0    0 
+davegood  974653292 14  3 c   kr    kc    kf        2410  861    0 
+davegood  974653411 13  2 Bk  k     kc    kc        1549  385    0 4d 4c
+davegood  974653534 13  1 Bf  -     -     -         1164   10    0 
+davegood  974653657 13 13 f   -     -     -         1154    0    0 
+davegood  974653761 13 12 c   k     f     -         1154   20    0 
+davegood  974653879 13 11 f   -     -     -         1134    0    0 
+davegood  974654009 12 10 f   -     -     -         1134    0    0 
+davegood  974654097 12  9 f   -     -     -         1134    0    0 
+davegood  974654184 12  8 f   -     -     -         1134    0    0 
+davegood  974654292 11  6 f   -     -     -         1134    0    0 
+davegood  974654352 11  5 f   -     -     -         1134    0    0 
+davegood  974654415 10  4 f   -     -     -         1134    0    0 
+davegood  974654451 10  3 f   -     -     -         1134    0    0 
+davegood  974654485 10  2 Bk  kf    -     -         1134   80    0 
+davegood  974654508 10  1 Bf  -     -     -         1054   40    0 
+davegood  974654569 10 10 f   -     -     -         1014    0    0 
+davegood  974654602 10  9 f   -     -     -         1014    0    0 
+davegood  974654628 10  8 f   -     -     -         1014    0    0 
+davegood  974654653 10  7 f   -     -     -         1014    0    0 
+davegood  974654696 10  6 f   -     -     -         1014    0    0 
+davegood  974654742  9  4 f   -     -     -         1014    0    0 
+davegood  974654841  7  2 Bf  -     -     -         1014   80    0 
+davegood  974654855  7  1 Bf  -     -     -          934   40    0 
+davegood  974654909  7  7 f   -     -     -          894    0    0 
+davegood  974654950  7  6 f   -     -     -          894    0    0 
+davegood  974654993  7  5 f   -     -     -          894    0    0 
+davegood  974655018  7  4 f   -     -     -          894    0    0 
+davegood  974655051  7  3 f   -     -     -          894    0    0 
+davegood  974655059  7  2 B   -     -     -          894  160  240 
+davegood  974655067  7  1 Bf  -     -     -          974   80    0 
+davegood  974655074  7  7 f   -     -     -          894    0    0 
+davegood  974655089  7  6 f   -     -     -          894    0    0 
+davegood  974655126  7  5 f   -     -     -          894    0    0 
+davegood  974655153  7  4 f   -     -     -          894    0    0 
+davegood  974655201  7  3 f   -     -     -          894    0    0 
+davegood  974655265  7  2 Bk  kf    -     -          894  160    0 
+davegood  974655316  7  1 Bf  -     -     -          734   80    0 
+davegood  974655343  7  7 f   -     -     -          654    0    0 
+davegood  974655381  7  6 f   -     -     -          654    0    0 
+davegood  974655417  7  5 f   -     -     -          654    0    0 
+davegood  974655470  7  4 f   -     -     -          654    0    0 
+davegood  974655503  6  2 Bk  k     k     k          654  320  960 Qs 7s
+davegood  974655554  6  1 Bf  -     -     -         1294  160    0 
+davegood  974655564  6  6 f   -     -     -         1134    0    0 
+davegood  974655585  6  5 f   -     -     -         1134    0    0 
+davegood  974655611  6  4 f   -     -     -         1134    0    0 
+davegood  974655646  6  3 f   -     -     -         1134    0    0 
+davegood  974655676  6  2 Bf  -     -     -         1134  320    0 
+davegood  974655687  6  1 Bf  -     -     -          814  160    0 
+davegood  974655742  6  6 f   -     -     -          654    0    0 
+davegood  974655796  6  5 f   -     -     -          654    0    0 
+davegood  974655831  6  4 f   -     -     -          654    0    0 
+davegood  974655873  6  3 f   -     -     -          654    0    0 
+davegood  974655894  6  2 Bk  f     -     -          654  640    0 
+davegood  974655920  4  1 BA  -     -     -           14   14   28 8h 3h
+davegood  974655928  4  4 f   -     -     -           28    0    0 
+davegood  974655962  4  3 f   -     -     -           28    0    0 
+davegood  974655985  3  2 BA  -     -     -           28   28   84 8h 7s
+davegood  974655996  3  1 BA  -     -     -           84   84    0 Qc Kh
+davegood  974659642 12  6 f   -     -     -         5000    0    0 
+davegood  974659728 12  5 f   -     -     -         5000    0    0 
+davegood  974659772 12  4 f   -     -     -         5000    0    0 
+davegood  974659837 12  3 f   -     -     -         5000    0    0 
+davegood  974659873 12  2 Bf  -     -     -         5000   50    0 
+davegood  974659958 12  1 Bf  -     -     -         4950   50    0 
+davegood  974660056 12 12 f   -     -     -         4900    0    0 
+davegood  974660119 10 10 f   -     -     -         4900    0    0 
+davegood  974660163 10  9 f   -     -     -         4900    0    0 
+davegood  974660240 10  8 f   -     -     -         4900    0    0 
+davegood  974660264 10  7 f   -     -     -         4900    0    0 
+davegood  974660305  9  5 f   -     -     -         4900    0    0 
+davegood  974660341  9  5 f   -     -     -         4900    0    0 
+davegood  974660408  8  3 f   -     -     -         4900    0    0 
+davegood  974660506  8  2 Bk  kf    -     -         4900  200    0 
+davegood  974660537  8  1 Bf  -     -     -         4700  100    0 
+davegood  974660586  8  8 f   -     -     -         4600    0    0 
+davegood  974660610  8  7 f   -     -     -         4600    0    0 
+davegood  974660653  8  6 f   -     -     -         4600    0    0 
+davegood  974660695  8  5 f   -     -     -         4600    0    0 
+davegood  974660753  8  4 f   -     -     -         4600    0    0 
+davegood  974660807  8  3 f   -     -     -         4600    0    0 
+davegood  974660820  8  2 Bk  kf    -     -         4600  400    0 
+davegood  974660877  8  1 Bf  -     -     -         4200  200    0 
+davegood  974660888  8  8 f   -     -     -         4000    0    0 
+davegood  974660939  8  7 f   -     -     -         4000    0    0 
+davegood  974660985  7  5 f   -     -     -         4000    0    0 
+davegood  974661021  6  4 f   -     -     -         4000    0    0 
+davegood  974661054  6  3 f   -     -     -         4000    0    0 
+davegood  974661092  6  2 Bk  kf    -     -         4000  800    0 
+davegood  974661116  6  1 Bf  -     -     -         3200  400    0 
+davegood  974661128  6  6 f   -     -     -         2800    0    0 
+davegood  974661146  6  5 f   -     -     -         2800    0    0 
+davegood  974661176  6  4 f   -     -     -         2800    0    0 
+davegood  974661190  6  3 f   -     -     -         2800    0    0 
+davegood  974661214  6  2 Bk  k     kf    -         2800  800    0 
+davegood  974661265  6  1 Bc  k     kcA   -         2000 2000    0 3h Tc
+davegood  974662073 12  1 Bc  kc    k     bcA      10000 10000 11500 Ts Qc
+davegood  974662165 12 12 f   -     -     -        11500    0    0 
+davegood  974662295 12 11 f   -     -     -        11500    0    0 
+davegood  974662414 12 10 f   -     -     -        11500    0    0 
+davegood  974662523 11  8 f   -     -     -        11500    0    0 
+davegood  974662592 11  7 cc  c     c     -        11500 9650    0 Js 4s
+davegood  974662651 11  6 f   -     -     -         1850    0    0 
+davegood  974662706 10  4 f   -     -     -         1850    0    0 
+davegood  974662736 10  3 ccA -     -     -         1850 1850    0 Ah 6s
+davegood  974664280 12  2 Bk  kf    -     -        10000  100    0 
+davegood  974664399 12  1 Bc  kf    -     -         9900  650    0 
+davegood  974664470 12 12 c   c     k     c         9250 2300    0 7d Ad
+davegood  974664561 12 11 c   k     c     f         6950 2400    0 
+davegood  974664644 12 10 ccA -     -     -         4550 4550    0 2c 2h
+davegood  974676087 20  1 Bf  -     -     -        10000   25    0 
+davegood  974676187 18 18 f   -     -     -         9975    0    0 
+davegood  974676305 17 16 c   c     c     cA        9975 9975 23000 Qs Qd
+davegood  974676461 17 15 c   f     -     -        23000  475    0 
+davegood  974676575 16 13 f   -     -     -        22525    0    0 
+davegood  974676684 16 12 f   -     -     -        22525    0    0 
+davegood  974676737 16 11 f   -     -     -        22525    0    0 
+davegood  974676795 16 10 f   -     -     -        22525    0    0 
+davegood  974676915 14  8 f   -     -     -        22525    0    0 
+davegood  974676998 14  8 f   -     -     -        22525    0    0 
+davegood  974677113 14  7 f   -     -     -        22525    0    0 
+davegood  974677189 14  6 f   -     -     -        22525    0    0 
+davegood  974677268 14  5 f   -     -     -        22525    0    0 
+davegood  974677345 13  4 f   -     -     -        22525    0    0 
+davegood  974677421 11  3 f   -     -     -        22525    0    0 
+davegood  974677504 11  2 Bf  -     -     -        22525  400    0 
+davegood  974677527 10  1 Bf  -     -     -        22125  200    0 
+davegood  974677550 10 10 f   -     -     -        21925    0    0 
+davegood  974677638  9  8 f   -     -     -        21925    0    0 
+davegood  974677682  8  6 f   -     -     -        21925    0    0 
+davegood  974677702  8  5 f   -     -     -        21925    0    0 
+davegood  974677735  7  3 f   -     -     -        21925    0    0 
+davegood  974677766  6  2 Bk  k     k     k        21925  800 2000 Js 5c
+davegood  974677796  6  1 Bf  -     -     -        23125  400    0 
+davegood  974677825  6  6 f   -     -     -        22725    0    0 
+davegood  974677834  6  5 f   -     -     -        22725    0    0 
+davegood  974677847  6  4 f   -     -     -        22725    0    0 
+davegood  974677851  6  3 f   -     -     -        22725    0    0 
+davegood  974677856  6  2 Bk  kf    -     -        22725  800    0 
+davegood  974677873  6  1 Bf  -     -     -        21925  400    0 
+davegood  974677885  6  6 f   -     -     -        21525    0    0 
+davegood  974677909  6  5 f   -     -     -        21525    0    0 
+davegood  974677941  6  4 f   -     -     -        21525    0    0 
+davegood  974677961  6  3 f   -     -     -        21525    0    0 
+davegood  974677982  6  2 Bk  f     -     -        21525  800    0 
+davegood  974677997  6  1 Bf  -     -     -        20725  400    0 
+davegood  974678014  6  6 f   -     -     -        20325    0    0 
+davegood  974678035  6  5 f   -     -     -        20325    0    0 
+davegood  974678054  6  4 f   -     -     -        20325    0    0 
+davegood  974678094  6  3 f   -     -     -        20325    0    0 
+davegood  974678115  6  2 Bf  -     -     -        20325 1600    0 
+davegood  974678127  6  1 Bf  -     -     -        18725  800    0 
+davegood  974678149  6  6 f   -     -     -        17925    0    0 
+davegood  974678174  6  5 f   -     -     -        17925    0    0 
+davegood  974678190  6  4 f   -     -     -        17925    0    0 
+davegood  974678208  6  3 f   -     -     -        17925    0    0 
+davegood  974678234  5  2 Bf  -     -     -        17925 1600    0 
+davegood  974678246  5  1 Bf  -     -     -        16325  800    0 
+davegood  974678265  5  5 f   -     -     -        15525    0    0 
+davegood  974678296  5  4 f   -     -     -        15525    0    0 
+davegood  974678320  5  3 f   -     -     -        15525    0    0 
+davegood  974678344  5  2 Bf  -     -     -        15525 1600    0 
+davegood  974678350  5  1 Bf  -     -     -        13925  800    0 
+davegood  974678365  5  5 f   -     -     -        13125    0    0 
+davegood  974678395  5  4 f   -     -     -        13125    0    0 
+davegood  974678406  5  3 f   -     -     -        13125    0    0 
+davegood  974678442  5  2 Bf  -     -     -        13125 1600    0 
+davegood  974678454  5  1 Bf  -     -     -        11525  800    0 
+davegood  974678482  5  5 f   -     -     -        10725    0    0 
+davegood  974678491  5  4 f   -     -     -        10725    0    0 
+davegood  974678508  5  3 f   -     -     -        10725    0    0 
+davegood  974678514  5  2 Bf  -     -     -        10725 3200    0 
+davegood  974678539  5  1 Bf  -     -     -         7525 1600    0 
+davegood  974678563  5  5 f   -     -     -         5925    0    0 
+davegood  974678575  5  4 f   -     -     -         5925    0    0 
+davegood  974678594  5  3 f   -     -     -         5925    0    0 
+davegood  974678601  5  2 Bf  -     -     -         5925 3200    0 
+davegood  974678609  5  1 Bf  -     -     -         2725 1600    0 
+davegood  974678631  5  5 f   -     -     -         1125    0    0 
+davegood  974678654  5  4 f   -     -     -         1125    0    0 
+davegood  974678676  5  3 f   -     -     -         1125    0    0 
+davegood  974678707  5  2 BA  -     -     -         1125 1125    0 3c 9d
+davegood  974686608 23 17 cf  -     -     -        10000  100    0 
+davegood  974686750 20 15 f   -     -     -         9900    0    0 
+davegood  974686854 20 14 f   -     -     -         9900    0    0 
+davegood  974686925 19 12 f   -     -     -         9900    0    0 
+davegood  974686999 17  9 f   -     -     -         9900    0    0 
+davegood  974687065 17  8 f   -     -     -         9900    0    0 
+davegood  974687120 17  7 f   -     -     -         9900    0    0 
+davegood  974687256 16  6 cc  f     -     -         9900 1300    0 
+davegood  974687309 16  5 f   -     -     -         8600    0    0 
+davegood  974687365 15  4 f   -     -     -         8600    0    0 
+davegood  974687473 15  3 f   -     -     -         8600    0    0 
+davegood  974687564 15  2 Bk  kcrA  -     -         8600 8600    0 9h Qc
+davegood  975194239 13 11 c   f     -     -        10000  100    0 
+davegood  975194317 13 10 f   -     -     -         9900    0    0 
+davegood  975194394 13  9 f   -     -     -         9900    0    0 
+davegood  975194463 12  8 f   -     -     -         9900    0    0 
+davegood  975194530 11  6 f   -     -     -         9900    0    0 
+davegood  975194563 10  5 cf  -     -     -         9900  700    0 
+davegood  975194619 10  4 f   -     -     -         9200    0    0 
+davegood  975194664 10  3 cc  kf    -     -         9200 2222    0 
+davegood  975194751 10  2 Bf  -     -     -         6978  200    0 
+davegood  975194812  9  1 Bc  kc    kcA   -         6778 6778    0 Jd 9h
+davegood  975210223 15  7 c   k     b     -         5000  320  512 
+davegood  975210339 15  6 f   -     -     -         5192    0    0 
+davegood  975210394 14  4 f   -     -     -         5192    0    0 
+davegood  975210530 14  4 f   -     -     -         5192    0    0 
+davegood  975210590 14  3 f   -     -     -         5192    0    0 
+davegood  975210619 13  2 Bf  -     -     -         5192  128    0 
+davegood  975210705 13  1 Bc  kf    -     -         5064  128    0 
+davegood  975210743 13 13 f   -     -     -         4936    0    0 
+davegood  975210788 13 12 c   cA    -     -         4936 4936    0 2h Ah
+davegood  975254775 17 17 f   -     -     -        10000    0    0 
+davegood  975254850 16 15 r   b     b     -        10000 3290 4740 
+davegood  975255003 16 14 f   -     -     -        11450    0    0 
+davegood  975255098 16 13 f   -     -     -        11450    0    0 
+davegood  975255184 15 11 cc  f     -     -        11450  160    0 
+davegood  975255239 15 10 c   rrA   -     -        11290 11290 22980 Ts Ad
+davegood  975255287 15  9 f   -     -     -        22980    0    0 
+davegood  975255356 15  8 f   -     -     -        22980    0    0 
+davegood  975255411 15  7 f   -     -     -        22980    0    0 
+davegood  975255450 13  6 f   -     -     -        22980    0    0 
+davegood  975255521 13  5 f   -     -     -        22980    0    0 
+davegood  975255628 12  4 f   -     -     -        22980    0    0 
+davegood  975255690 12  3 f   -     -     -        22980    0    0 
+davegood  975255762 12  2 Bc  kc    kf    -        22980  880    0 
+davegood  975255806 12  1 Bcc kc    b     -        22100 3200 4320 
+davegood  975255863 12 12 f   -     -     -        23220    0    0 
+davegood  975255934 12 11 r   b     -     -        23220  840 1280 
+davegood  975256010 12 10 f   -     -     -        23660    0    0 
+davegood  975256042 12  9 f   -     -     -        23660    0    0 
+davegood  975256083 12  8 f   -     -     -        23660    0    0 
+davegood  975256186 12  7 f   -     -     -        23660    0    0 
+davegood  975256217 12  6 f   -     -     -        23660    0    0 
+davegood  975256259 12  5 f   -     -     -        23660    0    0 
+davegood  975256307 12  4 c   bc    kc    kc       23660 8210    0 9c Tc
+davegood  975256427 12  3 cc  k     kf    -        15450  720    0 
+davegood  975256564 12  2 Bc  kc    kc    -        14730 8280    0 5s Ad
+davegood  975256637 12  1 Bc  kf    -     -         6450  320    0 
+davegood  975256745 12 12 f   -     -     -         6130    0    0 
+davegood  975256811 12 11 cc  cA    -     -         6130 6130    0 4h Ad
+davegood  975271040 23  1 Bf  -     -     -        10000   25    0 
+davegood  975271125 21 21 c   k     k     b         9975  350  900 Jh Ks
+davegood  975271277 21 20 c   f     -     -        10525  225    0 
+davegood  975271394 20 18 f   -     -     -        10300    0    0 
+davegood  975271453 19 16 f   -     -     -        10300    0    0 
+davegood  975271548 19 15 f   -     -     -        10300    0    0 
+davegood  975271683 19 14 c   f     -     -        10300  100    0 
+davegood  975271776 19 13 f   -     -     -        10200    0    0 
+davegood  975271882 19 12 c   c     c     -        10200 2550 7500 8s 8h
+davegood  975271947 17  9 f   -     -     -        15150    0    0 
+davegood  975272082 17  9 f   -     -     -        15150    0    0 
+davegood  975272192 17  8 f   -     -     -        15150    0    0 
+davegood  975272269 17  7 f   -     -     -        15150    0    0 
+davegood  975272365 17  6 f   -     -     -        15150    0    0 
+davegood  975272426 17  5 c   k     kf    -        15150  200    0 
+davegood  975272533 17  4 cf  -     -     -        14950  400    0 
+davegood  975272591 17  3 f   -     -     -        14550    0    0 
+davegood  975272632 16  2 Bf  -     -     -        14550  400    0 
+davegood  975272696 15  1 Bf  -     -     -        14150  200    0 
+davegood  975272771 15 15 f   -     -     -        13950    0    0 
+davegood  975272837 14 13 f   -     -     -        13950    0    0 
+davegood  975272904 14 12 c   f     -     -        13950  400    0 
+davegood  975272981 14 11 cc  c     c     -        13550 12250    0 Kd 3d
+davegood  975273045 13  9 rA  -     -     -         1300 1300 6400 8d 8s
+davegood  975273098 13  8 f   -     -     -         6400    0    0 
+davegood  975273126 13  7 f   -     -     -         6400    0    0 
+davegood  975273179 13  6 crA -     -     -         6400 6400    0 Ad 5c
+davegood  975274848 20 20 f   -     -     -        10000    0    0 
+davegood  975274901 20 19 f   -     -     -        10000    0    0 
+davegood  975275066 20 18 f   -     -     -        10000    0    0 
+davegood  975275177 19 16 f   -     -     -        10000    0    0 
+davegood  975275367 19 15 c   f     -     -        10000  100    0 
+davegood  975275447 19 14 f   -     -     -         9900    0    0 
+davegood  975275525 16 12 c   b     f     -         9900  650    0 
+davegood  975275608 16 11 f   -     -     -         9250    0    0 
+davegood  975275749 16 10 f   -     -     -         9250    0    0 
+davegood  975275800 16  9 c   c     kf    -         9250  800    0 
+davegood  975275955 16  8 c   f     -     -         8450  200    0 
+davegood  975276095 16  7 f   -     -     -         8250    0    0 
+davegood  975276162 16  6 c   f     -     -         8250  200    0 
+davegood  975276279 16  5 f   -     -     -         8050    0    0 
+davegood  975276366 15  4 cf  -     -     -         8050  200    0 
+davegood  975276440 14  3 c   f     -     -         7850  400    0 
+davegood  975276512 14  2 Bf  -     -     -         7450  400    0 
+davegood  975276591 14  1 Bc  kf    -     -         7050  400    0 
+davegood  975276679 14 14 f   -     -     -         6650    0    0 
+davegood  975276739 14 13 f   -     -     -         6650    0    0 
+davegood  975276827 14 12 f   -     -     -         6650    0    0 
+davegood  975276911 14 11 f   -     -     -         6650    0    0 
+davegood  975276970 14 10 f   -     -     -         6650    0    0 
+davegood  975277025 13  8 f   -     -     -         6650    0    0 
+davegood  975277078 12  6 f   -     -     -         6650    0    0 
+davegood  975277190 12  6 f   -     -     -         6650    0    0 
+davegood  975277255 12  5 f   -     -     -         6650    0    0 
+davegood  975277379 12  4 f   -     -     -         6650    0    0 
+davegood  975277456 11  3 f   -     -     -         6650    0    0 
+davegood  975277536 11  2 Bf  -     -     -         6650 1600    0 
+davegood  975277600 11  1 Bf  -     -     -         5050  800    0 
+davegood  975277776 11 11 f   -     -     -         4250    0    0 
+davegood  975277849 10  9 f   -     -     -         4250    0    0 
+davegood  975277871 10  8 f   -     -     -         4250    0    0 
+davegood  975277916 10  7 f   -     -     -         4250    0    0 
+davegood  975277945 10  6 f   -     -     -         4250    0    0 
+davegood  975277996  8  5 f   -     -     -         4250    0    0 
+davegood  975278027  7  3 f   -     -     -         4250    0    0 
+davegood  975278047  7  2 Bf  -     -     -         4250 3200    0 
+davegood  975278060  7  1 BA  -     -     -         1050 1050 2100 Th Qs
+davegood  975278067  7  7 f   -     -     -         2100    0    0 
+davegood  975278096  7  6 f   -     -     -         2100    0    0 
+davegood  975278123  7  5 f   -     -     -         2100    0    0 
+davegood  975278170  7  4 f   -     -     -         2100    0    0 
+davegood  975278184  7  3 f   -     -     -         2100    0    0 
+davegood  975278208  7  2 BA  -     -     -         2100 2100 7900 Ac Jh
+davegood  975278298  7  1 Bf  -     -     -         7900 1600    0 
+davegood  975278323  7  7 f   -     -     -         6300    0    0 
+davegood  975278344  7  6 f   -     -     -         6300    0    0 
+davegood  975278384  7  5 f   -     -     -         6300    0    0 
+davegood  975278410  7  4 f   -     -     -         6300    0    0 
+davegood  975278509  7  3 f   -     -     -         6300    0    0 
+davegood  975278570  7  2 BA  -     -     -         6300 6300    0 2c Jh
+davegood  975289864 13  3 cc  kf    -     -        10000  450    0 
+davegood  975290005 12  2 Bk  kf    -     -         9550  100    0 
+davegood  975290103 12  1 Bc  k     k     kf        9450  100    0 
+davegood  975290166 12 12 f   -     -     -         9350    0    0 
+davegood  975290243 12 11 c   k     f     -         9350  200    0 
+davegood  975290371 12 10 f   -     -     -         9150    0    0 
+davegood  975290421 12  9 f   -     -     -         9150    0    0 
+davegood  975290479 12  8 f   -     -     -         9150    0    0 
+davegood  975290523 12  7 f   -     -     -         9150    0    0 
+davegood  975290559 12  6 c   f     -     -         9150 1400    0 
+davegood  975290609 12  5 c   bcA   -     -         7750 7750 24650 7s 8s
+davegood  975290670 11  4 f   -     -     -        24650    0    0 
+davegood  975290751 10  3 c   kc    kc    -        24650 5000    0 Td Ac
+davegood  975290815 10  2 Bk  c     k     c        19650 12800    0 9d 3s
+davegood  975290893 10  1 Bc  kcA   -     -         6850 6850    0 Tc 4s

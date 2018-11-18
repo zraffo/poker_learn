@@ -1,0 +1,392 @@
+times     845542658  4  2 Bk  bc    kc    kf        1000   50    0 
+times     845542704  4  1 Bc  k     kf    -          950   20    0 
+times     845542747  4  4 f   -     -     -          930    0    0 
+times     845542759  4  3 f   -     -     -          930    0    0 
+times     845542805  4  2 Bc  kc    kc    kc         930   70  165 6s 7s
+times     845542846  4  1 Bc  kc    kc    kc        1025   60    0 Kd Js
+times     845542883  4  4 c   k     f     -          965   20    0 
+times     845542914  4  3 f   -     -     -          945    0    0 
+times     845542927  4  2 Bk  kf    -     -          945   10    0 
+times     845542962  4  1 Bcc kf    -     -          935   20    0 
+times     845542985  4  4 f   -     -     -          915    0    0 
+times     845543008  4  3 c   k     k     f          915   10    0 
+times     845543063  4  2 Bk  kf    -     -          905   10    0 
+times     845543093  4  1 Bf  -     -     -          895    5    0 
+times     845543140  4  4 c   c     rc    c          890  100    0 Kc Kd
+times     845543187  4  3 c   -     -     -          790   10   25 
+times     845543316  3  1 Bf  -     -     -          805   10    0 
+times     845543329  3  1 Bc  kc    kc    b          795   60  110 
+times     845543434  2  2 f   -     -     -          845    0    0 
+times     845543441  2  2 B   -     -     -          845   10   15 
+times     845543450  2  1 Bc  k     kf    -          850   10    0 
+times     845543478  2  2 Bf  -     -     -          840   10    0 
+times     845543486  2  1 Bf  -     -     -          830    5    0 
+times     845543492  2  2 Bk  c     c     f          825   40    0 
+times     845543514  2  1 Br  kc    k     kc         785   50    0 Ah Tc
+times     845543544  3  2 Bf  -     -     -          735   10    0 
+times     845543554  3  1 Bf  -     -     -          725    5    0 
+times     845543588  3  3 f   -     -     -          720    0    0 
+times     845543610  3  2 Bk  k     k     k          720   10   20 Jh 7h
+times     845543638  3  1 Bf  -     -     -          730    5    0 
+times     845543672  3  3 f   -     -     -          725    0    0 
+times     845543694  3  2 Bk  k     k     b          725   30   40 
+times     845543727  3  1 Bf  -     -     -          735    5    0 
+times     845543771  3  3 f   -     -     -          730    0    0 
+times     845543807  3  2 Bf  -     -     -          730   10    0 
+times     845543822  3  1 Bc  k     k     b          720   30   50 
+times     845543866  3  3 f   -     -     -          740    0    0 
+times     845543871  3  2 Br  b     -     -          740   30   50 
+times     845543897  3  1 Bf  -     -     -          760    5    0 
+times     845543911  3  3 crc rc    c     c          755  110    0 Qs Qc
+times     845543951  3  2 Bk  c     k     k          645   20   40 Ac 9h
+times     845543992  3  1 Br  kc    kc    kc         665   70    0 Kh Jh
+times     845544027  3  3 f   Q     -     -          595    0    0 
+times     845800276  2  2 Brrc c     r     rc         195  160    0 4d 4s
+times     845800304  2  1 Bc  kf    -     -           35   10    0 
+times     845800325  2  2 Bf  -     -     -           25   10    0 
+times     845800332  2  1 BrA -     -     -           15   15   30 9d 7d
+times     845800337  2  2 Bk  b     -     -           30   20   30 
+times     845800357  2  1 Br  bcA   -     -           40   40    0 Tc Jc
+times     845800400  2  2 B   -     -     -         1000   10   15 
+times     845800402  2  1 Bf  -     -     -         1005    5    0 
+times     845800406  2  2 B   -     -     -         1000   10   15 
+times     845800409  2  1 Bc  b     -     -         1005   20   30 
+times     845800419  2  2 Bc  f     -     -         1015   20    0 
+times     845800433  2  1 Bc  k     bc    bc         995   90    0 Kh 9d
+times     845800455  2  2 B   -     -     -          905   10   15 
+times     845800458  2  1 Bc  k     kc    k          910   30    0 Ks Td
+times     845800484  2  2 Bk  k     f     -          880   10    0 
+times     845800502  2  1 Bc  k     kc    k          870   30   60 Td Js
+times     845800521  2  2 B   -     -     -          900   10   15 
+times     845800524  2  1 Bf  -     -     -          905    5    0 
+times     845800528  2  2 Bc  k     c     k          900   40    0 3c 3h
+times     845800545  2  1 Bcc k     kc    kf         860   40    0 
+times     845800581  2  2 Bk  k     k     k          820   10    0 Qh 6d
+times     845800598  2  1 Bc  b     -     -          810   20   30 
+times     845800613  2  2 Bk  b     -     -          820   20   30 
+times     845800621  2  1 Bf  -     -     -          830    5    0 
+times     845800625  2  2 B   -     -     -          825   10   15 
+times     845800627  2  1 Bf  -     -     -          830    5    0 
+times     845800632  2  2 B   -     -     -          825   10   15 
+times     845800634  2  1 Bc  kc    kr    k          830   60  120 Ac Kc
+times     845800659  2  2 Bf  -     -     -          890   10    0 
+times     845800666  2  1 Bf  -     -     -          880    5    0 
+times     845800670  2  2 B   -     -     -          875   10   15 
+times     845800672  2  1 Bc  k     k     b          880   30   40 
+times     845800693  2  2 B   -     -     -          890   10   15 
+times     845800696  2  1 Bc  k     k     k          895   10   20 Qh Jh
+times     845800717  2  2 B   -     -     -          905   10   15 
+times     845800720  2  1 Bcc kf    -     -          910   20    0 
+times     845800732  2  2 Bk  f     -     -          890   10    0 
+times     845800748  2  1 Bc  bc    kc    kc         880   70    0 9s Qh
+times     845800771  2  2 Bf  -     -     -          810   10    0 
+times     845800775  2  1 Bc  kf    -     -          800   10    0 
+times     845800789  2  2 Bf  -     -     -          790   10    0 
+times     845800794  2  1 Bc  b     -     -          780   20   30 
+times     845800803  2  2 B   -     -     -          790   10   15 
+times     845800805  2  1 Bc  k     kf    -          795   10    0 
+times     845800819  2  2 Bf  -     -     -          785   10    0 
+times     845800823  2  1 Brc b     kc    kc         775   80   80 Jd 8d
+times     845800845  2  2 B   -     -     -          775   10   15 
+times     845800848  2  1 Bc  bc    kc    bc         780   90    0 Kc 6c
+times     845800881  2  2 B   -     -     -          690   10   15 
+times     845800884  2  1 Bf  -     -     -          695    5    0 
+times     845800890  2  2 B   -     -     -          690   10   15 
+times     845800893  2  1 Bc  bc    b     -          695   50   80 
+times     845800912  2  2 Bk  c     c     k          725   40    0 Ah Td
+times     845800930  2  1 Bf  -     -     -          685    5    0 
+times     845800933  2  2 Bk  k     k     k          680   10   20 3s 8s
+times     845800947  2  1 Bc  kf    -     -          690   10    0 
+times     845800959  2  2 B   -     -     -          680   10   15 
+times     845800960  2  1 Bc  kc    kf    -          685   20    0 
+times     845800977  2  2 Bk  c     rc    c          665  100    0 6h Jh
+times     845801002  2  1 Bc  kf    -     -          565   10    0 
+times     845801025  2  2 B   -     -     -          555   10   15 
+times     845801028  2  1 Bf  -     -     -          560    5    0 
+times     845801031  2  2 Bk  k     k     k          555   10   20 8h 6d
+times     845801048  2  1 Bcf -     -     -          565   10    0 
+times     845801060  2  2 B   -     -     -          555   10   15 
+times     845801063  2  1 Bf  -     -     -          560    5    0 
+times     845801067  2  2 B   -     -     -          555   10   15 
+times     845801070  2  1 Bf  -     -     -          560    5    0 
+times     845801073  2  2 B   -     -     -          555   10   15 
+times     845801075  2  1 Bc  k     kc    kc         560   50  100 Kd 4c
+times     845801095  2  2 Bf  -     -     -          610   10    0 
+times     845801101  2  1 Bc  k     k     k          600   10   20 Kd Qh
+times     845801119  2  2 Bk  k     k     r          610   50  100 Ac Js
+times     845801149  3  1 Bf  -     -     -          660    5    0 
+times     845801191  3  3 f   -     -     -          655    0    0 
+times     845801216  3  2 Bf  -     -     -          655   10    0 
+times     845801227  3  1 Bf  -     -     -          645    5    0 
+times     845801251  3  3 f   -     -     -          640    0    0 
+times     845801281  3  2 Bc  kc    k     kc         640   50    0 2h 3h
+times     845801317  3  1 Bf  -     -     -          590    5    0 
+times     845801324  3  3 f   -     -     -          585    0    0 
+times     845801362  4  2 Bf  -     -     -          585   10    0 
+times     845801386  4  1 Bf  -     -     -          575    5    0 
+times     845801392  4  4 c   c     k     c          570   40   95 Td Th
+times     845801415  4  3 cc  c     b     b          625   70  150 Jh Ah
+times     845801465  5  2 Bk  c     r     b          705   80  140 
+times     845801498  4  1 Bf  -     -     -          765    5    0 
+times     845801509  4  4 c   c     c     k          760   40    0 Ts Kd
+times     845801542  4  3 f   -     -     -          720    0    0 
+times     845801583  4  2 Bf  -     -     -          720   10    0 
+times     845801593  4  1 Bcc kc    k     k          710   40  160 Kh Th
+times     845801645  4  4 f   -     -     -          830    0    0 
+times     845801687  4  3 cc  c     c     f          830   50    0 
+times     845801714  4  2 Bk  kc    c     c          780   60    0 Ts Kh
+times     845801817  4  1 Bf  -     -     -          720    5    0 
+times     845801832  4  4 cc  cc    f     -          715   60    0 
+times     845801893  6  4 f   -     -     -          655    0    0 
+times     845801936  6  3 f   -     -     -          655    0    0 
+times     845801980  7  2 Bf  -     -     -          655   10    0 
+times     845802034  5  1 Bf  -     -     -          645    5    0 
+times     845802088  5  5 cc  k     rc    c          640  100  205 Qs Jd
+times     845802135  4  3 c   cc    c     f          745   60    0 
+times     845802186  5  2 B   -     -     -          685   10   15 
+times     845802195  5  1 Bf  -     -     -          690    5    0 
+times     845802267  6  6 f   -     -     -          685    0    0 
+times     845802345  6  5 cc  bc    kr    b          685  100  240 8d 8c
+times     845802406  5  3 f   -     -     -          825    0    0 
+times     845802436  6  3 f   -     -     -          825    0    0 
+times     845802471  6  2 Bf  -     -     -          825   10    0 
+times     845802489  6  1 Bc  kc    kf    -          815   30    0 
+times     845802543  6  6 f   -     -     -          785    0    0 
+times     845802589  6  5 f   -     -     -          785    0    0 
+times     845802621  6  4 f   -     -     -          785    0    0 
+times     845802669  6  3 c   kc    kc    k          785   40  110 Js Qc
+times     845802715  6  2 Br  br    b     b          855   90  220 Js Jc
+times     845802759  6  1 Bf  -     -     -          985    5    0 
+times     845802791  6  6 cr  b     b     -          980   60  140 
+times     845802847  7  5 f   -     -     -         1060    0    0 
+times     845802898  7  4 cc  kc    kc    k         1060   60  215 9s 9h
+times     845802954  7  3 f   -     -     -         1215    0    0 
+times     845803017  7  2 Bc  kc    kc    c         1215   90    0 Jd Td
+times     845803138  5  1 Bf  -     -     -         1125    5    0 
+times     845803180  6  6 f   -     -     -         1120    0    0 
+times     845803224  6  5 f   -     -     -         1120    0    0 
+times     845803263  6  4 f   -     -     -         1120    0    0 
+times     845803362  6  3 f   -     -     -         1120    0    0 
+times     845803414  6  2 Bf  -     -     -         1120   10    0 
+times     845803463  6  1 Bf  -     -     -         1110    5    0 
+times     845803506  5  5 f   -     -     -         1105    0    0 
+times     845803514  5  4 f   -     -     -         1105    0    0 
+times     845803528  5  3 f   -     -     -         1105    0    0 
+times     845803555  5  2 Bk  c     c     c         1105   60  130 7d 4d
+times     845803591  5  1 Bf  -     -     -         1175    5    0 
+times     845803624  5  5 f   -     -     -         1170    0    0 
+times     845803671  5  4 c   c     c     rrc       1170  140    0 8h 8c
+times     845803712  5  3 cc  c     f     -         1030   30    0 
+times     845803753  5  2 Bcc kc    kr    b         1000  110  265 9s 8h
+times     845803801  5  1 Bf  -     -     -         1155    5    0 
+times     845803869  5  5 f   -     -     -         1150    0    0 
+times     845803920  4  3 f   -     -     -         1150    0    0 
+times     845803932  4  2 Bk  kc    kf    -         1150   20    0 
+times     845803985  4  1 Bf  -     -     -         1130    5    0 
+times     845804022  4  4 f   -     -     -         1125    0    0 
+times     845804037  4  3 f   -     -     -         1125    0    0 
+times     845804051  4  2 B   -     -     -         1125   10   15 
+times     845804062  4  1 Bc  bc    k     kc        1130   50  110 8c 8d
+times     845804099  4  4 f   -     -     -         1190    0    0 
+times     845804108  4  3 f   -     -     -         1190    0    0 
+times     845804125  4  2 Bc  k     kf    -         1190   20    0 
+times     845804162  4  1 Bf  -     -     -         1170    5    0 
+times     845804197  4  4 f   -     -     -         1165    0    0 
+times     845804207  4  3 c   b     b     bc        1165   80    0 8d 9d
+times     845804259  4  2 Bk  kc    kc    kc        1085   60    0 2s Qc
+times     845804299  4  1 Bf  -     -     -         1025    5    0 
+times     845804324  4  4 f   -     -     -         1020    0    0 
+times     845804330  4  3 c   k     k     b         1020   30   50 
+times     845804382  4  2 Bk  kc    kc    br        1040  100    0 7s Tc
+times     845804415  4  1 Bf  -     -     -          940    5    0 
+times     845804431  4  4 fQ  -     -     -          935    0    0 
+times     846310089 12  4 f   -     -     -          935    0    0 
+times     846310240 12  3 f   -     -     -          935    0    0 
+times     846310471 11  2 Bk  kf    -     -          935   10    0 
+times     846310576 10  1 Bf  -     -     -          925    5    0 
+times     846310757  8  8 f   -     -     -          920    0    0 
+times     846310888  8  7 f   -     -     -          920    0    0 
+times     846310967  8  7 f   -     -     -          920    0    0 
+times     846311122 11  7 c   f     -     -          920   10    0 
+times     846311223 12  6 f   -     -     -          910    0    0 
+times     846311362 12  5 cc  kc    k     f          910   40    0 
+times     846311547 12  4 c   k     c     bc         870   70  210 9d Th
+times     846311642 11  3 fQ  -     -     -         1010    0    0 
+times     846400592  3  2 Bc  c     c     c         1010   70  140 Ts 9c
+times     846400625  3  1 Bc  k     b     b         1080   50  130 Tc Kc
+times     846400694  4  4 ccc rc    c     f         1160   90    0 
+times     846400741  4  3 r   rr    b     b         1070  100  240 Js Jc
+times     846400816  4  2 Bf  -     -     -         1210   10    0 
+times     846400848  4  1 Bc  bc    k     b         1200   50   90 
+times     846400883  4  4 f   -     -     -         1240    0    0 
+times     846400925  4  3 f   -     -     -         1240    0    0 
+times     846400960  3  2 Bc  kc    k     k         1240   30   65 9d Qh
+times     846401000  4  1 Bc  k     bc    kc        1275   70    0 6h Jh
+times     846401046  5  5 f   -     -     -         1205    0    0 
+times     846401101  5  4 c   b     b     b         1205   60  140 Ad 3s
+times     846401155  5  3 cc  rc    c     c         1285   90    0 Jc 8s
+times     846401252  4  2 Bf  -     -     -         1195   10    0 
+times     846401310  3  1 Bc  kc    kc    kf        1185   40    0 
+times     846401362  3  3 f   -     -     -         1145    0    0 
+times     846401367  3  2 Bc  kf    -     -         1145   20    0 
+times     846401387  4  1 Bf  -     -     -         1125    5    0 
+times     846401444  5  5 r   b     b     brc       1120  130    0 Ac Ah
+times     846401493  4  3 r   bcc   f     -          990   60    0 
+times     846401545  5  2 Bf  -     -     -          930   10    0 
+times     846401558  5  1 Bc  kc    k     k          920   20   50 5d Ks
+times     846401599  5  5 f   -     -     -          950    0    0 
+times     846401640  5  4 f   -     -     -          950    0    0 
+times     846401682  5  3 f   -     -     -          950    0    0 
+times     846401695  5  2 Bk  ccf   -     -          950   30    0 
+times     846401770  5  1 Brc br    b     b          920  110  240 
+times     846401817  5  5 c   c     c     f         1050   60    0 
+times     846401873  5  4 f   -     -     -          990    0    0 
+times     846401938  5  3 c   c     c     f          990   50    0 
+times     846402017  5  2 Bf  -     -     -          940   10    0 
+times     846402058  6  1 Bc  kcc   kcc   kcc        930  200  280 5h 6d
+times     846402128  6  6 f   -     -     -         1010    0    0 
+times     846402169  6  5 rc  rr    r     r         1010  160  465 
+times     846402278  6  4 r   b     c     kf        1315   50    0 
+times     846402370  5  2 r   -     -     -         1265   20   30 
+times     846402391  5  2 Bc  kc    kc    kc        1275   70  180 8c Qc
+times     846402440  7  1 Bf  -     -     -         1385    5    0 
+times     846402557  8  8 f   -     -     -         1380    0    0 
+times     846402595  8  7 f   -     -     -         1380    0    0 
+times     846402696  7  6 f   -     -     -         1380    0    0 
+times     846402756  6  4 f   -     -     -         1380    0    0 
+times     846402843  6  3 c   kc    kc    k         1380   40    0 5h 5s
+times     846402966  5  1 Bf  -     -     -         1340   10    0 
+times     846403028  6  1 Bf  -     -     -         1330    5    0 
+times     846403119  5  5 c   f     -     -         1325   10    0 
+times     846403165  4  4 f   -     -     -         1315    0    0 
+times     846403189  4  3 c   k     r     brc       1315  130    0 Kc As
+times     846403224  4  2 Br  k     b     -         1185   40   65 
+times     846403247  4  1 Bc  kc    kc    kc        1210   70    0 4c 5c
+times     846403287  5  4 cc  cc    kf    -         1140   60    0 
+times     846403359  5  3 c   k     c     k         1080   30    0 Td 7d
+times     846403404  5  2 Bf  -     -     -         1050   10    0 
+times     846403451  5  1 Bc  kf    -     -         1040   10    0 
+times     846403499  5  5 f   -     -     -         1030    0    0 
+times     846403518  5  4 f   -     -     -         1030    0    0 
+times     846403567  6  3 c   k     k     k         1030   10    0 9c Td
+times     846403617  5  2 Bk  kc    bc    k         1020   60  130 Ks 6h
+times     846403662  5  1 BfQ -     -     -         1090    5    0 
+times     846411047  2  2 Bk  b     -     -         1085   20   30 
+times     846411088  2  1 Bcc kc    kc    kf        1095   50    0 
+times     846411120  2  2 Bc  k     c     f         1045   40    0 
+times     846411157  2  1 Bf  -     -     -         1005    5    0 
+times     846411161  2  2 Bc  c     k     k         1000   30    0 6c Kd
+times     846411184  2  1 Bc  kc    kf    -          970   20    0 
+times     846411212  3  3 r   -     -     -          950   20   45 
+times     846411228  3  2 Bf  -     -     -          975   10    0 
+times     846411236  3  1 Bcc k     kf    -          965   20    0 
+times     846411281  4  4 f   -     -     -          945    0    0 
+times     846411311  4  3 f   -     -     -          945    0    0 
+times     846411350  4  2 Bcc kc    kf    -          945   50    0 
+times     846411397  4  1 Bc  k     kf    -          895   10    0 
+times     846411424  4  4 f   -     -     -          885    0    0 
+times     846411432  4  3 f   -     -     -          885    0    0 
+times     846411458  4  2 Bk  kc    k     kc         885   40    0 6c Td
+times     846411489  4  1 Bf  -     -     -          845    5    0 
+times     846411531  3  3 c   k     k     c          840   30    0 7s 8d
+times     846411562  3  2 Bk  c     k     bc         810   60    0 Qc 7s
+times     846411611  3  1 Br  b     -     -          750   30   60 
+times     846411636  3  3 f   -     -     -          780    0    0 
+times     846411652  3  2 Br  b     -     -          780   30   50 
+times     846411674  3  1 Brc kc    kc    k          800   60    0 9d 9c
+times     846411721  3  3 f   -     -     -          740    0    0 
+times     846411729  3  2 Bk  k     k     b          740   30   60 4s 8s
+times     846411765  3  1 Bc  b     -     -          770   20   40 
+times     846411785  3  3 c   c     c     f          790   50    0 
+times     846411826  3  2 Bk  k     f     -          740   10    0 
+times     846411858  3  1 Bc  k     k     b          730   30   70 Jd Th
+times     846411910  3  3 c   b     b     c          770   60    0 4h 6h
+times     846411977  3  2 Bf  -     -     -          710   10    0 
+times     846411998  3  1 Brc kc    k     k          700   40   90 Jc Qd
+times     846412035  3  3 f   -     -     -          750    0    0 
+times     846412086  3  2 Bk  b     k     b          750   40   60 
+times     846412126  3  1 Bf  -     -     -          770    5    0 
+times     846412134  3  3 r   brc   c     k          765   80  165 Tc Ah
+times     846412166  3  2 Bk  k     k     k          850   10    0 Qs 8s
+times     846412190  3  1 Bc  k     kc    k          840   30   60 Kc 8c
+times     846412216  3  3 f   -     -     -          870    0    0 
+times     846412252  3  2 Br  b     b     b          870   70  120 
+times     846412301  3  1 Bf  -     -     -          920    5    0 
+times     846412332  3  3 c   r     k     k          915   30   70 2h Ac
+times     846412359  3  2 Bf  -     -     -          955   10    0 
+times     846412371  3  1 Bf  -     -     -          945    5    0 
+times     846412397  3  3 f   -     -     -          940    0    0 
+times     846412431  3  2 Br  b     k     k          940   30   30 8d 3s
+times     846412474  3  1 Bc  k     k     kf         940   10    0 
+times     846412514  3  3 cc  b     k     c          930   50    0 Jc Tc
+times     846412549  3  2 Bk  b     -     -          880   20   30 
+times     846412565  3  1 Bc  k     k     k          890   10   30 5s 8s
+times     846412596  3  3 f   -     -     -          910    0    0 
+times     846412632  3  2 Bk  kf    -     -          910   10    0 
+times     846412673  3  1 Bf  -     -     -          900    5    0 
+times     846412683  3  3 f   -     -     -          895    0    0 
+times     846412689  3  2 B   -     -     -          895   10   15 
+times     846412694  3  1 Bc  k     kc    kc         900   50  110 Jc 7d
+times     846412728  3  3 f   -     -     -          960    0    0 
+times     846412740  3  2 Bk  f     -     -          960   10    0 
+times     846412774  3  1 Bcc b     b     -          950   50   90 
+times     846412804  4  4 r   r     b     b          990   80    0 Qc Qd
+times     846412851  4  3 cc  rc    kc    b          910  110  380 9s Ks
+times     846412913  4  2 Bk  kf    -     -         1180   10    0 
+times     846412944  4  1 Bcc kf    -     -         1170   20    0 
+times     846412988  4  4 c   b     k     r         1150   60    0 Td As
+times     846413030  4  3 f   -     -     -         1090    0    0 
+times     846413064  4  2 Bk  b     b     b         1090   60  200 Th Js
+times     846413110  4  1 Bc  k     kf    -         1230   10    0 
+times     846413145  4  4 f   -     -     -         1220    0    0 
+times     846413178  4  3 c   rc    bc    c         1220  100    0 Qc Js
+times     846413216  4  2 Bk  b     k     b         1120   40   60 
+times     846413273  4  1 Bc  kc    b     kc        1140   60  140 Jc 8c
+times     846413320  4  4 c   k     k     f         1220   10    0 
+times     846413380  4  3 f   -     -     -         1210    0    0 
+times     846413393  4  2 Bk  kf    -     -         1210   10    0 
+times     846413437  4  1 Bc  kf    -     -         1200   10    0 
+times     846413503  4  4 cc  r     k     bc        1190   80   95 8c 7h
+times     846413549  4  3 cc  rc    rc    cc        1205  200    0 8d 9h
+times     846413627  4  2 Bk  k     k     k         1005   10    0 5d 7c
+times     846413674  4  1 Bf  -     -     -          995    5    0 
+times     846413718  4  4 c   k     k     k          990   10    0 5s 6h
+times     846413744  4  3 c   b     k     k          980   20   45 Ts Kc
+times     846413775  4  2 Bk  brc   br    rc        1005  190  590 5c Js
+times     846413859  4  1 Bf  -     -     -         1405    5    0 
+times     846413905  4  4 f   -     -     -         1400    0    0 
+times     846413976  4  3 f   -     -     -         1400    0    0 
+times     846414020  4  2 Bk  kc    kc    kf        1400   40    0 
+times     846414061  4  1 Bc  kc    kf    -         1360   20    0 
+times     846414095  4  4 c   k     k     k         1340   10    0 8s 8h
+times     846414132  4  3 c   k     k     b         1330   30   65 Ac 8h
+times     846414169  4  2 Bf  -     -     -         1365   10    0 
+times     846414205  4  1 Br  bc    k     k         1355   40    0 Kd Jh
+times     846414264  4  4 f   -     -     -         1315    0    0 
+times     846414321  4  3 f   -     -     -         1315    0    0 
+times     846414330  4  2 Bk  b     b     -         1315   40   60 
+times     846414358  4  1 Br  bc    kc    k         1335   60    0 9c Qd
+times     846414424  4  4 c   k     c     f         1275   30    0 
+times     846414505  4  3 f   -     -     -         1245    0    0 
+times     846414513  4  2 Br  rr    rc    f         1245  120    0 
+times     846414578  4  1 Bc  k     k     k         1125   10   30 8d 7d
+times     846414617  4  4 c   k     k     k         1145   10    0 Qh As
+times     846414646  4  3 c   k     k     c         1135   30    0 Jh 9s
+times     846414774  4  2 Bk  kf    -     -         1105   10    0 
+times     846414804  4  1 Bc  kc    kc    kc        1095   60    0 8h 5h
+times     846414851  4  3 Q   -     -     -         1035    0    0 
+times     846570581  8  3 f   Q     -     -         1035    0    0 
+times     846571418 10  9 f   Q     -     -         1035    0    0 
+times     846821090  8  8 c   c     c     f         1405   60    0 
+times     846821180 10  9 f   -     -     -         1345    0    0 
+times     846821250 11  9 c   kf    -     -         1345   10    0 
+times     846821339 12  9 c   cc    f     -         1335   60    0 
+times     846821427 12  8 cc  cc    k     k         1275   60    0 Qd Ad
+times     846821545 12  7 c   r     b     b         1215   80  355 9h Jc
+times     846821702 12  6 f   -     -     -         1490    0    0 
+times     846821786 12  5 f   -     -     -         1490    0    0 
+times     846821870 11  4 f   -     -     -         1490    0    0 
+times     846821975 12  3 c   b     bc    kcc       1490  140    0 2h Ad
+times     846822082 12  2 Bf  -     -     -         1350   10    0 
+times     846822163 12  1 Bc  kc    bc    bc        1340  100  290 Ac Jd
+times     846822257 12  4 Q   -     -     -         1530    0    0 
