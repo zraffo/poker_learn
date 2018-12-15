@@ -61,6 +61,7 @@ def stats(df):
     ptc = t.count()
     ptr = ptc / pc
     pev = (pwr * pwm) + (plr * plm)
+    #st = df['stack_perc'].mean()
     ret = {'ev': [pm],
            'count': [pc],
            'won': [pwc],

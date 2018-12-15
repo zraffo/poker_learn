@@ -68,6 +68,7 @@ def __player_df__(player_dir):
                                              'card_2'])
     pbt.loc[:, ['dealt_num', 'pos', 'bank_start', 'amt', 'action']] = \
         pbt.loc[:, ['dealt_num', 'pos', 'bank_start', 'amt', 'action']].apply(pd.to_numeric, downcast='unsigned')
+    pbt['delta_s'] = np.sign(pbt['amt'] - pbt['action'])
     pbt['delta'] = (pbt['amt'] - pbt['action'])
     pbt['total_delta'] = pbt['delta'].cumsum()
     pbt = pbt.set_index(['name', 'timestamp'])

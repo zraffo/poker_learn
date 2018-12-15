@@ -38,11 +38,11 @@ def plot_by(h: pd.DataFrame, feature):
     stdf = pd.concat(st)
     labels = ['Pair', 'No Pair', 'Suited', 'Offsuit', '*Offsuit', 'All Hands']
     stdf.index = pd.Index(labels)
-
-    plt.clf()
-    plt.style.use('ggplot')
+    return stdf.loc[:, [feature]]
+    # plt.clf()
+    # plt.style.use('ggplot')
     # ax.bar(height=winrate, x=labels)
-    stdf.loc[:, [feature]].plot.bar()
+    # stdf.loc[:, [feature]].plot.bar()
     # stdf.loc[:, ["winrate", 'lossrate']].plot.bar()
     # hcs = hcg['delta'].apply(stats)
     # hcd = hcs.reset_index().rename(columns={'deal': 'Hand'}).drop('level_1', axis=1).sort_values('ev', ascending=False)
@@ -52,4 +52,4 @@ def plot_by(h: pd.DataFrame, feature):
     # hcd.plot.scatter(x='count', y='winrate')
     # ad.loc[:, ['c1_val', 'c1_suit', 'c2_val', 'c2_suit']] = ad[['c1_val', 'c1_suit', 'c2_val', 'c2_suit']].applymap(lambda x: ord(x))
     # hcd['count'].plot.normal()
-    plt.show()
+    # plt.show()
